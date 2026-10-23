@@ -1,0 +1,199 @@
+@topic t07
+@ja 科学[かがく]・技術[ぎじゅつ]
+@vi Khoa học và công nghệ
+@desc Vật lý, hóa học, sinh học, vũ trụ, toán và đo lường, máy móc, điện và những từ dùng khi đọc tin công nghệ hay làm việc trong nhà máy.
+科学者[かがくしゃ] | n | KHOA HỌC GIẢ | nhà khoa học | - | - | 子供[こども]のころから科学者[かがくしゃ]になるのが夢[ゆめ]だった。 | Từ nhỏ ước mơ của tôi là trở thành nhà khoa học.
+科学的[かがくてき] | adj-na | KHOA HỌC ĐÍCH | mang tính khoa học | {科学的} な 根拠[こんきょ] | căn cứ khoa học | その健康[けんこう]法[ほう]には科学的[かがくてき]な根拠[こんきょ]がない。 | Phương pháp dưỡng sinh đó không có căn cứ khoa học.
+物理学[ぶつりがく] | n | VẬT LÝ HỌC | vật lý học | - | - | 大学[だいがく]で物理学[ぶつりがく]を専攻[せんこう]した。 | Tôi học chuyên ngành vật lý ở đại học.
+生物[せいぶつ] | n | SINH VẬT | sinh vật | - | - | 深[ふか]い海[うみ]には不思議[ふしぎ]な生物[せいぶつ]がいる。 | Ở biển sâu có những sinh vật kỳ lạ.
+生物学[せいぶつがく] | n | SINH VẬT HỌC | sinh học | - | - | 生物学[せいぶつがく]の授業[じゅぎょう]でカエルを観察[かんさつ]した。 | Trong giờ sinh học chúng tôi quan sát con ếch.
+天文学[てんもんがく] | n | THIÊN VĂN HỌC | thiên văn học | - | - | 天文学[てんもんがく]に興味[きょうみ]がある。 | Tôi quan tâm đến thiên văn học.
+工学[こうがく] | n | CÔNG HỌC | kỹ thuật (ngành học) | {工学} 部[ぶ] | khoa kỹ thuật | 工学[こうがく]部[ぶ]で機械[きかい]を学[まな]んでいる。 | Tôi học cơ khí ở khoa kỹ thuật.
+電子[でんし]工学[こうがく] | n | ĐIỆN TỬ CÔNG HỌC | kỹ thuật điện tử | - | - | 電子[でんし]工学[こうがく]の知識[ちしき]が仕事[しごと]に役立[やくだ]っている。 | Kiến thức kỹ thuật điện tử giúp ích cho công việc.
+生命[せいめい] | n | SINH MỆNH | sự sống, sinh mạng | {生命} の 誕生[たんじょう] | sự ra đời của sự sống | 地球[ちきゅう]の生命[せいめい]の誕生[たんじょう]について研究[けんきゅう]している。 | Đang nghiên cứu về sự ra đời của sự sống trên Trái Đất.
+生命[せいめい]科学[かがく] | n | SINH MỆNH KHOA HỌC | khoa học sự sống | - | - | 生命[せいめい]科学[かがく]は急速[きゅうそく]に進歩[しんぽ]している。 | Khoa học sự sống đang tiến bộ nhanh chóng.
+細胞[さいぼう] | n | TẾ BÀO | tế bào | - | - | 人[ひと]の体[からだ]は数十兆[すうじっちょう]個[こ]の細胞[さいぼう]でできている。 | Cơ thể người được cấu tạo từ hàng chục nghìn tỷ tế bào.
+微生物[びせいぶつ] | n | VI SINH VẬT | vi sinh vật | - | - | 土[つち]の中[なか]には多[おお]くの微生物[びせいぶつ]がいる。 | Trong đất có rất nhiều vi sinh vật.
+発酵[はっこう] | n,v3 | PHÁT DIẾU | lên men | {発酵} 食品[しょくひん] | thực phẩm lên men | 味噌[みそ]や納豆[なっとう]は発酵[はっこう]食品[しょくひん]だ。 | Miso và natto là thực phẩm lên men.
+培養[ばいよう] | n,v3 | BỒI DƯỠNG | nuôi cấy | - | - | 研究室[けんきゅうしつ]で細胞[さいぼう]を培養[ばいよう]している。 | Đang nuôi cấy tế bào trong phòng thí nghiệm.
+突然[とつぜん]変異[へんい] | n | ĐỘT NHIÊN BIẾN DỊ | đột biến | - | - | 突然[とつぜん]変異[へんい]で白[しろ]いトラが生[う]まれた。 | Do đột biến mà một con hổ trắng đã ra đời.
+遺伝子[いでんし]組[く]み換[か]え | n | DI TRUYỀN TỬ TỔ HOÁN | biến đổi gen | {遺伝子[いでんし]組[く]み換[か]え} 食品[しょくひん] | thực phẩm biến đổi gen | 遺伝子[いでんし]組[く]み換[か]え食品[しょくひん]には表示[ひょうじ]が必要[ひつよう]だ。 | Thực phẩm biến đổi gen bắt buộc phải ghi nhãn.
+クローン | n | - | nhân bản vô tính | - | - | クローン技術[ぎじゅつ]には倫理[りんり]的[てき]な問題[もんだい]がある。 | Kỹ thuật nhân bản có vấn đề về đạo đức.
+化石[かせき] | n | HÓA THẠCH | hóa thạch | - | - | 山[やま]で古[ふる]い貝[かい]の化石[かせき]を見[み]つけた。 | Tôi tìm thấy hóa thạch vỏ sò cổ trên núi.
+恐竜[きょうりゅう] | n | KHỦNG LONG | khủng long | - | - | 博物館[はくぶつかん]で恐竜[きょうりゅう]の骨[ほね]を見[み]た。 | Tôi xem xương khủng long ở bảo tàng.
+地層[ちそう] | n | ĐỊA TẦNG | địa tầng | - | - | 崖[がけ]に地層[ちそう]の模様[もよう]が見[み]える。 | Có thể thấy vân địa tầng trên vách đá.
+地殻[ちかく] | n | ĐỊA XÁC | vỏ trái đất | {地殻} 変動[へんどう] | biến động vỏ trái đất | 地殻[ちかく]変動[へんどう]で島[しま]ができた。 | Hòn đảo hình thành do biến động vỏ trái đất.
+プレート | n | - | mảng kiến tạo; tấm | - | - | 日本[にほん]は四[よっ]つのプレートの上[うえ]にある。 | Nhật Bản nằm trên bốn mảng kiến tạo.
+マグニチュード | n | - | độ lớn (động đất) | - | - | マグニチュード七[なな]の地震[じしん]が起[お]きた。 | Đã xảy ra trận động đất độ lớn 7.
+気象庁[きしょうちょう] | n | KHÍ TƯỢNG SẢNH | Cơ quan Khí tượng | - | - | 気象庁[きしょうちょう]が大雨[おおあめ]警報[けいほう]を出[だ]した。 | Cơ quan Khí tượng đã phát cảnh báo mưa lớn.
+原子[げんし] | n | NGUYÊN TỬ | nguyên tử | - | - | 物質[ぶっしつ]は原子[げんし]からできている。 | Vật chất được tạo thành từ nguyên tử.
+分子[ぶんし] | n | PHÂN TỬ | phân tử | - | - | 水[みず]の分子[ぶんし]は水素[すいそ]と酸素[さんそ]でできている。 | Phân tử nước được tạo từ hydro và oxy.
+元素[げんそ] | n | NGUYÊN TỐ | nguyên tố | - | - | 新[あたら]しい元素[げんそ]が日本[にほん]で発見[はっけん]された。 | Một nguyên tố mới đã được phát hiện ở Nhật.
+物質[ぶっしつ] | n | VẬT CHẤT | vật chất, chất | - | - | この物質[ぶっしつ]は水[みず]に溶[と]けない。 | Chất này không tan trong nước.
+化学[かがく]物質[ぶっしつ] | n | HÓA HỌC VẬT CHẤT | hóa chất | - | - | 化学[かがく]物質[ぶっしつ]を扱[あつか]うときは手袋[てぶくろ]をつける。 | Khi xử lý hóa chất phải đeo găng tay.
+有害[ゆうがい]物質[ぶっしつ] | n | HỮU HẠI VẬT CHẤT | chất độc hại | - | - | 工場[こうじょう]から有害[ゆうがい]物質[ぶっしつ]が出[で]ていないか調[しら]べる。 | Kiểm tra xem nhà máy có thải chất độc hại không.
+化合物[かごうぶつ] | n | HÓA HỢP VẬT | hợp chất | - | - | 新[あたら]しい化合物[かごうぶつ]を合成[ごうせい]した。 | Đã tổng hợp được một hợp chất mới.
+化学[かがく]反応[はんのう] | n | HÓA HỌC PHẢN ỨNG | phản ứng hóa học | 化学[かがく]反応[はんのう] が 起[お]こる | xảy ra phản ứng hóa học | 二[ふた]つの液体[えきたい]を混[ま]ぜると化学[かがく]反応[はんのう]が起[お]こる。 | Trộn hai chất lỏng sẽ xảy ra phản ứng hóa học.
+反応[はんのう] | n,v3 | PHẢN ỨNG | phản ứng | 反応[はんのう] が 鈍[にぶ]い | phản ứng chậm | 客[きゃく]の反応[はんのう]を見[み]て商品[しょうひん]を改良[かいりょう]した。 | Xem phản ứng của khách hàng rồi cải tiến sản phẩm.
+合成[ごうせい] | n,v3 | HỢP THÀNH | tổng hợp | {合成} 繊維[せんい] | sợi tổng hợp | このシャツは合成[ごうせい]繊維[せんい]でできている。 | Áo sơ mi này làm bằng sợi tổng hợp.
+天然[てんねん] | n | THIÊN NHIÊN | tự nhiên | {天然} 素材[そざい] | vật liệu tự nhiên | 天然[てんねん]素材[そざい]を使[つか]った化粧品[けしょうひん]が人気[にんき]だ。 | Mỹ phẩm dùng nguyên liệu tự nhiên đang được ưa chuộng.
+水素[すいそ] | n | THỦY TỐ | hydro | - | - | 水素[すいそ]で走[はし]る車[くるま]が開発[かいはつ]された。 | Xe chạy bằng hydro đã được phát triển.
+窒素[ちっそ] | n | TRẤT TỐ | nitơ | - | - | 空気[くうき]の約[やく]八割[はちわり]は窒素[ちっそ]だ。 | Khoảng tám mươi phần trăm không khí là nitơ.
+炭素[たんそ] | n | THÁN TỐ | cacbon | - | - | ダイヤモンドは炭素[たんそ]でできている。 | Kim cương được tạo thành từ cacbon.
+酸性[さんせい] | n | TOAN TÍNH | tính axit | {酸性} 雨[う] | mưa axit | 酸性[さんせい]雨[う]で森[もり]が被害[ひがい]を受[う]けた。 | Rừng bị hại bởi mưa axit.
+アルカリ性[せい] | n | TÍNH | tính kiềm | - | - | 石鹸[せっけん]はアルカリ性[せい]だ。 | Xà phòng có tính kiềm.
+中性[ちゅうせい] | n | TRUNG TÍNH | trung tính | {中性} 洗剤[せんざい] | chất tẩy rửa trung tính | セーターは中性[ちゅうせい]洗剤[せんざい]で洗[あら]ってください。 | Hãy giặt áo len bằng chất tẩy trung tính.
+溶液[ようえき] | n | DUNG DỊCH | dung dịch | - | - | 塩[しお]を水[みず]に溶[と]かして溶液[ようえき]を作[つく]る。 | Hòa tan muối vào nước để tạo dung dịch.
+気体[きたい] | n | KHÍ THỂ | chất khí | - | - | 水[みず]は熱[ねっ]すると気体[きたい]になる。 | Nước khi đun nóng sẽ thành chất khí.
+液体[えきたい] | n | DỊCH THỂ | chất lỏng | - | - | 液体[えきたい]は飛行機[ひこうき]に持[も]ち込[こ]めない。 | Chất lỏng không được mang lên máy bay.
+固体[こたい] | n | CỐ THỂ | chất rắn | - | - | 氷[こおり]は水[みず]が固体[こたい]になったものだ。 | Băng là nước ở thể rắn.
+凝固[ぎょうこ] | n,v3 | NGƯNG CỐ | đông đặc | - | - | 水[みず]は零[れい]度[ど]で凝固[ぎょうこ]する。 | Nước đông đặc ở không độ.
+沸点[ふってん] | n | PHẤT ĐIỂM | điểm sôi | - | - | 山[やま]の上[うえ]では水[みず]の沸点[ふってん]が低[ひく]くなる。 | Trên núi điểm sôi của nước thấp hơn.
+融点[ゆうてん] | n | DUNG ĐIỂM | điểm nóng chảy | - | - | 鉄[てつ]の融点[ゆうてん]は非常[ひじょう]に高[たか]い。 | Điểm nóng chảy của sắt rất cao.
+結晶[けっしょう] | n,v3 | KẾT TINH | tinh thể; kết tinh | 努力[どりょく] の {結晶} | kết tinh của nỗ lực | この作品[さくひん]は長年[ながねん]の努力[どりょく]の結晶[けっしょう]だ。 | Tác phẩm này là kết tinh của nhiều năm nỗ lực.
+粒子[りゅうし] | n | LẠP TỬ | hạt (vật lý) | - | - | 空気[くうき]中[ちゅう]の細[こま]かい粒子[りゅうし]が健康[けんこう]に悪[わる]い。 | Các hạt nhỏ trong không khí có hại cho sức khỏe.
+精製[せいせい] | n,v3 | TINH CHẾ | tinh chế | - | - | 原油[げんゆ]を精製[せいせい]してガソリンを作[つく]る。 | Tinh chế dầu thô để làm xăng.
+燃焼[ねんしょう] | n,v3 | NHIÊN THIÊU | đốt cháy | 脂肪[しぼう] {燃焼} | đốt mỡ | 運動[うんどう]すると脂肪[しぼう]が燃焼[ねんしょう]する。 | Vận động thì mỡ được đốt cháy.
+酸化[さんか] | n,v3 | TOAN HÓA | oxy hóa | - | - | 切[き]ったりんごは酸化[さんか]して茶色[ちゃいろ]くなる。 | Táo cắt ra bị oxy hóa nên chuyển nâu.
+さびる | v2 | - | bị gỉ | 鉄[てつ] が さびる | sắt bị gỉ | 雨[あめ]に濡[ぬ]れて自転車[じてんしゃ]がさびた。 | Xe đạp dính mưa nên bị gỉ.
+腐食[ふしょく] | n,v3 | HỦ THỰC | ăn mòn | - | - | 海[うみ]の近[ちか]くでは金属[きんぞく]が腐食[ふしょく]しやすい。 | Gần biển kim loại dễ bị ăn mòn.
+老朽化[ろうきゅうか] | n,v3 | LÃO HỦ HÓA | xuống cấp do cũ | - | - | 老朽化[ろうきゅうか]した橋[はし]を修理[しゅうり]する。 | Sửa cây cầu đã xuống cấp.
+爆発[ばくはつ] | n,v3 | BỘC PHÁT | nổ; bùng nổ | {爆発} 的[てき] に 売[う]れる | bán chạy như vũ bão | 工場[こうじょう]でガスが爆発[ばくはつ]した。 | Khí ga đã phát nổ trong nhà máy.
+引火[いんか] | n,v3 | DẪN HỎA | bắt lửa | - | - | ガソリンは引火[いんか]しやすいので注意[ちゅうい]してください。 | Xăng dễ bắt lửa nên hãy cẩn thận.
+発火[はっか] | n,v3 | PHÁT HỎA | bốc cháy | - | - | 充電[じゅうでん]中[ちゅう]の電池[でんち]が発火[はっか]した。 | Viên pin đang sạc đã bốc cháy.
+点火[てんか] | n,v3 | ĐIỂM HỎA | đốt, châm lửa | - | - | ガスコンロに点火[てんか]する。 | Châm lửa bếp ga.
+薬品[やくひん] | n | DƯỢC PHẨM | hóa chất, dược phẩm | - | - | 実験[じっけん]用[よう]の薬品[やくひん]は鍵[かぎ]のかかる棚[たな]に入[い]れる。 | Hóa chất thí nghiệm được để trong tủ có khóa.
+試験管[しけんかん] | n | THÍ NGHIỆM QUẢN | ống nghiệm | - | - | 試験管[しけんかん]に液体[えきたい]を入[い]れて温[あたた]めた。 | Cho chất lỏng vào ống nghiệm rồi đun nóng.
+重力[じゅうりょく] | n | TRỌNG LỰC | trọng lực | - | - | 宇宙[うちゅう]では重力[じゅうりょく]がほとんどない。 | Trong vũ trụ gần như không có trọng lực.
+引力[いんりょく] | n | DẪN LỰC | lực hấp dẫn | - | - | 月[つき]の引力[いんりょく]で潮[しお]の満[み]ち引[ひ]きが起[お]こる。 | Thủy triều lên xuống do lực hấp dẫn của Mặt Trăng.
+加速[かそく] | n,v3 | GIA TỐC | tăng tốc | - | - | 車[くるま]が坂道[さかみち]で加速[かそく]した。 | Xe tăng tốc trên đường dốc.
+加速度[かそくど] | n | GIA TỐC ĐỘ | gia tốc | - | - | 物理[ぶつり]の授業[じゅぎょう]で加速度[かそくど]を計算[けいさん]した。 | Trong giờ vật lý chúng tôi tính gia tốc.
+質量[しつりょう] | n | CHẤT LƯỢNG | khối lượng | - | - | 物体[ぶったい]の質量[しつりょう]は場所[ばしょ]が変[か]わっても同[おな]じだ。 | Khối lượng vật thể không đổi dù thay đổi vị trí.
+体積[たいせき] | n | THỂ TÍCH | thể tích | - | - | 水[みず]は凍[こお]ると体積[たいせき]が増[ふ]える。 | Nước đông lại thì thể tích tăng lên.
+密度[みつど] | n | MẬT ĐỘ | mật độ; tỷ trọng | 人口[じんこう] {密度} | mật độ dân số | 東京[とうきょう]は人口[じんこう]密度[みつど]が高[たか]い。 | Tokyo có mật độ dân số cao.
+膨張[ぼうちょう] | n,v3 | BÀNH TRƯỚNG | giãn nở | - | - | 金属[きんぞく]は熱[ねつ]で膨張[ぼうちょう]する。 | Kim loại giãn nở vì nhiệt.
+収縮[しゅうしゅく] | n,v3 | THU SÚC | co lại | - | - | 寒[さむ]いと筋肉[きんにく]が収縮[しゅうしゅく]する。 | Khi lạnh cơ bắp co lại.
+圧縮[あっしゅく] | n,v3 | ÁP SÚC | nén | ファイル を {圧縮} する | nén tệp | 大[おお]きなファイルを圧縮[あっしゅく]して送[おく]った。 | Tôi nén tệp lớn rồi gửi đi.
+伸縮[しんしゅく] | n,v3 | THÂN SÚC | co giãn | - | - | 伸縮[しんしゅく]性[せい]のある生地[きじ]は動[うご]きやすい。 | Vải co giãn dễ cử động.
+弾力[だんりょく] | n | ĐÀN LỰC | độ đàn hồi | 弾力[だんりょく] が ある | có độ đàn hồi | このボールは弾力[だんりょく]がある。 | Quả bóng này có độ đàn hồi tốt.
+真空[しんくう] | n | CHÂN KHÔNG | chân không | {真空} パック | đóng gói hút chân không | 肉[にく]を真空[しんくう]パックで保存[ほぞん]する。 | Bảo quản thịt bằng đóng gói hút chân không.
+密閉[みっぺい] | n,v3 | MẬT BẾ | đóng kín | {密閉} 容器[ようき] | hộp kín | 残[のこ]ったご飯[はん]を密閉[みっぺい]容器[ようき]に入[い]れた。 | Cho cơm thừa vào hộp kín.
+光線[こうせん] | n | QUANG TUYẾN | tia sáng | - | - | 強[つよ]い光線[こうせん]を直接[ちょくせつ]見[み]てはいけない。 | Không được nhìn thẳng vào tia sáng mạnh.
+反射[はんしゃ] | n,v3 | PHẢN XẠ | phản xạ | 光[ひかり] を {反射} する | phản chiếu ánh sáng | 雪[ゆき]は太陽[たいよう]の光[ひかり]を反射[はんしゃ]する。 | Tuyết phản chiếu ánh mặt trời.
+屈折[くっせつ] | n,v3 | KHUẤT CHIẾT | khúc xạ | - | - | 光[ひかり]は水[みず]の中[なか]で屈折[くっせつ]する。 | Ánh sáng bị khúc xạ trong nước.
+レンズ | n | - | thấu kính | - | - | カメラのレンズを掃除[そうじ]した。 | Tôi lau ống kính máy ảnh.
+焦点[しょうてん] | n | TIÊU ĐIỂM | tiêu điểm | 焦点[しょうてん] を 合[あ]わせる | lấy nét; tập trung | 問題[もんだい]の原因[げんいん]に焦点[しょうてん]を合[あ]わせて話[はな]し合[あ]う。 | Tập trung bàn vào nguyên nhân của vấn đề.
+拡大鏡[かくだいきょう] | n | KHUẾCH ĐẠI KÍNH | kính lúp | - | - | 拡大鏡[かくだいきょう]で小[ちい]さい字[じ]を読[よ]んだ。 | Đọc chữ nhỏ bằng kính lúp.
+顕微鏡[けんびきょう] | n | HIỂN VI KÍNH | kính hiển vi | 顕微鏡[けんびきょう] で 観察[かんさつ] する | quan sát bằng kính hiển vi | 顕微鏡[けんびきょう]で細胞[さいぼう]を観察[かんさつ]した。 | Quan sát tế bào bằng kính hiển vi.
+望遠鏡[ぼうえんきょう] | n | VỌNG VIỄN KÍNH | kính viễn vọng | - | - | 望遠鏡[ぼうえんきょう]で月[つき]を見[み]た。 | Tôi ngắm mặt trăng bằng kính viễn vọng.
+放射線[ほうしゃせん] | n | PHÓNG XẠ TUYẾN | tia phóng xạ | - | - | レントゲンでは少量[しょうりょう]の放射線[ほうしゃせん]を使[つか]う。 | Chụp X-quang dùng một lượng nhỏ tia phóng xạ.
+放射能[ほうしゃのう] | n | PHÓNG XẠ NĂNG | tính phóng xạ | - | - | 事故[じこ]の後[あと]、放射能[ほうしゃのう]の検査[けんさ]が行[おこな]われた。 | Sau sự cố, việc kiểm tra phóng xạ đã được tiến hành.
+赤外線[せきがいせん] | n | XÍCH NGOẠI TUYẾN | tia hồng ngoại | - | - | 赤外線[せきがいせん]カメラで夜[よる]の動物[どうぶつ]を撮影[さつえい]した。 | Quay động vật ban đêm bằng camera hồng ngoại.
+電磁波[でんじは] | n | ĐIỆN TỪ BA | sóng điện từ | - | - | 携帯[けいたい]電話[でんわ]は電磁波[でんじは]を出[だ]している。 | Điện thoại di động phát ra sóng điện từ.
+照射[しょうしゃ] | n,v3 | CHIẾU XẠ | chiếu (tia) | - | - | 患部[かんぶ]に放射線[ほうしゃせん]を照射[しょうしゃ]する。 | Chiếu tia phóng xạ vào vùng bệnh.
+レーザー | n | - | tia laze | - | - | レーザーで金属[きんぞく]を切[き]る。 | Cắt kim loại bằng tia laze.
+周波数[しゅうはすう] | n | CHU BA SỐ | tần số | - | - | 東日本[ひがしにほん]と西日本[にしにほん]では電気[でんき]の周波数[しゅうはすう]が違[ちが]う。 | Tần số điện ở miền Đông và miền Tây Nhật khác nhau.
+波長[はちょう] | n | BA TRƯỜNG | bước sóng; tần số hợp nhau | {波長} が 合[あ]う | hợp tính | あの人[ひと]とは波長[はちょう]が合[あ]う。 | Tôi với người đó rất hợp tính.
+音波[おんぱ] | n | ÂM BA | sóng âm | - | - | 音波[おんぱ]を使[つか]って海[うみ]の深[ふか]さを測[はか]る。 | Dùng sóng âm để đo độ sâu biển.
+熱伝導[ねつでんどう] | n | NHIỆT TRUYỀN ĐẠO | dẫn nhiệt | - | - | 銅[どう]は熱伝導[ねつでんどう]がいい。 | Đồng dẫn nhiệt tốt.
+伝導[でんどう] | n,v3 | TRUYỀN ĐẠO | dẫn (nhiệt, điện) | - | - | 金属[きんぞく]は電気[でんき]を伝導[でんどう]する。 | Kim loại dẫn điện.
+導体[どうたい] | n | ĐẠO THỂ | chất dẫn | - | - | 銅[どう]は電気[でんき]のよい導体[どうたい]だ。 | Đồng là chất dẫn điện tốt.
+半導体[はんどうたい] | n | BÁN ĐẠO THỂ | chất bán dẫn | - | - | 半導体[はんどうたい]不足[ぶそく]で車[くるま]の生産[せいさん]が遅[おく]れた。 | Thiếu chất bán dẫn khiến sản xuất ô tô bị chậm.
+絶縁[ぜつえん] | n,v3 | TUYỆT DUYÊN | cách điện; cắt đứt quan hệ | - | - | 電線[でんせん]はゴムで絶縁[ぜつえん]されている。 | Dây điện được cách điện bằng cao su.
+回路[かいろ] | n | HỒI LỘ | mạch | 電気[でんき] {回路} | mạch điện | 電気[でんき]回路[かいろ]の図[ず]を描[か]いた。 | Tôi đã vẽ sơ đồ mạch điện.
+端子[たんし] | n | ĐOAN TỬ | đầu nối | - | - | 充電[じゅうでん]端子[たんし]が壊[こわ]れて充電[じゅうでん]できない。 | Đầu cắm sạc bị hỏng nên không sạc được.
+電圧[でんあつ] | n | ĐIỆN ÁP | điện áp | - | - | 日本[にほん]の家庭[かてい]の電圧[でんあつ]は百[ひゃく]ボルトだ。 | Điện áp gia đình ở Nhật là 100 vôn.
+漏電[ろうでん] | n,v3 | LẬU ĐIỆN | rò điện | - | - | 古[ふる]い配線[はいせん]から漏電[ろうでん]していた。 | Đường dây điện cũ bị rò điện.
+感電[かんでん] | n,v3 | CẢM ĐIỆN | bị điện giật | - | - | 濡[ぬ]れた手[て]で触[さわ]ると感電[かんでん]する。 | Chạm vào bằng tay ướt sẽ bị điện giật.
+静電気[せいでんき] | n | TĨNH ĐIỆN KHÍ | tĩnh điện | - | - | 冬[ふゆ]はドアノブで静電気[せいでんき]が起[お]きる。 | Mùa đông chạm tay nắm cửa hay bị tĩnh điện.
+ショート | n,v3 | - | chập điện | - | - | 電線[でんせん]がショートして火事[かじ]になった。 | Dây điện bị chập gây cháy.
+蓄電池[ちくでんち] | n | SÚC ĐIỆN TRÌ | ắc quy, pin trữ điện | - | - | 太陽[たいよう]光[こう]の電気[でんき]を蓄電池[ちくでんち]にためる。 | Trữ điện mặt trời vào ắc quy.
+発電機[はつでんき] | n | PHÁT ĐIỆN CƠ | máy phát điện | - | - | 停電[ていでん]の時[とき]は発電機[はつでんき]を使[つか]う。 | Khi mất điện thì dùng máy phát điện.
+動力[どうりょく] | n | ĐỘNG LỰC | động lực, năng lượng vận hành | - | - | 昔[むかし]は水[みず]の力[ちから]を動力[どうりょく]にしていた。 | Ngày xưa người ta dùng sức nước làm động lực.
+磁石[じしゃく] | n | TỪ THẠCH | nam châm | - | - | 磁石[じしゃく]で鉄[てつ]のくぎを集[あつ]めた。 | Dùng nam châm hút những chiếc đinh sắt.
+磁気[じき] | n | TỪ KHÍ | từ tính | - | - | カードを磁石[じしゃく]に近[ちか]づけると磁気[じき]が壊[こわ]れる。 | Để thẻ gần nam châm sẽ làm hỏng từ tính.
+歯車[はぐるま] | n | XỈ XA | bánh răng | - | - | 時計[とけい]の中[なか]には小[ちい]さな歯車[はぐるま]がたくさんある。 | Trong đồng hồ có rất nhiều bánh răng nhỏ.
+軸[じく] | n | TRỤC | trục | - | - | モーターの軸[じく]が曲[ま]がっている。 | Trục động cơ bị cong.
+回転数[かいてんすう] | n | HỒI CHUYỂN SỐ | số vòng quay | - | - | エンジンの回転数[かいてんすう]が上[あ]がった。 | Số vòng quay của động cơ đã tăng lên.
+ばね | n | - | lò xo | - | - | このペンはばねが壊[こわ]れている。 | Lò xo của cây bút này bị hỏng.
+弾性[だんせい] | n | ĐÀN TÍNH | tính đàn hồi | - | - | ゴムは弾性[だんせい]が高[たか]い。 | Cao su có tính đàn hồi cao.
+鉄[てつ] | n | THIẾT | sắt | - | - | 鉄[てつ]は熱[あつ]いうちに打[う]て。 | Hãy rèn sắt khi còn nóng.
+銅[どう] | n | ĐỒNG | đồng (kim loại) | {銅} メダル | huy chương đồng | オリンピックで銅[どう]メダルを取[と]った。 | Đã giành huy chương đồng tại Olympic.
+アルミ | n | - | nhôm | - | - | アルミ缶[かん]はリサイクルできる。 | Lon nhôm có thể tái chế.
+ゴム | n | - | cao su | - | - | 輪[わ]ゴムで袋[ふくろ]の口[くち]を留[と]めた。 | Dùng dây chun buộc miệng túi.
+ガラス | n | - | thủy tinh, kính | - | - | 割[わ]れたガラスに気[き]をつけて。 | Cẩn thận mảnh kính vỡ.
+繊維[せんい] | n | TIÊM DUY | sợi, xơ | 食物[しょくもつ] {繊維} | chất xơ | 野菜[やさい]には食物[しょくもつ]繊維[せんい]が多[おお]い。 | Rau có nhiều chất xơ.
+原子力[げんしりょく] | n | NGUYÊN TỬ LỰC | năng lượng nguyên tử | {原子力} 発電所[はつでんしょ] | nhà máy điện hạt nhân | 原子力[げんしりょく]発電所[はつでんしょ]の安全[あんぜん]が議論[ぎろん]されている。 | An toàn của nhà máy điện hạt nhân đang được tranh luận.
+核[かく] | n | HẠCH | hạt nhân; cốt lõi | - | - | 核[かく]のない世界[せかい]を目指[めざ]す。 | Hướng tới thế giới không vũ khí hạt nhân.
+核分裂[かくぶんれつ] | n | HẠCH PHÂN LIỆT | phân hạch | - | - | 原子力[げんしりょく]発電[はつでん]は核分裂[かくぶんれつ]を利用[りよう]している。 | Điện hạt nhân tận dụng phản ứng phân hạch.
+恒星[こうせい] | n | HẰNG TINH | hằng tinh, ngôi sao | - | - | 太陽[たいよう]は恒星[こうせい]の一[ひと]つだ。 | Mặt trời là một ngôi sao.
+銀河[ぎんが] | n | NGÂN HÀ | dải ngân hà | - | - | 銀河[ぎんが]には数千億[すうせんおく]の星[ほし]がある。 | Dải ngân hà có hàng trăm tỷ ngôi sao.
+太陽系[たいようけい] | n | THÁI DƯƠNG HỆ | hệ mặt trời | - | - | 太陽系[たいようけい]には八[やっ]つの惑星[わくせい]がある。 | Hệ mặt trời có tám hành tinh.
+月面[げつめん] | n | NGUYỆT DIỆN | bề mặt mặt trăng | {月面} 着陸[ちゃくりく] | hạ cánh lên mặt trăng | 人類[じんるい]が初[はじ]めて月面[げつめん]に着陸[ちゃくりく]した。 | Loài người lần đầu tiên hạ cánh xuống mặt trăng.
+衛星[えいせい] | n | VỆ TINH | vệ tinh | {衛星} 放送[ほうそう] | truyền hình vệ tinh | 衛星[えいせい]放送[ほうそう]で海外[かいがい]のニュースを見[み]る。 | Xem tin quốc tế qua truyền hình vệ tinh.
+人工[じんこう]衛星[えいせい] | n | NHÂN CÔNG VỆ TINH | vệ tinh nhân tạo | - | - | 人工[じんこう]衛星[えいせい]が天気[てんき]の情報[じょうほう]を送[おく]ってくる。 | Vệ tinh nhân tạo gửi về thông tin thời tiết.
+ロケット | n | - | tên lửa | ロケット を 打[う]ち上[あ]げる | phóng tên lửa | 種子島[たねがしま]からロケットが打[う]ち上[あ]げられた。 | Tên lửa được phóng từ đảo Tanegashima.
+打[う]ち上[あ]げ | n | ĐẢ THƯỢNG | phóng lên; bắn (pháo hoa) | {打[う]ち上[あ]げ} 花火[はなび] | pháo hoa bắn lên trời | 打[う]ち上[あ]げは天気[てんき]が悪[わる]くて延期[えんき]された。 | Việc phóng bị hoãn vì thời tiết xấu.
+宇宙船[うちゅうせん] | n | VŨ TRỤ THUYỀN | tàu vũ trụ | - | - | 宇宙船[うちゅうせん]が無事[ぶじ]に地球[ちきゅう]に戻[もど]った。 | Tàu vũ trụ đã trở về Trái Đất an toàn.
+軌道[きどう] | n | QUỸ ĐẠO | quỹ đạo; đúng hướng | {軌道} に 乗[の]る | đi vào quỹ đạo, ổn định | 新[あたら]しい事業[じぎょう]がやっと軌道[きどう]に乗[の]った。 | Mảng kinh doanh mới cuối cùng đã đi vào ổn định.
+探査[たんさ] | n,v3 | THÁM TRA | thăm dò | {探査} 機[き] | tàu thăm dò | 探査[たんさ]機[き]が小惑星[しょうわくせい]の石[いし]を持[も]ち帰[かえ]った。 | Tàu thăm dò đã mang đá từ tiểu hành tinh về.
+観測[かんそく] | n,v3 | QUAN TRẮC | quan trắc | 気象[きしょう] {観測} | quan trắc khí tượng | 毎日[まいにち]気温[きおん]を観測[かんそく]している。 | Ngày nào cũng quan trắc nhiệt độ.
+直径[ちょっけい] | n | TRỰC KÍNH | đường kính | - | - | 直径[ちょっけい]十[じゅっ]センチの円[えん]を描[か]く。 | Vẽ hình tròn đường kính mười xăng-ti-mét.
+半径[はんけい] | n | BÁN KÍNH | bán kính | - | - | 駅[えき]から半径[はんけい]一[いち]キロ以内[いない]で部屋[へや]を探[さが]す。 | Tìm phòng trong bán kính một cây số từ ga.
+円周[えんしゅう] | n | VIÊN CHU | chu vi hình tròn | {円周} 率[りつ] | số pi | 円周[えんしゅう]率[りつ]は約[やく]三[さん]・一四[いちよん]だ。 | Số pi xấp xỉ 3,14.
+直角[ちょっかく] | n | TRỰC GIÁC | góc vuông | - | - | 二[に]本[ほん]の線[せん]は直角[ちょっかく]に交[まじ]わっている。 | Hai đường thẳng cắt nhau tạo góc vuông.
+三角形[さんかくけい] | n | TAM GIÁC HÌNH | hình tam giác | - | - | 三角形[さんかくけい]の面積[めんせき]を求[もと]めなさい。 | Hãy tính diện tích hình tam giác.
+四角形[しかくけい] | n | TỨ GIÁC HÌNH | hình tứ giác | - | - | 四角形[しかくけい]の内角[ないかく]の和[わ]は三百六十[さんびゃくろくじゅう]度[ど]だ。 | Tổng các góc trong của tứ giác là 360 độ.
+立方体[りっぽうたい] | n | LẬP PHƯƠNG THỂ | hình lập phương | - | - | さいころは立方体[りっぽうたい]だ。 | Con xúc xắc là hình lập phương.
+球[きゅう] | n | CẦU | hình cầu | - | - | 地球[ちきゅう]はほぼ球[きゅう]の形[かたち]をしている。 | Trái Đất gần như có hình cầu.
+立体[りったい] | n | LẬP THỂ | khối, hình không gian | {立体} 的[てき] | ba chiều | 立体[りったい]的[てき]な地図[ちず]でわかりやすい。 | Bản đồ ba chiều nên dễ hiểu.
+平面[へいめん] | n | BÌNH DIỆN | mặt phẳng | {平面} 図[ず] | bản vẽ mặt bằng | 家[いえ]の平面[へいめん]図[ず]を見[み]せてもらった。 | Tôi được xem bản vẽ mặt bằng ngôi nhà.
+図形[ずけい] | n | ĐỒ HÌNH | hình học, hình vẽ | - | - | 図形[ずけい]の問題[もんだい]が苦手[にがて]だ。 | Tôi kém các bài hình học.
+曲線[きょくせん] | n | KHÚC TUYẾN | đường cong | - | - | この建物[たてもの]は美[うつく]しい曲線[きょくせん]が特徴[とくちょう]だ。 | Tòa nhà này nổi bật với những đường cong đẹp.
+直線[ちょくせん] | n | TRỰC TUYẾN | đường thẳng | {直線} 距離[きょり] | khoảng cách đường chim bay | 駅[えき]まで直線[ちょくせん]距離[きょり]で五百[ごひゃく]メートルだ。 | Đến ga theo đường chim bay là năm trăm mét.
+平行[へいこう] | n,v3 | BÌNH HÀNH | song song | - | - | 線路[せんろ]と道路[どうろ]が平行[へいこう]に走[はし]っている。 | Đường ray và đường bộ chạy song song.
+垂直[すいちょく] | n,adj-na | THÙY TRỰC | thẳng đứng, vuông góc | - | - | 板[いた]を垂直[すいちょく]に立[た]てる。 | Dựng tấm ván thẳng đứng.
+比例[ひれい] | n,v3 | TỶ LỆ | tỷ lệ thuận | - | - | 給料[きゅうりょう]は働[はたら]いた時間[じかん]に比例[ひれい]する。 | Lương tỷ lệ thuận với thời gian làm việc.
+反比例[はんぴれい] | n,v3 | PHẢN TỶ LỆ | tỷ lệ nghịch | - | - | 速[はや]さと時間[じかん]は反比例[はんぴれい]する。 | Tốc độ và thời gian tỷ lệ nghịch với nhau.
+方程式[ほうていしき] | n | PHƯƠNG TRÌNH THỨC | phương trình | 方程式[ほうていしき] を 解[と]く | giải phương trình | 中学[ちゅうがく]で方程式[ほうていしき]の解[と]き方[かた]を習[なら]った。 | Tôi học cách giải phương trình ở cấp hai.
+関数[かんすう] | n | QUAN SỐ | hàm số | - | - | 表計算[ひょうけいさん]ソフトの関数[かんすう]を使[つか]って計算[けいさん]する。 | Dùng hàm trong phần mềm bảng tính để tính toán.
+座標[ざひょう] | n | TỌA TIÊU | tọa độ | - | - | 地図[ちず]の座標[ざひょう]で場所[ばしょ]を確認[かくにん]した。 | Xác định vị trí bằng tọa độ trên bản đồ.
+横軸[よこじく] | n | HOÀNH TRỤC | trục hoành | - | - | グラフの横軸[よこじく]は時間[じかん]を表[あらわ]している。 | Trục hoành của đồ thị biểu thị thời gian.
+縦軸[たてじく] | n | TUNG TRỤC | trục tung | - | - | 縦軸[たてじく]に売[う]り上[あ]げを取[と]る。 | Lấy doanh thu làm trục tung.
+計測[けいそく] | n,v3 | KẾ TRẮC | đo lường | - | - | 機械[きかい]で部品[ぶひん]の長[なが]さを計測[けいそく]する。 | Đo chiều dài linh kiện bằng máy.
+測量[そくりょう] | n,v3 | TRẮC LƯỢNG | đo đạc | - | - | 工事[こうじ]の前[まえ]に土地[とち]を測量[そくりょう]する。 | Đo đạc đất trước khi thi công.
+精度[せいど] | n | TINH ĐỘ | độ chính xác | 精度[せいど] が 高[たか]い | độ chính xác cao | この機械[きかい]は精度[せいど]が高[たか]い。 | Máy này có độ chính xác cao.
+誤差[ごさ] | n | NGỘ SAI | sai số | - | - | 一[いち]ミリ以内[いない]の誤差[ごさ]なら問題[もんだい]ない。 | Sai số trong vòng một milimét thì không vấn đề gì.
+推定[すいてい] | n,v3 | THÔI ĐỊNH | ước đoán | - | - | 被害[ひがい]額[がく]は一億[いちおく]円[えん]と推定[すいてい]される。 | Thiệt hại ước tính một trăm triệu yên.
+シミュレーション | n | - | mô phỏng | - | - | コンピューターでシミュレーションを行[おこな]った。 | Đã chạy mô phỏng trên máy tính.
+模型[もけい] | n | MÔ HÌNH | mô hình | - | - | 飛行機[ひこうき]の模型[もけい]を作[つく]るのが趣味[しゅみ]だ。 | Sở thích của tôi là làm mô hình máy bay.
+規格[きかく] | n | QUY CÁCH | tiêu chuẩn kỹ thuật | 規格[きかく] に 合[あ]う | đạt tiêu chuẩn | 規格[きかく]に合[あ]わない部品[ぶひん]は使[つか]えない。 | Linh kiện không đạt tiêu chuẩn thì không dùng được.
+標準[ひょうじゅん] | n | TIÊU CHUẨN | tiêu chuẩn, chuẩn | {標準} 語[ご] | ngôn ngữ chuẩn | テレビのアナウンサーは標準[ひょうじゅん]語[ご]で話[はな]す。 | Phát thanh viên truyền hình nói giọng chuẩn.
+微細[びさい] | adj-na | VI TẾ | vi tế, cực nhỏ | - | - | 微細[びさい]な傷[きず]も見逃[みのが]さない。 | Không bỏ sót cả vết xước cực nhỏ.
+小型化[こがたか] | n,v3 | TIỂU HÌNH HÓA | thu nhỏ | - | - | 技術[ぎじゅつ]の進歩[しんぽ]で機械[きかい]の小型化[こがたか]が進[すす]んだ。 | Nhờ tiến bộ kỹ thuật, máy móc ngày càng nhỏ gọn.
+軽量化[けいりょうか] | n,v3 | KHINH LƯỢNG HÓA | làm nhẹ | - | - | 車体[しゃたい]を軽量化[けいりょうか]して燃費[ねんぴ]を良[よ]くした。 | Làm nhẹ thân xe để tiết kiệm nhiên liệu.
+大型[おおがた] | n,adj-na | ĐẠI HÌNH | cỡ lớn | {大型} 連休[れんきゅう] | kỳ nghỉ dài | 大型[おおがた]連休[れんきゅう]には旅行[りょこう]に行[い]く人[ひと]が多[おお]い。 | Kỳ nghỉ dài có nhiều người đi du lịch.
+巨大[きょだい] | adj-na | CỰ ĐẠI | khổng lồ | - | - | 港[みなと]に巨大[きょだい]な船[ふね]が入[はい]ってきた。 | Một con tàu khổng lồ đã cập cảng.
+高性能[こうせいのう] | adj-na | CAO TÍNH NĂNG | hiệu năng cao | - | - | 高性能[こうせいのう]なパソコンを買[か]った。 | Tôi đã mua máy tính hiệu năng cao.
+耐久性[たいきゅうせい] | n | NẠI CỬU TÍNH | độ bền | 耐久性[たいきゅうせい] が 高[たか]い | độ bền cao | この靴[くつ]は耐久性[たいきゅうせい]が高[たか]い。 | Đôi giày này có độ bền cao.
+耐用[たいよう]年数[ねんすう] | n | NẠI DỤNG NIÊN SỐ | tuổi thọ sử dụng | - | - | この機械[きかい]の耐用[たいよう]年数[ねんすう]は十[じゅう]年[ねん]だ。 | Tuổi thọ sử dụng của máy này là mười năm.
+欠陥[けっかん] | n | KHUYẾT HÃM | khiếm khuyết, lỗi | {欠陥} 品[ひん] | hàng lỗi | 欠陥[けっかん]品[ひん]が見[み]つかり、回収[かいしゅう]された。 | Phát hiện hàng lỗi nên sản phẩm đã bị thu hồi.
+メンテナンス | n,v3 | - | bảo trì | - | - | 定期[ていき]的[てき]に機械[きかい]のメンテナンスをする。 | Bảo trì máy móc định kỳ.
+先端[せんたん]技術[ぎじゅつ] | n | TIÊN ĐOAN KỸ THUẬT | công nghệ tiên tiến | - | - | 先端[せんたん]技術[ぎじゅつ]を使[つか]った工場[こうじょう]を見学[けんがく]した。 | Tôi tham quan một nhà máy ứng dụng công nghệ tiên tiến.
+技術[ぎじゅつ]革新[かくしん] | n | KỸ THUẬT CÁCH TÂN | đổi mới công nghệ | - | - | 技術[ぎじゅつ]革新[かくしん]で生活[せいかつ]が便利[べんり]になった。 | Nhờ đổi mới công nghệ, cuộc sống tiện lợi hơn.
+ハイテク | n | - | công nghệ cao | - | - | ハイテク産業[さんぎょう]が成長[せいちょう]している。 | Ngành công nghệ cao đang phát triển.
+人工[じんこう]知能[ちのう] | n | NHÂN CÔNG TRI NĂNG | trí tuệ nhân tạo | - | - | 人工[じんこう]知能[ちのう]が翻訳[ほんやく]をしてくれる。 | Trí tuệ nhân tạo giúp chúng ta dịch thuật.
+自動[じどう]運転[うんてん] | n | TỰ ĐỘNG VẬN CHUYỂN | lái xe tự động | - | - | 自動[じどう]運転[うんてん]の車[くるま]が実用化[じつようか]されつつある。 | Xe tự lái đang dần được đưa vào sử dụng thực tế.
+実用化[じつようか] | n,v3 | THỰC DỤNG HÓA | đưa vào sử dụng thực tế | - | - | 新[あたら]しい電池[でんち]の実用化[じつようか]が期待[きたい]されている。 | Loại pin mới đang được kỳ vọng sẽ đưa vào sử dụng.
+普及[ふきゅう] | n,v3 | PHỔ CẬP | phổ cập | スマホ が {普及} する | điện thoại thông minh phổ biến | スマホが普及[ふきゅう]して生活[せいかつ]が変[か]わった。 | Điện thoại thông minh phổ biến đã làm thay đổi cuộc sống.
+開発者[かいはつしゃ] | n | KHAI PHÁT GIẢ | nhà phát triển | - | - | このアプリの開発者[かいはつしゃ]は大学生[だいがくせい]だ。 | Người phát triển ứng dụng này là sinh viên đại học.
+設計[せっけい] | n,v3 | THIẾT KẾ | thiết kế | {設計} 図[ず] | bản thiết kế | 新[あたら]しい工場[こうじょう]を設計[せっけい]している。 | Đang thiết kế nhà máy mới.
+試作品[しさくひん] | n | THÍ TÁC PHẨM | sản phẩm mẫu | - | - | 試作品[しさくひん]をお客様[きゃくさま]に試[ため]してもらった。 | Đã nhờ khách hàng dùng thử sản phẩm mẫu.
+発明品[はつめいひん] | n | PHÁT MINH PHẨM | vật phát minh | - | - | エジソンの発明品[はつめいひん]は今[いま]も使[つか]われている。 | Những phát minh của Edison đến nay vẫn được dùng.
+精密[せいみつ]機械[きかい] | n | TINH MẬT CƠ GIỚI | máy móc chính xác | - | - | 精密[せいみつ]機械[きかい]は振動[しんどう]に弱[よわ]い。 | Máy móc chính xác rất kỵ rung động.
+制御[せいぎょ] | n,v3 | CHẾ NGỰ | điều khiển, kiểm soát | コンピューター で {制御} する | điều khiển bằng máy tính | 工場[こうじょう]の機械[きかい]はコンピューターで制御[せいぎょ]されている。 | Máy móc trong nhà máy được điều khiển bằng máy tính.
+処理[しょり] | n,v3 | XỬ LÝ | xử lý | データ を {処理} する | xử lý dữ liệu | 大量[たいりょう]のデータを短時間[たんじかん]で処理[しょり]できる。 | Có thể xử lý lượng dữ liệu lớn trong thời gian ngắn.
+アルゴリズム | n | - | thuật toán | - | - | 検索[けんさく]のアルゴリズムが変[か]わった。 | Thuật toán tìm kiếm đã thay đổi.
+ソフトウェア | n | - | phần mềm | - | - | ソフトウェアを最新[さいしん]版[ばん]に更新[こうしん]した。 | Đã cập nhật phần mềm lên phiên bản mới nhất.
+ハードウェア | n | - | phần cứng | - | - | ハードウェアの故障[こしょう]でデータが消[き]えた。 | Dữ liệu bị mất do hỏng phần cứng.
+演算[えんざん] | n,v3 | DIỄN TOÁN | phép tính, xử lý tính toán | - | - | コンピューターは一[いち]秒[びょう]に何[なん]億[おく]回[かい]も演算[えんざん]できる。 | Máy tính có thể tính hàng trăm triệu phép tính mỗi giây.

@@ -1,0 +1,195 @@
+@topic t11
+@ja 言語[げんご]・文章[ぶんしょう]・報道[ほうどう]
+@vi Ngôn ngữ, văn chương và báo chí
+@desc Lời nói và cách diễn đạt, lập luận, xuất bản, báo chí và từ vựng mô tả cách người ta nói năng.
+片言[かたこと] | n | PHIẾN NGÔN | nói bập bẹ | {片言} の 日本語[にほんご] | tiếng Nhật bập bẹ | 彼[かれ]は片言[かたこと]の日本語[にほんご]で一生懸命[いっしょうけんめい]説明[せつめい]した。 | Anh ấy cố gắng giải thích bằng thứ tiếng Nhật bập bẹ.
+なまり | n | - | giọng địa phương | - | - | 彼女[かのじょ]の話[はな]し方[かた]には少[すこ]し関西[かんさい]のなまりがある。 | Cách nói của cô ấy hơi có giọng Kansai.
+言語学[げんごがく] | n | NGÔN NGỮ HỌC | ngôn ngữ học | - | - | 大学[だいがく]で言語[げんご]学[がく]を専攻[せんこう]した。 | Tôi chuyên ngành ngôn ngữ học ở đại học.
+第二[だいに]言語[げんご] | n | ĐỆ NHỊ NGÔN NGỮ | ngôn ngữ thứ hai | - | - | 第[だい]二[に]言語[げんご]として日本語[にほんご]を学[まな]んでいる。 | Tôi học tiếng Nhật như ngôn ngữ thứ hai.
+公用語[こうようご] | n | CÔNG DỤNG NGỮ | ngôn ngữ chính thức | - | - | 社内[しゃない]の公用[こうよう]語[ご]を英語[えいご]にした会社[かいしゃ]もある。 | Có công ty đặt tiếng Anh làm ngôn ngữ chính thức trong công ty.
+語感[ごかん] | n | NGỮ CẢM | sắc thái của từ | - | - | この言葉[ことば]は語感[ごかん]が柔[やわ]らかい。 | Từ này có sắc thái mềm mại.
+語調[ごちょう] | n | NGỮ ĐIỆU | ngữ điệu | {語調} を 強[つよ]める | nói mạnh giọng | 彼[かれ]は語調[ごちょう]を強[つよ]めて反論[はんろん]した。 | Anh mạnh giọng phản bác.
+修辞[しゅうじ] | n | TU TỪ | tu từ | {修辞} 法[ほう] | phép tu từ | この詩[し]にはさまざまな修辞[しゅうじ]が使[つか]われている。 | Bài thơ này dùng nhiều biện pháp tu từ.
+直喩[ちょくゆ] | n | TRỰC DỤ | so sánh trực tiếp | - | - | 「雪[ゆき]のように白[しろ]い」は直喩[ちょくゆ]の例[れい]だ。 | "Trắng như tuyết" là ví dụ về so sánh trực tiếp.
+隠喩[いんゆ] | n | ẨN DỤ | ẩn dụ | - | - | 「人生[じんせい]は旅[たび]だ」は隠喩[いんゆ]である。 | "Đời là một chuyến đi" là phép ẩn dụ.
+擬人法[ぎじんほう] | n | NGHĨ NHÂN PHÁP | phép nhân hóa | - | - | 「風[かぜ]がささやく」は擬人[ぎじん]法[ほう]だ。 | "Gió thì thầm" là phép nhân hóa.
+擬音語[ぎおんご] | n | NGHĨ ÂM NGỮ | từ tượng thanh | - | - | 「ワンワン」は犬[いぬ]の鳴[な]き声[ごえ]を表[あらわ]す擬音[ぎおん]語[ご]だ。 | "Wan wan" là từ tượng thanh tiếng chó sủa.
+擬態語[ぎたいご] | n | NGHĨ THÁI NGỮ | từ tượng hình | - | - | 「にこにこ」は笑顔[えがお]を表[あらわ]す擬態[ぎたい]語[ご]だ。 | "Niko niko" là từ tượng hình chỉ nụ cười.
+オノマトペ | n | - | từ tượng thanh tượng hình | - | - | 日本語[にほんご]はオノマトペが豊富[ほうふ]な言語[げんご]だ。 | Tiếng Nhật là ngôn ngữ giàu từ tượng thanh tượng hình.
+格言[かくげん] | n | CÁCH NGÔN | cách ngôn | - | - | 「時[とき]は金[かね]なり」という格言[かくげん]がある。 | Có câu cách ngôn "thời gian là vàng bạc".
+金言[きんげん] | n | KIM NGÔN | lời vàng | - | - | 恩師[おんし]の言葉[ことば]は私[わたし]にとって金言[きんげん]だ。 | Lời thầy với tôi là lời vàng ngọc.
+座右[ざゆう]の銘[めい] | n | TỌA HỮU MINH | phương châm sống | - | - | 「一期一会[いちごいちえ]」が私[わたし]の座右[ざゆう]の銘[めい]だ。 | "Nhất kỳ nhất hội" là phương châm sống của tôi.
+警句[けいく] | n | CẢNH CÚ | câu cảnh tỉnh | - | - | 彼[かれ]の小説[しょうせつ]には鋭[するど]い警句[けいく]が散[ち]りばめられている。 | Tiểu thuyết của ông điểm xuyết những câu cảnh tỉnh sắc sảo.
+標語[ひょうご] | n | TIÊU NGỮ | khẩu hiệu | - | - | 交通[こうつう]安全[あんぜん]の標語[ひょうご]を募集[ぼしゅう]している。 | Đang tuyển khẩu hiệu an toàn giao thông.
+スローガン | n | - | khẩu hiệu | {スローガン} を 掲[かか]げる | đưa ra khẩu hiệu | 新[あたら]しい党首[とうしゅ]は「変革[へんかく]」をスローガンに掲[かか]げた。 | Lãnh đạo đảng mới đưa ra khẩu hiệu "cải cách".
+決[き]まり文句[もんく] | n | QUYẾT VĂN CÚ | câu cửa miệng | - | - | 「検討[けんとう]します」は断[ことわ]るときの決[き]まり文句[もんく]だ。 | "Để tôi xem xét" là câu cửa miệng khi từ chối.
+常套句[じょうとうく] | n | THƯỜNG SÁO CÚ | câu sáo rỗng | - | - | 常套[じょうとう]句[く]ばかりの挨拶[あいさつ]は心[こころ]に響[ひび]かない。 | Lời chào toàn câu sáo rỗng không chạm đến lòng người.
+余談[よだん] | n | DƯ ĐÀM | chuyện bên lề | - | - | 余談[よだん]ですが、私[わたし]もその町[まち]の出身[しゅっしん]です。 | Nói thêm ngoài lề, tôi cũng là người thị trấn đó.
+骨子[こっし] | n | CỐT TỬ | nội dung cốt lõi | - | - | 計画[けいかく]の骨子[こっし]がまとまった。 | Nội dung cốt lõi của kế hoạch đã hoàn thành.
+論旨[ろんし] | n | LUẬN CHỈ | luận điểm chính | - | - | 論旨[ろんし]が明確[めいかく]で読[よ]みやすい論文[ろんぶん]だ。 | Bài luận có luận điểm rõ ràng nên dễ đọc.
+序論[じょろん] | n | TỰ LUẬN | phần mở đầu (luận văn) | - | - | 序論[じょろん]で研究[けんきゅう]の目的[もくてき]を述[の]べる。 | Phần mở đầu nêu mục đích nghiên cứu.
+本論[ほんろん] | n | BẢN LUẬN | phần thân bài | - | - | 前置[まえお]きはこのくらいにして本論[ほんろん]に入[はい]ろう。 | Mở đầu vậy là đủ, ta vào phần chính.
+論拠[ろんきょ] | n | LUẬN CỨ | luận cứ | - | - | 主張[しゅちょう]の論拠[ろんきょ]を示[しめ]してください。 | Hãy đưa ra luận cứ cho lập luận của bạn.
+論理[ろんり] | n | LUẬN LÝ | logic | {論理} 的[てき] | có logic | 彼[かれ]の説明[せつめい]は論理[ろんり]的[てき]でわかりやすい。 | Lời giải thích của anh ấy logic, dễ hiểu.
+理屈[りくつ] | n | LÝ QUẬT | lý lẽ; lý sự | {理屈} を こねる | lý sự | 理屈[りくつ]ばかりこねていないで、まずやってみなさい。 | Đừng lý sự mãi, hãy làm thử trước đi.
+争点[そうてん] | n | TRANH ĐIỂM | điểm tranh luận | - | - | 今度[こんど]の選挙[せんきょ]の最大[さいだい]の争点[そうてん]は経済[けいざい]だ。 | Điểm tranh luận lớn nhất của cuộc bầu cử lần này là kinh tế.
+異論[いろん] | n | DỊ LUẬN | ý kiến khác | {異論} を 唱[とな]える | nêu ý kiến phản đối | その案[あん]に異論[いろん]を唱[とな]える人[ひと]はいなかった。 | Không ai nêu ý kiến phản đối phương án đó.
+持論[じろん] | n | TRÌ LUẬN | chủ kiến | - | - | 「健康[けんこう]は歩[ある]くことから」が祖父[そふ]の持論[じろん]だ。 | "Sức khỏe bắt đầu từ đi bộ" là chủ kiến của ông tôi.
+私見[しけん] | n | TƯ KIẾN | ý kiến riêng | - | - | あくまで私見[しけん]ですが、この計画[けいかく]には無理[むり]があります。 | Đây chỉ là ý kiến riêng, nhưng kế hoạch này có điểm không hợp lý.
+卓見[たっけん] | n | TRÁC KIẾN | kiến giải xuất sắc | - | - | 彼[かれ]の卓見[たっけん]には感心[かんしん]させられた。 | Tôi khâm phục kiến giải xuất sắc của anh ấy.
+所見[しょけん] | n | SỞ KIẾN | nhận xét, chẩn đoán | - | - | 医師[いし]の所見[しょけん]では異常[いじょう]はないとのことだった。 | Theo nhận xét của bác sĩ thì không có gì bất thường.
+所感[しょかん] | n | SỞ CẢM | cảm tưởng | 年頭[ねんとう] {所感} | cảm tưởng đầu năm | 社長[しゃちょう]が年頭[ねんとう]所感[しょかん]を述[の]べた。 | Giám đốc phát biểu cảm tưởng đầu năm.
+感想文[かんそうぶん] | n | CẢM TƯỞNG VĂN | bài cảm nhận | 読書[どくしょ] {感想文} | bài cảm nhận sách | 夏休[なつやす]みの宿題[しゅくだい]で読書[どくしょ]感想[かんそう]文[ぶん]を書[か]いた。 | Bài tập hè, tôi viết bài cảm nhận sách.
+エッセー | n | - | tùy bút | - | - | 旅[たび]の思[おも]い出[で]をエッセーにまとめた。 | Tôi gom kỷ niệm chuyến đi thành bài tùy bút.
+書評[しょひょう] | n | THƯ BÌNH | điểm sách | - | - | 新聞[しんぶん]の書評[しょひょう]で紹介[しょうかい]された本[ほん]を買[か]った。 | Tôi mua cuốn sách được giới thiệu trong mục điểm sách của báo.
+寸評[すんぴょう] | n | THỐN BÌNH | lời bình ngắn | - | - | 作品[さくひん]ごとに審査[しんさ]員[いん]の寸評[すんぴょう]が付[つ]いている。 | Mỗi tác phẩm có lời bình ngắn của giám khảo.
+酷評[こくひょう] | n,v3 | KHỐC BÌNH | chê bai thậm tệ | - | - | 新作[しんさく]映画[えいが]は批評[ひひょう]家[か]に酷評[こくひょう]された。 | Bộ phim mới bị nhà phê bình chê thậm tệ.
+絶賛[ぜっさん] | n,v3 | TUYỆT TÁN | khen ngợi hết lời | - | - | 彼女[かのじょ]の演技[えんぎ]は海外[かいがい]でも絶賛[ぜっさん]された。 | Diễn xuất của cô được khen hết lời cả ở nước ngoài.
+好評[こうひょう] | n,adj-na | HẢO BÌNH | được đánh giá tốt | {好評} 発売[はつばい] 中[ちゅう] | đang bán chạy | 新[あたら]しいメニューはお客様[きゃくさま]に好評[こうひょう]だ。 | Thực đơn mới được khách đánh giá tốt.
+不評[ふひょう] | n,adj-na | BẤT BÌNH | bị đánh giá kém | - | - | 新[あたら]しいデザインは利用[りよう]者[しゃ]に不評[ふひょう]だった。 | Thiết kế mới bị người dùng đánh giá kém.
+純文学[じゅんぶんがく] | n | THUẦN VĂN HỌC | văn học thuần túy | - | - | 芥川[あくたがわ]賞[しょう]は純[じゅん]文学[ぶんがく]の新人[しんじん]に贈[おく]られる。 | Giải Akutagawa trao cho tác giả mới của văn học thuần túy.
+大衆[たいしゅう]文学[ぶんがく] | n | ĐẠI CHÚNG VĂN HỌC | văn học đại chúng | - | - | 直木[なおき]賞[しょう]は大衆[たいしゅう]文学[ぶんがく]の賞[しょう]だ。 | Giải Naoki là giải dành cho văn học đại chúng.
+古典[こてん]文学[ぶんがく] | n | CỔ ĐIỂN VĂN HỌC | văn học cổ điển | - | - | 源氏[げんじ]物語[ものがたり]は日本[にほん]を代表[だいひょう]する古典[こてん]文学[ぶんがく]だ。 | Truyện Genji là tác phẩm văn học cổ điển tiêu biểu của Nhật.
+近代[きんだい]文学[ぶんがく] | n | CẬN ĐẠI VĂN HỌC | văn học cận đại | - | - | 明治[めいじ]以降[いこう]の近代[きんだい]文学[ぶんがく]を研究[けんきゅう]している。 | Tôi nghiên cứu văn học cận đại từ thời Minh Trị trở đi.
+現代[げんだい]文学[ぶんがく] | n | HIỆN ĐẠI VĂN HỌC | văn học hiện đại | - | - | 現代[げんだい]文学[ぶんがく]の作品[さくひん]が多[おお]くの言語[げんご]に翻訳[ほんやく]されている。 | Tác phẩm văn học hiện đại được dịch ra nhiều thứ tiếng.
+叙情[じょじょう] | n | TỰ TÌNH | trữ tình | {叙情} 詩[し] | thơ trữ tình | 彼[かれ]の詩[し]は叙情[じょじょう]性[せい]豊[ゆた]かだ。 | Thơ của ông giàu chất trữ tình.
+叙事[じょじ] | n | TỰ SỰ | tự sự | {叙事} 詩[し] | sử thi | ホメロスの叙事[じょじ]詩[し]は今[いま]も読[よ]み継[つ]がれている。 | Sử thi của Homer vẫn được đọc đến nay.
+叙述[じょじゅつ] | n,v3 | TỰ THUẬT | thuật lại, trình bày | - | - | 事件[じけん]の経過[けいか]が淡々[たんたん]と叙述[じょじゅつ]されている。 | Diễn biến vụ việc được thuật lại một cách điềm tĩnh.
+描写[びょうしゃ] | n,v3 | MIÊU TẢ | miêu tả | 心理[しんり] {描写} | miêu tả tâm lý | この小説[しょうせつ]は人物[じんぶつ]の心理[しんり]描写[びょうしゃ]が見事[みごと]だ。 | Cuốn tiểu thuyết này miêu tả tâm lý nhân vật tuyệt vời.
+誇張[こちょう] | n,v3 | KHOA TRƯƠNG | phóng đại | - | - | 彼[かれ]の話[はなし]はいつも少[すこ]し誇張[こちょう]されている。 | Chuyện anh ta kể lúc nào cũng hơi phóng đại.
+暗示[あんじ] | n,v3 | ÁM THỊ | ám chỉ; ám thị | 自己[じこ] {暗示} | tự kỷ ám thị | 「大丈夫[だいじょうぶ]」と自分[じぶん]に暗示[あんじ]をかけた。 | Tôi tự ám thị mình rằng "không sao đâu".
+婉曲[えんきょく] | adj-na | UYỂN KHÚC | nói vòng, uyển chuyển | {婉曲} に 断[ことわ]る | từ chối khéo | 彼女[かのじょ]は誘[さそ]いを婉曲[えんきょく]に断[ことわ]った。 | Cô ấy khéo léo từ chối lời mời.
+簡潔[かんけつ] | adj-na | GIẢN KHIẾT | ngắn gọn | {簡潔} に まとめる | tóm tắt ngắn gọn | 報告[ほうこく]は簡潔[かんけつ]にお願[ねが]いします。 | Xin báo cáo ngắn gọn.
+明白[めいはく] | adj-na | MINH BẠCH | rõ ràng | {明白} な 事実[じじつ] | sự thật hiển nhiên | 彼[かれ]が嘘[うそ]をついているのは明白[めいはく]だ。 | Rõ ràng là anh ta đang nói dối.
+端的[たんてき] | adj-na | ĐOAN ĐÍCH | thẳng thắn, ngắn gọn | {端的} に 言[い]う | nói ngắn gọn | 端的[たんてき]に言[い]えば、予算[よさん]が足[た]りないということだ。 | Nói ngắn gọn là thiếu ngân sách.
+詳細[しょうさい] | n,adj-na | TƯỜNG TẾ | chi tiết | {詳細} は 後日[ごじつ] | chi tiết sẽ báo sau | 事故[じこ]の詳細[しょうさい]はまだ分[わ]かっていない。 | Chi tiết vụ tai nạn vẫn chưa được biết.
+補足[ほそく] | n,v3 | BỔ TÚC | bổ sung | {補足} 説明[せつめい] | giải thích thêm | 先[さき]ほどの説明[せつめい]に少[すこ]し補足[ほそく]します。 | Tôi xin bổ sung một chút cho phần giải thích vừa rồi.
+指摘[してき] | n,v3 | CHỈ TRÍCH | chỉ ra | ミス を {指摘} する | chỉ ra lỗi | 上司[じょうし]に資料[しりょう]の誤[あやま]りを指摘[してき]された。 | Tôi bị cấp trên chỉ ra lỗi trong tài liệu.
+言及[げんきゅう] | n,v3 | NGÔN CẬP | đề cập | - | - | 首相[しゅしょう]は増税[ぞうぜい]については言及[げんきゅう]しなかった。 | Thủ tướng không đề cập tới việc tăng thuế.
+言明[げんめい] | n,v3 | NGÔN MINH | tuyên bố rõ | - | - | 大臣[だいじん]は辞任[じにん]しないと言明[げんめい]した。 | Bộ trưởng tuyên bố rõ sẽ không từ chức.
+公言[こうげん] | n,v3 | CÔNG NGÔN | tuyên bố công khai | - | - | 彼[かれ]は優勝[ゆうしょう]すると公言[こうげん]していた。 | Anh ta đã tuyên bố công khai sẽ vô địch.
+放言[ほうげん] | n,v3 | PHÓNG NGÔN | phát ngôn bừa bãi | - | - | 政治家[せいじか]の放言[ほうげん]が問題[もんだい]になった。 | Phát ngôn bừa bãi của chính trị gia thành vấn đề.
+暴言[ぼうげん] | n | BẠO NGÔN | lời lẽ thô bạo | {暴言} を 吐[は]く | buông lời thô bạo | 客[きゃく]が店員[てんいん]に暴言[ぼうげん]を吐[は]いた。 | Khách buông lời thô bạo với nhân viên.
+物言[ものい]い | n | VẬT NGÔN | cách nói; sự phản đối | - | - | 彼[かれ]のきつい物言[ものい]いに傷[きず]ついた。 | Tôi tổn thương vì cách nói gay gắt của anh ấy.
+言[い]い分[ぶん] | n | NGÔN PHÂN | lý lẽ, ý kiến của mỗi bên | - | - | 双方[そうほう]の言[い]い分[ぶん]をよく聞[き]いてから判断[はんだん]する。 | Nghe kỹ lý lẽ của hai bên rồi mới phán đoán.
+言[い]いなり | n | NGÔN | răm rắp nghe theo | - | - | 彼[かれ]は親[おや]の言[い]いなりになっている。 | Anh ta răm rắp nghe theo bố mẹ.
+言[い]い換[か]え | n | NGÔN HOÁN | cách nói khác | - | - | 難[むずか]しい言葉[ことば]をやさしい言[い]い換[か]えで説明[せつめい]した。 | Giải thích từ khó bằng cách nói dễ hơn.
+言[い]い争[あらそ]い | n,v3 | NGÔN TRANH | cãi cọ | - | - | 些細[ささい]なことで兄[あに]と言[い]い争[あらそ]いになった。 | Tôi cãi nhau với anh trai vì chuyện vặt.
+言[い]い逃[のが]れ | n,v3 | NGÔN ĐÀO | thoái thác | - | - | 証拠[しょうこ]を突[つ]きつけられて、もう言[い]い逃[のが]れはできない。 | Bị đưa bằng chứng ra, không thể thoái thác nữa.
+対談[たいだん] | n,v3 | ĐỐI ĐÀM | đối thoại, trò chuyện | - | - | 雑誌[ざっし]で作家[さっか]と俳優[はいゆう]が対談[たいだん]した。 | Nhà văn và diễn viên trò chuyện trên tạp chí.
+座談会[ざだんかい] | n | TỌA ĐÀM HỘI | tọa đàm | - | - | 卒業[そつぎょう]生[せい]による座談[ざだん]会[かい]が開[ひら]かれた。 | Buổi tọa đàm của cựu sinh viên đã được tổ chức.
+懇談[こんだん] | n,v3 | KHẨN ĐÀM | trò chuyện thân mật | - | - | 市長[しちょう]が市民[しみん]と懇談[こんだん]した。 | Thị trưởng trò chuyện thân mật với người dân.
+懇談会[こんだんかい] | n | KHẨN ĐÀM HỘI | buổi gặp mặt trao đổi | - | - | 保護者[ほごしゃ]懇談[こんだん]会[かい]に出席[しゅっせき]した。 | Tôi dự buổi gặp mặt phụ huynh.
+面談[めんだん] | n,v3 | DIỆN ĐÀM | gặp mặt trao đổi | 三者[さんしゃ] {面談} | họp ba bên | 担任[たんにん]の先生[せんせい]と進路[しんろ]について面談[めんだん]した。 | Tôi gặp cô chủ nhiệm trao đổi về định hướng.
+討議[とうぎ] | n,v3 | THẢO NGHỊ | thảo luận | - | - | グループで課題[かだい]について討議[とうぎ]した。 | Nhóm thảo luận về đề bài.
+論争[ろんそう] | n,v3 | LUẬN TRANH | tranh luận, tranh cãi | - | - | その説[せつ]をめぐって激[はげ]しい論争[ろんそう]が起[お]きた。 | Tranh cãi gay gắt nổ ra xoay quanh thuyết đó.
+論議[ろんぎ] | n,v3 | LUẬN NGHỊ | bàn luận | {論議} を 呼[よ]ぶ | gây bàn luận | 新[あたら]しい制度[せいど]は大[おお]きな論議[ろんぎ]を呼[よ]んだ。 | Chế độ mới gây ra nhiều bàn luận.
+論戦[ろんせん] | n | LUẬN CHIẾN | cuộc luận chiến | - | - | 国会[こっかい]で与野党[よやとう]の論戦[ろんせん]が始[はじ]まった。 | Cuộc luận chiến giữa đảng cầm quyền và đối lập bắt đầu ở Quốc hội.
+語[かた]り口[くち] | n | NGỮ KHẨU | lối kể | - | - | 彼[かれ]の軽妙[けいみょう]な語[かた]り口[くち]に引[ひ]き込[こ]まれた。 | Tôi bị cuốn hút bởi lối kể dí dỏm của ông.
+話術[わじゅつ] | n | THOẠI THUẬT | tài ăn nói | - | - | 営業[えいぎょう]マンには話術[わじゅつ]が欠[か]かせない。 | Nhân viên kinh doanh không thể thiếu tài ăn nói.
+弁舌[べんぜつ] | n | BIỆN THIỆT | tài hùng biện | {弁舌} さわやか | ăn nói lưu loát | 彼[かれ]は弁舌[べんぜつ]さわやかに持論[じろん]を展開[てんかい]した。 | Anh lưu loát trình bày chủ kiến của mình.
+雄弁[ゆうべん] | n,adj-na | HÙNG BIỆN | hùng biện | - | - | 事実[じじつ]は何[なに]よりも雄弁[ゆうべん]に真実[しんじつ]を語[かた]る。 | Sự thật nói lên chân lý hùng hồn hơn mọi thứ.
+能弁[のうべん] | n,adj-na | NĂNG BIỆN | khéo ăn nói | - | - | 普段[ふだん]は無口[むくち]な彼[かれ]が、その日[ひ]は能弁[のうべん]だった。 | Anh vốn ít nói, hôm đó lại rất khéo ăn nói.
+饒舌[じょうぜつ] | n,adj-na | NHIÊU THIỆT | lắm lời | - | - | 酒[さけ]が入[はい]ると彼[かれ]は饒舌[じょうぜつ]になる。 | Có rượu vào là anh ta lắm lời.
+寡黙[かもく] | n,adj-na | QUẢ MẶC | trầm lặng, ít nói | - | - | 父[ちち]は寡黙[かもく]だが、家族[かぞく]思[おも]いだ。 | Bố tôi ít nói nhưng thương gia đình.
+口下手[くちべた] | n,adj-na | KHẨU HẠ THỦ | vụng ăn nói | - | - | 口下手[くちべた]なので面接[めんせつ]が苦手[にがて]だ。 | Tôi vụng ăn nói nên ngại phỏng vấn.
+聞[き]き手[て] | n | VĂN THỦ | người nghe | - | - | 聞[き]き手[て]の反応[はんのう]を見[み]ながら話[はな]す。 | Vừa nói vừa quan sát phản ứng người nghe.
+話[はな]し手[て] | n | THOẠI THỦ | người nói | - | - | 話[はな]し手[て]と聞[き]き手[て]の両方[りょうほう]が大切[たいせつ]だ。 | Cả người nói lẫn người nghe đều quan trọng.
+聞[き]き上手[じょうず] | n,adj-na | VĂN THƯỢNG THỦ | giỏi lắng nghe | - | - | 彼女[かのじょ]は聞[き]き上手[じょうず]で、つい何[なん]でも話[はな]してしまう。 | Cô ấy giỏi lắng nghe nên tôi lỡ kể hết mọi chuyện.
+呼[よ]びかけ | n | HÔ | lời kêu gọi | - | - | 市[し]の呼[よ]びかけで多[おお]くのボランティアが集[あつ]まった。 | Nhờ lời kêu gọi của thành phố, nhiều tình nguyện viên tụ họp.
+問[と]いかけ | n | VẤN | câu hỏi gợi mở | - | - | 先生[せんせい]の問[と]いかけに生徒[せいと]たちは考[かんが]え込[こ]んだ。 | Học sinh trầm ngâm trước câu hỏi gợi mở của thầy.
+投[な]げかける | v2 | ĐẦU | đặt ra (câu hỏi); ném về phía | 疑問[ぎもん] を {投げかける} | đặt ra nghi vấn | その研究[けんきゅう]は従来[じゅうらい]の説[せつ]に疑問[ぎもん]を投[な]げかけた。 | Nghiên cứu đó đặt ra nghi vấn đối với thuyết cũ.
+語[かた]りかける | v2 | NGỮ | nói với, thủ thỉ | - | - | 母[はは]はお腹[なか]の赤[あか]ちゃんに優[やさ]しく語[かた]りかけた。 | Người mẹ dịu dàng thủ thỉ với em bé trong bụng.
+打診[だしん] | n,v3 | ĐẢ CHẨN | thăm dò ý | - | - | 先方[せんぽう]に来月[らいげつ]の訪問[ほうもん]を打診[だしん]した。 | Tôi thăm dò ý bên kia về chuyến thăm tháng sau.
+示唆[しさ] | n,v3 | THỊ TOA | gợi ý, ám chỉ | {示唆} に 富[と]む | giàu gợi mở | 先生[せんせい]の話[はなし]は示唆[しさ]に富[と]んでいた。 | Bài nói của thầy rất giàu gợi mở.
+ほのめかす | v1 | - | bóng gió, ám chỉ | 引退[いんたい] を {ほのめかす} | ám chỉ giải nghệ | 彼[かれ]はインタビューで引退[いんたい]をほのめかした。 | Anh ấy ám chỉ chuyện giải nghệ trong buổi phỏng vấn.
+匂[にお]わせる | v2 | MÙI | ám chỉ, gợi ý | - | - | 社長[しゃちょう]は退任[たいにん]を匂[にお]わせる発言[はつげん]をした。 | Giám đốc có phát ngôn ám chỉ việc rời chức.
+口外[こうがい] | n,v3 | KHẨU NGOẠI | nói ra ngoài | - | - | このことは決[けっ]して口外[こうがい]しないでください。 | Xin tuyệt đối không nói chuyện này ra ngoài.
+他言[たごん] | n,v3 | THA NGÔN | kể với người khác | {他言} 無用[むよう] | không được nói với ai | この件[けん]は他言[たごん]無用[むよう]でお願[ねが]いします。 | Việc này xin đừng nói với ai.
+内密[ないみつ] | n,adj-na | NỘI MẬT | kín đáo, bí mật | - | - | この話[はなし]はご内密[ないみつ]にお願[ねが]いします。 | Xin giữ kín chuyện này.
+口止[くちど]め | n,v3 | KHẨU CHỈ | bịt miệng | {口止め} 料[りょう] | tiền bịt miệng | 社長[しゃちょう]から口止[くちど]めされている。 | Tôi bị giám đốc dặn không được nói.
+秘密裏[ひみつり] | n | BÍ MẬT LÝ | bí mật, ngầm | - | - | 交渉[こうしょう]は秘密[ひみつ]裏[り]に進[すす]められた。 | Cuộc đàm phán được tiến hành bí mật.
+内緒話[ないしょばなし] | n | NỘI TỰ THOẠI | chuyện riêng thì thầm | - | - | 二人[ふたり]は教室[きょうしつ]の隅[すみ]で内緒[ないしょ]話[ばなし]をしていた。 | Hai đứa thì thầm chuyện riêng ở góc lớp.
+打[う]ち明[あ]け話[ばなし] | n | ĐẢ MINH THOẠI | chuyện thổ lộ | - | - | 彼女[かのじょ]から意外[いがい]な打[う]ち明[あ]け話[ばなし]を聞[き]いた。 | Tôi nghe cô ấy thổ lộ một chuyện bất ngờ.
+真意[しんい] | n | CHÂN Ý | ý thật | - | - | 彼[かれ]の発言[はつげん]の真意[しんい]がわからない。 | Tôi không hiểu ý thật trong phát ngôn của anh ta.
+言外[げんがい] | n | NGÔN NGOẠI | ngoài lời | {言外} の 意味[いみ] | ý ngoài lời | 彼女[かのじょ]の言葉[ことば]には言外[げんがい]の意味[いみ]が込[こ]められていた。 | Lời cô ấy chứa đựng ý tứ ngoài lời.
+行間[ぎょうかん] | n | HÀNG GIAN | giữa các dòng | {行間} を 読[よ]む | đọc ý tứ ẩn | 小説[しょうせつ]は行間[ぎょうかん]を読[よ]むことが大切[たいせつ]だ。 | Đọc tiểu thuyết cần đọc được ý tứ giữa các dòng.
+含[ふく]み | n | HÀM | hàm ý | {含み} を 持[も]たせる | để ngỏ hàm ý | 彼[かれ]は含[ふく]みのある言[い]い方[かた]をした。 | Anh ta nói một cách đầy hàm ý.
+含意[がんい] | n,v3 | HÀM Ý | hàm ý | - | - | この判決[はんけつ]の含意[がんい]は大[おお]きい。 | Hàm ý của phán quyết này rất lớn.
+嫌味[いやみ] | n,adj-na | HIỀM VỊ | lời mỉa mai khó chịu | {嫌味} を 言[い]う | nói mỉa | 姑[しゅうとめ]にちくちくと嫌味[いやみ]を言[い]われた。 | Tôi bị mẹ chồng nói mỉa xa xói.
+揚[あ]げ足[あし] | n | DƯƠNG TÚC | bắt bẻ | {揚げ足} を 取[と]る | bắt bẻ câu chữ | 人[ひと]の揚[あ]げ足[あし]ばかり取[と]らないでほしい。 | Đừng có bắt bẻ người khác mãi thế.
+茶化[ちゃか]す | v1 | TRÀ HÓA | đùa cợt (chuyện nghiêm túc) | - | - | 真剣[しんけん]な話[はなし]を茶化[ちゃか]さないで。 | Đừng đùa cợt chuyện nghiêm túc.
+誹謗[ひぼう]中傷[ちゅうしょう] | n,v3 | PHỈ BÁNG TRUNG THƯƠNG | phỉ báng vu khống | - | - | ネット上[じょう]の誹謗[ひぼう]中傷[ちゅうしょう]が社会[しゃかい]問題[もんだい]になっている。 | Phỉ báng trên mạng đang là vấn đề xã hội.
+罵倒[ばとう] | n,v3 | MẠ ĐẢO | chửi rủa | - | - | 彼[かれ]は相手[あいて]を口汚[くちぎたな]く罵倒[ばとう]した。 | Hắn chửi rủa đối phương thậm tệ.
+罵声[ばせい] | n | MẠ THANH | tiếng chửi | {罵声} を 浴[あ]びる | bị chửi | 負[ま]けたチームは観客[かんきゃく]から罵声[ばせい]を浴[あ]びた。 | Đội thua bị khán giả la mắng.
+怒号[どごう] | n,v3 | NỘ HÀO | tiếng gào giận dữ | - | - | 会場[かいじょう]は怒号[どごう]が飛[と]び交[か]う大[おお]騒[さわ]ぎになった。 | Hội trường náo loạn với tiếng gào giận dữ.
+悲鳴[ひめい] | n | BI MINH | tiếng thét | {悲鳴} を 上[あ]げる | thét lên; kêu khổ | 大量[たいりょう]の注文[ちゅうもん]に工場[こうじょう]がうれしい悲鳴[ひめい]を上[あ]げている。 | Nhà máy "kêu khổ" sung sướng vì đơn hàng quá nhiều.
+独[ひと]り言[ごと] | n | ĐỘC NGÔN | lời nói một mình | - | - | 祖父[そふ]は最近[さいきん]独[ひと]り言[ごと]が多[おお]い。 | Gần đây ông tôi hay nói một mình.
+ささやく | v1 | - | thì thầm | 耳元[みみもと] で {ささやく} | thì thầm bên tai | 彼女[かのじょ]は私[わたし]の耳元[みみもと]で答[こた]えをささやいた。 | Cô ấy thì thầm đáp án bên tai tôi.
+わめく | v1 | - | la hét, gào | - | - | 酔[よ]っ払[ぱら]いが駅前[えきまえ]で大声[おおごえ]でわめいていた。 | Gã say rượu gào to trước nhà ga.
+告[つ]げる | v2 | CÁO | báo cho biết | 別[わか]れ を {告げる} | nói lời chia tay | 彼[かれ]は誰[だれ]にも告[つ]げずに町[まち]を去[さ]った。 | Anh rời thị trấn mà không báo cho ai.
+言[い]いつける | v2 | NGÔN PHÓ | dặn bảo; mách | 先生[せんせい] に {言いつける} | mách thầy | 弟[おとうと]は何[なに]かあるとすぐ母[はは]に言[い]いつける。 | Em trai tôi có chuyện gì là mách mẹ ngay.
+言[い]い放[はな]つ | v1 | NGÔN PHÓNG | nói thẳng thừng | - | - | 彼[かれ]は「二度[にど]と来[く]るな」と言[い]い放[はな]った。 | Anh ta nói thẳng thừng: "Đừng bao giờ đến nữa".
+言[い]い張[は]る | v1 | NGÔN TRƯƠNG | khăng khăng | - | - | 息子[むすこ]は自分[じぶん]は悪[わる]くないと言[い]い張[は]った。 | Con trai khăng khăng rằng mình không có lỗi.
+言[い]い渡[わた]す | v1 | NGÔN ĐỘ | tuyên, thông báo | 判決[はんけつ] を {言い渡す} | tuyên án | 裁判長[さいばんちょう]は被告[ひこく]に無罪[むざい]を言[い]い渡[わた]した。 | Chủ tọa tuyên bị cáo vô tội.
+言[い]いふらす | v1 | NGÔN | rêu rao | - | - | 人[ひと]の秘密[ひみつ]を言[い]いふらすのはよくない。 | Rêu rao bí mật của người khác là không tốt.
+言[い]い出[だ]す | v1 | NGÔN XUẤT | nói ra, đề xuất | - | - | 旅行[りょこう]に行[い]こうと言[い]い出[だ]したのは妹[いもうと]だ。 | Người đề xuất đi du lịch là em gái tôi.
+物語[ものがた]る | v1 | VẬT NGỮ | nói lên, chứng tỏ | - | - | この記録[きろく]は当時[とうじ]の生活[せいかつ]の厳[きび]しさを物語[ものがた]っている。 | Ghi chép này nói lên sự khắc nghiệt của cuộc sống thời ấy.
+唱[とな]える | v2 | XƯỚNG | tụng; đề xướng | 異議[いぎ] を {唱える} | phản đối | 彼[かれ]は新[あたら]しい学説[がくせつ]を唱[とな]えた。 | Ông đề xướng một học thuyết mới.
+説[と]く | v1 | THUYẾT | giảng giải, thuyết phục | - | - | 先生[せんせい]は学[まな]ぶことの大切[たいせつ]さを説[と]いた。 | Thầy giảng giải về tầm quan trọng của việc học.
+趣[おもむき] | n | THÚ | vẻ, phong vị; ý chính | {趣} の ある | có phong vị | 古[ふる]い町並[まちな]みには趣[おもむき]がある。 | Dãy phố cổ có phong vị riêng.
+編者[へんじゃ] | n | BIÊN GIẢ | người biên soạn | - | - | 辞書[じしょ]の編者[へんじゃ]が序文[じょぶん]を書[か]いた。 | Người biên soạn từ điển viết lời tựa.
+訳者[やくしゃ] | n | DỊCH GIẢ | dịch giả | - | - | 訳者[やくしゃ]のあとがきを読[よ]むのが好[す]きだ。 | Tôi thích đọc lời bạt của dịch giả.
+原典[げんてん] | n | NGUYÊN ĐIỂN | văn bản gốc | - | - | 翻訳[ほんやく]ではなく原典[げんてん]に当[あ]たって確認[かくにん]した。 | Tôi kiểm tra bằng văn bản gốc chứ không phải bản dịch.
+草稿[そうこう] | n | THẢO CẢO | bản thảo | - | - | 作家[さっか]の死後[しご]、未発表[みはっぴょう]の草稿[そうこう]が見[み]つかった。 | Sau khi nhà văn mất, người ta tìm thấy bản thảo chưa công bố.
+校閲[こうえつ] | n,v3 | HIỆU DUYỆT | hiệu đính | - | - | 出版[しゅっぱん]前[まえ]に専門家[せんもんか]が原稿[げんこう]を校閲[こうえつ]する。 | Trước khi xuất bản, chuyên gia hiệu đính bản thảo.
+加筆[かひつ] | n,v3 | GIA BÚT | viết thêm | {加筆} 修正[しゅうせい] | sửa chữa bổ sung | 雑誌[ざっし]連載[れんさい]に加筆[かひつ]して単行本[たんこうぼん]にした。 | Viết thêm vào bài đăng nhiều kỳ rồi in thành sách.
+改訂[かいてい] | n,v3 | CẢI ĐÍNH | hiệu đính, sửa đổi | {改訂} 版[ばん] | bản sửa đổi | 辞書[じしょ]の改訂[かいてい]版[ばん]が出[で]た。 | Bản sửa đổi của từ điển đã ra.
+増補[ぞうほ] | n,v3 | TĂNG BỔ | bổ sung (sách) | {増補} 版[ばん] | bản bổ sung | 新[あら]たな章[しょう]を加[くわ]えた増補[ぞうほ]版[ばん]が刊行[かんこう]された。 | Bản bổ sung có thêm chương mới đã được phát hành.
+休刊[きゅうかん] | n,v3 | HƯU SAN | tạm ngừng phát hành | - | - | 人気[にんき]雑誌[ざっし]が休刊[きゅうかん]することになった。 | Tạp chí nổi tiếng sẽ tạm ngừng phát hành.
+絶版[ぜっぱん] | n | TUYỆT BẢN | ngừng xuất bản | - | - | 探[さが]していた本[ほん]はすでに絶版[ぜっぱん]だった。 | Cuốn sách tôi tìm đã ngừng xuất bản.
+増刷[ぞうさつ] | n,v3 | TĂNG LOÁT | in thêm | - | - | 予想[よそう]以上[いじょう]に売[う]れて増刷[ぞうさつ]が決[き]まった。 | Bán chạy hơn dự kiến nên quyết định in thêm.
+重版[じゅうはん] | n,v3 | TRÙNG BẢN | tái bản | - | - | デビュー作[さく]がいきなり重版[じゅうはん]になった。 | Tác phẩm đầu tay đã được tái bản ngay.
+発行[はっこう]部数[ぶすう] | n | PHÁT HÀNH BỘ SỐ | số lượng phát hành | - | - | 新聞[しんぶん]の発行[はっこう]部数[ぶすう]は年々[ねんねん]減[へ]っている。 | Số lượng báo phát hành giảm qua từng năm.
+書物[しょもつ] | n | THƯ VẬT | sách vở | - | - | 祖父[そふ]の書斎[しょさい]には古[ふる]い書物[しょもつ]が並[なら]んでいた。 | Phòng đọc của ông tôi xếp đầy sách cổ.
+全集[ぜんしゅう] | n | TOÀN TẬP | toàn tập | - | - | 夏目[なつめ]漱石[そうせき]の全集[ぜんしゅう]をそろえた。 | Tôi sưu tầm đủ toàn tập Natsume Soseki.
+選集[せんしゅう] | n | TUYỂN TẬP | tuyển tập | - | - | 短編[たんぺん]小説[しょうせつ]の選集[せんしゅう]を読[よ]んだ。 | Tôi đọc tuyển tập truyện ngắn.
+月刊[げっかん] | n | NGUYỆT SAN | nguyệt san | {月刊} 誌[し] | tạp chí tháng | この月刊[げっかん]誌[し]は毎月[まいつき]十日[とおか]に発売[はつばい]される。 | Tạp chí tháng này phát hành vào ngày mười hằng tháng.
+週刊[しゅうかん] | n | CHU SAN | tuần san | {週刊} 誌[し] | tuần san | 週刊[しゅうかん]誌[し]に有名人[ゆうめいじん]のスキャンダルが載[の]った。 | Tuần san đăng tin bê bối của người nổi tiếng.
+季刊[きかん] | n | QUÝ SAN | quý san | - | - | 季刊[きかん]の文芸[ぶんげい]誌[し]に短編[たんぺん]を発表[はっぴょう]した。 | Tôi đăng truyện ngắn trên tạp chí văn nghệ ra theo quý.
+出版社[しゅっぱんしゃ] | n | XUẤT BẢN XÃ | nhà xuất bản | - | - | 大学[だいがく]卒業[そつぎょう]後[ご]、出版[しゅっぱん]社[しゃ]に就職[しゅうしょく]した。 | Tốt nghiệp đại học tôi vào làm ở nhà xuất bản.
+編集者[へんしゅうしゃ] | n | BIÊN TẬP GIẢ | biên tập viên | - | - | 編集[へんしゅう]者[しゃ]と相談[そうだん]しながら原稿[げんこう]を直[なお]した。 | Vừa trao đổi với biên tập viên vừa sửa bản thảo.
+編集部[へんしゅうぶ] | n | BIÊN TẬP BỘ | ban biên tập | - | - | ご意見[いけん]は編集[へんしゅう]部[ぶ]までお寄[よ]せください。 | Mọi ý kiến xin gửi về ban biên tập.
+新聞[しんぶん]記者[きしゃ] | n | TÂN VĂN KÝ GIẢ | nhà báo | - | - | 父[ちち]は三十[さんじゅう]年[ねん]間[かん]新聞[しんぶん]記者[きしゃ]をしていた。 | Bố tôi làm nhà báo ba mươi năm.
+報道陣[ほうどうじん] | n | BÁO ĐẠO TRẬN | giới phóng viên | - | - | 空港[くうこう]には大勢[おおぜい]の報道[ほうどう]陣[じん]が詰[つ]めかけた。 | Đông đảo phóng viên kéo đến sân bay.
+マスメディア | n | - | phương tiện truyền thông đại chúng | - | - | マスメディアの影響[えいきょう]力[りょく]は大[おお]きい。 | Ảnh hưởng của truyền thông đại chúng rất lớn.
+密着[みっちゃく]取材[しゅざい] | n | MẬT TRƯỚC THỦ TÀI | tác nghiệp bám sát | - | - | テレビ局[きょく]が人気[にんき]歌手[かしゅ]に一[いち]年[ねん]間[かん]密着[みっちゃく]取材[しゅざい]した。 | Đài truyền hình bám sát ca sĩ nổi tiếng suốt một năm.
+独占[どくせん]取材[しゅざい] | n | ĐỘC CHIẾM THỦ TÀI | phỏng vấn độc quyền | - | - | 雑誌[ざっし]が引退[いんたい]した選手[せんしゅ]に独占[どくせん]取材[しゅざい]した。 | Tạp chí phỏng vấn độc quyền vận động viên đã giải nghệ.
+続報[ぞくほう] | n | TỤC BÁO | tin tiếp theo | - | - | 事故[じこ]について続報[ぞくほう]が入[はい]りました。 | Có thêm tin về vụ tai nạn.
+虚報[きょほう] | n | HƯ BÁO | tin bịa | - | - | その記事[きじ]は虚報[きょほう]だったことが判明[はんめい]した。 | Bài báo đó hóa ra là tin bịa.
+報道[ほうどう]の自由[じゆう] | n | BÁO ĐẠO TỰ DO | tự do báo chí | - | - | 報道[ほうどう]の自由[じゆう]は民主[みんしゅ]主義[しゅぎ]の基盤[きばん]だ。 | Tự do báo chí là nền tảng của dân chủ.
+言論[げんろん]の自由[じゆう] | n | NGÔN LUẬN TỰ DO | tự do ngôn luận | - | - | 言論[げんろん]の自由[じゆう]が制限[せいげん]されている国[くに]もある。 | Có những nước tự do ngôn luận bị hạn chế.
+表現[ひょうげん]の自由[じゆう] | n | BIỂU HIỆN TỰ DO | tự do biểu đạt | - | - | 表現[ひょうげん]の自由[じゆう]にも一定[いってい]の限界[げんかい]がある。 | Tự do biểu đạt cũng có giới hạn nhất định.
+自主[じしゅ]規制[きせい] | n | TỰ CHỦ QUY CHẾ | tự kiểm duyệt | - | - | 放送[ほうそう]局[きょく]は過激[かげき]な表現[ひょうげん]を自主[じしゅ]規制[きせい]している。 | Đài phát thanh tự kiểm duyệt những nội dung quá khích.
+匿名性[とくめいせい] | n | NẶC DANH TÍNH | tính ẩn danh | - | - | ネットの匿名[とくめい]性[せい]が無責任[むせきにん]な発言[はつげん]を生[う]む。 | Tính ẩn danh trên mạng sinh ra những phát ngôn vô trách nhiệm.
+封鎖[ふうさ] | n | PHONG TỎA | phong tỏa | 経済[けいざい]{封鎖} | phong tỏa kinh tế | 国連[こくれん]が経済[けいざい]封鎖[ふうさ]を決議[けつぎ]した。 | Liên Hợp Quốc ra nghị quyết phong tỏa kinh tế.
+属国[ぞっこく] | n | THUỘC QUỐC | nước chư hầu | {属国}になる | trở thành nước chư hầu | かつての属国[ぞっこく]が独立[どくりつ]を勝[か]ち取[と]った。 | Nước chư hầu xưa giành được độc lập.
+宗主[そうしゅ] | n | TÔNG CHỦ | tông chủ, chủ quyền | {宗主}国[こく] | nước chủ quyền | 宗主[そうしゅ]国[こく]の支配[しはい]から脱[だっ]した。 | Thoát khỏi sự cai trị của nước tông chủ.
+連邦[れんぽう] | n | LIÊN BANG | liên bang | {連邦}制[せい] | chế độ liên bang | ドイツは連邦[れんぽう]制[せい]の国[くに]だ。 | Đức là quốc gia theo chế độ liên bang.
+邦交[ほうこう] | n | BANG GIAO | bang giao | {邦交}を結[むす]ぶ | thiết lập bang giao | 両国[りょうこく]は邦交[ほうこう]を正常[せいじょう]化[か]した。 | Hai nước bình thường hóa bang giao.
+修交[しゅうこう] | n | TU GIAO | lập quan hệ ngoại giao | {修交}する | lập quan hệ ngoại giao | 新政権[しんせいけん]と修交[しゅうこう]を結[むす]んだ。 | Lập quan hệ ngoại giao với chính quyền mới.
+親善[しんぜん] | n | THÂN THIỆN | hữu nghị | {親善}大使[たいし] | đại sứ hữu nghị | 親善[しんぜん]試合[しあい]で友好[ゆうこう]を深[ふか]めた。 | Tăng cường hữu nghị qua trận đấu giao hữu.
+融和[ゆうわ] | n | DUNG HÒA | dung hòa | 民族[みんぞく]{融和} | dung hòa dân tộc | 多民族[たみんぞく]の融和[ゆうわ]を目指[めざ]す政策[せいさく]だ。 | Là chính sách nhằm dung hòa đa dân tộc.
+斡旋[あっせん] | n | HOẠT TOÀN | trung gian, dàn xếp | {斡旋}する | dàn xếp | 国連[こくれん]が紛争[ふんそう]の斡旋[あっせん]に乗[の]り出[だ]した。 | Liên Hợp Quốc bắt đầu dàn xếp tranh chấp.
+休戦[きゅうせん] | n | HƯU CHIẾN | ngừng bắn | {休戦}協定[きょうてい] | hiệp định ngừng bắn | 両軍[りょうぐん]が休戦[きゅうせん]協定[きょうてい]に署名[しょめい]した。 | Hai bên quân đội ký hiệp định ngừng bắn.
+進駐[しんちゅう] | n | TIẾN TRÚ | tiến vào đóng quân | {進駐}する | tiến vào đóng quân | 連合[れんごう]軍[ぐん]が首都[しゅと]に進駐[しんちゅう]した。 | Quân đồng minh tiến vào đóng quân ở thủ đô.
+傭兵[ようへい] | n | DUNG BINH | lính đánh thuê | {傭兵}を雇[やと]う | thuê lính đánh thuê | 中世[ちゅうせい]ヨーロッパでは傭兵[ようへい]が活躍[かつやく]した。 | Lính đánh thuê hoạt động mạnh ở châu Âu trung cổ.
+民兵[みんぺい] | n | DÂN BINH | dân quân | {民兵}組織[そしき] | tổ chức dân quân | 民兵[みんぺい]が国境[こっきょう]を防衛[ぼうえい]している。 | Dân quân đang phòng thủ biên giới.
+武装[ぶそう] | n | VŨ TRANG | vũ trang | {武装}解除[かいじょ] | giải trừ vũ trang | 武装[ぶそう]勢力[せいりょく]の武装[ぶそう]解除[かいじょ]が進[すす]んだ。 | Tiến hành giải trừ vũ trang lực lượng vũ trang.
+弾頭[だんとう] | n | ĐẠN ĐẦU | đầu đạn | 核[かく]{弾頭} | đầu đạn hạt nhân | 核[かく]弾頭[だんとう]の削減[さくげん]が合意[ごうい]された。 | Đã đạt thỏa thuận cắt giảm đầu đạn hạt nhân.
+偵察[ていさつ] | n | TRINH SÁT | trinh sát | {偵察}する | trinh sát | ドローンで敵[てき]陣地[じんち]を偵察[ていさつ]した。 | Trinh sát trận địa địch bằng drone.
+諜報[ちょうほう] | n | ĐIỆP BÁO | tình báo | {諜報}活動[かつどう] | hoạt động tình báo | 諜報[ちょうほう]活動[かつどう]が国際[こくさい]問題[もんだい]になった。 | Hoạt động tình báo trở thành vấn đề quốc tế.
+盟約[めいやく] | n | MINH ƯỚC | minh ước | {盟約}を結[むす]ぶ | ký kết minh ước | 両国[りょうこく]が盟約[めいやく]を結[むす]んだ。 | Hai nước ký kết minh ước.
+調印[ちょういん] | n | ĐIỀU ẤN | ký kết (chính thức) | {調印}する | ký kết | 平和[へいわ]条約[じょうやく]に調印[ちょういん]した。 | Ký kết hiệp ước hòa bình.
+分権[ぶんけん] | n | PHÂN QUYỀN | phân quyền | 地方[ちほう]{分権} | phân quyền địa phương | 地方[ちほう]分権[ぶんけん]を推進[すいしん]する政策[せいさく]だ。 | Đó là chính sách thúc đẩy phân quyền địa phương.
+集権[しゅうけん] | n | TẬP QUYỀN | tập quyền | 中央[ちゅうおう]{集権} | tập quyền trung ương | 中央[ちゅうおう]集権[しゅうけん]体制[たいせい]を築[きず]いた。 | Xây dựng thể chế tập quyền trung ương.

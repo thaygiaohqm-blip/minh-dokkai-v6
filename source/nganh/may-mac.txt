@@ -1,0 +1,193 @@
+@topic may-mac
+@ja 繊維[せんい]・衣服[いふく]
+@vi May mặc
+@desc Vải, chỉ, máy may, cắt rập, các công đoạn may, là ủi, kiểm hàng và đóng gói trong xưởng may.
+繊維[せんい] | n | TIÊM DUY | sợi; dệt may | {繊維[せんい]} 工場[こうじょう] | nhà máy dệt | 岐阜[ぎふ]の繊維[せんい]工場[こうじょう]で働[はたら]いています。 | Tôi làm ở nhà máy dệt tại Gifu.
+衣服[いふく] | n | Y PHỤC | quần áo | - | - | 衣服[いふく]を作[つく]る仕事[しごと]をしています。 | Tôi làm công việc may quần áo.
+縫製[ほうせい] | n,v3 | PHÙNG CHẾ | may (công nghiệp) | {縫製[ほうせい]} 工場[こうじょう] | xưởng may | 縫製[ほうせい]工場[こうじょう]でシャツを作[つく]っています。 | Tôi may áo sơ mi ở xưởng may.
+縫[ぬ]う | v1 | PHÙNG | may, khâu | ミシン で 縫[ぬ]う | may bằng máy | 袖[そで]をミシンで縫[ぬ]います。 | May tay áo bằng máy.
+ミシン | n | - | máy may | ミシン を かける | may máy | まっすぐミシンをかけてください。 | Hãy may máy cho thẳng.
+本縫[ほんぬ]いミシン | n | BẢN PHÙNG | máy may một kim | - | - | 本縫[ほんぬ]いミシンで縫[ぬ]います。 | May bằng máy một kim.
+ロックミシン | n | - | máy vắt sổ | - | - | 布[ぬの]の端[はし]をロックミシンでかがります。 | Vắt sổ mép vải bằng máy vắt sổ.
+布[ぬの] | n | BỐ | vải | 布[ぬの] を 裁[た]つ | cắt vải | 型紙[かたがみ]に合[あ]わせて布[ぬの]を裁[た]ちます。 | Cắt vải theo rập.
+生地[きじ] | n | SINH ĐỊA | vải (chất liệu) | 生地[きじ] が 薄[うす]い | vải mỏng | この生地[きじ]は薄[うす]いので縫[ぬ]いにくいです。 | Vải này mỏng nên khó may.
+糸[いと] | n | MỊCH | chỉ | 糸[いと] を 通[とお]す | xâu chỉ | 針[はり]に糸[いと]を通[とお]します。 | Xâu chỉ vào kim.
+針[はり] | n | CHÂM | kim | 針[はり] が 折[お]れる | gãy kim | 針[はり]が折[お]れたら必[かなら]ず報告[ほうこく]してください。 | Gãy kim thì nhất định phải báo cáo.
+折[お]れ針[ばり] | n | CHIẾT CHÂM | kim gãy | - | - | 折[お]れ針[ばり]は全部[ぜんぶ]見[み]つけて管理[かんり]します。 | Phải tìm đủ mảnh kim gãy để quản lý.
+検針[けんしん] | n,v3 | KIỂM CHÂM | dò kim | {検針[けんしん]} 機[き] | máy dò kim | 完成品[かんせいひん]は全部[ぜんぶ]検針[けんしん]機[き]に通[とお]します。 | Toàn bộ thành phẩm đều cho qua máy dò kim.
+糸切[いとき]り | n | MỊCH THIẾT | cắt chỉ | - | - | 縫[ぬ]い終[お]わったら糸切[いとき]りをします。 | May xong thì cắt chỉ.
+糸[いと]くず | n | MỊCH | chỉ thừa | 糸[いと]くず を 取[と]る | nhặt chỉ thừa | 製品[せいひん]についた糸[いと]くずを取[と]ります。 | Nhặt chỉ thừa dính trên sản phẩm.
+ボビン | n | - | suốt chỉ | ボビン を 替[か]える | thay suốt chỉ | 下糸[したいと]がなくなったらボビンを替[か]えます。 | Hết chỉ dưới thì thay suốt chỉ.
+下糸[したいと] | n | HẠ MỊCH | chỉ dưới | - | - | 下糸[したいと]の色[いろ]を確認[かくにん]してください。 | Hãy kiểm tra màu chỉ dưới.
+上糸[うわいと] | n | THƯỢNG MỊCH | chỉ trên | - | - | 上糸[うわいと]の調子[ちょうし]を合[あ]わせます。 | Chỉnh độ căng chỉ trên.
+糸調子[いとちょうし] | n | MỊCH ĐIỀU TỬ | độ căng chỉ | 糸調子[いとちょうし] を 合[あ]わせる | chỉnh độ căng chỉ | 生地[きじ]によって糸調子[いとちょうし]を合[あ]わせます。 | Chỉnh độ căng chỉ tùy loại vải.
+縫[ぬ]い目[め] | n | PHÙNG MỤC | đường may, mũi may | 縫[ぬ]い目[め] が 曲[ま]がる | đường may bị cong | 縫[ぬ]い目[め]が曲[ま]がっているのでやり直[なお]します。 | Đường may bị cong nên may lại.
+縫[ぬ]い代[しろ] | n | PHÙNG ĐẠI | đường biên may (đường chừa) | - | - | 縫[ぬ]い代[しろ]は一[いっ]センチです。 | Đường chừa may là một phân.
+目飛[めと]び | n | MỤC PHI | bỏ mũi | - | - | 目飛[めと]びがないか確認[かくにん]します。 | Kiểm tra xem có bỏ mũi không.
+ほつれ | n | - | bị tuột chỉ | - | - | 袖口[そでぐち]にほつれがあります。 | Cổ tay áo bị tuột chỉ.
+型紙[かたがみ] | n | HÌNH CHỈ | rập (mẫu giấy) | - | - | 型紙[かたがみ]を生地[きじ]の上[うえ]に置[お]きます。 | Đặt rập lên vải.
+裁断[さいだん] | n,v3 | TÀI ĐOẠN | cắt vải | - | - | 裁断[さいだん]の前[まえ]に生地[きじ]を重[かさ]ねます。 | Trước khi cắt thì xếp chồng vải.
+裁[た]つ | v1 | TÀI | cắt (vải) | - | - | 印[しるし]に沿[そ]って生地[きじ]を裁[た]ちます。 | Cắt vải theo dấu.
+重[かさ]ねる | v2 | TRÙNG | chồng lên | - | - | 生地[きじ]を五十[ごじゅう]枚[まい]重[かさ]ねて裁断[さいだん]します。 | Chồng năm mươi lớp vải rồi cắt.
+裁断機[さいだんき] | n | TÀI ĐOẠN CƠ | máy cắt vải | - | - | 裁断機[さいだんき]の刃[は]に手[て]を近[ちか]づけないでください。 | Đừng đưa tay lại gần lưỡi máy cắt vải.
+裁[たち]ばさみ | n | TÀI | kéo cắt vải | - | - | 裁[たち]ばさみで紙[かみ]を切[き]らないでください。 | Đừng dùng kéo cắt vải để cắt giấy.
+チャコ | n | - | phấn may | - | - | チャコで布[ぬの]に印[しるし]をつけます。 | Đánh dấu lên vải bằng phấn may.
+メジャー | n | - | thước dây | - | - | メジャーで寸法[すんぽう]を測[はか]ります。 | Đo kích thước bằng thước dây.
+まち針[ばり] | n | CHÂM | ghim (may) | - | - | まち針[ばり]で布[ぬの]を留[と]めます。 | Ghim vải lại bằng ghim.
+留[と]める | v2 | LƯU | ghim, cố định | - | - | ボタンを糸[いと]でしっかり留[と]めます。 | Đính chặt cúc bằng chỉ.
+襟[えり] | n | KHÂM | cổ áo | 襟[えり] を 付[つ]ける | tra cổ áo | 襟[えり]を身頃[みごろ]に付[つ]けます。 | Tra cổ áo vào thân áo.
+袖[そで] | n | TỤ | tay áo | 袖[そで] を 付[つ]ける | tra tay áo | 袖[そで]を左右[さゆう]間違[まちが]えないで付[つ]けてください。 | Tra tay áo đừng nhầm trái phải.
+身頃[みごろ] | n | THÂN KHOẢNH | thân áo | - | - | 前[まえ]身頃[みごろ]と後[うし]ろ身頃[みごろ]を縫[ぬ]い合[あ]わせます。 | May ghép thân trước và thân sau.
+縫[ぬ]い合[あ]わせる | v2 | PHÙNG HỢP | may ghép | - | - | 二[に]枚[まい]の布[ぬの]を縫[ぬ]い合[あ]わせます。 | May ghép hai mảnh vải.
+裾[すそ] | n | CƯ | gấu áo, gấu quần | 裾[すそ] を 上[あ]げる | lên gấu | ズボンの裾[すそ]を三[さん]センチ上[あ]げます。 | Lên gấu quần ba phân.
+ポケット付[つ]け | n | PHÓ | may túi | - | - | 今日[きょう]はポケット付[つ]けを担当[たんとう]します。 | Hôm nay tôi phụ trách may túi.
+ボタンホール | n | - | khuyết áo | - | - | 専用[せんよう]のミシンでボタンホールを作[つく]ります。 | Làm khuyết áo bằng máy chuyên dụng.
+ボタン付[つ]け | n | PHÓ | đính cúc | - | - | ボタン付[つ]けが緩[ゆる]くないか確認[かくにん]します。 | Kiểm tra cúc đính có lỏng không.
+ファスナー | n | - | khóa kéo | ファスナー を 付[つ]ける | tra khóa kéo | スカートにファスナーを付[つ]けます。 | Tra khóa kéo vào váy.
+ゴム | n | - | thun | ゴム を 通[とお]す | luồn thun | ウエストにゴムを通[とお]します。 | Luồn thun vào cạp quần.
+裏地[うらじ] | n | LÝ ĐỊA | vải lót | - | - | コートには裏地[うらじ]が付[つ]いています。 | Áo khoác có vải lót.
+芯地[しんじ] | n | TÂM ĐỊA | vải dựng | 芯地[しんじ] を 貼[は]る | ép vải dựng | 襟[えり]に芯地[しんじ]を貼[は]ります。 | Ép vải dựng vào cổ áo.
+アイロン | n | - | bàn là | アイロン を かける | là ủi | 縫[ぬ]い代[しろ]にアイロンをかけて割[わ]ります。 | Là rẽ đường chừa may.
+プレス | n,v3 | - | ép là (công nghiệp) | - | - | 仕上[しあ]げにプレスをします。 | Ép là ở khâu hoàn thiện.
+しわ | n | - | nếp nhăn | しわ を 伸[の]ばす | là phẳng nếp nhăn | アイロンでしわを伸[の]ばします。 | Là phẳng nếp nhăn bằng bàn là.
+仕上[しあ]げ | n | SĨ THƯỢNG | khâu hoàn thiện | - | - | 仕上[しあ]げの担当[たんとう]は検品[けんぴん]もします。 | Người phụ trách hoàn thiện cũng kiểm hàng.
+検品[けんぴん] | n,v3 | KIỂM PHẨM | kiểm hàng | - | - | 一枚[いちまい]ずつ検品[けんぴん]します。 | Kiểm từng chiếc một.
+汚[よご]れ | n | Ô | vết bẩn | - | - | 生地[きじ]に汚[よご]れがないか確認[かくにん]します。 | Kiểm tra vải có vết bẩn không.
+シミ | n | - | vết ố | シミ を 取[と]る | tẩy vết ố | 油[あぶら]のシミを専用[せんよう]の液[えき]で取[と]ります。 | Tẩy vết dầu bằng dung dịch chuyên dụng.
+サイズ | n | - | cỡ | - | - | サイズのタグを間違[まちが]えないように付[つ]けます。 | Gắn nhãn cỡ cẩn thận để không nhầm.
+タグ | n | - | nhãn mác | - | - | 首[くび]の後[うし]ろにタグを縫[ぬ]い付[つ]けます。 | May nhãn vào sau cổ áo.
+品質表示[ひんしつひょうじ] | n | PHẨM CHẤT BIỂU THỊ | nhãn thành phần | - | - | 品質表示[ひんしつひょうじ]に素材[そざい]が書[か]いてあります。 | Nhãn thành phần ghi chất liệu.
+素材[そざい] | n | TỐ TÀI | chất liệu | - | - | 素材[そざい]によって縫[ぬ]い方[かた]が違[ちが]います。 | Cách may khác nhau tùy chất liệu.
+綿[めん] | n | MIÊN | cotton | {綿[めん]} 百[ひゃく]パーセント | 100% cotton | このシャツは綿[めん]百[ひゃく]パーセントです。 | Áo sơ mi này là 100% cotton.
+麻[あさ] | n | MA | vải lanh, gai | - | - | 麻[あさ]の生地[きじ]はしわになりやすいです。 | Vải lanh dễ bị nhăn.
+ウール | n | - | len | - | - | ウールは高[たか]い温度[おんど]でアイロンをかけないでください。 | Đừng là len ở nhiệt độ cao.
+ポリエステル | n | - | polyester | - | - | ポリエステルは乾[かわ]きやすいです。 | Polyester nhanh khô.
+柄[がら] | n | BÍNH | họa tiết | 柄[がら] を 合[あ]わせる | khớp họa tiết | 縫[ぬ]い合[あ]わせる時[とき]は柄[がら]を合[あ]わせます。 | Khi may ghép phải khớp họa tiết.
+無地[むじ] | n | VÔ ĐỊA | vải trơn | - | - | 無地[むじ]の生地[きじ]は縫[ぬ]い目[め]が目立[めだ]ちます。 | Vải trơn thì đường may dễ lộ.
+目立[めだ]つ | v1 | MỤC LẬP | nổi bật, dễ thấy | - | - | 小[ちい]さな傷[きず]でも目立[めだ]ちます。 | Vết nhỏ cũng dễ thấy.
+表[おもて] | n | BIỂU | mặt phải | - | - | 生地[きじ]の表[おもて]と裏[うら]を確認[かくにん]します。 | Kiểm tra mặt phải và mặt trái của vải.
+裏[うら] | n | LÝ | mặt trái | 裏[うら] 返[がえ]す | lộn trái | 縫[ぬ]った後[あと]、裏[うら]返[がえ]します。 | May xong thì lộn mặt.
+裏返[うらがえ]す | v1 | LÝ PHẢN | lộn trái | - | - | シャツを裏返[うらがえ]して検品[けんぴん]します。 | Lộn trái áo để kiểm hàng.
+左右[さゆう] | n | TẢ HỮU | trái phải | 左右[さゆう] を そろえる | cân đối hai bên | 袖[そで]の長[なが]さを左右[さゆう]そろえます。 | Chỉnh tay áo hai bên dài bằng nhau.
+そろえる | v2 | - | làm cho đều | - | - | 端[はし]をそろえて縫[ぬ]います。 | Căn đều mép rồi may.
+ずれ | n | - | độ lệch | - | - | 縫[ぬ]い目[め]のずれがないように注意[ちゅうい]します。 | Chú ý để đường may không bị lệch.
+寸法[すんぽう] | n | THỐN PHÁP | kích thước | 寸法[すんぽう] を 測[はか]る | đo kích thước | 着丈[きたけ]と身幅[みはば]の寸法[すんぽう]を測[はか]ります。 | Đo chiều dài áo và bề rộng thân.
+着丈[きたけ] | n | TRƯỚC TRƯỢNG | chiều dài áo | - | - | 着丈[きたけ]が一[いっ]センチ短[みじか]いです。 | Chiều dài áo ngắn một phân.
+袖丈[そでたけ] | n | TỤ TRƯỢNG | chiều dài tay | - | - | 袖丈[そでたけ]を測[はか]って記録[きろく]します。 | Đo chiều dài tay rồi ghi lại.
+ウエスト | n | - | vòng eo | - | - | ウエストのサイズを確認[かくにん]します。 | Kiểm tra số đo vòng eo.
+股下[またした] | n | CỔ HẠ | chiều dài ống quần trong | - | - | ズボンの股下[またした]を測[はか]ります。 | Đo chiều dài ống quần phía trong.
+工程[こうてい] | n | CÔNG TRÌNH | công đoạn | - | - | 一枚[いちまい]のシャツには三十[さんじゅう]以上[いじょう]の工程[こうてい]があります。 | Một chiếc áo sơ mi có hơn ba mươi công đoạn.
+流[なが]れ作業[さぎょう] | n | LƯU TÁC NGHIỆP | làm dây chuyền | - | - | 縫製[ほうせい]は流[なが]れ作業[さぎょう]で行[おこな]います。 | Việc may được làm theo dây chuyền.
+担当[たんとう] | n,v3 | ĐẢM ĐƯƠNG | phụ trách | - | - | 私[わたし]は襟[えり]付[つ]けを担当[たんとう]しています。 | Tôi phụ trách tra cổ áo.
+枚数[まいすう] | n | MAI SỐ | số chiếc | 枚数[まいすう] を 数[かぞ]える | đếm số chiếc | 一時間[いちじかん]に縫[ぬ]った枚数[まいすう]を数[かぞ]えます。 | Đếm số chiếc may được trong một giờ.
+ノルマ | n | - | định mức | ノルマ を 達成[たっせい] する | đạt định mức | 一日[いちにち]のノルマは三百[さんびゃく]枚[まい]です。 | Định mức một ngày là ba trăm chiếc.
+スピード | n | - | tốc độ | - | - | 慣[な]れたらスピードを上[あ]げましょう。 | Quen rồi thì tăng tốc độ lên.
+丁寧[ていねい] | adj-na | ĐINH NINH | cẩn thận | 丁寧[ていねい] に 縫[ぬ]う | may cẩn thận | 速[はや]さより丁寧[ていねい]に縫[ぬ]うことが大切[たいせつ]です。 | May cẩn thận quan trọng hơn may nhanh.
+やり直[なお]し | n | TRỰC | làm lại | - | - | 縫[ぬ]い目[め]が曲[ま]がっていたのでやり直[なお]しです。 | Đường may bị cong nên phải làm lại.
+ほどく | v1 | - | tháo (đường may) | 縫[ぬ]い目[め] を ほどく | tháo đường may | 間違[まちが]えた所[ところ]をほどいて縫[ぬ]い直[なお]します。 | Tháo chỗ may sai rồi may lại.
+リッパー | n | - | dụng cụ tháo chỉ | - | - | リッパーで糸[いと]をほどきます。 | Tháo chỉ bằng dụng cụ tháo chỉ.
+縫[ぬ]い直[なお]す | v1 | PHÙNG TRỰC | may lại | - | - | 袖[そで]をもう一度[いちど]縫[ぬ]い直[なお]してください。 | Hãy may lại tay áo một lần nữa.
+返[かえ]し縫[ぬ]い | n | PHẢN PHÙNG | lại mũi (khóa mũi may) | - | - | 縫[ぬ]い始[はじ]めと縫[ぬ]い終[お]わりは返[かえ]し縫[ぬ]いをします。 | Đầu và cuối đường may phải lại mũi.
+押[お]さえ | n | ÁP | chân vịt (máy may) | 押[お]さえ を 上[あ]げる | nâng chân vịt | 押[お]さえを上[あ]げて布[ぬの]を入[い]れます。 | Nâng chân vịt lên rồi đưa vải vào.
+送[おく]り | n | TỐNG | răng cưa đẩy vải | - | - | 布[ぬの]の送[おく]りがうまくいきません。 | Vải đẩy không đều.
+針目[はりめ] | n | CHÂM MỤC | mũi kim, độ dày mũi | 針目[はりめ] を 細[こま]かく する | làm mũi dày hơn | この部分[ぶぶん]は針目[はりめ]を細[こま]かくします。 | Phần này may mũi dày hơn.
+ペダル | n | - | bàn đạp | ペダル を 踏[ふ]む | đạp bàn đạp | ペダルをゆっくり踏[ふ]んでください。 | Hãy đạp bàn đạp từ từ.
+油差[あぶらさ]し | n | DU SAI | tra dầu (máy may) | - | - | 毎朝[まいあさ]ミシンの油差[あぶらさ]しをします。 | Mỗi sáng tra dầu máy may.
+故障[こしょう] | n,v3 | CỐ CHƯỚNG | hỏng hóc | - | - | ミシンが故障[こしょう]したら、すぐに手[て]を上[あ]げて知[し]らせます。 | Máy may hỏng thì giơ tay báo ngay.
+絡[から]まる | v1 | LẠC | rối | - | - | 糸[いと]が絡[から]まったら、ゆっくりほどきます。 | Chỉ rối thì gỡ từ từ.
+指[ゆび]ぬき | n | CHỈ | đê khâu | - | - | 手[て]で縫[ぬ]う時[とき]は指[ゆび]ぬきをします。 | Khi khâu tay thì đeo đê.
+手縫[てぬ]い | n,v3 | THỦ PHÙNG | khâu tay | - | - | 細[こま]かい部分[ぶぶん]は手縫[てぬ]いで仕上[しあ]げます。 | Phần chi tiết thì hoàn thiện bằng khâu tay.
+まつり縫[ぬ]い | n | PHÙNG | khâu vắt | - | - | 裾[すそ]をまつり縫[ぬ]いします。 | Khâu vắt gấu.
+しつけ | n | - | lược (khâu tạm) | - | - | しつけ糸[いと]で仮[かり]に留[と]めます。 | Lược tạm bằng chỉ lược.
+刺繍[ししゅう] | n,v3 | THÍCH TÚ | thêu | - | - | 胸[むね]にロゴを刺繍[ししゅう]します。 | Thêu logo lên ngực áo.
+プリント | n,v3 | - | in (lên vải) | - | - | Tシャツに絵[え]をプリントします。 | In hình lên áo phông.
+染[そ]める | v2 | NHIỄM | nhuộm | - | - | 生地[きじ]を青[あお]く染[そ]めます。 | Nhuộm vải màu xanh.
+色落[いろお]ち | n,v3 | SẮC LẠC | phai màu | - | - | 洗[あら]うと色落[いろお]ちすることがあります。 | Giặt có thể bị phai màu.
+縮[ちぢ]む | v1 | SÚC | co lại | - | - | 綿[めん]は洗[あら]うと少[すこ]し縮[ちぢ]みます。 | Vải cotton giặt xong co lại một chút.
+伸[の]びる | v2 | THÂN | giãn ra | - | - | ニットは伸[の]びやすいので注意[ちゅうい]します。 | Vải dệt kim dễ giãn nên cần chú ý.
+ニット | n | - | vải dệt kim | - | - | ニットは専用[せんよう]の針[はり]で縫[ぬ]います。 | Vải dệt kim may bằng kim chuyên dụng.
+デニム | n | - | vải bò | - | - | デニムは厚[あつ]いので太[ふと]い針[はり]を使[つか]います。 | Vải bò dày nên dùng kim to.
+織[お]る | v1 | CHỨC | dệt | - | - | 機械[きかい]で布[ぬの]を織[お]ります。 | Dệt vải bằng máy.
+織物[おりもの] | n | CHỨC VẬT | hàng dệt | - | - | この地域[ちいき]は織物[おりもの]が有名[ゆうめい]です。 | Vùng này nổi tiếng về hàng dệt.
+編[あ]み物[もの] | n | BIÊN VẬT | đồ đan | - | - | 冬[ふゆ]は編[あ]み物[もの]の注文[ちゅうもん]が増[ふ]えます。 | Mùa đông đơn hàng đồ đan tăng.
+反物[たんもの] | n | PHẢN VẬT | súc vải | - | - | 反物[たんもの]を広[ひろ]げて傷[きず]を探[さが]します。 | Trải súc vải ra để tìm lỗi.
+広[ひろ]げる | v2 | QUẢNG | trải ra | - | - | 生地[きじ]を台[だい]の上[うえ]に広[ひろ]げます。 | Trải vải ra trên bàn.
+延反[えんたん] | n,v3 | DIÊN PHẢN | trải vải (để cắt) | - | - | 裁断[さいだん]の前[まえ]に延反[えんたん]をします。 | Trải vải trước khi cắt.
+パーツ | n | - | chi tiết (mảnh cắt) | - | - | 裁断[さいだん]したパーツに番号[ばんごう]をつけます。 | Đánh số các chi tiết đã cắt.
+束[たば] | n | THÚC | bó | - | - | パーツを十[じゅう]枚[まい]ずつ束[たば]にします。 | Bó các chi tiết mỗi bó mười mảnh.
+仕分[しわ]け | n,v3 | SĨ PHÂN | phân loại | - | - | サイズごとに仕分[しわ]けします。 | Phân loại theo từng cỡ.
+たたむ | v1 | - | gấp | シャツ を たたむ | gấp áo | シャツをきれいにたたんで袋[ふくろ]に入[い]れます。 | Gấp áo gọn gàng rồi cho vào túi.
+袋入[ふくろい]れ | n,v3 | ĐẠI NHẬP | cho vào túi | - | - | たたんだ服[ふく]を袋入[ふくろい]れします。 | Cho quần áo đã gấp vào túi.
+箱詰[はこづ]め | n,v3 | TƯƠNG CẬT | đóng thùng | - | - | 色[いろ]とサイズを確認[かくにん]して箱詰[はこづ]めします。 | Kiểm tra màu và cỡ rồi đóng thùng.
+出荷[しゅっか] | n,v3 | XUẤT HÀ | xuất hàng | - | - | 金曜日[きんようび]に出荷[しゅっか]します。 | Thứ Sáu xuất hàng.
+納期[のうき] | n | NẠP KỲ | hạn giao hàng | - | - | 納期[のうき]が近[ちか]いので残業[ざんぎょう]があります。 | Gần hạn giao hàng nên có tăng ca.
+作業着[さぎょうぎ] | n | TÁC NGHIỆP TRƯỚC | đồ bảo hộ, đồng phục làm việc | - | - | 作業着[さぎょうぎ]の大量[たいりょう]注文[ちゅうもん]が入[はい]りました。 | Có đơn hàng lớn đồ bảo hộ.
+制服[せいふく] | n | CHẾ PHỤC | đồng phục | - | - | 学校[がっこう]の制服[せいふく]を作[つく]っています。 | Đang may đồng phục học sinh.
+スーツ | n | - | bộ vest | - | - | スーツは工程[こうてい]が多[おお]くて難[むずか]しいです。 | Vest nhiều công đoạn nên khó.
+ワイシャツ | n | - | áo sơ mi | - | - | ワイシャツの襟[えり]はきれいに仕上[しあ]げます。 | Cổ áo sơ mi phải hoàn thiện thật đẹp.
+ブラウス | n | - | áo cánh nữ | - | - | 薄[うす]いブラウスは丁寧[ていねい]に扱[あつか]います。 | Áo cánh mỏng phải xử lý cẩn thận.
+ズボン | n | - | quần dài | - | - | ズボンの裾[すそ]上[あ]げをします。 | Lên gấu quần.
+スカート | n | - | váy | - | - | スカートのウエストにゴムを入[い]れます。 | Luồn thun vào cạp váy.
+ワンピース | n | - | váy liền | - | - | ワンピースのファスナーを付[つ]けます。 | Tra khóa kéo cho váy liền.
+肩[かた] | n | KIÊN | vai | - | - | 肩[かた]の縫[ぬ]い目[め]を合[あ]わせてください。 | Hãy khớp đường may ở vai.
+脇[わき] | n | HIẾP | sườn, nách | 脇[わき] を 縫[ぬ]う | may sườn | 身頃[みごろ]の脇[わき]を縫[ぬ]います。 | May sườn thân áo.
+袖口[そでぐち] | n | TỤ KHẨU | cổ tay áo | - | - | 袖口[そでぐち]のボタンを付[つ]けます。 | Đính cúc cổ tay áo.
+前立[まえだ]て | n | TIỀN LẬP | nẹp áo | - | - | 前立[まえだ]てにボタンホールを作[つく]ります。 | Làm khuyết áo trên nẹp.
+ベルト通[とお]し | n | THÔNG | đỉa quần | - | - | ズボンにベルト通[とお]しを付[つ]けます。 | May đỉa quần.
+ダーツ | n | - | chiết ly | - | - | 前[まえ]身頃[みごろ]にダーツを取[と]ります。 | Chiết ly thân trước.
+ギャザー | n | - | nếp nhún | ギャザー を 寄[よ]せる | nhún vải | スカートにギャザーを寄[よ]せます。 | Nhún vải cho váy.
+タック | n | - | nếp gấp | - | - | ズボンにタックを入[い]れます。 | Tạo ly cho quần.
+パイピング | n | - | viền | - | - | 端[はし]をパイピングで包[つつ]みます。 | Bọc mép bằng đường viền.
+バイアステープ | n | - | dây xéo | - | - | 襟[えり]ぐりにバイアステープを付[つ]けます。 | Viền cổ bằng dây xéo.
+接着芯[せっちゃくしん] | n | TIẾP TRƯỚC TÂM | keo dựng | - | - | アイロンで接着芯[せっちゃくしん]を貼[は]ります。 | Ép keo dựng bằng bàn là.
+温度設定[おんどせってい] | n | ÔN ĐỘ THIẾT ĐỊNH | cài đặt nhiệt độ | - | - | 生地[きじ]に合[あ]わせてアイロンの温度設定[おんどせってい]を変[か]えます。 | Thay đổi nhiệt độ bàn là cho phù hợp loại vải.
+焦[こ]がす | v1 | TIÊU | làm cháy xém | - | - | 温度[おんど]が高[たか]すぎると生地[きじ]を焦[こ]がします。 | Nhiệt độ quá cao sẽ làm cháy vải.
+当[あ]て布[ぬの] | n | ĐƯƠNG BỐ | vải lót khi là | - | - | 当[あ]て布[ぬの]をしてアイロンをかけます。 | Lót vải rồi mới là.
+テカリ | n | - | vết bóng (do là) | - | - | アイロンでテカリが出[で]ないように注意[ちゅうい]します。 | Chú ý để không bị bóng vải khi là.
+蒸気[じょうき] | n | CHƯNG KHÍ | hơi nước | - | - | 蒸気[じょうき]を当[あ]ててしわを取[と]ります。 | Phun hơi nước để làm phẳng nếp nhăn.
+吊[つ]るす | v1 | ĐIẾU | treo | - | - | 仕上[しあ]がった服[ふく]をハンガーに吊[つ]るします。 | Treo quần áo đã hoàn thiện lên móc.
+ハンガー | n | - | móc áo | - | - | コートはハンガーに掛[か]けて出荷[しゅっか]します。 | Áo khoác treo móc rồi xuất hàng.
+不良[ふりょう] | n | BẤT LƯƠNG | hàng lỗi | - | - | 不良[ふりょう]を見[み]つけたらタグをつけて別[べつ]にします。 | Phát hiện hàng lỗi thì gắn thẻ và để riêng.
+穴[あな]あき | n | HUYỆT | thủng lỗ | - | - | 生地[きじ]に小[ちい]さな穴[あな]あきがあります。 | Vải có lỗ thủng nhỏ.
+色[いろ]違[ちが]い | n | SẮC VI | khác màu | - | - | 同[おな]じ服[ふく]なのに色[いろ]違[ちが]いのパーツが混[ま]ざっています。 | Cùng một áo mà lẫn chi tiết khác màu.
+縫[ぬ]い忘[わす]れ | n | PHÙNG VONG | quên may | - | - | 縫[ぬ]い忘[わす]れがないか最後[さいご]に確認[かくにん]します。 | Cuối cùng kiểm tra xem có chỗ quên may không.
+見本[みほん] | n | KIẾN BẢN | hàng mẫu | - | - | 見本[みほん]と同[おな]じように作[つく]ってください。 | Hãy may giống như hàng mẫu.
+指示書[しじしょ] | n | CHỈ THỊ THƯ | phiếu chỉ thị | - | - | 指示書[しじしょ]に縫[ぬ]い方[かた]が書[か]いてあります。 | Phiếu chỉ thị có ghi cách may.
+デザイン | n | - | thiết kế | - | - | 新[あたら]しいデザインの服[ふく]を作[つく]ります。 | May quần áo thiết kế mới.
+試作[しさく] | n,v3 | THÍ TÁC | làm mẫu thử | - | - | 量産[りょうさん]の前[まえ]に試作[しさく]をします。 | Làm mẫu thử trước khi sản xuất hàng loạt.
+量産[りょうさん] | n,v3 | LƯỢNG SẢN | sản xuất hàng loạt | - | - | 来週[らいしゅう]から量産[りょうさん]に入[はい]ります。 | Từ tuần sau bắt đầu sản xuất hàng loạt.
+ロット | n | - | lô hàng | - | - | ロットごとに色[いろ]を確認[かくにん]します。 | Kiểm tra màu theo từng lô.
+在庫[ざいこ] | n | TẠI KHỐ | tồn kho | - | - | 糸[いと]の在庫[ざいこ]を確認[かくにん]します。 | Kiểm tra tồn kho chỉ.
+資材[しざい] | n | TƯ TÀI | phụ liệu, vật tư | - | - | ボタンなどの資材[しざい]が届[とど]きました。 | Phụ liệu như cúc đã về.
+付属品[ふぞくひん] | n | PHỤ THUỘC PHẨM | phụ kiện | - | - | 付属品[ふぞくひん]の数[かず]が足[た]りません。 | Số phụ kiện không đủ.
+腰痛[ようつう] | n | YÊU THỐNG | đau lưng | - | - | ずっと座[すわ]って縫[ぬ]うので腰痛[ようつう]に気[き]をつけます。 | Ngồi may suốt nên phải chú ý đau lưng.
+肩[かた]こり | n | KIÊN | mỏi vai gáy | - | - | 休憩[きゅうけい]時間[じかん]にストレッチをして肩[かた]こりを防[ふせ]ぎます。 | Giãn cơ giờ nghỉ để phòng mỏi vai gáy.
+ほこり | n | - | bụi vải | - | - | 縫製[ほうせい]工場[こうじょう]は糸[いと]のほこりが多[おお]いです。 | Xưởng may nhiều bụi chỉ.
+掃除機[そうじき] | n | TẢO TRỪ CƠ | máy hút bụi | - | - | 終業[しゅうぎょう]後[ご]、ミシンの周[まわ]りを掃除機[そうじき]で掃除[そうじ]します。 | Hết ca hút bụi quanh máy may.
+整理整頓[せいりせいとん] | n,v3 | CHỈNH LÝ CHỈNH ĐỐN | gọn gàng ngăn nắp | - | - | 作業台[さぎょうだい]の整理整頓[せいりせいとん]をしましょう。 | Hãy giữ bàn làm việc gọn gàng ngăn nắp.
+技能実習[ぎのうじっしゅう] | n | KỸ NĂNG THỰC TẬP | thực tập kỹ năng | - | - | 縫製[ほうせい]の技能実習[ぎのうじっしゅう]で日本[にほん]に来[き]ました。 | Tôi đến Nhật theo chương trình thực tập kỹ năng ngành may.
+技能検定[ぎのうけんてい] | n | KỸ NĂNG KIỂM ĐỊNH | kỳ thi kiểm định tay nghề | 技能検定[ぎのうけんてい] を 受[う]ける | dự thi tay nghề | 来月[らいげつ]、技能検定[ぎのうけんてい]を受[う]けます。 | Tháng sau tôi thi kiểm định tay nghề.
+上達[じょうたつ] | n,v3 | THƯỢNG ĐẠT | tiến bộ | - | - | 毎日[まいにち]練習[れんしゅう]してミシンが上達[じょうたつ]しました。 | Luyện mỗi ngày nên tay nghề may tiến bộ.
+ミシン油[あぶら] | n | DU | dầu máy may | - | - | ミシン油[あぶら]が生地[きじ]につかないように注意[ちゅうい]します。 | Chú ý để dầu máy may không dính vào vải.
+針交換[はりこうかん] | n | CHÂM GIAO HOÁN | thay kim | - | - | 決[き]められた時間[じかん]ごとに針交換[はりこうかん]をします。 | Thay kim theo thời gian quy định.
+針管理[はりかんり] | n | CHÂM QUẢN LÝ | quản lý kim | - | - | 針管理[はりかんり]の記録[きろく]を毎日[まいにち]つけます。 | Ghi sổ quản lý kim mỗi ngày.
+縫製仕様書[ほうせいしようしょ] | n | PHÙNG CHẾ SĨ DẠNG THƯ | bảng thông số may | - | - | 縫製仕様書[ほうせいしようしょ]を見[み]て縫[ぬ]い方[かた]を確認[かくにん]します。 | Xem bảng thông số may để xác nhận cách may.
+ステッチ | n | - | đường chỉ diễu | - | - | 襟[えり]の端[はし]にステッチを入[い]れます。 | Diễu chỉ dọc mép cổ áo.
+二本針[にほんばり] | n | NHỊ BẢN CHÂM | máy hai kim | - | - | 裾[すそ]は二本針[にほんばり]で縫[ぬ]います。 | Gấu áo may bằng máy hai kim.
+かがる | v1 | - | vắt sổ, thùa | - | - | 布[ぬの]の端[はし]がほつれないようにかがります。 | Vắt sổ để mép vải không bị tưa.
+三[みっ]つ折[お]り | n | CHIẾT | gấp ba (mép) | - | - | 裾[すそ]を三[みっ]つ折[お]りにして縫[ぬ]います。 | Gấp mép gấu ba lần rồi may.
+アイロン台[だい] | n | ĐÀI | bàn để là | - | - | アイロン台[だい]の上[うえ]で袖[そで]を整[ととの]えます。 | Chỉnh tay áo trên bàn là.
+霧吹[きりふ]き | n | VỤ XUY | bình xịt nước | - | - | 霧吹[きりふ]きで水[みず]をかけてからアイロンをかけます。 | Xịt nước rồi mới là.
+両面[りょうめん] | n | LƯỠNG DIỆN | hai mặt | - | - | 生地[きじ]の両面[りょうめん]を確認[かくにん]します。 | Kiểm tra cả hai mặt vải.
+色見本[いろみほん] | n | SẮC KIẾN BẢN | bảng màu mẫu | - | - | 色見本[いろみほん]と糸[いと]の色[いろ]を比[くら]べます。 | So màu chỉ với bảng màu mẫu.
+綿[わた] | n | MIÊN | bông (nhồi) | 綿[わた] を 詰[つ]める | nhồi bông | ぬいぐるみに綿[わた]を詰[つ]めます。 | Nhồi bông vào thú bông.
+羽毛[うもう] | n | VŨ MAO | lông vũ | - | - | 羽毛[うもう]のジャケットを縫[ぬ]っています。 | Đang may áo khoác lông vũ.
+防水[ぼうすい] | n | PHÒNG THỦY | chống thấm | - | - | 防水[ぼうすい]の生地[きじ]は針[はり]の穴[あな]に注意[ちゅうい]します。 | Vải chống thấm phải chú ý lỗ kim.
+伸縮[しんしゅく] | n,v3 | THÂN SÚC | co giãn | - | - | 伸縮[しんしゅく]する生地[きじ]は引[ひ]っ張[ぱ]らないで縫[ぬ]います。 | Vải co giãn thì may không kéo căng.
+引[ひ]っ張[ぱ]る | v1 | DẪN TRƯƠNG | kéo căng | - | - | 布[ぬの]を引[ひ]っ張[ぱ]ると縫[ぬ]い目[め]がゆがみます。 | Kéo vải thì đường may bị méo.
+ゆがむ | v1 | - | méo, lệch | - | - | 縫[ぬ]い目[め]がゆがんでいます。 | Đường may bị méo.
+縫[ぬ]いやすい | adj-i | PHÙNG | dễ may | - | - | この生地[きじ]は厚[あつ]さがちょうどよくて縫[ぬ]いやすいです。 | Vải này độ dày vừa phải nên dễ may.
+裁[た]ち落[お]とし | n | TÀI LẠC | phần vải thừa cắt bỏ | - | - | 裁[た]ち落[お]としの布[ぬの]は分別[ぶんべつ]して捨[す]てます。 | Vải vụn thừa được phân loại rồi bỏ.
+端切[はぎ]れ | n | ĐOAN THIẾT | vải vụn | - | - | 端切[はぎ]れで小物[こもの]を作[つく]ります。 | Làm đồ nhỏ từ vải vụn.
+小物[こもの] | n | TIỂU VẬT | đồ nhỏ, phụ kiện | - | - | バッグなどの小物[こもの]も作[つく]っています。 | Cũng làm cả đồ nhỏ như túi xách.
+カーテン | n | - | rèm cửa | - | - | 大[おお]きなカーテンを縫[ぬ]うのは大変[たいへん]です。 | May rèm cửa lớn rất vất vả.

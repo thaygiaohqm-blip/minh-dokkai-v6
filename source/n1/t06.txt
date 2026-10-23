@@ -1,0 +1,204 @@
+@topic t06
+@ja 科学[かがく]・技術[ぎじゅつ]・情報[じょうほう]
+@vi Khoa học, kỹ thuật và công nghệ thông tin
+@desc Phương pháp nghiên cứu, toán học, vật lý – hóa học, địa chất và công nghệ số trong bài viết khoa học phổ thông.
+演繹[えんえき] | n,v3 | DIỄN DỊCH | suy diễn | {演繹} 法[ほう] | phép suy diễn | 一般[いっぱん]原理[げんり]から個別[こべつ]の結論[けつろん]を演繹[えんえき]する。 | Suy diễn kết luận cụ thể từ nguyên lý chung.
+帰納[きのう] | n,v3 | QUY NẠP | quy nạp | {帰納} 法[ほう] | phép quy nạp | 多[おお]くの事例[じれい]から法則[ほうそく]を帰納[きのう]する。 | Quy nạp quy luật từ nhiều trường hợp.
+論証[ろんしょう] | n,v3 | LUẬN CHỨNG | luận chứng | - | - | その主張[しゅちょう]は十分[じゅうぶん]に論証[ろんしょう]されていない。 | Lập luận đó chưa được luận chứng đầy đủ.
+反証[はんしょう] | n,v3 | PHẢN CHỨNG | phản chứng | - | - | 科学[かがく]の理論[りろん]は反証[はんしょう]可能[かのう]でなければならない。 | Lý thuyết khoa học phải có khả năng bị phản chứng.
+定説[ていせつ] | n | ĐỊNH THUYẾT | thuyết đã được công nhận | - | - | 新[あら]たな発見[はっけん]がこれまでの定説[ていせつ]を覆[くつがえ]した。 | Phát hiện mới đã lật đổ thuyết được công nhận lâu nay.
+通説[つうせつ] | n | THÔNG THUYẾT | quan điểm phổ biến | - | - | 通説[つうせつ]とは異[こと]なる見解[けんかい]を発表[はっぴょう]した。 | Ông công bố quan điểm khác với quan điểm phổ biến.
+新発見[しんはっけん] | n | TÂN PHÁT KIẾN | phát hiện mới | - | - | 深海[しんかい]で生物[せいぶつ]の新[しん]発見[はっけん]が相次[あいつ]いでいる。 | Các phát hiện mới về sinh vật dưới đáy biển sâu liên tiếp xuất hiện.
+画期的[かっきてき] | adj-na | HỌA KỲ ĐÍCH | mang tính bước ngoặt | {画期的} な 発明[はつめい] | phát minh mang tính bước ngoặt | インターネットは画期[かっき]的[てき]な発明[はつめい]だった。 | Internet là một phát minh mang tính bước ngoặt.
+先駆[さきが]け | n | TIÊN KHU | người đi đầu, tiền thân | - | - | この会社[かいしゃ]は電気[でんき]自動車[じどうしゃ]の先駆[さきが]けとなった。 | Công ty này trở thành người đi đầu về xe điện.
+草分[くさわ]け | n | THẢO PHÂN | người khai phá | - | - | 彼女[かのじょ]は日本[にほん]における女性[じょせい]医師[いし]の草分[くさわ]けだ。 | Bà là người khai phá cho nữ bác sĩ ở Nhật.
+技師[ぎし] | n | KỸ SƯ | kỹ sư, kỹ thuật viên | - | - | 放射線[ほうしゃせん]技師[ぎし]がレントゲンを撮[と]った。 | Kỹ thuật viên X quang đã chụp phim.
+ノーベル賞[しょう] | n | THƯỞNG | giải Nobel | - | - | 日本[にほん]人[じん]研究[けんきゅう]者[しゃ]がノーベル賞[しょう]を受賞[じゅしょう]した。 | Nhà nghiên cứu người Nhật đã nhận giải Nobel.
+査読[さどく] | n,v3 | TRA ĐỘC | bình duyệt (bài báo khoa học) | {査読} 付[つ]き 論文[ろんぶん] | bài báo có bình duyệt | 論文[ろんぶん]は専門家[せんもんか]の査読[さどく]を経[へ]て掲載[けいさい]される。 | Bài báo được đăng sau khi được chuyên gia bình duyệt.
+学際[がくさい] | n | HỌC TẾ | liên ngành | {学際} 的[てき] | mang tính liên ngành | 環境[かんきょう]問題[もんだい]には学際[がくさい]的[てき]な研究[けんきゅう]が必要[ひつよう]だ。 | Vấn đề môi trường cần nghiên cứu liên ngành.
+科学[かがく]技術[ぎじゅつ] | n | KHOA HỌC KỸ THUẬT | khoa học kỹ thuật | - | - | 科学[かがく]技術[ぎじゅつ]の進歩[しんぽ]は生活[せいかつ]を大[おお]きく変[か]えた。 | Tiến bộ khoa học kỹ thuật đã thay đổi lớn cuộc sống.
+フィールドワーク | n | - | khảo sát thực địa | - | - | 夏休[なつやす]みに山村[さんそん]でフィールドワークを行[おこな]った。 | Kỳ nghỉ hè tôi khảo sát thực địa ở làng miền núi.
+対照群[たいしょうぐん] | n | ĐỐI CHIẾU QUẦN | nhóm đối chứng | - | - | 薬[くすり]を飲[の]んだ群[ぐん]と対照[たいしょう]群[ぐん]を比較[ひかく]した。 | So sánh nhóm uống thuốc với nhóm đối chứng.
+再現性[さいげんせい] | n | TÁI HIỆN TÍNH | tính tái lập | - | - | 実験[じっけん]結果[けっか]に再現[さいげん]性[せい]がないと認[みと]められない。 | Kết quả thí nghiệm không có tính tái lập thì không được công nhận.
+有意差[ゆういさ] | n | HỮU Ý SAI | khác biệt có ý nghĩa thống kê | - | - | 二[ふた]つのグループの間[あいだ]に有意[ゆうい]差[さ]は見[み]られなかった。 | Không thấy khác biệt có ý nghĩa giữa hai nhóm.
+相関[そうかん]関係[かんけい] | n | TƯƠNG QUAN QUAN HỆ | mối tương quan | - | - | 睡眠[すいみん]時間[じかん]と成績[せいせき]には相関[そうかん]関係[かんけい]がある。 | Thời gian ngủ và thành tích có mối tương quan.
+定量的[ていりょうてき] | adj-na | ĐỊNH LƯỢNG ĐÍCH | mang tính định lượng | - | - | 効果[こうか]を定量[ていりょう]的[てき]に評価[ひょうか]する。 | Đánh giá hiệu quả một cách định lượng.
+定性的[ていせいてき] | adj-na | ĐỊNH TÍNH ĐÍCH | mang tính định tính | - | - | 数字[すうじ]だけでなく定性[ていせい]的[てき]な分析[ぶんせき]も行[おこな]う。 | Không chỉ số liệu mà còn phân tích định tính.
+数値化[すうちか] | n,v3 | SỐ TRỊ HÓA | lượng hóa bằng số | - | - | 満足[まんぞく]度[ど]を数値[すうち]化[か]して比較[ひかく]した。 | Lượng hóa mức độ hài lòng bằng con số để so sánh.
+近似[きんじ] | n,v3 | CẬN TỰ | gần đúng, xấp xỉ | - | - | 二[ふた]つの値[あたい]はほぼ近似[きんじ]している。 | Hai giá trị gần như xấp xỉ nhau.
+近似値[きんじち] | n | CẬN TỰ TRỊ | giá trị gần đúng | - | - | 円周率[えんしゅうりつ]の近似[きんじ]値[ち]として三[さん]・一四[いちよん]を使[つか]う。 | Dùng 3,14 làm giá trị gần đúng của số pi.
+算出[さんしゅつ] | n,v3 | TOÁN XUẤT | tính ra | 費用[ひよう] を {算出} する | tính chi phí | 必要[ひつよう]な予算[よさん]を算出[さんしゅつ]した。 | Đã tính ra ngân sách cần thiết.
+算定[さんてい] | n,v3 | TOÁN ĐỊNH | tính toán, định giá | - | - | 損害[そんがい]額[がく]の算定[さんてい]には時間[じかん]がかかる。 | Tính toán số tiền thiệt hại mất thời gian.
+換算[かんさん] | n,v3 | HOÁN TOÁN | quy đổi | 円[えん] に {換算} する | đổi ra yên | ドルを円[えん]に換算[かんさん]すると約[やく]十五[じゅうご]万[まん]円[えん]になる。 | Đổi đô la sang yên được khoảng một trăm năm mươi nghìn yên.
+次元[じげん] | n | THỨ NGUYÊN | chiều, bình diện | {次元} が 違[ちが]う | khác đẳng cấp | 彼[かれ]の才能[さいのう]は私[わたし]たちとは次元[じげん]が違[ちが]う。 | Tài năng của anh ấy khác hẳn đẳng cấp chúng tôi.
+対称[たいしょう] | n | ĐỐI XỨNG | đối xứng | 左右[さゆう] {対称} | đối xứng hai bên | この建物[たてもの]は左右[さゆう]対称[たいしょう]に設計[せっけい]されている。 | Tòa nhà này được thiết kế đối xứng hai bên.
+非対称[ひたいしょう] | n,adj-na | PHI ĐỐI XỨNG | bất đối xứng | 情報[じょうほう] の {非対称} 性[せい] | bất cân xứng thông tin | 売[う]り手[て]と買[か]い手[て]の間[あいだ]には情報[じょうほう]の非[ひ]対称[たいしょう]がある。 | Giữa người bán và người mua có sự bất cân xứng thông tin.
+球体[きゅうたい] | n | CẦU THỂ | hình cầu | - | - | 地球[ちきゅう]はほぼ球体[きゅうたい]だ。 | Trái đất gần như là hình cầu.
+幾何学[きかがく] | n | KỶ HÀ HỌC | hình học | {幾何学} 模様[もよう] | hoa văn hình học | 壁[かべ]は幾何[きか]学[がく]模様[もよう]で飾[かざ]られていた。 | Bức tường được trang trí bằng hoa văn hình học.
+代数[だいすう] | n | ĐẠI SỐ | đại số | - | - | 高校[こうこう]で代数[だいすう]と幾何[きか]を学[まな]んだ。 | Ở cấp ba tôi học đại số và hình học.
+素数[そすう] | n | TỐ SỐ | số nguyên tố | - | - | 素数[そすう]は一[いち]と自分[じぶん]自身[じしん]でしか割[わ]り切[き]れない。 | Số nguyên tố chỉ chia hết cho 1 và chính nó.
+整数[せいすう] | n | CHỈNH SỐ | số nguyên | - | - | 答[こた]えは整数[せいすう]で書[か]いてください。 | Hãy viết đáp án dưới dạng số nguyên.
+小数[しょうすう] | n | TIỂU SỐ | số thập phân | {小数} 点[てん] | dấu thập phân | 小数[しょうすう]点[てん]以下[いか]を四捨五入[ししゃごにゅう]する。 | Làm tròn phần sau dấu thập phân.
+分数[ぶんすう] | n | PHÂN SỐ | phân số | - | - | 小学生[しょうがくせい]が分数[ぶんすう]の計算[けいさん]でつまずいた。 | Học sinh tiểu học vấp ở phép tính phân số.
+偶数[ぐうすう] | n | NGẪU SỐ | số chẵn | - | - | 偶数[ぐうすう]の番号[ばんごう]の人[ひと]は右[みぎ]に並[なら]んでください。 | Ai mang số chẵn xin xếp hàng bên phải.
+奇数[きすう] | n | KỲ SỐ | số lẻ | - | - | 奇数[きすう]の日[ひ]にゴミを出[だ]す。 | Đổ rác vào các ngày lẻ.
+無限[むげん] | n,adj-na | VÔ HẠN | vô hạn | {無限} の 可能性[かのうせい] | khả năng vô hạn | 子供[こども]たちには無限[むげん]の可能性[かのうせい]がある。 | Trẻ em có khả năng vô hạn.
+無限大[むげんだい] | n | VÔ HẠN ĐẠI | vô cực | - | - | 想像[そうぞう]力[りょく]は無限[むげん]大[だい]だ。 | Trí tưởng tượng là vô tận.
+有限[ゆうげん] | n,adj-na | HỮU HẠN | hữu hạn | - | - | 地球[ちきゅう]の資源[しげん]は有限[ゆうげん]だ。 | Tài nguyên trái đất có hạn.
+極限[きょくげん] | n | CỰC HẠN | cực hạn, giới hạn | {極限} 状態[じょうたい] | trạng thái cực hạn | 極限[きょくげん]状態[じょうたい]で人間[にんげん]の本性[ほんしょう]が現[あらわ]れる。 | Trong tình thế cực hạn, bản chất con người lộ ra.
+対数[たいすう] | n | ĐỐI SỐ | lôgarit | - | - | グラフの縦軸[たてじく]を対数[たいすう]で表[あらわ]した。 | Trục tung của đồ thị được biểu diễn theo lôgarit.
+定理[ていり] | n | ĐỊNH LÝ | định lý | - | - | ピタゴラスの定理[ていり]を証明[しょうめい]した。 | Đã chứng minh định lý Pythagoras.
+公式[こうしき] | n,adj-na | CÔNG THỨC | công thức; chính thức | {公式} 発表[はっぴょう] | công bố chính thức | 政府[せいふ]の公式[こうしき]な見解[けんかい]はまだ出[で]ていない。 | Quan điểm chính thức của chính phủ vẫn chưa được đưa ra.
+数式[すうしき] | n | SỐ THỨC | biểu thức toán học | - | - | 黒板[こくばん]は難[むずか]しい数式[すうしき]で埋[う]まっていた。 | Bảng đen kín đặc các biểu thức toán khó.
+微分[びぶん] | n,v3 | VI PHÂN | vi phân | - | - | 関数[かんすう]を微分[びぶん]して傾[かたむ]きを求[もと]める。 | Lấy vi phân hàm số để tìm độ dốc.
+積分[せきぶん] | n,v3 | TÍCH PHÂN | tích phân | - | - | 積分[せきぶん]を使[つか]って面積[めんせき]を計算[けいさん]した。 | Dùng tích phân để tính diện tích.
+変数[へんすう] | n | BIẾN SỐ | biến số | - | - | プログラムの中[なか]で変数[へんすう]に値[あたい]を代入[だいにゅう]する。 | Gán giá trị cho biến trong chương trình.
+確率[かくりつ] | n | XÁC SUẤT | xác suất | {確率} が 高[たか]い | xác suất cao | 明日[あした]雨[あめ]が降[ふ]る確率[かくりつ]は七十[ななじゅう]パーセントだ。 | Xác suất mưa ngày mai là bảy mươi phần trăm.
+統計学[とうけいがく] | n | THỐNG KÊ HỌC | thống kê học | - | - | データ分析[ぶんせき]には統計[とうけい]学[がく]の知識[ちしき]が欠[か]かせない。 | Phân tích dữ liệu không thể thiếu kiến thức thống kê.
+母集団[ぼしゅうだん] | n | MẪU TẬP ĐOÀN | tổng thể (thống kê) | - | - | 標本[ひょうほん]から母[ぼ]集団[しゅうだん]の性質[せいしつ]を推定[すいてい]する。 | Ước lượng đặc tính của tổng thể từ mẫu.
+中央値[ちゅうおうち] | n | TRUNG ƯƠNG TRỊ | trung vị | - | - | 所得[しょとく]は平均[へいきん]値[ち]より中央[ちゅうおう]値[ち]で見[み]るべきだ。 | Nên nhìn thu nhập qua trung vị hơn là giá trị trung bình.
+偏差[へんさ] | n | THIÊN SAI | độ lệch | {偏差} 値[ち] | điểm chuẩn hóa | この大学[だいがく]は偏差[へんさ]値[ち]が高[たか]い。 | Trường đại học này có điểm chuẩn cao.
+天体[てんたい] | n | THIÊN THỂ | thiên thể | {天体} 観測[かんそく] | quan sát thiên văn | 夜[よる]、望遠鏡[ぼうえんきょう]で天体[てんたい]観測[かんそく]をした。 | Ban đêm tôi quan sát thiên văn bằng kính viễn vọng.
+観測所[かんそくじょ] | n | QUAN TRẮC SỞ | trạm quan trắc | - | - | 山頂[さんちょう]の観測[かんそく]所[じょ]で気象[きしょう]データを集[あつ]めている。 | Trạm quan trắc trên đỉnh núi thu thập dữ liệu khí tượng.
+光速[こうそく] | n | QUANG TỐC | tốc độ ánh sáng | - | - | 光速[こうそく]を超[こ]えるものは存在[そんざい]しないとされる。 | Người ta cho rằng không gì vượt được tốc độ ánh sáng.
+音速[おんそく] | n | ÂM TỐC | tốc độ âm thanh | - | - | その戦闘機[せんとうき]は音速[おんそく]の二[に]倍[ばい]で飛[と]ぶ。 | Chiếc tiêm kích đó bay gấp đôi tốc độ âm thanh.
+物体[ぶったい] | n | VẬT THỂ | vật thể | 未確認[みかくにん] 飛行[ひこう] {物体} | vật thể bay không xác định | 空[そら]に光[ひか]る物体[ぶったい]が見[み]えた。 | Thấy một vật thể phát sáng trên bầu trời.
+熱量[ねつりょう] | n | NHIỆT LƯỢNG | nhiệt lượng; nhiệt huyết | - | - | 彼[かれ]の演説[えんぜつ]からはすごい熱量[ねつりょう]が伝[つた]わってきた。 | Nhiệt huyết lớn lao toát ra từ bài diễn thuyết của anh.
+運動[うんどう]エネルギー | n | VẬN ĐỘNG | động năng | - | - | 速度[そくど]が上[あ]がると運動[うんどう]エネルギーも大[おお]きくなる。 | Vận tốc tăng thì động năng cũng tăng.
+磁力[じりょく] | n | TỪ LỰC | lực từ | - | - | 磁石[じしゃく]の磁力[じりょく]で鉄[てつ]を引[ひ]き寄[よ]せる。 | Lực từ của nam châm hút sắt.
+磁場[じば] | n | TỪ TRƯỜNG | từ trường | - | - | 電流[でんりゅう]が流[なが]れると周囲[しゅうい]に磁場[じば]が生[しょう]じる。 | Khi có dòng điện chạy qua, từ trường xuất hiện xung quanh.
+地磁気[ちじき] | n | ĐỊA TỪ KHÍ | từ trường trái đất | - | - | 渡[わた]り鳥[どり]は地磁気[ちじき]を感[かん]じて方向[ほうこう]を知[し]るという。 | Người ta nói chim di cư cảm nhận từ trường trái đất để định hướng.
+原子核[げんしかく] | n | NGUYÊN TỬ HẠCH | hạt nhân nguyên tử | - | - | 原子[げんし]核[かく]は陽子[ようし]と中性子[ちゅうせいし]からできている。 | Hạt nhân nguyên tử được cấu tạo từ proton và neutron.
+陽子[ようし] | n | DƯƠNG TỬ | proton | - | - | 陽子[ようし]はプラスの電気[でんき]を帯[お]びている。 | Proton mang điện dương.
+中性子[ちゅうせいし] | n | TRUNG TÍNH TỬ | neutron | - | - | 中性子[ちゅうせいし]は電気[でんき]を帯[お]びていない。 | Neutron không mang điện.
+素粒子[そりゅうし] | n | TỐ LẠP TỬ | hạt cơ bản | - | - | 素粒子[そりゅうし]物理[ぶつり]学[がく]は宇宙[うちゅう]の始[はじ]まりを探[さぐ]る。 | Vật lý hạt cơ bản tìm hiểu khởi nguyên vũ trụ.
+量子[りょうし] | n | LƯỢNG TỬ | lượng tử | {量子} 力学[りきがく] | cơ học lượng tử | 量子[りょうし]力学[りきがく]は直感[ちょっかん]に反[はん]する現象[げんしょう]を扱[あつか]う。 | Cơ học lượng tử xử lý những hiện tượng trái với trực giác.
+イオン | n | - | ion | - | - | 塩[しお]は水[みず]に溶[と]けるとイオンに分[わ]かれる。 | Muối tan trong nước tách thành ion.
+触媒[しょくばい] | n | XÚC MÔI | chất xúc tác | - | - | 触媒[しょくばい]を加[くわ]えると反応[はんのう]が速[はや]く進[すす]む。 | Thêm chất xúc tác thì phản ứng diễn ra nhanh.
+中和[ちゅうわ] | n,v3 | TRUNG HÒA | trung hòa | - | - | 酸[さん]とアルカリを混[ま]ぜると中和[ちゅうわ]する。 | Trộn axit với kiềm sẽ trung hòa.
+溶媒[ようばい] | n | DUNG MÔI | dung môi | - | - | 水[みず]は多[おお]くの物質[ぶっしつ]を溶[と]かす溶媒[ようばい]だ。 | Nước là dung môi hòa tan nhiều chất.
+気化[きか] | n,v3 | KHÍ HÓA | hóa hơi | {気化} 熱[ねつ] | nhiệt hóa hơi | 汗[あせ]が気化[きか]するときに体[からだ]の熱[ねつ]を奪[うば]う。 | Mồ hôi khi bay hơi lấy đi nhiệt của cơ thể.
+液化[えきか] | n,v3 | DỊCH HÓA | hóa lỏng | {液化} 天然[てんねん] ガス | khí thiên nhiên hóa lỏng | ガスを冷[ひ]やして液化[えきか]し、船[ふね]で運[はこ]ぶ。 | Làm lạnh khí để hóa lỏng rồi chở bằng tàu.
+蒸留[じょうりゅう] | n,v3 | CHƯNG LƯU | chưng cất | {蒸留} 酒[しゅ] | rượu chưng cất | 焼酎[しょうちゅう]は蒸留[じょうりゅう]して作[つく]られる。 | Rượu shochu được làm bằng cách chưng cất.
+ろ過[か] | n,v3 | QUÁ | lọc | - | - | 川[かわ]の水[みず]をろ過[か]して飲[の]めるようにする。 | Lọc nước sông để có thể uống được.
+沈殿[ちんでん] | n,v3 | TRẦM ĐIẾN | lắng cặn | - | - | 底[そこ]に白[しろ]い物質[ぶっしつ]が沈殿[ちんでん]した。 | Một chất màu trắng lắng xuống đáy.
+抽出[ちゅうしゅつ] | n,v3 | TRỪU XUẤT | chiết xuất; trích ra | 無作為[むさくい] {抽出} | chọn ngẫu nhiên | 対象[たいしょう]者[しゃ]を無作為[むさくい]に抽出[ちゅうしゅつ]した。 | Chọn ngẫu nhiên đối tượng khảo sát.
+純度[じゅんど] | n | THUẦN ĐỘ | độ tinh khiết | - | - | 純度[じゅんど]の高[たか]い金[きん]は柔[やわ]らかい。 | Vàng có độ tinh khiết cao thì mềm.
+不純物[ふじゅんぶつ] | n | BẤT THUẦN VẬT | tạp chất | - | - | 水[みず]から不純[ふじゅん]物[ぶつ]を取[と]り除[のぞ]く。 | Loại bỏ tạp chất khỏi nước.
+透過[とうか] | n,v3 | THẤU QUÁ | xuyên qua | - | - | このガラスは紫外線[しがいせん]を透過[とうか]しない。 | Loại kính này không cho tia tử ngoại xuyên qua.
+発光[はっこう] | n,v3 | PHÁT QUANG | phát sáng | {発光} ダイオード | đi-ốt phát quang | ホタルは体[からだ]の一部[いちぶ]を発光[はっこう]させる。 | Đom đóm làm một phần cơ thể phát sáng.
+放電[ほうでん] | n,v3 | PHÓNG ĐIỆN | phóng điện | - | - | 雷[かみなり]は雲[くも]と地面[じめん]の間[あいだ]の放電[ほうでん]現象[げんしょう]だ。 | Sét là hiện tượng phóng điện giữa mây và mặt đất.
+電極[でんきょく] | n | ĐIỆN CỰC | điện cực | - | - | 電池[でんち]にはプラスとマイナスの電極[でんきょく]がある。 | Pin có điện cực dương và âm.
+集積[しゅうせき]回路[かいろ] | n | TẬP TÍCH HỒI LỘ | mạch tích hợp | - | - | 集積[しゅうせき]回路[かいろ]の登場[とうじょう]でコンピューターは小型[こがた]化[か]した。 | Nhờ mạch tích hợp mà máy tính được thu nhỏ.
+電子[でんし]回路[かいろ] | n | ĐIỆN TỬ HỒI LỘ | mạch điện tử | - | - | 電子[でんし]回路[かいろ]を設計[せっけい]する仕事[しごと]をしている。 | Tôi làm công việc thiết kế mạch điện tử.
+基板[きばん] | n | CƠ BẢN | bảng mạch | - | - | 基板[きばん]に部品[ぶひん]をはんだ付[づ]けする。 | Hàn linh kiện lên bảng mạch.
+絶縁体[ぜつえんたい] | n | TUYỆT DUYÊN THỂ | chất cách điện | - | - | ゴムは電気[でんき]を通[とお]さない絶縁[ぜつえん]体[たい]だ。 | Cao su là chất cách điện không dẫn điện.
+超伝導[ちょうでんどう] | n | SIÊU TRUYỀN ĐẠO | siêu dẫn | - | - | 超[ちょう]伝導[でんどう]を利用[りよう]したリニアモーターカーが開発[かいはつ]されている。 | Tàu đệm từ sử dụng siêu dẫn đang được phát triển.
+微細化[びさいか] | n,v3 | VI TẾ HÓA | thu nhỏ siêu vi | - | - | 半導体[はんどうたい]の微細[びさい]化[か]が限界[げんかい]に近[ちか]づいている。 | Việc thu nhỏ chất bán dẫn đang tiến gần giới hạn.
+核融合[かくゆうごう] | n | HẠCH DUNG HỢP | phản ứng nhiệt hạch | - | - | 太陽[たいよう]は核[かく]融合[ゆうごう]で光[ひかり]と熱[ねつ]を出[だ]している。 | Mặt trời phát ra ánh sáng và nhiệt nhờ phản ứng nhiệt hạch.
+半減期[はんげんき] | n | BÁN GIẢM KỲ | chu kỳ bán rã | - | - | この物質[ぶっしつ]の半減[はんげん]期[き]は約[やく]三十[さんじゅう]年[ねん]だ。 | Chu kỳ bán rã của chất này khoảng ba mươi năm.
+風力[ふうりょく]発電[はつでん] | n | PHONG LỰC PHÁT ĐIỆN | điện gió | - | - | 海岸[かいがん]沿[ぞ]いに風力[ふうりょく]発電[はつでん]の風車[ふうしゃ]が並[なら]んでいる。 | Cối xay điện gió xếp hàng dọc bờ biển.
+リチウムイオン電池[でんち] | n | ĐIỆN TRÌ | pin lithium-ion | - | - | スマートフォンにはリチウムイオン電池[でんち]が使[つか]われている。 | Điện thoại thông minh sử dụng pin lithium-ion.
+新素材[しんそざい] | n | TÂN TỐ TÀI | vật liệu mới | - | - | 軽[かる]くて丈夫[じょうぶ]な新[しん]素材[そざい]が開発[かいはつ]された。 | Một vật liệu mới nhẹ và bền đã được phát triển.
+炭素[たんそ]繊維[せんい] | n | THÁN TỐ TIÊM DUY | sợi carbon | - | - | 炭素[たんそ]繊維[せんい]は飛行機[ひこうき]の機体[きたい]にも使[つか]われる。 | Sợi carbon được dùng cả cho thân máy bay.
+合金[ごうきん] | n | HỢP KIM | hợp kim | - | - | 銅[どう]と亜鉛[あえん]の合金[ごうきん]を真鍮[しんちゅう]という。 | Hợp kim của đồng và kẽm gọi là đồng thau.
+樹脂[じゅし] | n | THỤ CHI | nhựa | 合成[ごうせい] {樹脂} | nhựa tổng hợp | このコップは軽[かる]い樹脂[じゅし]でできている。 | Chiếc cốc này làm bằng nhựa nhẹ.
+ナノテクノロジー | n | - | công nghệ nano | - | - | ナノテクノロジーは医療[いりょう]分野[ぶんや]にも応用[おうよう]されている。 | Công nghệ nano cũng được ứng dụng trong y tế.
+ゲノム | n | - | bộ gen | - | - | ヒトのゲノムは全[すべ]て解読[かいどく]された。 | Bộ gen người đã được giải mã hoàn toàn.
+ゲノム編集[へんしゅう] | n | BIÊN TẬP | chỉnh sửa gen | - | - | ゲノム編集[へんしゅう]技術[ぎじゅつ]で病気[びょうき]に強[つよ]い作物[さくもつ]を作[つく]る。 | Tạo cây trồng kháng bệnh bằng công nghệ chỉnh sửa gen.
+再生[さいせい]医療[いりょう] | n | TÁI SINH Y LIỆU | y học tái tạo | - | - | 再生[さいせい]医療[いりょう]の進歩[しんぽ]に期待[きたい]が集[あつ]まっている。 | Kỳ vọng dồn vào sự tiến bộ của y học tái tạo.
+iPS細胞[さいぼう] | n | TẾ BÀO | tế bào iPS | - | - | iPS細胞[さいぼう]から心臓[しんぞう]の細胞[さいぼう]を作[つく]ることに成功[せいこう]した。 | Đã thành công tạo tế bào tim từ tế bào iPS.
+幹細胞[かんさいぼう] | n | CÁN TẾ BÀO | tế bào gốc | - | - | 幹[かん]細胞[さいぼう]はさまざまな細胞[さいぼう]に変化[へんか]できる。 | Tế bào gốc có thể biến đổi thành nhiều loại tế bào.
+進化論[しんかろん] | n | TIẾN HÓA LUẬN | thuyết tiến hóa | - | - | ダーウィンの進化[しんか]論[ろん]は社会[しゃかい]に大[おお]きな衝撃[しょうげき]を与[あた]えた。 | Thuyết tiến hóa của Darwin gây chấn động lớn cho xã hội.
+AI | n | - | trí tuệ nhân tạo | - | - | AIが医師[いし]の診断[しんだん]を助[たす]ける時代[じだい]になった。 | Đã đến thời AI hỗ trợ bác sĩ chẩn đoán.
+生成[せいせい]AI | n | SINH THÀNH | AI tạo sinh | - | - | 生成[せいせい]AIで文章[ぶんしょう]や画像[がぞう]を作[つく]る人[ひと]が増[ふ]えた。 | Số người dùng AI tạo sinh để tạo văn bản và hình ảnh tăng lên.
+機械[きかい]学習[がくしゅう] | n | CƠ GIỚI HỌC TẬP | học máy | - | - | 機械[きかい]学習[がくしゅう]には大量[たいりょう]のデータが必要[ひつよう]だ。 | Học máy cần lượng dữ liệu lớn.
+深層[しんそう]学習[がくしゅう] | n | THÂM TẦNG HỌC TẬP | học sâu | - | - | 深層[しんそう]学習[がくしゅう]の登場[とうじょう]で画像[がぞう]認識[にんしき]の精度[せいど]が上[あ]がった。 | Nhờ học sâu, độ chính xác nhận dạng hình ảnh tăng lên.
+チャットボット | n | - | chatbot | - | - | 問[と]い合[あ]わせにはチャットボットが自動[じどう]で答[こた]える。 | Chatbot tự động trả lời các câu hỏi.
+ビッグデータ | n | - | dữ liệu lớn | - | - | ビッグデータを解析[かいせき]して消費者[しょうひしゃ]の行動[こうどう]を予測[よそく]する。 | Phân tích dữ liệu lớn để dự đoán hành vi người tiêu dùng.
+解析[かいせき] | n,v3 | GIẢI TÍCH | phân tích, giải tích | データ {解析} | phân tích dữ liệu | 事故[じこ]の原因[げんいん]を詳[くわ]しく解析[かいせき]している。 | Đang phân tích chi tiết nguyên nhân sự cố.
+IoT | n | - | Internet vạn vật | - | - | IoT家電[かでん]は外出[がいしゅつ]先[さき]からスマホで操作[そうさ]できる。 | Đồ gia dụng IoT có thể điều khiển bằng điện thoại khi ra ngoài.
+OS | n | - | hệ điều hành | - | - | パソコンのOSを最新[さいしん]版[ばん]に更新[こうしん]した。 | Đã cập nhật hệ điều hành máy tính lên bản mới nhất.
+スマートフォン | n | - | điện thoại thông minh | - | - | スマートフォンの普及[ふきゅう]で生活[せいかつ]は大[おお]きく変[か]わった。 | Sự phổ biến của điện thoại thông minh làm cuộc sống thay đổi lớn.
+量子[りょうし]コンピューター | n | LƯỢNG TỬ | máy tính lượng tử | - | - | 量子[りょうし]コンピューターは従来[じゅうらい]の計算[けいさん]機[き]をはるかに超[こ]える。 | Máy tính lượng tử vượt xa máy tính truyền thống.
+スーパーコンピューター | n | - | siêu máy tính | - | - | スーパーコンピューターで気象[きしょう]の予測[よそく]を行[おこな]う。 | Dự báo thời tiết bằng siêu máy tính.
+処理[しょり]能力[のうりょく] | n | XỬ LÝ NĂNG LỰC | năng lực xử lý | - | - | 新[あたら]しいパソコンは処理[しょり]能力[のうりょく]が高[たか]い。 | Máy tính mới có năng lực xử lý cao.
+記憶[きおく]装置[そうち] | n | KÝ ỨC TRANG TRÍ | thiết bị lưu trữ | - | - | データは外部[がいぶ]の記憶[きおく]装置[そうち]に保存[ほぞん]した。 | Dữ liệu được lưu trên thiết bị lưu trữ ngoài.
+通信網[つうしんもう] | n | THÔNG TÍN VÕNG | mạng lưới viễn thông | - | - | 災害[さいがい]時[じ]には通信[つうしん]網[もう]の確保[かくほ]が重要[じゅうよう]だ。 | Khi thiên tai, đảm bảo mạng viễn thông là quan trọng.
+光[ひかり]ファイバー | n | QUANG | cáp quang | - | - | 光[ひかり]ファイバーで高速[こうそく]通信[つうしん]ができる。 | Có thể truyền dẫn tốc độ cao bằng cáp quang.
+帯域[たいいき] | n | ĐỚI VỰC | băng thông | - | - | 動画[どうが]配信[はいしん]には広[ひろ]い帯域[たいいき]が必要[ひつよう]だ。 | Phát video cần băng thông rộng.
+仮想[かそう]通貨[つうか] | n | GIẢ TƯỞNG THÔNG HÓA | tiền ảo | - | - | 仮想[かそう]通貨[つうか]の価格[かかく]は激[はげ]しく変動[へんどう]する。 | Giá tiền ảo biến động dữ dội.
+ブロックチェーン | n | - | chuỗi khối | - | - | ブロックチェーン技術[ぎじゅつ]は改[かい]ざんが難[むずか]しい。 | Công nghệ chuỗi khối khó bị sửa đổi.
+仮想[かそう]現実[げんじつ] | n | GIẢ TƯỞNG HIỆN THỰC | thực tế ảo | - | - | 仮想[かそう]現実[げんじつ]の技術[ぎじゅつ]で手術[しゅじゅつ]の訓練[くんれん]をする。 | Luyện tập phẫu thuật bằng công nghệ thực tế ảo.
+拡張[かくちょう]現実[げんじつ] | n | KHUẾCH TRƯƠNG HIỆN THỰC | thực tế tăng cường | - | - | 拡張[かくちょう]現実[げんじつ]を使[つか]ったゲームが人気[にんき]を集[あつ]めた。 | Trò chơi dùng thực tế tăng cường thu hút nhiều người.
+メタバース | n | - | vũ trụ ảo | - | - | メタバース上[じょう]で会議[かいぎ]を開[ひら]く企業[きぎょう]もある。 | Có doanh nghiệp tổ chức họp trên vũ trụ ảo.
+アバター | n | - | hình đại diện ảo | - | - | 自分[じぶん]のアバターを作[つく]って仮想[かそう]空間[くうかん]で交流[こうりゅう]する。 | Tạo hình đại diện của mình rồi giao lưu trong không gian ảo.
+サイバー攻撃[こうげき] | n | CÔNG KÍCH | tấn công mạng | - | - | 病院[びょういん]がサイバー攻撃[こうげき]を受[う]けて診療[しんりょう]が止[と]まった。 | Bệnh viện bị tấn công mạng nên việc khám chữa bệnh bị ngưng.
+脆弱性[ぜいじゃくせい] | n | THÚY NHƯỢC TÍNH | lỗ hổng, điểm yếu | - | - | ソフトの脆弱[ぜいじゃく]性[せい]を修正[しゅうせい]する更新[こうしん]が配信[はいしん]された。 | Bản cập nhật sửa lỗ hổng phần mềm đã được phát hành.
+デバッグ | n,v3 | - | gỡ lỗi | - | - | プログラムのデバッグに丸[まる]一日[いちにち]かかった。 | Gỡ lỗi chương trình mất trọn một ngày.
+仕様[しよう] | n | SĨ DẠNG | đặc tả, thông số; cách làm | {仕様} 書[しょ] | bản đặc tả | お客様[きゃくさま]の要望[ようぼう]に合[あ]わせて仕様[しよう]を変更[へんこう]した。 | Đã thay đổi đặc tả theo yêu cầu khách hàng.
+汎用[はんよう] | n | PHIẾM DỤNG | đa dụng | - | - | この部品[ぶひん]は汎用[はんよう]品[ひん]なので安[やす]く手[て]に入[はい]る。 | Linh kiện này là hàng đa dụng nên mua được rẻ.
+汎用性[はんようせい] | n | PHIẾM DỤNG TÍNH | tính đa dụng | {汎用性} が 高[たか]い | đa dụng cao | この道具[どうぐ]は汎用[はんよう]性[せい]が高[たか]く、いろいろな場面[ばめん]で使[つか]える。 | Dụng cụ này đa dụng cao, dùng được trong nhiều tình huống.
+互換性[ごかんせい] | n | HỖ HOÁN TÍNH | tính tương thích | - | - | 古[ふる]いソフトとの互換[ごかん]性[せい]がない。 | Không tương thích với phần mềm cũ.
+標準化[ひょうじゅんか] | n,v3 | TIÊU CHUẨN HÓA | tiêu chuẩn hóa | - | - | 作業[さぎょう]手順[てじゅん]を標準[ひょうじゅん]化[か]してミスを減[へ]らす。 | Tiêu chuẩn hóa quy trình để giảm sai sót.
+商用化[しょうようか] | n,v3 | THƯƠNG DỤNG HÓA | thương mại hóa | - | - | 新[あたら]しい通信[つうしん]技術[ぎじゅつ]の商用[しょうよう]化[か]が始[はじ]まった。 | Việc thương mại hóa công nghệ truyền thông mới đã bắt đầu.
+省力化[しょうりょくか] | n,v3 | TỈNH LỰC HÓA | giảm sức lao động | - | - | 機械[きかい]の導入[どうにゅう]で農作業[のうさぎょう]の省力[しょうりょく]化[か]が進[すす]んだ。 | Nhờ đưa máy móc vào, nông nghiệp đỡ tốn sức lao động hơn.
+最適化[さいてきか] | n,v3 | TỐI THÍCH HÓA | tối ưu hóa | - | - | 配送[はいそう]ルートを最適[さいてき]化[か]して時間[じかん]を短縮[たんしゅく]した。 | Tối ưu hóa tuyến giao hàng để rút ngắn thời gian.
+高度化[こうどか] | n,v3 | CAO ĐỘ HÓA | nâng cao trình độ | - | - | 犯罪[はんざい]の手口[てぐち]が高度[こうど]化[か]している。 | Thủ đoạn phạm tội ngày càng tinh vi.
+高速化[こうそくか] | n,v3 | CAO TỐC HÓA | tăng tốc | - | - | 通信[つうしん]の高速[こうそく]化[か]で動画[どうが]がスムーズに見[み]られる。 | Nhờ tăng tốc độ truyền, video xem mượt mà.
+産業用[さんぎょうよう]ロボット | n | SẢN NGHIỆP DỤNG | rô-bốt công nghiệp | - | - | 自動車[じどうしゃ]工場[こうじょう]では多[おお]くの産業[さんぎょう]用[よう]ロボットが働[はたら]いている。 | Nhiều rô-bốt công nghiệp làm việc trong nhà máy ô tô.
+ドローン | n | - | máy bay không người lái | - | - | ドローンで荷物[にもつ]を届[とど]ける実験[じっけん]が行[おこな]われた。 | Đã thử nghiệm giao hàng bằng máy bay không người lái.
+遠隔[えんかく]操作[そうさ] | n,v3 | VIỄN CÁCH THAO TÁC | điều khiển từ xa | - | - | 危険[きけん]な場所[ばしょ]では機械[きかい]を遠隔[えんかく]操作[そうさ]する。 | Ở nơi nguy hiểm, máy móc được điều khiển từ xa.
+精密[せいみつ]機器[きき] | n | TINH MẬT CƠ KHÍ | thiết bị chính xác | - | - | 精密[せいみつ]機器[きき]なので取[と]り扱[あつか]いに注意[ちゅうい]してください。 | Đây là thiết bị chính xác nên hãy cẩn thận khi sử dụng.
+マントル | n | - | lớp phủ (địa chất) | - | - | 地殻[ちかく]の下[した]にはマントルがある。 | Bên dưới vỏ trái đất là lớp phủ.
+岩石[がんせき] | n | NHAM THẠCH | đá | - | - | 月[つき]から持[も]ち帰[かえ]った岩石[がんせき]を分析[ぶんせき]する。 | Phân tích đá mang về từ mặt trăng.
+マグマ | n | - | macma | - | - | 地下[ちか]のマグマが上昇[じょうしょう]して噴火[ふんか]が起[お]きる。 | Macma dưới lòng đất dâng lên gây phun trào.
+溶岩[ようがん] | n | DUNG NHAM | dung nham | - | - | 火山[かざん]から溶岩[ようがん]が流[なが]れ出[だ]した。 | Dung nham chảy ra từ núi lửa.
+断層[だんそう] | n | ĐOẠN TẦNG | đứt gãy; khoảng cách | - | - | 世代[せだい]間[かん]には意識[いしき]の断層[だんそう]がある。 | Giữa các thế hệ có khoảng cách về nhận thức.
+活断層[かつだんそう] | n | HOẠT ĐOẠN TẦNG | đứt gãy hoạt động | - | - | 原発[げんぱつ]の真下[ました]に活[かつ]断層[だんそう]がある可能性[かのうせい]が指摘[してき]された。 | Có khả năng có đứt gãy hoạt động ngay dưới nhà máy điện hạt nhân.
+液状化[えきじょうか] | n,v3 | DỊCH TRẠNG HÓA | hóa lỏng nền đất | - | - | 地震[じしん]で埋[う]め立[た]て地[ち]が液状[えきじょう]化[か]した。 | Động đất làm đất lấn biển bị hóa lỏng.
+地盤[じばん]沈下[ちんか] | n | ĐỊA BÀN TRẦM HẠ | lún đất | - | - | 地下水[ちかすい]のくみ上[あ]げで地盤[じばん]沈下[ちんか]が起[お]きた。 | Khai thác nước ngầm gây lún đất.
+膀胱[ぼうこう] | n | BÀNG QUANG | bàng quang | {膀胱}炎[えん] | viêm bàng quang | 膀胱[ぼうこう]炎[えん]で泌尿器科[ひにょうきか]を受診[じゅしん]した。 | Khám khoa tiết niệu vì viêm bàng quang.
+直腸[ちょくちょう] | n | TRỰC TRƯỜNG | trực tràng | {直腸}検査[けんさ] | khám trực tràng | 直腸[ちょくちょう]がんの早期[そうき]発見[はっけん]が重要[じゅうよう]だ。 | Phát hiện sớm ung thư trực tràng rất quan trọng.
+盲腸[もうちょう] | n | MANH TRƯỜNG | ruột thừa | {盲腸}の手術[しゅじゅつ] | phẫu thuật ruột thừa | 急[きゅう]に盲腸[もうちょう]が痛[いた]くなって救急車[きゅうきゅうしゃ]を呼[よ]んだ。 | Đột ngột đau ruột thừa nên gọi xe cấp cứu.
+虫垂[ちゅうすい] | n | TRÙNG THÙY | ruột thừa (thuật ngữ y khoa) | {虫垂}炎[えん] | viêm ruột thừa | 虫垂[ちゅうすい]炎[えん]で緊急[きんきゅう]手術[しゅじゅつ]を受[う]けた。 | Phẫu thuật cấp cứu vì viêm ruột thừa.
+胆嚢[たんのう] | n | ĐẢM NANG | túi mật | {胆嚢}を摘出[てきしゅつ]する | cắt bỏ túi mật | 胆石[たんせき]のため胆嚢[たんのう]を摘出[てきしゅつ]した。 | Cắt bỏ túi mật do sỏi mật.
+副腎[ふくじん] | n | PHÓ THẬN | tuyến thượng thận | {副腎}ホルモン | hormone tuyến thượng thận | 副腎[ふくじん]からストレスホルモンが分泌[ぶんぴつ]される。 | Hormone căng thẳng được tiết ra từ tuyến thượng thận.
+延髄[えんずい] | n | DIÊN TÙY | hành não | {延髄}の機能[きのう] | chức năng hành não | 延髄[えんずい]は呼吸[こきゅう]や心拍[しんぱく]を制御[せいぎょ]する。 | Hành não điều khiển hô hấp và nhịp tim.
+軟骨[なんこつ] | n | NHUYỄN CỐT | sụn | {軟骨}がすり減[へ]る | sụn bị mòn | 膝[ひざ]の軟骨[なんこつ]がすり減[へ]って痛[いた]む。 | Đau do sụn đầu gối bị mòn.
+横隔膜[おうかくまく] | n | HOÀNH CÁCH MẠC | cơ hoành | {横隔膜}が収縮[しゅうしゅく]する | cơ hoành co lại | しゃっくりは横隔膜[おうかくまく]の痙攣[けいれん]で起[お]きる。 | Nấc do co thắt cơ hoành.
+粘膜[ねんまく] | n | NIÊM MẠC | niêm mạc | {粘膜}が腫[は]れる | niêm mạc sưng | 胃[い]の粘膜[ねんまく]が炎症[えんしょう]を起[お]こしている。 | Niêm mạc dạ dày đang bị viêm.
+再診[さいしん] | n | TÁI CHẨN | tái khám | {再診}する | tái khám | 1週間後[しゅうかんご]に再診[さいしん]に来[き]てください。 | Xin hãy đến tái khám sau 1 tuần.
+往診[おうしん] | n | VÃNG CHẨN | khám tại nhà | {往診}する | khám tại nhà | 高齢[こうれい]患者[かんじゃ]の自宅[じたく]に往診[おうしん]に行[い]った。 | Đi khám tại nhà cho bệnh nhân cao tuổi.
+回診[かいしん] | n | HỒI CHẨN | thăm bệnh (đi vòng quanh) | {回診}する | đi thăm bệnh | 医師[いし]が毎朝[まいあさ]病棟[びょうとう]を回診[かいしん]する。 | Bác sĩ đi thăm bệnh khu điều trị mỗi sáng.
+健診[けんしん] | n | KIỆN CHẨN | kiểm tra sức khỏe | {健診}を受[う]ける | kiểm tra sức khỏe | 年[ねん]に1回[かい]健診[けんしん]を受[う]けている。 | Kiểm tra sức khỏe mỗi năm một lần.
+精査[せいさ] | n | TINH TRA | kiểm tra kỹ lưỡng | {精査}する | kiểm tra kỹ | 異常[いじょう]が見[み]つかったので精査[せいさ]する必要[ひつよう]がある。 | Phát hiện bất thường nên cần kiểm tra kỹ.
+採尿[さいにょう] | n | THẢI NIỆU | lấy mẫu nước tiểu | {採尿}する | lấy mẫu nước tiểu | 健康[けんこう]診断[しんだん]で採尿[さいにょう]と採血[さいけつ]を行[おこな]った。 | Lấy mẫu nước tiểu và máu trong khám sức khỏe.
+転院[てんいん] | n | CHUYỂN VIỆN | chuyển viện | {転院}する | chuyển viện | 専門[せんもん]病院[びょういん]に転院[てんいん]することになった。 | Đã quyết định chuyển đến bệnh viện chuyên khoa.
+寛解[かんかい] | n | KHOAN GIẢI | thuyên giảm | {寛解}する | thuyên giảm | 治療[ちりょう]により症状[しょうじょう]が寛解[かんかい]した。 | Triệu chứng đã thuyên giảm nhờ điều trị.
+蘇生[そせい] | n | TÔ SINH | hồi sinh, cấp cứu | 心肺[しんぱい]{蘇生} | hồi sinh tim phổi | 心肺[しんぱい]蘇生[そせい]を行[おこな]って命[いのち]を救[すく]った。 | Hồi sinh tim phổi cứu sống mạng người.
+局所[きょくしょ] | n | CỤC SỞ | cục bộ, tại chỗ | {局所}麻酔[ますい] | gây tê cục bộ | 局所[きょくしょ]麻酔[ますい]で手術[しゅじゅつ]を行[おこな]った。 | Phẫu thuật dưới gây tê cục bộ.
+摘出[てきしゅつ] | n | TRÍCH XUẤT | cắt bỏ, tách lấy | 腫瘍[しゅよう]を{摘出}する | cắt bỏ khối u | 良性[りょうせい]腫瘍[しゅよう]を摘出[てきしゅつ]した。 | Đã cắt bỏ khối u lành tính.
+切除[せつじょ] | n | THIẾT TRỪ | cắt bỏ | {切除}する | cắt bỏ | がん組織[そしき]を切除[せつじょ]する手術[しゅじゅつ]を受[う]けた。 | Đã phẫu thuật cắt bỏ mô ung thư.
+罹患[りかん] | n | LY HOẠN | mắc bệnh | {罹患}する | mắc bệnh | 生涯[しょうがい]で2人[ふたり]に1人[ひとり]ががんに罹患[りかん]する。 | Trong đời cứ 2 người thì 1 người mắc ung thư.
+禁忌[きんき] | n | CẤM KỴ | chống chỉ định, cấm kỵ | {禁忌}とされる | bị coi là cấm kỵ | この薬[くすり]は妊婦[にんぷ]には禁忌[きんき]だ。 | Thuốc này là chống chỉ định với phụ nữ mang thai.
+末期[まっき] | n | MẠT KỲ | giai đoạn cuối | {末期}がん | ung thư giai đoạn cuối | 末期[まっき]がんの患者[かんじゃ]にホスピスケアを提供[ていきょう]する。 | Cung cấp chăm sóc cuối đời cho bệnh nhân ung thư giai đoạn cuối.
+病理[びょうり] | n | BỆNH LÝ | bệnh lý | {病理}検査[けんさ] | xét nghiệm bệnh lý | 病理[びょうり]検査[けんさ]で腫瘍[しゅよう]の性質[せいしつ]を調[しら]べる。 | Xét nghiệm bệnh lý để kiểm tra tính chất khối u.
+病変[びょうへん] | n | BỆNH BIẾN | tổn thương bệnh lý | {病変}が見[み]つかる | phát hiện tổn thương | CT検査[けんさ]で肺[はい]に病変[びょうへん]が見[み]つかった。 | Phát hiện tổn thương ở phổi qua chụp CT.
+病巣[びょうそう] | n | BỆNH SÀO | ổ bệnh | {病巣}を特定[とくてい]する | xác định ổ bệnh | MRIで病巣[びょうそう]の位置[いち]を特定[とくてい]した。 | Xác định vị trí ổ bệnh bằng MRI.
+潰瘍[かいよう] | n | KHỐI DƯƠNG | loét | 胃[い]{潰瘍} | loét dạ dày | ストレスで胃[い]潰瘍[かいよう]になった。 | Bị loét dạ dày do căng thẳng.
+壊死[えし] | n | HOẠI TỬ | hoại tử | {壊死}する | hoại tử | 血流[けつりゅう]が止[と]まると組織[そしき]が壊死[えし]する。 | Khi máu ngừng chảy thì mô bị hoại tử.
+壊疽[えそ] | n | HOẠI THƯ | hoại thư | {壊疽}を起[お]こす | gây hoại thư | 糖尿病[とうにょうびょう]が悪化[あっか]して壊疽[えそ]を起[お]こした。 | Tiểu đường nặng lên gây hoại thư.
+接種[せっしゅ] | n | TIẾP CHỦNG | tiêm chủng | ワクチンを{接種}する | tiêm vắc-xin | インフルエンザのワクチンを接種[せっしゅ]した。 | Đã tiêm vắc-xin cúm.
+濃厚[のうこう] | adj-na | NÙNG HẬU | đậm đặc, mật thiết | {濃厚}接触[せっしょく] | tiếp xúc gần | 感染者[かんせんしゃ]の濃厚[のうこう]接触者[せっしょくしゃ]を追跡[ついせき]する。 | Truy vết người tiếp xúc gần với người nhiễm bệnh.
+痙攣[けいれん] | n | KINH LOAN | co giật | {痙攣}を起[お]こす | bị co giật | 高熱[こうねつ]で痙攣[けいれん]を起[お]こした。 | Bị co giật vì sốt cao.
+眩暈[めまい] | n | HUYỀN VỰNG | chóng mặt | {眩暈}がする | bị chóng mặt | 急[きゅう]に立[た]ち上[あ]がると眩暈[めまい]がする。 | Chóng mặt khi đứng dậy đột ngột.
+悪寒[おかん] | n | ÁC HÀN | ớn lạnh | {悪寒}がする | ớn lạnh | 悪寒[おかん]がして熱[ねつ]が出[で]てきた。 | Bị ớn lạnh rồi bắt đầu sốt.
+倦怠感[けんたいかん] | n | QUYỆN ĐÃI CẢM | cảm giác mệt mỏi | {倦怠感}が続[つづ]く | mệt mỏi kéo dài | 原因[げんいん]不明[ふめい]の倦怠感[けんたいかん]が続[つづ]いている。 | Mệt mỏi không rõ nguyên nhân kéo dài.
+不整脈[ふせいみゃく] | n | BẤT CHỈNH MẠCH | loạn nhịp tim | {不整脈}が見[み]つかる | phát hiện loạn nhịp | 健康[けんこう]診断[しんだん]で不整脈[ふせいみゃく]が見[み]つかった。 | Phát hiện loạn nhịp tim trong kiểm tra sức khỏe.
+心不全[しんふぜん] | n | TÂM BẤT TOÀN | suy tim | {心不全}を起[お]こす | bị suy tim | 心不全[しんふぜん]で入院[にゅういん]した。 | Nhập viện vì suy tim.
+梗塞[こうそく] | n | NGẠNH TẮC | nhồi máu | 心筋[しんきん]{梗塞} | nhồi máu cơ tim | 心筋[しんきん]梗塞[こうそく]で緊急[きんきゅう]手術[しゅじゅつ]を受[う]けた。 | Phẫu thuật cấp cứu vì nhồi máu cơ tim.
+塞栓[そくせん] | n | TẮC THUYÊN | thuyên tắc | {塞栓}症[しょう] | bệnh thuyên tắc | 肺[はい]塞栓[そくせん]症[しょう]は命[いのち]に関[かか]わる。 | Thuyên tắc phổi nguy hiểm đến tính mạng.
+服薬[ふくやく] | n | PHỤC DƯỢC | uống thuốc | {服薬}する | uống thuốc | 毎日[まいにち]決[き]まった時間[じかん]に服薬[ふくやく]する。 | Uống thuốc đúng giờ mỗi ngày.
+内服[ないふく] | n | NỘI PHỤC | thuốc uống | {内服}薬[やく] | thuốc uống | この内服[ないふく]薬[やく]は食後[しょくご]に飲[の]んでください。 | Hãy uống thuốc này sau bữa ăn.
+外用[がいよう] | n | NGOẠI DỤNG | thuốc bôi ngoài | {外用}薬[やく] | thuốc dùng ngoài | 外用[がいよう]薬[やく]を患部[かんぶ]に塗[ぬ]る。 | Bôi thuốc ngoài lên vùng bị bệnh.

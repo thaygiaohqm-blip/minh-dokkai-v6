@@ -1,0 +1,83 @@
+@topic t09
+@ja 毎日[まいにち]の生活[せいかつ]
+@vi Sinh hoạt và hoạt động hằng ngày
+@desc Những động từ chỉ việc làm mỗi ngày, sở thích, giải trí, cho và nhận, cùng các việc lặt vặt như hẹn hò, liên lạc, chuẩn bị.
+起[お]きる | v2 | KHỞI | thức dậy | 朝[あさ] 早[はや]く 起[お]きる | dậy sớm | 明日[あした]は朝[あさ]早[はや]く起[お]きなければなりません。 | Mai tôi phải dậy sớm.
+起[お]こす | v1 | KHỞI | đánh thức | 子供[こども] を 起[お]こす | đánh thức con | 毎朝[まいあさ]七[しち]時[じ]に子供[こども]を起[お]こします。 | Sáng nào tôi cũng đánh thức con lúc bảy giờ.
+寝[ね]る | v2 | TẨM | ngủ; đi ngủ | 早[はや]く 寝[ね]る | ngủ sớm | 明日[あした]は試験[しけん]なので、早[はや]く寝[ね]ます。 | Mai thi nên tôi ngủ sớm.
+着替[きが]える | v2 | TRƯỚC THẾ | thay quần áo | 制服[せいふく] に 着替[きが]える | thay đồng phục | 工場[こうじょう]に着[つ]いたら、制服[せいふく]に着替[きが]えます。 | Đến nhà máy là tôi thay đồng phục.
+見[み]る | v2 | KIẾN | xem, nhìn | 夢[ゆめ] を 見[み]る | nằm mơ | 昨日[きのう]、国[くに]の家族[かぞく]の夢[ゆめ]を見[み]ました。 | Đêm qua tôi mơ thấy gia đình ở quê.
+見[み]える | v2 | KIẾN | nhìn thấy được | 富士山[ふじさん] が 見[み]える | thấy được núi Phú Sĩ | 部屋[へや]の窓[まど]から富士山[ふじさん]が見[み]えます。 | Từ cửa sổ phòng tôi thấy được núi Phú Sĩ.
+聞[き]こえる | v2 | VĂN | nghe thấy được | 音[おと] が 聞[き]こえる | nghe thấy tiếng | 外[そと]から変[へん]な音[おと]が聞[き]こえます。 | Nghe thấy tiếng lạ từ bên ngoài.
+音[おと] | n | ÂM | âm thanh, tiếng động | 音[おと] が する | có tiếng động | 台所[だいどころ]で何[なに]か音[おと]がしました。 | Trong bếp có tiếng động gì đó.
+遊[あそ]ぶ | v1 | DU | chơi | 子供[こども] と 遊[あそ]ぶ | chơi với con | 週末[しゅうまつ]は公園[こうえん]で子供[こども]と遊[あそ]びます。 | Cuối tuần tôi chơi với con ở công viên.
+歌[うた] | n | CA | bài hát | 歌[うた] を 歌[うた]う | hát một bài | パーティーで日本[にほん]の歌[うた]を歌[うた]いました。 | Tôi đã hát một bài hát Nhật ở bữa tiệc.
+歌[うた]う | v1 | CA | hát | カラオケ で 歌[うた]う | hát karaoke | 友達[ともだち]とカラオケで歌[うた]いました。 | Tôi đi hát karaoke với bạn.
+音楽[おんがく] | n | ÂM NHẠC | âm nhạc | 音楽[おんがく] を 聞[き]く | nghe nhạc | 電車[でんしゃ]の中[なか]で音楽[おんがく]を聞[き]きます。 | Tôi nghe nhạc trên tàu.
+弾[ひ]く | v1 | ĐÀN | chơi (nhạc cụ dây, phím) | ギター を 弾[ひ]く | chơi đàn ghi-ta | 兄[あに]はギターを弾[ひ]くのが上手[じょうず]です。 | Anh tôi chơi ghi-ta giỏi.
+ピアノ | n | - | đàn piano | - | - | 娘[むすめ]は毎日[まいにち]ピアノを練習[れんしゅう]しています。 | Con gái tôi tập piano mỗi ngày.
+ギター | n | - | đàn ghi-ta | - | - | 古[ふる]いギターを友達[ともだち]にもらいました。 | Tôi được bạn cho cây đàn ghi-ta cũ.
+映画[えいが] | n | ÁNH HỌA | phim điện ảnh | 映画[えいが] を 見[み]る | xem phim | 土曜日[どようび]に彼女[かのじょ]と映画[えいが]を見[み]ました。 | Thứ Bảy tôi xem phim với bạn gái.
+趣味[しゅみ] | n | THÚ VỊ | sở thích | - | - | 私[わたし]の趣味[しゅみ]は写真[しゃしん]を撮[と]ることです。 | Sở thích của tôi là chụp ảnh.
+スポーツ | n | - | thể thao | - | - | どんなスポーツが好[す]きですか。 | Bạn thích môn thể thao nào?
+運動[うんどう] | n,v3 | VẬN ĐỘNG | vận động, tập thể dục | {運動[うんどう]} 不足[ぶそく] | thiếu vận động | 最近[さいきん]、運動[うんどう]不足[ぶそく]で太[ふと]りました。 | Dạo này tôi thiếu vận động nên tăng cân.
+サッカー | n | - | bóng đá | - | - | 日曜日[にちようび]に友達[ともだち]とサッカーをします。 | Chủ nhật tôi đá bóng với bạn.
+テニス | n | - | quần vợt | テニス を する | chơi quần vợt | 大学[だいがく]でテニスをしていました。 | Hồi đại học tôi chơi quần vợt.
+野球[やきゅう] | n | DÃ CẦU | bóng chày | - | - | 日本[にほん]では野球[やきゅう]がとても人気[にんき]です。 | Ở Nhật bóng chày rất được ưa chuộng.
+絵[え] | n | HỘI | bức tranh | 絵[え] を 描[か]く | vẽ tranh | 休[やす]みの日[ひ]は公園[こうえん]で絵[え]を描[か]きます。 | Ngày nghỉ tôi vẽ tranh ở công viên.
+ゲーム | n | - | trò chơi điện tử | - | - | 弟[おとうと]は毎晩[まいばん]ゲームをしています。 | Em trai tôi tối nào cũng chơi game.
+旅行[りょこう] | n,v3 | LỮ HÀNH | du lịch | 旅行[りょこう] に 行[い]く | đi du lịch | 来月[らいげつ]、家族[かぞく]と沖縄[おきなわ]へ旅行[りょこう]に行[い]きます。 | Tháng sau tôi đi du lịch Okinawa với gia đình.
+する | v3 | - | làm | - | - | 週末[しゅうまつ]は何[なに]をしますか。 | Cuối tuần bạn làm gì?
+使[つか]う | v1 | SỬ | dùng, sử dụng | パソコン を 使[つか]う | dùng máy tính | 仕事[しごと]でパソコンを使[つか]います。 | Tôi dùng máy tính trong công việc.
+持[も]つ | v1 | TRÌ | cầm, mang; có | 荷物[にもつ] を 持[も]つ | xách hành lý | 重[おも]い荷物[にもつ]を持[も]って階段[かいだん]を上[のぼ]りました。 | Tôi xách hành lý nặng leo cầu thang.
+取[と]る | v1 | THỦ | lấy; cầm | 年[とし] を 取[と]る | có tuổi, già đi | 祖父[そふ]も年[とし]を取[と]って、あまり歩[ある]けなくなりました。 | Ông tôi đã có tuổi, không đi bộ được nhiều nữa.
+出[だ]す | v1 | XUẤT | lấy ra; gửi; nộp | 声[こえ] を 出[だ]す | cất tiếng, nói to | 図書館[としょかん]では大[おお]きな声[こえ]を出[だ]さないでください。 | Ở thư viện đừng nói to.
+送[おく]る | v1 | TỐNG | gửi; tiễn | 駅[えき] まで 送[おく]る | tiễn ra ga | 友達[ともだち]を駅[えき]まで送[おく]りました。 | Tôi đã tiễn bạn ra ga.
+メール | n | - | thư điện tử | メール を 送[おく]る | gửi email | 会議[かいぎ]の資料[しりょう]をメールで送[おく]ります。 | Tôi gửi tài liệu cuộc họp qua email.
+携帯[けいたい] | n | HUỀ ĐỚI | điện thoại di động | - | - | 携帯[けいたい]を家[いえ]に忘[わす]れてしまいました。 | Tôi để quên điện thoại ở nhà mất rồi.
+あげる | v2 | - | cho, tặng | プレゼント を あげる | tặng quà | 母[はは]の日[ひ]に花[はな]をあげました。 | Tôi đã tặng hoa cho mẹ vào Ngày của Mẹ.
+もらう | v1 | - | nhận | 手紙[てがみ] を もらう | nhận thư | 昔[むかし]の先生[せんせい]から手紙[てがみ]をもらいました。 | Tôi nhận được thư từ thầy giáo cũ.
+くれる | v2 | - | (ai đó) cho mình | - | - | 友達[ともだち]が誕生日[たんじょうび]にケーキをくれました。 | Bạn tôi đã tặng tôi bánh vào ngày sinh nhật.
+返[かえ]す | v1 | PHẢN | trả lại | 本[ほん] を 返[かえ]す | trả sách | 来週[らいしゅう]までに図書館[としょかん]に本[ほん]を返[かえ]します。 | Tôi sẽ trả sách cho thư viện trước tuần sau.
+立[た]つ | v1 | LẬP | đứng | 席[せき] を 立[た]つ | đứng dậy rời chỗ | 電話[でんわ]が鳴[な]って、彼[かれ]は席[せき]を立[た]ちました。 | Điện thoại reo, anh ấy đứng dậy rời chỗ.
+座[すわ]る | v1 | TỌA | ngồi | 席[せき] に 座[すわ]る | ngồi vào chỗ | 授業[じゅぎょう]が始[はじ]まるので、席[せき]に座[すわ]ってください。 | Giờ học sắp bắt đầu, hãy ngồi vào chỗ.
+戻[もど]る | v1 | LỆ | quay lại | 席[せき] に 戻[もど]る | quay về chỗ ngồi | 休憩[きゅうけい]が終[お]わったら、席[せき]に戻[もど]ってください。 | Hết giờ nghỉ hãy quay về chỗ.
+並[なら]ぶ | v1 | TỊNH | xếp hàng | 列[れつ] に 並[なら]ぶ | đứng xếp hàng | 人気[にんき]の店[みせ]なので、一[いち]時間[じかん]列[れつ]に並[なら]びました。 | Quán nổi tiếng nên tôi xếp hàng một tiếng.
+引[ひ]く | v1 | DẪN | kéo; tra (từ điển) | 線[せん] を 引[ひ]く | kẻ đường thẳng | 大切[たいせつ]な所[ところ]に線[せん]を引[ひ]いてください。 | Hãy gạch chân những chỗ quan trọng.
+かける | v2 | - | treo; mở (nhạc); gọi (điện) | 音楽[おんがく] を かける | mở nhạc | 料理[りょうり]をしながら音楽[おんがく]をかけます。 | Tôi vừa nấu ăn vừa mở nhạc.
+描[か]く | v1 | MIÊU | vẽ | 地図[ちず] を 描[か]く | vẽ bản đồ | 駅[えき]からの地図[ちず]を描[か]いてもらえますか。 | Bạn vẽ giúp tôi bản đồ từ ga được không?
+知[し]る | v1 | TRI | biết | {知[し]って} いる | biết (đang biết) | この店[みせ]の名前[なまえ]を知[し]っていますか。 | Bạn có biết tên cửa hàng này không?
+分[わ]かる | v1 | PHÂN | hiểu; biết | - | - | 先生[せんせい]の説明[せつめい]がよく分[わ]かりました。 | Tôi đã hiểu rõ lời giải thích của thầy.
+思[おも]う | v1 | TƯ | nghĩ | - | - | 明日[あした]は雨[あめ]が降[ふ]ると思[おも]います。 | Tôi nghĩ ngày mai trời sẽ mưa.
+考[かんが]える | v2 | KHẢO | suy nghĩ, cân nhắc | よく 考[かんが]える | suy nghĩ kỹ | 大切[たいせつ]なことなので、よく考[かんが]えてください。 | Đây là việc quan trọng, hãy suy nghĩ kỹ.
+できる | v2 | - | có thể; làm xong; được tạo ra | - | - | 私[わたし]は日本語[にほんご]が少[すこ]しできます。 | Tôi biết một chút tiếng Nhật.
+要[い]る | v1 | YẾU | cần | - | - | 旅行[りょこう]にパスポートは要[い]りますか。 | Đi du lịch có cần hộ chiếu không?
+ある | v1 | - | có (đồ vật) | - | - | 机[つくえ]の上[うえ]にペンがあります。 | Trên bàn có cây bút.
+いる | v2 | - | có, ở (người, con vật) | - | - | 教室[きょうしつ]に学生[がくせい]が十[じゅう]人[にん]います。 | Trong lớp có mười học sinh.
+なる | v1 | - | trở nên, trở thành | - | - | 春[はる]になって、暖[あたた]かくなりました。 | Sang xuân trời đã ấm lên.
+死[し]ぬ | v1 | TỬ | chết | - | - | 飼[か]っていた犬[いぬ]が死[し]んで、悲[かな]しいです。 | Con chó tôi nuôi đã chết, tôi rất buồn.
+困[こま]る | v1 | KHỐN | gặp khó khăn, rắc rối | お金[かね] に 困[こま]る | túng tiền | 学生[がくせい]の時[とき]はいつもお金[かね]に困[こま]っていました。 | Hồi sinh viên tôi lúc nào cũng túng tiền.
+違[ちが]う | v1 | VI | khác; sai | 意見[いけん] が 違[ちが]う | ý kiến khác nhau | 父[ちち]と私[わたし]は意見[いけん]が違[ちが]います。 | Bố và tôi có ý kiến khác nhau.
+頼[たの]む | v1 | LẠI | nhờ; gọi (món) | 仕事[しごと] を 頼[たの]む | nhờ làm việc | 先輩[せんぱい]に仕事[しごと]を頼[たの]まれました。 | Tôi được đàn anh nhờ làm một việc.
+決[き]める | v2 | QUYẾT | quyết định | 予定[よてい] を 決[き]める | chốt lịch | 旅行[りょこう]の予定[よてい]を決[き]めましょう。 | Mình chốt lịch đi du lịch nhé.
+予定[よてい] | n | DỰ ĐỊNH | dự định, lịch trình | 予定[よてい] が ある | có hẹn, có kế hoạch | 今週[こんしゅう]の土曜日[どようび]は予定[よてい]がありますか。 | Thứ Bảy tuần này bạn có kế hoạch gì không?
+約束[やくそく] | n,v3 | ƯỚC THÚC | lời hứa; cuộc hẹn | 約束[やくそく] を 守[まも]る | giữ lời hứa | 彼[かれ]はいつも約束[やくそく]を守[まも]ります。 | Anh ấy luôn giữ lời hứa.
+用事[ようじ] | n | DỤNG SỰ | việc bận | 用事[ようじ] が ある | có việc bận | すみません、今日[きょう]は用事[ようじ]があって行[い]けません。 | Xin lỗi, hôm nay tôi có việc nên không đi được.
+準備[じゅんび] | n,v3 | CHUẨN BỊ | chuẩn bị | 旅行[りょこう] の {準備[じゅんび]} | chuẩn bị cho chuyến đi | もう旅行[りょこう]の準備[じゅんび]はできましたか。 | Bạn chuẩn bị xong cho chuyến đi chưa?
+生活[せいかつ] | n,v3 | SINH HOẠT | cuộc sống, sinh hoạt | 日本[にほん] の {生活[せいかつ]} | cuộc sống ở Nhật | 日本[にほん]の生活[せいかつ]にもう慣[な]れましたか。 | Bạn đã quen cuộc sống ở Nhật chưa?
+慣[な]れる | v2 | QUÁN | quen | 仕事[しごと] に 慣[な]れる | quen việc | やっと新[あたら]しい仕事[しごと]に慣[な]れました。 | Cuối cùng tôi cũng đã quen công việc mới.
+調[しら]べる | v2 | ĐIỀU | tra cứu, tìm hiểu | ネット で 調[しら]べる | tra trên mạng | 分[わ]からないことはネットで調[しら]べます。 | Điều gì chưa biết tôi tra trên mạng.
+連絡[れんらく] | n,v3 | LIÊN LẠC | liên lạc | 連絡[れんらく] を 取[と]る | giữ liên lạc | 国[くに]の友達[ともだち]と今[いま]も連絡[れんらく]を取[と]っています。 | Tôi vẫn giữ liên lạc với bạn bè ở quê.
+集[あつ]める | v2 | TẬP | thu thập, sưu tầm | 切手[きって] を 集[あつ]める | sưu tầm tem | 子供[こども]のころ、切手[きって]を集[あつ]めていました。 | Hồi nhỏ tôi sưu tầm tem.
+運[はこ]ぶ | v1 | VẬN | vận chuyển, khuân | 荷物[にもつ] を 運[はこ]ぶ | khuân đồ | 引[ひ]っ越[こ]しで重[おも]い荷物[にもつ]を運[はこ]びました。 | Khi chuyển nhà tôi đã khuân đồ nặng.
+動[うご]く | v1 | ĐỘNG | chuyển động; hoạt động | 機械[きかい] が 動[うご]く | máy chạy | 朝[あさ]、機械[きかい]が動[うご]かなくなりました。 | Sáng nay máy bị dừng không chạy nữa.
+止[と]める | v2 | CHỈ | dừng; đỗ (xe) | 車[くるま] を 止[と]める | đỗ xe | ここに車[くるま]を止[と]めないでください。 | Đừng đỗ xe ở đây.
+直[なお]す | v1 | TRỰC | sửa | 間違[まちが]い を 直[なお]す | sửa lỗi sai | 作文[さくぶん]の間違[まちが]いを直[なお]してください。 | Hãy sửa lỗi sai trong bài văn.
+間[ま]に合[あ]う | v1 | GIAN HỢP | kịp | 電車[でんしゃ] に {間[ま]に合[あ]う} | kịp chuyến tàu | 走[はし]ったので、電車[でんしゃ]に間[ま]に合[あ]いました。 | Nhờ chạy nên tôi đã kịp chuyến tàu.
+遅[おく]れる | v2 | TRÌ | muộn, trễ | 時間[じかん] に 遅[おく]れる | trễ giờ | 時間[じかん]に遅[おく]れないようにしてください。 | Hãy cố gắng đừng trễ giờ.
+忘[わす]れ物[もの] | n | VONG VẬT | đồ để quên | 忘[わす]れ物[もの] を する | để quên đồ | 電車[でんしゃ]に忘[わす]れ物[もの]をしてしまいました。 | Tôi để quên đồ trên tàu mất rồi.
+夢[ゆめ] | n | MỘNG | giấc mơ; ước mơ | - | - | 私[わたし]の夢[ゆめ]は日本[にほん]で店[みせ]を開[ひら]くことです。 | Ước mơ của tôi là mở cửa hàng ở Nhật.
+笑[わら]う | v1 | TIẾU | cười | 大[おお]きな 声[こえ] で 笑[わら]う | cười to | 彼[かれ]の話[はなし]を聞[き]いて、みんな大[おお]きな声[こえ]で笑[わら]いました。 | Nghe chuyện của anh ấy, ai cũng cười to.
+泣[な]く | v1 | KHẤP | khóc | 子供[こども] が 泣[な]く | trẻ con khóc | 隣[となり]の部屋[へや]で赤[あか]ちゃんが泣[な]いています。 | Em bé ở phòng bên đang khóc.
+怒[おこ]る | v1 | NỘ | giận; mắng | 先生[せんせい] に {怒[おこ]られる} | bị thầy mắng | 宿題[しゅくだい]を忘[わす]れて、先生[せんせい]に怒[おこ]られました。 | Tôi quên bài tập nên bị thầy mắng.
+喜[よろこ]ぶ | v1 | HỶ | vui mừng | - | - | 合格[ごうかく]したことを両親[りょうしん]がとても喜[よろこ]んでくれました。 | Bố mẹ tôi rất vui vì tôi thi đỗ.

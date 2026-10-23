@@ -1,0 +1,202 @@
+@topic dieu-duong
+@ja 介護[かいご]
+@vi Điều dưỡng (Kaigo)
+@desc Cơ sở chăm sóc, hỗ trợ ăn uống, tắm rửa, vệ sinh, di chuyển người cao tuổi, theo dõi sức khỏe và ghi chép bàn giao ca.
+介護[かいご] | n,v3 | GIỚI HỘ | chăm sóc, điều dưỡng | {介護[かいご]} 施設[しせつ] | cơ sở điều dưỡng | 私[わたし]は介護[かいご]施設[しせつ]で働[はたら]いています。 | Tôi làm việc ở cơ sở điều dưỡng.
+介護士[かいごし] | n | GIỚI HỘ SĨ | nhân viên điều dưỡng | - | - | 介護士[かいごし]として三[さん]年[ねん]働[はたら]いています。 | Tôi làm nhân viên điều dưỡng được ba năm.
+介護福祉士[かいごふくしし] | n | GIỚI HỘ PHÚC CHỈ SĨ | chuyên viên chăm sóc (có chứng chỉ quốc gia) | - | - | 介護福祉士[かいごふくしし]の国家試験[こっかしけん]に合格[ごうかく]したいです。 | Tôi muốn thi đỗ kỳ thi quốc gia chuyên viên chăm sóc.
+施設[しせつ] | n | THI THIẾT | cơ sở | - | - | この施設[しせつ]には八十[はちじゅう]人[にん]の方[かた]が住[す]んでいます。 | Cơ sở này có tám mươi người đang sống.
+利用者[りようしゃ] | n | LỢI DỤNG GIẢ | người sử dụng dịch vụ | - | - | 利用者[りようしゃ]さんの名前[なまえ]を早[はや]く覚[おぼ]えましょう。 | Hãy sớm nhớ tên các cụ sử dụng dịch vụ.
+入居者[にゅうきょしゃ] | n | NHẬP CƯ GIẢ | người sống tại cơ sở | - | - | 入居者[にゅうきょしゃ]の方[かた]と一緒[いっしょ]に体操[たいそう]をします。 | Tập thể dục cùng các cụ sống tại cơ sở.
+高齢者[こうれいしゃ] | n | CAO LINH GIẢ | người cao tuổi | - | - | 日本[にほん]は高齢者[こうれいしゃ]が多[おお]い国[くに]です。 | Nhật là nước có nhiều người cao tuổi.
+デイサービス | n | - | dịch vụ chăm sóc ban ngày | - | - | 祖母[そぼ]は週[しゅう]に三[さん]回[かい]デイサービスに通[かよ]っています。 | Bà tôi đi dịch vụ chăm sóc ban ngày ba lần mỗi tuần.
+訪問介護[ほうもんかいご] | n | PHỎNG VẤN GIỚI HỘ | chăm sóc tại nhà | - | - | 訪問介護[ほうもんかいご]で利用者[りようしゃ]さんの家[いえ]に行[い]きます。 | Tôi đến nhà người được chăm sóc theo dịch vụ tại nhà.
+要介護[ようかいご] | n | YẾU GIỚI HỘ | cần chăm sóc (mức độ) | - | - | 父[ちち]は要介護[ようかいご]三[さん]と認定[にんてい]されました。 | Bố tôi được xác định ở mức cần chăm sóc độ 3.
+認知症[にんちしょう] | n | NHẬN TRI CHỨNG | sa sút trí tuệ | - | - | 認知症[にんちしょう]の方[かた]には、ゆっくり分[わ]かりやすく話[はな]します。 | Với người bị sa sút trí tuệ hãy nói chậm và dễ hiểu.
+寝[ね]たきり | n | TẨM | nằm liệt giường | - | - | 寝[ね]たきりの方[かた]は二[に]時間[じかん]ごとに体位[たいい]を変[か]えます。 | Người nằm liệt giường được đổi tư thế mỗi hai tiếng.
+車椅子[くるまいす] | n | XA Y TỬ | xe lăn | 車椅子[くるまいす] を 押[お]す | đẩy xe lăn | 車椅子[くるまいす]を押[お]して食堂[しょくどう]へ行[い]きます。 | Đẩy xe lăn đến phòng ăn.
+杖[つえ] | n | TRƯỢNG | gậy chống | 杖[つえ] を つく | chống gậy | 杖[つえ]をついてゆっくり歩[ある]きます。 | Chống gậy đi chậm rãi.
+歩行器[ほこうき] | n | BỘ HÀNH KHÍ | khung tập đi | - | - | 歩行器[ほこうき]を使[つか]って廊下[ろうか]を歩[ある]きます。 | Đi lại ngoài hành lang bằng khung tập đi.
+介助[かいじょ] | n,v3 | GIỚI TRỢ | hỗ trợ (sinh hoạt) | 食事[しょくじ] {介助[かいじょ]} | hỗ trợ ăn uống | 昼[ひる]は食事[しょくじ]介助[かいじょ]を担当[たんとう]します。 | Buổi trưa tôi phụ trách hỗ trợ ăn uống.
+入浴[にゅうよく] | n,v3 | NHẬP DỤC | tắm | {入浴[にゅうよく]} 介助[かいじょ] | hỗ trợ tắm | 入浴[にゅうよく]介助[かいじょ]の時[とき]はお湯[ゆ]の温度[おんど]を確認[かくにん]します。 | Khi hỗ trợ tắm phải kiểm tra nhiệt độ nước.
+排泄[はいせつ] | n,v3 | BÀI TIẾT | bài tiết | {排泄[はいせつ]} 介助[かいじょ] | hỗ trợ vệ sinh | 排泄[はいせつ]介助[かいじょ]ではプライバシーに配慮[はいりょ]します。 | Khi hỗ trợ vệ sinh phải chú ý sự riêng tư.
+配慮[はいりょ] | n,v3 | PHỐI LỰ | quan tâm, chú ý | - | - | 利用者[りようしゃ]さんの気持[きも]ちに配慮[はいりょ]して話[はな]します。 | Nói chuyện có quan tâm đến cảm xúc của người được chăm sóc.
+移乗[いじょう] | n,v3 | DI THỪA | chuyển chỗ (giường sang xe lăn) | - | - | ベッドから車椅子[くるまいす]への移乗[いじょう]を手伝[てつだ]います。 | Hỗ trợ chuyển từ giường sang xe lăn.
+移動[いどう] | n,v3 | DI ĐỘNG | di chuyển | - | - | 食堂[しょくどう]まで一緒[いっしょ]に移動[いどう]しましょう。 | Mình cùng di chuyển đến phòng ăn nhé.
+体位変換[たいいへんかん] | n,v3 | THỂ VỊ BIẾN HOÁN | đổi tư thế | - | - | 床[とこ]ずれを防[ふせ]ぐために体位変換[たいいへんかん]をします。 | Đổi tư thế để phòng loét do nằm lâu.
+床[とこ]ずれ | n | SÀNG | loét do nằm lâu | 床[とこ]ずれ が できる | bị loét tì đè | 同[おな]じ姿勢[しせい]が続[つづ]くと床[とこ]ずれができます。 | Nằm một tư thế lâu sẽ bị loét tì đè.
+姿勢[しせい] | n | TƯ THẾ | tư thế | 姿勢[しせい] を 直[なお]す | chỉnh tư thế | 座[すわ]る姿勢[しせい]を直[なお]してあげます。 | Chỉnh lại tư thế ngồi cho cụ.
+声[こえ]かけ | n,v3 | THANH | lời nói nhẹ nhàng trước khi làm | - | - | 介助[かいじょ]の前[まえ]に必[かなら]ず声[こえ]かけをします。 | Trước khi hỗ trợ nhất định phải nói trước.
+見守[みまも]り | n | KIẾN THỦ | trông chừng | - | - | 一人[ひとり]で歩[ある]ける方[かた]も見守[みまも]りが必要[ひつよう]です。 | Người tự đi được cũng cần trông chừng.
+見守[みまも]る | v1 | KIẾN THỦ | dõi theo | - | - | 食事[しょくじ]の様子[ようす]をそばで見守[みまも]ります。 | Ngồi bên cạnh dõi theo lúc cụ ăn.
+自立[じりつ] | n,v3 | TỰ LẬP | tự lập | {自立[じりつ]} 支援[しえん] | hỗ trợ tự lập | 自分[じぶん]でできることは自分[じぶん]でしてもらう自立[じりつ]支援[しえん]が大切[たいせつ]です。 | Hỗ trợ tự lập, để cụ tự làm những gì có thể, là điều quan trọng.
+支援[しえん] | n,v3 | CHI VIỆN | hỗ trợ | - | - | 生活[せいかつ]を支援[しえん]するのが私[わたし]たちの仕事[しごと]です。 | Hỗ trợ cuộc sống là công việc của chúng tôi.
+おむつ | n | - | bỉm, tã | おむつ を 交換[こうかん] する | thay bỉm | 夜中[よなか]に二[に]回[かい]おむつを交換[こうかん]します。 | Ban đêm thay bỉm hai lần.
+パッド | n | - | miếng lót | - | - | 尿[にょう]パッドを新[あたら]しいものにします。 | Thay miếng lót mới.
+トイレ誘導[ゆうどう] | n | DỤ ĐẠO | đưa đi vệ sinh | - | - | 食後[しょくご]にトイレ誘導[ゆうどう]をします。 | Sau bữa ăn đưa cụ đi vệ sinh.
+ポータブルトイレ | n | - | bô vệ sinh di động | - | - | 夜[よる]はベッドの横[よこ]にポータブルトイレを置[お]きます。 | Ban đêm để bô vệ sinh bên cạnh giường.
+尿[にょう] | n | NIỆU | nước tiểu | - | - | 尿[にょう]の色[いろ]がいつもと違[ちが]ったら報告[ほうこく]します。 | Màu nước tiểu khác thường thì báo cáo.
+便[べん] | n | TIỆN | phân | - | - | 便[べん]の回数[かいすう]を記録[きろく]します。 | Ghi lại số lần đi đại tiện.
+失禁[しっきん] | n,v3 | THẤT CẤM | tiểu không tự chủ | - | - | 失禁[しっきん]しても、本人[ほんにん]を責[せ]めないでください。 | Kể cả khi cụ tiểu không tự chủ, đừng trách cụ.
+便秘[べんぴ] | n,v3 | TIỆN BÍ | táo bón | - | - | 三日[みっか]便[べん]が出[で]ていないので便秘[べんぴ]が心配[しんぱい]です。 | Ba ngày chưa đi đại tiện nên lo bị táo bón.
+清拭[せいしき] | n,v3 | THANH THỨC | lau người | - | - | お風呂[ふろ]に入[はい]れない日[ひ]は清拭[せいしき]をします。 | Ngày không tắm được thì lau người.
+着脱[ちゃくだつ] | n,v3 | TRƯỚC THOÁT | mặc và cởi | {着脱[ちゃくだつ]} 介助[かいじょ] | hỗ trợ thay đồ | 麻痺[まひ]がある方[かた]の着脱[ちゃくだつ]介助[かいじょ]をします。 | Hỗ trợ thay đồ cho người bị liệt.
+着替[きが]え | n | TRƯỚC THẾ | việc thay đồ; quần áo thay | - | - | 着替[きが]えを手伝[てつだ]いましょうか。 | Để cháu giúp bà thay đồ nhé?
+洗顔[せんがん] | n,v3 | TẨY NHAN | rửa mặt | - | - | 朝[あさ]は洗顔[せんがん]と歯磨[はみが]きを手伝[てつだ]います。 | Buổi sáng giúp cụ rửa mặt và đánh răng.
+口腔[こうくう]ケア | n | KHẨU KHANG | chăm sóc răng miệng | - | - | 食後[しょくご]は口腔[こうくう]ケアをします。 | Sau bữa ăn chăm sóc răng miệng.
+入[い]れ歯[ば] | n | NHẬP XỈ | răng giả | 入[い]れ歯[ば] を 外[はず]す | tháo răng giả | 寝[ね]る前[まえ]に入[い]れ歯[ば]を外[はず]して洗[あら]います。 | Trước khi ngủ tháo răng giả ra rửa.
+髭剃[ひげそ]り | n | TÌ THẾ | cạo râu | - | - | 男性[だんせい]の利用者[りようしゃ]さんの髭剃[ひげそ]りを手伝[てつだ]います。 | Giúp cạo râu cho các cụ ông.
+爪切[つめき]り | n | TRẢO THIẾT | cắt móng; bấm móng tay | - | - | 週[しゅう]に一[いち]回[かい]爪切[つめき]りをします。 | Mỗi tuần cắt móng một lần.
+整容[せいよう] | n | CHỈNH DUNG | chỉnh trang dung mạo | - | - | 髪[かみ]をとかすなど整容[せいよう]も大切[たいせつ]な介助[かいじょ]です。 | Chải tóc và chỉnh trang cũng là việc hỗ trợ quan trọng.
+とろみ | n | - | độ sệt | とろみ を つける | làm sệt | 飲[の]み込[こ]みにくい方[かた]にはお茶[ちゃ]にとろみをつけます。 | Với người khó nuốt thì làm sệt trà.
+刻[きざ]み食[しょく] | n | KHẮC THỰC | thức ăn thái nhỏ | - | - | この方[かた]は刻[きざ]み食[しょく]です。 | Cụ này ăn đồ thái nhỏ.
+ミキサー食[しょく] | n | THỰC | thức ăn xay nhuyễn | - | - | 噛[か]むのが難[むずか]しい方[かた]にはミキサー食[しょく]を出[だ]します。 | Người khó nhai thì cho ăn đồ xay nhuyễn.
+誤嚥[ごえん] | n,v3 | NGỘ YẾT | sặc (thức ăn vào khí quản) | 誤嚥[ごえん] を 防[ふせ]ぐ | phòng sặc | 誤嚥[ごえん]を防[ふせ]ぐために、座[すわ]る姿勢[しせい]に気[き]をつけます。 | Để phòng sặc, chú ý tư thế ngồi.
+むせる | v2 | - | bị sặc | - | - | 食事[しょくじ]中[ちゅう]にむせたら、すぐに食[た]べるのを止[や]めてもらいます。 | Nếu bị sặc khi ăn thì dừng ăn ngay.
+飲[の]み込[こ]む | v1 | ẨM VÀO | nuốt | - | - | ゆっくり飲[の]み込[こ]んでくださいね。 | Bà nuốt từ từ thôi nhé.
+噛[か]む | v1 | GIẢO | nhai; cắn | よく 噛[か]む | nhai kỹ | よく噛[か]んで食[た]べてください。 | Hãy nhai kỹ rồi ăn.
+水分[すいぶん] | n | THỦY PHÂN | lượng nước | 水分[すいぶん] を とる | uống nước | 一日[いちにち]に千[せん]五百[ごひゃく]ミリリットル水分[すいぶん]をとってもらいます。 | Cho cụ uống 1.500 ml nước mỗi ngày.
+脱水[だっすい] | n | THOÁT THỦY | mất nước | - | - | 夏[なつ]は脱水[だっすい]に注意[ちゅうい]が必要[ひつよう]です。 | Mùa hè cần chú ý mất nước.
+バイタル | n | - | chỉ số sinh tồn | バイタル を 測[はか]る | đo chỉ số sinh tồn | 朝[あさ]と夕方[ゆうがた]にバイタルを測[はか]ります。 | Đo chỉ số sinh tồn vào sáng và chiều tối.
+脈拍[みゃくはく] | n | MẠCH PHÁCH | mạch | - | - | 脈拍[みゃくはく]が速[はや]いので看護師[かんごし]に伝[つた]えます。 | Mạch nhanh nên báo cho y tá.
+呼吸[こきゅう] | n,v3 | HÔ HẤP | hô hấp | 呼吸[こきゅう] が 苦[くる]しい | khó thở | 呼吸[こきゅう]が苦[くる]しそうなので、すぐ看護師[かんごし]を呼[よ]びます。 | Cụ có vẻ khó thở nên gọi y tá ngay.
+申[もう]し送[おく]り | n | THÂN TỐNG | bàn giao ca | 申[もう]し送[おく]り を する | bàn giao ca | 夜勤[やきん]の人[ひと]に申[もう]し送[おく]りをします。 | Bàn giao ca cho người làm đêm.
+ナースコール | n | - | chuông gọi y tá | ナースコール が 鳴[な]る | chuông gọi reo | ナースコールが鳴[な]ったら、すぐ部屋[へや]に行[い]きます。 | Chuông gọi reo thì đến phòng ngay.
+擦[す]り傷[きず] | n | SÁT THƯƠNG | vết trầy xước | - | - | 腕[うで]に擦[す]り傷[きず]を見[み]つけました。 | Tôi thấy vết trầy xước trên tay cụ.
+内出血[ないしゅっけつ] | n | NỘI XUẤT HUYẾT | vết bầm | - | - | 足[あし]に内出血[ないしゅっけつ]があります。 | Chân cụ có vết bầm.
+発熱[はつねつ] | n,v3 | PHÁT NHIỆT | phát sốt | - | - | 発熱[はつねつ]した時[とき]は家族[かぞく]にも連絡[れんらく]します。 | Khi cụ bị sốt thì báo cho cả gia đình.
+痰[たん] | n | ĐÀM | đờm | 痰[たん] が 絡[から]む | có đờm vướng | 痰[たん]が絡[から]んでいるようです。 | Có vẻ cụ bị vướng đờm.
+吸引[きゅういん] | n,v3 | HẤP DẪN | hút (đờm) | - | - | 痰[たん]の吸引[きゅういん]は資格[しかく]がある人[ひと]が行[おこな]います。 | Việc hút đờm do người có chứng chỉ thực hiện.
+服薬[ふくやく] | n,v3 | PHỤC DƯỢC | uống thuốc | {服薬[ふくやく]} 介助[かいじょ] | hỗ trợ uống thuốc | 服薬[ふくやく]介助[かいじょ]の時[とき]は名前[なまえ]と薬[くすり]を必[かなら]ず確認[かくにん]します。 | Khi hỗ trợ uống thuốc nhất định kiểm tra tên và thuốc.
+飲[の]み忘[わす]れ | n | ẨM VONG | quên uống (thuốc) | - | - | 薬[くすり]の飲[の]み忘[わす]れがないようにチェックします。 | Kiểm tra để không quên uống thuốc.
+尊厳[そんげん] | n | TÔN NGHIÊM | phẩm giá | 尊厳[そんげん] を 守[まも]る | giữ gìn phẩm giá | 利用者[りようしゃ]さんの尊厳[そんげん]を守[まも]ることが介護[かいご]の基本[きほん]です。 | Giữ gìn phẩm giá người được chăm sóc là điều cơ bản của điều dưỡng.
+プライバシー | n | - | sự riêng tư | プライバシー を 守[まも]る | tôn trọng riêng tư | 着替[きが]えの時[とき]はカーテンを閉[し]めてプライバシーを守[まも]ります。 | Khi thay đồ thì kéo rèm để giữ riêng tư.
+羞恥心[しゅうちしん] | n | TU SỈ TÂM | lòng tự trọng, sự xấu hổ | - | - | 排泄[はいせつ]介助[かいじょ]では羞恥心[しゅうちしん]に配慮[はいりょ]します。 | Khi hỗ trợ vệ sinh phải để ý đến sự xấu hổ của cụ.
+傾聴[けいちょう] | n,v3 | KHUYNH THÍNH | lắng nghe | - | - | 利用者[りようしゃ]さんの話[はなし]を傾聴[けいちょう]しましょう。 | Hãy lắng nghe câu chuyện của các cụ.
+共感[きょうかん] | n,v3 | CỘNG CẢM | đồng cảm | - | - | 気持[きも]ちに共感[きょうかん]しながら話[はなし]を聞[き]きます。 | Vừa nghe vừa đồng cảm với cảm xúc của cụ.
+レクリエーション | n | - | hoạt động giải trí | - | - | 午後[ごご]はみんなでレクリエーションをします。 | Buổi chiều mọi người cùng chơi trò giải trí.
+リハビリ | n | - | phục hồi chức năng | リハビリ を する | tập phục hồi | 毎日[まいにち]歩[ある]くリハビリをしています。 | Ngày nào cụ cũng tập đi phục hồi.
+機能訓練[きのうくんれん] | n | CƠ NĂNG HUẤN LUYỆN | luyện tập chức năng | - | - | 機能訓練[きのうくんれん]で手[て]の運動[うんどう]をします。 | Tập vận động tay trong giờ luyện tập chức năng.
+段差[だんさ] | n | ĐOẠN SAI | chỗ chênh bậc | 段差[だんさ] に つまずく | vấp phải bậc | 小[ちい]さな段差[だんさ]につまずいて転[ころ]ぶことがあります。 | Có khi vấp phải bậc nhỏ rồi ngã.
+つまずく | v1 | - | vấp | - | - | 足元[あしもと]に物[もの]があるとつまずきやすいです。 | Có đồ dưới chân thì dễ vấp.
+ブレーキ | n | - | phanh | ブレーキ を かける | kéo phanh | 車椅子[くるまいす]を止[と]めたら必[かなら]ずブレーキをかけます。 | Dừng xe lăn thì nhất định phải kéo phanh.
+フットレスト | n | - | chỗ để chân (xe lăn) | - | - | 移乗[いじょう]の前[まえ]にフットレストを上[あ]げます。 | Trước khi chuyển chỗ thì gập chỗ để chân lên.
+座位[ざい] | n | TỌA VỊ | tư thế ngồi | 座位[ざい] を 保[たも]つ | giữ tư thế ngồi | 一人[ひとり]で座位[ざい]を保[たも]つのが難[むずか]しい方[かた]です。 | Cụ khó tự giữ tư thế ngồi.
+立位[りつい] | n | LẬP VỊ | tư thế đứng | - | - | 立位[りつい]が安定[あんてい]しているか確認[かくにん]します。 | Kiểm tra tư thế đứng có vững không.
+仰向[あおむ]け | n | NGƯỠNG HƯỚNG | nằm ngửa | - | - | 仰向[あおむ]けから横向[よこむ]きにします。 | Chuyển từ nằm ngửa sang nằm nghiêng.
+横向[よこむ]き | n | HOÀNH HƯỚNG | nằm nghiêng | - | - | 横向[よこむ]きに寝[ね]てもらいます。 | Cho cụ nằm nghiêng.
+起[お]き上[あ]がる | v1 | KHỞI THƯỢNG | ngồi dậy | - | - | ゆっくり起[お]き上[あ]がりましょう。 | Mình từ từ ngồi dậy nhé.
+立[た]ち上[あ]がる | v1 | LẬP THƯỢNG | đứng dậy | - | - | 手[て]すりを持[も]って立[た]ち上[あ]がってください。 | Hãy vịn tay vịn mà đứng dậy.
+寄[よ]りかかる | v1 | KÝ | dựa vào | - | - | 私[わたし]に寄[よ]りかかってください。 | Bà cứ dựa vào cháu.
+抱[かか]える | v2 | BÃO | ôm, đỡ | - | - | 体[からだ]を抱[かか]えて移乗[いじょう]します。 | Ôm đỡ cơ thể để chuyển chỗ.
+腰痛[ようつう] | n | YÊU THỐNG | đau lưng | - | - | 介護[かいご]の仕事[しごと]は腰痛[ようつう]になりやすいです。 | Công việc điều dưỡng dễ bị đau lưng.
+ボディメカニクス | n | - | nguyên lý cơ học cơ thể | - | - | ボディメカニクスを使[つか]うと腰[こし]への負担[ふたん]が減[へ]ります。 | Áp dụng cơ học cơ thể giúp giảm gánh nặng cho lưng.
+負担[ふたん] | n,v3 | PHỤ ĐẢM | gánh nặng | 負担[ふたん] を 減[へ]らす | giảm gánh nặng | 介助[かいじょ]する人[ひと]の負担[ふたん]を減[へ]らします。 | Giảm gánh nặng cho người hỗ trợ.
+麻痺[まひ] | n,v3 | MA TÝ | liệt | 右[みぎ] {麻痺[まひ]} | liệt nửa phải | 右[みぎ]麻痺[まひ]がある方[かた]の食事[しょくじ]を介助[かいじょ]します。 | Hỗ trợ ăn cho cụ bị liệt nửa phải.
+片麻痺[かたまひ] | n | PHIẾN MA TÝ | liệt nửa người | - | - | 片麻痺[かたまひ]の方[かた]は健側[けんそく]から服[ふく]を脱[ぬ]ぎます。 | Người liệt nửa người cởi áo từ bên khỏe trước.
+健側[けんそく] | n | KIỆN TRẮC | bên khỏe | - | - | 立[た]つ時[とき]は健側[けんそく]の足[あし]に力[ちから]を入[い]れます。 | Khi đứng dồn lực vào chân bên khỏe.
+患側[かんそく] | n | HOẠN TRẮC | bên bị liệt | - | - | 服[ふく]を着[き]る時[とき]は患側[かんそく]から通[とお]します。 | Khi mặc áo thì luồn bên bị liệt trước.
+難聴[なんちょう] | n | NAN THÍNH | lãng tai | - | - | 難聴[なんちょう]の方[かた]には耳[みみ]の近[ちか]くで、はっきり話[はな]します。 | Với người lãng tai hãy nói rõ ở gần tai.
+補聴器[ほちょうき] | n | BỔ THÍNH KHÍ | máy trợ thính | 補聴器[ほちょうき] を つける | đeo máy trợ thính | 朝[あさ]、補聴器[ほちょうき]をつけてあげます。 | Buổi sáng đeo máy trợ thính cho cụ.
+視力[しりょく] | n | THỊ LỰC | thị lực | 視力[しりょく] が 落[お]ちる | thị lực giảm | 年[とし]を取[と]って視力[しりょく]が落[お]ちています。 | Tuổi cao nên thị lực giảm.
+看取[みと]り | n | KHÁN THỦ | chăm sóc cuối đời | - | - | 施設[しせつ]で看取[みと]りを行[おこな]うこともあります。 | Đôi khi cơ sở thực hiện chăm sóc cuối đời.
+巡回[じゅんかい] | n,v3 | TUẦN HỒI | đi tuần | - | - | 夜勤[やきん]では二[に]時間[じかん]ごとに巡回[じゅんかい]します。 | Ca đêm cứ hai tiếng đi tuần một lần.
+安否確認[あんぴかくにん] | n | AN PHỦ XÁC NHẬN | xác nhận an toàn | - | - | 巡回[じゅんかい]して安否確認[あんぴかくにん]をします。 | Đi tuần để xác nhận các cụ an toàn.
+面会[めんかい] | n,v3 | DIỆN HỘI | thăm gặp | {面会[めんかい]} 時間[じかん] | giờ thăm | 面会[めんかい]時間[じかん]は午後[ごご]二[に]時[じ]から五[ご]時[じ]までです。 | Giờ thăm từ hai đến năm giờ chiều.
+ご家族[かぞく] | n | GIA TỘC | gia đình (của khách, lịch sự) | - | - | ご家族[かぞく]に様子[ようす]をお伝[つた]えします。 | Báo tình hình cho gia đình cụ.
+ケアプラン | n | - | kế hoạch chăm sóc | - | - | ケアプランに沿[そ]って介護[かいご]をします。 | Chăm sóc theo kế hoạch chăm sóc.
+ケアマネジャー | n | - | người quản lý chăm sóc | - | - | ケアマネジャーとサービスについて相談[そうだん]します。 | Trao đổi về dịch vụ với người quản lý chăm sóc.
+記録[きろく] | n,v3 | KÝ LỤC | ghi chép | 記録[きろく] を 書[か]く | viết ghi chép | 介助[かいじょ]の内容[ないよう]を記録[きろく]に書[か]きます。 | Viết nội dung hỗ trợ vào sổ ghi chép.
+報告[ほうこく] | n,v3 | BÁO CÁO | báo cáo | - | - | いつもと違[ちが]う様子[ようす]があれば、すぐ報告[ほうこく]します。 | Có gì khác thường thì báo cáo ngay.
+様子[ようす] | n | DẠNG TỬ | tình trạng, dáng vẻ | 様子[ようす] を 見[み]る | theo dõi tình trạng | 熱[ねつ]があるので様子[ようす]を見[み]ます。 | Cụ bị sốt nên theo dõi tình trạng.
+顔色[かおいろ] | n | NHAN SẮC | sắc mặt | 顔色[かおいろ] が 悪[わる]い | sắc mặt kém | 今朝[けさ]は顔色[かおいろ]が悪[わる]いですね。 | Sáng nay sắc mặt cụ kém nhỉ.
+食欲[しょくよく] | n | THỰC DỤC | sự thèm ăn | 食欲[しょくよく] が ない | chán ăn | 最近[さいきん]、食欲[しょくよく]がないようです。 | Dạo này cụ có vẻ chán ăn.
+完食[かんしょく] | n,v3 | HOÀN THỰC | ăn hết | - | - | 今日[きょう]は昼食[ちゅうしょく]を完食[かんしょく]されました。 | Hôm nay cụ đã ăn hết bữa trưa.
+食事量[しょくじりょう] | n | THỰC SỰ LƯỢNG | lượng ăn | - | - | 食事量[しょくじりょう]を記録[きろく]します。 | Ghi lại lượng ăn.
+エプロン | n | - | yếm ăn | - | - | 食事[しょくじ]の前[まえ]にエプロンをつけます。 | Đeo yếm trước khi ăn.
+おしぼり | n | - | khăn ướt | - | - | 食事[しょくじ]の前[まえ]におしぼりで手[て]を拭[ふ]きます。 | Trước khi ăn lau tay bằng khăn ướt.
+ベッド柵[さく] | n | SÁCH | thanh chắn giường | - | - | 落[お]ちないようにベッド柵[さく]をつけます。 | Lắp thanh chắn để cụ không bị ngã.
+調節[ちょうせつ] | n,v3 | ĐIỀU TIẾT | điều chỉnh | 温度[おんど] を {調節[ちょうせつ]} する | điều chỉnh nhiệt độ | 部屋[へや]の温度[おんど]を調節[ちょうせつ]します。 | Điều chỉnh nhiệt độ phòng.
+シーツ | n | - | ga trải giường | シーツ を 交換[こうかん] する | thay ga giường | 週[しゅう]に二[に]回[かい]シーツを交換[こうかん]します。 | Mỗi tuần thay ga giường hai lần.
+汚物[おぶつ] | n | Ô VẬT | chất thải | - | - | 汚物[おぶつ]は決[き]められた場所[ばしょ]で処理[しょり]します。 | Chất thải được xử lý ở nơi quy định.
+処理[しょり] | n,v3 | XỬ LÝ | xử lý | - | - | 使[つか]ったおむつをきちんと処理[しょり]します。 | Xử lý bỉm đã dùng cẩn thận.
+感染[かんせん] | n,v3 | CẢM NHIỄM | lây nhiễm | {感染[かんせん]} 予防[よぼう] | phòng lây nhiễm | 感染[かんせん]予防[よぼう]のために手洗[てあら]いをします。 | Rửa tay để phòng lây nhiễm.
+使[つか]い捨[す]て | n | SỬ XẢ | dùng một lần | {使[つか]い捨[す]て} 手袋[てぶくろ] | găng tay dùng một lần | 排泄[はいせつ]介助[かいじょ]では使[つか]い捨[す]て手袋[てぶくろ]を使[つか]います。 | Khi hỗ trợ vệ sinh dùng găng tay dùng một lần.
+寄[よ]り添[そ]う | v1 | KÝ THIÊM | ở bên cạnh, đồng hành | 気持[きも]ち に 寄[よ]り添[そ]う | thấu hiểu cảm xúc | 利用者[りようしゃ]さんの気持[きも]ちに寄[よ]り添[そ]います。 | Thấu hiểu và đồng hành với cảm xúc của các cụ.
+話[はな]し相手[あいて] | n | THOẠI TƯƠNG THỦ | người trò chuyện cùng | - | - | 休憩[きゅうけい]時間[じかん]に話[はな]し相手[あいて]になります。 | Lúc rảnh tôi trò chuyện cùng các cụ.
+昔話[むかしばなし] | n | TÍCH THOẠI | chuyện ngày xưa | - | - | おばあさんの昔話[むかしばなし]を聞[き]くのが好[す]きです。 | Tôi thích nghe bà kể chuyện ngày xưa.
+笑顔[えがお] | n | TIẾU NHAN | nụ cười | - | - | 利用者[りようしゃ]さんの笑顔[えがお]が一番[いちばん]うれしいです。 | Nụ cười của các cụ là điều tôi vui nhất.
+落[お]ち着[つ]かない | adj-i | LẠC TRƯỚC | bồn chồn | - | - | 夕方[ゆうがた]になると落[お]ち着[つ]かなくなる方[かた]がいます。 | Có cụ cứ chiều tối là bồn chồn.
+徘徊[はいかい] | n,v3 | BỒI HỒI | đi lang thang | - | - | 夜[よる]に徘徊[はいかい]する方[かた]を見守[みまも]ります。 | Trông chừng cụ đi lang thang ban đêm.
+物忘[ものわす]れ | n | VẬT VONG | đãng trí | - | - | 最近[さいきん]、物忘[ものわす]れが多[おお]くなりました。 | Dạo này cụ hay quên.
+拘束[こうそく] | n,v3 | CÂU THÚC | cưỡng chế, trói buộc | {身体[しんたい]} 拘束[こうそく] | cưỡng chế thân thể | 身体[しんたい]拘束[こうそく]は原則[げんそく]禁止[きんし]です。 | Cưỡng chế thân thể về nguyên tắc bị cấm.
+虐待[ぎゃくたい] | n,v3 | NGƯỢC ĐÃI | ngược đãi | - | - | 虐待[ぎゃくたい]は絶対[ぜったい]に許[ゆる]されません。 | Ngược đãi tuyệt đối không được phép.
+緊急[きんきゅう] | n | KHẨN CẤP | khẩn cấp | {緊急[きんきゅう]} 時[じ] | lúc khẩn cấp | 緊急[きんきゅう]時[じ]の連絡先[れんらくさき]を確認[かくにん]しておきます。 | Xác nhận trước số liên lạc khi khẩn cấp.
+救急[きゅうきゅう] | n | CỨU CẤP | cấp cứu | - | - | 意識[いしき]がない時[とき]はすぐ救急[きゅうきゅう]を呼[よ]びます。 | Khi cụ bất tỉnh thì gọi cấp cứu ngay.
+意識[いしき] | n | Ý THỨC | ý thức, tri giác | 意識[いしき] が ない | bất tỉnh | 意識[いしき]があるか声[こえ]をかけて確認[かくにん]します。 | Gọi để kiểm tra xem cụ còn tỉnh không.
+転倒[てんとう] | n,v3 | CHUYỂN ĐẢO | té ngã | - | - | 転倒[てんとう]を防[ふせ]ぐため、床[ゆか]に物[もの]を置[お]きません。 | Không để đồ dưới sàn để phòng té ngã.
+骨折[こっせつ] | n,v3 | CỐT CHIẾT | gãy xương | - | - | 高齢者[こうれいしゃ]は転[ころ]ぶと骨折[こっせつ]しやすいです。 | Người cao tuổi ngã là dễ gãy xương.
+むくみ | n | - | phù, sưng | - | - | 足[あし]にむくみがあります。 | Chân cụ bị phù.
+褥瘡[じょくそう] | n | NHỤC SANG | loét tì đè | - | - | 褥瘡[じょくそう]がないか毎日[まいにち]皮膚[ひふ]を観察[かんさつ]します。 | Quan sát da mỗi ngày xem có loét tì đè không.
+皮膚[ひふ] | n | BÌ PHU | da | - | - | 高齢者[こうれいしゃ]の皮膚[ひふ]は傷[きず]つきやすいです。 | Da người cao tuổi dễ bị tổn thương.
+観察[かんさつ] | n,v3 | QUAN SÁT | quan sát | - | - | 利用者[りようしゃ]さんの様子[ようす]をよく観察[かんさつ]してください。 | Hãy quan sát kỹ tình trạng của các cụ.
+保湿[ほしつ] | n,v3 | BẢO THẤP | giữ ẩm | - | - | お風呂[ふろ]の後[あと]は保湿[ほしつ]クリームを塗[ぬ]ります。 | Sau khi tắm thì bôi kem dưỡng ẩm.
+湯船[ゆぶね] | n | THANG THUYỀN | bồn tắm | - | - | 湯船[ゆぶね]に入[はい]る前[まえ]にかけ湯[ゆ]をします。 | Trước khi vào bồn tắm thì dội nước.
+シャワーチェア | n | - | ghế tắm | - | - | シャワーチェアに座[すわ]って体[からだ]を洗[あら]います。 | Ngồi ghế tắm để tắm rửa.
+湯温[ゆおん] | n | THANG ÔN | nhiệt độ nước tắm | - | - | 湯温[ゆおん]は四十[よんじゅう]度[ど]くらいにします。 | Để nhiệt độ nước tắm khoảng 40 độ.
+歩行[ほこう] | n,v3 | BỘ HÀNH | đi bộ | {歩行[ほこう]} 介助[かいじょ] | hỗ trợ đi lại | 歩行[ほこう]介助[かいじょ]の時[とき]は患側[かんそく]に立[た]ちます。 | Khi hỗ trợ đi lại thì đứng ở bên bị liệt.
+ふらつく | v1 | - | loạng choạng | - | - | 立[た]ち上[あ]がる時[とき]にふらつく方[かた]がいます。 | Có cụ bị loạng choạng khi đứng dậy.
+付[つ]き添[そ]う | v1 | PHÓ THIÊM | đi kèm, túc trực | 病院[びょういん] に 付[つ]き添[そ]う | đi cùng đến bệnh viện | 利用者[りようしゃ]さんの通院[つういん]に付[つ]き添[そ]います。 | Đi cùng cụ đến bệnh viện khám.
+送迎[そうげい] | n,v3 | TỐNG NGHÊNH | đưa đón | {送迎[そうげい]} 車[しゃ] | xe đưa đón | 朝[あさ]、送迎[そうげい]車[しゃ]で利用者[りようしゃ]さんを迎[むか]えに行[い]きます。 | Buổi sáng đi xe đưa đón để đón các cụ.
+乗降[じょうこう] | n,v3 | THỪA GIÁNG | lên xuống xe | - | - | 車[くるま]の乗降[じょうこう]を介助[かいじょ]します。 | Hỗ trợ cụ lên xuống xe.
+介護保険[かいごほけん] | n | GIỚI HỘ BẢO HIỂM | bảo hiểm điều dưỡng | - | - | 介護保険[かいごほけん]でサービスを利用[りよう]できます。 | Có thể dùng dịch vụ bằng bảo hiểm điều dưỡng.
+福祉[ふくし] | n | PHÚC CHỈ | phúc lợi xã hội | {福祉[ふくし]} 用具[ようぐ] | dụng cụ phúc lợi | 福祉[ふくし]用具[ようぐ]をレンタルしています。 | Đang thuê dụng cụ hỗ trợ phúc lợi.
+バリアフリー | n | - | không rào cản | - | - | この建物[たてもの]はバリアフリーになっています。 | Tòa nhà này được thiết kế không rào cản.
+スロープ | n | - | đường dốc (cho xe lăn) | - | - | 車椅子[くるまいす]はスロープを通[とお]ってください。 | Xe lăn hãy đi qua đường dốc.
+手[て]すり | n | THỦ | tay vịn | 手[て]すり に つかまる | bám tay vịn | トイレでは手[て]すりにつかまってください。 | Trong nhà vệ sinh hãy bám tay vịn.
+つかまる | v1 | - | bám vào | - | - | 私[わたし]の腕[うで]につかまってください。 | Bà hãy bám vào tay cháu.
+本人[ほんにん] | n | BẢN NHÂN | chính người đó | 本人[ほんにん] の 意思[いし] | ý muốn của bản thân | 本人[ほんにん]の意思[いし]を大切[たいせつ]にします。 | Tôn trọng ý muốn của chính cụ.
+意思[いし] | n | Ý TƯ | ý muốn | - | - | 意思[いし]を伝[つた]えにくい方[かた]には、表情[ひょうじょう]を見[み]ます。 | Với người khó bày tỏ ý muốn thì nhìn nét mặt.
+尊重[そんちょう] | n,v3 | TÔN TRỌNG | tôn trọng | - | - | 利用者[りようしゃ]さんの生活[せいかつ]習慣[しゅうかん]を尊重[そんちょう]します。 | Tôn trọng thói quen sinh hoạt của các cụ.
+生活歴[せいかつれき] | n | SINH HOẠT LỊCH | tiểu sử sinh hoạt | - | - | 生活歴[せいかつれき]を知[し]ると、会話[かいわ]が広[ひろ]がります。 | Biết tiểu sử sinh hoạt thì câu chuyện cởi mở hơn.
+日課[にっか] | n | NHẬT KHÓA | việc hằng ngày | - | - | 朝[あさ]の散歩[さんぽ]が日課[にっか]になっています。 | Đi dạo buổi sáng đã thành việc hằng ngày.
+起床[きしょう] | n,v3 | KHỞI SÀNG | thức dậy | - | - | 起床[きしょう]は朝[あさ]六[ろく]時[じ]半[はん]です。 | Giờ thức dậy là sáu rưỡi sáng.
+就寝[しゅうしん] | n,v3 | TỰU TẨM | đi ngủ | - | - | 就寝[しゅうしん]前[まえ]にトイレに行[い]ってもらいます。 | Trước khi ngủ mời cụ đi vệ sinh.
+消灯[しょうとう] | n,v3 | TIÊU ĐĂNG | tắt đèn | - | - | 消灯[しょうとう]は夜[よる]九[く]時[じ]です。 | Giờ tắt đèn là chín giờ tối.
+昼寝[ひるね] | n,v3 | TRÚ TẨM | ngủ trưa | - | - | 昼食[ちゅうしょく]の後[あと]、昼寝[ひるね]をされる方[かた]が多[おお]いです。 | Sau bữa trưa nhiều cụ ngủ trưa.
+不眠[ふみん] | n | BẤT MIÊN | mất ngủ | - | - | 不眠[ふみん]が続[つづ]いているので、看護師[かんごし]に相談[そうだん]します。 | Cụ mất ngủ liên tục nên trao đổi với y tá.
+夜間[やかん] | n | DẠ GIAN | ban đêm | - | - | 夜間[やかん]は職員[しょくいん]が少[すく]ないです。 | Ban đêm ít nhân viên.
+職員[しょくいん] | n | CHỨC VIÊN | nhân viên | - | - | 職員[しょくいん]同士[どうし]で情報[じょうほう]を共有[きょうゆう]します。 | Nhân viên chia sẻ thông tin với nhau.
+共有[きょうゆう] | n,v3 | CỘNG HỮU | chia sẻ chung | 情報[じょうほう] を {共有[きょうゆう]} する | chia sẻ thông tin | 気[き]づいたことはチームで共有[きょうゆう]しましょう。 | Điều gì nhận thấy hãy chia sẻ trong nhóm.
+気[き]づく | v1 | KHÍ | nhận ra | 変化[へんか] に 気[き]づく | nhận ra thay đổi | 小[ちい]さな変化[へんか]に気[き]づくことが大切[たいせつ]です。 | Nhận ra những thay đổi nhỏ là điều quan trọng.
+変化[へんか] | n,v3 | BIẾN HÓA | thay đổi | - | - | 体調[たいちょう]の変化[へんか]を記録[きろく]します。 | Ghi lại thay đổi về thể trạng.
+制限[せいげん] | n,v3 | CHẾ HẠN | hạn chế | {水分[すいぶん]} 制限[せいげん] | hạn chế nước | この方[かた]は水分[すいぶん]制限[せいげん]があります。 | Cụ này bị hạn chế lượng nước.
+糖尿病[とうにょうびょう] | n | ĐƯỜNG NIỆU BỆNH | tiểu đường | - | - | 糖尿病[とうにょうびょう]の方[かた]には甘[あま]いおやつを出[だ]しません。 | Không đưa đồ ngọt cho người bị tiểu đường.
+高血圧[こうけつあつ] | n | CAO HUYẾT ÁP | cao huyết áp | - | - | 高血圧[こうけつあつ]なので塩分[えんぶん]を控[ひか]えた食事[しょくじ]です。 | Bị cao huyết áp nên ăn nhạt.
+脳梗塞[のうこうそく] | n | NÃO NGẠNH TẮC | nhồi máu não | - | - | 脳梗塞[のうこうそく]の後[あと]、右[みぎ]手[て]が動[うご]きにくくなりました。 | Sau nhồi máu não, tay phải của cụ khó cử động.
+肺炎[はいえん] | n | PHẾ VIÊM | viêm phổi | - | - | 誤嚥[ごえん]が原因[げんいん]で肺炎[はいえん]になることがあります。 | Có khi bị viêm phổi do sặc thức ăn.
+ノロウイルス | n | - | virus Noro | - | - | ノロウイルスは冬[ふゆ]に流行[りゅうこう]します。 | Virus Noro lây lan vào mùa đông.
+嘔吐物[おうとぶつ] | n | ẨU THỔ VẬT | chất nôn | - | - | 嘔吐物[おうとぶつ]は手袋[てぶくろ]とマスクをして処理[しょり]します。 | Xử lý chất nôn khi đeo găng tay và khẩu trang.
+換気[かんき] | n,v3 | HOÁN KHÍ | thông gió | - | - | 一日[いちにち]に数回[すうかい]部屋[へや]を換気[かんき]します。 | Thông gió phòng vài lần mỗi ngày.
+室温[しつおん] | n | THẤT ÔN | nhiệt độ phòng | - | - | 室温[しつおん]は二十二[にじゅうに]度[ど]くらいに保[たも]ちます。 | Giữ nhiệt độ phòng khoảng 22 độ.
+保[たも]つ | v1 | BẢO | duy trì, giữ | - | - | 清潔[せいけつ]を保[たも]つことが大切[たいせつ]です。 | Giữ sạch sẽ là điều quan trọng.
+清潔[せいけつ] | n,adj-na | THANH KHIẾT | sạch sẽ | 清潔[せいけつ] に 保[たも]つ | giữ sạch | 体[からだ]を清潔[せいけつ]に保[たも]ちます。 | Giữ cơ thể sạch sẽ.
+衣類[いるい] | n | Y LOẠI | quần áo | - | - | 衣類[いるい]に名前[なまえ]が書[か]いてあるか確認[かくにん]します。 | Kiểm tra quần áo đã ghi tên chưa.
+足浴[そくよく] | n,v3 | TÚC DỤC | ngâm chân | - | - | 寝[ね]る前[まえ]に足浴[そくよく]をすると、よく眠[ねむ]れます。 | Ngâm chân trước khi ngủ thì ngủ ngon hơn.
+目[め]やに | n | MỤC | gỉ mắt | - | - | 蒸[む]しタオルで目[め]やにを取[と]ります。 | Lau gỉ mắt bằng khăn ấm.
+嚥下[えんげ] | n,v3 | YẾN HẠ | nuốt | {嚥下[えんげ]} 機能[きのう] | chức năng nuốt | 嚥下[えんげ]機能[きのう]が落[お]ちている方[かた]に注意[ちゅうい]します。 | Chú ý những cụ đã suy giảm chức năng nuốt.
+口[くち]の体操[たいそう] | n | KHẨU THỂ THAO | bài tập cho miệng | - | - | 食事[しょくじ]の前[まえ]に口[くち]の体操[たいそう]をします。 | Tập bài tập miệng trước khi ăn.
+行事[ぎょうじ] | n | HÀNH SỰ | sự kiện, lễ | 季節[きせつ] の 行事[ぎょうじ] | lễ hội theo mùa | 季節[きせつ]の行事[ぎょうじ]を利用者[りようしゃ]さんと楽[たの]しみます。 | Cùng các cụ vui lễ hội theo mùa.
+誕生会[たんじょうかい] | n | ĐẢN SINH HỘI | tiệc sinh nhật | - | - | 毎月[まいつき]、誕生会[たんじょうかい]を開[ひら]いています。 | Mỗi tháng đều tổ chức tiệc sinh nhật.
+外出[がいしゅつ] | n,v3 | NGOẠI XUẤT | ra ngoài | - | - | 天気[てんき]のいい日[ひ]は近[ちか]くの公園[こうえん]に外出[がいしゅつ]します。 | Ngày đẹp trời đưa cụ ra công viên gần đó.
+付[つ]き添[そ]い | n | PHÓ THIÊM | người đi kèm | - | - | 外出[がいしゅつ]には職員[しょくいん]の付[つ]き添[そ]いが必要[ひつよう]です。 | Ra ngoài cần nhân viên đi kèm.
+終末期[しゅうまつき] | n | CHUNG MẠT KỲ | giai đoạn cuối đời | - | - | 終末期[しゅうまつき]のケアについて家族[かぞく]と話[はな]し合[あ]います。 | Trao đổi với gia đình về chăm sóc giai đoạn cuối.
+穏[おだ]やか | adj-na | ỔN | bình yên, ôn hòa | 穏[おだ]やか に 過[す]ごす | sống bình yên | 毎日[まいにち]穏[おだ]やかに過[す]ごしてほしいです。 | Mong các cụ mỗi ngày đều sống bình yên.
+安心感[あんしんかん] | n | AN TÂM CẢM | cảm giác yên tâm | 安心感[あんしんかん] を 与[あた]える | mang lại cảm giác yên tâm | 優[やさ]しい声[こえ]で話[はな]すと安心感[あんしんかん]を与[あた]えます。 | Nói giọng dịu dàng mang lại cảm giác yên tâm.
+与[あた]える | v2 | DỮ | mang lại, cho | - | - | 不安[ふあん]を与[あた]えないように説明[せつめい]します。 | Giải thích để không gây bất an.
+呼[よ]び方[かた] | n | HÔ PHƯƠNG | cách gọi | - | - | 呼[よ]び方[かた]は「〜さん」が基本[きほん]です。 | Cách gọi cơ bản là "...san".
+はっきり | adv | - | rõ ràng | はっきり 話[はな]す | nói rõ | 低[ひく]い声[こえ]ではっきり話[はな]します。 | Nói rõ ràng bằng giọng trầm.
+ゆっくり | adv | - | chậm rãi | ゆっくり 話[はな]す | nói chậm | 認知症[にんちしょう]の方[かた]にはゆっくり話[はな]しかけます。 | Nói chậm rãi với người bị sa sút trí tuệ.
+話[はな]しかける | v2 | THOẠI | bắt chuyện | - | - | 正面[しょうめん]から話[はな]しかけてください。 | Hãy bắt chuyện từ phía trước mặt.
+正面[しょうめん] | n | CHÍNH DIỆN | chính diện, phía trước | - | - | 正面[しょうめん]から目[め]を見[み]て話[はな]します。 | Nói chuyện trực diện, nhìn vào mắt.
+目線[めせん] | n | MỤC TUYẾN | tầm mắt | 目線[めせん] を 合[あ]わせる | ngang tầm mắt | しゃがんで目線[めせん]を合[あ]わせて話[はな]します。 | Ngồi xuống để nói chuyện ngang tầm mắt.

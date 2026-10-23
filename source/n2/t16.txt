@@ -1,0 +1,161 @@
+@topic t16
+@ja 移動[いどう]・場所[ばしょ]・都市[とし]
+@vi Di chuyển, địa điểm và đô thị
+@desc Đường sá, khu phố, quy hoạch đô thị, du lịch xa, vị trí và phương hướng cùng những động từ chỉ việc đi lại.
+近郊[きんこう] | n | CẬN GIAO | vùng ven | 東京[とうきょう] {近郊} | vùng ven Tokyo | 東京[とうきょう]近郊[きんこう]の町[まち]に家[いえ]を建[た]てた。 | Tôi xây nhà ở một thị trấn vùng ven Tokyo.
+市街[しがい] | n | THỊ NHAI | phố xá | - | - | 城[しろ]から市街[しがい]を一望[いちぼう]できる。 | Từ lâu đài có thể nhìn bao quát phố xá.
+市街地[しがいち] | n | THỊ NHAI ĐỊA | khu đô thị | - | - | 市街地[しがいち]では時速[じそく]四十[よんじゅっ]キロ以下[いか]で走[はし]る。 | Trong khu đô thị chạy dưới bốn mươi ki-lô-mét một giờ.
+下町[したまち] | n | HẠ ĐINH | khu phố cũ bình dân | {下町} の 人情[にんじょう] | tình người phố cũ | 下町[したまち]の商店街[しょうてんがい]には昔[むかし]ながらの店[みせ]が残[のこ]っている。 | Khu phố cũ vẫn còn những cửa hàng kiểu xưa.
+山[やま]の手[て] | n | SƠN THỦ | khu phố trên cao | - | - | 山[やま]の手[て]には古[ふる]い洋館[ようかん]が並[なら]んでいる。 | Khu phố trên cao có những tòa nhà kiểu Tây cổ.
+区域[くいき] | n | KHU VỰC | khu vực | 立[た]ち入[い]り 禁止[きんし] {区域} | khu vực cấm vào | この区域[くいき]は工事[こうじ]中[ちゅう]のため入[はい]れません。 | Khu vực này đang thi công nên không vào được.
+区画[くかく] | n | KHU HỌA | lô đất, ô khu vực | - | - | 土地[とち]を十[じゅう]の区画[くかく]に分[わ]けて売[う]り出[だ]した。 | Khu đất được chia thành mười lô để bán.
+中心部[ちゅうしんぶ] | n | TRUNG TÂM BỘ | khu trung tâm | 市[し] の {中心部} | trung tâm thành phố | 市[し]の中心部[ちゅうしんぶ]は家賃[やちん]が高[たか]い。 | Khu trung tâm thành phố giá thuê nhà cao.
+首都圏[しゅとけん] | n | THỦ ĐÔ QUYỂN | vùng thủ đô | - | - | 首都圏[しゅとけん]の電車[でんしゃ]は朝[あさ]とても混[こ]む。 | Tàu điện vùng thủ đô buổi sáng rất đông.
+近辺[きんぺん] | n | CẬN BIÊN | quanh đây | - | - | この近辺[きんぺん]に郵便局[ゆうびんきょく]はありますか。 | Quanh đây có bưu điện không?
+沿線[えんせん] | n | DUYÊN TUYẾN | dọc tuyến đường sắt | - | - | 私鉄[してつ]の沿線[えんせん]に新[あたら]しい住宅地[じゅうたくち]ができた。 | Khu dân cư mới mọc lên dọc tuyến đường sắt tư nhân.
+沿道[えんどう] | n | DUYÊN ĐẠO | hai bên đường | - | - | マラソンの沿道[えんどう]で多[おお]くの人[ひと]が応援[おうえん]した。 | Nhiều người cổ vũ hai bên đường chạy marathon.
+農村[のうそん] | n | NÔNG THÔN | nông thôn | - | - | 農村[のうそん]では若者[わかもの]が減[へ]っている。 | Ở nông thôn người trẻ đang giảm.
+漁村[ぎょそん] | n | NGƯ THÔN | làng chài | - | - | 小[ちい]さな漁村[ぎょそん]で新鮮[しんせん]な魚[さかな]を食[た]べた。 | Tôi ăn cá tươi ở một làng chài nhỏ.
+山村[さんそん] | n | SƠN THÔN | làng núi | - | - | 山村[さんそん]の暮[く]らしを体験[たいけん]した。 | Tôi trải nghiệm cuộc sống làng núi.
+過疎地[かそち] | n | QUÁ SƠ ĐỊA | vùng thưa dân | - | - | 過疎地[かそち]ではバスの本数[ほんすう]が少[すく]ない。 | Ở vùng thưa dân, số chuyến xe buýt rất ít.
+港町[みなとまち] | n | CẢNG ĐINH | thành phố cảng | - | - | 神戸[こうべ]は異国[いこく]情緒[じょうちょ]のある港町[みなとまち]だ。 | Kobe là thành phố cảng mang không khí ngoại quốc.
+宿場[しゅくば] | n | TÚC TRƯỜNG | trạm nghỉ xưa | {宿場} 町[まち] | thị trấn trạm dừng | 昔[むかし]の宿場[しゅくば]町[まち]の町並[まちな]みが残[のこ]っている。 | Cảnh phố của thị trấn trạm dừng xưa vẫn còn.
+建築[けんちく] | n,v3 | KIẾN TRÚC | kiến trúc, xây dựng | {建築} 家[か] | kiến trúc sư | このお寺[てら]は千[せん]年[ねん]前[まえ]に建築[けんちく]された。 | Ngôi chùa này được xây từ một nghìn năm trước.
+建築物[けんちくぶつ] | n | KIẾN TRÚC VẬT | công trình kiến trúc | - | - | 古[ふる]い建築物[けんちくぶつ]を保存[ほぞん]する運動[うんどう]がある。 | Có phong trào bảo tồn các công trình kiến trúc cổ.
+高層[こうそう]ビル | n | CAO TẦNG | nhà cao tầng | - | - | 駅前[えきまえ]に高層[こうそう]ビルが次々[つぎつぎ]建[た]っている。 | Nhà cao tầng lần lượt mọc lên trước ga.
+超高層[ちょうこうそう] | n | SIÊU CAO TẦNG | siêu cao tầng | {超高層} マンション | chung cư siêu cao tầng | 超高層[ちょうこうそう]マンションの最上[さいじょう]階[かい]から富士山[ふじさん]が見[み]える。 | Từ tầng cao nhất chung cư siêu cao tầng thấy được núi Phú Sĩ.
+タワー | n | - | tháp | - | - | タワーの展望台[てんぼうだい]から夜景[やけい]を見[み]た。 | Tôi ngắm cảnh đêm từ đài quan sát trên tháp.
+コンクリート | n | - | bê tông | - | - | 古[ふる]い木造[もくぞう]の橋[はし]がコンクリートの橋[はし]になった。 | Cây cầu gỗ cũ đã được thay bằng cầu bê tông.
+再開発[さいかいはつ] | n,v3 | TÁI KHAI PHÁT | tái phát triển | 駅前[えきまえ] の {再開発} | cải tạo khu trước ga | 駅前[えきまえ]の再開発[さいかいはつ]で古[ふる]い商店街[しょうてんがい]がなくなった。 | Cải tạo khu trước ga khiến khu phố mua sắm cũ biến mất.
+インフラ | n | - | cơ sở hạ tầng | {インフラ} 整備[せいび] | xây dựng hạ tầng | 地方[ちほう]のインフラ整備[せいび]が遅[おく]れている。 | Việc xây dựng hạ tầng ở địa phương còn chậm.
+公共[こうきょう]施設[しせつ] | n | CÔNG CỘNG THI THIẾT | công trình công cộng | - | - | 図書館[としょかん]などの公共[こうきょう]施設[しせつ]は無料[むりょう]で使[つか]える。 | Các công trình công cộng như thư viện có thể dùng miễn phí.
+公共[こうきょう]交通[こうつう] | n | CÔNG CỘNG GIAO THÔNG | giao thông công cộng | {公共交通} 機関[きかん] | phương tiện công cộng | 会場[かいじょう]へは公共[こうきょう]交通[こうつう]機関[きかん]をご利用[りよう]ください。 | Xin dùng phương tiện công cộng để đến hội trường.
+噴水[ふんすい] | n | PHÚN THỦY | đài phun nước | - | - | 公園[こうえん]の噴水[ふんすい]の前[まえ]で待[ま]ち合[あ]わせた。 | Chúng tôi hẹn gặp trước đài phun nước trong công viên.
+ベンチ | n | - | ghế băng | - | - | 公園[こうえん]のベンチで休憩[きゅうけい]した。 | Tôi nghỉ ngơi trên ghế băng công viên.
+歩行者[ほこうしゃ]天国[てんごく] | n | BỘ HÀNH GIẢ THIÊN QUỐC | phố đi bộ | - | - | 日曜日[にちようび]はこの通[とお]りが歩行者[ほこうしゃ]天国[てんごく]になる。 | Chủ nhật con phố này thành phố đi bộ.
+看板[かんばん] | n | KHÁN BẢN | biển hiệu | {看板} を 出[だ]す | treo biển | 大[おお]きな看板[かんばん]が目印[めじるし]です。 | Cái biển hiệu lớn là dấu hiệu nhận biết.
+目印[めじるし] | n | MỤC ẤN | dấu hiệu nhận biết | {目印} に する | lấy làm mốc | 赤[あか]い屋根[やね]の家[いえ]を目印[めじるし]にしてください。 | Hãy lấy ngôi nhà mái đỏ làm mốc.
+道端[みちばた] | n | ĐẠO ĐOAN | lề đường | - | - | 道端[みちばた]に小[ちい]さな花[はな]が咲[さ]いている。 | Bên lề đường có bông hoa nhỏ đang nở.
+裏道[うらみち] | n | LÍ ĐẠO | đường tắt, ngõ sau | - | - | 渋滞[じゅうたい]を避[さ]けて裏道[うらみち]を通[とお]った。 | Tôi tránh tắc đường bằng cách đi ngõ sau.
+回[まわ]り道[みち] | n,v3 | HỒI ĐẠO | đường vòng | - | - | 工事[こうじ]中[ちゅう]なので回[まわ]り道[みち]をした。 | Đường đang thi công nên tôi đi đường vòng.
+行[い]き止[ど]まり | n | HÀNH CHỈ | ngõ cụt | - | - | この先[さき]は行[い]き止[ど]まりです。 | Phía trước là ngõ cụt.
+曲[ま]がり角[かど] | n | KHÚC GIÁC | góc rẽ | - | - | 次[つぎ]の曲[ま]がり角[かど]を右[みぎ]です。 | Rẽ phải ở góc tiếp theo.
+上[のぼ]り坂[ざか] | n | THƯỢNG PHẢN | dốc lên | - | - | 駅[えき]から家[いえ]まで上[のぼ]り坂[ざか]が続[つづ]く。 | Từ ga về nhà toàn dốc lên.
+下[くだ]り坂[ざか] | n | HẠ PHẢN | dốc xuống | - | - | 下[くだ]り坂[ざか]では自転車[じてんしゃ]のスピードに注意[ちゅうい]して。 | Khi xuống dốc hãy chú ý tốc độ xe đạp.
+トンネル | n | - | đường hầm | - | - | 長[なが]いトンネルを抜[ぬ]けると海[うみ]が見[み]えた。 | Ra khỏi đường hầm dài thì thấy biển.
+中央[ちゅうおう]分離帯[ぶんりたい] | n | TRUNG ƯƠNG PHÂN LY ĐỚI | dải phân cách | - | - | 車[くるま]が中央[ちゅうおう]分離帯[ぶんりたい]にぶつかった。 | Chiếc xe đâm vào dải phân cách.
+国道[こくどう] | n | QUỐC ĐẠO | quốc lộ | - | - | 国道[こくどう]沿[ぞ]いにはコンビニが多[おお]い。 | Dọc quốc lộ có nhiều cửa hàng tiện lợi.
+県道[けんどう] | n | HUYỆN ĐẠO | đường tỉnh | - | - | 県道[けんどう]は雪[ゆき]で通行止[つうこうど]めになった。 | Đường tỉnh bị chặn vì tuyết.
+一般道[いっぱんどう] | n | NHẤT BAN ĐẠO | đường thường | - | - | 高速[こうそく]を降[お]りて一般道[いっぱんどう]を走[はし]った。 | Ra khỏi cao tốc rồi chạy trên đường thường.
+私道[しどう] | n | TƯ ĐẠO | đường tư nhân | - | - | ここは私道[しどう]なので駐車[ちゅうしゃ]しないでください。 | Đây là đường tư nhân, xin đừng đỗ xe.
+乗用車[じょうようしゃ] | n | THỪA DỤNG XA | xe con | - | - | 乗用車[じょうようしゃ]とトラックが衝突[しょうとつ]した。 | Xe con va chạm với xe tải.
+運転士[うんてんし] | n | VẬN CHUYỂN SĨ | lái tàu | - | - | 電車[でんしゃ]の運転士[うんてんし]になるのが夢[ゆめ]だった。 | Trở thành lái tàu điện từng là ước mơ của tôi.
+乗[の]り換[か]え | n | THỪA HOÁN | đổi tàu | {乗り換え} 案内[あんない] | chỉ dẫn đổi tuyến | 乗[の]り換[か]えが多[おお]くて疲[つか]れた。 | Phải đổi tàu nhiều lần nên mệt.
+乗[の]り過[す]ごす | v1 | THỪA QUÁ | đi quá ga | - | - | 寝[ね]てしまって降[お]りる駅[えき]を乗[の]り過[す]ごした。 | Ngủ quên nên tôi đi quá ga cần xuống.
+満員[まんいん] | n | MÃN VIÊN | chật kín người | {満員} 電車[でんしゃ] | tàu chật cứng | 満員[まんいん]電車[でんしゃ]で通勤[つうきん]するのは大変[たいへん]だ。 | Đi làm bằng tàu chật cứng thật vất vả.
+直行[ちょっこう] | n,v3 | TRỰC HÀNH | đi thẳng | - | - | 会議[かいぎ]の後[あと]、家[いえ]に直行[ちょっこう]した。 | Sau cuộc họp tôi đi thẳng về nhà.
+道順[みちじゅん] | n | ĐẠO THUẬN | lộ trình | - | - | 駅[えき]からホテルまでの道順[みちじゅん]を教[おし]えてください。 | Hãy chỉ cho tôi lộ trình từ ga đến khách sạn.
+道[みち]のり | n | ĐẠO | quãng đường | 長[なが]い {道のり} | chặng đường dài | 成功[せいこう]までの道[みち]のりは長[なが]かった。 | Chặng đường đến thành công thật dài.
+方角[ほうがく] | n | PHƯƠNG GIÁC | phương hướng | - | - | 太陽[たいよう]の位置[いち]で方角[ほうがく]を確[たし]かめた。 | Tôi xác định phương hướng nhờ vị trí mặt trời.
+東西[とうざい] | n | ĐÔNG TÂY | đông tây | {東西} 南北[なんぼく] | bốn phương | 道路[どうろ]が東西[とうざい]に延[の]びている。 | Con đường trải dài theo hướng đông tây.
+南北[なんぼく] | n | NAM BẮC | nam bắc | - | - | 日本[にほん]は南北[なんぼく]に長[なが]い国[くに]だ。 | Nhật Bản là đất nước trải dài theo hướng nam bắc.
+前方[ぜんぽう] | n | TIỀN PHƯƠNG | phía trước | - | - | 前方[ぜんぽう]に注意[ちゅうい]して運転[うんてん]してください。 | Hãy chú ý phía trước khi lái xe.
+後方[こうほう] | n | HẬU PHƯƠNG | phía sau | - | - | 後方[こうほう]から救急車[きゅうきゅうしゃ]が来[き]ている。 | Xe cứu thương đang tới từ phía sau.
+左右[さゆう] | n | TẢ HỮU | trái phải | {左右} を 確認[かくにん]する | nhìn trái phải | 道[みち]を渡[わた]る前[まえ]に左右[さゆう]を確認[かくにん]しなさい。 | Trước khi qua đường hãy nhìn trái phải.
+上下[じょうげ] | n,v3 | THƯỢNG HẠ | trên dưới; lên xuống | - | - | エレベーターが上下[じょうげ]に動[うご]いている。 | Thang máy đang chạy lên xuống.
+表側[おもてがわ] | n | BIỂU TRẮC | mặt trước | - | - | 店[みせ]の表側[おもてがわ]には看板[かんばん]がある。 | Mặt trước cửa hàng có biển hiệu.
+裏側[うらがわ] | n | LÍ TRẮC | mặt sau | - | - | 月[つき]の裏側[うらがわ]は地球[ちきゅう]から見[み]えない。 | Mặt sau của Mặt Trăng không nhìn thấy được từ Trái Đất.
+向[む]こう側[がわ] | n | HƯỚNG TRẮC | phía bên kia | - | - | 川[かわ]の向[む]こう側[がわ]に渡[わた]った。 | Tôi đã sang phía bên kia sông.
+片隅[かたすみ] | n | PHIẾN NGUNG | một góc | 部屋[へや] の {片隅} | góc phòng | 部屋[へや]の片隅[かたすみ]に古[ふる]いピアノがある。 | Ở một góc phòng có chiếc đàn piano cũ.
+真[ま]ん中[なか] | n | CHÂN TRUNG | chính giữa | - | - | 部屋[へや]の真[ま]ん中[なか]にテーブルを置[お]いた。 | Tôi đặt bàn ở chính giữa phòng.
+端[はし] | n | ĐOAN | mép, rìa | 道[みち] の {端} | mép đường | 道[みち]の端[はし]を歩[ある]いてください。 | Hãy đi sát mép đường.
+端[はし]っこ | n | ĐOAN | mép, góc (khẩu ngữ) | - | - | 写真[しゃしん]の端[はし]っこに猫[ねこ]が写[うつ]っていた。 | Ở góc tấm ảnh có con mèo lọt vào.
+脇[わき] | n | HIẾP | bên cạnh; nách | 道[みち] の {脇} | bên lề đường | 道[みち]の脇[わき]に車[くるま]を止[と]めた。 | Tôi đỗ xe bên lề đường.
+中間[ちゅうかん] | n | TRUNG GIAN | khoảng giữa | {中間} 地点[ちてん] | điểm giữa | 二[ふた]つの駅[えき]の中間[ちゅうかん]あたりに住[す]んでいる。 | Tôi sống ở khoảng giữa hai nhà ga.
+間隔[かんかく] | n | GIAN CÁCH | khoảng cách, giãn cách | {間隔} を あける | giãn cách | 前[まえ]の車[くるま]と十分[じゅうぶん]な間隔[かんかく]をあけて走[はし]る。 | Chạy cách xe phía trước một khoảng đủ xa.
+隙間[すきま] | n | KHÍCH GIAN | khe hở | {隙間} 風[かぜ] | gió lùa qua khe | ドアの隙間[すきま]から冷[つめ]たい風[かぜ]が入[はい]ってくる。 | Gió lạnh lùa vào từ khe cửa.
+空間[くうかん] | n | KHÔNG GIAN | không gian | - | - | 狭[せま]い空間[くうかん]を上手[じょうず]に使[つか]う工夫[くふう]をした。 | Tôi nghĩ cách tận dụng khéo không gian hẹp.
+空[あ]き地[ち] | n | KHÔNG ĐỊA | đất trống | - | - | 子供[こども]のころは空[あ]き地[ち]で野球[やきゅう]をした。 | Hồi nhỏ chúng tôi chơi bóng chày ở bãi đất trống.
+跡地[あとち] | n | TÍCH ĐỊA | khu đất cũ (sau khi dỡ bỏ) | 工場[こうじょう] の {跡地} | nền nhà máy cũ | 工場[こうじょう]の跡地[あとち]に公園[こうえん]ができた。 | Trên nền nhà máy cũ đã có một công viên.
+跡[あと] | n | TÍCH | dấu vết | 足[あし] の {跡} | dấu chân | 雪[ゆき]の上[うえ]に動物[どうぶつ]の足[あし]の跡[あと]が残[のこ]っていた。 | Trên tuyết còn lại dấu chân động vật.
+境[さかい] | n | CẢNH | ranh giới | 県[けん] の {境} | ranh giới tỉnh | 川[かわ]が二[ふた]つの町[まち]の境[さかい]になっている。 | Con sông là ranh giới giữa hai thị trấn.
+境界[きょうかい] | n | CẢNH GIỚI | biên giới, ranh giới | {境界} 線[せん] | đường ranh giới | 隣[となり]の家[いえ]との境界[きょうかい]をはっきりさせた。 | Đã làm rõ ranh giới với nhà bên cạnh.
+県境[けんざかい] | n | HUYỆN CẢNH | ranh giới tỉnh | - | - | 県境[けんざかい]のトンネルを抜[ぬ]けると雪国[ゆきぐに]だった。 | Ra khỏi đường hầm ở ranh giới tỉnh là xứ tuyết.
+一帯[いったい] | n | NHẤT ĐỚI | cả vùng | - | - | この一帯[いったい]は昔[むかし]、海[うみ]だった。 | Cả vùng này ngày xưa là biển.
+一面[いちめん] | n | NHẤT DIỆN | khắp mặt; trang nhất | {一面} の 雪[ゆき] | tuyết phủ khắp nơi | 朝[あさ]起[お]きると外[そと]は一面[いちめん]の銀世界[ぎんせかい]だった。 | Sáng dậy, bên ngoài là một màu trắng bạc khắp nơi.
+よそ | n | - | nơi khác, người ngoài | {よそ} の 家[いえ] | nhà người khác | よその家[いえ]では行儀[ぎょうぎ]よくしなさい。 | Ở nhà người khác thì phải ngoan.
+場[ば] | n | TRƯỜNG | chỗ, dịp | その {場} で | ngay tại chỗ | その場[ば]で答[こた]えられず、後[あと]でメールした。 | Không trả lời được ngay tại chỗ nên tôi gửi email sau.
+輪[わ] | n | LUÂN | vòng tròn | {輪} に なる | xếp thành vòng | みんなで輪[わ]になって踊[おど]った。 | Mọi người xếp thành vòng tròn nhảy múa.
+でこぼこ | n,adj-na,v3 | - | lồi lõm, gồ ghề | {でこぼこ} の 道[みち] | đường gồ ghề | でこぼこの道[みち]で自転車[じてんしゃ]が揺[ゆ]れた。 | Xe đạp xóc nảy trên con đường gồ ghề.
+センター | n | - | trung tâm | ショッピング {センター} | trung tâm mua sắm | 週末[しゅうまつ]は郊外[こうがい]のショッピングセンターに行[い]く。 | Cuối tuần tôi đi trung tâm mua sắm ngoại ô.
+オープン | n,v3 | - | khai trương, mở | - | - | 駅前[えきまえ]に新[あたら]しいカフェがオープンした。 | Trước ga có quán cà phê mới khai trương.
+開業[かいぎょう] | n,v3 | KHAI NGHIỆP | khai trương, mở nghề | - | - | 新[あたら]しい駅[えき]は来年[らいねん]開業[かいぎょう]する予定[よてい]だ。 | Nhà ga mới dự kiến đi vào hoạt động năm sau.
+改修[かいしゅう] | n,v3 | CẢI TU | tu sửa | {改修} 工事[こうじ] | công trình tu sửa | 古[ふる]い体育館[たいいくかん]を改修[かいしゅう]した。 | Đã tu sửa nhà thi đấu cũ.
+開放[かいほう] | n,v3 | KHAI PHÓNG | mở cửa (cho công chúng) | 校庭[こうてい] を {開放} する | mở sân trường cho mọi người | 週末[しゅうまつ]は校庭[こうてい]が地域[ちいき]に開放[かいほう]されている。 | Cuối tuần sân trường được mở cho người dân khu vực.
+コース | n | - | lộ trình; khóa học | ハイキング {コース} | lộ trình đi bộ | 初心者[しょしんしゃ]向[む]けのハイキングコースを歩[ある]いた。 | Tôi đi theo lộ trình dã ngoại dành cho người mới.
+カーブ | n,v3 | - | khúc cua | 急[きゅう] {カーブ} | khúc cua gấp | この先[さき]は急[きゅう]カーブなので減速[げんそく]してください。 | Phía trước có khúc cua gấp, hãy giảm tốc.
+旅路[たびじ] | n | LỮ LỘ | hành trình | - | - | 長[なが]い旅路[たびじ]を終[お]えて故郷[こきょう]に帰[かえ]った。 | Kết thúc hành trình dài, tôi trở về quê.
+旅立[たびだ]つ | v1 | LỮ LẬP | lên đường | 海外[かいがい] へ {旅立つ} | lên đường ra nước ngoài | 娘[むすめ]は夢[ゆめ]を追[お]ってパリへ旅立[たびだ]った。 | Con gái tôi lên đường sang Paris theo đuổi ước mơ.
+発[た]つ | v1 | PHÁT | khởi hành | 成田[なりた] を {発つ} | cất cánh từ Narita | 明日[あした]の朝[あさ]、東京[とうきょう]を発[た]ちます。 | Sáng mai tôi rời Tokyo.
+宿泊先[しゅくはくさき] | n | TÚC BẠC TIÊN | nơi lưu trú | - | - | 宿泊先[しゅくはくさき]のホテルに荷物[にもつ]を送[おく]った。 | Tôi gửi hành lý đến khách sạn nơi lưu trú.
+長期[ちょうき]滞在[たいざい] | n | TRƯỜNG KỲ TRỆ TẠI | lưu trú dài hạn | - | - | 長期[ちょうき]滞在[たいざい]なら台所[だいどころ]付[つ]きの部屋[へや]が便利[べんり]だ。 | Lưu trú dài hạn thì phòng có bếp sẽ tiện.
+帰省[きせい] | n,v3 | QUY TỈNH | về quê | {帰省} ラッシュ | cao điểm về quê | お盆[ぼん]に実家[じっか]に帰省[きせい]した。 | Dịp lễ Obon tôi về quê thăm nhà.
+帰郷[ききょう] | n,v3 | QUY HƯƠNG | về quê hương | - | - | 十[じゅう]年[ねん]ぶりに帰郷[ききょう]した。 | Tôi về quê sau mười năm.
+帰国[きこく] | n,v3 | QUY QUỐC | về nước | - | - | 研修[けんしゅう]を終[お]えて来月[らいげつ]帰国[きこく]する。 | Tôi kết thúc khóa tu nghiệp và về nước vào tháng sau.
+渡航[とこう] | n,v3 | ĐỘ HÀNG | sang nước ngoài | - | - | 渡航[とこう]前[まえ]に予防[よぼう]接種[せっしゅ]を受[う]けた。 | Tôi tiêm phòng trước khi ra nước ngoài.
+渡航先[とこうさき] | n | ĐỘ HÀNG TIÊN | nơi đến (ở nước ngoài) | - | - | 渡航先[とこうさき]の治安[ちあん]情報[じょうほう]を調[しら]べておく。 | Tìm hiểu trước thông tin an ninh của nơi sẽ đến.
+時差[じさ]ぼけ | n | THỜI SAI | lệch múi giờ | - | - | 時差[じさ]ぼけで夜中[よなか]に目[め]が覚[さ]めた。 | Vì lệch múi giờ nên tôi tỉnh giấc giữa đêm.
+荷[に]ほどき | n,v3 | HÀ | dỡ đồ | - | - | 引[ひ]っ越[こ]して一[いっ]週間[しゅうかん]たつが、まだ荷[に]ほどきが終[お]わらない。 | Chuyển nhà được một tuần rồi mà vẫn chưa dỡ đồ xong.
+機内食[きないしょく] | n | CƠ NỘI THỰC | suất ăn trên máy bay | - | - | 機内食[きないしょく]は魚[さかな]と肉[にく]から選[えら]べた。 | Suất ăn trên máy bay được chọn cá hoặc thịt.
+座席[ざせき] | n | TỌA TỊCH | chỗ ngồi | {座席} を 予約[よやく]する | đặt chỗ ngồi | 座席[ざせき]を倒[たお]してもいいですか。 | Tôi ngả ghế ra được không?
+窓側[まどがわ] | n | SONG TRẮC | phía cửa sổ | {窓側} の 席[せき] | ghế cạnh cửa sổ | 窓側[まどがわ]の席[せき]をお願[ねが]いします。 | Cho tôi ghế cạnh cửa sổ.
+通路側[つうろがわ] | n | THÔNG LỘ TRẮC | phía lối đi | - | - | トイレに行[い]きやすいので通路側[つうろがわ]が好[す]きだ。 | Tôi thích ghế phía lối đi vì dễ đi vệ sinh.
+搭乗口[とうじょうぐち] | n | ĐÁP THỪA KHẨU | cửa ra máy bay | - | - | 搭乗口[とうじょうぐち]が変更[へんこう]になりました。 | Cửa ra máy bay đã được thay đổi.
+搭乗券[とうじょうけん] | n | ĐÁP THỪA KHOÁN | thẻ lên máy bay | - | - | 搭乗券[とうじょうけん]とパスポートをご用意[ようい]ください。 | Xin chuẩn bị thẻ lên máy bay và hộ chiếu.
+船旅[ふなたび] | n | THUYỀN LỮ | du lịch bằng tàu thủy | - | - | 退職[たいしょく]したら夫婦[ふうふ]で船旅[ふなたび]をしたい。 | Nghỉ hưu rồi vợ chồng tôi muốn đi du lịch bằng tàu.
+航路[こうろ] | n | HÀNG LỘ | tuyến hàng hải, đường bay | - | - | この島[しま]へは一日[いちにち]二便[にびん]の航路[こうろ]しかない。 | Đến hòn đảo này chỉ có tuyến tàu hai chuyến một ngày.
+航海[こうかい] | n,v3 | HÀNG HẢI | hải trình | - | - | 船[ふね]は一[いっ]か月[げつ]の航海[こうかい]を終[お]えて港[みなと]に戻[もど]った。 | Con tàu trở về cảng sau hải trình một tháng.
+浜辺[はまべ] | n | TÂN BIÊN | bờ biển | - | - | 夕方[ゆうがた]、浜辺[はまべ]を散歩[さんぽ]した。 | Chiều tối tôi đi dạo trên bờ biển.
+岸辺[きしべ] | n | NGẠN BIÊN | bờ (sông, hồ) | - | - | 湖[みずうみ]の岸辺[きしべ]に白鳥[はくちょう]がいる。 | Bên bờ hồ có những con thiên nga.
+川辺[かわべ] | n | XUYÊN BIÊN | bờ sông | - | - | 川辺[かわべ]でバーベキューをした。 | Chúng tôi nướng thịt bên bờ sông.
+頂上[ちょうじょう] | n | ĐỈNH THƯỢNG | đỉnh | 山[やま] の {頂上} | đỉnh núi | 三[さん]時間[じかん]かけて頂上[ちょうじょう]にたどり着[つ]いた。 | Mất ba tiếng mới lên tới đỉnh.
+麓[ふもと] | n | LỘC | chân núi | 山[やま] の {麓} | chân núi | 山[やま]の麓[ふもと]に小[ちい]さな村[むら]がある。 | Dưới chân núi có một ngôi làng nhỏ.
+荒野[こうや] | n | HOANG DÃ | vùng hoang vu | - | - | 荒野[こうや]に一本[いっぽん]の道[みち]が続[つづ]いている。 | Một con đường kéo dài giữa vùng hoang vu.
+名湯[めいとう] | n | DANH THANG | suối nước nóng nổi tiếng | - | - | 日本[にほん]各地[かくち]の名湯[めいとう]を巡[めぐ]る旅[たび]をした。 | Tôi đi một chuyến vòng quanh các suối nóng nổi tiếng khắp Nhật.
+散策[さんさく] | n,v3 | TÁN SÁCH | dạo bộ thong thả | 町[まち] を {散策} する | dạo phố | 古[ふる]い町並[まちな]みを散策[さんさく]した。 | Tôi thong thả dạo quanh khu phố cổ.
+風景[ふうけい] | n | PHONG CẢNH | phong cảnh | - | - | 窓[まど]から見[み]える田舎[いなか]の風景[ふうけい]が好[す]きだ。 | Tôi thích phong cảnh làng quê nhìn từ cửa sổ.
+眺[なが]め | n | THIẾU | quang cảnh | {眺め} が いい | cảnh đẹp | この部屋[へや]は眺[なが]めがいい。 | Căn phòng này có cảnh đẹp.
+見晴[みは]らし | n | KIẾN TÌNH | tầm nhìn | {見晴らし} の いい 丘[おか] | ngọn đồi có tầm nhìn đẹp | 見晴[みは]らしのいい丘[おか]で弁当[べんとう]を食[た]べた。 | Chúng tôi ăn cơm hộp trên ngọn đồi có tầm nhìn đẹp.
+見下[みお]ろす | v1 | KIẾN HẠ | nhìn xuống | 町[まち] を {見下ろす} | nhìn xuống thị trấn | 山[やま]の上[うえ]から町[まち]を見下[みお]ろした。 | Từ trên núi tôi nhìn xuống thị trấn.
+見上[みあ]げる | v2 | KIẾN THƯỢNG | ngước nhìn | 空[そら] を {見上げる} | ngước nhìn bầu trời | 夜空[よぞら]を見上[みあ]げると星[ほし]がきれいだった。 | Ngước nhìn bầu trời đêm, sao rất đẹp.
+所在地[しょざいち] | n | SỞ TẠI ĐỊA | địa chỉ, nơi đặt trụ sở | - | - | 会社[かいしゃ]の所在地[しょざいち]を書類[しょるい]に書[か]いた。 | Tôi ghi địa chỉ công ty vào giấy tờ.
+現在地[げんざいち] | n | HIỆN TẠI ĐỊA | vị trí hiện tại | - | - | 地図[ちず]アプリで現在地[げんざいち]を確認[かくにん]した。 | Tôi xem vị trí hiện tại bằng ứng dụng bản đồ.
+目的地[もくてきち] | n | MỤC ĐÍCH ĐỊA | điểm đến | {目的地} に 着[つ]く | đến nơi | ナビに目的地[もくてきち]を入力[にゅうりょく]した。 | Tôi nhập điểm đến vào máy định vị.
+出発地[しゅっぱつち] | n | XUẤT PHÁT ĐỊA | điểm xuất phát | - | - | ツアーの出発地[しゅっぱつち]は東京[とうきょう]駅[えき]です。 | Điểm xuất phát của tour là ga Tokyo.
+通行人[つうこうにん] | n | THÔNG HÀNH NHÂN | người qua đường | - | - | 通行人[つうこうにん]に道[みち]を尋[たず]ねた。 | Tôi hỏi đường người qua đường.
+通[とお]り抜[ぬ]ける | v2 | THÔNG BẠT | đi xuyên qua | 公園[こうえん] を {通り抜ける} | đi xuyên qua công viên | 公園[こうえん]を通[とお]り抜[ぬ]けると駅[えき]に早[はや]く着[つ]く。 | Đi xuyên qua công viên thì đến ga nhanh hơn.
+通[とお]り過[す]ぎる | v2 | THÔNG QUÁ | đi ngang qua | - | - | 話[はな]しながら歩[ある]いていて、店[みせ]を通[とお]り過[す]ぎてしまった。 | Vừa đi vừa nói chuyện nên đi quá cửa hàng mất.
+通[とお]りかかる | v1 | THÔNG | tình cờ đi ngang | - | - | 事故[じこ]の現場[げんば]にたまたま通[とお]りかかった。 | Tôi tình cờ đi ngang hiện trường vụ tai nạn.
+横切[よこぎ]る | v1 | HOÀNH THIẾT | băng qua | 道路[どうろ] を {横切る} | băng qua đường | 猫[ねこ]が急[きゅう]に道路[どうろ]を横切[よこぎ]った。 | Con mèo bất ngờ băng qua đường.
+突[つ]き当[あ]たる | v1 | ĐỘT ĐƯƠNG | đi đến cuối đường; vấp phải | 壁[かべ] に {突き当たる} | gặp trở ngại | この道[みち]をまっすぐ行[い]って突[つ]き当[あ]たったら左[ひだり]です。 | Đi thẳng đường này đến cuối thì rẽ trái.
+立[た]ち止[ど]まる | v1 | LẬP CHỈ | dừng chân | - | - | 美[うつく]しい景色[けしき]に思[おも]わず立[た]ち止[ど]まった。 | Tôi bất giác dừng chân trước cảnh đẹp.
+立[た]ち寄[よ]る | v1 | LẬP KÝ | ghé qua | 本屋[ほんや] に {立ち寄る} | ghé hiệu sách | 帰[かえ]りに本屋[ほんや]に立[た]ち寄[よ]った。 | Trên đường về tôi ghé hiệu sách.
+近寄[ちかよ]る | v1 | CẬN KÝ | lại gần | - | - | 危険[きけん]ですから、近寄[ちかよ]らないでください。 | Nguy hiểm, xin đừng lại gần.
+引[ひ]き返[かえ]す | v1 | DẪN PHẢN | quay lại | - | - | 忘[わす]れ物[もの]に気[き]づいて家[いえ]に引[ひ]き返[かえ]した。 | Nhận ra quên đồ nên tôi quay về nhà.
+出直[でなお]す | v1 | XUẤT TRỰC | quay lại sau; làm lại từ đầu | - | - | 店[みせ]が閉[し]まっていたので、明日[あした]出直[でなお]します。 | Cửa hàng đóng rồi nên mai tôi quay lại.
+訪[おとず]れる | v2 | PHỎNG | ghé thăm; (mùa) đến | 京都[きょうと] を {訪れる} | đến thăm Kyoto | 毎年[まいとし]多[おお]くの観光客[かんこうきゃく]が京都[きょうと]を訪[おとず]れる。 | Hàng năm có nhiều du khách đến thăm Kyoto.
+去[さ]る | v1 | KHỨ | rời đi; qua đi | 故郷[こきょう] を {去る} | rời quê hương | 台風[たいふう]が去[さ]って、青空[あおぞら]が広[ひろ]がった。 | Bão đi qua, bầu trời xanh trải rộng.
+至[いた]る | v1 | CHÍ | đi đến, dẫn tới | 結論[けつろん] に {至る} | đi đến kết luận | 話[はな]し合[あ]いの末[すえ]、合意[ごうい]に至[いた]った。 | Sau khi thảo luận đã đi đến thống nhất.
+沿[そ]う | v1 | DUYÊN | đi dọc theo; theo | 川[かわ] に {沿う} | dọc theo sông | 川[かわ]に沿[そ]って桜[さくら]並木[なみき]が続[つづ]いている。 | Hàng anh đào trải dài dọc theo sông.
+逸[そ]れる | v2 | DẬT | lệch hướng, lạc đề | 話[はなし] が {逸れる} | lạc đề | 台風[たいふう]が逸[そ]れて、被害[ひがい]は少[すく]なかった。 | Bão đổi hướng nên thiệt hại ít.
+駆[か]け込[こ]む | v1 | KHU NHẬP | chạy vội vào | 電車[でんしゃ] に {駆け込む} | lao lên tàu | 駆[か]け込[こ]み乗車[じょうしゃ]は危険[きけん]です。 | Lao vội lên tàu là nguy hiểm.
+飛[と]び込[こ]む | v1 | PHI NHẬP | nhảy vào, lao vào | プール に {飛び込む} | nhảy xuống bể bơi | 子供[こども]たちが次々[つぎつぎ]とプールに飛[と]び込[こ]んだ。 | Bọn trẻ lần lượt nhảy xuống bể bơi.
+飛[と]び回[まわ]る | v1 | PHI HỒI | bay lượn; đi khắp nơi | 世界中[せかいじゅう] を {飛び回る} | bay đi khắp thế giới | 彼[かれ]は仕事[しごと]で世界中[せかいじゅう]を飛[と]び回[まわ]っている。 | Anh ấy bay khắp thế giới vì công việc.
+引[ひ]っ込[こ]む | v1 | DẪN NHẬP | lui vào; rút về | 田舎[いなか] に {引っ込む} | lui về quê | 退職[たいしょく]後[ご]は田舎[いなか]に引[ひ]っ込[こ]むつもりだ。 | Nghỉ hưu rồi tôi định lui về quê.
+住[す]み込[こ]む | v1 | TRÚ NHẬP | ở lại nơi làm việc | - | - | 旅館[りょかん]に住[す]み込[こ]んで働[はたら]いている。 | Tôi làm việc và ở luôn tại lữ quán.
+泊[と]まり込[こ]む | v1 | BẠC NHẬP | ngủ lại (để làm việc) | - | - | 締[し]め切[き]り前[まえ]で会社[かいしゃ]に泊[と]まり込[こ]んだ。 | Sát hạn nộp nên tôi ngủ lại công ty.
+うろうろ | adv,v3 | - | đi lòng vòng | - | - | 道[みち]が分[わ]からず駅前[えきまえ]をうろうろした。 | Không biết đường nên tôi đi lòng vòng trước ga.
+のろのろ | adv,v3 | - | chậm rì rì | - | - | 渋滞[じゅうたい]で車[くるま]がのろのろ進[すす]んでいる。 | Tắc đường nên xe nhích từng chút.
+ぶらぶら | adv,v3 | - | đi lang thang | - | - | 休[やす]みの日[ひ]は町[まち]をぶらぶらする。 | Ngày nghỉ tôi đi lang thang trong phố.
+続々[ぞくぞく]と | adv | TỤC TỤC | lần lượt kéo đến | - | - | 開店[かいてん]と同時[どうじ]に客[きゃく]が続々[ぞくぞく]と入[はい]ってきた。 | Vừa mở cửa, khách đã lần lượt kéo vào.
+ずらりと | adv | - | xếp thành hàng dài | - | - | 道[みち]の両側[りょうがわ]に屋台[やたい]がずらりと並[なら]んでいる。 | Hai bên đường các quầy hàng xếp thành dãy dài.

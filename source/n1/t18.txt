@@ -1,0 +1,172 @@
+@topic phó từ · liên từ
+@ja 副詞[ふくし]・接続詞[せつぞくし]
+@vi Phó từ và liên từ
+@desc Phó từ, trạng từ và liên từ N1 thường gặp trong diễn đạt nâng cao, bao gồm từ vựng Mimikara N1 Unit 7 và Unit 14.
+いたって | adv | - | hết sức, rất | {いたって}健康[けんこう] | hết sức khỏe mạnh | 祖父[そふ]はいたって元気[げんき]で毎朝[まいあさ]散歩[さんぽ]している。 | Ông tôi hết sức khỏe mạnh, sáng nào cũng đi dạo.
+かつて | adv | - | trước đây, từng | {かつて}ない | chưa từng có | かつて経験[けいけん]したことのない大[おお]きな地震[じしん]だった。 | Đây là trận động đất lớn chưa từng trải qua.
+かねて | adv | - | từ trước, vốn đã | {かねて}から | từ trước đến nay | かねてから計画[けいかく]していた旅行[りょこう]にやっと行[い]けた。 | Cuối cùng cũng đi được chuyến du lịch đã lên kế hoạch từ trước.
+がっちり | adv | - | chắc chắn, vạm vỡ | {がっちり}した体格[たいかく] | thể hình vạm vỡ | がっちりとした体[からだ]つきの男性[だんせい]が立[た]っていた。 | Một người đàn ông thể hình vạm vỡ đang đứng.
+ぐっと | adv | - | mạnh mẽ, hẳn | {ぐっと}こらえる | nén chịu | 涙[なみだ]をぐっとこらえてスピーチを続[つづ]けた。 | Nén nước mắt tiếp tục phát biểu.
+ぐんぐん | adv | - | vùn vụt, liên tục | {ぐんぐん}伸[の]びる | tăng vùn vụt | 子[こ]どもたちの身長[しんちょう]がぐんぐん伸[の]びている。 | Chiều cao bọn trẻ tăng vùn vụt.
+げっそり | adv | - | gầy sọp, héo hon | {げっそり}痩[や]せる | gầy sọp | 入院中[にゅういんちゅう]にげっそり痩[や]せてしまった。 | Trong thời gian nằm viện đã gầy sọp đi.
+ごたごた | adv | - | lộn xộn, rắc rối | {ごたごた}している | đang lộn xộn | 引[ひ]っ越[こ]しの準備[じゅんび]で部屋[へや]がごたごたしている。 | Phòng lộn xộn vì đang chuẩn bị chuyển nhà.
+ごちゃごちゃ | adv | - | bừa bộn, hỗn độn | {ごちゃごちゃ}した | bừa bộn | 机[つくえ]の上[うえ]がごちゃごちゃで書類[しょるい]が見[み]つからない。 | Bàn bừa bộn nên không tìm thấy tài liệu.
+さぞ | adv | - | chắc hẳn, hẳn là | {さぞ}大変[たいへん] | chắc hẳn vất vả | 一人[ひとり]で三人[さんにん]の子[こ]を育[そだ]てるのはさぞ大変[たいへん]だろう。 | Một mình nuôi ba con chắc hẳn vất vả lắm.
+さほど | adv | - | không đến mức | {さほど}難[むずか]しくない | không khó lắm | この問題[もんだい]はさほど難[むずか]しくない。 | Bài này không khó lắm.
+さも | adv | - | ra vẻ, như thể | {さも}嬉[うれ]しそうに | ra vẻ vui mừng | 彼[かれ]はさも知[し]っているかのように話[はな]した。 | Anh ấy nói như thể đã biết vậy.
+さんざん | adv | - | tơi bời, thê thảm | {さんざん}な目[め] | gặp chuyện tơi bời | さんざん迷[まよ]った挙句[あげく]、元[もと]の道[みち]に戻[もど]った。 | Lạc tơi bời cuối cùng quay lại đường cũ.
+じきに | adv | - | sắp, chẳng bao lâu | {じきに}届[とど]く | sắp đến nơi | 注文[ちゅうもん]した品物[しなもの]はじきに届[とど]くはずだ。 | Hàng đã đặt chắc sắp đến nơi.
+すかさず | adv | - | ngay lập tức, không bỏ lỡ | {すかさず}反論[はんろん]する | phản bác ngay | 相手[あいて]の発言[はつげん]にすかさず反論[はんろん]した。 | Phản bác ngay lập tức lời phát biểu đối phương.
+すんなり | adv | - | suôn sẻ, dễ dàng | {すんなり}通[とお]る | đi qua dễ dàng | 予想[よそう]に反[はん]して交渉[こうしょう]がすんなり進[すす]んだ。 | Trái với dự đoán, đàm phán diễn ra suôn sẻ.
+そこそこ | adv | - | tạm tạm, kha khá | {そこそこ}の成績[せいせき] | thành tích kha khá | 料理[りょうり]の腕前[うでまえ]はそこそこだ。 | Tay nghề nấu ăn kha khá.
+ちなみに | adv | - | nhân tiện, nhân đây | {ちなみに}言[い]うと | nhân tiện nói | ちなみに、この店[みせ]は来月[らいげつ]リニューアルする予定[よてい]だ。 | Nhân tiện, cửa hàng này dự kiến tân trang tháng sau.
+ちょくちょく | adv | - | hay, thường xuyên | {ちょくちょく}来[く]る | hay đến | この喫茶店[きっさてん]にはちょくちょく来[き]ている。 | Tôi hay đến quán cà phê này.
+とうてい | adv | - | tuyệt nhiên không | {とうてい}無理[むり] | tuyệt đối không được | この量[りょう]の仕事[しごと]は一人[ひとり]ではとうてい終[お]わらない。 | Lượng công việc này một mình tuyệt nhiên không xong.
+どうやら | adv | - | có vẻ như, hình như | {どうやら}本当[ほんとう]らしい | có vẻ là thật | どうやら電車[でんしゃ]が遅[おく]れているらしい。 | Có vẻ như tàu đang bị trễ.
+なお | adv | - | ngoài ra, vẫn còn | {なお}続[つづ]く | vẫn tiếp tục | なお、詳細[しょうさい]については後日[ごじつ]お知[し]らせします。 | Ngoài ra, chi tiết sẽ thông báo sau.
+はるかに | adv | - | hơn nhiều, xa xôi | {はるかに}上[うわ]回[まわ]る | vượt xa | 今年[ことし]の売[う]り上[あ]げは去年[きょねん]をはるかに上[うわ]回[まわ]った。 | Doanh số năm nay vượt xa năm ngoái.
+ひっそり | adv | - | im lìm, vắng lặng | {ひっそり}と暮[く]らす | sống vắng lặng | 山奥[やまおく]でひっそりと暮[く]らしている。 | Sống vắng lặng ở sâu trong núi.
+べたべた | adv | - | dính nhớp, quấn quýt | {べたべた}する | dính nhớp | 夏[なつ]は汗[あせ]でべたべたして不快[ふかい]だ。 | Mùa hè mồ hôi dính nhớp khó chịu.
+ぼつぼつ | adv | - | dần dần, từ từ | {ぼつぼつ}始[はじ]める | bắt đầu dần | そろそろぼつぼつ帰[かえ]る準備[じゅんび]をしよう。 | Sắp đến lúc từ từ chuẩn bị về thôi.
+もうじき | adv | - | sắp, gần đến | {もうじき}届[とど]く | sắp đến | もうじき春[はる]が来[く]る。 | Mùa xuân sắp đến rồi.
+もしくは | conj | - | hoặc là | A{もしくは}B | A hoặc là B | メールもしくは電話[でんわ]でご連絡[れんらく]ください。 | Xin liên hệ qua email hoặc điện thoại.
+やや | adv | - | hơi, một chút | {やや}高[たか]い | hơi cao | 今月[こんげつ]の気温[きおん]はやや高[たか]めだ。 | Nhiệt độ tháng này hơi cao.
+ゆえに | conj | - | bởi vì, cho nên | {ゆえに}失敗[しっぱい]する | cho nên thất bại | 準備[じゅんび]が不十分[ふじゅうぶん]だった。ゆえに失敗[しっぱい]した。 | Chuẩn bị không đầy đủ. Cho nên thất bại.
+よって | conj | - | do đó, vì vậy | {よって}中止[ちゅうし]する | do đó hủy bỏ | 安全性[あんぜんせい]に問題[もんだい]がある。よって販売[はんばい]を中止[ちゅうし]する。 | Có vấn đề về an toàn. Do đó ngừng bán.
+よほど | adv | - | khá, rất (hơn tưởng) | {よほど}疲[つか]れている | mệt lắm | よほど嬉[うれ]しかったのか、彼女[かのじょ]は泣[な]き出[だ]した。 | Chắc vui lắm, cô ấy khóc mất.
+ろくに | adv | - | chẳng ra gì, hầu như không | {ろくに}食[た]べない | chẳng ăn gì | 忙[いそが]しくてろくに食事[しょくじ]もとれない。 | Bận đến mức chẳng ăn uống ra gì.
+一向[いっこう]に | adv | NHẤT HƯỚNG | hoàn toàn không | {一向に}変[か]わらない | hoàn toàn không đổi | 状況[じょうきょう]は一向[いっこう]に改善[かいぜん]しない。 | Tình hình hoàn toàn không cải thiện.
+一概[いちがい]に | adv | NHẤT KHÁI | không thể nói chung | {一概に}言[い]えない | không thể nói chung | 一概[いちがい]に良[よ]いとは言[い]えない。 | Không thể nói chung là tốt.
+一見[いっけん] | adv | NHẤT KIẾN | thoạt nhìn | {一見}すると | thoạt nhìn | 一見[いっけん]簡単[かんたん]そうに見[み]えるが、実[じつ]は難[むずか]しい。 | Thoạt nhìn có vẻ đơn giản nhưng thực ra khó.
+一通[ひととお]り | adv | NHẤT THÔNG | sơ qua, đại khái | {一通り}確認[かくにん]する | kiểm tra sơ qua | 一通[ひととお]り説明[せつめい]を聞[き]いてから質問[しつもん]してください。 | Hãy nghe giải thích sơ qua rồi hãy hỏi.
+不意[ふい]に | adv | BẤT Ý | bất ngờ | {不意に}現[あらわ]れる | xuất hiện bất ngờ | 不意[ふい]に名前[なまえ]を呼[よ]ばれて驚[おどろ]いた。 | Bị gọi tên bất ngờ nên giật mình.
+人一倍[ひといちばい] | adv | NHÂN NHẤT BỘI | gấp đôi, hơn người | {人一倍}努力[どりょく]する | nỗ lực gấp đôi | 彼[かれ]は人一倍[ひといちばい]努力[どりょく]して成功[せいこう]した。 | Anh ấy nỗ lực hơn người và thành công.
+今[いま]ごろ | adv | KIM | giờ này, bây giờ | {今ごろ}何[なに]してる | giờ này đang làm gì | 今[いま]ごろ彼[かれ]は飛行機[ひこうき]の中[なか]だろう。 | Giờ này chắc anh ấy đang trên máy bay.
+今[いま]どき | adv | KIM | thời nay, ngày nay | {今どき}の若者[わかもの] | giới trẻ thời nay | 今[いま]どきの学生[がくせい]はスマホを使[つか]いこなしている。 | Học sinh thời nay thành thạo smartphone.
+今[いま]に | adv | KIM | rồi sẽ, không chừng | {今に}分[わ]かる | rồi sẽ hiểu | 今[いま]に後悔[こうかい]するぞ。 | Rồi sẽ hối hận cho xem.
+今[いま]や | adv | KIM | bây giờ, hiện nay | {今や}常識[じょうしき] | hiện nay là thường thức | 今[いま]やインターネットは生活[せいかつ]に欠[か]かせない。 | Hiện nay internet không thể thiếu trong cuộc sống.
+今一[いまひと]つ | adv | KIM NHẤT | còn thiếu, chưa đủ | {今一つ}足[た]りない | còn thiếu một chút | 今一[いまひと]つ納得[なっとく]できない説明[せつめい]だった。 | Lời giải thích chưa đủ thuyết phục.
+但[ただ]し | conj | ĐẢN | tuy nhiên, với điều kiện | {但し}条件[じょうけん]がある | tuy nhiên có điều kiện | 参加[さんか]は自由[じゆう]です。但[ただ]し事前[じぜん]に申[もう]し込[こ]みが必要[ひつよう]です。 | Tham gia tự do. Tuy nhiên cần đăng ký trước.
+何[なに]とぞ | adv | HÀ | xin hãy (kính ngữ) | {何とぞ}ご了承[りょうしょう]ください | xin hãy thông cảm | 何[なに]とぞご理解[りかい]のほどよろしくお願[ねが]いいたします。 | Kính mong quý vị thông cảm.
+何[なん]なりと | adv | HÀ | bất cứ điều gì | {何なりと}お申[もう]し付[つ]けください | xin cứ giao phó | ご不明[ふめい]な点[てん]がございましたら、何[なん]なりとお尋[たず]ねください。 | Nếu có điểm chưa rõ, xin cứ hỏi bất cứ điều gì.
+即座[そくざ]に | adv | TỨC TỌA | ngay lập tức | {即座に}対応[たいおう]する | phản hồi ngay | 社長[しゃちょう]は即座[そくざ]に決断[けつだん]を下[くだ]した。 | Giám đốc đưa ra quyết định ngay lập tức.
+及[およ]び | conj | CẬP | và, cùng với | A{及び}B | A và B | 学生[がくせい]及[およ]び教職員[きょうしょくいん]は全員[ぜんいん]避難[ひなん]してください。 | Học sinh và giáo viên xin tất cả sơ tán.
+始終[しじゅう] | adv | THỦY CHUNG | suốt, luôn luôn | {始終}一貫[いっかん] | nhất quán từ đầu đến cuối | 彼[かれ]は始終[しじゅう]笑顔[えがお]を絶[た]やさなかった。 | Anh ấy luôn giữ nụ cười.
+幾分[いくぶん] | adv | KỈ PHẦN | phần nào, hơi | {幾分}落[お]ち着[つ]く | phần nào bình tĩnh | 薬[くすり]を飲[の]んで幾分[いくぶん]楽[らく]になった。 | Uống thuốc rồi đỡ phần nào.
+早急[さっきゅう]に | adv | TẢO CẤP | khẩn cấp | {早急に}対処[たいしょ]する | xử lý khẩn cấp | この問題[もんだい]には早急[さっきゅう]に対策[たいさく]を講[こう]じる必要[ひつよう]がある。 | Vấn đề này cần có đối sách khẩn cấp.
+着々[ちゃくちゃく]と | adv | TRƯỚC TRƯỚC | đều đặn, từng bước | {着々と}進[すす]む | tiến từng bước | 工事[こうじ]は着々[ちゃくちゃく]と進[すす]んでいる。 | Công trình tiến triển đều đặn.
+突如[とつじょ] | adv | ĐỘT NHƯ | đột nhiên | {突如}として | đột nhiên | 突如[とつじょ]として大[おお]きな爆発音[ばくはつおん]が響[ひび]いた。 | Đột nhiên tiếng nổ lớn vang lên.
+第一[だいいち] | adv | ĐỆ NHẤT | trước hết, đầu tiên | {第一}に考[かんが]える | nghĩ trước hết | 安全[あんぜん]を第一[だいいち]に考[かんが]えて行動[こうどう]してください。 | Hãy hành động ưu tiên an toàn lên hàng đầu.
+終日[しゅうじつ] | adv | CHUNG NHẬT | cả ngày | {終日}営業[えいぎょう] | mở cả ngày | この店[みせ]は終日[しゅうじつ]営業[えいぎょう]している。 | Cửa hàng này mở cả ngày.
+若干[じゃっかん] | adv | NHƯỢC CAN | một ít, đôi chút | {若干}名[めい] | một vài người | 定員[ていいん]にまだ若干[じゃっかん]の余裕[よゆう]があります。 | Định viên vẫn còn dư một ít chỗ.
+近々[ちかぢか] | adv | CẬN CẬN | sắp tới, nay mai | {近々}発表[はっぴょう]する | sắp công bố | 新[あたら]しいプロジェクトが近々[ちかぢか]始[はじ]まる予定[よてい]だ。 | Dự án mới dự kiến sắp bắt đầu.
+近年[きんねん] | adv | CẬN NIÊN | những năm gần đây | {近年}増[ふ]えている | tăng những năm gần đây | 近年[きんねん]、外国人[がいこくじん]観光客[かんこうきゃく]が増[ふ]えている。 | Những năm gần đây, du khách nước ngoài tăng lên.
+頻繁[ひんぱん]に | adv | TẦN PHỒN | thường xuyên, liên tục | {頻繁に}起[お]こる | xảy ra thường xuyên | この地域[ちいき]では地震[じしん]が頻繁[ひんぱん]に起[お]こる。 | Khu vực này động đất xảy ra thường xuyên.
+あえて | adv | - | cố ý, dám | {あえて}挑戦[ちょうせん]する | dám thử thách | あえて難[むずか]しい道[みち]を選[えら]んだ。 | Tôi cố ý chọn con đường khó.
+あくまで | adv | - | chỉ là, kiên quyết | {あくまで}個人的[こじんてき] | chỉ là cá nhân | あくまで私[わたし]の意見[いけん]ですが、賛成[さんせい]できません。 | Đây chỉ là ý kiến cá nhân tôi, nhưng tôi không đồng ý.
+ありとあらゆる | adv | - | tất cả, đủ mọi | {ありとあらゆる}手段[しゅだん] | mọi phương tiện | ありとあらゆる方法[ほうほう]を試[ため]したが駄目[だめ]だった。 | Đã thử mọi phương pháp nhưng không được.
+あわや | adv | - | suýt nữa | {あわや}大事故[だいじこ] | suýt nữa tai nạn lớn | あわや衝突[しょうとつ]するところだった。 | Suýt nữa thì va chạm rồi.
+いっそ | adv | - | thà, chi bằng | {いっそ}やめる | thà bỏ luôn | こんなに辛[つら]いなら、いっそ転職[てんしょく]しようか。 | Khổ thế này thà chuyển việc luôn.
+いやに | adv | - | lạ thường, bất thường | {いやに}静[しず]か | im lặng bất thường | 今日[きょう]はいやに静[しず]かだな。 | Hôm nay im lặng bất thường nhỉ.
+おのずから | adv | - | tự nhiên | {おのずから}分[わ]かる | tự nhiên hiểu | 努力[どりょく]すればおのずから結果[けっか]はついてくる。 | Nỗ lực thì kết quả tự nhiên sẽ đến.
+かろうじて | adv | - | chỉ vừa đủ, miễn cưỡng | {かろうじて}合格[ごうかく] | vừa đủ đỗ | かろうじて最終[さいしゅう]電車[でんしゃ]に間[ま]に合[あ]った。 | Vừa kịp chuyến tàu cuối cùng.
+きっかり | adv | - | đúng, chính xác | {きっかり}三時[さんじ] | đúng 3 giờ | 会議[かいぎ]はきっかり10時[じ]に始[はじ]まった。 | Cuộc họp bắt đầu đúng 10 giờ.
+きっちり | adv | - | chính xác, cẩn thận | {きっちり}計算[けいさん]する | tính toán chính xác | 予算[よさん]をきっちり管理[かんり]している。 | Quản lý ngân sách chính xác.
+ことに | adv | - | đặc biệt là | {ことに}重要[じゅうよう] | đặc biệt quan trọng | 今回[こんかい]の試験[しけん]はことに難[むずか]しかった。 | Kỳ thi lần này đặc biệt khó.
+てっきり | adv | - | cứ tưởng | {てっきり}そうだと思[おも]う | cứ tưởng là vậy | てっきり冗談[じょうだん]だと思[おも]っていた。 | Tôi cứ tưởng là đùa.
+とっさに | adv | - | phản xạ, tức thì | {とっさに}避[よ]ける | né tức thì | とっさにハンドルを切[き]って事故[じこ]を避[さ]けた。 | Phản xạ đánh lái tránh được tai nạn.
+ともすると | adv | - | hay, dễ | {ともすると}忘[わす]れる | hay quên | ともすると目先[めさき]の利益[りえき]に走[はし]りがちだ。 | Hay chạy theo lợi ích trước mắt.
+ともすれば | adv | - | hay, dễ | {ともすれば}見落[みお]とす | dễ bỏ sót | ともすれば見落[みお]としがちな細[こま]かい点[てん]に注意[ちゅうい]が必要[ひつよう]だ。 | Cần chú ý đến những điểm nhỏ dễ bỏ sót.
+なおさら | adv | - | càng hơn | {なおさら}心配[しんぱい] | càng lo hơn | 雨[あめ]が降[ふ]ったらなおさら危険[きけん]だ。 | Nếu mưa thì càng nguy hiểm hơn.
+ひいては | adv | - | hơn nữa, rồi dẫn đến | {ひいては}社会[しゃかい]全体[ぜんたい] | rồi dẫn đến toàn xã hội | 個人[こじん]の健康[けんこう]はひいては社会[しゃかい]の活力[かつりょく]につながる。 | Sức khỏe cá nhân rồi dẫn đến sức sống xã hội.
+ひたすら | adv | - | chỉ biết, miệt mài | {ひたすら}努力[どりょく]する | miệt mài nỗ lực | 合格[ごうかく]を目指[めざ]してひたすら勉強[べんきょう]した。 | Miệt mài học hành nhắm thi đỗ.
+ひとまず | adv | - | trước mắt, tạm thời | {ひとまず}休[やす]む | tạm nghỉ | ひとまずここで休憩[きゅうけい]しましょう。 | Trước mắt hãy nghỉ ngơi ở đây.
+まことに | adv | - | thật sự, vô cùng | {まことに}申[もう]し訳[わけ]ない | thật sự xin lỗi | まことに恐[おそ]れ入[い]りますが、少々[しょうしょう]お待[ま]ちください。 | Thật sự rất xin lỗi, xin chờ một chút.
+まさに | adv | - | chính là, đúng là | {まさに}その通[とお]り | đúng vậy | まさに今[いま]、歴史的[れきしてき]な瞬間[しゅんかん]を目撃[もくげき]している。 | Chính bây giờ đang chứng kiến khoảnh khắc lịch sử.
+まして | adv | - | huống chi, nói gì đến | {まして}子供[こども]には | huống chi trẻ con | 大人[おとな]でも難[むずか]しいのに、まして子供[こども]には無理[むり]だ。 | Người lớn còn khó, huống chi trẻ con.
+むやみに | adv | - | bừa bãi, vô tội vạ | {むやみに}使[つか]う | dùng bừa | むやみに薬[くすり]を飲[の]むべきではない。 | Không nên uống thuốc bừa bãi.
+めっきり | adv | - | hẳn, rõ rệt | {めっきり}寒[さむ]くなる | lạnh hẳn | 秋[あき]になってめっきり日[ひ]が短[みじか]くなった。 | Vào thu, ngày ngắn hẳn đi.
+もはや | adv | - | giờ đây, không còn | {もはや}手遅[ておく]れ | giờ đã muộn | もはや後戻[あともど]りはできない。 | Giờ đây không thể quay lại được nữa.
+もろに | adv | - | trực tiếp, trọn vẹn | {もろに}受[う]ける | chịu trực tiếp | 台風[たいふう]の影響[えいきょう]をもろに受[う]けた。 | Chịu ảnh hưởng trực tiếp từ bão.
+やけに | adv | - | lạ lùng, bất thường | {やけに}元気[げんき] | khỏe bất thường | 今日[きょう]は部長[ぶちょう]がやけに機嫌[きげん]がいい。 | Hôm nay trưởng phòng vui bất thường.
+やたらと | adv | - | bừa bãi, vô tội vạ | {やたらと}多[おお]い | nhiều bừa | この地域[ちいき]にはやたらとコンビニが多[おお]い。 | Khu vực này cửa hàng tiện lợi nhiều bừa.
+一応[いちおう] | adv | NHẤT ỨNG | tạm thời, cho có | {一応}確認[かくにん]する | kiểm tra cho chắc | 一応[いちおう]予約[よやく]を入[い]れておいた。 | Tạm thời đã đặt chỗ rồi.
+一旦[いったん] | adv | NHẤT ĐÁN | một khi, tạm thời | {一旦}中止[ちゅうし]する | tạm dừng | 一旦[いったん]始[はじ]めたら最後[さいご]までやり遂[と]げよう。 | Một khi bắt đầu rồi thì hãy làm đến cùng.
+何[なに]しろ | adv | HÀ | vì, bởi lẽ | {何しろ}初[はじ]めて | vì lần đầu mà | 何[なに]しろ量[りょう]が多[おお]いので時間[じかん]がかかる。 | Bởi lẽ lượng nhiều nên mất thời gian.
+例[れい]の | adv | LỆ | cái kia, chuyện đó | {例の}件[けん] | chuyện hôm đó | 例[れい]の件[けん]について相談[そうだん]したいのですが。 | Tôi muốn bàn về chuyện hôm đó.
+依然[いぜん] | adv | Y NHIÊN | vẫn, y nguyên | {依然}として | vẫn như cũ | 問題[もんだい]は依然[いぜん]として解決[かいけつ]していない。 | Vấn đề vẫn chưa được giải quyết.
+各々[おのおの] | adv | CÁC CÁC | mỗi người, từng cá nhân | {各々}の意見[いけん] | ý kiến mỗi người | 各々[おのおの]が責任[せきにん]を持[も]って行動[こうどう]してください。 | Mỗi người hãy hành động có trách nhiệm.
+専[もっぱ]ら | adv | CHUYÊN | chủ yếu, toàn bộ | {専ら}研究[けんきゅう]に | chủ yếu dành cho nghiên cứu | 最近[さいきん]は専[もっぱ]ら読書[どくしょ]に時間[じかん]を使[つか]っている。 | Gần đây chủ yếu dành thời gian đọc sách.
+明[あ]くる | adv | MINH | hôm sau, ngày hôm sau | {明くる}日[ひ] | ngày hôm sau | 明[あ]くる朝[あさ]、目[め]が覚[さ]めると雪[ゆき]が積[つ]もっていた。 | Sáng hôm sau tỉnh dậy thấy tuyết phủ trắng.
+漠然[ばくぜん]と | adv | MẠC NHIÊN | mơ hồ, mông lung | {漠然と}した不安[ふあん] | nỗi lo mơ hồ | 将来[しょうらい]に対[たい]して漠然[ばくぜん]とした不安[ふあん]を感[かん]じる。 | Cảm thấy lo lắng mơ hồ về tương lai.
+現[げん]に | adv | HIỆN | thực tế, trên thực tế | {現に}起[お]きている | thực tế đang xảy ra | 現[げん]にその問題[もんだい]で困[こま]っている人[ひと]がいる。 | Thực tế có người đang gặp khó khăn vì vấn đề đó.
+言[い]わば | adv | NGÔN | có thể nói là | {言わば}第二[だいに]の故郷[こきょう] | có thể nói là quê hương thứ hai | この街[まち]は言[い]わば私[わたし]の第二[だいに]の故郷[こきょう]だ。 | Thành phố này có thể nói là quê hương thứ hai của tôi.
+追[お]って | adv | TRUY | sau, sẽ thông báo sau | {追って}連絡[れんらく]する | sẽ liên lạc sau | 日程[にってい]が決[き]まり次第[しだい]、追[お]って連絡[れんらく]します。 | Khi lịch trình được quyết định, sẽ liên lạc sau.
+しいて | adv | - | cố, miễn cưỡng | {しいて}言[い]えば | nếu cố nói thì | しいて言[い]えば、もう少[すこ]し塩[しお]が欲[ほ]しい。 | Nếu cố nói thì muốn thêm chút muối.
+さしあたり | adv | - | trước mắt, hiện tại | {さしあたり}問題[もんだい]ない | trước mắt không vấn đề | さしあたり必要[ひつよう]な資料[しりょう]を集[あつ]めよう。 | Trước mắt hãy thu thập tài liệu cần thiết.
+くれぐれも | adv | - | nhất định, hết sức | {くれぐれも}注意[ちゅうい]する | hết sức chú ý | くれぐれもお体[からだ]にお気[き]をつけてください。 | Hết sức giữ gìn sức khỏe nhé.
+とりわけ | adv | - | đặc biệt, nhất là | {とりわけ}重要[じゅうよう] | đặc biệt quan trọng | 今回[こんかい]の改革[かいかく]ではとりわけ教育[きょういく]が重視[じゅうし]されている。 | Trong cải cách lần này, giáo dục đặc biệt được coi trọng.
+ことごとく | adv | - | tất cả, toàn bộ | {ことごとく}失敗[しっぱい] | toàn bộ thất bại | 提案[ていあん]はことごとく却下[きゃっか]された。 | Các đề xuất toàn bộ bị bác bỏ.
+おおよそ | adv | - | khoảng chừng, đại khái | {おおよそ}の見当[けんとう] | phỏng đoán đại khái | 完成[かんせい]までおおよそ3か月[げつ]かかる見込[みこ]みだ。 | Dự kiến mất khoảng 3 tháng để hoàn thành.
+おのずと | adv | - | tự nhiên, đương nhiên | - | - | 努力[どりょく]を続[つづ]ければ、おのずと結果[けっか]はついてくる。 | Nếu tiếp tục nỗ lực, kết quả sẽ tự đến.
+もっぱら | adv | - | chuyên, chủ yếu | - | - | 最近[さいきん]はもっぱら自炊[じすい]している。 | Dạo này chủ yếu tự nấu ăn.
+さぞかし | adv | - | hẳn là, chắc hẳn | - | - | 合格[ごうかく]してさぞかし嬉[うれ]しかったでしょう。 | Đỗ rồi chắc hẳn vui lắm nhỉ.
+おそらく | adv | - | có lẽ, chắc là | - | - | おそらく明日[あした]は雨[あめ]だろう。 | Có lẽ ngày mai sẽ mưa.
+おもむろに | adv | - | thong thả, từ từ | - | - | 彼[かれ]はおもむろにポケットから手紙[てがみ]を取[と]り出[だ]した。 | Anh ấy thong thả lấy lá thư từ túi ra.
+がらっと | adv | - | hoàn toàn, đột ngột | - | - | 方針[ほうしん]ががらっと変[か]わった。 | Phương châm thay đổi hoàn toàn.
+ぱったり | adv | - | đột ngột ngừng | - | - | 連絡[れんらく]がぱったり途絶[とだ]えた。 | Liên lạc đột ngột bặt tin.
+しっくり | adv | - | vừa vặn, hòa hợp | - | - | 新[あたら]しい職場[しょくば]にしっくりなじんだ。 | Hòa hợp với nơi làm việc mới.
+はっと | adv | - | giật mình, chợt nhận ra | - | - | はっと気[き]づいて忘[わす]れ物[もの]を取[と]りに戻[もど]った。 | Chợt nhận ra rồi quay lại lấy đồ quên.
+ぎょっと | adv | - | giật mình sợ | - | - | 暗闇[くらやみ]で人影[ひとかげ]を見[み]てぎょっとした。 | Nhìn thấy bóng người trong bóng tối giật mình sợ.
+いわば | adv | - | nói cách khác, có thể nói | - | - | 彼[かれ]はいわばチームの大黒柱[だいこくばしら]だ。 | Có thể nói anh ấy là trụ cột của đội.
+つまるところ | adv | - | nói cho cùng, rốt cuộc | - | - | つまるところ、お金[かね]の問題[もんだい]だ。 | Nói cho cùng thì là vấn đề tiền bạc.
+おまけに | conj | - | hơn nữa, thêm vào đó | - | - | 雨[あめ]が降[ふ]り、おまけに風[かぜ]も強[つよ]かった。 | Mưa rơi, hơn nữa gió cũng mạnh.
+しかるに | conj | - | tuy nhiên, thế nhưng | - | - | 努力[どりょく]した。しかるに結果[けっか]は出[で]なかった。 | Đã nỗ lực. Tuy nhiên không có kết quả.
+かたや | adv | - | một bên thì, trái lại | - | - | かたや賛成[さんせい]、かたや反対[はんたい]で議論[ぎろん]が紛糾[ふんきゅう]した。 | Một bên tán thành, một bên phản đối, tranh luận rối ren.
+とはいえ | conj | - | tuy vậy, dù sao | - | - | 景気[けいき]は回復[かいふく]した。とはいえ、まだ油断[ゆだん]はできない。 | Kinh tế phục hồi. Tuy vậy, vẫn chưa thể lơ là.
+にもかかわらず | conj | - | bất chấp, mặc dù | - | - | 警告[けいこく]にもかかわらず、彼[かれ]は計画[けいかく]を実行[じっこう]した。 | Bất chấp cảnh cáo, anh ấy vẫn thực hiện kế hoạch.
+さりとて | conj | - | tuy nhiên, dù vậy | - | - | 問題[もんだい]は認識[にんしき]している。さりとて、すぐには解決[かいけつ]できない。 | Nhận thức được vấn đề. Tuy nhiên, không thể giải quyết ngay.
+それにしても | conj | - | dù sao đi nữa, cho dù vậy | - | - | 忙[いそが]しいのは分[わ]かる。それにしても連絡[れんらく]くらいはできるだろう。 | Biết là bận. Nhưng dù sao cũng liên lạc được chứ.
+ちゃっかり | adv | - | tỉnh bơ trục lợi, khéo léo | - | - | ちゃっかり先輩[せんぱい]におごってもらった。 | Tỉnh bơ xin anh chị trả tiền.
+しぶしぶ | adv | - | miễn cưỡng, bất đắc dĩ | - | - | しぶしぶ承諾[しょうだく]した。 | Miễn cưỡng chấp nhận.
+ぼちぼち | adv | - | từ từ, lần lần | - | - | そろそろぼちぼち帰[かえ]ろうか。 | Từ từ về thôi nhỉ.
+ぐるぐる | adv | - | xoay vòng vòng | - | - | 道[みち]に迷[まよ]ってぐるぐる回[まわ]ってしまった。 | Lạc đường cứ đi vòng vòng.
+おどおど | adv | - | rụt rè, sợ sệt | - | - | 初[はじ]めての面接[めんせつ]でおどおどしてしまった。 | Phỏng vấn lần đầu nên rụt rè quá.
+うじうじ | adv | - | do dự, lưỡng lự | - | - | うじうじ悩[なや]んでいないで決[き]めなさい。 | Đừng do dự nữa, hãy quyết định đi.
+もたもた | adv | - | chậm chạp, lề mề | - | - | もたもたしていると電車[でんしゃ]に乗[の]り遅[おく]れるよ。 | Lề mề thế thì lỡ tàu đấy.
+じわじわ | adv | - | từ từ, dần dần | - | - | 物価[ぶっか]がじわじわと上[あ]がっている。 | Vật giá đang từ từ tăng lên.
+ずるずる | adv | - | kéo lê, lần lữa | - | - | 決断[けつだん]をずるずる先延[さきの]ばしにしている。 | Cứ lần lữa trì hoãn quyết định.
+ぱっと | adv | - | phắt, nhanh chóng | - | - | 花火[はなび]がぱっと夜空[よぞら]に咲[さ]いた。 | Pháo hoa nở phắt trên bầu trời đêm.
+ずばっと | adv | - | thẳng thắn, dứt khoát | - | - | ずばっと意見[いけん]を言[い]ってくれて助[たす]かった。 | Cảm ơn vì đã nói ý kiến thẳng thắn.
+ぽつんと | adv | - | chơ vơ, lẻ loi | - | - | 広場[ひろば]にぽつんと一本[いっぽん]の木[き]が立[た]っている。 | Giữa quảng trường chơ vơ một cái cây.
+ぼそっと | adv | - | lẩm bẩm, nói nhỏ | - | - | 彼[かれ]はぼそっと不満[ふまん]を漏[も]らした。 | Anh ấy lẩm bẩm bất mãn.
+ぬるっと | adv | - | trơn tuột, nhẹ nhàng | - | - | 魚[さかな]がぬるっと手[て]から滑[すべ]り落[お]ちた。 | Con cá trơn tuột khỏi tay.
+ひとえに | adv | - | hoàn toàn, chỉ nhờ | - | - | 成功[せいこう]はひとえに皆[みな]さんのおかげです。 | Thành công hoàn toàn là nhờ mọi người.
+まんまと | adv | - | dễ dàng bị mắc bẫy | - | - | 詐欺師[さぎし]にまんまと騙[だま]された。 | Bị kẻ lừa đảo lừa dễ dàng.
+あからさまに | adv | - | công khai, lộ liễu | - | - | あからさまに嫌[いや]な顔[かお]をされた。 | Bị lộ liễu tỏ vẻ mặt ghét.
+いささか | adv | - | hơi, chút ít | - | - | その意見[いけん]にはいささか疑問[ぎもん]がある。 | Ý kiến đó hơi có chút nghi vấn.
+おおむね | adv | - | đại thể, nhìn chung | - | - | 計画[けいかく]はおおむね順調[じゅんちょう]に進[すす]んでいる。 | Kế hoạch nhìn chung đang tiến triển thuận lợi.
+まさしく | adv | - | đúng là, chính xác | - | - | これはまさしく私[わたし]が探[さが]していたものだ。 | Đây đúng là thứ tôi đang tìm kiếm.
+すこぶる | adv | - | rất, hết sức | - | - | 今日[きょう]はすこぶる体調[たいちょう]がいい。 | Hôm nay sức khỏe rất tốt.
+いかにも | adv | - | quả thực, đúng kiểu | - | - | いかにも日本的[にほんてき]な庭園[ていえん]だ。 | Quả thực là khu vườn đúng kiểu Nhật.
+さもなくば | conj | - | nếu không thì | - | - | 今[いま]すぐ出発[しゅっぱつ]しなさい。さもなくば間[ま]に合[あ]わない。 | Hãy xuất phát ngay. Nếu không sẽ không kịp.
+ともあれ | adv | - | dù sao đi nữa | - | - | ともあれ無事[ぶじ]でよかった。 | Dù sao đi nữa thì không sao là tốt rồi.
+それはさておき | conj | - | nói chuyện khác | - | - | それはさておき、本題[ほんだい]に入[はい]りましょう。 | Nói chuyện khác, hãy vào đề chính.
+いずれにせよ | adv | - | dù thế nào đi nữa | - | - | いずれにせよ、結論[けつろん]は変[か]わらない。 | Dù thế nào đi nữa thì kết luận không đổi.
+概[がい]して | adv | KHÁI | nhìn chung | - | - | 概[がい]して今年[ことし]の業績[ぎょうせき]は好調[こうちょう]だった。 | Nhìn chung kết quả kinh doanh năm nay tốt.
+強[し]いて | adv | CƯỜNG | nếu cố mà nói thì | - | - | 強[し]いて言[い]えば、もう少[すこ]し塩[しお]が欲[ほ]しい。 | Nếu cố mà nói thì muốn thêm chút muối.
+敢[あ]えて | adv | CẢM | dám, cố tình | - | - | 敢[あ]えて反対[はんたい]意見[いけん]を述[の]べた。 | Cố tình nêu ý kiến phản đối.
+よりによって | adv | - | lại hà cớ gì | - | - | よりによって大事[だいじ]な日[ひ]に風邪[かぜ]を引[ひ]いた。 | Lại hà cớ gì ngày quan trọng lại bị cảm.
+しかと | adv | - | rõ ràng, chắc chắn | - | - | しかと覚[おぼ]えておきなさい。 | Hãy nhớ cho thật rõ ràng.
+ひとしきり | adv | - | một hồi | - | - | ひとしきり笑[わら]った後[あと]、真面目[まじめ]な話[はなし]になった。 | Sau khi cười một hồi thì chuyển sang chuyện nghiêm túc.
+ひっきりなしに | adv | - | liên tục không ngừng | - | - | 電話[でんわ]がひっきりなしに鳴[な]っている。 | Điện thoại reo liên tục không ngừng.
+よもや | adv | - | chẳng lẽ, không ngờ | - | - | よもやこんな結果[けっか]になるとは思[おも]わなかった。 | Không ngờ lại ra kết quả thế này.
+まんざら | adv | - | không hẳn là (không) | - | - | まんざら嘘[うそ]でもなさそうだ。 | Có vẻ không hẳn là nói dối.
+あっけなく | adv | - | dễ dàng đến bất ngờ | - | - | あっけなく試合[しあい]が終[お]わってしまった。 | Trận đấu kết thúc dễ dàng đến bất ngờ.
+まざまざ | adv | - | rõ mồn một | - | - | 現実[げんじつ]をまざまざと見[み]せつけられた。 | Bị cho thấy hiện thực rõ mồn một.
+つぶさに | adv | - | tỉ mỉ, chi tiết | - | - | 事件[じけん]の経緯[けいい]をつぶさに調[しら]べた。 | Điều tra tỉ mỉ diễn biến sự kiện.
+あたかも | adv | - | y như thể | - | - | あたかも自分[じぶん]が見[み]たかのように語[かた]った。 | Kể y như thể mình đã tận mắt chứng kiến.
+さながら | adv | - | chẳng khác gì | - | - | 会場[かいじょう]はさながら戦場[せんじょう]のようだった。 | Hội trường chẳng khác gì chiến trường.
+そもそも | adv | - | ngay từ đầu, xét cho cùng | - | - | そもそもこの計画[けいかく]に無理[むり]があった。 | Ngay từ đầu kế hoạch này đã không khả thi.
+えてして | adv | - | hay có xu hướng | - | - | 人[ひと]はえてして自分[じぶん]に甘[あま]くなりがちだ。 | Con người hay có xu hướng dễ dãi với bản thân.
+おしなべて | adv | - | nói chung, đại khái | - | - | おしなべて成績[せいせき]は良好[りょうこう]だった。 | Nói chung thành tích đều tốt.

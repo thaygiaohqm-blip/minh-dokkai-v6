@@ -1,0 +1,129 @@
+@topic t16
+@ja 機械[きかい]・技術[ぎじゅつ]
+@vi Máy móc và kỹ thuật
+@desc Thiết bị, cấu tạo, vận hành và bảo dưỡng, phát minh, kích thước đo lường và các động tác thao tác với máy.
+機器[きき] | n | CƠ KHÍ | thiết bị | 電子[でんし] {機器[きき]} | thiết bị điện tử | 機内[きない]では電子[でんし]機器[きき]の電源[でんげん]を切[き]ってください。 | Trên máy bay hãy tắt thiết bị điện tử.
+装置[そうち] | n | TRANG TRÍ | thiết bị, máy | 安全[あんぜん] {装置[そうち]} | thiết bị an toàn | この機械[きかい]には安全[あんぜん]装置[そうち]がついています。 | Máy này có lắp thiết bị an toàn.
+器具[きぐ] | n | KHÍ CỤ | dụng cụ | - | - | 台所[だいどころ]の器具[きぐ]をきれいに洗[あら]います。 | Rửa sạch dụng cụ nhà bếp.
+工具[こうぐ] | n | CÔNG CỤ | dụng cụ cơ khí | - | - | 工具[こうぐ]を使[つか]って棚[たな]を作[つく]りました。 | Tôi dùng dụng cụ làm kệ.
+部分[ぶぶん] | n | BỘ PHẬN | phần, bộ phận | - | - | この部分[ぶぶん]が壊[こわ]れています。 | Phần này bị hỏng.
+全体[ぜんたい] | n | TOÀN THỂ | toàn thể, tổng thể | - | - | 計画[けいかく]の全体[ぜんたい]を説明[せつめい]します。 | Tôi giải thích tổng thể kế hoạch.
+仕組[しく]み | n | SĨ TỔ | cơ chế, cấu tạo | - | - | この機械[きかい]の仕組[しく]みを知[し]りたいです。 | Tôi muốn biết cơ chế của máy này.
+構造[こうぞう] | n | CẤU TẠO | cấu trúc | - | - | この建物[たてもの]は地震[じしん]に強[つよ]い構造[こうぞう]です。 | Tòa nhà này có cấu trúc chịu động đất tốt.
+原理[げんり] | n | NGUYÊN LÝ | nguyên lý | - | - | 飛行機[ひこうき]が飛[と]ぶ原理[げんり]を習[なら]いました。 | Tôi đã học nguyên lý máy bay bay.
+発明[はつめい] | n,v3 | PHÁT MINH | phát minh | - | - | 電話[でんわ]を発明[はつめい]したのはベルです。 | Người phát minh ra điện thoại là Bell.
+発見[はっけん] | n,v3 | PHÁT KIẾN | phát hiện | - | - | 新[あたら]しい星[ほし]が発見[はっけん]されました。 | Một ngôi sao mới đã được phát hiện.
+改良[かいりょう] | n,v3 | CẢI LƯƠNG | cải tiến | - | - | 製品[せいひん]を改良[かいりょう]して使[つか]いやすくしました。 | Đã cải tiến sản phẩm cho dễ dùng hơn.
+発達[はったつ] | n,v3 | PHÁT ĐẠT | phát triển | - | - | 技術[ぎじゅつ]の発達[はったつ]で生活[せいかつ]が便利[べんり]になりました。 | Nhờ kỹ thuật phát triển, cuộc sống tiện lợi hơn.
+発展[はってん] | n,v3 | PHÁT TRIỂN | phát triển (mở rộng) | - | - | この町[まち]は観光[かんこう]で発展[はってん]しました。 | Thị trấn này phát triển nhờ du lịch.
+自動[じどう] | n | TỰ ĐỘNG | tự động | {自動[じどう]} ドア | cửa tự động | 自動[じどう]ドアが開[ひら]きませんでした。 | Cửa tự động không mở.
+自動化[じどうか] | n,v3 | TỰ ĐỘNG HÓA | tự động hóa | - | - | 工場[こうじょう]の作業[さぎょう]を自動化[じどうか]しました。 | Đã tự động hóa công việc trong nhà máy.
+手動[しゅどう] | n | THỦ ĐỘNG | thủ công, bằng tay | - | - | 停電[ていでん]の時[とき]は手動[しゅどう]でドアを開[あ]けます。 | Khi mất điện mở cửa bằng tay.
+人工[じんこう] | n | NHÂN CÔNG | nhân tạo | {人工[じんこう]} 知能[ちのう] | trí tuệ nhân tạo | 人工[じんこう]知能[ちのう]の研究[けんきゅう]が進[すす]んでいます。 | Nghiên cứu trí tuệ nhân tạo đang tiến triển.
+ロボット | n | - | rô-bốt | - | - | 工場[こうじょう]ではロボットが働[はたら]いています。 | Trong nhà máy rô-bốt đang làm việc.
+電子[でんし] | n | ĐIỆN TỬ | điện tử | - | - | 電子[でんし]辞書[じしょ]で言葉[ことば]を調[しら]べます。 | Tôi tra từ bằng từ điển điện tử.
+製造[せいぞう] | n,v3 | CHẾ TẠO | chế tạo, sản xuất | - | - | この工場[こうじょう]では車[くるま]の部品[ぶひん]を製造[せいぞう]しています。 | Nhà máy này sản xuất linh kiện ô tô.
+組[く]み立[た]て | n | TỔ LẬP | lắp ráp | - | - | 工場[こうじょう]で組[く]み立[た]ての仕事[しごと]をしています。 | Tôi làm công việc lắp ráp ở nhà máy.
+原料[げんりょう] | n | NGUYÊN LIỆU | nguyên liệu | - | - | パンの原料[げんりょう]は小麦粉[こむぎこ]です。 | Nguyên liệu bánh mì là bột mì.
+燃料[ねんりょう] | n | NHIÊN LIỆU | nhiên liệu | - | - | 車[くるま]の燃料[ねんりょう]が少[すく]なくなりました。 | Nhiên liệu xe sắp hết.
+電力[でんりょく] | n | ĐIỆN LỰC | điện năng | - | - | 夏[なつ]は電力[でんりょく]の使用[しよう]量[りょう]が増[ふ]えます。 | Mùa hè lượng điện sử dụng tăng.
+使用[しよう] | n,v3 | SỬ DỤNG | sử dụng | {使用[しよう]} 中[ちゅう] | đang sử dụng | トイレは使用[しよう]中[ちゅう]です。 | Nhà vệ sinh đang có người.
+電流[でんりゅう] | n | ĐIỆN LƯU | dòng điện | - | - | 電流[でんりゅう]が流[なが]れているので触[さわ]らないでください。 | Có dòng điện chạy, đừng chạm vào.
+電線[でんせん] | n | ĐIỆN TUYẾN | dây điện | - | - | 電線[でんせん]に鳥[とり]がとまっています。 | Chim đậu trên dây điện.
+配線[はいせん] | n,v3 | PHỐI TUYẾN | đi dây điện | - | - | パソコンの配線[はいせん]がごちゃごちゃです。 | Dây máy tính lộn xộn.
+センサー | n | - | cảm biến | - | - | 人[ひと]が近[ちか]づくとセンサーで電気[でんき]がつきます。 | Người đến gần thì cảm biến bật đèn.
+測定[そくてい] | n,v3 | TRẮC ĐỊNH | đo lường | - | - | 部屋[へや]の温度[おんど]を測定[そくてい]します。 | Đo nhiệt độ phòng.
+精密[せいみつ] | adj-na | TINH MẬT | chính xác, tinh vi | {精密[せいみつ]} 機械[きかい] | máy móc tinh vi | 精密[せいみつ]機械[きかい]は丁寧[ていねい]に扱[あつか]ってください。 | Máy móc tinh vi hãy xử lý cẩn thận.
+扱[あつか]う | v1 | TRÁP | xử lý, sử dụng, đối xử | - | - | 割[わ]れ物[もの]なので丁寧[ていねい]に扱[あつか]ってください。 | Hàng dễ vỡ, xin xử lý cẩn thận.
+正確[せいかく] | adj-na | CHÍNH XÁC | chính xác | - | - | 時間[じかん]を正確[せいかく]に測[はか]ります。 | Đo thời gian chính xác.
+性能[せいのう] | n | TÍNH NĂNG | tính năng | 性能[せいのう] が いい | tính năng tốt | このパソコンは性能[せいのう]がいいです。 | Máy tính này tính năng tốt.
+効果[こうか] | n | HIỆU QUẢ | hiệu quả | 効果[こうか] が ある | có hiệu quả | この薬[くすり]は効果[こうか]があります。 | Thuốc này có hiệu quả.
+有効[ゆうこう] | adj-na | HỮU HIỆU | có hiệu lực | {有効[ゆうこう]} 期限[きげん] | thời hạn hiệu lực | カードの有効[ゆうこう]期限[きげん]が切[き]れています。 | Thẻ đã hết hạn hiệu lực.
+無効[むこう] | adj-na | VÔ HIỆU | vô hiệu | - | - | このチケットは無効[むこう]です。 | Vé này vô hiệu.
+作動[さどう] | n,v3 | TÁC ĐỘNG | vận hành, hoạt động | - | - | 火災報知器[かさいほうちき]が作動[さどう]しました。 | Chuông báo cháy đã hoạt động.
+起動[きどう] | n,v3 | KHỞI ĐỘNG | khởi động | - | - | パソコンが起動[きどう]しません。 | Máy tính không khởi động.
+停止[ていし] | n,v3 | ĐÌNH CHỈ | dừng | - | - | 機械[きかい]が急[きゅう]に停止[ていし]しました。 | Máy đột ngột dừng.
+点検[てんけん] | n,v3 | ĐIỂM KIỂM | kiểm tra | - | - | 毎朝[まいあさ]機械[きかい]を点検[てんけん]します。 | Sáng nào cũng kiểm tra máy.
+整備[せいび] | n,v3 | CHỈNH BỊ | bảo dưỡng | - | - | 車[くるま]を整備[せいび]に出[だ]しました。 | Tôi mang xe đi bảo dưỡng.
+調整[ちょうせい] | n,v3 | ĐIỀU CHỈNH | điều chỉnh | - | - | 椅子[いす]の高[たか]さを調整[ちょうせい]しました。 | Tôi chỉnh độ cao của ghế.
+調節[ちょうせつ] | n,v3 | ĐIỀU TIẾT | điều tiết | 温度[おんど] を {調節[ちょうせつ]}する | điều chỉnh nhiệt độ | エアコンで温度[おんど]を調節[ちょうせつ]します。 | Điều chỉnh nhiệt độ bằng điều hòa.
+取[と]り扱[あつか]い | n | THỦ TRÁP | cách sử dụng, xử lý | {取[と]り扱[あつか]い} 説明書[せつめいしょ] | sách hướng dẫn sử dụng | 取[と]り扱[あつか]い説明書[せつめいしょ]をよく読[よ]んでください。 | Hãy đọc kỹ sách hướng dẫn sử dụng.
+取[と]り付[つ]ける | v2 | THỦ PHÓ | lắp đặt | - | - | 部屋[へや]にエアコンを取[と]り付[つ]けました。 | Tôi lắp điều hòa trong phòng.
+取[と]り外[はず]す | v1 | THỦ NGOẠI | tháo ra | - | - | 古[ふる]い部品[ぶひん]を取[と]り外[はず]します。 | Tháo linh kiện cũ ra.
+差[さ]し込[こ]む | v1 | SAI NHẬP | cắm vào | - | - | プラグをコンセントに差[さ]し込[こ]みます。 | Cắm phích vào ổ điện.
+抜[ぬ]く | v1 | BẠT | rút ra | - | - | 使[つか]わない時[とき]はプラグを抜[ぬ]いてください。 | Khi không dùng hãy rút phích cắm.
+回[まわ]す | v1 | HỒI | xoay | - | - | ねじを右[みぎ]に回[まわ]してください。 | Hãy xoay ốc sang phải.
+締[し]める | v2 | ĐẾ | siết, thắt | ねじ を 締[し]める | siết ốc | ねじをしっかり締[し]めてください。 | Hãy siết ốc thật chặt.
+緩[ゆる]める | v2 | HOÃN | nới lỏng | - | - | ベルトを少[すこ]し緩[ゆる]めました。 | Tôi nới thắt lưng một chút.
+緩[ゆる]い | adj-i | HOÃN | lỏng | - | - | このねじは緩[ゆる]いです。 | Con ốc này lỏng.
+引[ひ]っ張[ぱ]る | v1 | DẪN TRƯƠNG | kéo | - | - | ロープを強[つよ]く引[ひ]っ張[ぱ]ってください。 | Hãy kéo mạnh sợi dây.
+持[も]ち上[あ]げる | v2 | TRÌ THƯỢNG | nâng lên | - | - | 重[おも]い箱[はこ]を持[も]ち上[あ]げました。 | Tôi nâng chiếc hộp nặng lên.
+重量[じゅうりょう] | n | TRỌNG LƯỢNG | trọng lượng | - | - | この荷物[にもつ]の重量[じゅうりょう]は十[じゅっ]キロです。 | Kiện hàng này nặng 10 kg.
+容量[ようりょう] | n | DUNG LƯỢNG | dung lượng | - | - | スマホの容量[ようりょう]がいっぱいです。 | Bộ nhớ điện thoại đã đầy.
+寸法[すんぽう] | n | THỐN PHÁP | kích thước | 寸法[すんぽう] を 測[はか]る | đo kích thước | 窓[まど]の寸法[すんぽう]を測[はか]ってカーテンを買[か]います。 | Đo kích thước cửa sổ rồi mua rèm.
+幅[はば] | n | PHÚC | chiều rộng | - | - | この道[みち]は幅[はば]が狭[せま]いです。 | Con đường này hẹp.
+高[たか]さ | n | CAO | chiều cao | - | - | 東京[とうきょう]タワーの高[たか]さは三百[さんびゃく]三十三[さんじゅうさん]メートルです。 | Tháp Tokyo cao 333 m.
+長[なが]さ | n | TRƯỜNG | chiều dài | - | - | ひもの長[なが]さを測[はか]りました。 | Tôi đo chiều dài sợi dây.
+厚[あつ]さ | n | HẬU | độ dày | - | - | 板[いた]の厚[あつ]さは二[に]センチです。 | Tấm gỗ dày 2 cm.
+重[おも]さ | n | TRỌNG | độ nặng | - | - | 荷物[にもつ]の重[おも]さを量[はか]ってください。 | Hãy cân độ nặng của hành lý.
+量[はか]る | v1 | LƯỢNG | cân, đong | - | - | 小麦粉[こむぎこ]を二百[にひゃく]グラム量[はか]ります。 | Cân 200 gram bột mì.
+面積[めんせき] | n | DIỆN TÍCH | diện tích | - | - | この部屋[へや]の面積[めんせき]は二十[にじゅう]平方[へいほう]メートルです。 | Diện tích phòng này 20 m².
+角度[かくど] | n | GIÁC ĐỘ | góc độ | - | - | カメラの角度[かくど]を変[か]えて撮[と]りました。 | Tôi đổi góc máy để chụp.
+速度[そくど] | n | TỐC ĐỘ | tốc độ | - | - | 速度[そくど]を落[お]として運転[うんてん]してください。 | Hãy giảm tốc độ khi lái.
+回転[かいてん] | n,v3 | HỒI CHUYỂN | quay, xoay | - | - | 機械[きかい]が高速[こうそく]で回転[かいてん]しています。 | Máy đang quay với tốc độ cao.
+振動[しんどう] | n,v3 | CHẤN ĐỘNG | rung động | - | - | 工事[こうじ]の振動[しんどう]で窓[まど]が揺[ゆ]れます。 | Rung động do thi công làm cửa sổ rung.
+圧力[あつりょく] | n | ÁP LỰC | áp lực | 圧力[あつりょく] を かける | gây áp lực | 上司[じょうし]に圧力[あつりょく]をかけられています。 | Tôi đang bị cấp trên gây áp lực.
+摩擦[まさつ] | n,v3 | MA SÁT | ma sát | - | - | 摩擦[まさつ]で熱[ねつ]が出[で]ます。 | Ma sát sinh nhiệt.
+モーター | n | - | động cơ điện | - | - | 扇風機[せんぷうき]のモーターが壊[こわ]れました。 | Mô tơ quạt máy bị hỏng.
+バッテリー | n | - | ắc quy, pin | バッテリー が 切[き]れる | hết pin | スマホのバッテリーが切[き]れました。 | Điện thoại hết pin.
+ねじ | n | - | con ốc | - | - | ねじが一[ひと]つ足[た]りません。 | Thiếu một con ốc.
+ドライバー | n | - | tua vít; tài xế | - | - | ドライバーでねじを外[はず]しました。 | Tôi tháo ốc bằng tua vít.
+板[いた] | n | BẢN | tấm ván | - | - | 板[いた]で本棚[ほんだな]を作[つく]りました。 | Tôi làm kệ sách bằng ván.
+針金[はりがね] | n | CHÂM KIM | dây thép | - | - | 針金[はりがね]で固定[こてい]しました。 | Tôi cố định bằng dây thép.
+固定[こてい] | n,v3 | CỐ ĐỊNH | cố định | - | - | 地震[じしん]に備[そな]えて家具[かぐ]を固定[こてい]しました。 | Tôi cố định đồ đạc phòng động đất.
+接着剤[せっちゃくざい] | n | TIẾP TRƯỚC TỄ | keo dán | - | - | 割[わ]れたカップを接着剤[せっちゃくざい]で直[なお]しました。 | Tôi gắn chiếc cốc vỡ bằng keo.
+くっつく | v1 | - | dính vào | - | - | ガムが靴[くつ]にくっつきました。 | Kẹo cao su dính vào giày.
+くっつける | v2 | - | gắn, dính | - | - | 二[ふた]つの机[つくえ]をくっつけました。 | Tôi ghép hai cái bàn lại.
+はがす | v1 | - | bóc ra | - | - | シールをはがしました。 | Tôi bóc miếng dán ra.
+はめる | v2 | - | lắp vào, đeo (nhẫn) | - | - | 指輪[ゆびわ]をはめました。 | Tôi đeo nhẫn.
+ずれる | v2 | - | lệch | - | - | 絵[え]の位置[いち]がずれています。 | Vị trí bức tranh bị lệch.
+位置[いち] | n,v3 | VỊ TRÍ | vị trí | - | - | 机[つくえ]の位置[いち]を変[か]えました。 | Tôi đổi vị trí bàn.
+傷[いた]む | v1 | THƯƠNG | hư hỏng, xuống cấp | - | - | 古[ふる]い家[いえ]は傷[いた]んでいます。 | Ngôi nhà cũ đã xuống cấp.
+錆[さ]びる | v2 | TINH | gỉ sét | - | - | 自転車[じてんしゃ]が雨[あめ]で錆[さ]びてしまいました。 | Xe đạp bị gỉ vì mưa.
+劣化[れっか] | n,v3 | LIỆT HÓA | xuống cấp | - | - | バッテリーが劣化[れっか]しています。 | Pin đã bị chai.
+寿命[じゅみょう] | n | THỌ MỆNH | tuổi thọ | - | - | この電球[でんきゅう]は寿命[じゅみょう]が長[なが]いです。 | Bóng đèn này tuổi thọ cao.
+耐[た]える | v2 | NẠI | chịu đựng | - | - | この橋[はし]は大[おお]きな地震[じしん]にも耐[た]えられます。 | Cây cầu này chịu được cả động đất lớn.
+頑丈[がんじょう] | adj-na | NGOAN TRƯỢNG | chắc chắn | - | - | 頑丈[がんじょう]な箱[はこ]に入[い]れて送[おく]ります。 | Cho vào hộp chắc chắn rồi gửi.
+壊[こわ]れやすい | adj-i | HOẠI | dễ vỡ | - | - | 壊[こわ]れやすい物[もの]が入[はい]っています。 | Bên trong có đồ dễ vỡ.
+試作[しさく] | n,v3 | THÍ TÁC | làm thử | - | - | 新製品[しんせいひん]を試作[しさく]しました。 | Đã làm thử sản phẩm mới.
+実用[じつよう] | n | THỰC DỤNG | thực dụng | {実用[じつよう]} 的[てき] | thiết thực | このかばんは実用[じつよう]的[てき]です。 | Chiếc túi này thiết thực.
+応用[おうよう] | n,v3 | ỨNG DỤNG | ứng dụng | - | - | 習[なら]ったことを仕事[しごと]に応用[おうよう]します。 | Ứng dụng điều đã học vào công việc.
+最先端[さいせんたん] | n | TỐI TIÊN ĐOAN | tiên tiến nhất | - | - | 最先端[さいせんたん]の技術[ぎじゅつ]を使[つか]っています。 | Đang dùng kỹ thuật tiên tiến nhất.
+技術者[ぎじゅつしゃ] | n | KỸ THUẬT GIẢ | kỹ sư, kỹ thuật viên | - | - | 兄[あに]は技術者[ぎじゅつしゃ]として働[はたら]いています。 | Anh tôi làm kỹ thuật viên.
+専門家[せんもんか] | n | CHUYÊN MÔN GIA | chuyên gia | - | - | 専門家[せんもんか]に相談[そうだん]してください。 | Hãy hỏi ý kiến chuyên gia.
+熟練[じゅくれん] | n,v3 | THỤC LUYỆN | thành thạo | - | - | 熟練[じゅくれん]した職人[しょくにん]が作[つく]っています。 | Do người thợ lành nghề làm.
+仕上[しあ]げる | v2 | SĨ THƯỢNG | hoàn thiện | - | - | 今日中[きょうじゅう]にレポートを仕上[しあ]げます。 | Tôi sẽ hoàn thiện báo cáo trong hôm nay.
+仕上[しあ]がり | n | SĨ THƯỢNG | thành phẩm, độ hoàn thiện | - | - | 仕上[しあ]がりがきれいです。 | Thành phẩm đẹp.
+手作業[てさぎょう] | n | THỦ TÁC NGHIỆP | làm bằng tay | - | - | この製品[せいひん]は手作業[てさぎょう]で作[つく]られています。 | Sản phẩm này được làm bằng tay.
+機械化[きかいか] | n,v3 | CƠ GIỚI HÓA | cơ giới hóa | - | - | 農業[のうぎょう]の機械化[きかいか]が進[すす]んでいます。 | Cơ giới hóa nông nghiệp đang tiến triển.
+暖[あたた]まる | v1 | NOÃN | ấm lên | - | - | ストーブで部屋[へや]が暖[あたた]まりました。 | Phòng ấm lên nhờ lò sưởi.
+沸騰[ふっとう] | n,v3 | PHÍ ĐẰNG | sôi | - | - | お湯[ゆ]が沸騰[ふっとう]したら火[ひ]を止[と]めます。 | Nước sôi thì tắt lửa.
+燃[も]え尽[つ]きる | v2 | NHIÊN TẬN | cháy hết | - | - | ろうそくが燃[も]え尽[つ]きました。 | Ngọn nến đã cháy hết.
+蛇口[じゃぐち] | n | XÀ KHẨU | vòi nước | 蛇口[じゃぐち] を ひねる | vặn vòi nước | 蛇口[じゃぐち]から水[みず]が漏[も]れています。 | Vòi nước bị rò.
+排水[はいすい] | n,v3 | BÀI THỦY | thoát nước | - | - | 台所[だいどころ]の排水[はいすい]が詰[つ]まりました。 | Ống thoát nước bếp bị tắc.
+詰[つ]まる | v1 | CẬT | bị tắc, đầy | - | - | 鼻[はな]が詰[つ]まっています。 | Mũi bị nghẹt.
+換気[かんき] | n,v3 | HOÁN KHÍ | thông gió | - | - | 窓[まど]を開[あ]けて換気[かんき]しましょう。 | Mở cửa sổ cho thông gió nhé.
+換気扇[かんきせん] | n | HOÁN KHÍ PHIẾN | quạt thông gió | - | - | 料理[りょうり]の時[とき]は換気扇[かんきせん]を回[まわ]します。 | Khi nấu ăn bật quạt thông gió.
+リモコン | n | - | điều khiển từ xa | - | - | テレビのリモコンが見[み]つかりません。 | Không tìm thấy điều khiển tivi.
+警報器[けいほうき] | n | CẢNH BÁO KHÍ | thiết bị báo động | - | - | 煙[けむり]で警報器[けいほうき]が鳴[な]りました。 | Khói làm thiết bị báo động kêu.
+防水[ぼうすい] | n | PHÒNG THỦY | chống nước | - | - | この時計[とけい]は防水[ぼうすい]です。 | Đồng hồ này chống nước.
+耐熱[たいねつ] | n | NẠI NHIỆT | chịu nhiệt | - | - | 耐熱[たいねつ]ガラスの容器[ようき]です。 | Đây là hộp thủy tinh chịu nhiệt.
+電動[でんどう] | n | ĐIỆN ĐỘNG | chạy điện | {電動[でんどう]} 自転車[じてんしゃ] | xe đạp điện | 電動[でんどう]自転車[じてんしゃ]で坂道[さかみち]も楽[らく]です。 | Xe đạp điện leo dốc cũng nhẹ.
+表示[ひょうじ] | n,v3 | BIỂU THỊ | hiển thị, ghi | - | - | 画面[がめん]にエラーが表示[ひょうじ]されました。 | Màn hình hiển thị lỗi.
+エラー | n | - | lỗi | - | - | エラーが出[で]て保存[ほぞん]できません。 | Có lỗi nên không lưu được.
+目盛[めも]り | n | MỤC THỊNH | vạch chia | - | - | 温度計[おんどけい]の目盛[めも]りを読[よ]みます。 | Đọc vạch chia trên nhiệt kế.
+温度計[おんどけい] | n | ÔN ĐỘ KẾ | nhiệt kế | - | - | 温度計[おんどけい]は二十五[にじゅうご]度[ど]を示[しめ]しています。 | Nhiệt kế chỉ 25 độ.
+示[しめ]す | v1 | THỊ | chỉ ra, biểu thị | - | - | 地図[ちず]で場所[ばしょ]を示[しめ]してください。 | Hãy chỉ vị trí trên bản đồ.
+組[く]み合[あ]わせる | v2 | TỔ HỢP | kết hợp | - | - | 二[ふた]つの方法[ほうほう]を組[く]み合[あ]わせました。 | Tôi kết hợp hai phương pháp.
+解体[かいたい] | n,v3 | GIẢI THỂ | tháo dỡ | - | - | 古[ふる]いビルを解体[かいたい]しています。 | Đang tháo dỡ tòa nhà cũ.
+分解[ぶんかい] | n,v3 | PHÂN GIẢI | tháo rời | - | - | 時計[とけい]を分解[ぶんかい]して直[なお]しました。 | Tôi tháo rời đồng hồ để sửa.

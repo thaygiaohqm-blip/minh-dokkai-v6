@@ -1,0 +1,129 @@
+@topic t04
+@ja 性格[せいかく]・感情[かんじょう]
+@vi Tính cách và cảm xúc
+@desc Từ mô tả tính cách, thái độ, cảm xúc vui buồn giận sợ và các từ tượng thái diễn tả tâm trạng.
+個性[こせい] | n | CÁ TÍNH | cá tính | 個性[こせい] を 生[い]かす | phát huy cá tính | 一人一人[ひとりひとり]の個性[こせい]を生[い]かしたいです。 | Tôi muốn phát huy cá tính của từng người.
+生[い]かす | v1 | SINH | tận dụng, phát huy | 経験[けいけん] を 生[い]かす | tận dụng kinh nghiệm | 前[まえ]の仕事[しごと]の経験[けいけん]を生[い]かしています。 | Tôi đang tận dụng kinh nghiệm công việc trước.
+人柄[ひとがら] | n | NHÂN BÍNH | nhân cách, con người | 人柄[ひとがら] が いい | người tốt | 彼[かれ]は人柄[ひとがら]がよくて、みんなに好[す]かれています。 | Anh ấy là người tốt nên được mọi người quý.
+性質[せいしつ] | n | TÍNH CHẤT | tính chất, bản tính | - | - | この犬[いぬ]はおとなしい性質[せいしつ]です。 | Con chó này bản tính hiền lành.
+陽気[ようき] | adj-na | DƯƠNG KHÍ | vui vẻ, sôi nổi | - | - | 彼女[かのじょ]は陽気[ようき]な人[ひと]です。 | Cô ấy là người vui vẻ.
+内気[うちき] | adj-na | NỘI KHÍ | nhút nhát, hướng nội | - | - | 内気[うちき]な性格[せいかく]を直[なお]したいです。 | Tôi muốn sửa tính nhút nhát.
+社交的[しゃこうてき] | adj-na | XÃ GIAO ĐÍCH | hòa đồng | - | - | 姉[あね]は社交的[しゃこうてき]で友達[ともだち]が多[おお]いです。 | Chị tôi hòa đồng nên nhiều bạn.
+几帳面[きちょうめん] | adj-na | KỶ TRƯỚNG DIỆN | cẩn thận, ngăn nắp | - | - | 父[ちち]は几帳面[きちょうめん]で、毎日[まいにち]日記[にっき]をつけています。 | Bố tôi ngăn nắp, ngày nào cũng viết nhật ký.
+大[おお]ざっぱ | adj-na | ĐẠI | qua loa, đại khái | - | - | 私[わたし]は大[おお]ざっぱな性格[せいかく]です。 | Tôi là người tính qua loa.
+慎重[しんちょう] | adj-na | THẬN TRỌNG | thận trọng | 慎重[しんちょう] に 考[かんが]える | suy nghĩ thận trọng | 大事[だいじ]なことなので慎重[しんちょう]に考[かんが]えます。 | Việc quan trọng nên tôi suy nghĩ thận trọng.
+大胆[だいたん] | adj-na | ĐẠI ĐẢM | táo bạo | - | - | 彼[かれ]の大胆[だいたん]な計画[けいかく]に驚[おどろ]きました。 | Tôi ngạc nhiên trước kế hoạch táo bạo của anh ấy.
+臆病[おくびょう] | adj-na | ỨC BỆNH | nhát gan | - | - | 弟[おとうと]は臆病[おくびょう]で、暗[くら]い所[ところ]が苦手[にがて]です。 | Em trai tôi nhát gan, sợ chỗ tối.
+意地悪[いじわる] | n,adj-na | Ý ĐỊA ÁC | xấu tính, ác ý | 意地悪[いじわる] を する | chơi xấu | 意地悪[いじわる]をしないで。 | Đừng chơi xấu.
+負[ま]けず嫌[ぎら]い | n,adj-na | PHỤ HIỀM | không chịu thua | - | - | 彼女[かのじょ]は負[ま]けず嫌[ぎら]いです。 | Cô ấy không chịu thua ai.
+生意気[なまいき] | adj-na | SINH Ý KHÍ | hỗn láo, xấc xược | - | - | 生意気[なまいき]なことを言[い]うな。 | Đừng nói giọng hỗn láo.
+図々[ずうずう]しい | adj-i | ĐỒ | trơ trẽn | - | - | 図々[ずうずう]しいお願[ねが]いですが…。 | Lời nhờ có hơi trơ trẽn nhưng...
+謙虚[けんきょ] | adj-na | KHIÊM HƯ | khiêm tốn | - | - | 彼[かれ]は成功[せいこう]しても謙虚[けんきょ]です。 | Dù thành công anh ấy vẫn khiêm tốn.
+控[ひか]えめ | adj-na | KHỐNG | khiêm nhường, vừa phải | - | - | 彼女[かのじょ]は控[ひか]えめな人[ひと]です。 | Cô ấy là người kín đáo khiêm nhường.
+上品[じょうひん] | adj-na | THƯỢNG PHẨM | thanh lịch | - | - | 上品[じょうひん]な話[はな]し方[かた]をする人[ひと]です。 | Đó là người có cách nói thanh lịch.
+下品[げひん] | adj-na | HẠ PHẨM | thô tục | - | - | 下品[げひん]な言葉[ことば]を使[つか]わないで。 | Đừng dùng lời thô tục.
+誠実[せいじつ] | adj-na | THÀNH THỰC | thành thật | - | - | 誠実[せいじつ]な対応[たいおう]に感謝[かんしゃ]しています。 | Tôi cảm ơn cách xử lý thành thật.
+率直[そっちょく] | adj-na | SUẤT TRỰC | thẳng thắn | 率直[そっちょく] な 意見[いけん] | ý kiến thẳng thắn | 率直[そっちょく]な意見[いけん]を聞[き]かせてください。 | Hãy cho tôi nghe ý kiến thẳng thắn.
+素朴[そぼく] | adj-na | TỐ PHÁC | mộc mạc | - | - | 素朴[そぼく]な疑問[ぎもん]があります。 | Tôi có một thắc mắc đơn giản.
+純粋[じゅんすい] | adj-na | THUẦN TÚY | thuần khiết, trong sáng | - | - | 子供[こども]の純粋[じゅんすい]な心[こころ]を大切[たいせつ]にしたいです。 | Tôi muốn trân trọng tâm hồn trong sáng của trẻ.
+単純[たんじゅん] | adj-na | ĐƠN THUẦN | đơn giản, ngây ngô | - | - | 彼[かれ]は単純[たんじゅん]だから、すぐ信[しん]じます。 | Anh ta đơn giản nên tin ngay.
+器用[きよう] | adj-na | KHÍ DỤNG | khéo tay | - | - | 母[はは]は手先[てさき]が器用[きよう]です。 | Mẹ tôi rất khéo tay.
+不器用[ぶきよう] | adj-na | BẤT KHÍ DỤNG | vụng về | - | - | 私[わたし]は不器用[ぶきよう]で料理[りょうり]が下手[へた]です。 | Tôi vụng về nên nấu ăn dở.
+敏感[びんかん] | adj-na | MẪN CẢM | nhạy cảm | - | - | 肌[はだ]が敏感[びんかん]なので、この石鹸[せっけん]を使[つか]っています。 | Da nhạy cảm nên tôi dùng xà phòng này.
+鈍感[どんかん] | adj-na | ĐỘN CẢM | vô tâm, chậm cảm nhận | - | - | 彼[かれ]は鈍感[どんかん]で、人[ひと]の気持[きも]ちに気[き]づきません。 | Anh ta vô tâm, không nhận ra cảm xúc người khác.
+気[き]づく | v1 | KHÍ | nhận ra | 間違[まちが]い に 気[き]づく | nhận ra lỗi | 家[いえ]に帰[かえ]ってから間違[まちが]いに気[き]づきました。 | Về nhà rồi tôi mới nhận ra lỗi.
+神経質[しんけいしつ] | adj-na | THẦN KINH CHẤT | dễ lo lắng, khó tính | - | - | 彼[かれ]は細[こま]かいことに神経質[しんけいしつ]です。 | Anh ta khó tính với những chuyện nhỏ.
+繊細[せんさい] | adj-na | TIÊM TẾ | tinh tế, mỏng manh | - | - | 彼女[かのじょ]は繊細[せんさい]で傷[きず]つきやすいです。 | Cô ấy nhạy cảm nên dễ tổn thương.
+傷[きず]つく | v1 | THƯƠNG | bị tổn thương | - | - | 彼[かれ]の言葉[ことば]に傷[きず]つきました。 | Tôi bị tổn thương vì lời anh ấy.
+穏[おだ]やか | adj-na | ỔN | ôn hòa | 穏[おだ]やか な 性格[せいかく] | tính ôn hòa | 祖父[そふ]は穏[おだ]やかな性格[せいかく]です。 | Ông tôi tính tình ôn hòa.
+冷淡[れいたん] | adj-na | LÃNH ĐẠM | lạnh nhạt | - | - | 冷淡[れいたん]な態度[たいど]をとられました。 | Tôi bị đối xử lạnh nhạt.
+気前[きまえ]がいい | exp | KHÍ TIỀN | hào phóng | - | - | 社長[しゃちょう]は気前[きまえ]がいいです。 | Giám đốc rất hào phóng.
+面倒見[めんどうみ] | n | DIỆN ĐẢO KIẾN | sự chăm lo người khác | 面倒見[めんどうみ] が いい | hay chăm lo | 先輩[せんぱい]は面倒見[めんどうみ]がいいです。 | Đàn anh rất hay chăm lo cho người khác.
+責任感[せきにんかん] | n | TRÁCH NHIỆM CẢM | tinh thần trách nhiệm | 責任感[せきにんかん] が 強[つよ]い | có trách nhiệm cao | 彼女[かのじょ]は責任感[せきにんかん]が強[つよ]いです。 | Cô ấy có tinh thần trách nhiệm cao.
+我慢強[がまんづよ]い | adj-i | NGÃ MẠN CƯỜNG | giỏi chịu đựng | - | - | 祖母[そぼ]は我慢強[がまんづよ]い人[ひと]でした。 | Bà tôi là người giỏi chịu đựng.
+粘[ねば]り強[づよ]い | adj-i | NIÊM CƯỜNG | kiên trì | - | - | 粘[ねば]り強[づよ]く交渉[こうしょう]しました。 | Tôi đã đàm phán kiên trì.
+飽[あ]きっぽい | adj-i | BÃO | mau chán | - | - | 私[わたし]は飽[あ]きっぽくて、何[なに]も続[つづ]きません。 | Tôi mau chán nên chẳng gì kéo dài được.
+飽[あ]きる | v2 | BÃO | chán | - | - | 毎日[まいにち]同[おな]じ料理[りょうり]で飽[あ]きました。 | Ngày nào cũng một món nên chán rồi.
+気[き]まぐれ | n,adj-na | KHÍ | thất thường | - | - | 猫[ねこ]は気[き]まぐれな動物[どうぶつ]です。 | Mèo là con vật thất thường.
+頑張[がんば]り屋[や] | n | NGOAN TRƯƠNG ỐC | người chăm chỉ cố gắng | - | - | 妹[いもうと]は頑張[がんば]り屋[や]です。 | Em gái tôi là người rất chịu cố gắng.
+恥[は]ずかしがり屋[や] | n | SỈ ỐC | người hay ngại | - | - | 息子[むすこ]は恥[は]ずかしがり屋[や]です。 | Con trai tôi hay ngại ngùng.
+前向[まえむ]き | adj-na | TIỀN HƯỚNG | tích cực, hướng về phía trước | 前向[まえむ]き に 考[かんが]える | nghĩ tích cực | 失敗[しっぱい]しても前向[まえむ]きに考[かんが]えましょう。 | Dù thất bại cũng hãy nghĩ tích cực.
+楽観的[らっかんてき] | adj-na | LẠC QUAN ĐÍCH | lạc quan | - | - | 彼[かれ]はいつも楽観的[らっかんてき]です。 | Anh ấy lúc nào cũng lạc quan.
+悲観的[ひかんてき] | adj-na | BI QUAN ĐÍCH | bi quan | - | - | そんなに悲観的[ひかんてき]にならないで。 | Đừng bi quan như vậy.
+興奮[こうふん] | n,v3 | HƯNG PHẤN | phấn khích | - | - | 試合[しあい]を見[み]て興奮[こうふん]しました。 | Xem trận đấu tôi đã phấn khích.
+感激[かんげき] | n,v3 | CẢM KÍCH | xúc động | - | - | 彼[かれ]の優[やさ]しさに感激[かんげき]しました。 | Tôi xúc động trước sự tốt bụng của anh ấy.
+感心[かんしん] | n,v3,adj-na | CẢM TÂM | thán phục | - | - | 彼[かれ]の努力[どりょく]に感心[かんしん]しました。 | Tôi thán phục nỗ lực của anh ấy.
+憎[にく]い | adj-i | TĂNG | đáng ghét | - | - | 犯人[はんにん]が憎[にく]いです。 | Tôi căm ghét thủ phạm.
+憎[にく]む | v1 | TĂNG | căm ghét | - | - | 人[ひと]を憎[にく]んでも何[なに]も変[か]わりません。 | Ghét người khác cũng không thay đổi được gì.
+恐怖[きょうふ] | n | KHỦNG BỐ | nỗi sợ hãi | 恐怖[きょうふ] を 感[かん]じる | cảm thấy sợ | 地震[じしん]の時[とき]、強[つよ]い恐怖[きょうふ]を感[かん]じました。 | Khi động đất tôi cảm thấy rất sợ.
+焦[あせ]る | v1 | TIÊU | sốt ruột, cuống | - | - | 時間[じかん]がなくて焦[あせ]りました。 | Không còn thời gian nên tôi cuống lên.
+戸惑[とまど]う | v1 | HỘ HOẶC | bối rối | - | - | 急[きゅう]に質問[しつもん]されて戸惑[とまど]いました。 | Bị hỏi đột ngột nên tôi bối rối.
+呆[あき]れる | v2 | NGAI | sửng sốt, chán ngán | - | - | 彼[かれ]の態度[たいど]には呆[あき]れました。 | Tôi chán ngán với thái độ của anh ta.
+照[て]れる | v2 | CHIẾU | ngượng | - | - | 褒[ほ]められて照[て]れてしまいました。 | Được khen nên tôi ngượng.
+気[き]まずい | adj-i | KHÍ | ngượng ngùng, khó xử | - | - | 喧嘩[けんか]の後[あと]は気[き]まずいです。 | Sau khi cãi nhau thì thấy khó xử.
+情[なさ]けない | adj-i | TÌNH | đáng xấu hổ, thảm hại | - | - | こんな簡単[かんたん]なミスをして情[なさ]けないです。 | Mắc lỗi đơn giản thế này thật đáng xấu hổ.
+惨[みじ]め | adj-na | THẢM | khốn khổ | - | - | 惨[みじ]めな気持[きも]ちになりました。 | Tôi thấy mình thật khốn khổ.
+切[せつ]ない | adj-i | THIẾT | day dứt, buồn man mác | - | - | 別[わか]れの歌[うた]を聞[き]くと切[せつ]なくなります。 | Nghe bài hát chia tay thấy buồn man mác.
+虚[むな]しい | adj-i | HƯ | trống rỗng, vô nghĩa | - | - | 努力[どりょく]が無駄[むだ]になって虚[むな]しいです。 | Nỗ lực thành công cốc, thấy trống rỗng.
+憂鬱[ゆううつ] | n,adj-na | ƯU UẤT | u uất, chán nản | - | - | 月曜日[げつようび]の朝[あさ]は憂鬱[ゆううつ]です。 | Sáng thứ Hai thấy chán nản.
+失望[しつぼう] | n,v3 | THẤT VỌNG | thất vọng | - | - | 結果[けっか]に失望[しつぼう]しました。 | Tôi thất vọng về kết quả.
+絶望[ぜつぼう] | n,v3 | TUYỆT VỌNG | tuyệt vọng | - | - | 彼[かれ]は絶望[ぜつぼう]して泣[な]きました。 | Anh ấy tuyệt vọng mà khóc.
+同情[どうじょう] | n,v3 | ĐỒNG TÌNH | thương cảm | - | - | 彼女[かのじょ]の話[はなし]を聞[き]いて同情[どうじょう]しました。 | Nghe chuyện cô ấy tôi thấy thương cảm.
+気[き]の毒[どく] | adj-na | KHÍ ĐỘC | đáng thương, tội nghiệp | - | - | 事故[じこ]に遭[あ]って気[き]の毒[どく]でした。 | Gặp tai nạn thật tội nghiệp.
+かわいそう | adj-na | - | tội nghiệp | - | - | 雨[あめ]の中[なか]の子猫[こねこ]がかわいそうです。 | Con mèo con dưới mưa thật tội nghiệp.
+誇[ほこ]り | n | KHOA | niềm tự hào | 誇[ほこ]り に 思[おも]う | tự hào | 息子[むすこ]を誇[ほこ]りに思[おも]っています。 | Tôi tự hào về con trai.
+誇[ほこ]らしい | adj-i | KHOA | đáng tự hào | - | - | 優勝[ゆうしょう]して誇[ほこ]らしい気持[きも]ちです。 | Vô địch nên tôi thấy tự hào.
+プライド | n | - | lòng tự trọng | プライド が 高[たか]い | sĩ diện cao | 彼[かれ]はプライドが高[たか]いです。 | Anh ta rất sĩ diện.
+劣等感[れっとうかん] | n | LIỆT ĐẲNG CẢM | mặc cảm tự ti | 劣等感[れっとうかん] を 持[も]つ | mang mặc cảm | 兄[あに]に劣等感[れっとうかん]を持[も]っていました。 | Tôi từng mặc cảm với anh trai.
+罪悪感[ざいあくかん] | n | TỘI ÁC CẢM | cảm giác tội lỗi | - | - | 嘘[うそ]をついて罪悪感[ざいあくかん]があります。 | Tôi thấy tội lỗi vì đã nói dối.
+腹[はら]が立[た]つ | exp | PHÚC LẬP | tức giận | - | - | 彼[かれ]の言[い]い方[かた]に腹[はら]が立[た]ちました。 | Tôi tức vì cách nói của anh ta.
+頭[あたま]にくる | exp | ĐẦU | nổi điên | - | - | 何度[なんど]も遅刻[ちこく]されて頭[あたま]にきました。 | Bị đến muộn mấy lần tôi nổi điên.
+機嫌[きげん]が悪[わる]い | exp | CƠ HIỀM ÁC | tâm trạng xấu | - | - | 父[ちち]は今日[きょう]機嫌[きげん]が悪[わる]いです。 | Hôm nay bố tôi tâm trạng xấu.
+気[き]が重[おも]い | exp | KHÍ TRỌNG | nặng lòng | - | - | 明日[あした]の面接[めんせつ]を考[かんが]えると気[き]が重[おも]いです。 | Nghĩ đến buổi phỏng vấn mai thấy nặng lòng.
+気[き]が進[すす]まない | exp | KHÍ TIẾN | không muốn làm | - | - | あまり気[き]が進[すす]まないけど、行[い]きます。 | Không muốn lắm nhưng tôi sẽ đi.
+気[き]が晴[は]れる | exp | KHÍ TÌNH | nhẹ lòng | - | - | 友達[ともだち]と話[はな]して気[き]が晴[は]れました。 | Nói chuyện với bạn thấy nhẹ lòng.
+胸[むね] | n | HUNG | ngực, lòng | 胸[むね] が いっぱい | lòng dâng trào | 感動[かんどう]で胸[むね]がいっぱいになりました。 | Lòng tôi dâng trào xúc động.
+うんざり | adv,v3 | - | ngán ngẩm | - | - | 毎日[まいにち]の残業[ざんぎょう]にうんざりしています。 | Tôi ngán ngẩm việc tăng ca mỗi ngày.
+ぞっと | adv,v3 | - | rùng mình | - | - | 事故[じこ]の話[はなし]を聞[き]いてぞっとしました。 | Nghe chuyện tai nạn tôi rùng mình.
+はらはら | adv,v3 | - | thấp thỏm | - | - | 子供[こども]の運転[うんてん]をはらはらしながら見[み]ていました。 | Tôi thấp thỏm nhìn con lái xe.
+ひやひや | adv,v3 | - | thót tim | - | - | 試験[しけん]の結果[けっか]が出[で]るまでひやひやしました。 | Tôi thót tim cho đến khi có kết quả thi.
+むっと | adv,v3 | - | phật ý | - | - | 失礼[しつれい]なことを言[い]われてむっとしました。 | Bị nói câu thất lễ tôi phật ý.
+にこにこ | adv,v3 | - | tươi cười | - | - | 彼女[かのじょ]はいつもにこにこしています。 | Cô ấy lúc nào cũng tươi cười.
+にっこり | adv,v3 | - | mỉm cười | - | - | 赤[あか]ちゃんがにっこり笑[わら]いました。 | Em bé mỉm cười.
+くよくよ | adv,v3 | - | buồn phiền mãi | - | - | 過去[かこ]のことでくよくよしないで。 | Đừng buồn phiền mãi chuyện cũ.
+うきうき | adv,v3 | - | hân hoan | - | - | 明日[あした]から旅行[りょこう]なのでうきうきしています。 | Mai đi du lịch nên tôi hân hoan.
+しょんぼり | adv,v3 | - | ủ rũ | - | - | 試合[しあい]に負[ま]けて、しょんぼりしています。 | Thua trận nên ủ rũ.
+がっくり | adv,v3 | - | rũ người thất vọng | - | - | 不合格[ふごうかく]でがっくりしました。 | Trượt nên tôi rũ người thất vọng.
+すっと | adv,v3 | - | nhẹ nhõm, nhẹ nhàng | 胸[むね] が すっと する | nhẹ cả lòng | 本当[ほんとう]のことを言[い]ったら胸[むね]がすっとしました。 | Nói thật xong thấy nhẹ cả lòng.
+むしゃくしゃ | adv,v3 | - | bực bội | - | - | むしゃくしゃしてゲームをしました。 | Bực bội nên tôi chơi game.
+感情的[かんじょうてき] | adj-na | CẢM TÌNH ĐÍCH | theo cảm xúc | 感情的[かんじょうてき] に なる | mất bình tĩnh | 感情的[かんじょうてき]にならずに話[はな]し合[あ]いましょう。 | Hãy nói chuyện mà đừng mất bình tĩnh.
+気持[きも]ちを込[こ]める | exp | KHÍ TRÌ | gửi gắm tình cảm | - | - | 気持[きも]ちを込[こ]めて手紙[てがみ]を書[か]きました。 | Tôi gửi gắm tình cảm viết lá thư.
+込[こ]める | v2 | NHẬP | gửi vào, dồn vào | 心[こころ] を 込[こ]める | dồn hết tâm huyết | 心[こころ]を込[こ]めて料理[りょうり]を作[つく]りました。 | Tôi dồn hết tâm huyết nấu món ăn.
+本気[ほんき] | n,adj-na | BẢN KHÍ | nghiêm túc, thật lòng | 本気[ほんき] で 言[い]う | nói thật lòng | それは本気[ほんき]で言[い]っているんですか。 | Bạn nói điều đó thật lòng à?
+意欲[いよく] | n | Ý DỤC | động lực, ý chí | 意欲[いよく] が ある | có động lực | 彼[かれ]は仕事[しごと]への意欲[いよく]があります。 | Anh ấy có động lực làm việc.
+やる気[き] | n | KHÍ | động lực | やる気[き] が 出[で]る | có hứng làm | 褒[ほ]められるとやる気[き]が出[で]ます。 | Được khen là có hứng làm.
+根性[こんじょう] | n | CĂN TÍNH | ý chí, gan lì | 根性[こんじょう] が ある | có gan | 最後[さいご]まで走[はし]るなんて根性[こんじょう]があります。 | Chạy đến cuối được là có gan lắm.
+意地[いじ] | n | Ý ĐỊA | sự cố chấp | 意地[いじ] を 張[は]る | cố chấp | 意地[いじ]を張[は]らないで謝[あやま]りなさい。 | Đừng cố chấp nữa, xin lỗi đi.
+張[は]る | v1 | TRƯƠNG | căng, giăng | テント を 張[は]る | dựng lều | 川[かわ]のそばにテントを張[は]りました。 | Chúng tôi dựng lều bên sông.
+強気[つよき] | n,adj-na | CƯỜNG KHÍ | tự tin, cứng rắn | - | - | 交渉[こうしょう]では強気[つよき]に出[で]ました。 | Khi đàm phán tôi tỏ ra cứng rắn.
+弱気[よわき] | n,adj-na | NHƯỢC KHÍ | yếu lòng, nhụt chí | - | - | 弱気[よわき]になってはいけません。 | Không được nhụt chí.
+気[き]が強[つよ]い | exp | KHÍ CƯỜNG | cứng cỏi, mạnh mẽ | - | - | 姉[あね]は気[き]が強[つよ]いです。 | Chị tôi rất cứng cỏi.
+気[き]が短[みじか]い | exp | KHÍ ĐOẢN | nóng nảy | - | - | 父[ちち]は気[き]が短[みじか]くてすぐ怒[おこ]ります。 | Bố tôi nóng nảy, hay giận.
+気[き]が長[なが]い | exp | KHÍ TRƯỜNG | kiên nhẫn | - | - | 先生[せんせい]は気[き]が長[なが]い人[ひと]です。 | Thầy là người kiên nhẫn.
+おおらか | adj-na | - | rộng lượng, phóng khoáng | - | - | 彼[かれ]はおおらかな性格[せいかく]です。 | Anh ấy tính tình phóng khoáng.
+しつこい | adj-i | - | dai dẳng, lằng nhằng | - | - | しつこい勧誘[かんゆう]に困[こま]っています。 | Tôi khổ sở vì lời mời chào dai dẳng.
+ずるい | adj-i | - | ranh mãnh, gian | - | - | 一人[ひとり]だけ休[やす]むなんてずるいです。 | Chỉ một mình nghỉ thì gian quá.
+おとなしい | adj-i | - | hiền lành | - | - | この犬[いぬ]はおとなしいです。 | Con chó này hiền.
+落[お]ち着[つ]きがない | exp | LẠC TRƯỚC | không ngồi yên | - | - | 子供[こども]は落[お]ち着[つ]きがありません。 | Đứa trẻ không ngồi yên được.
+失[うしな]う | v1 | THẤT | mất | 自信[じしん] を 失[うしな]う | mất tự tin | 失敗[しっぱい]して自信[じしん]を失[うしな]いました。 | Thất bại khiến tôi mất tự tin.
+取[と]り戻[もど]す | v1 | THỦ LỆ | lấy lại | 元気[げんき] を 取[と]り戻[もど]す | lấy lại sức sống | 休[やす]んで元気[げんき]を取[と]り戻[もど]しました。 | Nghỉ ngơi xong tôi lấy lại sức sống.
+立[た]ち直[なお]る | v1 | LẬP TRỰC | vực dậy | - | - | 失恋[しつれん]から立[た]ち直[なお]りました。 | Tôi đã vực dậy sau thất tình.
+失恋[しつれん] | n,v3 | THẤT LUYẾN | thất tình | - | - | 失恋[しつれん]して一週間[いっしゅうかん]泣[な]きました。 | Thất tình tôi khóc cả tuần.
+勇[いさ]ましい | adj-i | DŨNG | dũng cảm, hùng dũng | - | - | 勇[いさ]ましい音楽[おんがく]が流[なが]れています。 | Đang phát nhạc hùng dũng.
+怯[おび]える | v2 | KHIẾP | sợ hãi, khiếp sợ | - | - | 子犬[こいぬ]が雷[かみなり]に怯[おび]えています。 | Chú chó con sợ sấm.
+悔[く]やむ | v1 | HỐI | hối tiếc | - | - | 今[いま]さら悔[く]やんでも仕方[しかた]がありません。 | Giờ có hối tiếc cũng vô ích.
+仕方[しかた]がない | exp | SĨ PHƯƠNG | đành chịu | - | - | 雨[あめ]だから仕方[しかた]がないですね。 | Mưa thì đành chịu thôi.
+気味[きみ]が悪[わる]い | exp | KHÍ VỊ ÁC | rợn, đáng sợ | - | - | 夜[よる]の学校[がっこう]は気味[きみ]が悪[わる]いです。 | Trường học ban đêm thật rợn.
+不機嫌[ふきげん] | adj-na | BẤT CƠ HIỀM | khó chịu, cáu | - | - | 彼[かれ]は朝[あさ]から不機嫌[ふきげん]です。 | Anh ấy cáu kỉnh từ sáng.
+満[み]たす | v1 | MÃN | làm thỏa mãn, lấp đầy | 心[こころ] を 満[み]たす | làm thỏa lòng | 温[あたた]かい言葉[ことば]が心[こころ]を満[み]たしました。 | Lời nói ấm áp làm thỏa lòng tôi.
+愛情[あいじょう] | n | ÁI TÌNH | tình yêu thương | 愛情[あいじょう] を 注[そそ]ぐ | dành yêu thương | 両親[りょうしん]は私[わたし]に愛情[あいじょう]を注[そそ]いでくれました。 | Bố mẹ đã dành hết yêu thương cho tôi.

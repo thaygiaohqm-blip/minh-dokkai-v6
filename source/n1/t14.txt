@@ -1,0 +1,186 @@
+@topic t14
+@ja 体[からだ]の動[うご]き・手[て]の動作[どうさ]
+@vi Cử động cơ thể và thao tác tay
+@desc Động từ miêu tả cử chỉ, tư thế, thao tác với đồ vật và chuyển động của sự vật ở trình độ N1.
+こする | v1 | - | chà, dụi | 目[め] を {こする} | dụi mắt | 眠[ねむ]そうに目[め]をこすりながら起[お]きてきた。 | Nó dụi mắt ngái ngủ bước ra.
+擦[こす]れる | v2 | SÁT | cọ xát, sờn | - | - | 何度[なんど]も洗[あら]ってシャツの襟[えり]が擦[こす]れてしまった。 | Giặt nhiều lần nên cổ áo sơ mi bị sờn.
+擦[す]る | v1 | SÁT | chà, quẹt | マッチ を {擦る} | quẹt diêm | 暗闇[くらやみ]でマッチを擦[す]った。 | Quẹt que diêm trong bóng tối.
+すりむく | v1 | - | trầy xước | ひざ を {すりむく} | trầy đầu gối | 転[ころ]んでひざをすりむいた。 | Ngã bị trầy đầu gối.
+さする | v1 | - | xoa | 背中[せなか] を {さする} | xoa lưng | 気分[きぶん]の悪[わる]い友人[ゆうじん]の背中[せなか]をさすった。 | Tôi xoa lưng cho người bạn đang khó chịu.
+なでる | v2 | - | vuốt ve | 頭[あたま] を {なでる} | xoa đầu | 祖母[そぼ]は孫[まご]の頭[あたま]を優[やさ]しくなでた。 | Bà dịu dàng xoa đầu cháu.
+もむ | v1 | - | xoa bóp, nhào | 肩[かた] を {もむ} | bóp vai | 父[ちち]の肩[かた]をもんであげた。 | Tôi bóp vai cho bố.
+いじる | v1 | - | nghịch, mân mê | スマホ を {いじる} | nghịch điện thoại | 授業[じゅぎょう]中[ちゅう]に携帯[けいたい]をいじってはいけない。 | Không được nghịch điện thoại trong giờ học.
+かき回[まわ]す | v1 | HỒI | khuấy; làm rối tung | - | - | 新人[しんじん]が会議[かいぎ]をかき回[まわ]して混乱[こんらん]させた。 | Người mới làm cuộc họp rối tung.
+摘[つ]む | v1 | TRÍCH | hái, ngắt | 花[はな] を {摘む} | hái hoa | 春[はる]になると野原[のはら]で花[はな]を摘[つ]んだ。 | Vào xuân chúng tôi hái hoa trên cánh đồng.
+摘[つ]み取[と]る | v1 | TRÍCH THỦ | hái; dập tắt từ trong trứng | 芽[め] を {摘み取る} | ngắt mầm | 若者[わかもの]の可能性[かのうせい]の芽[め]を摘[つ]み取[と]ってはいけない。 | Đừng dập tắt mầm khả năng của người trẻ.
+つまむ | v1 | - | nhón, véo | 鼻[はな] を {つまむ} | bịt mũi | ひどい臭[にお]いに思[おも]わず鼻[はな]をつまんだ。 | Mùi kinh khủng khiến tôi bất giác bịt mũi.
+ちぎる | v1 | - | xé vụn | パン を {ちぎる} | xé bánh mì | パンをちぎって鳩[はと]にやった。 | Xé bánh mì cho chim bồ câu ăn.
+ちぎれる | v2 | - | đứt rời | - | - | 強風[きょうふう]で旗[はた]がちぎれそうだ。 | Gió mạnh như sắp xé rách lá cờ.
+ねじれる | v2 | - | bị vặn xoắn; trái khoáy | - | - | コードがねじれて絡[から]まっている。 | Dây điện bị xoắn và rối vào nhau.
+よじる | v1 | - | vặn, xoắn | 体[からだ] を {よじる} | uốn mình | 彼[かれ]の冗談[じょうだん]に皆[みな]が身[み]をよじって笑[わら]った。 | Mọi người cười uốn cả người vì câu đùa của anh.
+束[たば]ねる | v2 | THÚC | bó lại; quản lý | 髪[かみ] を {束ねる} | buộc tóc | 長[なが]い髪[かみ]を後[うし]ろで束[たば]ねた。 | Tôi buộc mái tóc dài ra sau.
+括[くく]る | v1 | QUÁT | buộc; gộp | - | - | 古新聞[ふるしんぶん]をひもで括[くく]って出[だ]した。 | Buộc báo cũ bằng dây rồi mang ra.
+扇[あお]ぐ | v1 | PHIẾN | quạt | うちわ で {扇ぐ} | quạt bằng quạt tay | 暑[あつ]いのでうちわで扇[あお]いだ。 | Nóng quá nên tôi quạt bằng quạt tay.
+なめる | v2 | - | liếm; coi thường | - | - | 子供[こども]だと思[おも]ってなめてはいけない。 | Đừng tưởng là trẻ con mà coi thường.
+うつむく | v1 | - | cúi gằm mặt | - | - | 叱[しか]られた子供[こども]はうつむいたまま黙[だま]っていた。 | Đứa trẻ bị mắng cúi gằm mặt im lặng.
+くぐる | v1 | - | chui qua | 門[もん] を {くぐる} | bước qua cổng | 鳥居[とりい]をくぐって神社[じんじゃ]に入[はい]った。 | Bước qua cổng torii vào đền.
+潜[もぐ]り込[こ]む | v1 | TIỀM VÀO | chui vào, lẻn vào | - | - | 寒[さむ]くて布団[ふとん]に潜[もぐ]り込[こ]んだ。 | Lạnh quá nên tôi chui vào chăn.
+滑[すべ]り込[こ]む | v1 | HOẠT VÀO | trượt vào; vào sát giờ | - | - | 発車[はっしゃ]直前[ちょくぜん]の電車[でんしゃ]に滑[すべ]り込[こ]んだ。 | Tôi kịp lách vào chuyến tàu sắp chạy.
+転[ころ]がり込[こ]む | v1 | CHUYỂN VÀO | lăn vào; đến ở nhờ | - | - | 友人[ゆうじん]の部屋[へや]に一[いっ]か月[げつ]転[ころ]がり込[こ]んだ。 | Tôi đến ở nhờ phòng bạn một tháng.
+転[ころ]げる | v2 | CHUYỂN | lăn | 笑[わら]い {転げる} | cười lăn lộn | 子供[こども]たちは笑[わら]い転[ころ]げた。 | Bọn trẻ cười lăn lộn.
+握[にぎ]り締[し]める | v2 | ÁC ĐẾ | nắm chặt | - | - | 彼[かれ]は拳[こぶし]を握[にぎ]り締[し]めて悔[くや]しさに耐[た]えた。 | Anh nắm chặt tay kìm nén nỗi uất ức.
+振[ふ]りかざす | v1 | CHẤN | vung lên; viện dẫn | 権力[けんりょく] を {振りかざす} | khoe khoang quyền lực | 彼[かれ]はすぐ肩書[かたが]きを振[ふ]りかざす。 | Hắn hễ có dịp là vung chức danh ra.
+振[ふ]り絞[しぼ]る | v1 | CHẤN GIẢO | dốc hết (sức) | 力[ちから] を {振り絞る} | dồn hết sức | 最後[さいご]の力[ちから]を振[ふ]り絞[しぼ]ってゴールした。 | Dồn hết chút sức cuối cùng để về đích.
+振[ふ]りほどく | v1 | CHẤN | giằng ra | - | - | 彼女[かのじょ]はつかまれた腕[うで]を振[ふ]りほどいた。 | Cô giằng cánh tay bị nắm ra.
+抱[だ]きかかえる | v2 | BÃO | ôm trong tay | - | - | 父親[ちちおや]は眠[ねむ]った子[こ]を抱[だ]きかかえて帰[かえ]った。 | Người bố bế đứa con đã ngủ về nhà.
+抱[かか]え込[こ]む | v1 | BÃO VÀO | ôm khư khư; ôm đồm | 仕事[しごと] を {抱え込む} | ôm đồm việc | 一人[ひとり]で問題[もんだい]を抱[かか]え込[こ]まないで。 | Đừng ôm vấn đề một mình.
+引[ひ]っかく | v1 | DẪN | cào | - | - | 猫[ねこ]に手[て]を引[ひ]っかかれた。 | Tôi bị mèo cào tay.
+引[ひ]っこ抜[ぬ]く | v1 | DẪN BẠT | nhổ phăng; lôi kéo (nhân tài) | - | - | 庭[にわ]の雑草[ざっそう]を引[ひ]っこ抜[ぬ]いた。 | Nhổ phăng cỏ dại trong vườn.
+突[つ]っつく | v1 | ĐỘT | chọc, thúc | - | - | 隣[となり]の人[ひと]がひじで私[わたし]を突[つ]っついた。 | Người bên cạnh lấy khuỷu tay thúc tôi.
+つつく | v1 | - | mổ, chọc; bới móc | - | - | 鳥[とり]が木[き]の実[み]をつついている。 | Chim đang mổ quả cây.
+小突[こづ]く | v1 | TIỂU ĐỘT | đẩy nhẹ, cốc | - | - | 兄[あに]に頭[あたま]を小突[こづ]かれた。 | Tôi bị anh trai cốc đầu.
+はたく | v1 | - | phủi, vỗ | ほこり を {はたく} | phủi bụi | 服[ふく]についたほこりをはたいた。 | Phủi bụi trên quần áo.
+殴[なぐ]りつける | v2 | ẨU | đánh mạnh | - | - | 男[おとこ]は怒[おこ]って相手[あいて]を殴[なぐ]りつけた。 | Gã đàn ông tức giận đánh mạnh đối phương.
+蹴散[けち]らす | v1 | XÚC TÁN | đá tung; đánh tan | - | - | 王者[おうじゃ]は挑戦[ちょうせん]者[しゃ]たちを次々[つぎつぎ]と蹴散[けち]らした。 | Nhà vô địch lần lượt đánh tan các kẻ thách đấu.
+踏[ふ]みつける | v2 | ĐẠP | giẫm lên | - | - | 花壇[かだん]の花[はな]が誰[だれ]かに踏[ふ]みつけられていた。 | Hoa trong bồn bị ai đó giẫm lên.
+踏[ふ]みにじる | v1 | ĐẠP | chà đạp | 気持[きも]ち を {踏みにじる} | chà đạp tình cảm | 彼[かれ]は私[わたし]の信頼[しんらい]を踏[ふ]みにじった。 | Hắn chà đạp lòng tin của tôi.
+踏[ふ]ん張[ば]る | v1 | ĐẠP TRƯƠNG | trụ vững, gắng gượng | - | - | もう少[すこ]しだから踏[ふ]ん張[ば]ろう。 | Còn chút nữa thôi, cố trụ nào.
+踏[ふ]みとどまる | v1 | ĐẠP | trụ lại, dừng lại kịp | - | - | 辞[や]めようと思[おも]ったが、なんとか踏[ふ]みとどまった。 | Tôi định nghỉ nhưng đã cố trụ lại.
+這[は]い上[あ]がる | v1 | GIÁ THƯỢNG | bò lên; vươn lên | - | - | どん底[ぞこ]から這[は]い上[あ]がって成功[せいこう]をつかんだ。 | Vươn lên từ đáy để nắm lấy thành công.
+寝[ね]そべる | v1 | TẨM | nằm dài | - | - | 猫[ねこ]が日[ひ]なたで寝[ね]そべっている。 | Con mèo nằm dài dưới nắng.
+寝返[ねがえ]り | n | TẨM PHẢN | trở mình; trở cờ | {寝返り} を 打[う]つ | trở mình | 暑[あつ]くて何度[なんど]も寝返[ねがえ]りを打[う]った。 | Nóng quá nên tôi trở mình nhiều lần.
+かがむ | v1 | - | cúi khom | - | - | かがんで落[お]ちた硬貨[こうか]を拾[ひろ]った。 | Tôi khom người nhặt đồng xu rơi.
+うずくまる | v1 | - | ngồi co ro | - | - | 腹痛[ふくつう]で道端[みちばた]にうずくまってしまった。 | Đau bụng nên tôi ngồi co ro bên đường.
+ひざまずく | v1 | - | quỳ gối | - | - | 彼[かれ]はひざまずいて指輪[ゆびわ]を差[さ]し出[だ]した。 | Anh quỳ gối đưa ra chiếc nhẫn.
+仰向[あおむ]け | n | NGƯỠNG HƯỚNG | nằm ngửa | - | - | 仰向[あおむ]けに寝[ね]て星空[ほしぞら]を眺[なが]めた。 | Nằm ngửa ngắm bầu trời sao.
+うつ伏[ぶ]せ | n | PHỤC | nằm sấp | - | - | 赤[あか]ちゃんをうつ伏[ぶ]せで寝[ね]かせるのは危険[きけん]だ。 | Cho em bé ngủ sấp là nguy hiểm.
+反[そ]る | v1 | PHẢN | ưỡn ra sau, cong lên | - | - | 板[いた]が湿気[しっけ]で反[そ]ってしまった。 | Tấm ván bị cong do ẩm.
+のけぞる | v1 | - | ngả người ra sau | - | - | 驚[おどろ]きのあまりのけぞった。 | Ngạc nhiên đến ngả người ra sau.
+身[み]を乗[の]り出[だ]す | exp | THÂN THỪA XUẤT | nhoài người ra; hăng hái quan tâm | - | - | 子供[こども]たちは身[み]を乗[の]り出[だ]して話[はなし]を聞[き]いた。 | Bọn trẻ nhoài người ra nghe chuyện.
+よろめく | v1 | - | loạng choạng | - | - | 酔[よ]って足元[あしもと]がよろめいた。 | Say nên bước chân loạng choạng.
+よろける | v2 | - | lảo đảo | - | - | 電車[でんしゃ]が揺[ゆ]れて、よろけてしまった。 | Tàu rung nên tôi lảo đảo.
+ふらつく | v1 | - | choáng váng, chệnh choạng | - | - | 熱[ねつ]で足[あし]がふらつく。 | Sốt nên chân chệnh choạng.
+漕[こ]ぐ | v1 | TÀO | chèo; đạp (xe) | 自転車[じてんしゃ] を {漕ぐ} | đạp xe | 坂道[さかみち]で自転車[じてんしゃ]をこぐのは大変[たいへん]だ。 | Đạp xe lên dốc thật vất vả.
+跳[は]ね返[かえ]る | v1 | KHIÊU PHẢN | bật lại; dội lại | - | - | ボールが壁[かべ]に当[あ]たって跳[は]ね返[かえ]った。 | Quả bóng đập vào tường bật lại.
+跳[は]ね上[あ]がる | v1 | KHIÊU THƯỢNG | nhảy vọt | - | - | 野菜[やさい]の値段[ねだん]が跳[は]ね上[あ]がった。 | Giá rau tăng vọt.
+はじく | v1 | - | búng; đẩy văng | - | - | この布[ぬの]は水[みず]をはじく。 | Vải này không thấm nước.
+弾[はじ]ける | v2 | ĐẠN | nổ tung; tràn trề | - | - | 子供[こども]たちの弾[はじ]けるような笑顔[えがお]が見[み]られた。 | Thấy được nụ cười rạng rỡ của bọn trẻ.
+弾[はず]む | v1 | ĐẠN | nảy; rôm rả | 話[はなし] が {弾む} | chuyện rôm rả | 久[ひさ]しぶりに会[あ]った友人[ゆうじん]と話[はなし]が弾[はず]んだ。 | Gặp lại bạn lâu ngày, câu chuyện rôm rả.
+裂[さ]く | v1 | LIỆT | xé; chia cắt | 二人[ふたり] の 仲[なか] を {裂く} | chia rẽ hai người | 布[ぬの]を裂[さ]いて包帯[ほうたい]代[が]わりにした。 | Xé vải làm băng thay.
+裂[さ]ける | v2 | LIỆT | rách toạc | - | - | 雷[かみなり]が落[お]ちて木[き]が真[ま]っ二[ぷた]つに裂[さ]けた。 | Sét đánh làm cây tách làm đôi.
+割[さ]く | v1 | CÁT | dành ra (thời gian) | 時間[じかん] を {割く} | dành thời gian | お忙[いそが]しい中[なか]、時間[じかん]を割[さ]いていただきありがとうございます。 | Cảm ơn anh đã dành thời gian dù bận rộn.
+破[やぶ]く | v1 | PHÁ | xé | - | - | 怒[おこ]って手紙[てがみ]を破[やぶ]いてしまった。 | Tức giận nên tôi xé lá thư.
+剥[は]がれる | v2 | BÁC | bong ra | - | - | 壁[かべ]のペンキが剥[は]がれてきた。 | Sơn tường bắt đầu bong ra.
+削[そ]ぐ | v1 | TƯỚC | gọt; làm giảm | やる気[き] を {削ぐ} | làm nhụt chí | 上司[じょうし]の一言[ひとこと]が部下[ぶか]のやる気[き]を削[そ]いだ。 | Một câu của sếp làm cấp dưới nhụt chí.
+刈[か]る | v1 | NGẢI | cắt (cỏ, tóc) | 草[くさ] を {刈る} | cắt cỏ | 週末[しゅうまつ]に庭[にわ]の草[くさ]を刈[か]った。 | Cuối tuần tôi cắt cỏ trong vườn.
+刈[か]り込[こ]む | v1 | NGẢI VÀO | tỉa gọn | - | - | 庭木[にわき]をきれいに刈[か]り込[こ]んだ。 | Tỉa cây trong vườn gọn gàng.
+研[と]ぐ | v1 | NGHIÊN | mài; vo (gạo) | 包丁[ほうちょう] を {研ぐ} | mài dao | 料理人[りょうりにん]は毎朝[まいあさ]包丁[ほうちょう]を研[と]ぐ。 | Đầu bếp mài dao mỗi sáng.
+拭[ぬぐ]う | v1 | THỨC | lau; xóa bỏ | 不安[ふあん] を {拭う} | xóa tan lo lắng | 汗[あせ]を拭[ぬぐ]いながら山道[やまみち]を登[のぼ]った。 | Vừa lau mồ hôi vừa leo đường núi.
+拭[ふ]き取[と]る | v1 | THỨC THỦ | lau sạch | - | - | こぼれたコーヒーを布巾[ふきん]で拭[ふ]き取[と]った。 | Lau sạch cà phê đổ bằng khăn.
+搾[しぼ]る | v1 | TRÁ | vắt | 牛乳[ぎゅうにゅう] を {搾る} | vắt sữa | レモンを搾[しぼ]って紅茶[こうちゃ]に入[い]れた。 | Vắt chanh vào trà.
+貼[は]り付[つ]ける | v2 | THIẾP PHÓ | dán lên | - | - | 写真[しゃしん]をノートに貼[は]り付[つ]けた。 | Dán ảnh vào vở.
+張[は]り巡[めぐ]らす | v1 | TRƯƠNG TUẦN | giăng khắp | 情報[じょうほう] 網[もう] を {張り巡らす} | giăng mạng lưới thông tin | 警察[けいさつ]は町中[まちじゅう]に捜査[そうさ]網[もう]を張[は]り巡[めぐ]らした。 | Cảnh sát giăng lưới điều tra khắp thị trấn.
+敷[し]き詰[つ]める | v2 | PHU CẬT | trải kín | - | - | 庭[にわ]に白[しろ]い石[いし]を敷[し]き詰[つ]めた。 | Rải kín sỏi trắng trong vườn.
+積[つ]み重[かさ]ねる | v2 | TÍCH TRỌNG | chồng chất; tích lũy | 経験[けいけん] を {積み重ねる} | tích lũy kinh nghiệm | 小[ちい]さな努力[どりょく]を積[つ]み重[かさ]ねて合格[ごうかく]した。 | Tích lũy từng nỗ lực nhỏ mà đỗ.
+盛[も]り付[つ]ける | v2 | THỊNH PHÓ | bày (thức ăn) | - | - | 料理[りょうり]を大皿[おおざら]にきれいに盛[も]り付[つ]けた。 | Bày món ăn đẹp mắt lên đĩa lớn.
+汲[く]む | v1 | CẤP | múc; thấu hiểu | 気持[きも]ち を {汲む} | thấu hiểu lòng | 井戸[いど]から水[みず]を汲[く]んだ。 | Múc nước từ giếng.
+浴[あ]びせる | v2 | DỤC | dội; dồn dập | 質問[しつもん] を {浴びせる} | dồn dập câu hỏi | 記者[きしゃ]たちは大臣[だいじん]に質問[しつもん]を浴[あ]びせた。 | Phóng viên dồn dập đặt câu hỏi cho bộ trưởng.
+振[ふ]りかける | v2 | CHẤN | rắc | - | - | ご飯[はん]にごまを振[ふ]りかけた。 | Rắc vừng lên cơm.
+撒[ま]く | v1 | TÁT | rải, tưới | 水[みず] を {撒く} | tưới nước | 暑[あつ]い日[ひ]は庭[にわ]に水[みず]を撒[ま]く。 | Ngày nóng tôi tưới nước ra vườn.
+撒[ま]き散[ち]らす | v1 | TÁT TÁN | rải khắp; phát tán | - | - | 車[くるま]が排気[はいき]ガスを撒[ま]き散[ち]らしている。 | Xe phát tán khí thải khắp nơi.
+ばらまく | v1 | - | rải rác; phát tràn lan | - | - | 選挙[せんきょ]前[まえ]に補助[ほじょ]金[きん]をばらまくのは問題[もんだい]だ。 | Rải tiền trợ cấp tràn lan trước bầu cử là có vấn đề.
+つるす | v1 | - | treo | - | - | 軒下[のきした]に風鈴[ふうりん]をつるした。 | Treo chuông gió dưới mái hiên.
+吊[つ]り下[さ]げる | v2 | ĐIẾU HẠ | treo lủng lẳng | - | - | 天井[てんじょう]から電球[でんきゅう]を吊[つ]り下[さ]げた。 | Treo bóng đèn từ trần nhà.
+ぶら下[さ]がる | v1 | HẠ | đu, treo lủng lẳng | - | - | 子供[こども]が鉄棒[てつぼう]にぶら下[さ]がって遊[あそ]んでいる。 | Đứa trẻ đu xà chơi.
+ぶら下[さ]げる | v2 | HẠ | xách lủng lẳng | - | - | 両手[りょうて]に買[か]い物[もの]袋[ぶくろ]をぶら下[さ]げて帰[かえ]った。 | Hai tay xách túi đồ về nhà.
+垂[た]れる | v2 | THÙY | rủ xuống; nhỏ giọt | 頭[あたま] を {垂れる} | cúi đầu | 実[みの]るほど頭[こうべ]を垂[た]れる稲穂[いなほ]かな。 | Bông lúa càng chín càng cúi đầu.
+揺[ゆ]する | v1 | DAO | lắc, rung | - | - | 母[はは]は赤[あか]ちゃんを優[やさ]しく揺[ゆ]すって寝[ね]かせた。 | Mẹ nhẹ nhàng đung đưa ru em bé ngủ.
+揺[ゆ]さぶる | v1 | DAO | lay mạnh; làm rung động | 心[こころ] を {揺さぶる} | lay động lòng người | 彼[かれ]の演説[えんぜつ]は聴衆[ちょうしゅう]の心[こころ]を揺[ゆ]さぶった。 | Bài diễn văn lay động lòng người nghe.
+揺[ゆ]れ動[うご]く | v1 | DAO ĐỘNG | dao động | - | - | 二[ふた]つの選択[せんたく]肢[し]の間[あいだ]で心[こころ]が揺[ゆ]れ動[うご]いた。 | Lòng tôi dao động giữa hai lựa chọn.
+震[ふる]わせる | v2 | CHẤN | làm run | 声[こえ] を {震わせる} | giọng run run | 彼女[かのじょ]は声[こえ]を震[ふる]わせて訴[うった]えた。 | Cô run giọng khẩn cầu.
+身震[みぶる]い | n,v3 | THÂN CHẤN | rùng mình | - | - | 寒[さむ]さに思[おも]わず身震[みぶる]いした。 | Lạnh quá tôi bất giác rùng mình.
+縮[ちぢ]こまる | v1 | SÚC | co rúm | - | - | 寒[さむ]さで体[からだ]が縮[ちぢ]こまる。 | Cái lạnh làm cơ thể co rúm.
+丸[まる]める | v2 | HOÀN | vo tròn; cạo trọc | 背中[せなか] を {丸める} | còng lưng | 紙[かみ]を丸[まる]めてごみ箱[ばこ]に捨[す]てた。 | Vo tròn giấy ném vào thùng rác.
+押[お]し込[こ]む | v1 | ÁP VÀO | nhồi vào; ép | - | - | かばんに服[ふく]を無理[むり]やり押[お]し込[こ]んだ。 | Cố nhồi quần áo vào túi.
+掘[ほ]り起[お]こす | v1 | QUẬT KHỞI | đào lên; khơi gợi | 需要[じゅよう] を {掘り起こす} | khơi gợi nhu cầu | 新[あたら]しい商品[しょうひん]で潜在[せんざい]的[てき]な需要[じゅよう]を掘[ほ]り起[お]こした。 | Sản phẩm mới khơi gợi nhu cầu tiềm ẩn.
+掘[ほ]り返[かえ]す | v1 | QUẬT PHẢN | đào bới; khơi lại | 過去[かこ] を {掘り返す} | khơi lại quá khứ | 昔[むかし]のことを掘[ほ]り返[かえ]さないでほしい。 | Đừng khơi lại chuyện xưa.
+埋[う]もれる | v2 | MAI | bị vùi; bị lãng quên | - | - | 埋[う]もれた才能[さいのう]を発掘[はっくつ]する。 | Khai quật tài năng bị vùi lấp.
+埋[う]め立[た]てる | v2 | MAI LẬP | lấp (biển, đất) | 海[うみ] を {埋め立てる} | lấn biển | 海[うみ]を埋[う]め立[た]てて工業[こうぎょう]地帯[ちたい]が作[つく]られた。 | Lấn biển để xây vùng công nghiệp.
+包[つつ]み込[こ]む | v1 | BAO VÀO | bao bọc | - | - | 母[はは]の温[あたた]かい手[て]が私[わたし]の手[て]を包[つつ]み込[こ]んだ。 | Bàn tay ấm áp của mẹ bao bọc tay tôi.
+羽織[はお]る | v1 | VŨ CHỨC | khoác (áo) | - | - | 寒[さむ]いのでカーディガンを羽織[はお]った。 | Lạnh nên tôi khoác áo len.
+まとう | v1 | - | khoác lên; mang (không khí) | - | - | 彼女[かのじょ]は白[しろ]いドレスを身[み]にまとっていた。 | Cô khoác trên mình chiếc váy trắng.
+脱[ぬ]ぎ捨[す]てる | v2 | THOÁT XẢ | cởi vứt; vứt bỏ | - | - | 玄関[げんかん]に靴[くつ]を脱[ぬ]ぎ捨[す]てるな。 | Đừng cởi giày vứt bừa ở cửa.
+着[き]こなす | v1 | TRƯỚC | mặc đẹp, phối đồ khéo | - | - | 彼[かれ]はどんな服[ふく]でもおしゃれに着[き]こなす。 | Anh ấy mặc đồ gì cũng đẹp.
+もたれる | v2 | - | tựa vào; đầy bụng | 胃[い] が {もたれる} | đầy bụng | 壁[かべ]にもたれて休[やす]んだ。 | Tựa vào tường nghỉ ngơi.
+しがみつく | v1 | - | bám chặt | - | - | 子供[こども]は怖[こわ]がって母親[ははおや]にしがみついた。 | Đứa trẻ sợ hãi bám chặt lấy mẹ.
+付[つ]きまとう | v1 | PHÓ | đeo bám | - | - | 有名[ゆうめい]になると、どこへ行[い]っても記者[きしゃ]が付[つ]きまとう。 | Nổi tiếng rồi thì đi đâu cũng bị phóng viên đeo bám.
+見[み]せびらかす | v1 | KIẾN | khoe khoang | - | - | 新[あたら]しい時計[とけい]を友達[ともだち]に見[み]せびらかした。 | Khoe chiếc đồng hồ mới với bạn.
+携[たずさ]える | v2 | HUỀ | mang theo; chung tay | 手[て] を {携える} | nắm tay nhau | 両国[りょうこく]は手[て]を携[たずさ]えて問題[もんだい]に取[と]り組[く]んだ。 | Hai nước chung tay giải quyết vấn đề.
+押[お]し寄[よ]せる | v2 | ÁP KÝ | ùa đến, tràn đến | - | - | 開店[かいてん]と同時[どうじ]に客[きゃく]が押[お]し寄[よ]せた。 | Vừa mở cửa khách đã ùa đến.
+群[むら]がる | v1 | QUẦN | tụ tập đông | - | - | 甘[あま]いものにアリが群[むら]がっている。 | Kiến bu đông quanh đồ ngọt.
+たどる | v1 | - | lần theo | 記憶[きおく] を {たどる} | lần theo ký ức | 地図[ちず]をたどって目的[もくてき]地[ち]に着[つ]いた。 | Lần theo bản đồ mà đến được đích.
+探[さぐ]る | v1 | THÁM | dò tìm | 原因[げんいん] を {探る} | tìm nguyên nhân | かばんの中[なか]を探[さぐ]って鍵[かぎ]を見[み]つけた。 | Dò trong túi tìm thấy chìa khóa.
+またがる | v1 | - | cưỡi; trải dài qua | - | - | 馬[うま]にまたがって草原[そうげん]を走[はし]った。 | Cưỡi ngựa chạy trên thảo nguyên.
+はみ出[だ]す | v1 | XUẤT | lòi ra, tràn ra | - | - | ノートの線[せん]から字[じ]がはみ出[だ]している。 | Chữ lòi ra ngoài dòng kẻ vở.
+化[ば]ける | v2 | HÓA | hóa thành | - | - | キツネが人間[にんげん]に化[ば]ける話[はなし]がある。 | Có chuyện cáo hóa thành người.
+たるむ | v1 | - | chùng xuống; lơi lỏng | 気持[きも]ち が {たるむ} | tinh thần uể oải | 夏休[なつやす]み明[あ]けで気持[きも]ちがたるんでいる。 | Sau kỳ nghỉ hè tinh thần uể oải.
+浸[ひた]る | v1 | TẨM | ngâm mình; đắm chìm | 思[おも]い出[で] に {浸る} | đắm chìm kỷ niệm | 古[ふる]い写真[しゃしん]を見[み]て思[おも]い出[で]に浸[ひた]った。 | Xem ảnh cũ rồi đắm chìm trong kỷ niệm.
+浸[ひた]す | v1 | TẨM | ngâm | - | - | 豆[まめ]を一晩[ひとばん]水[みず]に浸[ひた]しておく。 | Ngâm đậu trong nước qua đêm.
+漂[ただよ]う | v1 | PHIÊU | trôi dạt; phảng phất | - | - | 台所[だいどころ]からいい香[かお]りが漂[ただよ]ってきた。 | Mùi thơm phảng phất từ bếp.
+もがく | v1 | - | vùng vẫy | - | - | 溺[おぼ]れた犬[いぬ]が水[みず]の中[なか]でもがいていた。 | Con chó đuối nước vùng vẫy trong nước.
+遮[さえぎ]る | v1 | GIÀ | chắn; ngắt lời | 話[はなし] を {遮る} | ngắt lời | カーテンで日差[ひざ]しを遮[さえぎ]った。 | Kéo rèm chắn nắng.
+こもる | v1 | - | ở lì; chứa đựng | 心[こころ] の {こもった} | đầy tâm huyết | 彼[かれ]は部屋[へや]にこもって小説[しょうせつ]を書[か]いている。 | Anh ở lì trong phòng viết tiểu thuyết.
+潜[ひそ]む | v1 | TIỀM | ẩn nấp; tiềm ẩn | - | - | この計画[けいかく]には大[おお]きな危険[きけん]が潜[ひそ]んでいる。 | Kế hoạch này tiềm ẩn nguy hiểm lớn.
+潜[ひそ]める | v2 | TIỀM | nín lặng, giấu | 息[いき] を {潜める} | nín thở | 私[わたし]たちは息[いき]を潜[ひそ]めて様子[ようす]をうかがった。 | Chúng tôi nín thở dò xét tình hình.
+翻[ひるがえ]る | v1 | PHIÊN | tung bay | - | - | 青空[あおぞら]に国旗[こっき]が翻[ひるがえ]っている。 | Quốc kỳ tung bay trên trời xanh.
+翻[ひるがえ]す | v1 | PHIÊN | lật ngược; đổi ý | 前言[ぜんげん] を {翻す} | rút lại lời nói | 彼[かれ]は突然[とつぜん]、前言[ぜんげん]を翻[ひるがえ]した。 | Anh ta đột nhiên rút lại lời đã nói.
+ゆがむ | v1 | - | méo mó, lệch lạc | - | - | 痛[いた]みで彼[かれ]の顔[かお]がゆがんだ。 | Mặt anh méo đi vì đau.
+絡[から]む | v1 | LẠC | quấn; dính líu | - | - | この事件[じけん]には金銭[きんせん]問題[もんだい]が絡[から]んでいる。 | Vụ việc này dính líu chuyện tiền bạc.
+絡[から]まる | v1 | LẠC | rối vào nhau | - | - | イヤホンのコードが絡[から]まって解[ほど]けない。 | Dây tai nghe rối không gỡ ra được.
+絡[から]める | v2 | LẠC | quấn vào; gắn với | - | - | ソースを麺[めん]によく絡[から]める。 | Trộn đều sốt quyện vào mì.
+かさばる | v1 | - | cồng kềnh | - | - | 冬[ふゆ]の服[ふく]はかさばって旅行[りょこう]には不便[ふべん]だ。 | Đồ mùa đông cồng kềnh, đi du lịch bất tiện.
+しなびる | v2 | - | héo quắt | - | - | 冷蔵庫[れいぞうこ]の野菜[やさい]がしなびてしまった。 | Rau trong tủ lạnh đã héo quắt.
+とろける | v2 | - | tan chảy | - | - | 口[くち]の中[なか]でとろけるようなチーズケーキだ。 | Bánh phô mai như tan chảy trong miệng.
+染[し]みる | v2 | NHIỄM | thấm; buốt | - | - | 冷[つめ]たい水[みず]が虫歯[むしば]に染[し]みる。 | Nước lạnh làm răng sâu buốt.
+にじむ | v1 | - | nhòe, rỉ ra | 汗[あせ] が {にじむ} | rịn mồ hôi | 涙[なみだ]で文字[もじ]がにじんで見[み]えた。 | Nước mắt làm chữ nhòe đi.
+凍[こご]える | v2 | ĐỐNG | cóng | - | - | 凍[こご]えるような寒[さむ]さの中[なか]で待[ま]った。 | Chờ trong cái lạnh cóng người.
+老[ふ]ける | v2 | LÃO | già đi | - | - | 苦労[くろう]が多[おお]かったのか、彼[かれ]は急[きゅう]に老[ふ]けた。 | Có lẽ vì vất vả nhiều mà anh già đi nhanh.
+弱[よわ]る | v1 | NHƯỢC | yếu đi; khó xử | - | - | 暑[あつ]さで体[からだ]が弱[よわ]っている。 | Cơ thể yếu đi vì nóng.
+襲[おそ]う | v1 | TẬP | tấn công; ập đến | - | - | 大型[おおがた]台風[たいふう]が九州[きゅうしゅう]を襲[おそ]った。 | Bão lớn tấn công Kyushu.
+挙[あ]がる | v1 | CỬ | được nêu ra; bị bắt | - | - | 候補[こうほ]として三[みっ]つの案[あん]が挙[あ]がった。 | Ba phương án được nêu ra làm ứng viên.
+交[まじ]える | v2 | GIAO | xen lẫn; trao đổi | 冗談[じょうだん] を {交える} | xen câu đùa | 先生[せんせい]は冗談[じょうだん]を交[まじ]えながら説明[せつめい]した。 | Thầy vừa giải thích vừa xen câu đùa.
+交[か]わす | v1 | GIAO | trao đổi | 言葉[ことば] を {交わす} | trò chuyện | 二人[ふたり]は笑顔[えがお]であいさつを交[か]わした。 | Hai người tươi cười chào nhau.
+よこす | v1 | - | gửi đến, đưa cho (mình) | - | - | 息子[むすこ]が久[ひさ]しぶりに手紙[てがみ]をよこした。 | Con trai lâu lắm mới gửi thư về.
+せかす | v1 | - | giục giã | - | - | そんなにせかさないでください。 | Xin đừng giục giã như vậy.
+見分[みわ]ける | v2 | KIẾN PHÂN | phân biệt | - | - | 本物[ほんもの]と偽物[にせもの]を見分[みわ]けるのは難[むずか]しい。 | Phân biệt thật giả rất khó.
+見落[みお]とす | v1 | KIẾN LẠC | bỏ sót | - | - | 大事[だいじ]なメールを見落[みお]としていた。 | Tôi đã bỏ sót email quan trọng.
+歩[あゆ]む | v1 | BỘ | bước đi (trên đường đời) | - | - | 二人[ふたり]はともに人生[じんせい]を歩[あゆ]んできた。 | Hai người cùng nhau bước trên đường đời.
+築[きず]く | v1 | TRÚC | xây dựng | 信頼[しんらい] を {築く} | xây dựng lòng tin | 長年[ながねん]かけて顧客[こきゃく]との信頼[しんらい]を築[きず]いた。 | Mất nhiều năm xây dựng lòng tin với khách hàng.
+屈伸[くっしん] | n | KHUẤT THÂN | co duỗi | {屈伸}運動[うんどう] | vận động co duỗi | 準備[じゅんび]体操[たいそう]で膝[ひざ]の屈伸[くっしん]をする。 | Co duỗi đầu gối trong bài khởi động.
+蹲踞[そんきょ] | n | TỒN CỨ | ngồi xổm (tư thế sumo) | {蹲踞}の姿勢[しせい] | tư thế ngồi xổm | 力士[りきし]は土俵[どひょう]で蹲踞[そんきょ]の姿勢[しせい]をとる。 | Đô vật lấy tư thế ngồi xổm trên sàn đấu.
+匍匐[ほふく] | n | BÒ PHỤC | bò, trườn | {匍匐}前進[ぜんしん] | bò tiến về phía trước | 兵士[へいし]は匍匐[ほふく]前進[ぜんしん]で敵[てき]に近[ちか]づいた。 | Binh sĩ bò tiến lại gần quân địch.
+佇[たたず]む | v1 | TRỮ | đứng lặng | 窓辺[まどべ]に{佇[たたず]む} | đứng lặng bên cửa sổ | 彼女[かのじょ]は湖畔[こはん]に佇[たたず]んでいた。 | Cô ấy đứng lặng bên hồ.
+蹲[うずくま]る | v1 | TỒN | ngồi thu mình | 道端[みちばた]に{蹲[うずくま]る} | ngồi thu mình bên đường | 腹痛[ふくつう]で道端[みちばた]に蹲[うずくま]った。 | Ngồi thu mình bên đường vì đau bụng.
+跪[ひざまず]く | v1 | QUỴ | quỳ gối | 祭壇[さいだん]の前[まえ]に{跪[ひざまず]く} | quỳ trước bàn thờ | 信者[しんじゃ]は祭壇[さいだん]の前[まえ]に跪[ひざまず]いた。 | Tín đồ quỳ trước bàn thờ.
+跨[また]ぐ | v1 | KHÓA | bước qua | 水溜[みずたま]りを{跨[また]ぐ} | bước qua vũng nước | 倒木[とうぼく]を跨[また]いで先[さき]に進[すす]んだ。 | Bước qua cây đổ rồi đi tiếp.
+躓[つまず]く | v1 | CHẤT | vấp | 石[いし]に{躓[つまず]く} | vấp phải đá | 段差[だんさ]に躓[つまず]いて転[ころ]びそうになった。 | Suýt ngã vì vấp phải bậc thang.
+身[み]悶[もだ]え | n | THÂN MUỘN | quằn quại | {身[み]悶[もだ]え}する | quằn quại | 激痛[げきつう]に身悶[みもだ]えした。 | Quằn quại vì đau dữ dội.
+仰[の]け反[ぞ]る | v1 | NGƯỠNG PHẢN | ngả người ra sau | 驚[おどろ]いて{仰[の]け反[ぞ]る} | giật mình ngả ra sau | 突然[とつぜん]の大[おお]きな音[おと]に仰[の]け反[ぞ]った。 | Giật mình ngả ra sau vì tiếng động lớn đột ngột.
+縋[すが]る | v1 | TỤY | bám víu | 手[て]すりに{縋[すが]る} | bám vào lan can | 溺[おぼ]れかけた人[ひと]がロープに縋[すが]った。 | Người sắp chìm bám víu vào dây thừng.
+攀[よ]じ登[のぼ]る | v1 | PAN ĐĂNG | trèo lên | 崖[がけ]を{攀[よ]じ登[のぼ]る} | trèo lên vách đá | 子[こ]どもが木[き]を攀[よ]じ登[のぼ]った。 | Trẻ con trèo lên cây.
+掻[か]き分[わ]ける | v2 | TÁO PHÂN | rẽ ra, vạch ra | 草[くさ]を{掻[か]き分[わ]ける} | rẽ cỏ | 草[くさ]を掻[か]き分[わ]けて小道[こみち]を進[すす]んだ。 | Vạch cỏ tiến trên con đường nhỏ.
+手[た]繰[ぐ]る | v1 | THỦ TÀO | kéo dần | ロープを{手[た]繰[ぐ]る} | kéo dần dây thừng | 漁師[りょうし]が網[あみ]を手繰[たぐ]り寄[よ]せた。 | Ngư dân kéo dần tấm lưới vào.
+捏[こ]ねる | v2 | NIẾT | nhào nặn | 粘土[ねんど]を{捏[こ]ねる} | nhào nặn đất sét | パン生地[きじ]をしっかり捏[こ]ねる。 | Nhào kỹ bột bánh mì.
+抉[えぐ]る | v1 | KHOÉT | khoét, đâm sâu | 傷口[きずぐち]を{抉[えぐ]る} | khoét vào vết thương | 批判[ひはん]が心[こころ]を抉[えぐ]った。 | Lời chỉ trích đâm sâu vào lòng.
+掬[すく]う | v1 | CÚC | vớt, múc | 水[みず]を{掬[すく]う} | vớt nước | 両手[りょうて]で清水[しみず]を掬[すく]って飲[の]んだ。 | Vốc nước suối bằng hai tay uống.
+引[ひ]っ掻[か]く | v1 | DẪN TÁO | cào, cấu | 猫[ねこ]に{引[ひ]っ掻[か]く}かれる | bị mèo cào | 猫[ねこ]に手[て]を引[ひ]っ掻[か]かれた。 | Bị mèo cào tay.
+突[つ]っ張[ぱ]る | v1 | ĐỘT TRƯƠNG | chống, cứng | 腕[うで]を{突[つ]っ張[ぱ]る} | chống tay | 足[あし]を突[つ]っ張[ぱ]って踏[ふ]ん張[ば]った。 | Chống chân chịu lực.
+駆[か]け寄[よ]る | v1 | KHU KÝ | chạy lại gần | 友人[ゆうじん]に{駆[か]け寄[よ]る} | chạy lại gần bạn | 母親[ははおや]のもとに駆[か]け寄[よ]った。 | Chạy lại bên mẹ.
+駆[か]け抜[ぬ]ける | v2 | KHU BẠT | chạy xuyên qua | 野原[のはら]を{駆[か]け抜[ぬ]ける} | chạy xuyên đồng cỏ | 風[かぜ]のように駆[か]け抜[ぬ]けていった。 | Chạy xuyên qua như gió.
+飛[と]び交[か]う | v1 | PHI GIAO | bay qua bay lại | 怒号[どごう]が{飛[と]び交[か]う} | tiếng quát tháo bay qua bay lại | 会議[かいぎ]で意見[いけん]が飛[と]び交[か]った。 | Ý kiến trao qua đổi lại trong cuộc họp.
+身[み]構[がま]える | v2 | THÂN CẤU | phòng thủ, sẵn sàng | 敵[てき]に{身[み]構[がま]える} | phòng thủ trước kẻ thù | 地震[じしん]の揺[ゆ]れに身構[みがま]えた。 | Sẵn sàng phòng thủ khi động đất rung.
+居[い]座[すわ]る | v1 | CƯ TỌA | ngồi lì, cố bám | 席[せき]に{居[い]座[すわ]る} | ngồi lì tại chỗ | 台風[たいふう]が関東[かんとう]に居座[いすわ]っている。 | Bão cứ bám mãi ở vùng Kantō.
+忍[しの]び寄[よ]る | v1 | NHẪN KÝ | lén đến gần | 背後[はいご]から{忍[しの]び寄[よ]る} | lén đến từ phía sau | 猫[ねこ]が獲物[えもの]に忍[しの]び寄[よ]った。 | Mèo lén đến gần con mồi.
+駆[か]け回[まわ]る | v1 | KHU HỒI | chạy lòng vòng | 庭[にわ]を{駆[か]け回[まわ]る} | chạy lòng vòng trong sân | 子犬[こいぬ]が公園[こうえん]を駆[か]け回[まわ]っている。 | Chó con chạy lòng vòng trong công viên.
+立[た]ち塞[ふさ]がる | v1 | LẬP TẮC | chặn đường | 行[ゆ]く手[て]に{立[た]ち塞[ふさ]がる} | chặn lối đi | 大[おお]きな岩[いわ]が道[みち]に立[た]ち塞[ふさ]がっていた。 | Tảng đá lớn chắn ngang đường.
+切[き]り抜[ぬ]ける | v2 | THIẾT BẠT | vượt qua, thoát ra | 危機[きき]を{切[き]り抜[ぬ]ける} | vượt qua khủng hoảng | 困難[こんなん]な状況[じょうきょう]を切[き]り抜[ぬ]けた。 | Đã vượt qua tình huống khó khăn.

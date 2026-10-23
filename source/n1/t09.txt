@@ -1,0 +1,196 @@
+@topic t09
+@ja 教育[きょういく]・学問[がくもん]・芸術[げいじゅつ]
+@vi Giáo dục, học thuật và nghệ thuật
+@desc Hệ thống trường học, nghiên cứu, truyền dạy tay nghề, nghệ thuật truyền thống và mỹ cảm Nhật Bản.
+学習[がくしゅう]指導[しどう]要領[ようりょう] | n | HỌC TẬP CHỈ ĐẠO YẾU LĨNH | chương trình khung giảng dạy | - | - | 学習[がくしゅう]指導[しどう]要領[ようりょう]の改訂[かいてい]で小学校[しょうがっこう]に英語[えいご]が入[はい]った。 | Chương trình khung sửa đổi đưa tiếng Anh vào tiểu học.
+教育[きょういく]課程[かてい] | n | GIÁO DỤC KHÓA TRÌNH | chương trình giáo dục | - | - | 学校[がっこう]ごとに特色[とくしょく]ある教育[きょういく]課程[かてい]を編成[へんせい]する。 | Mỗi trường xây dựng chương trình giáo dục có nét riêng.
+教科書[きょうかしょ]検定[けんてい] | n | GIÁO KHOA THƯ KIỂM ĐỊNH | thẩm định sách giáo khoa | - | - | 教科[きょうか]書[しょ]検定[けんてい]で歴史[れきし]の記述[きじゅつ]が修正[しゅうせい]された。 | Qua thẩm định sách giáo khoa, phần trình bày lịch sử được sửa.
+教具[きょうぐ] | n | GIÁO CỤ | đồ dùng dạy học | - | - | 新[あたら]しい教具[きょうぐ]を使[つか]って授業[じゅぎょう]を工夫[くふう]する。 | Dùng đồ dùng dạy học mới để cải tiến giờ học.
+教壇[きょうだん] | n | GIÁO ĐÀN | bục giảng | {教壇} に 立[た]つ | đứng lớp | 彼女[かのじょ]は三十[さんじゅう]年[ねん]間[かん]教壇[きょうだん]に立[た]ち続[つづ]けた。 | Bà đứng lớp liên tục ba mươi năm.
+教鞭[きょうべん] | n | GIÁO TIÊN | việc dạy học | {教鞭} を 執[と]る | làm thầy giáo | 退職[たいしょく]後[ご]は大学[だいがく]で教鞭[きょうべん]を執[と]っている。 | Sau khi nghỉ hưu, ông giảng dạy ở trường đại học.
+非常勤[ひじょうきん]講師[こうし] | n | PHI THƯỜNG CẦN GIẢNG SƯ | giảng viên thỉnh giảng | - | - | 三[みっ]つの大学[だいがく]で非常[ひじょう]勤[きん]講師[こうし]をしている。 | Tôi làm giảng viên thỉnh giảng ở ba trường đại học.
+助教[じょきょう] | n | TRỢ GIÁO | trợ giảng (chức danh đại học) | - | - | 博士[はかせ]号[ごう]を取[と]って助教[じょきょう]になった。 | Lấy bằng tiến sĩ xong tôi thành trợ giảng.
+学長[がくちょう] | n | HỌC TRƯỞNG | hiệu trưởng đại học | - | - | 入学[にゅうがく]式[しき]で学長[がくちょう]が式辞[しきじ]を述[の]べた。 | Hiệu trưởng phát biểu trong lễ nhập học.
+学部長[がくぶちょう] | n | HỌC BỘ TRƯỞNG | trưởng khoa | - | - | 学部[がくぶ]長[ちょう]に推薦[すいせん]状[じょう]を書[か]いてもらった。 | Tôi nhờ trưởng khoa viết thư giới thiệu.
+博士号[はくしごう] | n | BÁC SĨ HIỆU | học vị tiến sĩ | - | - | 五[ご]年[ねん]かけて博士[はくし]号[ごう]を取得[しゅとく]した。 | Mất năm năm để lấy được học vị tiến sĩ.
+論文[ろんぶん]審査[しんさ] | n | LUẬN VĂN THẨM TRA | bảo vệ, thẩm định luận văn | - | - | 来月[らいげつ]、博士[はくし]論文[ろんぶん]の審査[しんさ]がある。 | Tháng sau tôi bảo vệ luận án tiến sĩ.
+指導[しどう]教員[きょういん] | n | CHỈ ĐẠO GIÁO VIÊN | giáo viên hướng dẫn | - | - | 指導[しどう]教員[きょういん]と研究[けんきゅう]の方向[ほうこう]性[せい]を相談[そうだん]した。 | Tôi trao đổi với giáo viên hướng dẫn về hướng nghiên cứu.
+研究[けんきゅう]テーマ | n | NGHIÊN CỨU | đề tài nghiên cứu | - | - | 研究[けんきゅう]テーマがなかなか決[き]まらない。 | Mãi chưa chốt được đề tài nghiên cứu.
+科研費[かけんひ] | n | KHOA NGHIÊN PHÍ | kinh phí nghiên cứu khoa học | - | - | 科研[かけん]費[ひ]の申請[しんせい]書[しょ]を書[か]いている。 | Tôi đang viết hồ sơ xin kinh phí nghiên cứu.
+助成金[じょせいきん] | n | TRỢ THÀNH KIM | tiền tài trợ | - | - | 財団[ざいだん]から研究[けんきゅう]の助成[じょせい]金[きん]を受[う]けた。 | Tôi nhận tiền tài trợ nghiên cứu từ quỹ.
+給付型[きゅうふがた] | n | CẤP PHÓ HÌNH | loại không hoàn lại | {給付型} 奨学金[しょうがくきん] | học bổng không hoàn lại | 給付[きゅうふ]型[がた]奨学[しょうがく]金[きん]は返済[へんさい]の必要[ひつよう]がない。 | Học bổng không hoàn lại thì không cần trả.
+貸与型[たいよがた] | n | THẢI DỮ HÌNH | loại cho vay | - | - | 貸与[たいよ]型[がた]の奨学[しょうがく]金[きん]を卒業[そつぎょう]後[ご]に返[かえ]している。 | Tôi đang trả khoản học bổng dạng vay sau khi tốt nghiệp.
+共通[きょうつう]テスト | n | CỘNG THÔNG | kỳ thi đánh giá chung | - | - | 一月[いちがつ]に大学[だいがく]入学[にゅうがく]共通[きょうつう]テストが行[おこな]われる。 | Tháng một diễn ra kỳ thi đánh giá chung đầu vào đại học.
+第一[だいいち]志望[しぼう] | n | ĐỆ NHẤT CHÍ VỌNG | nguyện vọng một | - | - | 第[だい]一[いち]志望[しぼう]の大学[だいがく]に合格[ごうかく]した。 | Tôi đỗ trường đại học nguyện vọng một.
+定員[ていいん]割[わ]れ | n | ĐỊNH VIÊN CÁT | không tuyển đủ chỉ tiêu | - | - | 少子[しょうし]化[か]で定員[ていいん]割[わ]れする大学[だいがく]が増[ふ]えている。 | Do ít trẻ em, số trường đại học tuyển không đủ chỉ tiêu tăng lên.
+競争率[きょうそうりつ] | n | CẠNH TRANH SUẤT | tỷ lệ chọi | - | - | この学校[がっこう]の入試[にゅうし]は競争[きょうそう]率[りつ]が十[じゅう]倍[ばい]だ。 | Kỳ tuyển sinh của trường này có tỷ lệ chọi mười.
+社会人[しゃかいじん]入学[にゅうがく] | n | XÃ HỘI NHÂN NHẬP HỌC | nhập học dành cho người đi làm | - | - | 四十[よんじゅう]歳[さい]で大学院[だいがくいん]に社会[しゃかい]人[じん]入学[にゅうがく]した。 | Tôi vào cao học diện người đi làm ở tuổi bốn mươi.
+交換[こうかん]留学[りゅうがく] | n | GIAO HOÁN LƯU HỌC | du học trao đổi | - | - | 交換[こうかん]留学[りゅうがく]でフランスの大学[だいがく]に一[いち]年[ねん]通[かよ]った。 | Tôi học một năm ở đại học Pháp theo diện trao đổi.
+高学歴[こうがくれき] | n | CAO HỌC LỊCH | học vấn cao | - | - | 高[こう]学歴[がくれき]でも就職[しゅうしょく]に苦労[くろう]する人[ひと]がいる。 | Có người học vấn cao vẫn vất vả tìm việc.
+同窓生[どうそうせい] | n | ĐỒNG SONG SINH | bạn cùng trường | - | - | 卒業[そつぎょう]二十[にじゅう]年[ねん]ぶりに同窓[どうそう]生[せい]と再会[さいかい]した。 | Gặp lại bạn cùng trường sau hai mươi năm tốt nghiệp.
+登校[とうこう] | n,v3 | ĐĂNG HIỆU | đến trường | {登校} 班[はん] | nhóm cùng đi học | 子供[こども]たちは集団[しゅうだん]で登校[とうこう]している。 | Lũ trẻ đi học theo nhóm.
+下校[げこう] | n,v3 | HẠ HIỆU | tan học về | - | - | 下校[げこう]時間[じかん]には見守[みまも]りのボランティアが立[た]っている。 | Giờ tan học có tình nguyện viên đứng trông chừng.
+登校[とうこう]拒否[きょひ] | n | ĐĂNG HIỆU CỰ PHỦ | từ chối đến trường | - | - | いじめが原因[げんいん]で登校[とうこう]拒否[きょひ]になった。 | Do bị bắt nạt mà em từ chối đến trường.
+校内[こうない]暴力[ぼうりょく] | n | HIỆU NỘI BẠO LỰC | bạo lực học đường | - | - | 1980年代[ねんだい]には校内[こうない]暴力[ぼうりょく]が社会[しゃかい]問題[もんだい]になった。 | Thập niên 80, bạo lực học đường trở thành vấn đề xã hội.
+公立[こうりつ] | n | CÔNG LẬP | công lập | - | - | 公立[こうりつ]の小学校[しょうがっこう]に通[かよ]わせている。 | Tôi cho con học trường tiểu học công lập.
+私立[しりつ] | n | TƯ LẬP | tư thục | - | - | 私立[しりつ]大学[だいがく]は授業[じゅぎょう]料[りょう]が高[たか]い。 | Đại học tư có học phí cao.
+国立[こくりつ] | n | QUỐC LẬP | quốc lập | - | - | 国立[こくりつ]大学[だいがく]を目指[めざ]して勉強[べんきょう]している。 | Tôi đang học để vào đại học quốc lập.
+国公立[こっこうりつ] | n | QUỐC CÔNG LẬP | quốc lập và công lập | - | - | 国公立[こっこうりつ]大学[だいがく]の二[に]次[じ]試験[しけん]を受[う]けた。 | Tôi dự vòng thi thứ hai của các trường đại học công.
+共学[きょうがく] | n | CỘNG HỌC | trường chung nam nữ | - | - | 高校[こうこう]は男女[だんじょ]共学[きょうがく]だった。 | Trường cấp ba của tôi là trường nam nữ học chung.
+男子校[だんしこう] | n | NAM TỬ HIỆU | trường nam sinh | - | - | 男子[だんし]校[こう]出身[しゅっしん]なので女性[じょせい]と話[はな]すのが苦手[にがて]だ。 | Tôi học trường nam sinh nên ngại nói chuyện với phụ nữ.
+女子校[じょしこう] | n | NỮ TỬ HIỆU | trường nữ sinh | - | - | 母[はは]も私[わたし]も同[おな]じ女子[じょし]校[こう]を卒業[そつぎょう]した。 | Mẹ và tôi cùng tốt nghiệp một trường nữ sinh.
+一貫校[いっかんこう] | n | NHẤT QUÁN HIỆU | trường liên cấp | - | - | 小中[しょうちゅう]一貫[いっかん]校[こう]が各地[かくち]に作[つく]られている。 | Trường liên cấp tiểu học – THCS đang được lập ở nhiều nơi.
+中高[ちゅうこう]一貫[いっかん] | n | TRUNG CAO NHẤT QUÁN | liên cấp THCS–THPT | - | - | 中高[ちゅうこう]一貫[いっかん]教育[きょういく]で受験[じゅけん]の負担[ふたん]が減[へ]る。 | Giáo dục liên cấp giảm áp lực thi chuyển cấp.
+インターナショナルスクール | n | - | trường quốc tế | - | - | 子供[こども]をインターナショナルスクールに通[かよ]わせている。 | Tôi cho con học trường quốc tế.
+詰[つ]め込[こ]み教育[きょういく] | n | CẬT NHẬP GIÁO DỤC | giáo dục nhồi nhét | - | - | 詰[つ]め込[こ]み教育[きょういく]への反省[はんせい]から、ゆとり教育[きょういく]が始[はじ]まった。 | Giáo dục thoải mái ra đời từ việc nhìn lại lối giáo dục nhồi nhét.
+ゆとり教育[きょういく] | n | GIÁO DỤC | giáo dục thoải mái | - | - | ゆとり教育[きょういく]は学力[がくりょく]低下[ていか]を招[まね]いたと批判[ひはん]された。 | Giáo dục thoải mái bị chỉ trích là gây suy giảm học lực.
+個性[こせい]尊重[そんちょう] | n | CÁ TÍNH TÔN TRỌNG | tôn trọng cá tính | - | - | この学校[がっこう]は個性[こせい]尊重[そんちょう]の教育[きょういく]を掲[かか]げている。 | Trường này theo đuổi nền giáo dục tôn trọng cá tính.
+自主性[じしゅせい] | n | TỰ CHỦ TÍNH | tính tự chủ | - | - | 子供[こども]の自主[じしゅ]性[せい]を伸[の]ばすことが大切[たいせつ]だ。 | Phát triển tính tự chủ của trẻ là quan trọng.
+創造性[そうぞうせい] | n | SÁNG TẠO TÍNH | tính sáng tạo | - | - | 自由[じゆう]な遊[あそ]びが子供[こども]の創造[そうぞう]性[せい]を育[はぐく]む。 | Vui chơi tự do nuôi dưỡng tính sáng tạo của trẻ.
+思考力[しこうりょく] | n | TƯ KHẢO LỰC | khả năng tư duy | - | - | 暗記[あんき]より思考[しこう]力[りょく]を問[と]う問題[もんだい]が増[ふ]えた。 | Câu hỏi kiểm tra khả năng tư duy nhiều hơn học thuộc.
+表現力[ひょうげんりょく] | n | BIỂU HIỆN LỰC | khả năng diễn đạt | - | - | 作文[さくぶん]で表現[ひょうげん]力[りょく]を磨[みが]く。 | Mài giũa khả năng diễn đạt qua bài văn.
+読解力[どっかいりょく] | n | ĐỘC GIẢI LỰC | khả năng đọc hiểu | - | - | 読書[どくしょ]量[りょう]と読解[どっかい]力[りょく]には関係[かんけい]がある。 | Lượng sách đọc và khả năng đọc hiểu có liên quan.
+学力[がくりょく]低下[ていか] | n | HỌC LỰC ĐÊ HẠ | sa sút học lực | - | - | 子供[こども]の学力[がくりょく]低下[ていか]が心配[しんぱい]されている。 | Sự sa sút học lực của trẻ đang gây lo ngại.
+基礎[きそ]学力[がくりょく] | n | CƠ SỞ HỌC LỰC | học lực cơ bản | - | - | まず基礎[きそ]学力[がくりょく]をしっかり身[み]につけることだ。 | Trước hết phải nắm vững học lực cơ bản.
+学識[がくしき] | n | HỌC THỨC | học thức | {学識} 経験[けいけん] 者[しゃ] | chuyên gia có học thức và kinh nghiệm | 委員[いいん]会[かい]は学識[がくしき]経験[けいけん]者[しゃ]で構成[こうせい]されている。 | Ủy ban gồm các chuyên gia có học thức và kinh nghiệm.
+博識[はくしき] | n,adj-na | BÁC THỨC | hiểu biết rộng | - | - | 彼[かれ]は博識[はくしき]で、何[なん]でも知[し]っている。 | Anh ấy hiểu biết rộng, việc gì cũng biết.
+博学[はくがく] | n,adj-na | BÁC HỌC | uyên bác | - | - | 祖父[そふ]は博学[はくがく]な人[ひと]で、よく昔[むかし]の話[はなし]をしてくれた。 | Ông tôi là người uyên bác, hay kể chuyện ngày xưa.
+学問的[がくもんてき] | adj-na | HỌC VẤN ĐÍCH | mang tính học thuật | - | - | その説[せつ]には学問[がくもん]的[てき]な根拠[こんきょ]がない。 | Thuyết đó không có căn cứ học thuật.
+学術的[がくじゅつてき] | adj-na | HỌC THUẬT ĐÍCH | mang tính học thuật | - | - | この資料[しりょう]は学術[がくじゅつ]的[てき]に価値[かち]が高[たか]い。 | Tài liệu này có giá trị học thuật cao.
+研究[けんきゅう]機関[きかん] | n | NGHIÊN CỨU CƠ QUAN | cơ quan nghiên cứu | - | - | 大学[だいがく]や研究[けんきゅう]機関[きかん]が協力[きょうりょく]して開発[かいはつ]を進[すす]める。 | Các trường đại học và cơ quan nghiên cứu hợp tác phát triển.
+学究[がっきゅう] | n | HỌC CỨU | học giả chuyên tâm | {学究} 肌[はだ] | tính học giả | 彼[かれ]は根[ね]っからの学究[がっきゅう]肌[はだ]だ。 | Anh ấy bẩm sinh có tính cách của một học giả.
+探究心[たんきゅうしん] | n | THÁM CỨU TÂM | tinh thần tìm tòi | - | - | 子供[こども]の探究[たんきゅう]心[しん]を大切[たいせつ]にしたい。 | Tôi muốn trân trọng tinh thần tìm tòi của trẻ.
+向学心[こうがくしん] | n | HƯỚNG HỌC TÂM | lòng ham học | - | - | 向学[こうがく]心[しん]に燃[も]える若者[わかもの]を支援[しえん]する。 | Hỗ trợ những người trẻ cháy bỏng lòng ham học.
+体得[たいとく] | n,v3 | THỂ ĐẮC | lĩnh hội qua trải nghiệm | - | - | 職人[しょくにん]の技[わざ]は長年[ながねん]の経験[けいけん]で体得[たいとく]するものだ。 | Tay nghề thợ thủ công là thứ lĩnh hội qua nhiều năm kinh nghiệm.
+会得[えとく] | n,v3 | HỘI ĐẮC | lĩnh hội, nắm được | コツ を {会得} する | nắm được bí quyết | 何度[なんど]も練習[れんしゅう]してようやくこつを会得[えとく]した。 | Luyện tập nhiều lần cuối cùng tôi đã nắm được bí quyết.
+熟達[じゅくたつ] | n,v3 | THỤC ĐẠT | thành thạo | - | - | 彼女[かのじょ]は三[みっ]つの言語[げんご]に熟達[じゅくたつ]している。 | Cô ấy thành thạo ba thứ tiếng.
+師弟[してい] | n | SƯ ĐỆ | thầy trò | {師弟} 関係[かんけい] | quan hệ thầy trò | 二人[ふたり]は強[つよ]い師弟[してい]関係[かんけい]で結[むす]ばれている。 | Hai người gắn bó bằng quan hệ thầy trò bền chặt.
+門下生[もんかせい] | n | MÔN HẠ SINH | môn sinh | - | - | 彼[かれ]の門下[もんか]生[せい]から多[おお]くの名人[めいじん]が育[そだ]った。 | Nhiều bậc thầy đã trưởng thành từ hàng môn sinh của ông.
+弟子入[でしい]り | n,v3 | ĐỆ TỬ NHẬP | nhập môn làm đệ tử | - | - | 十五[じゅうご]歳[さい]で寿司[すし]職人[しょくにん]に弟子[でし]入[い]りした。 | Năm mười lăm tuổi anh nhập môn làm đệ tử của thợ sushi.
+手[て]ほどき | n,v3 | THỦ | hướng dẫn nhập môn | - | - | 祖母[そぼ]から着物[きもの]の着付[きつ]けの手[て]ほどきを受[う]けた。 | Tôi được bà hướng dẫn cách mặc kimono.
+薫陶[くんとう] | n,v3 | HUÂN ĐÀO | sự dạy dỗ, hun đúc | {薫陶} を 受[う]ける | được dạy dỗ | 恩師[おんし]の薫陶[くんとう]を受[う]けて研究[けんきゅう]者[しゃ]になった。 | Nhờ được thầy hun đúc mà tôi trở thành nhà nghiên cứu.
+啓発[けいはつ] | n,v3 | KHẢI PHÁT | khai sáng, nâng cao nhận thức | 自己[じこ] {啓発} | tự hoàn thiện bản thân | 交通[こうつう]安全[あんぜん]の啓発[けいはつ]活動[かつどう]を行[おこな]う。 | Tiến hành hoạt động nâng cao nhận thức về an toàn giao thông.
+啓蒙[けいもう] | n,v3 | KHẢI MÔNG | khai sáng | - | - | 福沢[ふくざわ]諭吉[ゆきち]は日本[にほん]の近代[きんだい]化[か]を啓蒙[けいもう]した。 | Fukuzawa Yukichi đã khai sáng cho công cuộc hiện đại hóa Nhật Bản.
+家元[いえもと] | n | GIA NGUYÊN | trưởng môn phái | - | - | 茶道[さどう]の家元[いえもと]が新年[しんねん]の茶会[ちゃかい]を開[ひら]いた。 | Trưởng môn phái trà đạo mở buổi trà đầu năm.
+流派[りゅうは] | n | LƯU PHÁI | trường phái | - | - | 生[い]け花[ばな]にはさまざまな流派[りゅうは]がある。 | Cắm hoa có nhiều trường phái khác nhau.
+巨匠[きょしょう] | n | CỰ TƯỢNG | bậc thầy lớn | - | - | 映画[えいが]界[かい]の巨匠[きょしょう]が新作[しんさく]を発表[はっぴょう]した。 | Bậc thầy điện ảnh công bố tác phẩm mới.
+名匠[めいしょう] | n | DANH TƯỢNG | nghệ nhân lừng danh | - | - | この刀[かたな]は江戸[えど]時代[じだい]の名匠[めいしょう]の作[さく]だ。 | Thanh kiếm này là tác phẩm của nghệ nhân lừng danh thời Edo.
+匠[たくみ] | n | TƯỢNG | nghệ nhân | {匠} の 技[わざ] | tay nghề nghệ nhân | 匠[たくみ]の技[わざ]が光[ひか]る家具[かぐ]だ。 | Món đồ gỗ tỏa sáng tay nghề nghệ nhân.
+職人技[しょくにんわざ] | n | CHỨC NHÂN KỸ | tay nghề thợ thủ công | - | - | 細部[さいぶ]まで職人[しょくにん]技[わざ]が生[い]かされている。 | Tay nghề thợ thủ công thể hiện đến từng chi tiết.
+狂言[きょうげん] | n | CUỒNG NGÔN | kịch kyogen; màn kịch dàn dựng | {狂言} 強盗[ごうとう] | vụ cướp dàn dựng | 被害[ひがい]は狂言[きょうげん]だったことが判明[はんめい]した。 | Vụ thiệt hại hóa ra là một màn dàn dựng.
+文楽[ぶんらく] | n | VĂN LẠC | múa rối bunraku | - | - | 大阪[おおさか]で初[はじ]めて文楽[ぶんらく]を観[み]た。 | Lần đầu tôi xem múa rối bunraku ở Osaka.
+和歌[わか] | n | HÒA CA | thơ waka | - | - | 平安[へいあん]時代[じだい]の貴族[きぞく]は和歌[わか]を詠[よ]んで気持[きも]ちを伝[つた]えた。 | Quý tộc thời Heian làm thơ waka để bày tỏ tình cảm.
+文豪[ぶんごう] | n | VĂN HÀO | văn hào | - | - | 夏目[なつめ]漱石[そうせき]は明治[めいじ]の文豪[ぶんごう]だ。 | Natsume Soseki là văn hào thời Minh Trị.
+駄作[ださく] | n | ĐÀ TÁC | tác phẩm dở | - | - | 期待[きたい]していた映画[えいが]は駄作[ださく]だった。 | Bộ phim tôi mong đợi hóa ra rất dở.
+漆器[しっき] | n | TẤT KHÍ | đồ sơn mài | - | - | 輪島[わじま]は漆器[しっき]の産地[さんち]として有名[ゆうめい]だ。 | Wajima nổi tiếng là nơi sản xuất đồ sơn mài.
+染物[そめもの] | n | NHIỄM VẬT | hàng nhuộm | - | - | 京都[きょうと]の染物[そめもの]は色[いろ]が美[うつく]しい。 | Hàng nhuộm Kyoto có màu sắc đẹp.
+織物[おりもの] | n | CHỨC VẬT | hàng dệt | - | - | この地方[ちほう]は昔[むかし]から織物[おりもの]が盛[さか]んだ。 | Vùng này từ xưa đã phát triển nghề dệt.
+水墨画[すいぼくが] | n | THỦY MẶC HỌA | tranh thủy mặc | - | - | 寺[てら]のふすまに見事[みごと]な水墨[すいぼく]画[が]が描[えが]かれている。 | Trên cửa kéo của chùa có bức tranh thủy mặc tuyệt đẹp.
+日本画[にほんが] | n | NHẬT BẢN HỌA | tranh Nhật | - | - | 日本[にほん]画[が]は岩絵具[いわえのぐ]を使[つか]って描[えが]く。 | Tranh Nhật được vẽ bằng màu khoáng.
+写実[しゃじつ] | n | TẢ THỰC | tả thực | {写実} 的[てき] | mang tính tả thực | 彼[かれ]の絵[え]は写真[しゃしん]のように写実[しゃじつ]的[てき]だ。 | Tranh của anh ấy tả thực như ảnh chụp.
+抽象画[ちゅうしょうが] | n | TRỪU TƯỢNG HỌA | tranh trừu tượng | - | - | 抽象[ちゅうしょう]画[が]は見[み]る人[ひと]によって解釈[かいしゃく]が違[ちが]う。 | Tranh trừu tượng mỗi người hiểu một khác.
+画風[がふう] | n | HỌA PHONG | phong cách vẽ | - | - | 晩年[ばんねん]、彼[かれ]の画風[がふう]は大[おお]きく変化[へんか]した。 | Về cuối đời, phong cách vẽ của ông thay đổi lớn.
+画材[がざい] | n | HỌA TÀI | họa cụ | - | - | 画材[がざい]店[てん]で絵[え]の具[ぐ]と筆[ふで]を買[か]った。 | Tôi mua màu và cọ ở cửa hàng họa cụ.
+キャンバス | n | - | vải toan | - | - | 白[しろ]いキャンバスに大胆[だいたん]に色[いろ]を塗[ぬ]った。 | Tô màu táo bạo lên tấm toan trắng.
+筆致[ひっち] | n | BÚT TRÍ | nét bút, bút pháp | - | - | 繊細[せんさい]な筆致[ひっち]で人物[じんぶつ]の心情[しんじょう]を描[えが]いている。 | Khắc họa tâm trạng nhân vật bằng bút pháp tinh tế.
+タッチ | n,v3 | - | nét vẽ; chạm | - | - | 柔[やわ]らかいタッチの水彩[すいさい]画[が]が好[す]きだ。 | Tôi thích tranh màu nước có nét vẽ mềm mại.
+構図[こうず] | n | CẤU ĐỒ | bố cục | - | - | この写真[しゃしん]は構図[こうず]がいい。 | Bức ảnh này có bố cục đẹp.
+色彩[しきさい] | n | SẮC THÁI | màu sắc | {色彩} 感覚[かんかく] | cảm quan màu sắc | 彼女[かのじょ]の作品[さくひん]は色彩[しきさい]が豊[ゆた]かだ。 | Tác phẩm của cô ấy giàu màu sắc.
+配色[はいしょく] | n | PHỐI SẮC | phối màu | - | - | 部屋[へや]の配色[はいしょく]を落[お]ち着[つ]いた色[いろ]にまとめた。 | Phối màu căn phòng bằng các tông trầm.
+濃淡[のうたん] | n | NỒNG ĐẠM | đậm nhạt | - | - | 墨[すみ]の濃淡[のうたん]だけで山[やま]を表現[ひょうげん]する。 | Thể hiện núi chỉ bằng độ đậm nhạt của mực.
+陰影[いんえい] | n | ÂM ẢNH | bóng tối, chiều sâu | {陰影} に 富[と]む | giàu chiều sâu | 陰影[いんえい]に富[と]んだ文章[ぶんしょう]で人間[にんげん]を描[えが]く。 | Khắc họa con người bằng văn chương giàu chiều sâu.
+余白[よはく] | n | DƯ BẠCH | khoảng trắng | {余白} の 美[び] | vẻ đẹp khoảng trống | 日本[にほん]画[が]は余白[よはく]を生[い]かした構図[こうず]が特徴[とくちょう]だ。 | Tranh Nhật có đặc trưng là bố cục tận dụng khoảng trống.
+造形[ぞうけい] | n,v3 | TẠO HÌNH | tạo hình | {造形} 美[び] | vẻ đẹp tạo hình | 自然[しぜん]が作[つく]り出[だ]した造形[ぞうけい]美[び]に感動[かんどう]した。 | Tôi xúc động trước vẻ đẹp tạo hình do thiên nhiên tạo ra.
+意匠[いしょう] | n | Ý TƯỢNG | kiểu dáng, thiết kế | {意匠} 登録[とうろく] | đăng ký kiểu dáng | 着物[きもの]の意匠[いしょう]には季節[きせつ]の花[はな]が使[つか]われる。 | Hoa theo mùa được dùng trong thiết kế kimono.
+様式[ようしき] | n | DẠNG THỨC | phong cách, kiểu thức | 建築[けんちく] {様式} | phong cách kiến trúc | この教会[きょうかい]はゴシック様式[ようしき]で建[た]てられた。 | Nhà thờ này được xây theo phong cách Gothic.
+美意識[びいしき] | n | MỸ Ý THỨC | ý thức thẩm mỹ | - | - | 日本[にほん]人[じん]の美[び]意識[いしき]は自然[しぜん]と深[ふか]く結[むす]びついている。 | Ý thức thẩm mỹ của người Nhật gắn bó sâu sắc với thiên nhiên.
+侘[わ]び寂[さ]び | n | SÁ TỊCH | vẻ đẹp giản dị tĩnh lặng (wabi-sabi) | - | - | 古[ふる]い茶碗[ちゃわん]に侘[わ]び寂[さ]びを感[かん]じる。 | Tôi cảm nhận vẻ đẹp wabi-sabi ở chiếc chén cũ.
+粋[いき] | n,adj-na | TÚY | sành điệu, thanh lịch kiểu Edo | {粋} な はからい | cách xử sự tinh tế | 店主[てんしゅ]の粋[いき]なはからいでデザートをサービスしてもらった。 | Nhờ cách xử sự tinh tế của chủ quán, tôi được tặng món tráng miệng.
+風流[ふうりゅう] | n,adj-na | PHONG LƯU | tao nhã | - | - | 月[つき]を眺[なが]めながら酒[さけ]を飲[の]むとは風流[ふうりゅう]だ。 | Vừa ngắm trăng vừa uống rượu thật tao nhã.
+風情[ふぜい] | n | PHONG TÌNH | vẻ đẹp nên thơ | - | - | 雨[あめ]の京都[きょうと]にも独特[どくとく]の風情[ふぜい]がある。 | Kyoto mưa cũng có vẻ nên thơ riêng.
+情緒[じょうちょ] | n | TÌNH TỰ | cảm xúc; không khí, phong vị (còn đọc じょうしょ) | 下町[したまち] {情緒} | phong vị phố cổ | この町[まち]には昔[むかし]ながらの下町[したまち]情緒[じょうちょ]が残[のこ]っている。 | Thị trấn này còn giữ phong vị phố cổ như xưa.
+雅[みやび] | n,adj-na | NHÃ | tao nhã, cung đình | - | - | 平安[へいあん]時代[じだい]の雅[みやび]な文化[ぶんか]を再現[さいげん]した。 | Tái hiện văn hóa tao nhã cung đình thời Heian.
+典雅[てんが] | adj-na | ĐIỂN NHÃ | thanh nhã cổ điển | - | - | 典雅[てんが]な舞[まい]に観客[かんきゃく]は息[いき]をのんだ。 | Khán giả nín thở trước điệu múa thanh nhã cổ điển.
+華麗[かれい] | adj-na | HOA LỆ | lộng lẫy, hoa lệ | {華麗} な 技[わざ] | kỹ thuật điêu luyện | 選手[せんしゅ]は華麗[かれい]な演技[えんぎ]で観客[かんきゃく]を魅了[みりょう]した。 | Vận động viên mê hoặc khán giả bằng màn trình diễn lộng lẫy.
+壮麗[そうれい] | adj-na | TRÁNG LỆ | tráng lệ | - | - | 壮麗[そうれい]な宮殿[きゅうでん]に圧倒[あっとう]された。 | Tôi choáng ngợp trước cung điện tráng lệ.
+荘厳[そうごん] | adj-na | TRANG NGHIÊM | trang nghiêm | - | - | 大聖堂[だいせいどう]の中[なか]は荘厳[そうごん]な雰囲気[ふんいき]に包[つつ]まれていた。 | Bên trong đại thánh đường bao trùm không khí trang nghiêm.
+調和[ちょうわ] | n,v3 | ĐIỀU HÒA | hài hòa | {調和} が とれる | hài hòa | 新[あたら]しい建物[たてもの]は周囲[しゅうい]の景観[けいかん]と調和[ちょうわ]している。 | Tòa nhà mới hài hòa với cảnh quan xung quanh.
+学芸員[がくげいいん] | n | HỌC NGHỆ VIÊN | người phụ trách bảo tàng | - | - | 学芸[がくげい]員[いん]が展示[てんじ]品[ひん]について解説[かいせつ]してくれた。 | Người phụ trách bảo tàng giải thích về hiện vật trưng bày.
+収蔵[しゅうぞう] | n,v3 | THU TÀNG | lưu giữ, sưu tập | {収蔵} 品[ひん] | hiện vật lưu giữ | 美術館[びじゅつかん]は一万[いちまん]点[てん]以上[いじょう]の作品[さくひん]を収蔵[しゅうぞう]している。 | Bảo tàng mỹ thuật lưu giữ trên mười nghìn tác phẩm.
+所蔵[しょぞう] | n,v3 | SỞ TÀNG | sở hữu (tác phẩm) | - | - | この絵[え]は個人[こじん]が所蔵[しょぞう]している。 | Bức tranh này do một cá nhân sở hữu.
+出品[しゅっぴん] | n,v3 | XUẤT PHẨM | gửi trưng bày; đăng bán | - | - | フリマアプリに古着[ふるぎ]を出品[しゅっぴん]した。 | Tôi đăng bán quần áo cũ lên ứng dụng chợ đồ cũ.
+入選[にゅうせん] | n,v3 | NHẬP TUYỂN | được chọn (vào triển lãm, cuộc thi) | - | - | 彼[かれ]の写真[しゃしん]がコンテストに入選[にゅうせん]した。 | Bức ảnh của anh ấy được chọn trong cuộc thi.
+審査員[しんさいん] | n | THẨM TRA VIÊN | giám khảo | - | - | 審査[しんさ]員[いん]全員[ぜんいん]が彼女[かのじょ]の作品[さくひん]を高[たか]く評価[ひょうか]した。 | Toàn bộ giám khảo đánh giá cao tác phẩm của cô.
+楽団[がくだん] | n | NHẠC ĐOÀN | dàn nhạc | - | - | 市民[しみん]楽団[がくだん]の演奏[えんそう]会[かい]に行[い]った。 | Tôi đi xem buổi biểu diễn của dàn nhạc thị dân.
+交響楽団[こうきょうがくだん] | n | GIAO HƯỞNG NHẠC ĐOÀN | dàn nhạc giao hưởng | - | - | 彼女[かのじょ]は交響[こうきょう]楽団[がくだん]でバイオリンを弾[ひ]いている。 | Cô ấy chơi violin trong dàn nhạc giao hưởng.
+和音[わおん] | n | HÒA ÂM | hợp âm | - | - | ピアノで簡単[かんたん]な和音[わおん]を弾[ひ]けるようになった。 | Tôi đã chơi được các hợp âm đơn giản trên đàn piano.
+劇団[げきだん] | n | KỊCH ĐOÀN | đoàn kịch | - | - | 学生[がくせい]時代[じだい]は劇団[げきだん]に所属[しょぞく]していた。 | Thời sinh viên tôi thuộc một đoàn kịch.
+脚本家[きゃくほんか] | n | CƯỚC BẢN GIA | biên kịch | - | - | 人気[にんき]脚本[きゃくほん]家[か]の新作[しんさく]ドラマが始[はじ]まった。 | Bộ phim mới của nhà biên kịch nổi tiếng đã lên sóng.
+演出家[えんしゅつか] | n | DIỄN XUẤT GIA | đạo diễn sân khấu | - | - | 演出[えんしゅつ]家[か]の指示[しじ]で舞台[ぶたい]の照明[しょうめい]が変[か]わった。 | Ánh sáng sân khấu thay đổi theo chỉ thị của đạo diễn.
+初演[しょえん] | n,v3 | SƠ DIỄN | công diễn lần đầu | - | - | このオペラは百[ひゃく]年[ねん]前[まえ]にウィーンで初演[しょえん]された。 | Vở opera này công diễn lần đầu ở Vienna một trăm năm trước.
+千秋楽[せんしゅうらく] | n | THIÊN THU LẠC | buổi diễn cuối, ngày bế mạc | - | - | 相撲[すもう]の千秋[せんしゅう]楽[らく]で優勝[ゆうしょう]が決[き]まった。 | Chức vô địch sumo được định đoạt vào ngày bế mạc.
+興行[こうぎょう] | n,v3 | HƯNG HÀNH | biểu diễn, kinh doanh giải trí | - | - | サーカスの興行[こうぎょう]が全国[ぜんこく]を回[まわ]っている。 | Đoàn xiếc đi biểu diễn khắp cả nước.
+興行[こうぎょう]収入[しゅうにゅう] | n | HƯNG HÀNH THU NHẬP | doanh thu phòng vé | - | - | その映画[えいが]は興行[こうぎょう]収入[しゅうにゅう]百[ひゃく]億[おく]円[えん]を突破[とっぱ]した。 | Bộ phim vượt mười tỷ yên doanh thu phòng vé.
+映画[えいが]監督[かんとく] | n | ÁNH HỌA GIÁM ĐỐC | đạo diễn phim | - | - | 子供[こども]のころから映画[えいが]監督[かんとく]になるのが夢[ゆめ]だった。 | Từ nhỏ tôi đã mơ trở thành đạo diễn phim.
+助演[じょえん] | n,v3 | TRỢ DIỄN | vai phụ | {助演} 男優[だんゆう] 賞[しょう] | giải nam phụ | 彼[かれ]はこの映画[えいが]で助演[じょえん]男優[だんゆう]賞[しょう]を受賞[じゅしょう]した。 | Anh nhận giải nam phụ xuất sắc với bộ phim này.
+キャスト | n | - | dàn diễn viên | - | - | 豪華[ごうか]なキャストが話題[わだい]になっている。 | Dàn diễn viên hoành tráng đang được bàn tán.
+名優[めいゆう] | n | DANH ƯU | diễn viên tài danh | - | - | 名優[めいゆう]の演技[えんぎ]に観客[かんきゃく]は涙[なみだ]を流[なが]した。 | Khán giả rơi lệ trước diễn xuất của diễn viên tài danh.
+芸人[げいにん] | n | NGHỆ NHÂN | nghệ sĩ hài, người làm nghề biểu diễn | お笑[わら]い {芸人} | nghệ sĩ hài | 人気[にんき]のお笑[わら]い芸人[げいにん]がテレビに出[で]ている。 | Nghệ sĩ hài nổi tiếng đang xuất hiện trên tivi.
+芸能界[げいのうかい] | n | NGHỆ NĂNG GIỚI | giới showbiz | - | - | 彼女[かのじょ]は十代[じゅうだい]で芸能[げいのう]界[かい]に入[はい]った。 | Cô bước vào showbiz từ tuổi thiếu niên.
+タレント | n | - | người nổi tiếng trên truyền hình | - | - | 人気[にんき]タレントがCMに起用[きよう]された。 | Người nổi tiếng được chọn đóng quảng cáo.
+暗喩[あんゆ] | n | ÁM DỤ | ẩn dụ | {暗喩}を用[もち]いる | dùng ẩn dụ | この詩[し]は暗喩[あんゆ]を巧[たく]みに用[もち]いている。 | Bài thơ này sử dụng ẩn dụ một cách khéo léo.
+韻[いん] | n | VẬN | vần | {韻}を踏[ふ]む | gieo vần | 日本語[にほんご]の詩[し]でも韻[いん]を踏[ふ]む技法[ぎほう]がある。 | Thơ tiếng Nhật cũng có kỹ pháp gieo vần.
+抒情[じょじょう] | n | TRỮ TÌNH | trữ tình | {抒情}的[てき]な | mang tính trữ tình | 抒情[じょじょう]的[てき]な旋律[せんりつ]に聴衆[ちょうしゅう]が涙[なみだ]した。 | Giai điệu trữ tình khiến khán giả rơi nước mắt.
+朗誦[ろうしょう] | n | LÃNG TỤNG | ngâm thơ, đọc diễn cảm | 詩[し]を{朗誦}する | ngâm thơ | 卒業式[そつぎょうしき]で生徒[せいと]が詩[し]を朗誦[ろうしょう]した。 | Học sinh ngâm thơ trong lễ tốt nghiệp.
+暗唱[あんしょう] | n | ÁM XƯỚNG | đọc thuộc lòng | {暗唱}する | đọc thuộc lòng | 百人一首[ひゃくにんいっしゅ]を暗唱[あんしょう]できる。 | Có thể đọc thuộc lòng Bách nhân nhất thủ.
+講壇[こうだん] | n | GIẢNG ĐÀN | bục giảng | {講壇}に立[た]つ | đứng trên bục giảng | 30年間[ねんかん]講壇[こうだん]に立[た]ち続[つづ]けた教授[きょうじゅ]が退官[たいかん]する。 | Giáo sư đứng trên bục giảng 30 năm sẽ về hưu.
+俗説[ぞくせつ] | n | TỤC THUYẾT | thuyết dân gian | {俗説}を覆[くつがえ]す | lật đổ thuyết dân gian | 科学的[かがくてき]な実験[じっけん]が俗説[ぞくせつ]を覆[くつがえ]した。 | Thí nghiệm khoa học đã lật đổ thuyết dân gian.
+異説[いせつ] | n | DỊ THUYẾT | thuyết khác, ý kiến trái | {異説}を唱[とな]える | nêu thuyết khác | その学者[がくしゃ]は従来[じゅうらい]の定説[ていせつ]に対[たい]して異説[いせつ]を唱[とな]えた。 | Học giả đó đã nêu thuyết khác với định thuyết trước nay.
+概論[がいろん] | n | KHÁI LUẬN | khái luận, đại cương | {概論}を学[まな]ぶ | học đại cương | 1年生[ねんせい]は哲学[てつがく]概論[がいろん]を履修[りしゅう]する。 | Sinh viên năm nhất học đại cương triết học.
+各論[かくろん] | n | CÁC LUẬN | các luận, phần chi tiết | {各論}に入[はい]る | vào phần chi tiết | 総論[そうろん]を終[お]えてから各論[かくろん]に入[はい]る。 | Kết thúc tổng luận rồi mới vào các luận.
+総論[そうろん] | n | TỔNG LUẬN | tổng luận, phần tổng quan | {総論}賛成[さんせい] | tổng luận tán thành | 総論[そうろん]賛成[さんせい]各論[かくろん]反対[はんたい]という状況[じょうきょう]だ。 | Tình hình tổng thể thì đồng ý nhưng chi tiết thì phản đối.
+題材[だいざい] | n | ĐỀ TÀI | đề tài, chất liệu | {題材}にする | lấy làm đề tài | 戦争[せんそう]を題材[だいざい]にした映画[えいが]が公開[こうかい]された。 | Phim lấy đề tài chiến tranh được công chiếu.
+音階[おんかい] | n | ÂM GIAI | âm giai | {音階}を練習[れんしゅう]する | luyện âm giai | ピアノの音階[おんかい]を毎日[まいにち]練習[れんしゅう]している。 | Tôi luyện âm giai piano hàng ngày.
+調律[ちょうりつ] | n | ĐIỀU LUẬT | lên dây, chỉnh âm | ピアノを{調律}する | lên dây piano | 年[ねん]に2回[かい]ピアノを調律[ちょうりつ]してもらう。 | Một năm hai lần nhờ lên dây piano.
+奏法[そうほう] | n | TẤU PHÁP | tấu pháp, cách chơi | {奏法}を習得[しゅうとく]する | nắm vững tấu pháp | 独特[どくとく]な奏法[そうほう]で知[し]られるギタリストだ。 | Nghệ sĩ guitar nổi tiếng với tấu pháp độc đáo.
+独奏[どくそう] | n | ĐỘC TẤU | độc tấu | {独奏}を披露[ひろう]する | biểu diễn độc tấu | バイオリンの独奏[どくそう]が会場[かいじょう]を魅了[みりょう]した。 | Bản độc tấu violin đã mê hoặc khán phòng.
+合奏[がっそう] | n | HỢP TẤU | hòa tấu | {合奏}する | hòa tấu | 学生[がくせい]たちが弦楽[げんがく]合奏[がっそう]を披露[ひろう]した。 | Sinh viên biểu diễn hòa tấu đàn dây.
+協奏[きょうそう] | n | HIỆP TẤU | hiệp tấu | {協奏}曲[きょく] | hiệp tấu khúc | モーツァルトのピアノ協奏[きょうそう]曲[きょく]を演奏[えんそう]する。 | Chơi hiệp tấu khúc piano của Mozart.
+序曲[じょきょく] | n | TỰ KHÚC | khúc dạo đầu | {序曲}が始[はじ]まる | khúc dạo đầu bắt đầu | オペラの序曲[じょきょく]が壮大[そうだい]に響[ひび]き渡[わた]った。 | Khúc dạo đầu opera vang lên hùng tráng.
+楽章[がくしょう] | n | NHẠC CHƯƠNG | chương nhạc | 第[だい]1{楽章} | chương nhạc thứ nhất | 交響曲[こうきょうきょく]の第[だい]4楽章[がくしょう]が最[もっと]も有名[ゆうめい]だ。 | Chương nhạc thứ 4 của bản giao hưởng nổi tiếng nhất.
+譜面[ふめん] | n | PHỔ DIỆN | bản nhạc, trang phổ | {譜面}を見[み]る | xem bản nhạc | 譜面[ふめん]を見[み]ないで弾[ひ]ける。 | Có thể chơi mà không cần xem bản nhạc.
+五線譜[ごせんふ] | n | NGŨ TUYẾN PHỔ | khuông nhạc năm dòng | {五線譜}に書[か]く | ghi lên khuông nhạc | 作曲家[さっきょくか]が五線譜[ごせんふ]にメロディーを書[か]き込[こ]んだ。 | Nhạc sĩ ghi giai điệu lên khuông nhạc.
+素描[そびょう] | n | TỐ MIÊU | phác họa | {素描}を描[えが]く | phác họa | デッサンの基本[きほん]は素描[そびょう]にある。 | Nền tảng của vẽ cơ bản nằm ở phác họa.
+水彩[すいさい] | n | THỦY THẢI | màu nước | {水彩}で描[えが]く | vẽ bằng màu nước | 水彩[すいさい]で風景[ふうけい]を描[えが]くのが趣味[しゅみ]だ。 | Sở thích của tôi là vẽ phong cảnh bằng màu nước.
+淡彩[たんさい] | n | ĐẠM THẢI | màu nhạt, tranh sáng màu | {淡彩}画[が] | tranh màu nhạt | 淡彩[たんさい]の風景[ふうけい]画[が]が展示[てんじ]されている。 | Tranh phong cảnh màu nhạt đang được trưng bày.
+画廊[がろう] | n | HỌA LANG | phòng tranh | {画廊}を巡[めぐ]る | đi vòng quanh phòng tranh | 銀座[ぎんざ]の画廊[がろう]を巡[めぐ]って新人[しんじん]画家[がか]の作品[さくひん]を見[み]た。 | Đi vòng quanh phòng tranh Ginza xem tác phẩm họa sĩ mới.
+秀作[しゅうさく] | n | TÚ TÁC | tác phẩm xuất sắc | {秀作}が揃[そろ]う | tập hợp tác phẩm xuất sắc | 今年[ことし]のコンクールは秀作[しゅうさく]が揃[そろ]っている。 | Cuộc thi năm nay tập hợp nhiều tác phẩm xuất sắc.
+遺作[いさく] | n | DI TÁC | di tác, tác phẩm cuối | {遺作}を公開[こうかい]する | công khai di tác | 画家[がか]の遺作[いさく]が死後[しご]20年[ねん]ぶりに公開[こうかい]された。 | Di tác của họa sĩ được công khai sau 20 năm mất.
+贋作[がんさく] | n | NHẠN TÁC | đồ giả, tranh giả | {贋作}と判明[はんめい]する | phát hiện là đồ giả | 名画[めいが]だと思[おも]われていたが贋作[がんさく]と判明[はんめい]した。 | Tưởng là danh họa nhưng phát hiện là tranh giả.
+模写[もしゃ] | n | MÔ TẢ | sao chép, chép tranh | {模写}する | sao chép | 美術[びじゅつ]の授業[じゅぎょう]で名画[めいが]を模写[もしゃ]した。 | Trong giờ mỹ thuật đã chép lại danh họa.
+具象[ぐしょう] | n | CỤ TƯỢNG | cụ tượng, hình tượng cụ thể | {具象}画[が] | tranh cụ tượng | 具象[ぐしょう]と抽象[ちゅうしょう]の境界[きょうかい]を探[さぐ]る作品[さくひん]だ。 | Đây là tác phẩm khám phá ranh giới giữa cụ tượng và trừu tượng.
+浄瑠璃[じょうるり] | n | TỊNH LƯU LY | jōruri (kịch rối Nhật) | {浄瑠璃}を語[かた]る | kể chuyện jōruri | 人形浄瑠璃[にんぎょうじょうるり]は大阪[おおさか]で生[う]まれた芸能[げいのう]だ。 | Múa rối jōruri là nghệ thuật sinh ra ở Osaka.
+川柳[せんりゅう] | n | XUYÊN LIỄU | senryū (thơ trào phúng) | {川柳}を詠[よ]む | làm thơ senryū | サラリーマン川柳[せんりゅう]が毎年[まいとし]話題[わだい]になる。 | Thơ trào phúng dân công sở hàng năm trở thành đề tài nóng.
+連歌[れんが] | n | LIÊN CA | renga (thơ liên ngâm) | {連歌}を巻[ま]く | sáng tác renga | 室町[むろまち]時代[じだい]には連歌[れんが]が盛[さか]んだった。 | Thời Muromachi, thơ liên ngâm rất thịnh hành.
+詩吟[しぎん] | n | THI NGÂM | ngâm thơ Hán | {詩吟}を習[なら]う | học ngâm thơ | 祖父[そふ]は詩吟[しぎん]の師範[しはん]だった。 | Ông nội là sư phạm ngâm thơ Hán.
+門下[もんか] | n | MÔN HẠ | môn hạ, đệ tử | {門下}に入[はい]る | nhập môn | 名[めい]師匠[ししょう]の門下[もんか]に入[はい]って修業[しゅぎょう]した。 | Nhập môn danh sư phụ để tu nghiệp.
+門弟[もんてい] | n | MÔN ĐỆ | đệ tử, học trò | {門弟}を育[そだ]てる | đào tạo đệ tử | 多[おお]くの門弟[もんてい]を育[そだ]てた陶芸[とうげい]家[か]だ。 | Đó là nghệ nhân gốm đã đào tạo nhiều đệ tử.
+師事[しじ] | n | SƯ SỰ | thờ thầy, học theo | {師事}する | thờ thầy | 有名[ゆうめい]な画家[がか]に師事[しじ]して技[わざ]を磨[みが]いた。 | Học theo họa sĩ nổi tiếng để trau dồi kỹ năng.
+私淑[ししゅく] | n | TƯ THỤC | tư thục, ngưỡng mộ và tự học theo | {私淑}する | tư thục | 夏目漱石[なつめそうせき]に私淑[ししゅく]する作家[さっか]は多[おお]い。 | Nhiều nhà văn tự học theo Natsume Sōseki.
+知見[ちけん] | n | TRI KIẾN | tri kiến, kiến thức | {知見}を深[ふか]める | đào sâu tri kiến | 海外[かいがい]留学[りゅうがく]で知見[ちけん]を深[ふか]めた。 | Du học nước ngoài đã đào sâu tri kiến.
+悟性[ごせい] | n | NGỘ TÍNH | trí năng, năng lực nhận thức | {悟性}に優[すぐ]れる | trí năng vượt trội | カントは悟性[ごせい]と理性[りせい]を区別[くべつ]した。 | Kant đã phân biệt trí năng và lý tính.
+原論[げんろん] | n | NGUYÊN LUẬN | nguyên luận, lý thuyết cơ bản | {原論}を読[よ]む | đọc nguyên luận | ユークリッドの原論[げんろん]は幾何学[きかがく]の基礎[きそ]だ。 | Nguyên luận Euclid là nền tảng hình học.
+教授法[きょうじゅほう] | n | GIÁO THỤ PHÁP | phương pháp giảng dạy | {教授法}を研究[けんきゅう]する | nghiên cứu phương pháp giảng dạy | 新[あたら]しい教授法[きょうじゅほう]を導入[どうにゅう]した。 | Đã áp dụng phương pháp giảng dạy mới.
+副教材[ふくきょうざい] | n | PHÓ GIÁO TÀI | tài liệu phụ | {副教材}を配布[はいふ]する | phát tài liệu phụ | 副教材[ふくきょうざい]としてプリントを配[くば]った。 | Phát bản in làm tài liệu phụ.
+修論[しゅうろん] | n | TU LUẬN | luận văn thạc sĩ | {修論}を書[か]く | viết luận văn thạc sĩ | 修論[しゅうろん]のテーマが決[き]まらない。 | Chưa quyết định được đề tài luận văn thạc sĩ.
+博論[はくろん] | n | BÁC LUẬN | luận văn tiến sĩ | {博論}を提出[ていしゅつ]する | nộp luận văn tiến sĩ | 博論[はくろん]の審査[しんさ]に合格[ごうかく]した。 | Đã đỗ phản biện luận văn tiến sĩ.
+紀要[きよう] | n | KỶ YẾU | kỷ yếu (tạp chí đại học) | 大学[だいがく]{紀要} | kỷ yếu đại học | 研究[けんきゅう]成果[せいか]を紀要[きよう]に発表[はっぴょう]した。 | Công bố kết quả nghiên cứu trên kỷ yếu.
+学報[がくほう] | n | HỌC BÁO | tập san học thuật | {学報}に掲載[けいさい]する | đăng trên tập san | 学報[がくほう]に論文[ろんぶん]が掲載[けいさい]された。 | Bài luận được đăng trên tập san học thuật.
+助手[じょしゅ] | n | TRỢ THỦ | trợ giảng | 研究[けんきゅう]{助手} | trợ giảng nghiên cứu | 助手[じょしゅ]として研究室[けんきゅうしつ]で働[はたら]いている。 | Đang làm việc tại phòng nghiên cứu với tư cách trợ giảng.
+名誉教授[めいよきょうじゅ] | n | DANH DỰ GIÁO THỤ | giáo sư danh dự | {名誉教授}の称号[しょうごう] | danh hiệu giáo sư danh dự | 退官後[たいかんご]、名誉[めいよ]教授[きょうじゅ]の称号[しょうごう]を受[う]けた。 | Sau khi nghỉ hưu, được nhận danh hiệu giáo sư danh dự.
+教務[きょうむ] | n | GIÁO VỤ | giáo vụ | {教務}課[か] | phòng giáo vụ | 教務[きょうむ]課[か]で時間割[じかんわり]を確認[かくにん]した。 | Xác nhận thời khóa biểu tại phòng giáo vụ.
+学務[がくむ] | n | HỌC VỤ | học vụ | {学務}委員[いいん] | ủy viên học vụ | 学務[がくむ]委員[いいん]が教育[きょういく]課程[かてい]を審議[しんぎ]する。 | Ủy viên học vụ thẩm định chương trình giáo dục.
+奨学[しょうがく] | n | TƯỞNG HỌC | học bổng | {奨学}金[きん] | học bổng | 奨学[しょうがく]金[きん]を受[う]けて留学[りゅうがく]した。 | Du học nhờ học bổng.
+特待[とくたい] | n | ĐẶC ĐÃI | đãi ngộ đặc biệt | {特待}生[せい] | sinh viên được đãi ngộ đặc biệt | 特待[とくたい]生[せい]として学費[がくひ]が免除[めんじょ]された。 | Được miễn học phí với tư cách sinh viên đặc biệt.
+開講[かいこう] | n | KHAI GIẢNG | khai giảng | {開講}する | khai giảng | 来月[らいげつ]から新[あたら]しい講座[こうざ]が開講[かいこう]する。 | Khóa học mới sẽ khai giảng từ tháng sau.
+補講[ほこう] | n | BỔ GIẢNG | bổ giảng, học bù | {補講}を行[おこな]う | tiến hành học bù | 休講[きゅうこう]分[ぶん]の補講[ほこう]が行[おこな]われる。 | Tiến hành học bù cho buổi nghỉ.

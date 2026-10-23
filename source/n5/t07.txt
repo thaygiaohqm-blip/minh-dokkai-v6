@@ -1,0 +1,83 @@
+@topic t07
+@ja 買[か]い物[もの]と服[ふく]
+@vi Mua sắm, quần áo và màu sắc
+@desc Cửa hàng, tiền bạc, cách trả tiền, quần áo, màu sắc và các tính từ mô tả kích thước, độ nặng nhẹ.
+買[か]う | v1 | MÃI | mua | お土産[みやげ] を 買[か]う | mua quà | 家族[かぞく]にお土産[みやげ]を買[か]いました。 | Tôi đã mua quà cho gia đình.
+売[う]る | v1 | MẠI | bán | 安[やす]く 売[う]る | bán rẻ | この店[みせ]は野菜[やさい]を安[やす]く売[う]っています。 | Cửa hàng này bán rau rẻ.
+買[か]い物[もの] | n | MÃI VẬT | việc mua sắm | 買[か]い物[もの] に 行[い]く | đi mua sắm | 週末[しゅうまつ]は妹[いもうと]と買[か]い物[もの]に行[い]きます。 | Cuối tuần tôi đi mua sắm với em gái.
+店[みせ] | n | ĐIẾM | cửa hàng | 店[みせ] が 混[こ]む | cửa hàng đông | 土曜日[どようび]はどの店[みせ]も混[こ]んでいます。 | Thứ Bảy cửa hàng nào cũng đông.
+デパート | n | - | trung tâm thương mại | - | - | デパートで母[はは]のプレゼントを買[か]いました。 | Tôi mua quà cho mẹ ở trung tâm thương mại.
+スーパー | n | - | siêu thị | - | - | 夜[よる]のスーパーは野菜[やさい]が安[やす]くなります。 | Buổi tối rau ở siêu thị rẻ hơn.
+コンビニ | n | - | cửa hàng tiện lợi | - | - | コンビニは二十四[にじゅうよ]時間[じかん]開[あ]いています。 | Cửa hàng tiện lợi mở cửa 24 giờ.
+本屋[ほんや] | n | BẢN ỐC | hiệu sách | - | - | 本屋[ほんや]で日本語[にほんご]の教科書[きょうかしょ]を買[か]いました。 | Tôi đã mua sách giáo khoa tiếng Nhật ở hiệu sách.
+花屋[はなや] | n | HOA ỐC | cửa hàng hoa | - | - | 花屋[はなや]でバラを五[ご]本[ほん]買[か]いました。 | Tôi đã mua năm bông hồng ở hàng hoa.
+売[う]り場[ば] | n | MẠI TRƯỜNG | quầy bán hàng | 靴[くつ] {売[う]り場[ば]} | quầy giày | 靴[くつ]売[う]り場[ば]は三[さん]階[がい]です。 | Quầy giày ở tầng ba.
+品物[しなもの] | n | PHẨM VẬT | hàng hóa | - | - | この店[みせ]の品物[しなもの]はどれも質[しつ]がいいです。 | Hàng ở cửa hàng này món nào cũng chất lượng tốt.
+お金[かね] | n | KIM | tiền | お金[かね] を 貯[た]める | tiết kiệm tiền | 車[くるま]を買[か]うために、お金[かね]を貯[た]めています。 | Tôi đang tiết kiệm tiền để mua ô tô.
+円[えん] | ctr | VIÊN | yên (tiền Nhật) | - | - | このシャツは三千[さんぜん]円[えん]です。 | Chiếc áo sơ mi này giá ba nghìn yên.
+値段[ねだん] | n | TRỊ ĐOẠN | giá cả | 値段[ねだん] が 高[たか]い | giá đắt | 駅前[えきまえ]の店[みせ]は値段[ねだん]が高[たか]いです。 | Cửa hàng trước ga giá đắt.
+高[たか]い | adj-i | CAO | đắt; cao | 背[せ] が 高[たか]い | cao (người) | 兄[あに]は背[せ]が高[たか]くて、百八十[ひゃくはちじゅう]センチあります。 | Anh tôi cao, tận một mét tám.
+安[やす]い | adj-i | AN | rẻ | 安[やす]い 店[みせ] | cửa hàng rẻ | 駅[えき]の近[ちか]くに安[やす]い店[みせ]があります。 | Gần ga có cửa hàng rẻ.
+いくら | q | - | bao nhiêu (tiền) | - | - | このかばんはいくらですか。 | Cái túi này bao nhiêu tiền?
+いくつ | q | - | mấy cái; mấy tuổi | - | - | りんごはいくつ要[い]りますか。 | Bạn cần mấy quả táo?
+払[はら]う | v1 | PHẤT | trả (tiền) | カード で 払[はら]う | trả bằng thẻ | カードで払[はら]ってもいいですか。 | Tôi trả bằng thẻ được không?
+おつり | n | - | tiền thừa, tiền thối | おつり を もらう | nhận tiền thừa | おつりをもらうのを忘[わす]れました。 | Tôi quên nhận tiền thừa.
+レジ | n | - | quầy thu ngân | - | - | レジの前[まえ]に長[なが]い列[れつ]ができています。 | Trước quầy thu ngân có hàng dài.
+カード | n | - | thẻ | - | - | ポイントカードはお持[も]ちですか。 | Quý khách có thẻ tích điểm không ạ?
+袋[ふくろ] | n | ĐẠI | túi | 袋[ふくろ] に 入[い]れる | cho vào túi | 買[か]った物[もの]を袋[ふくろ]に入[い]れました。 | Tôi cho đồ đã mua vào túi.
+探[さが]す | v1 | THÁM | tìm | 部屋[へや] を 探[さが]す | tìm phòng | 大学[だいがく]の近[ちか]くで部屋[へや]を探[さが]しています。 | Tôi đang tìm phòng gần trường đại học.
+選[えら]ぶ | v1 | TUYỂN | chọn | プレゼント を 選[えら]ぶ | chọn quà | 母[はは]の誕生日[たんじょうび]のプレゼントを選[えら]んでいます。 | Tôi đang chọn quà sinh nhật cho mẹ.
+見[み]せる | v2 | KIẾN | cho xem | パスポート を 見[み]せる | xuất trình hộ chiếu | 空港[くうこう]でパスポートを見[み]せました。 | Tôi đã xuất trình hộ chiếu ở sân bay.
+貸[か]す | v1 | THẢI | cho mượn | お金[かね] を 貸[か]す | cho vay tiền | 友達[ともだち]にお金[かね]を貸[か]しました。 | Tôi đã cho bạn vay tiền.
+借[か]りる | v2 | TÁ | mượn | 本[ほん] を 借[か]りる | mượn sách | 図書館[としょかん]で本[ほん]を借[か]りました。 | Tôi đã mượn sách ở thư viện.
+ください | exp | - | xin cho tôi | - | - | このりんごを三[みっ]つください。 | Cho tôi ba quả táo này.
+お土産[みやげ] | n | THỔ SẢN | quà (mang về từ chuyến đi) | - | - | 北海道[ほっかいどう]のお土産[みやげ]はお菓子[かし]が人気[にんき]です。 | Quà Hokkaido thì bánh kẹo được ưa chuộng.
+プレゼント | n | - | quà tặng | - | - | 友達[ともだち]から素敵[すてき]なプレゼントをもらいました。 | Tôi nhận được món quà đẹp từ bạn.
+服[ふく] | n | PHỤC | quần áo | - | - | 新[あたら]しい服[ふく]を買[か]いに行[い]きます。 | Tôi đi mua quần áo mới.
+洋服[ようふく] | n | DƯƠNG PHỤC | quần áo kiểu Âu | - | - | 姉[あね]は洋服[ようふく]をたくさん持[も]っています。 | Chị tôi có rất nhiều quần áo.
+着[き]る | v2 | TRƯỚC | mặc (áo) | 服[ふく] を 着[き]る | mặc quần áo | 寒[さむ]いので、厚[あつ]い服[ふく]を着[き]ました。 | Lạnh nên tôi mặc áo dày.
+脱[ぬ]ぐ | v1 | THOÁT | cởi | 靴[くつ] を 脱[ぬ]ぐ | cởi giày | ここで靴[くつ]を脱[ぬ]いでください。 | Xin hãy cởi giày ở đây.
+はく | v1 | - | mặc (quần, váy); đi (giày) | ズボン を はく | mặc quần | 今日[きょう]は黒[くろ]いズボンをはいています。 | Hôm nay tôi mặc quần đen.
+かぶる | v1 | - | đội (mũ) | 帽子[ぼうし] を かぶる | đội mũ | 暑[あつ]い日[ひ]は帽子[ぼうし]をかぶりましょう。 | Ngày nắng nóng hãy đội mũ.
+シャツ | n | - | áo sơ mi | - | - | 白[しろ]いシャツにアイロンをかけます。 | Tôi là chiếc áo sơ mi trắng.
+ワイシャツ | n | - | áo sơ mi công sở | - | - | 会社[かいしゃ]にはワイシャツを着[き]ていきます。 | Tôi mặc sơ mi công sở đi làm.
+セーター | n | - | áo len | - | - | 母[はは]がセーターを編[あ]んでくれました。 | Mẹ đã đan áo len cho tôi.
+コート | n | - | áo khoác dài | - | - | 寒[さむ]いので、コートを着[き]て出[で]かけます。 | Lạnh nên tôi mặc áo khoác rồi ra ngoài.
+上着[うわぎ] | n | THƯỢNG TRƯỚC | áo khoác ngoài | - | - | 上着[うわぎ]はここに掛[か]けてください。 | Hãy treo áo khoác ở đây.
+ズボン | n | - | quần dài | - | - | このズボンは少[すこ]し長[なが]いです。 | Chiếc quần này hơi dài.
+スカート | n | - | váy | - | - | 赤[あか]いスカートがよく似合[にあ]いますね。 | Chiếc váy đỏ rất hợp với bạn.
+靴[くつ] | n | NGOA | giày | - | - | 新[あたら]しい靴[くつ]で足[あし]が痛[いた]いです。 | Đi giày mới nên tôi bị đau chân.
+靴下[くつした] | n | NGOA HẠ | tất, vớ | - | - | 冬[ふゆ]は厚[あつ]い靴下[くつした]をはきます。 | Mùa đông tôi đi tất dày.
+帽子[ぼうし] | n | MẠO TỬ | mũ | - | - | 電車[でんしゃ]に帽子[ぼうし]を忘[わす]れてしまいました。 | Tôi để quên mũ trên tàu mất rồi.
+ネクタイ | n | - | cà vạt | ネクタイ を 締[し]める | thắt cà vạt | 面接[めんせつ]の日[ひ]はネクタイを締[し]めます。 | Ngày phỏng vấn tôi thắt cà vạt.
+着物[きもの] | n | TRƯỚC VẬT | kimono | - | - | お正月[しょうがつ]に着物[きもの]を着[き]ました。 | Dịp Tết tôi đã mặc kimono.
+色[いろ] | n | SẮC | màu sắc | 明[あか]るい 色[いろ] | màu sáng | 春[はる]は明[あか]るい色[いろ]の服[ふく]が着[き]たいです。 | Mùa xuân tôi muốn mặc đồ màu sáng.
+赤[あか]い | adj-i | XÍCH | đỏ | 顔[かお] が 赤[あか]い | đỏ mặt | お酒[さけ]を飲[の]むと、すぐ顔[かお]が赤[あか]くなります。 | Hễ uống rượu là tôi đỏ mặt ngay.
+青[あお]い | adj-i | THANH | xanh lam | 青[あお]い 空[そら] | bầu trời xanh | 今日[きょう]は青[あお]い空[そら]がきれいです。 | Hôm nay bầu trời xanh thật đẹp.
+白[しろ]い | adj-i | BẠCH | trắng | - | - | 白[しろ]い雪[ゆき]が降[ふ]っています。 | Tuyết trắng đang rơi.
+黒[くろ]い | adj-i | HẮC | đen | - | - | 黒[くろ]い猫[ねこ]が庭[にわ]にいます。 | Có con mèo đen trong vườn.
+黄色[きいろ]い | adj-i | HOÀNG SẮC | vàng | - | - | 秋[あき]になると、葉[は]が黄色[きいろ]くなります。 | Mùa thu lá chuyển vàng.
+茶色[ちゃいろ] | n | TRÀ SẮC | màu nâu | - | - | 茶色[ちゃいろ]の靴[くつ]を買[か]いました。 | Tôi đã mua đôi giày màu nâu.
+緑[みどり] | n | LỤC | màu xanh lá | - | - | この公園[こうえん]は緑[みどり]が多[おお]いです。 | Công viên này nhiều cây xanh.
+大[おお]きい | adj-i | ĐẠI | to, lớn | 大[おお]きい 声[こえ] | giọng to | もう少[すこ]し大[おお]きい声[こえ]で話[はな]してください。 | Hãy nói to hơn một chút.
+小[ちい]さい | adj-i | TIỂU | nhỏ, bé | - | - | この靴[くつ]は少[すこ]し小[ちい]さいです。 | Đôi giày này hơi nhỏ.
+長[なが]い | adj-i | TRƯỜNG | dài | 髪[かみ] が 長[なが]い | tóc dài | 妹[いもうと]は髪[かみ]が長[なが]いです。 | Em gái tôi tóc dài.
+短[みじか]い | adj-i | ĐOẢN | ngắn | 短[みじか]い 時間[じかん] | thời gian ngắn | 短[みじか]い時間[じかん]でたくさん覚[おぼ]えました。 | Tôi đã nhớ được nhiều thứ trong thời gian ngắn.
+太[ふと]い | adj-i | THÁI | to, mập | - | - | 太[ふと]いペンで名前[なまえ]を書[か]いてください。 | Hãy viết tên bằng bút nét to.
+細[ほそ]い | adj-i | TẾ | mảnh, thon | - | - | 細[ほそ]い道[みち]を通[とお]って駅[えき]へ行[い]きます。 | Tôi đi qua con đường nhỏ để ra ga.
+厚[あつ]い | adj-i | HẬU | dày | 厚[あつ]い 本[ほん] | quyển sách dày | こんなに厚[あつ]い本[ほん]は読[よ]めません。 | Tôi không đọc nổi quyển sách dày thế này.
+薄[うす]い | adj-i | BẠC | mỏng; nhạt | - | - | 薄[うす]いシャツでは寒[さむ]いですよ。 | Mặc áo mỏng thì lạnh đấy.
+重[おも]い | adj-i | TRỌNG | nặng | 重[おも]い 荷物[にもつ] | hành lý nặng | 重[おも]い荷物[にもつ]を持[も]ちましょうか。 | Để tôi xách hành lý nặng giúp nhé?
+軽[かる]い | adj-i | KHINH | nhẹ | - | - | このパソコンはとても軽[かる]いです。 | Chiếc máy tính này rất nhẹ.
+新[あたら]しい | adj-i | TÂN | mới | - | - | 新[あたら]しい携帯[けいたい]を買[か]いました。 | Tôi đã mua điện thoại mới.
+古[ふる]い | adj-i | CỔ | cũ | 古[ふる]い 建物[たてもの] | tòa nhà cũ | この町[まち]には古[ふる]い建物[たてもの]が多[おお]いです。 | Thị trấn này có nhiều tòa nhà cũ.
+いい | adj-i | - | tốt, được | - | - | このかばんはデザインがいいですね。 | Chiếc cặp này thiết kế đẹp nhỉ.
+同[おな]じ | adj-na | ĐỒNG | giống nhau | 同[おな]じ もの | cùng một thứ | 私[わたし]も同[おな]じものをください。 | Cho tôi cũng một món y như vậy.
+半分[はんぶん] | n | BÁN PHÂN | một nửa | 半分[はんぶん] に 切[き]る | cắt làm đôi | ケーキを半分[はんぶん]に切[き]って、二人[ふたり]で食[た]べました。 | Chúng tôi cắt đôi chiếc bánh và ăn cùng nhau.
+ポスト | n | - | hòm thư | ポスト に 入[い]れる | bỏ vào hòm thư | 手紙[てがみ]をポストに入[い]れてきます。 | Tôi đi bỏ thư vào hòm đây.
+枚[まい] | ctr | MAI | tờ, tấm (vật mỏng) | - | - | 切手[きって]を五[ご]枚[まい]ください。 | Cho tôi năm con tem.
+冊[さつ] | ctr | SÁCH | quyển (sách, vở) | - | - | 一[ひと]月[つき]に本[ほん]を二[に]冊[さつ]読[よ]みます。 | Mỗi tháng tôi đọc hai quyển sách.
+個[こ] | ctr | CÁ | cái, quả (vật nhỏ) | - | - | 卵[たまご]を十[じゅっ]個[こ]買[か]ってきてください。 | Hãy mua giúp mười quả trứng.
+台[だい] | ctr | ĐÀI | chiếc (máy móc, xe) | - | - | 駐車場[ちゅうしゃじょう]に車[くるま]が三[さん]台[だい]あります。 | Trong bãi đỗ có ba chiếc ô tô.
+回[かい] | ctr | HỒI | lần | - | - | 一[いっ]週間[しゅうかん]に三[さん]回[かい]ジムに行[い]きます。 | Mỗi tuần tôi đi phòng tập ba lần.
+階[かい] | ctr | GIAI | tầng | - | - | 私[わたし]の部屋[へや]は八[はっ]階[かい]です。 | Phòng tôi ở tầng tám.

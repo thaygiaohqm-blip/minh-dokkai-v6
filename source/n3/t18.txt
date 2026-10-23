@@ -1,0 +1,129 @@
+@topic t18
+@ja 文化[ぶんか]・習慣[しゅうかん]
+@vi Văn hóa và phong tục
+@desc Lễ tết và phong tục quanh năm, nghệ thuật truyền thống, tôn giáo và tín ngưỡng, nghi thức giao tế và các dịp hiếu hỷ.
+文化[ぶんか] | n | VĂN HÓA | văn hóa | 文化[ぶんか] の 違[ちが]い | khác biệt văn hóa | 国[くに]によって文化[ぶんか]の違[ちが]いがあります。 | Mỗi nước có sự khác biệt văn hóa.
+違[ちが]い | n | VI | sự khác biệt | - | - | 二[ふた]つの違[ちが]いが分[わ]かりません。 | Tôi không hiểu sự khác nhau giữa hai cái.
+伝統[でんとう] | n | TRUYỀN THỐNG | truyền thống | 伝統[でんとう] を 守[まも]る | giữ gìn truyền thống | この村[むら]は古[ふる]い伝統[でんとう]を守[まも]っています。 | Ngôi làng này giữ gìn truyền thống xưa.
+伝統的[でんとうてき] | adj-na | TRUYỀN THỐNG ĐÍCH | mang tính truyền thống | - | - | 伝統的[でんとうてき]な日本[にほん]の家[いえ]に泊[と]まりました。 | Tôi ở trong ngôi nhà Nhật truyền thống.
+風習[ふうしゅう] | n | PHONG TẬP | phong tục | - | - | 地方[ちほう]には珍[めずら]しい風習[ふうしゅう]が残[のこ]っています。 | Ở địa phương còn lưu giữ phong tục hiếm.
+珍[めずら]しい | adj-i | TRÂN | hiếm, lạ | - | - | 珍[めずら]しい鳥[とり]を見[み]ました。 | Tôi thấy một loài chim hiếm.
+年中行事[ねんじゅうぎょうじ] | n | NIÊN TRUNG HÀNH SỰ | lễ hội trong năm | - | - | 日本[にほん]の年中行事[ねんじゅうぎょうじ]を紹介[しょうかい]します。 | Xin giới thiệu các lễ hội trong năm của Nhật.
+儀式[ぎしき] | n | NGHI THỨC | nghi thức | - | - | 神社[じんじゃ]で古[ふる]い儀式[ぎしき]が行[おこな]われました。 | Ở đền đã cử hành nghi thức cổ.
+節分[せつぶん] | n | TIẾT PHÂN | lễ Setsubun | - | - | 節分[せつぶん]には「鬼[おに]は外[そと]」と言[い]って豆[まめ]をまきます。 | Ngày Setsubun người ta rắc đậu và hô "quỷ ra ngoài".
+鬼[おに] | n | QUỶ | con quỷ | - | - | 父[ちち]が鬼[おに]のお面[めん]をかぶりました。 | Bố đeo mặt nạ quỷ.
+雛祭[ひなまつ]り | n | SỒ TẾ | lễ hội búp bê (bé gái) | - | - | 三月[さんがつ]三日[みっか]は雛祭[ひなまつ]りです。 | Ngày 3 tháng 3 là lễ hội búp bê.
+七夕[たなばた] | n | THẤT TỊCH | lễ Thất tịch | - | - | 七夕[たなばた]に短冊[たんざく]に願[ねが]いを書[か]きます。 | Ngày Thất tịch viết điều ước lên giấy.
+盆踊[ぼんおど]り | n | BỒN DŨNG | múa Obon | - | - | 夏祭[なつまつ]りで盆踊[ぼんおど]りを踊[おど]りました。 | Ở lễ hội mùa hè tôi đã múa Obon.
+大晦日[おおみそか] | n | ĐẠI HỐI NHẬT | đêm giao thừa | - | - | 大晦日[おおみそか]は年越[としこ]しそばを食[た]べます。 | Đêm giao thừa ăn mì soba tất niên.
+年越[としこ]し | n,v3 | NIÊN VIỆT | đón năm mới | - | - | 家族[かぞく]と年越[としこ]しをしました。 | Tôi đón năm mới cùng gia đình.
+初詣[はつもうで] | n | SƠ NGHỆ | đi lễ đầu năm | - | - | 元日[がんじつ]に初詣[はつもうで]に行[い]きました。 | Mùng một tôi đi lễ đầu năm.
+元日[がんじつ] | n | NGUYÊN NHẬT | ngày mùng một Tết | - | - | 元日[がんじつ]はどこの店[みせ]も休[やす]みです。 | Mùng một cửa hàng nào cũng nghỉ.
+お節料理[せちりょうり] | n | TIẾT LIÊU LÝ | món ăn Tết Nhật | - | - | 母[はは]がお節料理[せちりょうり]を作[つく]りました。 | Mẹ làm món ăn ngày Tết.
+雑煮[ぞうに] | n | TẠP CHỬ | canh bánh dày Tết | - | - | お正月[しょうがつ]にお雑煮[ぞうに]を食[た]べます。 | Tết ăn canh bánh dày.
+餅[もち] | n | BÍNH | bánh dày mochi | 餅[もち] を つく | giã bánh mochi | 年末[ねんまつ]に家族[かぞく]で餅[もち]をつきました。 | Cuối năm cả nhà giã bánh mochi.
+門松[かどまつ] | n | MÔN TÙNG | cây thông trang trí cổng Tết | - | - | 玄関[げんかん]に門松[かどまつ]を飾[かざ]ります。 | Đặt cây thông trang trí ở cổng.
+飾[かざ]る | v1 | SỨC | trang trí | - | - | 部屋[へや]に花[はな]を飾[かざ]りました。 | Tôi cắm hoa trang trí phòng.
+飾[かざ]り | n | SỨC | đồ trang trí | - | - | クリスマスの飾[かざ]りを片付[かたづ]けました。 | Tôi dọn đồ trang trí Giáng sinh.
+和服[わふく] | n | HÒA PHỤC | trang phục Nhật | - | - | 和服[わふく]を着[き]て茶会[ちゃかい]に行[い]きました。 | Tôi mặc trang phục Nhật đi dự tiệc trà.
+帯[おび] | n | ĐỚI | đai lưng (kimono) | 帯[おび] を 締[し]める | thắt đai | 着物[きもの]の帯[おび]を締[し]めてもらいました。 | Tôi được thắt đai kimono.
+下駄[げた] | n | HẠ ĐÀ | guốc gỗ | - | - | 浴衣[ゆかた]に下駄[げた]を履[は]きました。 | Tôi đi guốc gỗ với yukata.
+扇子[せんす] | n | PHIẾN TỬ | quạt xếp | - | - | 暑[あつ]いので扇子[せんす]で扇[あお]ぎました。 | Nóng nên tôi phe phẩy quạt xếp.
+うちわ | n | - | quạt nan | - | - | 夏祭[なつまつ]りでうちわをもらいました。 | Tôi được tặng quạt nan ở lễ hội mùa hè.
+風鈴[ふうりん] | n | PHONG LINH | chuông gió | - | - | 風鈴[ふうりん]の音[おと]が涼[すず]しいです。 | Tiếng chuông gió mát lành.
+提灯[ちょうちん] | n | ĐỀ ĐĂNG | đèn lồng | - | - | お祭[まつ]りで提灯[ちょうちん]が飾[かざ]られています。 | Đèn lồng được treo trong lễ hội.
+太鼓[たいこ] | n | THÁI CỔ | trống | 太鼓[たいこ] を 叩[たた]く | đánh trống | お祭[まつ]りで太鼓[たいこ]を叩[たた]きました。 | Tôi đánh trống ở lễ hội.
+叩[たた]く | v1 | KHẤU | gõ, đập | - | - | ドアを叩[たた]く音[おと]がしました。 | Có tiếng gõ cửa.
+三味線[しゃみせん] | n | TAM VỊ TUYẾN | đàn shamisen | - | - | 祖母[そぼ]は三味線[しゃみせん]が弾[ひ]けます。 | Bà tôi chơi được đàn shamisen.
+歌舞伎[かぶき] | n | CA VŨ KỸ | kịch Kabuki | - | - | 東京[とうきょう]で歌舞伎[かぶき]を見[み]ました。 | Tôi xem kịch Kabuki ở Tokyo.
+落語[らくご] | n | LẠC NGỮ | tấu hài Rakugo | - | - | 落語[らくご]を聞[き]いて笑[わら]いました。 | Nghe Rakugo tôi đã cười.
+俳句[はいく] | n | BÀI CÚ | thơ Haiku | 俳句[はいく] を 詠[よ]む | làm thơ Haiku | 授業[じゅぎょう]で俳句[はいく]を詠[よ]みました。 | Trong giờ học tôi làm thơ Haiku.
+詠[よ]む | v1 | VỊNH | ngâm, làm (thơ) | - | - | 季節[きせつ]の歌[うた]を詠[よ]みます。 | Làm thơ về mùa.
+浮世絵[うきよえ] | n | PHÙ THẾ HỘI | tranh khắc gỗ Ukiyo-e | - | - | 美術館[びじゅつかん]で浮世絵[うきよえ]を見[み]ました。 | Tôi xem tranh Ukiyo-e ở bảo tàng.
+武道[ぶどう] | n | VÕ ĐẠO | võ đạo | - | - | 剣道[けんどう]や柔道[じゅうどう]は日本[にほん]の武道[ぶどう]です。 | Kiếm đạo và Nhu đạo là võ đạo Nhật.
+剣道[けんどう] | n | KIẾM ĐẠO | kiếm đạo | - | - | 中学校[ちゅうがっこう]で剣道[けんどう]部[ぶ]に入[はい]っていました。 | Hồi cấp hai tôi ở câu lạc bộ kiếm đạo.
+力士[りきし] | n | LỰC SĨ | đô vật sumo | - | - | 力士[りきし]はとても体[からだ]が大[おお]きいです。 | Đô vật sumo có thân hình rất to.
+宗教[しゅうきょう] | n | TÔN GIÁO | tôn giáo | - | - | 宗教[しゅうきょう]によって食[た]べられない物[もの]があります。 | Tùy tôn giáo có những món không ăn được.
+仏教[ぶっきょう] | n | PHẬT GIÁO | Phật giáo | - | - | 日本[にほん]には仏教[ぶっきょう]のお寺[てら]がたくさんあります。 | Nhật có nhiều chùa Phật giáo.
+神道[しんとう] | n | THẦN ĐẠO | Thần đạo | - | - | 神社[じんじゃ]は神道[しんとう]の施設[しせつ]です。 | Đền là cơ sở của Thần đạo.
+キリスト教[きょう] | n | GIÁO | Thiên Chúa giáo | - | - | 彼[かれ]はキリスト教[きょう]を信[しん]じています。 | Anh ấy theo đạo Thiên Chúa.
+信仰[しんこう] | n,v3 | TÍN NGƯỠNG | tín ngưỡng | - | - | 信仰[しんこう]の自由[じゆう]が認[みと]められています。 | Tự do tín ngưỡng được công nhận.
+拝[おが]む | v1 | BÁI | chắp tay vái | - | - | 仏壇[ぶつだん]の前[まえ]で手[て]を合[あ]わせて拝[おが]みます。 | Chắp tay vái trước bàn thờ Phật.
+仏壇[ぶつだん] | n | PHẬT ĐÀN | bàn thờ Phật trong nhà | - | - | 祖母[そぼ]は毎朝[まいあさ]仏壇[ぶつだん]にご飯[はん]を供[そな]えます。 | Sáng nào bà cũng dâng cơm lên bàn thờ.
+供[そな]える | v2 | CUNG | dâng cúng | - | - | お墓[はか]に花[はな]を供[そな]えました。 | Tôi dâng hoa lên mộ.
+線香[せんこう] | n | TUYẾN HƯƠNG | nhang | 線香[せんこう] を あげる | thắp nhang | 祖父[そふ]の仏壇[ぶつだん]に線香[せんこう]をあげました。 | Tôi thắp nhang trên bàn thờ ông.
+神様[かみさま] | n | THẦN DẠNG | thần linh | - | - | 神様[かみさま]にお願[ねが]いしました。 | Tôi cầu nguyện thần linh.
+縁起[えんぎ] | n | DUYÊN KHỞI | điềm, vận | 縁起[えんぎ] が いい | điềm lành | 富士山[ふじさん]の夢[ゆめ]は縁起[えんぎ]がいいと言[い]われています。 | Mơ thấy núi Phú Sĩ được cho là điềm lành.
+迷信[めいしん] | n | MÊ TÍN | mê tín | - | - | それはただの迷信[めいしん]です。 | Đó chỉ là mê tín.
+言[い]い伝[つた]え | n | NGÔN TRUYỀN | lời truyền miệng | - | - | この村[むら]には古[ふる]い言[い]い伝[つた]えがあります。 | Làng này có truyền thuyết xưa.
+伝説[でんせつ] | n | TRUYỀN THUYẾT | truyền thuyết | - | - | この湖[みずうみ]には竜[りゅう]の伝説[でんせつ]があります。 | Hồ này có truyền thuyết về rồng.
+昔話[むかしばなし] | n | TÍCH THOẠI | truyện cổ tích | - | - | 祖母[そぼ]が昔話[むかしばなし]をしてくれました。 | Bà kể chuyện cổ tích cho tôi.
+由来[ゆらい] | n,v3 | DO LAI | nguồn gốc | - | - | この地名[ちめい]の由来[ゆらい]を調[しら]べました。 | Tôi tìm hiểu nguồn gốc địa danh này.
+起源[きげん] | n | KHỞI NGUYÊN | khởi nguồn | - | - | 寿司[すし]の起源[きげん]は東南[とうなん]アジアだと言[い]われています。 | Người ta nói sushi bắt nguồn từ Đông Nam Á.
+本場[ほんば] | n | BẢN TRƯỜNG | nơi gốc, chính hiệu | - | - | 本場[ほんば]のイタリア料理[りょうり]を食[た]べました。 | Tôi đã ăn món Ý chính hiệu.
+郷土料理[きょうどりょうり] | n | HƯƠNG THỔ LIÊU LÝ | món ăn địa phương | - | - | 旅先[たびさき]で郷土料理[きょうどりょうり]を楽[たの]しみました。 | Tôi thưởng thức món địa phương ở nơi du lịch.
+方言[ほうげん] | n | PHƯƠNG NGÔN | phương ngữ | - | - | 祖父[そふ]の方言[ほうげん]が分[わ]かりません。 | Tôi không hiểu phương ngữ của ông.
+標準語[ひょうじゅんご] | n | TIÊU CHUẨN NGỮ | ngôn ngữ chuẩn | - | - | 学校[がっこう]では標準語[ひょうじゅんご]で話[はな]します。 | Ở trường nói tiếng chuẩn.
+作法[さほう] | n | TÁC PHÁP | lễ nghi, phép tắc | - | - | 茶道[さどう]の作法[さほう]を習[なら]いました。 | Tôi học lễ nghi trà đạo.
+正座[せいざ] | n,v3 | CHÍNH TỌA | ngồi quỳ | - | - | 正座[せいざ]は慣[な]れないと足[あし]が痛[いた]いです。 | Chưa quen ngồi quỳ thì đau chân.
+握手[あくしゅ] | n,v3 | ÁC THỦ | bắt tay | - | - | 初[はじ]めて会[あ]った人[ひと]と握手[あくしゅ]しました。 | Tôi bắt tay người mới gặp.
+お中元[ちゅうげん] | n | TRUNG NGUYÊN | quà giữa năm | - | - | 上司[じょうし]にお中元[ちゅうげん]を贈[おく]りました。 | Tôi gửi quà giữa năm cho cấp trên.
+お歳暮[せいぼ] | n | TUẾ MỘ | quà cuối năm | - | - | 年末[ねんまつ]にお歳暮[せいぼ]が届[とど]きました。 | Cuối năm nhận được quà cuối năm.
+ご祝儀[しゅうぎ] | n | CHÚC NGHI | tiền mừng cưới | - | - | 結婚式[けっこんしき]でご祝儀[しゅうぎ]を渡[わた]しました。 | Tôi đưa tiền mừng ở đám cưới.
+香典[こうでん] | n | HƯƠNG ĐIỂN | tiền phúng viếng | - | - | お葬式[そうしき]に香典[こうでん]を持[も]って行[い]きました。 | Tôi mang tiền phúng viếng đến đám tang.
+冠婚葬祭[かんこんそうさい] | n | QUAN HÔN TÁNG TẾ | hiếu hỷ | - | - | 冠婚葬祭[かんこんそうさい]のマナーを覚[おぼ]えましょう。 | Hãy học phép tắc trong các dịp hiếu hỷ.
+喪服[もふく] | n | TANG PHỤC | đồ tang | - | - | お葬式[そうしき]には喪服[もふく]を着[き]ます。 | Đến đám tang thì mặc đồ tang.
+お祝[いわ]い事[ごと] | n | CHÚC SỰ | chuyện vui mừng | - | - | お祝[いわ]い事[ごと]には赤[あか]い色[いろ]を使[つか]います。 | Chuyện vui thì dùng màu đỏ.
+お返[かえ]し | n,v3 | PHẢN | quà đáp lễ | - | - | お祝[いわ]いのお返[かえ]しを送[おく]りました。 | Tôi gửi quà đáp lễ mừng.
+贈答[ぞうとう] | n | TẶNG ĐÁP | biếu tặng | {贈答[ぞうとう]} 品[ひん] | quà biếu | デパートで贈答[ぞうとう]品[ひん]を選[えら]びました。 | Tôi chọn quà biếu ở trung tâm thương mại.
+しきたり | n | - | lệ thường, tập tục | - | - | 家[いえ]のしきたりに従[したが]います。 | Tôi theo lệ của gia đình.
+慣[な]らわし | n | QUÁN | tập quán | - | - | お正月[しょうがつ]にお年玉[としだま]をあげるのが慣[な]らわしです。 | Tập quán là lì xì vào dịp Tết.
+けじめ | n | - | ranh giới, sự rạch ròi | けじめ を つける | phân định rõ ràng | 仕事[しごと]と遊[あそ]びのけじめをつけましょう。 | Hãy phân định rõ công việc và vui chơi.
+建前[たてまえ] | n | KIẾN TIỀN | lời nói xã giao | - | - | 日本人[にほんじん]は本音[ほんね]と建前[たてまえ]を使[つか]い分[わ]けます。 | Người Nhật phân biệt lời thật lòng và lời xã giao.
+使[つか]い分[わ]ける | v2 | SỬ PHÂN | dùng phân biệt | - | - | 敬語[けいご]と普通[ふつう]の言葉[ことば]を使[つか]い分[わ]けます。 | Dùng phân biệt kính ngữ và lời thường.
+お世辞[せじ] | n | THẾ TỪ | lời nịnh | お世辞[せじ] を 言[い]う | nói lời nịnh | お世辞[せじ]を言[い]うのは苦手[にがて]です。 | Tôi không giỏi nói lời nịnh.
+察[さっ]する | v3 | SÁT | đoán ý, thấu hiểu | - | - | 相手[あいて]の気持[きも]ちを察[さっ]することが大切[たいせつ]です。 | Thấu hiểu tâm ý người khác là quan trọng.
+集団[しゅうだん] | n | TẬP ĐOÀN | tập thể, nhóm | {集団[しゅうだん]} 行動[こうどう] | hành động tập thể | 日本[にほん]の学校[がっこう]は集団[しゅうだん]行動[こうどう]を大切[たいせつ]にします。 | Trường Nhật coi trọng hành động tập thể.
+行動[こうどう] | n,v3 | HÀNH ĐỘNG | hành động | - | - | すぐに行動[こうどう]しましょう。 | Hãy hành động ngay.
+個人[こじん] | n | CÁ NHÂN | cá nhân | - | - | これは個人[こじん]の意見[いけん]です。 | Đây là ý kiến cá nhân.
+価値観[かちかん] | n | GIÁ TRỊ QUAN | quan niệm giá trị | - | - | 人[ひと]によって価値観[かちかん]が違[ちが]います。 | Mỗi người có quan niệm giá trị khác nhau.
+国民性[こくみんせい] | n | QUỐC DÂN TÍNH | tính cách dân tộc | - | - | 国民性[こくみんせい]の違[ちが]いは面白[おもしろ]いです。 | Sự khác biệt tính cách dân tộc thật thú vị.
+和[わ] | n | HÒA | sự hòa hợp | 和[わ] を 大切[たいせつ]にする | coi trọng hòa khí | 日本人[にほんじん]は和[わ]を大切[たいせつ]にします。 | Người Nhật coi trọng sự hòa hợp.
+和風[わふう] | n | HÒA PHONG | kiểu Nhật | - | - | 和風[わふう]の部屋[へや]に泊[と]まりました。 | Tôi ở phòng kiểu Nhật.
+洋風[ようふう] | n | DƯƠNG PHONG | kiểu Tây | - | - | 洋風[ようふう]の建物[たてもの]が並[なら]んでいます。 | Các tòa nhà kiểu Tây nằm san sát.
+外来語[がいらいご] | n | NGOẠI LAI NGỮ | từ ngoại lai | - | - | 日本語[にほんご]には外来語[がいらいご]がたくさんあります。 | Tiếng Nhật có rất nhiều từ ngoại lai.
+文化財[ぶんかざい] | n | VĂN HÓA TÀI | di sản văn hóa | - | - | このお寺[てら]は重要[じゅうよう]文化財[ぶんかざい]です。 | Ngôi chùa này là di sản văn hóa quan trọng.
+重要[じゅうよう] | adj-na | TRỌNG YẾU | quan trọng | - | - | 重要[じゅうよう]な会議[かいぎ]があります。 | Có cuộc họp quan trọng.
+受[う]け継[つ]ぐ | v1 | THỤ KẾ | kế thừa | 伝統[でんとう] を 受[う]け継[つ]ぐ | kế thừa truyền thống | 若[わか]い人[ひと]が伝統[でんとう]を受[う]け継[つ]いでいます。 | Người trẻ đang kế thừa truyền thống.
+異国[いこく] | n | DỊ QUỐC | xứ lạ | - | - | 異国[いこく]の文化[ぶんか]に触[ふ]れました。 | Tôi tiếp xúc văn hóa xứ lạ.
+受[う]け入[い]れる | v2 | THỤ NHẬP | tiếp nhận | - | - | 新[あたら]しい文化[ぶんか]を受[う]け入[い]れます。 | Tiếp nhận văn hóa mới.
+カルチャーショック | n | - | sốc văn hóa | - | - | 日本[にほん]に来[き]てカルチャーショックを受[う]けました。 | Đến Nhật tôi bị sốc văn hóa.
+お月見[つきみ] | n | NGUYỆT KIẾN | ngắm trăng | - | - | 秋[あき]はお団子[だんご]を食[た]べながらお月見[つきみ]をします。 | Mùa thu vừa ăn bánh dango vừa ngắm trăng.
+団子[だんご] | n | ĐOÀN TỬ | bánh viên dango | - | - | 花見[はなみ]で団子[だんご]を食[た]べました。 | Tôi ăn bánh dango khi ngắm hoa.
+彼岸[ひがん] | n | BỈ NGẠN | tuần lễ Higan | お {彼岸[ひがん]} | dịp Higan | お彼岸[ひがん]にお墓参[はかまい]りをします。 | Dịp Higan đi viếng mộ.
+子供[こども]の日[ひ] | n | TỬ CUNG NHẬT | ngày Thiếu nhi | - | - | 子供[こども]の日[ひ]にこいのぼりを飾[かざ]ります。 | Ngày Thiếu nhi treo cờ cá chép.
+こいのぼり | n | - | cờ cá chép | - | - | 空[そら]にこいのぼりが泳[およ]いでいます。 | Cờ cá chép bay lượn trên trời.
+鯉[こい] | n | LÝ | cá chép | - | - | 池[いけ]に大[おお]きな鯉[こい]がいます。 | Trong ao có con cá chép lớn.
+記念日[きねんび] | n | KỶ NIỆM NHẬT | ngày kỷ niệm | 結婚[けっこん] {記念日[きねんび]} | kỷ niệm ngày cưới | 結婚[けっこん]記念日[きねんび]にレストランへ行[い]きました。 | Ngày kỷ niệm cưới chúng tôi đi nhà hàng.
+母[はは]の日[ひ] | n | MẪU NHẬT | Ngày của Mẹ | - | - | 母[はは]の日[ひ]にカーネーションを贈[おく]りました。 | Ngày của Mẹ tôi tặng hoa cẩm chướng.
+敬老[けいろう]の日[ひ] | n | KÍNH LÃO NHẬT | ngày Kính lão | - | - | 敬老[けいろう]の日[ひ]に祖父母[そふぼ]に電話[でんわ]しました。 | Ngày Kính lão tôi gọi điện cho ông bà.
+祖父母[そふぼ] | n | TỔ PHỤ MẪU | ông bà | - | - | 夏休[なつやす]みは祖父母[そふぼ]の家[いえ]で過[す]ごします。 | Kỳ nghỉ hè tôi ở nhà ông bà.
+バレンタインデー | n | - | ngày Valentine | - | - | バレンタインデーにチョコレートをもらいました。 | Ngày Valentine tôi được tặng sô-cô-la.
+クリスマス | n | - | Giáng sinh | - | - | クリスマスに家族[かぞく]でケーキを食[た]べました。 | Giáng sinh cả nhà ăn bánh kem.
+ハロウィン | n | - | Halloween | - | - | ハロウィンに仮装[かそう]をしました。 | Halloween tôi hóa trang.
+仮装[かそう] | n,v3 | GIẢ TRANG | hóa trang | - | - | パーティーで魔女[まじょ]に仮装[かそう]しました。 | Tôi hóa trang thành phù thủy ở bữa tiệc.
+神輿[みこし] | n | THẦN DƯ | kiệu thần | 神輿[みこし] を 担[かつ]ぐ | khiêng kiệu | お祭[まつ]りで神輿[みこし]を担[かつ]ぎました。 | Tôi khiêng kiệu trong lễ hội.
+担[かつ]ぐ | v1 | ĐẢM | vác, khiêng | - | - | 重[おも]い荷物[にもつ]を肩[かた]に担[かつ]ぎました。 | Tôi vác đồ nặng trên vai.
+花嫁[はなよめ] | n | HOA GIÁ | cô dâu | - | - | 花嫁[はなよめ]は白[しろ]いドレスを着[き]ていました。 | Cô dâu mặc váy trắng.
+花婿[はなむこ] | n | HOA TẾ | chú rể | - | - | 花婿[はなむこ]が挨拶[あいさつ]をしました。 | Chú rể phát biểu.
+披露宴[ひろうえん] | n | PHI LỘ YẾN | tiệc cưới | - | - | 友達[ともだち]の結婚[けっこん]披露宴[ひろうえん]に招待[しょうたい]されました。 | Tôi được mời dự tiệc cưới của bạn.
+新郎[しんろう] | n | TÂN LANG | chú rể (trang trọng) | - | - | 新郎[しんろう]新婦[しんぷ]の入場[にゅうじょう]です。 | Cô dâu chú rể tiến vào.
+新婦[しんぷ] | n | TÂN PHỤ | cô dâu (trang trọng) | - | - | 新婦[しんぷ]のお父様[とうさま]がスピーチをしました。 | Bố cô dâu phát biểu.
+葬儀[そうぎ] | n | TÁNG NGHI | tang lễ | - | - | 祖父[そふ]の葬儀[そうぎ]に親戚[しんせき]が集[あつ]まりました。 | Họ hàng tụ họp ở tang lễ của ông.
+通夜[つや] | n | THÔNG DẠ | lễ canh linh cữu | お {通夜[つや]} | lễ canh đêm | 昨夜[さくや]お通夜[つや]に行[い]きました。 | Tối qua tôi đi dự lễ canh đêm.
+法事[ほうじ] | n | PHÁP SỰ | lễ giỗ | - | - | 祖母[そぼ]の三回忌[さんかいき]の法事[ほうじ]がありました。 | Có lễ giỗ ba năm của bà.
+墓地[ぼち] | n | MỘ ĐỊA | nghĩa trang | - | - | お寺[てら]の裏[うら]に墓地[ぼち]があります。 | Sau chùa có nghĩa trang.
+僧[そう] | n | TĂNG | nhà sư | - | - | お寺[てら]で僧[そう]がお経[きょう]を読[よ]んでいます。 | Nhà sư đang tụng kinh trong chùa.
+参拝[さんぱい] | n,v3 | THAM BÁI | lễ bái | - | - | 神社[じんじゃ]を参拝[さんぱい]しました。 | Tôi đi lễ bái ở đền.
+お賽銭[さいせん] | n | TÁI TIỀN | tiền công đức | - | - | お賽銭[さいせん]を入[い]れてお願[ねが]いしました。 | Tôi bỏ tiền công đức và cầu nguyện.
+絵馬[えま] | n | HỘI MÃ | thẻ gỗ cầu nguyện | - | - | 絵馬[えま]に合格[ごうかく]の願[ねが]いを書[か]きました。 | Tôi viết điều ước đỗ đạt lên thẻ gỗ.

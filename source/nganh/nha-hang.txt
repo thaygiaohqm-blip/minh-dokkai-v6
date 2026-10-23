@@ -1,0 +1,189 @@
+@topic nha-hang
+@ja 外食[がいしょく]・宿泊[しゅくはく]
+@vi Nhà hàng, khách sạn
+@desc Tiếp đón, gọi món, phục vụ, thanh toán, công việc bếp, đặt phòng, nhận trả phòng và dọn phòng khách sạn.
+外食[がいしょく] | n | NGOẠI THỰC | ngành ăn uống, ăn ngoài | {外食[がいしょく]} 産業[さんぎょう] | ngành dịch vụ ăn uống | 外食[がいしょく]産業[さんぎょう]で働[はたら]いています。 | Tôi làm việc trong ngành dịch vụ ăn uống.
+宿泊[しゅくはく] | n,v3 | TÚC BẠC | lưu trú | {宿泊[しゅくはく]} 客[きゃく] | khách lưu trú | 宿泊[しゅくはく]客[きゃく]に朝食[ちょうしょく]を出[だ]します。 | Phục vụ bữa sáng cho khách lưu trú.
+接客[せっきゃく] | n,v3 | TIẾP KHÁCH | tiếp khách | - | - | 接客[せっきゃく]では笑顔[えがお]が大切[たいせつ]です。 | Khi tiếp khách nụ cười là quan trọng.
+いらっしゃいませ | exp | - | xin kính chào quý khách | - | - | 「いらっしゃいませ。何名様[なんめいさま]ですか。」 | "Xin chào quý khách. Quý khách đi mấy người ạ?"
+何名様[なんめいさま] | exp | HÀ DANH DẠNG | mấy vị | - | - | 何名様[なんめいさま]でいらっしゃいますか。 | Quý khách đi mấy vị ạ?
+ご案内[あんない] | n,v3 | ÁN NỘI | dẫn (khách) | 席[せき] に ご案内[あんない] する | dẫn khách vào bàn | お席[せき]にご案内[あんない]します。 | Tôi xin dẫn quý khách vào bàn.
+ご注文[ちゅうもん] | n | CHÚ VĂN | món gọi (kính ngữ) | ご注文[ちゅうもん] を 伺[うかが]う | xin ghi món | ご注文[ちゅうもん]をお伺[うかが]いします。 | Tôi xin ghi món của quý khách.
+お冷[ひや] | n | LÃNH | nước lọc (mời khách) | - | - | 席[せき]に着[つ]いたらお冷[ひや]を出[だ]します。 | Khách ngồi xuống thì mang nước lọc ra.
+おしぼり | n | - | khăn ướt | - | - | お冷[ひや]とおしぼりをお持[も]ちします。 | Tôi xin mang nước và khăn ướt ra.
+メニュー | n | - | thực đơn | - | - | こちらがメニューでございます。 | Đây là thực đơn ạ.
+お決[き]まり | n | QUYẾT | đã chọn xong | - | - | ご注文[ちゅうもん]がお決[き]まりでしたら、お呼[よ]びください。 | Khi quý khách chọn xong món, xin hãy gọi tôi.
+かしこまりました | exp | - | vâng, tôi đã rõ | - | - | 「ビールを二[ふた]つ。」「かしこまりました。」 | "Cho hai bia." "Vâng, tôi đã rõ ạ."
+少々[しょうしょう]お待[ま]ちください | exp | THIỂU ĐÃI | xin đợi một chút | - | - | 確認[かくにん]しますので、少々[しょうしょう]お待[ま]ちください。 | Tôi kiểm tra, xin quý khách đợi một chút.
+お待[ま]たせいたしました | exp | ĐÃI | xin lỗi đã để quý khách đợi | - | - | お待[ま]たせいたしました。カレーでございます。 | Xin lỗi đã để quý khách đợi. Đây là cà ri ạ.
+ごゆっくりどうぞ | exp | - | xin cứ thong thả | - | - | 料理[りょうり]は以上[いじょう]です。ごゆっくりどうぞ。 | Món ăn đã đủ. Xin quý khách cứ thong thả.
+下[さ]げる | v2 | HẠ | dọn (bát đĩa) đi | お皿[さら] を 下[さ]げる | dọn đĩa | 空[あ]いたお皿[さら]をお下[さ]げしてもよろしいですか。 | Tôi dọn đĩa trống đi được không ạ?
+運[はこ]ぶ | v1 | VẬN | bưng, mang | 料理[りょうり] を 運[はこ]ぶ | bưng món | 熱[あつ]い料理[りょうり]を運[はこ]ぶ時[とき]は声[こえ]をかけます。 | Khi bưng món nóng thì lên tiếng báo.
+配膳[はいぜん] | n,v3 | PHỐI THIỆN | bày món ra bàn | - | - | 料理[りょうり]をお客様[きゃくさま]の席[せき]に配膳[はいぜん]します。 | Bày món ra bàn khách.
+下膳[げぜん] | n,v3 | HẠ THIỆN | dọn bàn | - | - | お客様[きゃくさま]が帰[かえ]ったら下膳[げぜん]します。 | Khách về thì dọn bàn.
+片付[かたづ]け | n | PHIẾN PHÓ | dọn dẹp | - | - | テーブルの片付[かたづ]けを急[いそ]いでください。 | Hãy dọn bàn nhanh lên.
+セッティング | n,v3 | - | sắp đặt bàn | - | - | 箸[はし]とコップをセッティングします。 | Bày đũa và cốc lên bàn.
+レジ | n | - | quầy thu ngân | - | - | お会計[かいけい]はレジでお願[ねが]いします。 | Xin thanh toán ở quầy thu ngân.
+お会計[かいけい] | n | HỘI KẾ | thanh toán | - | - | お会計[かいけい]は三千[さんぜん]円[えん]でございます。 | Tổng cộng là ba nghìn yên ạ.
+お預[あず]かりします | exp | DỰ | xin nhận (tiền khách đưa) | - | - | 五千[ごせん]円[えん]お預[あず]かりします。 | Tôi xin nhận năm nghìn yên.
+お釣[つ]り | n | ĐIẾU | tiền thối | - | - | 二千[にせん]円[えん]のお釣[つ]りでございます。 | Đây là hai nghìn yên tiền thối ạ.
+領収書[りょうしゅうしょ] | n | LÃNH THU THƯ | hóa đơn | - | - | 領収書[りょうしゅうしょ]は必要[ひつよう]ですか。 | Quý khách có cần hóa đơn không ạ?
+ありがとうございました | exp | - | xin cảm ơn quý khách | - | - | ありがとうございました。またお越[こ]しください。 | Xin cảm ơn quý khách. Mong quý khách quay lại.
+ご来店[らいてん] | n | LAI ĐIẾM | đến cửa hàng (kính ngữ) | - | - | ご来店[らいてん]ありがとうございます。 | Cảm ơn quý khách đã đến cửa hàng.
+予約[よやく] | n,v3 | DỰ ƯỚC | đặt trước | 予約[よやく] を 受[う]ける | nhận đặt chỗ | 電話[でんわ]で予約[よやく]を受[う]けます。 | Nhận đặt chỗ qua điện thoại.
+満席[まんせき] | n | MÃN TỊCH | kín chỗ | - | - | 申[もう]し訳[わけ]ございません、ただいま満席[まんせき]です。 | Xin lỗi, hiện đã kín chỗ ạ.
+禁煙席[きんえんせき] | n | CẤM YÊN TỊCH | ghế cấm hút thuốc | - | - | 禁煙席[きんえんせき]と喫煙席[きつえんせき]、どちらがよろしいですか。 | Quý khách muốn ghế cấm hút thuốc hay ghế hút thuốc ạ?
+厨房[ちゅうぼう] | n | TRÙ PHÒNG | nhà bếp (nhà hàng) | - | - | 厨房[ちゅうぼう]で料理[りょうり]の手伝[てつだ]いをしています。 | Tôi phụ bếp trong nhà bếp.
+ホール | n | - | khu phục vụ (sảnh) | - | - | 今日[きょう]はホールの担当[たんとう]です。 | Hôm nay tôi phụ trách khu phục vụ.
+キッチン | n | - | bếp | - | - | キッチンからホールへ料理[りょうり]を出[だ]します。 | Đưa món từ bếp ra khu phục vụ.
+調理[ちょうり] | n,v3 | ĐIỀU LÝ | nấu nướng | {調理[ちょうり]} 師[し] | đầu bếp | 調理[ちょうり]師[し]の免許[めんきょ]を取[と]りたいです。 | Tôi muốn lấy chứng chỉ đầu bếp.
+仕込[しこ]み | n,v3 | SĨ VÀO | chuẩn bị nguyên liệu | - | - | 開店[かいてん]前[まえ]に仕込[しこ]みをします。 | Chuẩn bị nguyên liệu trước giờ mở cửa.
+盛[も]り付[つ]け | n,v3 | THỊNH PHÓ | bày món | - | - | 盛[も]り付[つ]けは写真[しゃしん]の通[とお]りにしてください。 | Hãy bày món giống như trong ảnh.
+洗[あら]い場[ば] | n | TẨY TRƯỜNG | khu rửa bát | - | - | 最初[さいしょ]は洗[あら]い場[ば]の仕事[しごと]から始[はじ]めました。 | Lúc đầu tôi bắt đầu từ việc rửa bát.
+食器洗[しょっきあら]い機[き] | n | THỰC KHÍ TẨY CƠ | máy rửa bát | - | - | 食器洗[しょっきあら]い機[き]に皿[さら]を並[なら]べます。 | Xếp đĩa vào máy rửa bát.
+衛生[えいせい] | n | VỆ SINH | vệ sinh | - | - | 飲食店[いんしょくてん]は衛生[えいせい]が何[なに]より大事[だいじ]です。 | Quán ăn thì vệ sinh là quan trọng hơn hết.
+飲食店[いんしょくてん] | n | ẨM THỰC ĐIẾM | quán ăn uống | - | - | 駅前[えきまえ]の飲食店[いんしょくてん]でアルバイトをしています。 | Tôi làm thêm ở quán ăn trước ga.
+アレルギー | n | - | dị ứng | - | - | アレルギーのあるお客様[きゃくさま]には材料[ざいりょう]を説明[せつめい]します。 | Với khách bị dị ứng thì giải thích nguyên liệu.
+おすすめ | n | - | món gợi ý | - | - | 本日[ほんじつ]のおすすめは焼[や]き魚[ざかな]です。 | Món gợi ý hôm nay là cá nướng.
+品切[しなぎ]れ | n | PHẨM THIẾT | hết món | - | - | 申[もう]し訳[わけ]ございません、そちらは品切[しなぎ]れです。 | Xin lỗi quý khách, món đó đã hết.
+追加[ついか] | n,v3 | TRUY GIA | gọi thêm | - | - | ご追加[ついか]のご注文[ちゅうもん]はございますか。 | Quý khách có muốn gọi thêm món không ạ?
+ラストオーダー | n | - | lần gọi món cuối | - | - | ラストオーダーは九[く]時[じ]半[はん]です。 | Gọi món lần cuối lúc chín rưỡi.
+テイクアウト | n | - | mang về | - | - | こちらでお召[め]し上[あ]がりですか、テイクアウトですか。 | Quý khách dùng tại đây hay mang về ạ?
+店内[てんない] | n | ĐIẾM NỘI | trong quán | - | - | 店内[てんない]でお召[め]し上[あ]がりですか。 | Quý khách dùng trong quán ạ?
+持[も]ち帰[かえ]り | n | TRÌ QUY | mang về | - | - | お持[も]ち帰[かえ]りでよろしいですか。 | Quý khách mang về phải không ạ?
+クレーム | n | - | phàn nàn | クレーム に 対応[たいおう] する | xử lý phàn nàn | クレームには店長[てんちょう]が対応[たいおう]します。 | Phàn nàn thì cửa hàng trưởng xử lý.
+店長[てんちょう] | n | ĐIẾM TRƯỞNG | cửa hàng trưởng | - | - | 困[こま]った時[とき]は店長[てんちょう]を呼[よ]んでください。 | Khi gặp khó khăn hãy gọi cửa hàng trưởng.
+ホテル | n | - | khách sạn | - | - | 東京[とうきょう]のホテルで働[はたら]いています。 | Tôi làm việc ở khách sạn tại Tokyo.
+旅館[りょかん] | n | LỮ QUÁN | nhà trọ kiểu Nhật | - | - | 温泉[おんせん]旅館[りょかん]で接客[せっきゃく]をしています。 | Tôi tiếp khách ở nhà trọ suối nước nóng.
+フロント | n | - | quầy lễ tân | - | - | フロントでチェックインの手続[てつづ]きをします。 | Làm thủ tục nhận phòng ở quầy lễ tân.
+チェックイン | n,v3 | - | nhận phòng | - | - | チェックインは午後[ごご]三[さん]時[じ]からです。 | Nhận phòng từ ba giờ chiều.
+チェックアウト | n,v3 | - | trả phòng | - | - | チェックアウトは午前[ごぜん]十[じゅう]時[じ]です。 | Trả phòng lúc mười giờ sáng.
+宿泊者[しゅくはくしゃ] | n | TÚC BẠC GIẢ | khách lưu trú | - | - | 宿泊者[しゅくはくしゃ]の名前[なまえ]を確認[かくにん]します。 | Xác nhận tên khách lưu trú.
+客室[きゃくしつ] | n | KHÁCH THẤT | phòng khách (khách sạn) | {客室[きゃくしつ]} 清掃[せいそう] | dọn phòng | 午前[ごぜん]は客室[きゃくしつ]清掃[せいそう]をします。 | Buổi sáng dọn phòng.
+ベッドメイク | n,v3 | - | trải giường | - | - | 一[ひと]部屋[へや]十[じゅう]分[ぷん]でベッドメイクをします。 | Trải giường mỗi phòng trong mười phút.
+シーツ | n | - | ga giường | - | - | シーツにしわがないように敷[し]きます。 | Trải ga sao cho không có nếp nhăn.
+枕[まくら] | n | CHẨM | gối | 枕[まくら] カバー | vỏ gối | 枕[まくら]カバーを新[あたら]しいものに替[か]えます。 | Thay vỏ gối mới.
+アメニティ | n | - | đồ dùng cá nhân (khách sạn) | アメニティ を 補充[ほじゅう] する | bổ sung đồ dùng | 歯[は]ブラシなどのアメニティを補充[ほじゅう]します。 | Bổ sung đồ dùng cá nhân như bàn chải.
+タオル | n | - | khăn tắm | - | - | 使[つか]ったタオルを回収[かいしゅう]します。 | Thu gom khăn đã dùng.
+回収[かいしゅう] | n,v3 | HỒI THU | thu gom | - | - | 客室[きゃくしつ]のごみを回収[かいしゅう]します。 | Thu gom rác trong phòng.
+忘[わす]れ物[もの] | n | VONG VẬT | đồ bỏ quên | - | - | 客室[きゃくしつ]で忘[わす]れ物[もの]を見[み]つけたらフロントに届[とど]けます。 | Thấy đồ khách bỏ quên trong phòng thì mang xuống lễ tân.
+備品[びひん] | n | BỊ PHẨM | đồ dùng trang bị | - | - | 部屋[へや]の備品[びひん]がそろっているか確認[かくにん]します。 | Kiểm tra đồ dùng trong phòng có đủ không.
+浴衣[ゆかた] | n | DỤC Y | áo yukata | - | - | 浴衣[ゆかた]のサイズをお客様[きゃくさま]に聞[き]きます。 | Hỏi khách cỡ áo yukata.
+布団[ふとん] | n | BỐ ĐOÀN | chăn đệm | 布団[ふとん] を 敷[し]く | trải đệm | 夕食[ゆうしょく]の間[あいだ]に布団[ふとん]を敷[し]きます。 | Trải đệm trong lúc khách ăn tối.
+大浴場[だいよくじょう] | n | ĐẠI DỤC TRƯỜNG | nhà tắm chung lớn | - | - | 大浴場[だいよくじょう]は夜[よる]十一[じゅういち]時[じ]までです。 | Nhà tắm chung mở đến mười một giờ đêm.
+朝食会場[ちょうしょくかいじょう] | n | TRIỀU THỰC HỘI TRƯỜNG | khu ăn sáng | - | - | 朝食会場[ちょうしょくかいじょう]は二[に]階[かい]です。 | Khu ăn sáng ở tầng hai.
+バイキング | n | - | buffet | - | - | 朝食[ちょうしょく]はバイキング形式[けいしき]です。 | Bữa sáng theo hình thức buffet.
+ルームサービス | n | - | phục vụ phòng | - | - | ルームサービスで飲[の]み物[もの]を届[とど]けます。 | Mang đồ uống lên phòng theo dịch vụ phục vụ phòng.
+ルームキー | n | - | chìa khóa phòng | - | - | ルームキーをお渡[わた]しします。 | Xin trao chìa khóa phòng cho quý khách.
+お荷物[にもつ] | n | HÀ VẬT | hành lý (kính ngữ) | お荷物[にもつ] を お預[あず]かりする | giữ hành lý cho khách | チェックインまでお荷物[にもつ]をお預[あず]かりします。 | Chúng tôi giữ hành lý cho quý khách đến lúc nhận phòng.
+ベルスタッフ | n | - | nhân viên hành lý | - | - | ベルスタッフがお部屋[へや]までご案内[あんない]します。 | Nhân viên hành lý sẽ dẫn quý khách lên phòng.
+お部屋[へや] | n | BỘ ỐC | phòng (kính ngữ) | - | - | お部屋[へや]は五[ご]階[かい]の五百二[ごひゃくに]号室[ごうしつ]です。 | Phòng của quý khách là phòng 502 tầng năm.
+号室[ごうしつ] | ctr | HIỆU THẤT | phòng số | - | - | 三百十[さんびゃくじゅう]号室[ごうしつ]のお客様[きゃくさま]からお電話[でんわ]です。 | Có điện thoại từ khách phòng 310.
+空室[くうしつ] | n | KHÔNG THẤT | phòng trống | - | - | 本日[ほんじつ]は空室[くうしつ]がございます。 | Hôm nay còn phòng trống ạ.
+満室[まんしつ] | n | MÃN THẤT | hết phòng | - | - | 週末[しゅうまつ]は満室[まんしつ]です。 | Cuối tuần hết phòng.
+キャンセル | n,v3 | - | hủy | - | - | 予約[よやく]のキャンセルを受[う]け付[つ]けます。 | Tiếp nhận hủy đặt phòng.
+受[う]け付[つ]ける | v2 | THỤ PHÓ | tiếp nhận | - | - | 電話[でんわ]で予約[よやく]を受[う]け付[つ]けています。 | Tiếp nhận đặt chỗ qua điện thoại.
+お客様[きゃくさま]対応[たいおう] | n | KHÁCH DẠNG ĐỐI ỨNG | ứng xử với khách | - | - | お客様[きゃくさま]対応[たいおう]は丁寧[ていねい]な言葉[ことば]で行[おこな]います。 | Ứng xử với khách bằng ngôn từ lịch sự.
+おもてなし | n | - | lòng hiếu khách | - | - | 日本[にほん]のおもてなしを学[まな]びたいです。 | Tôi muốn học tinh thần hiếu khách của Nhật.
+笑顔[えがお] | n | TIẾU NHAN | nụ cười | 笑顔[えがお] で 迎[むか]える | đón bằng nụ cười | お客様[きゃくさま]を笑顔[えがお]で迎[むか]えます。 | Đón khách bằng nụ cười.
+身[み]だしなみ | n | THÂN | vẻ ngoài chỉn chu | 身[み]だしなみ を 整[ととの]える | chỉnh tề trang phục | 仕事[しごと]の前[まえ]に身[み]だしなみを整[ととの]えます。 | Chỉnh tề trang phục trước giờ làm.
+制服[せいふく] | n | CHẾ PHỤC | đồng phục | - | - | 制服[せいふく]はいつも清潔[せいけつ]にしてください。 | Đồng phục hãy luôn giữ sạch sẽ.
+名札[なふだ] | n | DANH TRÁT | bảng tên | - | - | 名札[なふだ]を胸[むね]につけます。 | Đeo bảng tên lên ngực.
+お辞儀[じぎ] | n,v3 | TỪ NGHI | cúi chào | - | - | お客様[きゃくさま]がお帰[かえ]りの時[とき]はお辞儀[じぎ]をします。 | Khi khách về thì cúi chào.
+敬語[けいご] | n | KÍNH NGỮ | kính ngữ | - | - | お客様[きゃくさま]には敬語[けいご]で話[はな]します。 | Nói chuyện với khách bằng kính ngữ.
+食材[しょくざい] | n | THỰC TÀI | nguyên liệu nấu ăn | - | - | 食材[しょくざい]は冷蔵庫[れいぞうこ]に入[い]れて管理[かんり]します。 | Nguyên liệu nấu ăn được quản lý trong tủ lạnh.
+発注[はっちゅう] | n,v3 | PHÁT CHÚ | đặt hàng (nhà cung cấp) | - | - | 足[た]りない食材[しょくざい]を発注[はっちゅう]します。 | Đặt hàng nguyên liệu còn thiếu.
+包丁[ほうちょう] | n | BAO ĐINH | dao bếp | - | - | 包丁[ほうちょう]を使[つか]った後[あと]はすぐに洗[あら]います。 | Dùng dao xong thì rửa ngay.
+まな板[いた] | n | BẢN | thớt | - | - | 肉用[にくよう]と野菜用[やさいよう]のまな板[いた]を分[わ]けます。 | Dùng thớt riêng cho thịt và rau.
+フライヤー | n | - | nồi chiên | - | - | フライヤーで唐揚[からあ]げを揚[あ]げます。 | Chiên gà bằng nồi chiên.
+鉄板[てっぱん] | n | THIẾT BẢN | chảo gang (bếp) | - | - | 鉄板[てっぱん]で肉[にく]を焼[や]きます。 | Nướng thịt trên chảo gang.
+グリル | n | - | lò nướng | - | - | 魚[さかな]をグリルで焼[や]きます。 | Nướng cá bằng lò nướng.
+タイマー | n | - | hẹn giờ | - | - | 揚[あ]げ時間[じかん]はタイマーで計[はか]ります。 | Đo thời gian chiên bằng hẹn giờ.
+オーダー | n | - | đơn món | オーダー が 入[はい]る | có đơn món | 昼[ひる]はオーダーがたくさん入[はい]ります。 | Buổi trưa có rất nhiều đơn món.
+伝票[でんぴょう] | n | TRUYỀN PHIẾU | phiếu order | - | - | 伝票[でんぴょう]を見[み]て料理[りょうり]を作[つく]ります。 | Xem phiếu order để nấu món.
+提供[ていきょう] | n,v3 | ĐỀ CUNG | phục vụ (món) | {提供[ていきょう]} 時間[じかん] | thời gian ra món | 提供[ていきょう]時間[じかん]は十[じゅっ]分[ぷん]以内[いない]が目標[もくひょう]です。 | Mục tiêu ra món trong vòng mười phút.
+ピーク | n | - | giờ cao điểm | - | - | ピークの時間[じかん]は十二[じゅうに]時[じ]から一[いち]時[じ]です。 | Giờ cao điểm từ mười hai đến một giờ.
+混雑[こんざつ] | n,v3 | HỖN TẠP | đông đúc | - | - | 週末[しゅうまつ]は店[みせ]が混雑[こんざつ]します。 | Cuối tuần quán rất đông.
+行列[ぎょうれつ] | n | HÀNG LIỆT | hàng người xếp | 行列[ぎょうれつ] が できる | có hàng dài | 人気[にんき]の店[みせ]には行列[ぎょうれつ]ができます。 | Quán nổi tiếng có hàng người xếp dài.
+ご予約[よやく] | n | DỰ ƯỚC | đặt chỗ (kính ngữ) | - | - | ご予約[よやく]のお名前[なまえ]を伺[うかが]ってもよろしいですか。 | Cho tôi xin tên người đặt chỗ được không ạ?
+人数[にんずう] | n | NHÂN SỐ | số người | - | - | ご予約[よやく]の人数[にんずう]を確認[かくにん]します。 | Xác nhận số người đặt chỗ.
+個室[こしつ] | n | CÁ THẤT | phòng riêng | - | - | 八[はち]名様[めいさま]で個室[こしつ]をご用意[ようい]しております。 | Chúng tôi đã chuẩn bị phòng riêng cho tám vị.
+用意[ようい] | n,v3 | DỤNG Ý | chuẩn bị | - | - | 子供[こども]用[よう]の椅子[いす]をご用意[ようい]します。 | Chúng tôi chuẩn bị ghế trẻ em.
+カウンター | n | - | quầy (ghế quầy) | - | - | お一人様[ひとりさま]はカウンター席[せき]へどうぞ。 | Khách đi một mình xin mời ngồi ghế quầy.
+相席[あいせき] | n,v3 | TƯƠNG TỊCH | ngồi ghép bàn | - | - | 混[こ]んでいるので相席[あいせき]をお願[ねが]いしてもよろしいですか。 | Quán đông, quý khách ngồi ghép bàn được không ạ?
+食券[しょっけん] | n | THỰC KHOÁN | phiếu ăn | - | - | 先[さき]に食券[しょっけん]を買[か]ってください。 | Hãy mua phiếu ăn trước.
+セット | n | - | suất (combo) | - | - | ランチセットにはサラダと飲[の]み物[もの]が付[つ]きます。 | Suất trưa có kèm salad và đồ uống.
+大盛[おおも]り | n | ĐẠI THỊNH | suất lớn | - | - | ご飯[はん]の大盛[おおも]りは無料[むりょう]です。 | Suất cơm lớn miễn phí.
+辛[から]さ | n | TÂN | độ cay | 辛[から]さ を 選[えら]ぶ | chọn độ cay | 辛[から]さを五[ご]段階[だんかい]から選[えら]べます。 | Có thể chọn độ cay từ năm mức.
+焼[や]き加減[かげん] | n | THIÊU GIA GIẢM | độ chín (thịt) | - | - | ステーキの焼[や]き加減[かげん]はいかがなさいますか。 | Quý khách muốn bít tết chín mức nào ạ?
+食[た]べ残[のこ]し | n | THỰC TÀN | đồ ăn thừa | - | - | 食[た]べ残[のこ]しを減[へ]らす工夫[くふう]をしています。 | Chúng tôi đang tìm cách giảm đồ ăn thừa.
+工夫[くふう] | n,v3 | CÔNG PHU | tìm tòi, sáng tạo | - | - | 盛[も]り付[つ]けを工夫[くふう]しました。 | Tôi đã sáng tạo cách bày món.
+食中毒[しょくちゅうどく] | n | THỰC TRÚNG ĐỘC | ngộ độc thực phẩm | - | - | 食中毒[しょくちゅうどく]を防[ふせ]ぐために手洗[てあら]いを徹底[てってい]します。 | Rửa tay triệt để để phòng ngộ độc thực phẩm.
+手洗[てあら]い | n,v3 | THỦ TẨY | rửa tay | - | - | トイレの後[あと]と調理[ちょうり]の前[まえ]は必[かなら]ず手洗[てあら]いをします。 | Sau khi đi vệ sinh và trước khi nấu nhất định phải rửa tay.
+消毒[しょうどく] | n,v3 | TIÊU ĐỘC | khử trùng | - | - | テーブルをアルコールで消毒[しょうどく]します。 | Khử trùng bàn bằng cồn.
+床[ゆか]掃除[そうじ] | n | SÀNG TẢO TRỪ | lau sàn | - | - | 閉店[へいてん]後[ご]に厨房[ちゅうぼう]の床[ゆか]掃除[そうじ]をします。 | Sau giờ đóng cửa lau sàn bếp.
+油汚[あぶらよご]れ | n | DU Ô | vết dầu mỡ | - | - | 換気扇[かんきせん]の油汚[あぶらよご]れを落[お]とします。 | Tẩy vết dầu mỡ trên quạt hút.
+ごみ出[だ]し | n | XUẤT | đổ rác | - | - | ごみ出[だ]しは閉店[へいてん]後[ご]の仕事[しごと]です。 | Đổ rác là việc sau giờ đóng cửa.
+開店準備[かいてんじゅんび] | n | KHAI ĐIẾM CHUẨN BỊ | chuẩn bị mở cửa | - | - | 十[じゅう]時[じ]から開店準備[かいてんじゅんび]をします。 | Chuẩn bị mở cửa từ mười giờ.
+閉店作業[へいてんさぎょう] | n | BẾ ĐIẾM TÁC NGHIỆP | công việc sau đóng cửa | - | - | 閉店作業[へいてんさぎょう]は三十[さんじゅっ]分[ぷん]ぐらいかかります。 | Công việc sau giờ đóng cửa mất khoảng ba mươi phút.
+シフト表[ひょう] | n | BIỂU | bảng phân ca | - | - | 来週[らいしゅう]のシフト表[ひょう]が出[で]ました。 | Đã có bảng phân ca tuần sau.
+まかない | n | - | bữa ăn nhân viên | - | - | 休憩[きゅうけい]時間[じかん]にまかないを食[た]べます。 | Giờ nghỉ thì ăn bữa nhân viên.
+時給[じきゅう] | n | THỜI CẤP | lương giờ | - | - | このお店[みせ]の時給[じきゅう]は千[せん]二百[にひゃく]円[えん]です。 | Lương giờ của quán này là 1.200 yên.
+お手洗[てあら]い | n | THỦ TẨY | nhà vệ sinh | - | - | お手洗[てあら]いは奥[おく]の右側[みぎがわ]でございます。 | Nhà vệ sinh ở phía trong bên phải ạ.
+お子様[こさま] | n | TỬ DẠNG | trẻ em (kính ngữ) | {お子様[こさま]} メニュー | thực đơn trẻ em | お子様[こさま]メニューもございます。 | Chúng tôi có cả thực đơn trẻ em.
+お年寄[としよ]り | n | NIÊN KÝ | người già | - | - | お年寄[としよ]りのお客様[きゃくさま]には段差[だんさ]に気[き]をつけていただきます。 | Nhắc khách lớn tuổi chú ý bậc thềm.
+外国人観光客[がいこくじんかんこうきゃく] | n | NGOẠI QUỐC NHÂN QUAN QUANG KHÁCH | khách du lịch nước ngoài | - | - | 外国人観光客[がいこくじんかんこうきゃく]に英語[えいご]で案内[あんない]します。 | Hướng dẫn khách du lịch nước ngoài bằng tiếng Anh.
+通訳[つうやく] | n,v3 | THÔNG DỊCH | phiên dịch | - | - | ベトナム人[じん]のお客様[きゃくさま]の通訳[つうやく]をしました。 | Tôi đã phiên dịch cho khách người Việt.
+要望[ようぼう] | n | YẾU VỌNG | yêu cầu, mong muốn | 要望[ようぼう] に 応[こた]える | đáp ứng yêu cầu | お客様[きゃくさま]のご要望[ようぼう]にできるだけ応[こた]えます。 | Đáp ứng yêu cầu của khách hết mức có thể.
+応[こた]える | v2 | ỨNG | đáp ứng | - | - | 期待[きたい]に応[こた]えられるよう頑張[がんば]ります。 | Tôi sẽ cố gắng để đáp ứng kỳ vọng.
+送迎[そうげい] | n,v3 | TỐNG NGHÊNH | đưa đón | {送迎[そうげい]} バス | xe buýt đưa đón | 駅[えき]まで送迎[そうげい]バスがあります。 | Có xe buýt đưa đón đến ga.
+館内[かんない] | n | QUÁN NỘI | trong tòa nhà | - | - | 館内[かんない]をご案内[あんない]します。 | Xin dẫn quý khách tham quan trong khách sạn.
+非常口[ひじょうぐち] | n | PHI THƯỜNG KHẨU | lối thoát hiểm | - | - | 非常口[ひじょうぐち]の場所[ばしょ]をお客様[きゃくさま]に説明[せつめい]します。 | Giải thích vị trí lối thoát hiểm cho khách.
+清潔感[せいけつかん] | n | THANH KHIẾT CẢM | cảm giác sạch sẽ | - | - | 清潔感[せいけつかん]のある髪型[かみがた]にしてください。 | Hãy để kiểu tóc gọn gàng sạch sẽ.
+言葉遣[ことばづか]い | n | NGÔN DIỆP KHIỂN | cách ăn nói | - | - | お客様[きゃくさま]への言葉遣[ことばづか]いに気[き]をつけます。 | Chú ý cách ăn nói với khách.
+お詫[わ]び | n | SÁ | lời xin lỗi | - | - | ご迷惑[めいわく]をおかけしたことをお詫[わ]び申[もう]し上[あ]げます。 | Chúng tôi xin lỗi vì đã làm phiền quý khách.
+宿泊[しゅくはく]カード | n | TÚC BẠC | phiếu đăng ký lưu trú | - | - | 宿泊[しゅくはく]カードにご記入[きにゅう]をお願[ねが]いします。 | Xin quý khách điền vào phiếu đăng ký lưu trú.
+延泊[えんぱく] | n,v3 | DIÊN BẠC | ở thêm đêm | - | - | お客様[きゃくさま]から延泊[えんぱく]のご希望[きぼう]がありました。 | Khách muốn ở thêm một đêm.
+モーニングコール | n | - | báo thức buổi sáng | - | - | 明日[あした]六[ろく]時[じ]にモーニングコールをお願[ねが]いします。 | Cho tôi báo thức lúc sáu giờ sáng mai.
+清掃中[せいそうちゅう] | n | THANH TẢO TRUNG | đang dọn dẹp | - | - | 清掃中[せいそうちゅう]の札[ふだ]をドアに掛[か]けます。 | Treo biển "Đang dọn dẹp" lên cửa.
+点検[てんけん] | n,v3 | ĐIỂM KIỂM | kiểm tra | - | - | 清掃[せいそう]の後[あと]、リーダーが部屋[へや]を点検[てんけん]します。 | Dọn xong trưởng nhóm kiểm tra phòng.
+髪[かみ]の毛[け] | n | PHÁT MAO | sợi tóc | - | - | 浴室[よくしつ]に髪[かみ]の毛[け]が残[のこ]っていないか確認[かくにん]します。 | Kiểm tra phòng tắm có còn sợi tóc không.
+浴室[よくしつ] | n | DỤC THẤT | phòng tắm | - | - | 浴室[よくしつ]の鏡[かがみ]をきれいに磨[みが]きます。 | Lau gương phòng tắm thật sạch.
+補充[ほじゅう] | n,v3 | BỔ SUNG | bổ sung | - | - | トイレットペーパーを補充[ほじゅう]します。 | Bổ sung giấy vệ sinh.
+ドリンク | n | - | đồ uống | - | - | ドリンクは先[さき]にお持[も]ちします。 | Đồ uống sẽ mang ra trước.
+生[なま]ビール | n | SINH | bia tươi | - | - | 生[なま]ビールを二[ふた]つお願[ねが]いします。 | Cho hai cốc bia tươi.
+ソフトドリンク | n | - | nước ngọt | - | - | 未成年[みせいねん]の方[かた]にはソフトドリンクを出[だ]します。 | Với người chưa thành niên thì phục vụ nước ngọt.
+未成年[みせいねん] | n | VỊ THÀNH NIÊN | người chưa thành niên | - | - | 未成年[みせいねん]にお酒[さけ]を出[だ]してはいけません。 | Không được bán rượu cho người chưa thành niên.
+年齢確認[ねんれいかくにん] | n | NIÊN LINH XÁC NHẬN | xác nhận tuổi | - | - | お酒[さけ]を注文[ちゅうもん]された時[とき]は年齢確認[ねんれいかくにん]をします。 | Khi khách gọi rượu thì xác nhận tuổi.
+お通[とお]し | n | THÔNG | món khai vị kèm (quán nhậu) | - | - | 居酒屋[いざかや]では最初[さいしょ]にお通[とお]しが出[で]ます。 | Ở quán nhậu ban đầu có món khai vị kèm.
+飲[の]み放題[ほうだい] | n | ẨM PHÓNG ĐỀ | uống thả ga | - | - | 飲[の]み放題[ほうだい]は二[に]時間[じかん]です。 | Uống thả ga trong hai tiếng.
+コース | n | - | set món | - | - | 宴会[えんかい]のコースは五千[ごせん]円[えん]です。 | Set món tiệc giá năm nghìn yên.
+宴会[えんかい] | n | YẾN HỘI | tiệc | 宴会[えんかい] の 準備[じゅんび] | chuẩn bị tiệc | 夜[よる]の宴会[えんかい]の準備[じゅんび]をします。 | Chuẩn bị tiệc buổi tối.
+前菜[ぜんさい] | n | TIỀN THÁI | món khai vị | - | - | まず前菜[ぜんさい]をお持[も]ちします。 | Trước tiên xin mang món khai vị ra.
+メイン | n | - | món chính | - | - | メインの料理[りょうり]をお出[だ]ししてもよろしいですか。 | Tôi mang món chính ra được chưa ạ?
+デザート | n | - | tráng miệng | - | - | デザートはお食事[しょくじ]の後[あと]にお持[も]ちします。 | Món tráng miệng sẽ mang ra sau bữa ăn.
+取[と]り皿[ざら] | n | THỦ MÃNH | đĩa chia | - | - | 取[と]り皿[ざら]を人数[にんずう]分[ぶん]お持[も]ちします。 | Mang đĩa chia đủ số người.
+お箸[はし] | n | TRỨ | đũa (lịch sự) | - | - | お箸[はし]をもう一膳[いちぜん]お持[も]ちしましょうか。 | Tôi mang thêm một đôi đũa nhé ạ?
+膳[ぜん] | ctr | THIỆN | đôi (đũa) | - | - | お箸[はし]を三[さん]膳[ぜん]ください。 | Cho ba đôi đũa.
+グラス | n | - | ly | - | - | グラスが空[あ]いたら次[つぎ]の飲[の]み物[もの]を伺[うかが]います。 | Ly cạn thì hỏi khách đồ uống tiếp theo.
+空[あ]く | v1 | KHÔNG | trống | - | - | テーブルが空[あ]いたらすぐに片付[かたづ]けます。 | Bàn trống thì dọn ngay.
+こぼす | v1 | - | làm đổ | - | - | お客様[きゃくさま]の服[ふく]に水[みず]をこぼしてしまいました。 | Tôi lỡ làm đổ nước lên áo khách.
+すぐに | adv | - | ngay lập tức | - | - | すぐにお拭[ふ]きいたします。 | Tôi xin lau ngay ạ.
+落[お]とす | v1 | LẠC | làm rơi | - | - | お皿[さら]を落[お]としたら、すぐに片付[かたづ]けて報告[ほうこく]します。 | Làm rơi đĩa thì dọn ngay và báo cáo.
+割[わ]れる | v2 | CÁT | vỡ | - | - | 割[わ]れたグラスは素手[すで]で触[さわ]らないでください。 | Đừng chạm tay không vào ly vỡ.
+お勘定[かんじょう] | n | KHÁM ĐỊNH | tính tiền | - | - | お勘定[かんじょう]はお席[せき]でいたします。 | Tính tiền tại bàn ạ.
+別々[べつべつ] | adj-na | BIỆT | riêng rẽ | 別々[べつべつ] に 払[はら]う | trả riêng | お会計[かいけい]は別々[べつべつ]になさいますか。 | Quý khách thanh toán riêng ạ?
+一緒[いっしょ] | n | NHẤT TỰ | chung | - | - | お会計[かいけい]はご一緒[いっしょ]でよろしいですか。 | Quý khách thanh toán chung phải không ạ?
+キャッシュレス | n | - | không dùng tiền mặt | - | - | キャッシュレス決済[けっさい]もご利用[りよう]いただけます。 | Quý khách có thể thanh toán không tiền mặt.
+決済[けっさい] | n,v3 | QUYẾT TẾ | thanh toán | - | - | カードで決済[けっさい]します。 | Thanh toán bằng thẻ.
+ポイントカード | n | - | thẻ tích điểm | - | - | ポイントカードはお持[も]ちですか。 | Quý khách có thẻ tích điểm không ạ?
+お見送[みおく]り | n,v3 | KIẾN TỐNG | tiễn khách | - | - | お客様[きゃくさま]を入口[いりぐち]までお見送[みおく]りします。 | Tiễn khách ra đến cửa.
+常連[じょうれん] | n | THƯỜNG LIÊN | khách quen | {常連[じょうれん]} 客[きゃく] | khách quen | 常連[じょうれん]客[きゃく]の顔[かお]と名前[なまえ]を覚[おぼ]えます。 | Nhớ mặt và tên khách quen.
+口[くち]コミ | n | KHẨU | đánh giá truyền miệng | - | - | いい口[くち]コミでお客様[きゃくさま]が増[ふ]えました。 | Nhờ đánh giá tốt mà khách tăng lên.
+評判[ひょうばん] | n | BÌNH PHÁN | tiếng tăm | 評判[ひょうばん] が いい | có tiếng tốt | このホテルはサービスの評判[ひょうばん]がいいです。 | Khách sạn này có tiếng về dịch vụ tốt.
+満足[まんぞく] | n,v3,adj-na | MÃN TÚC | hài lòng | お客様[きゃくさま] {満足[まんぞく]} | sự hài lòng của khách | お客様[きゃくさま]満足[まんぞく]を一番[いちばん]に考[かんが]えます。 | Đặt sự hài lòng của khách lên hàng đầu.
+特定技能[とくていぎのう] | n | ĐẶC ĐỊNH KỸ NĂNG | kỹ năng đặc định | - | - | 外食[がいしょく]業[ぎょう]の特定技能[とくていぎのう]試験[しけん]に合格[ごうかく]しました。 | Tôi đã đỗ kỳ thi kỹ năng đặc định ngành ăn uống.
+試験[しけん] | n | THÍ NGHIỆM | kỳ thi | - | - | 宿泊[しゅくはく]業[ぎょう]の試験[しけん]を受[う]ける予定[よてい]です。 | Tôi dự định thi ngành lưu trú.
+業界[ぎょうかい] | n | NGHIỆP GIỚI | ngành nghề | - | - | ホテル業界[ぎょうかい]は人手[ひとで]が足[た]りません。 | Ngành khách sạn thiếu nhân lực.
+人手不足[ひとでぶそく] | n | NHÂN THỦ BẤT TÚC | thiếu nhân lực | - | - | 人手不足[ひとでぶそく]で外国人[がいこくじん]スタッフが増[ふ]えています。 | Do thiếu nhân lực nên nhân viên nước ngoài tăng lên.
+スタッフ | n | - | nhân viên | - | - | スタッフ全員[ぜんいん]で協力[きょうりょく]します。 | Toàn bộ nhân viên cùng hợp sức.

@@ -1,0 +1,171 @@
+@topic minna-c
+@ja みんなの日本語[にほんご]
+@vi Từ riêng của giáo trình Minna (bài 35–50)
+クリック | n,v3 | - | nhấp chuột | - | - | このボタンをクリックしてください。 | Hãy nhấp vào nút này.
+屋上[おくじょう] | n | ỐC THƯỢNG | sân thượng | - | - | デパートの屋上[おくじょう]に遊園地[ゆうえんち]がある。 | Trên sân thượng cửa hàng bách hóa có khu vui chơi.
+山登[やまのぼ]り | n | SƠN ĐĂNG | leo núi | - | - | 秋[あき]は山登[やまのぼ]りにいい季節[きせつ]です。 | Mùa thu là mùa thích hợp để leo núi.
+ふりがな | n | - | chữ phiên âm trên Hán tự | - | - | 漢字[かんじ]にふりがなを付[つ]けてください。 | Hãy ghi phiên âm lên chữ Hán.
+レバー | n | - | cần gạt | - | - | このレバーを引[ひ]くと水[みず]が出[で]ます。 | Kéo cần gạt này thì nước chảy ra.
+それなら | conj | - | nếu vậy thì | - | - | 「海[うみ]が好[す]きです。」「それなら、沖縄[おきなわ]がいいですよ。」 | "Tôi thích biển." "Nếu vậy thì Okinawa hay đấy."
+旅行社[りょこうしゃ] | n | LỮ HÀNH XÃ | công ty du lịch | - | - | 旅行社[りょこうしゃ]でホテルを予約[よやく]した。 | Tôi đặt khách sạn qua công ty du lịch.
+スキー場[じょう] | n | TRƯỜNG | khu trượt tuyết | - | - | 冬[ふゆ]休[やす]みにスキー場[じょう]へ行[い]きます。 | Kỳ nghỉ đông tôi đi khu trượt tuyết.
+朱[しゅ] | n | CHU | màu đỏ son | {朱} に 交[まじ]われば 赤[あか]くなる | gần mực thì đen | 「朱[しゅ]に交[まじ]われば赤[あか]くなる」ということわざがある。 | Có câu tục ngữ "Gần mực thì đen".
+交[まじ]わる | v1 | GIAO | hòa lẫn; giao du | - | - | 二[ふた]つの道[みち]が交[まじ]わる所[ところ]に駅[えき]がある。 | Ở chỗ hai con đường giao nhau có nhà ga.
+仲[なか]よくする | exp | TRỌNG | hòa thuận | - | - | 兄弟[きょうだい]は仲[なか]よくしなさい。 | Anh em phải hòa thuận với nhau.
+曲[きょく] | n | KHÚC | bản nhạc | - | - | 好[す]きな曲[きょく]を何回[なんかい]も聞[き]く。 | Tôi nghe đi nghe lại bản nhạc yêu thích.
+このごろ | adv | - | dạo này | - | - | このごろ、夜[よる]よく眠[ねむ]れません。 | Dạo này buổi tối tôi khó ngủ.
+絶対[ぜったい]に | adv | TUYỆT ĐỐI | nhất định, tuyệt đối | - | - | 約束[やくそく]は絶対[ぜったい]に守[まも]ります。 | Tôi nhất định giữ lời hứa.
+上手[じょうず]に | adv | THƯỢNG THỦ | một cách khéo léo | - | - | 日本語[にほんご]が上手[じょうず]に話[はな]せるようになりたい。 | Tôi muốn nói tiếng Nhật thành thạo.
+特別[とくべつ] | adj-na | ĐẶC BIỆT | đặc biệt | - | - | 今日[きょう]は特別[とくべつ]な日[ひ]です。 | Hôm nay là một ngày đặc biệt.
+チャレンジ | n,v3 | - | thử thách | - | - | 新[あたら]しいことにチャレンジしたい。 | Tôi muốn thử thách điều mới.
+遠[とお]く | n | VIỄN | nơi xa | - | - | 遠[とお]くに山[やま]が見[み]えます。 | Phía xa có thể thấy núi.
+汽車[きしゃ] | n | KHÍ XA | tàu hỏa hơi nước | - | - | 昔[むかし]は汽車[きしゃ]で東京[とうきょう]まで行[い]った。 | Ngày xưa người ta đi tàu hơi nước lên Tokyo.
+汽船[きせん] | n | KHÍ THUYỀN | tàu thủy hơi nước | - | - | 汽船[きせん]で海[うみ]を渡[わた]った。 | Người ta vượt biển bằng tàu hơi nước.
+麦[むぎ] | n | MẠCH | lúa mì, lúa mạch | - | - | この地方[ちほう]では麦[むぎ]を作[つく]っています。 | Vùng này trồng lúa mì.
+インスタントラーメン | n | - | mì ăn liền | - | - | 忙[いそが]しいときはインスタントラーメンを食[た]べる。 | Lúc bận tôi ăn mì ăn liền.
+何語[なにご] | q | HÀ NGỮ | tiếng gì | - | - | ブラジルでは何語[なにご]を話[はな]しますか。 | Ở Brazil người ta nói tiếng gì?
+だれか | pron | - | ai đó | - | - | だれか手伝[てつだ]ってください。 | Ai đó giúp tôi với.
+よかったですね | exp | - | tốt quá nhỉ | - | - | 試験[しけん]に合格[ごうかく]したんですか。よかったですね。 | Anh thi đỗ à? Tốt quá nhỉ.
+その後[ご] | adv | HẬU | sau đó | - | - | その後[ご]、お元気[げんき]ですか。 | Từ đó tới nay anh vẫn khỏe chứ?
+その後[あと] | adv | HẬU | sau đó | - | - | 映画[えいが]を見[み]て、その後[あと]食事[しょくじ]をした。 | Xem phim xong, sau đó chúng tôi đi ăn.
+金色[きんいろ] | n | KIM SẮC | màu vàng kim | - | - | 金色[きんいろ]のお寺[てら]がとてもきれいでした。 | Ngôi chùa màu vàng kim rất đẹp.
+金[きん] | n | KIM | vàng | - | - | この時計[とけい]は金[きん]でできている。 | Chiếc đồng hồ này làm bằng vàng.
+キロ | ctr | - | ki-lô | - | - | 駅[えき]まで二[に]キロあります。 | Đến ga có hai cây số.
+美[うつく]しい | adj-i | MỸ | đẹp | {美しい} 景色[けしき] | cảnh đẹp | 富士山[ふじさん]は本当[ほんとう]に美[うつく]しい。 | Núi Phú Sĩ thật sự rất đẹp.
+彫[ほ]る | v1 | ĐIÊU | khắc, chạm | - | - | 木[き]で人形[にんぎょう]を彫[ほ]った。 | Tôi khắc búp bê bằng gỗ.
+ねずみ | n | - | con chuột | - | - | 台所[だいどころ]にねずみがいる。 | Trong bếp có chuột.
+一匹[いっぴき]も | adv | NHẤT THẤT | không một con nào | - | - | 川[かわ]に魚[さかな]が一匹[いっぴき]もいない。 | Dưới sông không có một con cá nào.
+気持[きも]ちがいい | exp | KHÍ TRÌ | dễ chịu | - | - | 朝[あさ]の散歩[さんぽ]は気持[きも]ちがいい。 | Đi dạo buổi sáng thật dễ chịu.
+気持[きも]ちが悪[わる]い | exp | KHÍ TRÌ ÁC | khó chịu, buồn nôn | - | - | バスに酔[よ]って、気持[きも]ちが悪[わる]い。 | Bị say xe buýt nên tôi thấy buồn nôn.
+大[おお]きな | adj-na | ĐẠI | to, lớn | - | - | 大[おお]きな声[こえ]で話[はな]してください。 | Hãy nói to lên.
+小[ちい]さな | adj-na | TIỂU | nhỏ, bé | - | - | 小[ちい]さな村[むら]で生[う]まれた。 | Tôi sinh ra ở một ngôi làng nhỏ.
+かな | part | - | nhỉ, không biết (tự hỏi) | - | - | 明日[あした]は晴[は]れるかな。 | Không biết mai có nắng không nhỉ.
+おととし | n | - | năm kia | - | - | おととし日本[にほん]に来[き]ました。 | Tôi đến Nhật năm kia.
+いけない | exp | - | chết rồi; không được | - | - | いけない、鍵[かぎ]を忘[わす]れた。 | Chết rồi, tôi quên chìa khóa.
+お先[さき]に失礼[しつれい]します | exp | TIÊN THẤT LỄ | tôi xin phép về trước | - | - | 用事[ようじ]があるので、お先[さき]に失礼[しつれい]します。 | Tôi có việc nên xin phép về trước.
+回覧[かいらん] | n,v3 | HỒI LÃM | chuyền tay đọc | {回覧} 板[ばん] | bảng tin chuyền tay | お知[し]らせを回覧[かいらん]してください。 | Hãy chuyền tay nhau đọc thông báo.
+という | exp | - | gọi là, nói rằng | - | - | 「さくら」という店[みせ]を知[し]っていますか。 | Anh có biết cửa hàng tên là "Sakura" không?
+はんこ | n | - | con dấu | {はんこ} を 押[お]す | đóng dấu | ここにはんこを押[お]してください。 | Hãy đóng dấu vào đây.
+年生[ねんせい] | suf | NIÊN SINH | học sinh năm thứ ~ | - | - | 息子[むすこ]は小学[しょうがく]三[さん]年生[ねんせい]です。 | Con trai tôi học lớp ba.
+時間[じかん]がたつ | exp | THỜI GIAN | thời gian trôi qua | - | - | 楽[たの]しいと、時間[じかん]がたつのが早[はや]い。 | Vui thì thời gian trôi nhanh.
+仕方[しかた] | n | SĨ PHƯƠNG | cách làm | - | - | 料理[りょうり]の仕方[しかた]を母[はは]に習[なら]った。 | Tôi học cách nấu ăn từ mẹ.
+びっくりする | v3 | - | giật mình, ngạc nhiên | - | - | 大[おお]きな音[おと]にびっくりした。 | Tôi giật mình vì tiếng động lớn.
+軟[やわ]らかい | adj-i | NHUYỄN | mềm | - | - | このパンは軟[やわ]らかくておいしい。 | Bánh mì này mềm và ngon.
+代[だい] | suf | ĐẠI | tiền ~; thế hệ ~ | - | - | 今月[こんげつ]の電気[でんき]代[だい]は高[たか]かった。 | Tiền điện tháng này cao.
+号室[ごうしつ] | suf | HIỆU THẤT | phòng số ~ | - | - | 私[わたし]の部屋[へや]は三[さん]〇[まる]五[ご]号室[ごうしつ]です。 | Phòng tôi là phòng số 305.
+お疲[つか]れさまでした | exp | BÌ | anh đã vất vả rồi | - | - | 今日[きょう]もお疲[つか]れさまでした。 | Hôm nay anh cũng vất vả rồi.
+途中[とちゅう]で | adv | ĐỒ TRUNG | giữa đường | - | - | 会社[かいしゃ]へ行[い]く途中[とちゅう]で事故[じこ]を見[み]た。 | Trên đường đến công ty tôi thấy tai nạn.
+西洋化[せいようか] | n,v3 | TÂY DƯƠNG HÓA | Tây hóa | - | - | 日本人[にほんじん]の生活[せいかつ]は西洋[せいよう]化[か]した。 | Đời sống của người Nhật đã được Tây hóa.
+合[あ]う | v1 | HỢP | vừa, hợp | サイズ が {合う} | vừa cỡ | この服[ふく]はサイズが合[あ]わない。 | Bộ đồ này không vừa cỡ.
+今[いま]では | adv | KIM | ngày nay thì | - | - | 今[いま]ではだれでもスマホを持[も]っている。 | Ngày nay ai cũng có điện thoại thông minh.
+成人式[せいじんしき] | n | THÀNH NHÂN THỨC | lễ trưởng thành | - | - | 成人式[せいじんしき]に着物[きもの]を着[き]て行[い]った。 | Tôi mặc kimono đi dự lễ trưởng thành.
+うまくいく | exp | - | suôn sẻ | - | - | 仕事[しごと]がうまくいかない。 | Công việc không suôn sẻ.
+二次会[にじかい] | n | NHỊ THỨ HỘI | tăng hai | - | - | 飲[の]み会[かい]の後[あと]、二次会[にじかい]でカラオケに行[い]った。 | Sau buổi nhậu chúng tôi đi tăng hai hát karaoke.
+発表会[はっぴょうかい] | n | PHÁT BIỂU HỘI | buổi trình diễn, buổi báo cáo | - | - | ピアノの発表会[はっぴょうかい]で弾[ひ]いた。 | Tôi đánh đàn ở buổi biểu diễn piano.
+コンテスト | n | - | cuộc thi | - | - | スピーチコンテストに出[で]ます。 | Tôi sẽ tham gia cuộc thi hùng biện.
+センチ | ctr | - | xăng-ti-mét | - | - | 背[せ]が百七十[ひゃくななじゅう]センチあります。 | Tôi cao một mét bảy.
+ミリ | ctr | - | mi-li-mét | - | - | 雨[あめ]が五十[ごじゅう]ミリ降[ふ]った。 | Mưa năm mươi mi-li-mét.
+以上[いじょう] | n | DĨ THƯỢNG | trở lên | - | - | 二十[はたち]歳[さい]以上[いじょう]の人[ひと]しかお酒[さけ]を飲[の]めません。 | Chỉ người từ hai mươi tuổi trở lên mới được uống rượu.
+どうでしょうか | exp | - | thế nào ạ? | - | - | 息子[むすこ]の成績[せいせき]はどうでしょうか。 | Thành tích của con trai tôi thế nào ạ?
+オートバイ | n | - | xe máy | - | - | オートバイで会社[かいしゃ]に通[かよ]っている。 | Tôi đi làm bằng xe máy.
+積[つ]む | v1 | TÍCH | chất lên, chồng | 荷物[にもつ] を {積む} | chất hàng | トラックに荷物[にもつ]を積[つ]んだ。 | Tôi chất hàng lên xe tải.
+動[うご]かす | v1 | ĐỘNG | di chuyển, làm động | 体[からだ] を {動かす} | vận động cơ thể | 机[つくえ]を動[うご]かしてください。 | Hãy dịch cái bàn.
+男[おとこ] | n | NAM | đàn ông | - | - | 男[おとこ]が一人[ひとり]で店[みせ]に入[はい]ってきた。 | Một người đàn ông bước vào cửa hàng một mình.
+手[て]に入[い]れる | exp | THỦ NHẬP | có được, kiếm được | - | - | やっと欲[ほ]しかった本[ほん]を手[て]に入[い]れた。 | Cuối cùng tôi cũng có được cuốn sách mong muốn.
+今[いま]でも | adv | KIM | đến giờ vẫn | - | - | 今[いま]でもあの日[ひ]のことを覚[おぼ]えている。 | Đến giờ tôi vẫn nhớ ngày hôm đó.
+えさ | n | - | thức ăn cho động vật | {えさ} を やる | cho ăn | 毎朝[まいあさ]猫[ねこ]にえさをやる。 | Sáng nào tôi cũng cho mèo ăn.
+おもちゃ | n | - | đồ chơi | - | - | 子供[こども]におもちゃを買[か]ってあげた。 | Tôi mua đồ chơi cho con.
+絵本[えほん] | n | HỘI BẢN | sách tranh | - | - | 寝[ね]る前[まえ]に絵本[えほん]を読[よ]んであげる。 | Tôi đọc sách tranh cho con trước khi ngủ.
+絵[え]はがき | n | HỘI | bưu thiếp có tranh | - | - | 旅先[たびさき]から絵[え]はがきを送[おく]った。 | Tôi gửi bưu thiếp từ nơi du lịch.
+ハンカチ | n | - | khăn tay | - | - | ハンカチで汗[あせ]をふいた。 | Tôi lau mồ hôi bằng khăn tay.
+お孫[まご]さん | n | TÔN | cháu (người khác) | - | - | お孫[まご]さんは何人[なんにん]いますか。 | Bác có mấy cháu ạ?
+おじ | n | - | chú, bác, cậu (của mình) | - | - | おじは東京[とうきょう]に住[す]んでいます。 | Chú tôi sống ở Tokyo.
+おば | n | - | cô, dì, bác gái (của mình) | - | - | おばにセーターをもらった。 | Tôi được dì cho chiếc áo len.
+一言[ひとこと] | n | NHẤT NGÔN | một lời | - | - | 最後[さいご]に一言[ひとこと]お願[ねが]いします。 | Cuối cùng xin anh nói vài lời.
+ずつ | part | - | mỗi ~ | - | - | 一人[ひとり]二[ふた]つずつ取[と]ってください。 | Mỗi người lấy hai cái.
+お宅[たく] | n | TRẠCH | nhà (của người khác) | - | - | 先生[せんせい]のお宅[たく]に伺[うかが]いました。 | Tôi đã đến thăm nhà thầy.
+どうぞお幸[しあわ]せに | exp | HẠNH | chúc hạnh phúc | - | - | ご結婚[けっこん]おめでとう。どうぞお幸[しあわ]せに。 | Chúc mừng đám cưới. Chúc hai bạn hạnh phúc.
+お姫様[ひめさま] | n | CƠ DẠNG | công chúa | - | - | 昔[むかし]話[ばなし]にお姫様[ひめさま]が出[で]てくる。 | Trong truyện cổ tích có công chúa xuất hiện.
+音楽家[おんがくか] | n | ÂM NHẠC GIA | nhạc sĩ | - | - | 将来[しょうらい]は音楽家[おんがくか]になりたい。 | Sau này tôi muốn trở thành nhạc sĩ.
+ミキサー | n | - | máy xay sinh tố | - | - | ミキサーでジュースを作[つく]った。 | Tôi làm nước ép bằng máy xay.
+栓抜[せんぬ]き | n | XUYÊN BẠT | cái mở nắp chai | - | - | 栓抜[せんぬ]きはどこにありますか。 | Cái mở nắp chai ở đâu?
+缶切[かんき]り | n | PHẪU THIẾT | cái mở hộp | - | - | 缶切[かんき]りで缶詰[かんづめ]を開[あ]けた。 | Tôi mở đồ hộp bằng cái mở hộp.
+のし袋[ぶくろ] | n | ĐẠI | phong bì đựng tiền mừng | - | - | お祝[いわ]いのお金[かね]をのし袋[ぶくろ]に入[い]れた。 | Tôi cho tiền mừng vào phong bì.
+ふろしき | n | - | khăn gói đồ | - | - | ふろしきでお弁当[べんとう]を包[つつ]んだ。 | Tôi gói hộp cơm bằng khăn.
+そろばん | n | - | bàn tính | - | - | 子供[こども]のころ、そろばんを習[なら]った。 | Hồi nhỏ tôi học bàn tính.
+カップめん | n | - | mì cốc | - | - | お湯[ゆ]を入[い]れて三[さん]分[ぷん]でカップめんができる。 | Đổ nước sôi vào ba phút là có mì cốc.
+世界初[せかいはつ] | n | THẾ GIỚI SƠ | lần đầu tiên trên thế giới | - | - | 世界初[せかいはつ]のインスタントラーメンは日本[にほん]で生[う]まれた。 | Mì ăn liền đầu tiên trên thế giới ra đời ở Nhật.
+によって | exp | - | bởi, tùy theo | - | - | この本[ほん]は有名[ゆうめい]な作家[さっか]によって書[か]かれた。 | Cuốn sách này được viết bởi một nhà văn nổi tiếng.
+切[き]れる | v2 | THIẾT | đứt; hết | - | - | 靴[くつ]のひもが切[き]れた。 | Dây giày bị đứt.
+とれる | v2 | - | tuột ra, rơi ra | ボタン が {とれる} | cúc áo bị bung | シャツのボタンがとれた。 | Cúc áo sơ mi bị bung ra.
+楽[らく] | adj-na | LẠC | thoải mái, nhàn | - | - | 新[あたら]しい仕事[しごと]は前[まえ]より楽[らく]です。 | Công việc mới nhàn hơn trước.
+わあ | interj | - | oa | - | - | わあ、きれいな夜景[やけい]ですね。 | Oa, cảnh đêm đẹp quá.
+ばら | n | - | hoa hồng | - | - | 庭[にわ]に赤[あか]いばらが咲[さ]いている。 | Trong vườn hoa hồng đỏ đang nở.
+量[りょう] | n | LƯỢNG | lượng | {量} が 多[おお]い | nhiều | この店[みせ]は料理[りょうり]の量[りょう]が多[おお]い。 | Quán này đồ ăn nhiều.
+シングル | n | - | phòng đơn | - | - | シングルの部屋[へや]を予約[よやく]した。 | Tôi đặt phòng đơn.
+ツイン | n | - | phòng hai giường | - | - | ツインの部屋[へや]は空[あ]いていますか。 | Còn phòng hai giường không?
+DVD | n | - | đĩa DVD | - | - | 週末[しゅうまつ]は家[いえ]でDVDを見[み]ます。 | Cuối tuần tôi ở nhà xem DVD.
+どうなさいますか | exp | - | quý khách muốn thế nào ạ? | - | - | 髪[かみ]の長[なが]さはどうなさいますか。 | Độ dài tóc quý khách muốn thế nào ạ?
+シャンプー | n,v3 | - | dầu gội; gội đầu | - | - | このシャンプーはいい香[かお]りがする。 | Dầu gội này có mùi thơm.
+みたいに | exp | - | giống như | - | - | 鳥[とり]みたいに空[そら]を飛[と]びたい。 | Tôi muốn bay trên trời như chim.
+これでよろしいでしょうか | exp | - | thế này đã được chưa ạ? | - | - | 長[なが]さはこれでよろしいでしょうか。 | Độ dài thế này đã được chưa ạ?
+うまく | adv | - | khéo, suôn sẻ | - | - | 日本語[にほんご]でうまく説明[せつめい]できない。 | Tôi không giải thích khéo được bằng tiếng Nhật.
+表現[ひょうげん] | n,v3 | BIỂU HIỆN | diễn đạt | - | - | 気持[きも]ちを言葉[ことば]で表現[ひょうげん]するのは難[むずか]しい。 | Diễn đạt cảm xúc bằng lời thật khó.
+これら | pron | - | những cái này | - | - | これらの資料[しりょう]を読[よ]んでおいてください。 | Hãy đọc trước những tài liệu này.
+縁起[えんぎ]が悪[わる]い | exp | DUYÊN KHỞI ÁC | điềm xấu, xui | - | - | 日本[にほん]では「四[し]」は縁起[えんぎ]が悪[わる]いと言[い]われる。 | Ở Nhật số "bốn" bị coi là điềm xấu.
+梅[うめ] | n | MAI | cây mơ | - | - | 二月[にがつ]に梅[うめ]の花[はな]が咲[さ]く。 | Tháng hai hoa mơ nở.
+無理[むり]に | adv | VÔ LÝ | cố quá sức, ép | - | - | 無理[むり]に食[た]べなくてもいいですよ。 | Không cần cố ăn đâu.
+楽[たの]しみにしています | exp | LẠC | rất mong đợi | - | - | 来週[らいしゅう]の旅行[りょこう]を楽[たの]しみにしています。 | Tôi rất mong đến chuyến du lịch tuần sau.
+以上[いじょう]です | exp | DĨ THƯỢNG | xin hết | - | - | 私[わたし]の発表[はっぴょう]は以上[いじょう]です。 | Phần trình bày của tôi xin hết.
+係員[かかりいん] | n | HỆ VIÊN | nhân viên phụ trách | - | - | 分[わ]からないことは係員[かかりいん]に聞[き]いてください。 | Có gì không rõ hãy hỏi nhân viên phụ trách.
+スタート | n,v3 | - | xuất phát, bắt đầu | - | - | マラソンは九[く]時[じ]にスタートします。 | Cuộc thi marathon xuất phát lúc chín giờ.
+位[い] | suf | VỊ | hạng ~ | - | - | 試合[しあい]で三[さん]位[い]になった。 | Tôi đạt hạng ba trong cuộc thi.
+セット | n,v3 | - | cài đặt; bộ | 目覚[めざ]まし を {セット} する | đặt báo thức | 目覚[めざ]まし時計[どけい]を六[ろく]時[じ]にセットした。 | Tôi đặt đồng hồ báo thức lúc sáu giờ.
+それでも | conj | - | dù vậy | - | - | 雨[あめ]が降[ふ]っていた。それでも試合[しあい]は続[つづ]いた。 | Trời mưa. Dù vậy trận đấu vẫn tiếp tục.
+帰[かえ]ってくる | v3 | QUY | trở về | - | - | 父[ちち]は七[しち]時[じ]ごろ帰[かえ]ってくる。 | Bố khoảng bảy giờ sẽ về.
+半年[はんとし] | n | BÁN NIÊN | nửa năm | - | - | 日本[にほん]に来[き]て半年[はんとし]になります。 | Tôi đến Nhật được nửa năm.
+たった今[いま] | adv | KIM | vừa mới | - | - | たった今[いま]、駅[えき]に着[つ]きました。 | Tôi vừa mới đến ga.
+今[いま]いいですか | exp | KIM | bây giờ anh có rảnh không? | - | - | 部長[ぶちょう]、今[いま]いいですか。 | Thưa trưởng phòng, bây giờ anh có rảnh không ạ?
+ガスサービスセンター | n | - | trung tâm dịch vụ ga | - | - | ガスがつかないので、ガスサービスセンターに電話[でんわ]した。 | Bếp ga không lên nên tôi gọi trung tâm dịch vụ ga.
+ガスレンジ | n | - | bếp ga | - | - | ガスレンジの火[ひ]がつきません。 | Bếp ga không bật lửa được.
+申[もう]し訳[わけ]ありません | exp | THÂN DỊCH | thành thật xin lỗi | - | - | ご迷惑[めいわく]をおかけして申[もう]し訳[わけ]ありません。 | Thành thật xin lỗi vì đã làm phiền.
+どちら様[さま]でしょうか | exp | DẠNG | xin hỏi ai đấy ạ? | - | - | 失礼[しつれい]ですが、どちら様[さま]でしょうか。 | Xin lỗi, cho hỏi ai đấy ạ?
+ついている | exp | - | gặp may | - | - | 今日[きょう]はついている。くじが当[あ]たった。 | Hôm nay gặp may. Tôi trúng thưởng.
+ベル | n | - | chuông | - | - | 授業[じゅぎょう]の終[お]わりのベルが鳴[な]った。 | Chuông hết giờ học đã reo.
+慌[あわ]てて | adv | HOẢNG | vội vàng | - | - | 遅刻[ちこく]しそうで、慌[あわ]てて家[いえ]を出[で]た。 | Sắp muộn nên tôi vội vàng ra khỏi nhà.
+順番[じゅんばん]に | adv | THUẬN PHIÊN | lần lượt | - | - | 順番[じゅんばん]に並[なら]んでください。 | Hãy xếp hàng lần lượt.
+出来事[できごと] | n | XUẤT LAI SỰ | sự việc, chuyện xảy ra | - | - | 今日[きょう]の出来事[できごと]を日記[にっき]に書[か]いた。 | Tôi ghi chuyện xảy ra hôm nay vào nhật ký.
+集[あつ]まる | v1 | TẬP | tập trung | 人[ひと] が {集まる} | mọi người tập trung | 九[く]時[じ]に駅[えき]の前[まえ]に集[あつ]まってください。 | Chín giờ hãy tập trung trước nhà ga.
+ひどい | adj-i | - | tệ hại, kinh khủng | - | - | ひどい雨[あめ]で電車[でんしゃ]が止[と]まった。 | Mưa kinh khủng nên tàu điện dừng chạy.
+パトカー | n | - | xe cảnh sát | - | - | 事故[じこ]の現場[げんば]にパトカーが来[き]た。 | Xe cảnh sát đến hiện trường tai nạn.
+大統領[だいとうりょう] | n | ĐẠI THỐNG LĨNH | tổng thống | - | - | アメリカの大統領[だいとうりょう]が日本[にほん]に来[き]た。 | Tổng thống Mỹ đã đến Nhật.
+によると | exp | - | theo (nguồn tin) | - | - | 天気[てんき]予報[よほう]によると、明日[あした]は雪[ゆき]だそうです。 | Theo dự báo thời tiết thì mai có tuyết.
+長生[ながい]き | n,v3 | TRƯỜNG SINH | sống lâu | - | - | 祖母[そぼ]は百[ひゃく]歳[さい]まで長生[ながい]きした。 | Bà tôi sống thọ đến một trăm tuổi.
+いいことですね | exp | - | hay đấy nhỉ | - | - | 毎朝[まいあさ]走[はし]っているんですか。いいことですね。 | Sáng nào anh cũng chạy à? Hay đấy nhỉ.
+お忙[いそが]しいですか | exp | MANG | anh có bận không ạ? | - | - | 今[いま]お忙[いそが]しいですか。 | Bây giờ anh có bận không ạ?
+それまでに | adv | - | trước lúc đó | - | - | 会議[かいぎ]は三[さん]時[じ]からです。それまでに資料[しりょう]を準備[じゅんび]してください。 | Cuộc họp lúc ba giờ. Trước lúc đó hãy chuẩn bị tài liệu.
+かまいません | exp | - | không sao | - | - | 鉛筆[えんぴつ]で書[か]いてもかまいません。 | Viết bằng bút chì cũng không sao.
+パーセント | ctr | - | phần trăm | - | - | 学生[がくせい]の六十[ろくじゅう]パーセントがアルバイトをしている。 | Sáu mươi phần trăm sinh viên làm thêm.
+その次[つぎ] | n | THỨ | tiếp theo sau đó | - | - | その次[つぎ]の駅[えき]で降[お]りてください。 | Hãy xuống ở ga tiếp theo sau đó.
+習字[しゅうじ] | n | TẬP TỰ | luyện viết chữ | - | - | 小学生[しょうがくせい]のとき、習字[しゅうじ]を習[なら]っていた。 | Hồi tiểu học tôi học luyện chữ.
+ご存[ぞん]じです | exp | TỒN | biết (kính ngữ) | - | - | この方[かた]をご存[ぞん]じですか。 | Anh có biết vị này không ạ?
+奥様[おくさま] | n | ÁO DẠNG | phu nhân (vợ người khác) | - | - | 奥様[おくさま]によろしくお伝[つた]えください。 | Xin gửi lời hỏi thăm tới phu nhân.
+どなたでも | pron | - | bất kỳ ai | - | - | この講座[こうざ]はどなたでも参加[さんか]できます。 | Khóa học này ai cũng tham gia được.
+といいます | exp | - | tên là, gọi là | - | - | 私[わたし]はリンといいます。 | Tôi tên là Linh.
+組[くみ] | n | TỔ | lớp, nhóm | - | - | 娘[むすめ]は一[いち]年[ねん]二[に]組[くみ]です。 | Con gái tôi học lớp một hai.
+よろしくお伝[つた]えください | exp | TRUYỀN | xin gửi lời hỏi thăm | - | - | ご家族[かぞく]によろしくお伝[つた]えください。 | Xin gửi lời hỏi thăm tới gia đình anh.
+失礼[しつれい]いたします | exp | THẤT LỄ | tôi xin phép (khiêm nhường) | - | - | では、失礼[しつれい]いたします。 | Vậy tôi xin phép.
+医学部[いがくぶ] | n | Y HỌC BỘ | khoa y | - | - | 兄[あに]は医学部[いがくぶ]の学生[がくせい]です。 | Anh trai tôi là sinh viên khoa y.
+ヒト | n | - | con người (sinh học) | - | - | ヒトの細胞[さいぼう]を使[つか]って研究[けんきゅう]する。 | Nghiên cứu sử dụng tế bào người.
+受賞[じゅしょう] | n,v3 | THỤ THƯỞNG | đoạt giải | - | - | 彼[かれ]はノーベル賞[しょう]を受賞[じゅしょう]した。 | Ông ấy đã đoạt giải Nobel.
+わたくし | pron | - | tôi (trang trọng) | - | - | わたくしが担当[たんとう]の山田[やまだ]でございます。 | Tôi là Yamada, người phụ trách.
+メールアドレス | n | - | địa chỉ email | - | - | メールアドレスを教[おし]えてください。 | Hãy cho tôi địa chỉ email.
+さ来週[らいしゅう] | n | LAI CHU | tuần sau nữa | - | - | さ来週[らいしゅう]から夏休[なつやす]みです。 | Từ tuần sau nữa là nghỉ hè.
+さ来月[らいげつ] | n | LAI NGUYỆT | tháng sau nữa | - | - | さ来月[らいげつ]引[ひ]っ越[こ]します。 | Tháng sau nữa tôi chuyển nhà.
+さ来年[らいねん] | n | LAI NIÊN | năm sau nữa | - | - | さ来年[らいねん]大学[だいがく]を卒業[そつぎょう]します。 | Năm sau nữa tôi tốt nghiệp đại học.
+初[はじ]めに | adv | SƠ | đầu tiên, trước tiên | - | - | 初[はじ]めに自己[じこ]紹介[しょうかい]をします。 | Trước tiên tôi xin tự giới thiệu.
+きりん | n | - | hươu cao cổ | - | - | きりんは首[くび]が長[なが]い。 | Hươu cao cổ có cổ dài.
+ころ | n | - | thời, hồi | - | - | 子供[こども]のころ、よく川[かわ]で遊[あそ]んだ。 | Hồi nhỏ tôi hay chơi ở sông.
+かなう | v1 | - | (ước mơ) thành hiện thực | 夢[ゆめ] が {かなう} | ước mơ thành thật | 子供[こども]のころの夢[ゆめ]がかなった。 | Ước mơ thời thơ ấu đã thành hiện thực.
+心[こころ]から | adv | TÂM | từ đáy lòng | - | - | 心[こころ]から感謝[かんしゃ]いたします。 | Xin chân thành cảm ơn từ đáy lòng.
+お元気[げんき]でいらっしゃいますか | exp | NGUYÊN KHÍ | ngài có khỏe không ạ (kính ngữ) | - | - | 先生[せんせい]、お元気[げんき]でいらっしゃいますか。 | Thưa thầy, thầy có khỏe không ạ?

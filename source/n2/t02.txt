@@ -1,0 +1,224 @@
+@topic t02
+@ja 会社[かいしゃ]・組織[そしき]
+@vi Công ty và tổ chức
+@desc Bộ máy công ty, chức danh, tuyển dụng, chế độ đãi ngộ, kỷ luật và cách vận hành công việc trong một tổ chức Nhật.
+子会社[こがいしゃ] | n | TỬ HỘI XÃ | công ty con | - | - | 父[ちち]は大手[おおて]メーカーの子会社[こがいしゃ]で働[はたら]いている。 | Bố tôi làm ở một công ty con của hãng sản xuất lớn.
+親会社[おやがいしゃ] | n | THÂN HỘI XÃ | công ty mẹ | - | - | 親会社[おやがいしゃ]の方針[ほうしん]に従[したが]う。 | Làm theo đường lối của công ty mẹ.
+系列[けいれつ] | n | HỆ LIỆT | hệ thống, tập đoàn liên kết | {系列} 会社[がいしゃ] | công ty trong hệ thống | 系列[けいれつ]会社[がいしゃ]に出向[しゅっこう]することになった。 | Tôi được điều sang làm ở công ty trong cùng hệ thống.
+経営陣[けいえいじん] | n | KINH DOANH TRẬN | ban điều hành | - | - | 経営陣[けいえいじん]が一新[いっしん]された。 | Ban điều hành đã được thay mới hoàn toàn.
+役員[やくいん] | n | DỊCH VIÊN | thành viên ban lãnh đạo | {役員} 会議[かいぎ] | cuộc họp ban lãnh đạo | 役員[やくいん]会議[かいぎ]で新[あたら]しい計画[けいかく]が決[き]まった。 | Kế hoạch mới được quyết tại cuộc họp ban lãnh đạo.
+取締役[とりしまりやく] | n | THỦ ĐẾ DỊCH | thành viên hội đồng quản trị | {取締役} 会[かい] | hội đồng quản trị | 取締役[とりしまりやく]会[かい]で社長[しゃちょう]が選[えら]ばれた。 | Giám đốc được bầu tại hội đồng quản trị.
+代表[だいひょう]取締役[とりしまりやく] | n | ĐẠI BIỂU THỦ ĐẾ DỊCH | giám đốc đại diện (theo pháp luật) | - | - | 契約書[けいやくしょ]には代表[だいひょう]取締役[とりしまりやく]の印[いん]が必要[ひつよう]だ。 | Hợp đồng cần con dấu của giám đốc đại diện.
+副社長[ふくしゃちょう] | n | PHÓ XÃ TRƯỞNG | phó giám đốc | - | - | 副社長[ふくしゃちょう]が社長[しゃちょう]の代[か]わりに挨拶[あいさつ]した。 | Phó giám đốc phát biểu thay giám đốc.
+会長[かいちょう] | n | HỘI TRƯỞNG | chủ tịch | - | - | 社長[しゃちょう]を退[しりぞ]いて会長[かいちょう]になった。 | Ông ấy rời chức giám đốc và làm chủ tịch.
+専務[せんむ] | n | CHUYÊN VỤ | giám đốc điều hành cấp cao | - | - | 専務[せんむ]は海外[かいがい]事業[じぎょう]を担当[たんとう]している。 | Giám đốc điều hành phụ trách mảng kinh doanh nước ngoài.
+幹部[かんぶ] | n | CÁN BỘ | cán bộ chủ chốt | - | - | 幹部[かんぶ]だけで話[はな]し合[あ]いが行[おこな]われた。 | Cuộc thảo luận chỉ có các cán bộ chủ chốt.
+上層部[じょうそうぶ] | n | THƯỢNG TẦNG BỘ | cấp trên, tầng lãnh đạo | {上層部} の 判断[はんだん] | quyết định của cấp trên | それは上層部[じょうそうぶ]の判断[はんだん]を待[ま]つしかない。 | Việc đó chỉ còn chờ quyết định của cấp trên.
+上役[うわやく] | n | THƯỢNG DỊCH | cấp trên | - | - | 上役[うわやく]の顔色[かおいろ]ばかりうかがっている。 | Lúc nào cũng nhìn sắc mặt cấp trên.
+目下[めした] | n | MỤC HẠ | người dưới (tuổi, vị trí) | - | - | 目下[めした]の人[ひと]にも丁寧[ていねい]に話[はな]す。 | Nói chuyện lịch sự cả với người dưới.
+肩書[かたが]き | n | KIÊN THƯ | chức danh | 肩書[かたが]き が つく | có chức danh | 課長[かちょう]という肩書[かたが]きがついた。 | Đã có chức danh trưởng phòng.
+地位[ちい] | n | ĐỊA VỊ | địa vị, vị trí | 地位[ちい] を 築[きず]く | gây dựng địa vị | 努力[どりょく]して社内[しゃない]での地位[ちい]を築[きず]いた。 | Nỗ lực gây dựng vị trí trong công ty.
+職位[しょくい] | n | CHỨC VỊ | cấp bậc chức vụ | - | - | 職位[しょくい]によって給料[きゅうりょう]が違[ちが]う。 | Lương khác nhau tùy cấp bậc.
+本部[ほんぶ] | n | BẢN BỘ | trụ sở chính, bộ chỉ huy | 営業[えいぎょう] {本部} | khối kinh doanh | 営業[えいぎょう]本部[ほんぶ]に配属[はいぞく]された。 | Tôi được phân về khối kinh doanh.
+本店[ほんてん] | n | BẢN ĐIẾM | cửa hàng chính | - | - | 本店[ほんてん]は東京[とうきょう]の銀座[ぎんざ]にある。 | Cửa hàng chính ở Ginza, Tokyo.
+支部[しぶ] | n | CHI BỘ | chi nhánh (hội, tổ chức) | - | - | 大阪[おおさか]支部[しぶ]の会員[かいいん]が集[あつ]まった。 | Hội viên chi nhánh Osaka đã tụ họp.
+営業所[えいぎょうしょ] | n | DOANH NGHIỆP SỞ | văn phòng kinh doanh | - | - | 地方[ちほう]の営業所[えいぎょうしょ]に転勤[てんきん]した。 | Tôi chuyển công tác về văn phòng kinh doanh ở địa phương.
+拠点[きょてん] | n | CỨ ĐIỂM | cơ sở, cứ điểm | 生産[せいさん] {拠点} | cơ sở sản xuất | ベトナムに新[あたら]しい生産[せいさん]拠点[きょてん]を作[つく]った。 | Đã xây cơ sở sản xuất mới ở Việt Nam.
+部門[ぶもん] | n | BỘ MÔN | bộ phận, mảng | - | - | 研究[けんきゅう]部門[ぶもん]で働[はたら]きたい。 | Tôi muốn làm ở bộ phận nghiên cứu.
+事業部[じぎょうぶ] | n | SỰ NGHIỆP BỘ | khối kinh doanh | - | - | 新[あたら]しい事業部[じぎょうぶ]が立[た]ち上[あ]げられた。 | Một khối kinh doanh mới đã được thành lập.
+人事部[じんじぶ] | n | NHÂN SỰ BỘ | phòng nhân sự | - | - | 有給[ゆうきゅう]のことは人事部[じんじぶ]に聞[き]いてください。 | Việc nghỉ phép hãy hỏi phòng nhân sự.
+総務[そうむ] | n | TỔNG VỤ | hành chính tổng hợp | {総務} 部[ぶ] | phòng hành chính | 備品[びひん]は総務[そうむ]部[ぶ]に申請[しんせい]してください。 | Đồ dùng văn phòng hãy xin ở phòng hành chính.
+広報[こうほう] | n | QUẢNG BÁO | quan hệ công chúng | {広報} 担当[たんとう] | người phụ trách truyền thông | 広報[こうほう]担当[たんとう]がマスコミに対応[たいおう]した。 | Người phụ trách truyền thông đã làm việc với báo chí.
+秘書[ひしょ] | n | BÍ THƯ | thư ký | - | - | 社長[しゃちょう]の秘書[ひしょ]に予定[よてい]を確認[かくにん]した。 | Tôi xác nhận lịch với thư ký của giám đốc.
+組織図[そしきず] | n | TỔ CHỨC ĐỒ | sơ đồ tổ chức | - | - | 組織図[そしきず]を見[み]れば、誰[だれ]が担当[たんとう]かわかる。 | Xem sơ đồ tổ chức là biết ai phụ trách.
+責任者[せきにんしゃ] | n | TRÁCH NHIỆM GIẢ | người chịu trách nhiệm | {責任者} を 呼[よ]ぶ | gọi người phụ trách | 店[みせ]の責任者[せきにんしゃ]を呼[よ]んでください。 | Hãy gọi người phụ trách cửa hàng ra đây.
+関係者[かんけいしゃ] | n | QUAN HỆ GIẢ | người liên quan | {関係者} 以外[いがい] 立入[たちいり] 禁止[きんし] | người không phận sự miễn vào | 関係者[かんけいしゃ]以外[いがい]立入[たちいり]禁止[きんし]。 | Người không phận sự miễn vào.
+部外者[ぶがいしゃ] | n | BỘ NGOẠI GIẢ | người ngoài | - | - | 部外者[ぶがいしゃ]には話[はな]せない内容[ないよう]だ。 | Đây là nội dung không thể nói với người ngoài.
+創業者[そうぎょうしゃ] | n | SÁNG NGHIỆP GIẢ | người sáng lập | - | - | 創業者[そうぎょうしゃ]の考[かんが]えを今[いま]も大切[たいせつ]にしている。 | Công ty đến nay vẫn trân trọng tư tưởng của người sáng lập.
+企業[きぎょう]理念[りねん] | n | XÍ NGHIỆP LÝ NIỆM | triết lý doanh nghiệp | - | - | 面接[めんせつ]の前[まえ]に企業[きぎょう]理念[りねん]を調[しら]べた。 | Trước buổi phỏng vấn tôi đã tìm hiểu triết lý của công ty.
+理念[りねん] | n | LÝ NIỆM | triết lý, lý tưởng | 理念[りねん] を 掲[かか]げる | nêu cao triết lý | 「お客様[きゃくさま]第一[だいいち]」という理念[りねん]を掲[かか]げている。 | Công ty nêu cao triết lý "khách hàng là trên hết".
+社風[しゃふう] | n | XÃ PHONG | văn hóa công ty | 社風[しゃふう] に 合[あ]う | hợp văn hóa công ty | 自由[じゆう]な社風[しゃふう]が自分[じぶん]に合[あ]っている。 | Văn hóa tự do của công ty hợp với tôi.
+社則[しゃそく] | n | XÃ TẮC | nội quy công ty | - | - | 社則[しゃそく]で副業[ふくぎょう]は禁止[きんし]されている。 | Nội quy công ty cấm làm thêm việc khác.
+就業[しゅうぎょう]規則[きそく] | n | TỰU NGHIỆP QUY TẮC | nội quy lao động | - | - | 入社[にゅうしゃ]したら就業[しゅうぎょう]規則[きそく]をよく読[よ]んでください。 | Vào công ty rồi hãy đọc kỹ nội quy lao động.
+ビジョン | n | - | tầm nhìn | ビジョン を 示[しめ]す | đưa ra tầm nhìn | 社長[しゃちょう]が十[じゅう]年[ねん]後[ご]のビジョンを示[しめ]した。 | Giám đốc đã đưa ra tầm nhìn mười năm tới.
+戦略[せんりゃく] | n | CHIẾN LƯỢC | chiến lược | 戦略[せんりゃく] を 練[ね]る | xây dựng chiến lược | 海外[かいがい]進出[しんしゅつ]の戦略[せんりゃく]を練[ね]っている。 | Đang xây dựng chiến lược vươn ra nước ngoài.
+経営[けいえい]方針[ほうしん] | n | KINH DOANH PHƯƠNG CHÂM | phương châm kinh doanh | - | - | 新[あたら]しい経営[けいえい]方針[ほうしん]が発表[はっぴょう]された。 | Phương châm kinh doanh mới đã được công bố.
+年度[ねんど] | n | NIÊN ĐỘ | năm tài chính | 年度[ねんど] が 替[か]わる | sang năm tài chính mới | 四月[しがつ]に年度[ねんど]が替[か]わる。 | Tháng Tư là sang năm tài chính mới.
+年度末[ねんどまつ] | n | NIÊN ĐỘ MẠT | cuối năm tài chính | - | - | 年度末[ねんどまつ]は仕事[しごと]が集中[しゅうちゅう]する。 | Cuối năm tài chính công việc dồn dập.
+上半期[かみはんき] | n | THƯỢNG BÁN KỲ | sáu tháng đầu năm | - | - | 上半期[かみはんき]の売[う]り上[あ]げは目標[もくひょう]を上回[うわまわ]った。 | Doanh thu sáu tháng đầu năm vượt mục tiêu.
+下半期[しもはんき] | n | HẠ BÁN KỲ | sáu tháng cuối năm | - | - | 下半期[しもはんき]は新製品[しんせいひん]に期待[きたい]している。 | Sáu tháng cuối năm kỳ vọng vào sản phẩm mới.
+四半期[しはんき] | n | TỨ BÁN KỲ | quý (ba tháng) | - | - | 第[だい]三[さん]四半期[しはんき]の決算[けっさん]が発表[はっぴょう]された。 | Kết quả kinh doanh quý ba đã được công bố.
+今期[こんき] | n | KIM KỲ | kỳ này | - | - | 今期[こんき]は黒字[くろじ]の見込[みこ]みだ。 | Kỳ này dự kiến có lãi.
+来期[らいき] | n | LAI KỲ | kỳ tới | - | - | 来期[らいき]の予算[よさん]を立[た]てる。 | Lập ngân sách cho kỳ tới.
+期末[きまつ] | n | KỲ MẠT | cuối kỳ | - | - | 期末[きまつ]までに目標[もくひょう]を達成[たっせい]したい。 | Muốn đạt mục tiêu trước cuối kỳ.
+予算案[よさんあん] | n | DỰ TOÁN ÁN | dự thảo ngân sách | - | - | 来年度[らいねんど]の予算案[よさんあん]が承認[しょうにん]された。 | Dự thảo ngân sách năm sau đã được thông qua.
+繰[く]り越[こ]す | v1 | SÀO VIỆT | chuyển sang (kỳ sau) | 来月[らいげつ] に 繰[く]り越[こ]す | chuyển sang tháng sau | 使[つか]わなかった予算[よさん]は来年度[らいねんど]に繰[く]り越[こ]せない。 | Ngân sách chưa dùng không được chuyển sang năm sau.
+決算書[けっさんしょ] | n | QUYẾT TOÁN THƯ | báo cáo tài chính | - | - | 銀行[ぎんこう]に決算書[けっさんしょ]を提出[ていしゅつ]した。 | Đã nộp báo cáo tài chính cho ngân hàng.
+監査[かんさ] | n,v3 | GIÁM TRA | kiểm toán, thanh tra | 監査[かんさ] を 受[う]ける | bị kiểm toán | 毎年[まいとし]外部[がいぶ]の監査[かんさ]を受[う]けている。 | Hằng năm công ty được kiểm toán độc lập.
+株主[かぶぬし]総会[そうかい] | n | CHU CHỦ TỔNG HỘI | đại hội cổ đông | - | - | 株主[かぶぬし]総会[そうかい]で質問[しつもん]が相次[あいつ]いだ。 | Tại đại hội cổ đông, câu hỏi liên tục được đặt ra.
+再編[さいへん] | n,v3 | TÁI BIÊN | tái cơ cấu | 組織[そしき] を {再編} する | tái cơ cấu tổ chức | 来年[らいねん]、組織[そしき]を再編[さいへん]する予定[よてい]だ。 | Năm sau dự định tái cơ cấu tổ chức.
+統合[とうごう] | n,v3 | THỐNG HỢP | hợp nhất | 部署[ぶしょ] を {統合} する | sáp nhập phòng ban | 二[ふた]つの部署[ぶしょ]が統合[とうごう]された。 | Hai phòng ban đã được sáp nhập.
+リストラ | n,v3 | - | cắt giảm nhân sự | リストラ に 遭[あ]う | bị cắt giảm | 父[ちち]は五十[ごじゅう]歳[さい]でリストラに遭[あ]った。 | Bố tôi bị cắt giảm biên chế năm năm mươi tuổi.
+人員[じんいん] | n | NHÂN VIÊN | số người, nhân lực | 人員[じんいん] を 確保[かくほ] する | bảo đảm nhân lực | 繁忙期[はんぼうき]に備[そな]えて人員[じんいん]を確保[かくほ]した。 | Đã bảo đảm nhân lực cho mùa cao điểm.
+欠員[けついん] | n | KHUYẾT VIÊN | chỗ trống (nhân sự) | 欠員[けついん] を 補充[ほじゅう] する | bổ sung chỗ trống | 退職者[たいしょくしゃ]が出[で]たので欠員[けついん]を補充[ほじゅう]する。 | Có người nghỉ việc nên sẽ tuyển bổ sung.
+補充[ほじゅう] | n,v3 | BỔ SUNG | bổ sung | - | - | 人手[ひとで]が足[た]りないので補充[ほじゅう]をお願[ねが]いした。 | Thiếu người nên đã xin bổ sung.
+増員[ぞういん] | n,v3 | TĂNG VIÊN | tăng người | - | - | 忙[いそが]しい時期[じき]だけ増員[ぞういん]する。 | Chỉ tăng người vào thời kỳ bận rộn.
+配置[はいち] | n,v3 | PHỐI TRÍ | bố trí, sắp xếp | 人[ひと] を {配置} する | bố trí người | 経験[けいけん]のある人[ひと]を現場[げんば]に配置[はいち]した。 | Bố trí người có kinh nghiệm xuống hiện trường.
+配置[はいち]転換[てんかん] | n | PHỐI TRÍ CHUYỂN HOÁN | điều chuyển vị trí | - | - | 配置[はいち]転換[てんかん]で営業[えいぎょう]から経理[けいり]に移[うつ]った。 | Được điều chuyển từ kinh doanh sang kế toán.
+出向[しゅっこう] | n,v3 | XUẤT HƯỚNG | biệt phái sang công ty khác | - | - | 二[に]年間[ねんかん]、子会社[こがいしゃ]に出向[しゅっこう]した。 | Tôi được biệt phái sang công ty con hai năm.
+赴任[ふにん] | n,v3 | PHÓ NHIỆM | nhận nhiệm sở | 海外[かいがい] に {赴任} する | nhậm chức ở nước ngoài | 来月[らいげつ]からハノイに赴任[ふにん]する。 | Từ tháng sau tôi nhậm chức ở Hà Nội.
+単身[たんしん]赴任[ふにん] | n,v3 | ĐƠN THÂN PHÓ NHIỆM | đi công tác xa một mình (để gia đình ở lại) | - | - | 父[ちち]は大阪[おおさか]に単身[たんしん]赴任[ふにん]している。 | Bố tôi đi công tác một mình ở Osaka.
+辞令[じれい] | n | TỪ LỆNH | quyết định bổ nhiệm | 辞令[じれい] が 出[で]る | có quyết định điều động | 突然[とつぜん]、転勤[てんきん]の辞令[じれい]が出[で]た。 | Đột nhiên có quyết định điều chuyển công tác.
+任命[にんめい] | n,v3 | NHIỆM MỆNH | bổ nhiệm | 責任者[せきにんしゃ] に {任命} する | bổ nhiệm làm người phụ trách | 彼[かれ]はプロジェクトの責任者[せきにんしゃ]に任命[にんめい]された。 | Anh ấy được bổ nhiệm làm người phụ trách dự án.
+任期[にんき] | n | NHIỆM KỲ | nhiệm kỳ | 任期[にんき] を 終[お]える | hết nhiệm kỳ | 社長[しゃちょう]は任期[にんき]を終[お]えて退任[たいにん]した。 | Giám đốc hết nhiệm kỳ và rời chức.
+昇格[しょうかく] | n,v3 | THĂNG CÁCH | thăng cấp | - | - | 主任[しゅにん]から係長[かかりちょう]に昇格[しょうかく]した。 | Được thăng từ tổ trưởng lên phó phòng.
+降格[こうかく] | n,v3 | GIÁNG CÁCH | giáng chức | - | - | ミスの責任[せきにん]を取[と]らされて降格[こうかく]になった。 | Bị giáng chức vì phải chịu trách nhiệm cho sai sót.
+左遷[させん] | n,v3 | TẢ THIÊN | bị điều xuống (giáng chức) | - | - | 部長[ぶちょう]は地方[ちほう]の工場[こうじょう]に左遷[させん]された。 | Trưởng phòng bị điều xuống nhà máy ở địa phương.
+兼任[けんにん] | n,v3 | KIÊM NHIỆM | kiêm nhiệm | - | - | 部長[ぶちょう]が課長[かちょう]を兼任[けんにん]している。 | Trưởng phòng đang kiêm nhiệm chức trưởng ban.
+兼務[けんむ] | n,v3 | KIÊM VỤ | kiêm thêm việc | - | - | 営業[えいぎょう]と事務[じむ]を兼務[けんむ]している。 | Tôi kiêm cả kinh doanh và văn phòng.
+専任[せんにん] | n | CHUYÊN NHIỆM | chuyên trách | {専任} の 担当者[たんとうしゃ] | người phụ trách chuyên trách | 外国人[がいこくじん]社員[しゃいん]には専任[せんにん]の担当者[たんとうしゃ]がいる。 | Nhân viên nước ngoài có người phụ trách chuyên trách.
+常勤[じょうきん] | n | THƯỜNG CẦN | làm việc toàn thời gian | - | - | 常勤[じょうきん]の看護師[かんごし]を募集[ぼしゅう]している。 | Đang tuyển y tá làm toàn thời gian.
+非常勤[ひじょうきん] | n | PHI THƯỜNG CẦN | làm việc bán thời gian | {非常勤} 講師[こうし] | giảng viên thỉnh giảng | 大学[だいがく]で非常勤[ひじょうきん]講師[こうし]をしている。 | Tôi làm giảng viên thỉnh giảng ở đại học.
+嘱託[しょくたく] | n | CHÚC THÁC | nhân viên hợp đồng (thường sau tuổi hưu) | - | - | 定年[ていねん]後[ご]は嘱託[しょくたく]として働[はたら]いている。 | Sau tuổi hưu ông ấy làm nhân viên hợp đồng.
+再雇用[さいこよう] | n,v3 | TÁI CỐ DỤNG | tái tuyển dụng | - | - | 六十[ろくじゅう]歳[さい]以降[いこう]も再雇用[さいこよう]で働[はたら]ける。 | Sau sáu mươi tuổi vẫn có thể làm việc theo chế độ tái tuyển dụng.
+派遣[はけん]社員[しゃいん] | n | PHÁI KHIỂN XÃ VIÊN | nhân viên phái cử | - | - | 派遣[はけん]社員[しゃいん]として工場[こうじょう]で働[はたら]いている。 | Tôi làm ở nhà máy với tư cách nhân viên phái cử.
+非正規[ひせいき] | n | PHI CHÍNH QUY | không chính thức | {非正規} 雇用[こよう] | lao động không chính thức | 非正規[ひせいき]雇用[こよう]の人[ひと]が増[ふ]えている。 | Số người lao động không chính thức đang tăng.
+雇用[こよう]契約[けいやく] | n | CỐ DỤNG KHẾ ƯỚC | hợp đồng lao động | 雇用[こよう]契約[けいやく] を 結[むす]ぶ | ký hợp đồng lao động | 入社[にゅうしゃ]前[まえ]に雇用[こよう]契約[けいやく]を結[むす]んだ。 | Đã ký hợp đồng lao động trước khi vào công ty.
+契約[けいやく]更新[こうしん] | n | KHẾ ƯỚC CANH TÂN | gia hạn hợp đồng | - | - | 一[いち]年[ねん]ごとに契約[けいやく]更新[こうしん]がある。 | Cứ mỗi năm lại gia hạn hợp đồng.
+雇[やと]い止[ど]め | n | CỐ CHỈ | không gia hạn hợp đồng | - | - | 契約[けいやく]社員[しゃいん]が雇[やと]い止[ど]めにあった。 | Nhân viên hợp đồng bị chấm dứt, không được gia hạn.
+労働[ろうどう]条件[じょうけん] | n | LAO ĐỘNG ĐIỀU KIỆN | điều kiện lao động | - | - | 労働[ろうどう]条件[じょうけん]をよく確認[かくにん]してから契約[けいやく]しよう。 | Hãy xác nhận kỹ điều kiện lao động rồi hãy ký hợp đồng.
+待遇[たいぐう] | n | ĐÃI NGỘ | đãi ngộ | 待遇[たいぐう] が いい | đãi ngộ tốt | 待遇[たいぐう]がいい会社[かいしゃ]に転職[てんしょく]した。 | Tôi chuyển sang công ty đãi ngộ tốt.
+福利[ふくり]厚生[こうせい] | n | PHÚC LỢI HẬU SINH | phúc lợi | 福利[ふくり]厚生[こうせい] が 充実[じゅうじつ] する | phúc lợi đầy đủ | この会社[かいしゃ]は福利[ふくり]厚生[こうせい]が充実[じゅうじつ]している。 | Công ty này có phúc lợi đầy đủ.
+年功[ねんこう]序列[じょれつ] | n | NIÊN CÔNG TỰ LIỆT | thâm niên quyết định cấp bậc | - | - | 年功[ねんこう]序列[じょれつ]の会社[かいしゃ]はだんだん減[へ]っている。 | Công ty xếp bậc theo thâm niên đang giảm dần.
+成果[せいか]主義[しゅぎ] | n | THÀNH QUẢ CHỦ NGHĨA | trả lương theo kết quả | - | - | 成果[せいか]主義[しゅぎ]を取[と]り入[い]れる企業[きぎょう]が増[ふ]えた。 | Doanh nghiệp áp dụng trả lương theo kết quả đã tăng.
+人事[じんじ]評価[ひょうか] | n | NHÂN SỰ BÌNH GIÁ | đánh giá nhân sự | - | - | 年[ねん]に二[に]回[かい]人事[じんじ]評価[ひょうか]がある。 | Mỗi năm có hai lần đánh giá nhân sự.
+査定[さてい] | n,v3 | TRA ĐỊNH | thẩm định, đánh giá | - | - | ボーナスの査定[さてい]が厳[きび]しくなった。 | Việc đánh giá tiền thưởng trở nên khắt khe hơn.
+賞与[しょうよ] | n | THƯỞNG DỮ | tiền thưởng | 賞与[しょうよ] が 支給[しきゅう] される | được phát thưởng | 夏[なつ]と冬[ふゆ]に賞与[しょうよ]が支給[しきゅう]される。 | Tiền thưởng được phát vào mùa hè và mùa đông.
+年俸[ねんぽう] | n | NIÊN BỔNG | lương năm | {年俸} 制[せい] | chế độ lương năm | この会社[かいしゃ]は年俸[ねんぽう]制[せい]だ。 | Công ty này trả lương theo năm.
+歩合[ぶあい] | n | BỘ HỢP | hoa hồng theo tỷ lệ | {歩合} 制[せい] | chế độ hoa hồng | 営業[えいぎょう]は歩合[ぶあい]制[せい]で、売[う]れば売[う]るほど稼[かせ]げる。 | Nhân viên kinh doanh hưởng hoa hồng, bán càng nhiều càng kiếm nhiều.
+初任給[しょにんきゅう] | n | SƠ NHẬM CẤP | lương khởi điểm | - | - | 大卒[だいそつ]の初任給[しょにんきゅう]は約[やく]二十二[にじゅうに]万[まん]円[えん]だ。 | Lương khởi điểm của người tốt nghiệp đại học khoảng 22 vạn yên.
+通勤[つうきん]手当[てあて] | n | THÔNG CẦN THỦ ĐƯƠNG | phụ cấp đi lại | - | - | 通勤[つうきん]手当[てあて]は全額[ぜんがく]支給[しきゅう]される。 | Phụ cấp đi lại được trả toàn bộ.
+出張費[しゅっちょうひ] | n | XUẤT TRƯƠNG PHÍ | công tác phí | - | - | 出張費[しゅっちょうひ]は後[あと]で精算[せいさん]してください。 | Công tác phí hãy quyết toán sau.
+給与[きゅうよ]体系[たいけい] | n | CẤP DỮ THỂ HỆ | hệ thống lương | - | - | 来年[らいねん]から給与[きゅうよ]体系[たいけい]が変[か]わる。 | Từ năm sau hệ thống lương sẽ thay đổi.
+勤続[きんぞく] | n,v3 | CẦN TỤC | làm việc liên tục | {勤続} 年数[ねんすう] | số năm công tác | 勤続[きんぞく]年数[ねんすう]が長[なが]いほど退職金[たいしょくきん]が増[ふ]える。 | Số năm công tác càng dài thì tiền hưu càng tăng.
+試用[しよう]期間[きかん] | n | THÍ DỤNG KỲ GIAN | thời gian thử việc | - | - | 最初[さいしょ]の三[さん]か月[げつ]は試用[しよう]期間[きかん]だ。 | Ba tháng đầu là thời gian thử việc.
+有給[ゆうきゅう]休暇[きゅうか] | n | HỮU CẤP HƯU HẠ | nghỉ phép có lương | 有給[ゆうきゅう]休暇[きゅうか] を 取[と]る | xin nghỉ phép có lương | 有給[ゆうきゅう]休暇[きゅうか]を取[と]って国[くに]に帰[かえ]った。 | Tôi xin nghỉ phép có lương để về nước.
+育児[いくじ]休暇[きゅうか] | n | DỤC NHI HƯU HẠ | nghỉ chăm con | - | - | 夫[おっと]も育児[いくじ]休暇[きゅうか]を取[と]った。 | Chồng tôi cũng nghỉ chăm con.
+代休[だいきゅう] | n | ĐẠI HƯU | nghỉ bù | 代休[だいきゅう] を 取[と]る | nghỉ bù | 日曜日[にちようび]に出勤[しゅっきん]したので、月曜日[げつようび]に代休[だいきゅう]を取[と]る。 | Chủ nhật đi làm nên thứ Hai được nghỉ bù.
+振替[ふりかえ]休日[きゅうじつ] | n | CHẤN THẾ HƯU NHẬT | ngày nghỉ bù (lễ) | - | - | 祝日[しゅくじつ]が日曜日[にちようび]と重[かさ]なると、月曜日[げつようび]が振替[ふりかえ]休日[きゅうじつ]になる。 | Ngày lễ trùng Chủ nhật thì thứ Hai được nghỉ bù.
+休職[きゅうしょく] | n,v3 | HƯU CHỨC | tạm nghỉ việc | - | - | 病気[びょうき]で半年[はんとし]休職[きゅうしょく]した。 | Tôi tạm nghỉ việc nửa năm vì bệnh.
+復職[ふくしょく] | n,v3 | PHỤC CHỨC | quay lại làm việc | - | - | 出産[しゅっさん]後[ご]、一[いち]年[ねん]で復職[ふくしょく]した。 | Sau khi sinh, một năm sau tôi quay lại làm việc.
+日勤[にっきん] | n | NHẬT CẦN | ca ngày | - | - | 来週[らいしゅう]は日勤[にっきん]だから夜[よる]は空[あ]いている。 | Tuần sau làm ca ngày nên buổi tối rảnh.
+交替制[こうたいせい] | n | GIAO THẾ CHẾ | chế độ làm theo ca | - | - | 工場[こうじょう]は三[さん]交替制[こうたいせい]で二十四[にじゅうよ]時間[じかん]動[うご]いている。 | Nhà máy chạy 24 giờ theo chế độ ba ca.
+当直[とうちょく] | n,v3 | ĐƯƠNG TRỰC | trực (ca đêm, ngày nghỉ) | - | - | 今夜[こんや]は当直[とうちょく]なので帰[かえ]れない。 | Tối nay tôi trực nên không về được.
+持[も]ち場[ば] | n | TRÌ TRƯỜNG | vị trí phụ trách | 持[も]ち場[ば] を 離[はな]れる | rời vị trí | 作業[さぎょう]中[ちゅう]に持[も]ち場[ば]を離[はな]れてはいけない。 | Trong lúc làm việc không được rời vị trí.
+朝礼[ちょうれい] | n | TRIỀU LỄ | họp đầu giờ sáng | - | - | 毎朝[まいあさ]八[はち]時[じ]から朝礼[ちょうれい]がある。 | Sáng nào cũng có buổi họp đầu giờ lúc tám giờ.
+定例[ていれい] | n | ĐỊNH LỆ | định kỳ, thường lệ | {定例} 会議[かいぎ] | họp định kỳ | 毎週[まいしゅう]月曜日[げつようび]に定例[ていれい]会議[かいぎ]を開[ひら]く。 | Thứ Hai hằng tuần mở cuộc họp định kỳ.
+会合[かいごう] | n | HỘI HỢP | cuộc gặp mặt, cuộc họp | - | - | 地域[ちいき]の会合[かいごう]に出席[しゅっせき]した。 | Tôi dự cuộc họp của khu dân cư.
+ミーティング | n | - | cuộc họp | - | - | 十[じゅう]時[じ]からチームのミーティングがある。 | Mười giờ có cuộc họp nhóm.
+プレゼン | n,v3 | - | thuyết trình | プレゼン を 行[おこな]う | thuyết trình | 取引先[とりひきさき]の前[まえ]で新商品[しんしょうひん]のプレゼンを行[おこな]った。 | Đã thuyết trình sản phẩm mới trước đối tác.
+議長[ぎちょう] | n | NGHỊ TRƯỞNG | chủ tọa | - | - | 議長[ぎちょう]が会議[かいぎ]の開始[かいし]を宣言[せんげん]した。 | Chủ tọa tuyên bố bắt đầu cuộc họp.
+進行[しんこう] | n,v3 | TIẾN HÀNH | tiến hành, tiến triển | 会議[かいぎ] を {進行} する | điều hành cuộc họp | 今日[きょう]の会議[かいぎ]は私[わたし]が進行[しんこう]します。 | Hôm nay tôi sẽ điều hành cuộc họp.
+決議[けつぎ] | n,v3 | QUYẾT NGHỊ | nghị quyết | - | - | 全員[ぜんいん]一致[いっち]で決議[けつぎ]された。 | Đã được thông qua với sự nhất trí của toàn bộ.
+決定[けってい] | n,v3 | QUYẾT ĐỊNH | quyết định | 決定[けってい] に 従[したが]う | tuân theo quyết định | 会社[かいしゃ]の決定[けってい]に従[したが]います。 | Tôi xin làm theo quyết định của công ty.
+稟議[りんぎ] | n | LẪM NGHỊ | trình duyệt (văn bản xin phê duyệt) | {稟議} 書[しょ] | tờ trình phê duyệt | パソコンを買[か]うには稟議[りんぎ]書[しょ]を出[だ]さなければならない。 | Muốn mua máy tính phải nộp tờ trình phê duyệt.
+決裁[けっさい] | n,v3 | QUYẾT TÀI | phê duyệt | 決裁[けっさい] を 仰[あお]ぐ | xin phê duyệt | 部長[ぶちょう]の決裁[けっさい]を仰[あお]いだ。 | Đã xin trưởng phòng phê duyệt.
+根回[ねまわ]し | n,v3 | CĂN HỒI | vận động trước, dọn đường | - | - | 会議[かいぎ]の前[まえ]に関係者[かんけいしゃ]に根回[ねまわ]しをしておいた。 | Trước cuộc họp tôi đã dọn đường với những người liên quan.
+企画書[きかくしょ] | n | XÍ HOẠCH THƯ | bản kế hoạch dự án | 企画書[きかくしょ] を 作[つく]る | soạn bản kế hoạch | 新[あたら]しいイベントの企画書[きかくしょ]を作[つく]った。 | Tôi đã soạn bản kế hoạch cho sự kiện mới.
+提案書[ていあんしょ] | n | ĐỀ ÁN THƯ | bản đề xuất | - | - | 提案書[ていあんしょ]を取引先[とりひきさき]に提出[ていしゅつ]した。 | Đã nộp bản đề xuất cho đối tác.
+文書[ぶんしょ] | n | VĂN THƯ | văn bản, tài liệu | 文書[ぶんしょ] で 通知[つうち] する | thông báo bằng văn bản | 変更[へんこう]は文書[ぶんしょ]で通知[つうち]します。 | Thay đổi sẽ được thông báo bằng văn bản.
+社印[しゃいん] | n | XÃ ẤN | con dấu công ty | - | - | 契約書[けいやくしょ]に社印[しゃいん]を押[お]した。 | Đã đóng dấu công ty lên hợp đồng.
+命令[めいれい] | n,v3 | MỆNH LỆNH | mệnh lệnh | 命令[めいれい] に 従[したが]う | tuân lệnh | 上司[じょうし]の命令[めいれい]に従[したが]うしかなかった。 | Chỉ còn cách tuân lệnh cấp trên.
+指揮[しき] | n,v3 | CHỈ HUY | chỉ huy | 指揮[しき] を 執[と]る | nắm quyền chỉ huy | 工場長[こうじょうちょう]が現場[げんば]の指揮[しき]を執[と]った。 | Quản đốc nhà máy nắm quyền chỉ huy hiện trường.
+監督[かんとく] | n,v3 | GIÁM ĐỐC | giám sát; huấn luyện viên | 現場[げんば] を {監督} する | giám sát hiện trường | ベテランの職人[しょくにん]が現場[げんば]を監督[かんとく]している。 | Thợ lành nghề đang giám sát hiện trường.
+統率[とうそつ] | n,v3 | THỐNG SUẤT | lãnh đạo, dẫn dắt | {統率} 力[りょく] | khả năng lãnh đạo | 彼[かれ]にはチームの統率[とうそつ]力[りょく]がある。 | Anh ấy có khả năng dẫn dắt đội nhóm.
+主導[しゅどう] | n,v3 | CHỦ ĐẠO | dẫn dắt, chủ đạo | {主導}権[けん] を 握[にぎ]る | nắm quyền chủ đạo | 若手[わかて]が主導[しゅどう]して新[あたら]しい企画[きかく]を進[すす]めた。 | Lớp trẻ dẫn dắt triển khai kế hoạch mới.
+裁量[さいりょう] | n | TÀI LƯỢNG | quyền tự quyết | 裁量[さいりょう] に 任[まか]せる | giao cho tự quyết | 仕事[しごと]の進[すす]め方[かた]は本人[ほんにん]の裁量[さいりょう]に任[まか]せている。 | Cách làm việc được giao cho chính người đó tự quyết.
+一任[いちにん] | n,v3 | NHẤT NHIỆM | giao toàn quyền | - | - | その件[けん]は課長[かちょう]に一任[いちにん]した。 | Việc đó đã giao toàn quyền cho trưởng ban.
+委任[いにん] | n,v3 | ỦY NHIỆM | ủy nhiệm | {委任} 状[じょう] | giấy ủy quyền | 本人[ほんにん]が来[こ]られない場合[ばあい]は委任[いにん]状[じょう]が必要[ひつよう]だ。 | Nếu đương sự không đến được thì cần giấy ủy quyền.
+代行[だいこう] | n,v3 | ĐẠI HÀNH | làm thay | 手続[てつづ]き を {代行} する | làm thủ tục thay | 引[ひ]っ越[こ]しの手続[てつづ]きを代行[だいこう]してもらった。 | Tôi nhờ người làm thủ tục chuyển nhà thay.
+役割[やくわり] | n | DỊCH CÁT | vai trò | 役割[やくわり] を 果[は]たす | hoàn thành vai trò | 一人一人[ひとりひとり]が自分[じぶん]の役割[やくわり]を果[は]たした。 | Mỗi người đều hoàn thành vai trò của mình.
+任務[にんむ] | n | NHIỆM VỤ | nhiệm vụ | 任務[にんむ] を 遂行[すいこう] する | thực thi nhiệm vụ | 与[あた]えられた任務[にんむ]を最後[さいご]まで遂行[すいこう]した。 | Đã thực hiện nhiệm vụ được giao đến cùng.
+職務[しょくむ] | n | CHỨC VỤ | chức trách, công việc | - | - | 職務[しょくむ]中[ちゅう]の事故[じこ]は労災[ろうさい]になる。 | Tai nạn trong lúc làm nhiệm vụ được tính là tai nạn lao động.
+権限[けんげん] | n | QUYỀN HẠN | quyền hạn | 権限[けんげん] を 与[あた]える | trao quyền | 現場[げんば]の責任者[せきにんしゃ]に権限[けんげん]を与[あた]えた。 | Đã trao quyền cho người phụ trách hiện trường.
+マニュアル | n | - | sổ tay hướng dẫn | マニュアル 通[どお]り | đúng theo sổ tay | マニュアル通[どお]りに作業[さぎょう]してください。 | Hãy làm đúng theo sổ tay hướng dẫn.
+ノウハウ | n | - | bí quyết, kinh nghiệm | ノウハウ を 生[い]かす | tận dụng kinh nghiệm | 前[まえ]の会社[かいしゃ]のノウハウを生[い]かして働[はたら]いている。 | Tôi làm việc bằng cách tận dụng kinh nghiệm ở công ty cũ.
+期日[きじつ] | n | KỲ NHẬT | ngày hẹn, kỳ hạn | 期日[きじつ] を 守[まも]る | giữ đúng kỳ hạn | 支払[しはら]いの期日[きじつ]を守[まも]ってください。 | Hãy trả đúng kỳ hạn.
+日程[にってい] | n | NHẬT TRÌNH | lịch trình | 日程[にってい] を 調整[ちょうせい] する | sắp xếp lịch | 会議[かいぎ]の日程[にってい]を調整[ちょうせい]しています。 | Tôi đang sắp xếp lịch họp.
+段取[だんど]り | n | ĐOẠN THỦ | sắp xếp trình tự, chuẩn bị | 段取[だんど]り が いい | chuẩn bị chu đáo | 彼女[かのじょ]は仕事[しごと]の段取[だんど]りがいい。 | Cô ấy sắp xếp công việc rất chu đáo.
+手際[てぎわ] | n | THỦ TẾ | sự khéo léo, tháo vát | 手際[てぎわ] が いい | làm việc nhanh gọn | 新人[しんじん]なのに手際[てぎわ]がいい。 | Là người mới mà làm việc rất nhanh gọn.
+効率化[こうりつか] | n,v3 | HIỆU SUẤT HÓA | nâng cao hiệu suất | 業務[ぎょうむ] の {効率化} | hợp lý hóa công việc | ソフトを入[い]れて業務[ぎょうむ]の効率化[こうりつか]を図[はか]った。 | Đã cài phần mềm để hợp lý hóa công việc.
+業務[ぎょうむ]改善[かいぜん] | n | NGHIỆP VỤ CẢI THIỆN | cải tiến công việc | - | - | 社員[しゃいん]から業務[ぎょうむ]改善[かいぜん]のアイデアを募[つの]る。 | Thu thập ý tưởng cải tiến công việc từ nhân viên.
+見[み]える化[か] | n,v3 | KIẾN HÓA | trực quan hóa | - | - | 作業[さぎょう]の進[すす]み具合[ぐあい]を見[み]える化[か]した。 | Đã trực quan hóa tiến độ công việc.
+一丸[いちがん] | n | NHẤT HOÀN | đồng lòng | {一丸} と なって | đồng lòng | 社員[しゃいん]が一丸[いちがん]となって危機[きき]を乗[の]り越[こ]えた。 | Nhân viên đồng lòng vượt qua khủng hoảng.
+仕事[しごと]ぶり | n | SĨ SỰ | cách làm việc | - | - | 彼[かれ]のまじめな仕事[しごと]ぶりが評価[ひょうか]された。 | Cách làm việc nghiêm túc của anh ấy được đánh giá cao.
+勤務[きんむ]態度[たいど] | n | CẦN VỤ THÁI ĐỘ | thái độ làm việc | - | - | 勤務[きんむ]態度[たいど]が悪[わる]いと注意[ちゅうい]された。 | Bị nhắc nhở vì thái độ làm việc kém.
+勤勉[きんべん] | adj-na | CẦN MIỄN | cần cù | - | - | 日本人[にほんじん]は勤勉[きんべん]だと言[い]われる。 | Người ta nói người Nhật rất cần cù.
+怠慢[たいまん] | n,adj-na | ĐÃI MẠN | lơ là, chểnh mảng | - | - | 事故[じこ]は管理者[かんりしゃ]の怠慢[たいまん]が原因[げんいん]だった。 | Tai nạn là do người quản lý lơ là.
+手抜[てぬ]き | n,v3 | THỦ BẠT | làm qua loa | - | - | 手抜[てぬ]き工事[こうじ]が問題[もんだい]になった。 | Công trình làm ẩu đã thành vấn đề.
+片手間[かたてま] | n | PHIẾN THỦ GIAN | làm tranh thủ, làm phụ | - | - | 片手間[かたてま]でできる仕事[しごと]ではない。 | Đây không phải việc có thể làm tranh thủ.
+本業[ほんぎょう] | n | BẢN NGHIỆP | công việc chính | - | - | 副業[ふくぎょう]より本業[ほんぎょう]を大切[たいせつ]にしなさい。 | Hãy coi trọng công việc chính hơn việc làm thêm.
+兼業[けんぎょう] | n,v3 | KIÊM NGHIỆP | làm thêm nghề khác | {兼業} 農家[のうか] | nông dân làm thêm nghề khác | 祖父[そふ]は会社[かいしゃ]員[いん]をしながら兼業[けんぎょう]農家[のうか]をしていた。 | Ông tôi vừa làm nhân viên công ty vừa làm nông.
+懲戒[ちょうかい] | n,v3 | TRỪNG GIỚI | kỷ luật | {懲戒} 解雇[かいこ] | sa thải kỷ luật | 不正[ふせい]をした社員[しゃいん]が懲戒[ちょうかい]解雇[かいこ]された。 | Nhân viên gian lận đã bị sa thải kỷ luật.
+処分[しょぶん] | n,v3 | XỬ PHÂN | xử phạt; xử lý (đồ) | 処分[しょぶん] を 受[う]ける | bị kỷ luật | 規則[きそく]違反[いはん]で処分[しょぶん]を受[う]けた。 | Bị kỷ luật vì vi phạm nội quy.
+減給[げんきゅう] | n,v3 | GIẢM CẤP | trừ lương | - | - | 遅刻[ちこく]が多[おお]くて減給[げんきゅう]された。 | Đi muộn nhiều nên bị trừ lương.
+始末書[しまつしょ] | n | THỦY MẠT THƯ | bản kiểm điểm | 始末書[しまつしょ] を 書[か]く | viết bản kiểm điểm | 機械[きかい]を壊[こわ]して始末書[しまつしょ]を書[か]かされた。 | Làm hỏng máy nên bị bắt viết bản kiểm điểm.
+不祥事[ふしょうじ] | n | BẤT TƯỜNG SỰ | bê bối | 不祥事[ふしょうじ] を 起[お]こす | gây bê bối | 社員[しゃいん]が不祥事[ふしょうじ]を起[お]こし、社長[しゃちょう]が謝罪[しゃざい]した。 | Nhân viên gây bê bối, giám đốc phải xin lỗi.
+謝罪[しゃざい] | n,v3 | TẠ TỘI | xin lỗi, tạ lỗi | {謝罪} 会見[かいけん] | họp báo xin lỗi | 社長[しゃちょう]が謝罪[しゃざい]会見[かいけん]を開[ひら]いた。 | Giám đốc đã mở họp báo xin lỗi.
+記者[きしゃ]会見[かいけん] | n | KÝ GIẢ HỘI KIẾN | họp báo | - | - | 新製品[しんせいひん]の発表[はっぴょう]のために記者[きしゃ]会見[かいけん]を開[ひら]いた。 | Mở họp báo để công bố sản phẩm mới.
+内部[ないぶ]告発[こくはつ] | n | NỘI BỘ CÁO PHÁT | tố giác nội bộ | - | - | 内部[ないぶ]告発[こくはつ]で不正[ふせい]が明[あき]らかになった。 | Sai phạm bị phanh phui nhờ tố giác nội bộ.
+コンプライアンス | n | - | tuân thủ pháp luật | - | - | コンプライアンス研修[けんしゅう]が義務[ぎむ]付[づ]けられている。 | Đào tạo tuân thủ pháp luật là bắt buộc.
+守秘[しゅひ]義務[ぎむ] | n | THỦ BÍ NGHĨA VỤ | nghĩa vụ bảo mật | - | - | 社員[しゃいん]には守秘[しゅひ]義務[ぎむ]がある。 | Nhân viên có nghĩa vụ bảo mật.
+機密[きみつ] | n | CƠ MẬT | bí mật, cơ mật | {機密} 情報[じょうほう] | thông tin mật | 会社[かいしゃ]の機密[きみつ]情報[じょうほう]を外[そと]に出[だ]してはいけない。 | Không được đưa thông tin mật của công ty ra ngoài.
+社外秘[しゃがいひ] | n | XÃ NGOẠI BÍ | mật nội bộ | - | - | この資料[しりょう]は社外秘[しゃがいひ]です。 | Tài liệu này là mật nội bộ.
+情報[じょうほう]漏洩[ろうえい] | n | TÌNH BÁO LẬU TIẾT | rò rỉ thông tin | - | - | 情報[じょうほう]漏洩[ろうえい]を防[ふせ]ぐ対策[たいさく]が必要[ひつよう]だ。 | Cần biện pháp ngăn rò rỉ thông tin.
+外部[がいぶ] | n | NGOẠI BỘ | bên ngoài | {外部} に 漏[も]れる | lọt ra ngoài | 情報[じょうほう]が外部[がいぶ]に漏[も]れた。 | Thông tin đã lọt ra bên ngoài.
+内部[ないぶ] | n | NỘI BỘ | nội bộ, bên trong | - | - | 問題[もんだい]は内部[ないぶ]で解決[かいけつ]したい。 | Muốn giải quyết vấn đề trong nội bộ.
+就活[しゅうかつ] | n,v3 | TỰU HOẠT | đi tìm việc (sinh viên) | - | - | 大学[だいがく]三[さん]年[ねん]から就活[しゅうかつ]を始[はじ]める。 | Từ năm ba đại học bắt đầu tìm việc.
+会社[かいしゃ]説明会[せつめいかい] | n | HỘI XÃ THUYẾT MINH HỘI | buổi giới thiệu công ty | - | - | 興味[きょうみ]のある会社[かいしゃ]説明会[せつめいかい]に参加[さんか]した。 | Tôi dự buổi giới thiệu của công ty mình quan tâm.
+説明会[せつめいかい] | n | THUYẾT MINH HỘI | buổi giới thiệu, buổi thuyết minh | - | - | 住民[じゅうみん]向[む]けの説明会[せつめいかい]が開[ひら]かれた。 | Buổi giới thiệu cho người dân đã được tổ chức.
+選考[せんこう] | n,v3 | TUYỂN KHẢO | tuyển chọn, xét tuyển | 選考[せんこう] に 残[のこ]る | lọt vào vòng trong | 最終[さいしゅう]選考[せんこう]に残[のこ]った。 | Tôi đã lọt vào vòng tuyển chọn cuối cùng.
+中途[ちゅうと]採用[さいよう] | n | TRUNG ĐỒ THẢI DỤNG | tuyển người có kinh nghiệm | - | - | 中途[ちゅうと]採用[さいよう]で今[いま]の会社[かいしゃ]に入[はい]った。 | Tôi vào công ty hiện tại theo diện tuyển người có kinh nghiệm.
+新卒[しんそつ] | n | TÂN TỐT | sinh viên mới tốt nghiệp | {新卒} 採用[さいよう] | tuyển sinh viên mới ra trường | 毎年[まいとし]三十[さんじゅう]人[にん]の新卒[しんそつ]を採用[さいよう]している。 | Mỗi năm tuyển ba mươi sinh viên mới ra trường.
+筆記[ひっき]試験[しけん] | n | BÚT KÝ THÍ NGHIỆM | thi viết | - | - | 面接[めんせつ]の前[まえ]に筆記[ひっき]試験[しけん]がある。 | Trước phỏng vấn có thi viết.
+適性[てきせい]検査[けんさ] | n | THÍCH TÍNH KIỂM TRA | bài kiểm tra năng lực, tính cách | - | - | ウェブで適性[てきせい]検査[けんさ]を受[う]けた。 | Tôi làm bài kiểm tra năng lực trên mạng.
+志望[しぼう]動機[どうき] | n | CHÍ VỌNG ĐỘNG CƠ | lý do ứng tuyển | - | - | 面接[めんせつ]で志望[しぼう]動機[どうき]を聞[き]かれた。 | Trong buổi phỏng vấn tôi được hỏi lý do ứng tuyển.
+職務[しょくむ]経歴書[けいれきしょ] | n | CHỨC VỤ KINH LỊCH THƯ | bản mô tả kinh nghiệm làm việc | - | - | 転職[てんしょく]には職務[しょくむ]経歴書[けいれきしょ]が必要[ひつよう]だ。 | Chuyển việc thì cần bản mô tả kinh nghiệm làm việc.
+求職[きゅうしょく] | n,v3 | CẦU CHỨC | tìm việc | {求職} 者[しゃ] | người tìm việc | ハローワークには求職[きゅうしょく]者[しゃ]が大勢[おおぜい]いた。 | Ở trung tâm giới thiệu việc làm có đông người tìm việc.
+不採用[ふさいよう] | n | BẤT THẢI DỤNG | không được tuyển | - | - | 残念[ざんねん]ながら不採用[ふさいよう]の連絡[れんらく]が来[き]た。 | Tiếc là đã nhận được thông báo không trúng tuyển.
+辞退[じたい] | n,v3 | TỪ THOÁI | từ chối, rút lui | 内定[ないてい] を {辞退} する | từ chối lời mời làm việc | 別[べつ]の会社[かいしゃ]に決[き]めたので内定[ないてい]を辞退[じたい]した。 | Đã chọn công ty khác nên tôi từ chối lời mời làm việc.
+入社式[にゅうしゃしき] | n | NHẬP XÃ THỨC | lễ đón nhân viên mới | - | - | 四月[しがつ]一日[ついたち]に入社式[にゅうしゃしき]が行[おこな]われた。 | Lễ đón nhân viên mới tổ chức ngày 1 tháng Tư.
+人材[じんざい] | n | NHÂN TÀI | nhân lực, nhân tài | 人材[じんざい] を 育[そだ]てる | đào tạo nhân lực | 会社[かいしゃ]は若[わか]い人材[じんざい]を育[そだ]てることに力[ちから]を入[い]れている。 | Công ty dồn sức đào tạo nhân lực trẻ.
+人材[じんざい]育成[いくせい] | n | NHÂN TÀI DỤC THÀNH | đào tạo nhân lực | - | - | 人材[じんざい]育成[いくせい]のために研修[けんしゅう]制度[せいど]を作[つく]った。 | Lập chế độ đào tạo để phát triển nhân lực.
+即戦力[そくせんりょく] | n | TỨC CHIẾN LỰC | người làm được việc ngay | - | - | 経験者[けいけんしゃ]は即戦力[そくせんりょく]として期待[きたい]されている。 | Người có kinh nghiệm được kỳ vọng làm được việc ngay.
+適材[てきざい]適所[てきしょ] | n | THÍCH TÀI THÍCH SỞ | đúng người đúng việc | - | - | 適材[てきざい]適所[てきしょ]の人事[じんじ]が大切[たいせつ]だ。 | Bố trí nhân sự đúng người đúng việc là quan trọng.
+キャリア | n | - | sự nghiệp; kinh nghiệm nghề | キャリア を 積[つ]む | tích lũy kinh nghiệm nghề | 日本[にほん]でキャリアを積[つ]みたい。 | Tôi muốn tích lũy kinh nghiệm nghề nghiệp ở Nhật.
+離職[りしょく] | n,v3 | LY CHỨC | nghỉ việc | {離職} 率[りつ] | tỷ lệ nghỉ việc | この業界[ぎょうかい]は離職[りしょく]率[りつ]が高[たか]い。 | Ngành này có tỷ lệ nghỉ việc cao.
+定着率[ていちゃくりつ] | n | ĐỊNH TRƯỚC SUẤT | tỷ lệ gắn bó | - | - | 職場[しょくば]環境[かんきょう]を良[よ]くして定着率[ていちゃくりつ]を上[あ]げたい。 | Muốn cải thiện môi trường làm việc để tăng tỷ lệ gắn bó.
+退職[たいしょく]届[とどけ] | n | THOÁI CHỨC GIỚI | đơn xin nghỉ việc | 退職[たいしょく]届[とどけ] を 出[だ]す | nộp đơn nghỉ việc | 一[いっ]か月[げつ]前[まえ]に退職[たいしょく]届[とどけ]を出[だ]した。 | Tôi đã nộp đơn nghỉ việc trước một tháng.
+辞表[じひょう] | n | TỪ BIỂU | đơn từ chức | 辞表[じひょう] を 提出[ていしゅつ] する | nộp đơn từ chức | 責任[せきにん]を取[と]って辞表[じひょう]を提出[ていしゅつ]した。 | Ông ấy nhận trách nhiệm và nộp đơn từ chức.
+辞任[じにん] | n,v3 | TỪ NHIỆM | từ chức | - | - | 社長[しゃちょう]が突然[とつぜん]辞任[じにん]した。 | Giám đốc đột ngột từ chức.
+辞職[じしょく] | n,v3 | TỪ CHỨC | thôi việc, từ chức | - | - | 大臣[だいじん]が辞職[じしょく]に追[お]い込[こ]まれた。 | Bộ trưởng bị buộc phải từ chức.
+円満[えんまん]退社[たいしゃ] | n | VIÊN MÃN THOÁI XÃ | nghỉ việc êm đẹp | - | - | 上司[じょうし]と話[はな]し合[あ]って円満[えんまん]退社[たいしゃ]した。 | Bàn bạc với cấp trên rồi nghỉ việc êm đẹp.
+引[ひ]き抜[ぬ]き | n | DẪN BẠT | lôi kéo, câu người | - | - | ライバル会社[がいしゃ]から引[ひ]き抜[ぬ]きの話[はなし]が来[き]た。 | Công ty đối thủ đến mời chào về làm.
+天下[あまくだ]り | n | THIÊN HẠ | quan chức về hưu xuống làm ở doanh nghiệp | - | - | 官僚[かんりょう]の天下[あまくだ]りが批判[ひはん]されている。 | Việc quan chức về hưu xuống làm ở doanh nghiệp đang bị chỉ trích.
+労働[ろうどう]組合[くみあい] | n | LAO ĐỘNG TỔ HỢP | công đoàn | - | - | 労働[ろうどう]組合[くみあい]が賃上[ちんあ]げを求[もと]めた。 | Công đoàn yêu cầu tăng lương.
+組合[くみあい] | n | TỔ HỢP | hiệp hội, công đoàn | - | - | 農家[のうか]は組合[くみあい]を通[とお]して米[こめ]を売[う]る。 | Nông dân bán gạo thông qua hợp tác xã.
+ストライキ | n | - | đình công | ストライキ を 起[お]こす | đình công | 労働者[ろうどうしゃ]がストライキを起[お]こした。 | Công nhân đã đình công.
+賃上[ちんあ]げ | n | NHẪM THƯỢNG | tăng lương | - | - | 今年[ことし]の春[はる]は大幅[おおはば]な賃上[ちんあ]げがあった。 | Mùa xuân năm nay có đợt tăng lương lớn.
+働[はたら]き方[かた]改革[かいかく] | n | ĐỘNG PHƯƠNG CẢI CÁCH | cải cách cách thức làm việc | - | - | 働[はたら]き方[かた]改革[かいかく]で残業[ざんぎょう]が減[へ]った。 | Nhờ cải cách cách làm việc mà làm thêm giờ đã giảm.
+ワークライフバランス | n | - | cân bằng công việc và cuộc sống | - | - | ワークライフバランスを大切[たいせつ]にしたい。 | Tôi muốn coi trọng cân bằng công việc và cuộc sống.
+テレワーク | n | - | làm việc từ xa | - | - | 週[しゅう]に二[に]日[にち]はテレワークだ。 | Mỗi tuần có hai ngày làm việc từ xa.
+時差[じさ]出勤[しゅっきん] | n | THỜI SAI XUẤT CẦN | đi làm lệch giờ | - | - | 混雑[こんざつ]を避[さ]けて時差[じさ]出勤[しゅっきん]をしている。 | Để tránh đông đúc, tôi đi làm lệch giờ.
+オフィス | n | - | văn phòng | - | - | 新[あたら]しいオフィスは駅[えき]から近[ちか]い。 | Văn phòng mới gần ga.
+ブラック企業[きぎょう] | n | XÍ NGHIỆP | công ty bóc lột | - | - | 残業代[ざんぎょうだい]が出[で]ないブラック企業[きぎょう]を辞[や]めた。 | Tôi đã nghỉ ở công ty bóc lột không trả tiền làm thêm.
+過労死[かろうし] | n | QUÁ LAO TỬ | chết vì làm việc quá sức | - | - | 過労死[かろうし]は大[おお]きな社会[しゃかい]問題[もんだい]だ。 | Chết vì làm việc quá sức là vấn đề xã hội lớn.
+パワハラ | n | - | quấy rối quyền lực | - | - | 上司[じょうし]のパワハラに悩[なや]んでいる。 | Đang khổ sở vì bị cấp trên quấy rối quyền lực.
+セクハラ | n | - | quấy rối tình dục | - | - | セクハラの相談[そうだん]窓口[まどぐち]が設置[せっち]された。 | Đã lập bàn tiếp nhận tư vấn về quấy rối tình dục.
+ハラスメント | n | - | quấy rối | - | - | 職場[しょくば]のハラスメントを防[ふせ]ぐ研修[けんしゅう]がある。 | Có khóa đào tạo phòng chống quấy rối nơi làm việc.
+社員[しゃいん]旅行[りょこう] | n | XÃ VIÊN LỮ HÀNH | du lịch công ty | - | - | 社員[しゃいん]旅行[りょこう]で温泉[おんせん]に行[い]った。 | Công ty đi du lịch suối nước nóng.
+新年会[しんねんかい] | n | TÂN NIÊN HỘI | tiệc mừng năm mới | - | - | 一月[いちがつ]に部署[ぶしょ]の新年会[しんねんかい]がある。 | Tháng Một có tiệc năm mới của phòng.
+社交[しゃこう]辞令[じれい] | n | XÃ GIAO TỪ LỆNH | lời xã giao | - | - | 「また遊[あそ]びに来[き]て」は社交[しゃこう]辞令[じれい]かもしれない。 | "Lần sau lại đến chơi nhé" có thể chỉ là lời xã giao.
+敬称[けいしょう] | n | KÍNH XƯNG | kính ngữ xưng hô | - | - | メールでは相手[あいて]の名前[なまえ]に敬称[けいしょう]をつける。 | Trong email phải gắn kính ngữ vào tên người nhận.
+協力[きょうりょく]会社[がいしゃ] | n | HIỆP LỰC HỘI XÃ | công ty đối tác | - | - | 協力[きょうりょく]会社[がいしゃ]と一緒[いっしょ]に工事[こうじ]を進[すす]める。 | Cùng công ty đối tác triển khai công trình.
+窓際[まどぎわ] | n | SONG TẾ | cạnh cửa sổ; bị gạt ra rìa | {窓際} 族[ぞく] | nhân viên bị ngồi chơi | 窓際[まどぎわ]の席[せき]は明[あか]るくて人気[にんき]だ。 | Chỗ ngồi cạnh cửa sổ sáng sủa nên được ưa chuộng.

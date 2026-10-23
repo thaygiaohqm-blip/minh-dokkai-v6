@@ -1,0 +1,129 @@
+@topic t17
+@ja 社会[しゃかい]・ルール
+@vi Xã hội và quy tắc
+@desc Chế độ, quyền và nghĩa vụ, chính trị và bầu cử, cảnh sát và tội phạm, các vấn đề xã hội và thủ tục hành chính.
+制度[せいど] | n | CHẾ ĐỘ | chế độ | - | - | 新[あたら]しい制度[せいど]が始[はじ]まりました。 | Chế độ mới đã bắt đầu.
+規制[きせい] | n,v3 | QUY CHẾ | quy định hạn chế | - | - | 駅前[えきまえ]の駐車[ちゅうしゃ]が規制[きせい]されています。 | Đỗ xe trước ga bị hạn chế.
+条例[じょうれい] | n | ĐIỀU LỆ | quy định địa phương | - | - | 市[し]の条例[じょうれい]で路上[ろじょう]喫煙[きつえん]は禁止[きんし]です。 | Theo quy định thành phố cấm hút thuốc trên đường.
+路上[ろじょう] | n | LỘ THƯỢNG | trên đường | - | - | 路上[ろじょう]駐車[ちゅうしゃ]は迷惑[めいわく]です。 | Đỗ xe trên đường gây phiền.
+喫煙[きつえん] | n,v3 | KHIẾT YÊN | hút thuốc | {喫煙[きつえん]} 所[じょ] | khu hút thuốc | たばこは喫煙[きつえん]所[じょ]で吸[す]ってください。 | Hãy hút thuốc ở khu hút thuốc.
+義務[ぎむ] | n | NGHĨA VỤ | nghĩa vụ | - | - | 税金[ぜいきん]を払[はら]うのは国民[こくみん]の義務[ぎむ]です。 | Đóng thuế là nghĩa vụ của công dân.
+権利[けんり] | n | QUYỀN LỢI | quyền lợi | 権利[けんり] を 守[まも]る | bảo vệ quyền lợi | 労働者[ろうどうしゃ]の権利[けんり]を守[まも]ります。 | Bảo vệ quyền lợi người lao động.
+労働者[ろうどうしゃ] | n | LAO ĐỘNG GIẢ | người lao động | - | - | 外国人[がいこくじん]労働者[ろうどうしゃ]が増[ふ]えています。 | Lao động nước ngoài đang tăng.
+平等[びょうどう] | n,adj-na | BÌNH ĐẲNG | bình đẳng | - | - | 男女[だんじょ]は平等[びょうどう]であるべきです。 | Nam nữ cần phải bình đẳng.
+差別[さべつ] | n,v3 | SAI BIỆT | phân biệt đối xử | - | - | 差別[さべつ]をなくしましょう。 | Hãy xóa bỏ phân biệt đối xử.
+偏見[へんけん] | n | THIÊN KIẾN | định kiến | 偏見[へんけん] を 持[も]つ | có định kiến | 外国人[がいこくじん]に偏見[へんけん]を持[も]たないでください。 | Đừng có định kiến với người nước ngoài.
+人権[じんけん] | n | NHÂN QUYỀN | nhân quyền | - | - | 人権[じんけん]を尊重[そんちょう]します。 | Tôn trọng nhân quyền.
+尊重[そんちょう] | n,v3 | TÔN TRỌNG | tôn trọng | - | - | 相手[あいて]の意見[いけん]を尊重[そんちょう]しましょう。 | Hãy tôn trọng ý kiến người khác.
+国民[こくみん] | n | QUỐC DÂN | công dân, nhân dân | - | - | 国民[こくみん]の生活[せいかつ]を守[まも]ります。 | Bảo vệ cuộc sống của nhân dân.
+市民[しみん] | n | THỊ DÂN | thị dân, công dân | - | - | 市民[しみん]のための図書館[としょかん]です。 | Đây là thư viện dành cho người dân thành phố.
+政府[せいふ] | n | CHÍNH PHỦ | chính phủ | - | - | 政府[せいふ]は新[あたら]しい政策[せいさく]を発表[はっぴょう]しました。 | Chính phủ công bố chính sách mới.
+政策[せいさく] | n | CHÍNH SÁCH | chính sách | - | - | 経済[けいざい]政策[せいさく]について話[はな]し合[あ]いました。 | Chúng tôi thảo luận về chính sách kinh tế.
+政治[せいじ] | n | CHÍNH TRỊ | chính trị | 政治[せいじ] に 関心[かんしん] が ある | quan tâm chính trị | 若者[わかもの]はあまり政治[せいじ]に関心[かんしん]がありません。 | Giới trẻ không mấy quan tâm chính trị.
+関心[かんしん] | n | QUAN TÂM | sự quan tâm | - | - | 環境[かんきょう]問題[もんだい]に関心[かんしん]があります。 | Tôi quan tâm vấn đề môi trường.
+政治家[せいじか] | n | CHÍNH TRỊ GIA | chính trị gia | - | - | 彼[かれ]は有名[ゆうめい]な政治家[せいじか]です。 | Ông ấy là chính trị gia nổi tiếng.
+選挙[せんきょ] | n,v3 | TUYỂN CỬ | bầu cử | 選挙[せんきょ] に 行[い]く | đi bầu cử | 日曜日[にちようび]に選挙[せんきょ]に行[い]きました。 | Chủ nhật tôi đi bầu cử.
+投票[とうひょう] | n,v3 | ĐẦU PHIẾU | bỏ phiếu | - | - | 十八歳[じゅうはっさい]から投票[とうひょう]できます。 | Từ 18 tuổi có thể bỏ phiếu.
+候補[こうほ] | n | HẬU BỔ | ứng cử viên | {候補[こうほ]} 者[しゃ] | ứng cử viên | 三人[さんにん]の候補[こうほ]者[しゃ]が選挙[せんきょ]に出[で]ています。 | Ba ứng cử viên ra tranh cử.
+当選[とうせん] | n,v3 | ĐƯƠNG TUYỂN | trúng cử | - | - | 彼[かれ]は市長[しちょう]に当選[とうせん]しました。 | Ông ấy trúng cử thị trưởng.
+議員[ぎいん] | n | NGHỊ VIÊN | nghị sĩ | 国会[こっかい] {議員[ぎいん]} | nghị sĩ quốc hội | 彼女[かのじょ]は国会[こっかい]議員[ぎいん]です。 | Bà ấy là nghị sĩ quốc hội.
+国会[こっかい] | n | QUỐC HỘI | quốc hội | - | - | 国会[こっかい]で法律[ほうりつ]が決[き]まりました。 | Luật đã được thông qua ở quốc hội.
+首相[しゅしょう] | n | THỦ TƯỚNG | thủ tướng | - | - | 首相[しゅしょう]が記者[きしゃ]会見[かいけん]をしました。 | Thủ tướng đã họp báo.
+会見[かいけん] | n,v3 | HỘI KIẾN | họp báo, gặp mặt | 記者[きしゃ] {会見[かいけん]} | họp báo | 社長[しゃちょう]が記者[きしゃ]会見[かいけん]で謝[あやま]りました。 | Giám đốc xin lỗi trong buổi họp báo.
+大臣[だいじん] | n | ĐẠI THẦN | bộ trưởng | - | - | 新[あたら]しい大臣[だいじん]が決[き]まりました。 | Bộ trưởng mới đã được chọn.
+公務員[こうむいん] | n | CÔNG VỤ VIÊN | công chức | - | - | 兄[あに]は市役所[しやくしょ]の公務員[こうむいん]です。 | Anh tôi là công chức ở tòa thị chính.
+警察[けいさつ] | n | CẢNH SÁT | cảnh sát | 警察[けいさつ] に 届[とど]ける | trình báo cảnh sát | 財布[さいふ]を拾[ひろ]って警察[けいさつ]に届[とど]けました。 | Tôi nhặt được ví và nộp cho cảnh sát.
+警察官[けいさつかん] | n | CẢNH SÁT QUAN | viên cảnh sát | - | - | 警察官[けいさつかん]に道[みち]を聞[き]きました。 | Tôi hỏi đường viên cảnh sát.
+犯罪[はんざい] | n | PHẠM TỘI | tội phạm | 犯罪[はんざい] を 防[ふせ]ぐ | phòng chống tội phạm | 犯罪[はんざい]を防[ふせ]ぐためにカメラを設置[せっち]しました。 | Đã lắp camera để phòng chống tội phạm.
+設置[せっち] | n,v3 | THIẾT TRÍ | lắp đặt | - | - | 駅[えき]にエレベーターが設置[せっち]されました。 | Ga đã được lắp thang máy.
+犯人[はんにん] | n | PHẠM NHÂN | thủ phạm | - | - | 犯人[はんにん]はまだ見[み]つかっていません。 | Vẫn chưa tìm thấy thủ phạm.
+事件[じけん] | n | SỰ KIỆN | vụ án, sự kiện | 事件[じけん] が 起[お]きる | xảy ra vụ việc | 近所[きんじょ]で事件[じけん]が起[お]きました。 | Gần nhà đã xảy ra vụ án.
+逮捕[たいほ] | n,v3 | ĐÃI BỘ | bắt giữ | - | - | 犯人[はんにん]が逮捕[たいほ]されました。 | Thủ phạm đã bị bắt.
+捕[つか]まえる | v2 | BỘ | bắt | - | - | 警察[けいさつ]が泥棒[どろぼう]を捕[つか]まえました。 | Cảnh sát bắt được tên trộm.
+捕[つか]まる | v1 | BỘ | bị bắt | - | - | スピード違反[いはん]で捕[つか]まりました。 | Tôi bị bắt vì chạy quá tốc độ.
+裁判[さいばん] | n,v3 | TÀI PHÁN | xét xử | - | - | 裁判[さいばん]で無罪[むざい]になりました。 | Tại phiên tòa được tuyên vô tội.
+罪[つみ] | n | TỘI | tội | 罪[つみ] を 犯[おか]す | phạm tội | 彼[かれ]は罪[つみ]を犯[おか]しました。 | Anh ta đã phạm tội.
+犯[おか]す | v1 | PHẠM | phạm (tội, lỗi) | - | - | 同[おな]じ間違[まちが]いを犯[おか]しました。 | Tôi lại phạm cùng lỗi.
+違法[いほう] | n,adj-na | VI PHÁP | phạm pháp | - | - | それは違法[いほう]な行為[こうい]です。 | Đó là hành vi phạm pháp.
+行為[こうい] | n | HÀNH VI | hành vi | - | - | 危険[きけん]な行為[こうい]はやめてください。 | Hãy dừng hành vi nguy hiểm.
+常識[じょうしき] | n | THƯỜNG THỨC | lẽ thường | - | - | 時間[じかん]を守[まも]るのは常識[じょうしき]です。 | Đúng giờ là lẽ thường.
+非常識[ひじょうしき] | adj-na | PHI THƯỜNG THỨC | thiếu ý thức | - | - | 夜中[よなか]に電話[でんわ]するのは非常識[ひじょうしき]です。 | Gọi điện lúc nửa đêm là thiếu ý thức.
+秩序[ちつじょ] | n | TRẬT TỰ | trật tự | 秩序[ちつじょ] を 守[まも]る | giữ trật tự | 社会[しゃかい]の秩序[ちつじょ]を守[まも]りましょう。 | Hãy giữ trật tự xã hội.
+平和[へいわ] | n,adj-na | BÌNH HÒA | hòa bình | - | - | 世界[せかい]の平和[へいわ]を願[ねが]っています。 | Tôi cầu mong hòa bình thế giới.
+戦争[せんそう] | n,v3 | CHIẾN TRANH | chiến tranh | - | - | 祖父[そふ]は戦争[せんそう]の話[はなし]をしてくれました。 | Ông kể tôi nghe chuyện chiến tranh.
+少子化[しょうしか] | n | THIỂU TỬ HÓA | tỷ lệ sinh giảm | - | - | 日本[にほん]では少子化[しょうしか]が進[すす]んでいます。 | Ở Nhật tỷ lệ sinh đang giảm.
+高齢化[こうれいか] | n | CAO LINH HÓA | già hóa | {高齢化[こうれいか]} 社会[しゃかい] | xã hội già hóa | 日本[にほん]は高齢化[こうれいか]社会[しゃかい]です。 | Nhật Bản là xã hội già hóa.
+福祉[ふくし] | n | PHÚC CHỈ | phúc lợi | - | - | 福祉[ふくし]の仕事[しごと]に興味[きょうみ]があります。 | Tôi quan tâm đến công việc phúc lợi xã hội.
+格差[かくさ] | n | CÁCH SAI | chênh lệch | - | - | 収入[しゅうにゅう]の格差[かくさ]が広[ひろ]がっています。 | Chênh lệch thu nhập đang mở rộng.
+広[ひろ]がる | v1 | QUẢNG | lan rộng | - | - | 火事[かじ]が広[ひろ]がりました。 | Đám cháy lan rộng.
+失業[しつぎょう] | n,v3 | THẤT NGHIỆP | thất nghiệp | - | - | 会社[かいしゃ]が倒産[とうさん]して失業[しつぎょう]しました。 | Công ty phá sản nên tôi thất nghiệp.
+倒産[とうさん] | n,v3 | ĐẢO SẢN | phá sản (công ty) | - | - | 不景気[ふけいき]で会社[かいしゃ]が倒産[とうさん]しました。 | Do suy thoái công ty phá sản.
+国籍[こくせき] | n | QUỐC TỊCH | quốc tịch | - | - | 国籍[こくせき]はベトナムです。 | Quốc tịch là Việt Nam.
+在留資格[ざいりゅうしかく] | n | TẠI LƯU TƯ CÁCH | tư cách lưu trú | - | - | 在留資格[ざいりゅうしかく]を変更[へんこう]しました。 | Tôi đã đổi tư cách lưu trú.
+申請[しんせい] | n,v3 | THÂN THỈNH | xin cấp, đăng ký | - | - | ビザを申請[しんせい]しました。 | Tôi đã nộp đơn xin visa.
+条件[じょうけん] | n | ĐIỀU KIỆN | điều kiện | 条件[じょうけん] を 満[み]たす | đáp ứng điều kiện | 応募[おうぼ]の条件[じょうけん]を満[み]たしています。 | Tôi đáp ứng điều kiện ứng tuyển.
+基準[きじゅん] | n | CƠ CHUẨN | tiêu chuẩn | - | - | 安全[あんぜん]の基準[きじゅん]が厳[きび]しくなりました。 | Tiêu chuẩn an toàn đã nghiêm ngặt hơn.
+対象[たいしょう] | n | ĐỐI TƯỢNG | đối tượng | - | - | このサービスは六十五歳[ろくじゅうごさい]以上[いじょう]が対象[たいしょう]です。 | Dịch vụ này dành cho người từ 65 tuổi.
+制限[せいげん] | n,v3 | CHẾ HẠN | giới hạn | 年齢[ねんれい] {制限[せいげん]} | giới hạn tuổi | この映画[えいが]には年齢[ねんれい]制限[せいげん]があります。 | Phim này có giới hạn tuổi.
+規定[きてい] | n,v3 | QUY ĐỊNH | quy định | - | - | 会社[かいしゃ]の規定[きてい]に従[したが]ってください。 | Hãy tuân theo quy định công ty.
+警告[けいこく] | n,v3 | CẢNH CÁO | cảnh cáo | - | - | 審判[しんぱん]に警告[けいこく]されました。 | Bị trọng tài cảnh cáo.
+立[た]ち入[い]り禁止[きんし] | n | LẬP NHẬP CẤM CHỈ | cấm vào | - | - | ここから先[さき]は立[た]ち入[い]り禁止[きんし]です。 | Từ đây trở đi cấm vào.
+罰[ばつ] | n | PHẠT | hình phạt | 罰[ばつ] を 受[う]ける | chịu phạt | 悪[わる]いことをしたら罰[ばつ]を受[う]けます。 | Làm điều xấu sẽ bị phạt.
+反[はん]する | v3 | PHẢN | trái với | ルール に 反[はん]する | trái luật | それはルールに反[はん]します。 | Điều đó trái với quy tắc.
+認[みと]める | v2 | NHẬN | thừa nhận, công nhận | 間違[まちが]い を 認[みと]める | nhận lỗi | 彼[かれ]は自分[じぶん]の間違[まちが]いを認[みと]めました。 | Anh ấy đã thừa nhận sai lầm.
+訴[うった]える | v2 | TỐ | kiện; kêu gọi | - | - | 隣人[りんじん]を裁判所[さいばんしょ]に訴[うった]えました。 | Tôi kiện hàng xóm ra tòa.
+抗議[こうぎ] | n,v3 | KHÁNG NGHỊ | phản đối | - | - | 住民[じゅうみん]が工場[こうじょう]の建設[けんせつ]に抗議[こうぎ]しました。 | Cư dân phản đối việc xây nhà máy.
+建設[けんせつ] | n,v3 | KIẾN THIẾT | xây dựng | - | - | 新[あたら]しい空港[くうこう]が建設[けんせつ]されています。 | Sân bay mới đang được xây dựng.
+デモ | n | - | biểu tình | - | - | 駅前[えきまえ]でデモが行[おこな]われました。 | Có biểu tình trước ga.
+活動[かつどう] | n,v3 | HOẠT ĐỘNG | hoạt động | - | - | ボランティア活動[かつどう]に参加[さんか]しています。 | Tôi tham gia hoạt động tình nguyện.
+組織[そしき] | n,v3 | TỔ CHỨC | tổ chức | - | - | 大[おお]きな組織[そしき]で働[はたら]いています。 | Tôi làm việc trong một tổ chức lớn.
+協会[きょうかい] | n | HIỆP HỘI | hiệp hội | - | - | 日本語[にほんご]教育[きょういく]の協会[きょうかい]に入[はい]りました。 | Tôi gia nhập hiệp hội giáo dục tiếng Nhật.
+代表[だいひょう] | n,v3 | ĐẠI BIỂU | đại diện | - | - | クラスの代表[だいひょう]として挨拶[あいさつ]しました。 | Tôi phát biểu với tư cách đại diện lớp.
+述[の]べる | v2 | THUẬT | trình bày | - | - | 自分[じぶん]の考[かんが]えを述[の]べてください。 | Hãy trình bày suy nghĩ của mình.
+多数決[たすうけつ] | n | ĐA SỐ QUYẾT | biểu quyết đa số | - | - | 多数決[たすうけつ]で決[き]めましょう。 | Hãy quyết định theo đa số.
+公平[こうへい] | adj-na | CÔNG BÌNH | công bằng | - | - | 公平[こうへい]に判断[はんだん]してください。 | Hãy phán đoán công bằng.
+判断[はんだん] | n,v3 | PHÁN ĐOÁN | phán đoán | - | - | 正[ただ]しい判断[はんだん]をしました。 | Đã đưa ra phán đoán đúng.
+不公平[ふこうへい] | adj-na | BẤT CÔNG BÌNH | bất công | - | - | それは不公平[ふこうへい]です。 | Như thế là bất công.
+社会人[しゃかいじん] | n | XÃ HỘI NHÂN | người đi làm | - | - | 社会人[しゃかいじん]になって三[さん]年[ねん]です。 | Tôi đi làm được ba năm.
+世間体[せけんてい] | n | THẾ GIAN THỂ | thể diện với xã hội | - | - | 母[はは]は世間体[せけんてい]を気[き]にします。 | Mẹ tôi để ý thể diện với thiên hạ.
+世[よ]の中[なか] | n | THẾ TRUNG | thế gian, xã hội | - | - | 世[よ]の中[なか]は便利[べんり]になりました。 | Xã hội đã trở nên tiện lợi.
+地方自治体[ちほうじちたい] | n | ĐỊA PHƯƠNG TỰ TRỊ THỂ | chính quyền địa phương | - | - | 地方自治体[ちほうじちたい]が補助金[ほじょきん]を出[だ]しています。 | Chính quyền địa phương cấp trợ cấp.
+市長[しちょう] | n | THỊ TRƯỞNG | thị trưởng | - | - | 市長[しちょう]が新[あたら]しい計画[けいかく]を発表[はっぴょう]しました。 | Thị trưởng công bố kế hoạch mới.
+知事[ちじ] | n | TRI SỰ | thống đốc tỉnh | - | - | 東京都[とうきょうと]知事[ちじ]の選挙[せんきょ]がありました。 | Đã có bầu cử thống đốc Tokyo.
+行政[ぎょうせい] | n | HÀNH CHÍNH | hành chính | - | - | 行政[ぎょうせい]の手続[てつづ]きは複雑[ふくざつ]です。 | Thủ tục hành chính phức tạp.
+複雑[ふくざつ] | adj-na | PHỨC TẠP | phức tạp | - | - | 問題[もんだい]が複雑[ふくざつ]になりました。 | Vấn đề trở nên phức tạp.
+公共料金[こうきょうりょうきん] | n | CÔNG CỘNG LIỆU KIM | phí dịch vụ công | - | - | 公共料金[こうきょうりょうきん]をコンビニで払[はら]いました。 | Tôi trả phí dịch vụ công ở cửa hàng tiện lợi.
+税務署[ぜいむしょ] | n | THUẾ VỤ THỰ | cục thuế | - | - | 税務署[ぜいむしょ]に書類[しょるい]を出[だ]しました。 | Tôi nộp hồ sơ cho cục thuế.
+裁判所[さいばんしょ] | n | TÀI PHÁN SỞ | tòa án | - | - | 裁判所[さいばんしょ]で裁判[さいばん]が行[おこな]われました。 | Phiên xử diễn ra ở tòa án.
+弁護士[べんごし] | n | BIỆN HỘ SĨ | luật sư | - | - | 弁護士[べんごし]に相談[そうだん]しました。 | Tôi tham vấn luật sư.
+被害者[ひがいしゃ] | n | BỊ HẠI GIẢ | nạn nhân | - | - | 事件[じけん]の被害者[ひがいしゃ]に話[はなし]を聞[き]きました。 | Đã hỏi chuyện nạn nhân vụ án.
+加害者[かがいしゃ] | n | GIA HẠI GIẢ | người gây hại | - | - | 加害者[かがいしゃ]は謝[あやま]りませんでした。 | Người gây hại không xin lỗi.
+目撃[もくげき] | n,v3 | MỤC KÍCH | chứng kiến | - | - | 事故[じこ]を目撃[もくげき]しました。 | Tôi đã chứng kiến vụ tai nạn.
+証拠[しょうこ] | n | CHỨNG CỨ | bằng chứng | - | - | 証拠[しょうこ]がないので逮捕[たいほ]できません。 | Không có bằng chứng nên không thể bắt.
+疑[うたが]う | v1 | NGHI | nghi ngờ | - | - | 彼[かれ]の話[はなし]を疑[うたが]っています。 | Tôi đang nghi ngờ lời anh ta.
+疑[うたが]い | n | NGHI | sự nghi ngờ | - | - | 彼[かれ]に盗[ぬす]みの疑[うたが]いがかかりました。 | Anh ta bị nghi ăn trộm.
+防止[ぼうし] | n,v3 | PHÒNG CHỈ | ngăn chặn | 事故[じこ] {防止[ぼうし]} | phòng ngừa tai nạn | 事故[じこ]防止[ぼうし]のために注意[ちゅうい]しましょう。 | Hãy chú ý để phòng ngừa tai nạn.
+取[と]り締[し]まる | v1 | THỦ ĐẾ | kiểm soát, trấn áp | - | - | 警察[けいさつ]が飲酒運転[いんしゅうんてん]を取[と]り締[し]まっています。 | Cảnh sát đang kiểm soát lái xe khi say.
+取[と]り締[し]まり | n | THỦ ĐẾ | sự kiểm soát | - | - | スピード違反[いはん]の取[と]り締[し]まりがありました。 | Có đợt kiểm soát vi phạm tốc độ.
+見逃[みのが]す | v1 | KIẾN ĐÀO | bỏ qua, bỏ lỡ | - | - | 今回[こんかい]だけは見逃[みのが]します。 | Lần này thôi tôi bỏ qua.
+迷惑行為[めいわくこうい] | n | MÊ HOẶC HÀNH VI | hành vi gây phiền | - | - | 車内[しゃない]での迷惑行為[めいわくこうい]はやめましょう。 | Đừng có hành vi gây phiền trên tàu.
+ポイ捨[す]て | n,v3 | XẢ | vứt rác bừa bãi | - | - | たばこのポイ捨[す]ては禁止[きんし]です。 | Cấm vứt đầu thuốc bừa bãi.
+落書[らくが]き | n,v3 | LẠC THƯ | vẽ bậy | - | - | 壁[かべ]に落書[らくが]きしないでください。 | Đừng vẽ bậy lên tường.
+順番[じゅんばん] | n | THUẬN PHIÊN | thứ tự, lượt | 順番[じゅんばん] を 守[まも]る | giữ thứ tự | 順番[じゅんばん]を守[まも]って並[なら]んでください。 | Hãy xếp hàng theo thứ tự.
+譲[ゆず]り合[あ]う | v1 | NHƯỢNG HỢP | nhường nhịn nhau | - | - | 席[せき]を譲[ゆず]り合[あ]いましょう。 | Hãy nhường ghế cho nhau.
+助[たす]け合[あ]う | v1 | TRỢ HỢP | giúp đỡ nhau | - | - | 困[こま]った時[とき]は助[たす]け合[あ]いましょう。 | Lúc khó khăn hãy giúp đỡ nhau.
+共生[きょうせい] | n,v3 | CỘNG SINH | cùng chung sống | - | - | 外国人[がいこくじん]との共生[きょうせい]を考[かんが]えます。 | Suy nghĩ về việc chung sống với người nước ngoài.
+多様[たよう] | adj-na | ĐA DẠNG | đa dạng | - | - | 多様[たよう]な意見[いけん]を聞[き]くことが大切[たいせつ]です。 | Lắng nghe ý kiến đa dạng là quan trọng.
+少数[しょうすう] | n | THIỂU SỐ | thiểu số | - | - | 少数[しょうすう]の意見[いけん]も大切[たいせつ]にしましょう。 | Hãy trân trọng cả ý kiến thiểu số.
+多数[たすう] | n | ĐA SỐ | đa số | - | - | 賛成[さんせい]が多数[たすう]でした。 | Đa số tán thành.
+自治[じち] | n | TỰ TRỊ | tự quản | - | - | 学生[がくせい]の自治[じち]を大切[たいせつ]にしています。 | Chúng tôi coi trọng sự tự quản của học sinh.
+保障[ほしょう] | n,v3 | BẢO CHƯỚNG | bảo đảm | 社会[しゃかい] {保障[ほしょう]} | an sinh xã hội | 社会[しゃかい]保障[ほしょう]の制度[せいど]を見直[みなお]します。 | Xem lại chế độ an sinh xã hội.
+補償[ほしょう] | n,v3 | BỔ THƯỜNG | bồi thường | - | - | 事故[じこ]の被害者[ひがいしゃ]に補償[ほしょう]しました。 | Đã bồi thường cho nạn nhân tai nạn.
+貧困[ひんこん] | n | BẦN KHỐN | nghèo đói | - | - | 世界[せかい]には貧困[ひんこん]に苦[くる]しむ人[ひと]がいます。 | Trên thế giới có người khổ vì nghèo đói.
+苦[くる]しむ | v1 | KHỔ | đau khổ | - | - | 病気[びょうき]で苦[くる]しんでいます。 | Đang khổ sở vì bệnh.
+移民[いみん] | n,v3 | DI DÂN | di dân | - | - | アメリカは移民[いみん]の国[くに]です。 | Mỹ là đất nước của người di cư.
+国際化[こくさいか] | n,v3 | QUỐC TẾ HÓA | quốc tế hóa | - | - | 社会[しゃかい]の国際化[こくさいか]が進[すす]んでいます。 | Quốc tế hóa xã hội đang tiến triển.
+国際[こくさい] | n | QUỐC TẾ | quốc tế | {国際[こくさい]} 結婚[けっこん] | kết hôn quốc tế | 国際[こくさい]結婚[けっこん]をする人[ひと]が増[ふ]えています。 | Số người kết hôn quốc tế đang tăng.
+世界中[せかいじゅう] | n | THẾ GIỚI TRUNG | khắp thế giới | - | - | 世界中[せかいじゅう]から観光客[かんこうきゃく]が来[き]ます。 | Du khách đến từ khắp thế giới.
+署[しょ] | n | THỰ | sở, đồn | 警察[けいさつ] {署[しょ]} | đồn cảnh sát | 落[お]とし物[もの]を警察署[けいさつしょ]に取[と]りに行[い]きました。 | Tôi đến đồn cảnh sát lấy đồ đánh rơi.
+落[お]とし物[もの] | n | LẠC VẬT | đồ đánh rơi | - | - | 落[お]とし物[もの]は駅員[えきいん]に届[とど]けてください。 | Đồ đánh rơi hãy nộp cho nhân viên ga.

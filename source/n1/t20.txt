@@ -1,0 +1,180 @@
+@topic danh từ trừu tượng · khái niệm
+@ja 抽象名詞[ちゅうしょうめいし]・概念[がいねん]
+@vi Danh từ trừu tượng và khái niệm nâng cao
+@desc Danh từ trừu tượng và khái niệm thường gặp ở trình độ N1, bao gồm từ vựng Mimikara N1 Unit 1, 4, 8, 12 và Mondai 1.
+おんぶ | n | - | cõng | {おんぶ}する | cõng | 母親[ははおや]が赤[あか]ちゃんをおんぶして買[か]い物[もの]に行[い]った。 | Mẹ cõng em bé đi mua sắm.
+ずぶぬれ | n | - | ướt sũng | {ずぶぬれ}になる | bị ướt sũng | 突然[とつぜん]の雨[あめ]でずぶぬれになった。 | Bị ướt sũng vì mưa bất chợt.
+ど忘[わす]れ | n | VONG | quên phắt | {ど忘れ}する | quên phắt | 知[し]り合[あ]いの名前[なまえ]をど忘[わす]れしてしまった。 | Quên phắt tên người quen.
+所属[しょぞく] | n | SỞ THUỘC | trực thuộc | {所属}する | thuộc về | 彼[かれ]はサッカー部[ぶ]に所属[しょぞく]している。 | Anh ấy thuộc câu lạc bộ bóng đá.
+指図[さしず] | n | CHỈ ĐỒ | chỉ thị, ra lệnh | {指図}する | ra lệnh | 人[ひと]に指図[さしず]されるのが嫌[きら]いだ。 | Tôi không thích bị người khác ra lệnh.
+操縦[そうじゅう] | n | THAO TÚNG | điều khiển, lái | {操縦}する | điều khiển | パイロットが飛行機[ひこうき]を操縦[そうじゅう]している。 | Phi công đang lái máy bay.
+とげ | n | - | gai | {とげ}が刺[さ]さる | bị gai đâm | バラのとげが指[ゆび]に刺[さ]さった。 | Gai hoa hồng đâm vào ngón tay.
+塊[かたまり] | n | KHỐI | khối, cục | {塊}になる | thành khối | 粘土[ねんど]の塊[かたまり]から作品[さくひん]を作[つく]り上[あ]げた。 | Tạo tác phẩm từ cục đất sét.
+ひび | n | - | vết nứt | {ひび}が入[はい]る | bị nứt | 壁[かべ]にひびが入[はい]っているのを見[み]つけた。 | Phát hiện vết nứt trên tường.
+区間[くかん] | n | KHU GIAN | đoạn, khu vực | {区間}を運行[うんこう]する | vận hành trên đoạn | 工事中[こうじちゅう]のため一部[いちぶ]区間[くかん]で徐行[じょこう]運転[うんてん]となる。 | Do đang thi công nên một số đoạn phải chạy chậm.
+面会[めんかい] | n | DIỆN HỘI | gặp mặt, thăm | {面会}する | gặp mặt | 入院中[にゅういんちゅう]の患者[かんじゃ]との面会[めんかい]時間[じかん]は限[かぎ]られている。 | Giờ thăm bệnh nhân nội trú bị giới hạn.
+迫力[はくりょく] | n | BÁCH LỰC | sức mạnh, uy lực | {迫力}がある | có sức mạnh | この映画[えいが]は大画面[だいがめん]で見[み]ると迫力[はくりょく]がある。 | Phim này xem trên màn hình lớn rất uy lực.
+適応[てきおう] | n | THÍCH ỨNG | thích ứng | {適応}する | thích ứng | 新[あたら]しい環境[かんきょう]に適応[てきおう]するのに時間[じかん]がかかった。 | Mất thời gian để thích ứng với môi trường mới.
+妨害[ぼうがい] | n | PHƯƠNG HẠI | cản trở | {妨害}する | cản trở | 工事[こうじ]の妨害[ぼうがい]行為[こうい]は法律[ほうりつ]で禁[きん]じられている。 | Hành vi cản trở thi công bị pháp luật cấm.
+視野[しや] | n | THỊ DÃ | tầm nhìn | {視野}を広[ひろ]げる | mở rộng tầm nhìn | 留学[りゅうがく]を通[つう]じて視野[しや]が広[ひろ]がった。 | Tầm nhìn được mở rộng qua du học.
+空白[くうはく] | n | KHÔNG BẠCH | khoảng trống | {空白}を埋[う]める | lấp khoảng trống | 履歴書[りれきしょ]の空白[くうはく]期間[きかん]について聞[き]かれた。 | Bị hỏi về khoảng trống trong lý lịch.
+接触[せっしょく] | n | TIẾP XÚC | tiếp xúc | {接触}する | tiếp xúc | 関係者[かんけいしゃ]との接触[せっしょく]は避[さ]けてください。 | Hãy tránh tiếp xúc với người liên quan.
+光景[こうけい] | n | QUANG CẢNH | quang cảnh | 美[うつく]しい{光景} | quang cảnh đẹp | 窓[まど]から見[み]える光景[こうけい]に心[こころ]を奪[うば]われた。 | Bị mê hoặc bởi quang cảnh nhìn từ cửa sổ.
+対処[たいしょ] | n | ĐỐI XỬ | ứng phó | {対処}する | ứng phó | 緊急事態[きんきゅうじたい]に冷静[れいせい]に対処[たいしょ]した。 | Ứng phó bình tĩnh với tình trạng khẩn cấp.
+一切[いっさい] | n | NHẤT THIẾT | tất cả, hoàn toàn | {一切}関係[かんけい]ない | hoàn toàn không liên quan | 一切[いっさい]の責任[せきにん]は当社[とうしゃ]が負[お]います。 | Mọi trách nhiệm công ty chúng tôi chịu.
+加減[かげん] | n | GIA GIẢM | mức độ, điều chỉnh | {加減}する | điều chỉnh | 火[ひ]の加減[かげん]が料理[りょうり]の味[あじ]を左右[さゆう]する。 | Mức lửa quyết định hương vị món ăn.
+余地[よち] | n | DƯ ĐỊA | dư địa, chỗ | 改善[かいぜん]の{余地} | dư địa cải thiện | まだ交渉[こうしょう]の余地[よち]はある。 | Vẫn còn dư địa đàm phán.
+こつ | n | - | bí quyết, mẹo | {こつ}をつかむ | nắm bí quyết | 仕事[しごと]のこつをつかめば効率[こうりつ]が上[あ]がる。 | Nếu nắm được bí quyết công việc thì hiệu quả tăng lên.
+しわ寄[よ]せ | n | KÝ | hệ lụy, gánh nặng | {しわ寄せ}が来[く]る | hệ lụy ập đến | 経費[けいひ]削減[さくげん]のしわ寄[よ]せが現場[げんば]に来[き]ている。 | Hệ lụy của cắt giảm chi phí đang đổ lên hiện trường.
+つじつま | n | - | sự nhất quán | {つじつま}が合[あ]う | nhất quán | 彼[かれ]の話[はなし]はつじつまが合[あ]わない。 | Câu chuyện của anh ấy không nhất quán.
+わな | n | - | bẫy | {わな}にかかる | mắc bẫy | 詐欺師[さぎし]のわなにかからないように注意[ちゅうい]してください。 | Hãy cẩn thận đừng mắc bẫy lừa đảo.
+並[なみ] | n | BÌNH | bình thường, hạng thường | {並}の努力[どりょく] | nỗ lực bình thường | 並[なみ]の才能[さいのう]では到達[とうたつ]できないレベルだ。 | Với tài năng bình thường không thể đạt tới trình độ này.
+仕掛[しか]け | n | SĨ QUẢI | cơ chế, thiết bị | {仕掛け}を作[つく]る | tạo cơ chế | この時計[とけい]には精巧[せいこう]な仕掛[しか]けがある。 | Chiếc đồng hồ này có cơ chế tinh xảo.
+何[なん]らか | n | HÀ | một cái gì đó | {何らか}の対策[たいさく] | biện pháp nào đó | 何[なん]らかの形[かたち]でお手伝[てつだ]いしたい。 | Muốn giúp đỡ dưới hình thức nào đó.
+先端[せんたん] | n | TIÊN ĐOAN | đầu mũi, tiên tiến | {先端}技術[ぎじゅつ] | công nghệ tiên tiến | 先端[せんたん]技術[ぎじゅつ]を活用[かつよう]した新製品[しんせいひん]が注目[ちゅうもく]されている。 | Sản phẩm mới ứng dụng công nghệ tiên tiến đang được chú ý.
+分散[ぶんさん] | n | PHÂN TÁN | phân tán | {分散}させる | phân tán | 投資[とうし]先[さき]を分散[ぶんさん]させてリスクを減[へ]らす。 | Phân tán nơi đầu tư để giảm rủi ro.
+唯一[ゆいいつ] | n | DUY NHẤT | duy nhất | {唯一}の方法[ほうほう] | phương pháp duy nhất | これが唯一[ゆいいつ]の解決策[かいけつさく]だ。 | Đây là giải pháp duy nhất.
+差[さ]し支[つか]え | n | SAI CHI | trở ngại | {差し支え}ない | không trở ngại | 差[さ]し支[つか]えなければ、ご住所[じゅうしょ]を教[おし]えてください。 | Nếu không trở ngại, cho tôi biết địa chỉ.
+技[わざ] | n | KỸ | kỹ thuật, chiêu | {技}を磨[みが]く | trau dồi kỹ thuật | 職人[しょくにん]が長年[ながねん]磨[みが]いた技[わざ]が光[ひか]る。 | Kỹ thuật trau dồi nhiều năm của thợ lành nghề tỏa sáng.
+把握[はあく] | n | BẢ ÁC | nắm bắt | {把握}する | nắm bắt | 現状[げんじょう]を正確[せいかく]に把握[はあく]することが重要[じゅうよう]だ。 | Nắm bắt chính xác tình hình hiện tại là quan trọng.
+枠[わく] | n | KHUÔNG | khung, giới hạn | {枠}を超[こ]える | vượt khung | 予算[よさん]の枠[わく]を超[こ]えてしまった。 | Đã vượt khung ngân sách.
+正体[しょうたい] | n | CHÍNH THỂ | bản chất, chân tướng | {正体}を暴[あば]く | vạch trần chân tướng | 犯人[はんにん]の正体[しょうたい]がついに明[あき]らかになった。 | Chân tướng thủ phạm cuối cùng đã được làm rõ.
+歯止[はど]め | n | XỈ CHỈ | phanh hãm, kiểm soát | {歯止め}をかける | đặt phanh hãm | 物価[ぶっか]上昇[じょうしょう]に歯止[はど]めをかける政策[せいさく]が必要[ひつよう]だ。 | Cần chính sách kiểm soát tăng giá.
+目前[もくぜん] | n | MỤC TIỀN | trước mắt | {目前}に迫[せま]る | đang đến gần trước mắt | 試験[しけん]が目前[もくぜん]に迫[せま]っている。 | Kỳ thi đang đến gần trước mắt.
+直面[ちょくめん] | n | TRỰC DIỆN | đối mặt | {直面}する | đối mặt | 深刻[しんこく]な問題[もんだい]に直面[ちょくめん]している。 | Đang đối mặt với vấn đề nghiêm trọng.
+相応[そうおう] | n | TƯƠNG ỨNG | tương xứng | {相応}しい | tương xứng | 年齢[ねんれい]相応[そうおう]の振[ふ]る舞[ま]いをするべきだ。 | Nên cư xử tương xứng với tuổi.
+衝撃[しょうげき] | n | XUNG KÍCH | cú sốc, chấn động | {衝撃}を受[う]ける | chịu cú sốc | そのニュースは社会[しゃかい]に大[おお]きな衝撃[しょうげき]を与[あた]えた。 | Tin đó đã gây chấn động lớn cho xã hội.
+貢献[こうけん] | n | CỐNG HIẾN | đóng góp | {貢献}する | đóng góp | 社会[しゃかい]に貢献[こうけん]できる人材[じんざい]を育[そだ]てる。 | Đào tạo nhân tài có thể đóng góp cho xã hội.
+間際[まぎわ] | n | GIAN TẾ | sát lúc, cận kề | {間際}になる | đến sát lúc | 締[し]め切[き]り間際[まぎわ]になってやっと取[と]りかかった。 | Đến sát hạn mới bắt tay vào làm.
+飛躍[ひやく] | n | PHI DƯỢC | nhảy vọt, bước tiến | {飛躍}する | nhảy vọt | 技術[ぎじゅつ]の飛躍的[ひやくてき]な進歩[しんぽ]が期待[きたい]される。 | Bước tiến nhảy vọt về công nghệ đang được kỳ vọng.
+めど | n | - | triển vọng, dự kiến | {めど}が立[た]つ | có triển vọng | 完成[かんせい]のめどが立[た]った。 | Đã có triển vọng hoàn thành.
+兆[きざ]し | n | TRIỆU | dấu hiệu | 回復[かいふく]の{兆し} | dấu hiệu phục hồi | 景気[けいき]回復[かいふく]の兆[きざ]しが見[み]えてきた。 | Đã bắt đầu thấy dấu hiệu phục hồi kinh tế.
+固執[こしつ] | n | CỐ CHẤP | cố chấp | {固執}する | cố chấp | 自分[じぶん]の意見[いけん]に固執[こしつ]せず柔軟[じゅうなん]に対応[たいおう]しよう。 | Đừng cố chấp ý kiến mình, hãy ứng biến linh hoạt.
+奨励[しょうれい] | n | TƯỞNG LỆ | khuyến khích | {奨励}する | khuyến khích | 政府[せいふ]が中小企業[ちゅうしょうきぎょう]の育成[いくせい]を奨励[しょうれい]している。 | Chính phủ đang khuyến khích phát triển doanh nghiệp vừa và nhỏ.
+実践[じっせん] | n | THỰC TIỄN | thực hành | {実践}する | thực hành | 理論[りろん]を実践[じっせん]に移[うつ]すことが大切[たいせつ]だ。 | Đưa lý thuyết vào thực hành là quan trọng.
+宣告[せんこく] | n | TUYÊN CÁO | tuyên bố, tuyên án | {宣告}する | tuyên bố | 裁判所[さいばんしょ]が有罪[ゆうざい]を宣告[せんこく]した。 | Tòa án đã tuyên án có tội.
+展開[てんかい] | n | TRIỂN KHAI | triển khai, phát triển | {展開}する | triển khai | 事業[じぎょう]を海外[かいがい]に展開[てんかい]する計画[けいかく]だ。 | Kế hoạch triển khai kinh doanh ra nước ngoài.
+幕開[まくあ]け | n | MẠC KHAI | mở màn | {幕開け}を告[つ]げる | báo hiệu mở màn | 新[あたら]しい時代[じだい]の幕開[まくあ]けを感[かん]じる。 | Cảm nhận sự mở màn của thời đại mới.
+待望[たいぼう] | n | ĐÃI VỌNG | mong đợi | {待望}の新作[しんさく] | tác phẩm mới mong đợi | 待望[たいぼう]の新作[しんさく]がついに公開[こうかい]された。 | Tác phẩm mới được mong đợi cuối cùng đã công chiếu.
+成[な]り行[ゆ]き | n | THÀNH HÀNH | diễn biến | {成り行き}を見守[みまも]る | theo dõi diễn biến | 事態[じたい]の成[な]り行[ゆ]きを慎重[しんちょう]に見守[みまも]っている。 | Đang cẩn thận theo dõi diễn biến tình hình.
+折[おり] | n | CHIẾT | dịp, lúc | {折}に触[ふ]れて | mỗi khi có dịp | 折[おり]に触[ふ]れて先生[せんせい]の教[おし]えを思[おも]い出[だ]す。 | Mỗi khi có dịp lại nhớ lời dạy của thầy.
+折衷[せっちゅう] | n | CHIẾT TRUNG | chiết trung | {折衷}案[あん] | phương án chiết trung | 双方[そうほう]の意見[いけん]の折衷[せっちゅう]案[あん]を提案[ていあん]した。 | Đã đề xuất phương án chiết trung giữa hai bên.
+有数[ゆうすう] | n | HỮU SỐ | hàng đầu | 世界[せかい]{有数}の | hàng đầu thế giới | 日本[にほん]は世界[せかい]有数[ゆうすう]の長寿国[ちょうじゅこく]だ。 | Nhật Bản là quốc gia trường thọ hàng đầu thế giới.
+果[は]て | n | QUẢ | tận cùng, kết quả | {果て}しない | bất tận | 果[は]てしない努力[どりょく]の末[すえ]に夢[ゆめ]を実現[じつげん]した。 | Sau nỗ lực bất tận đã thực hiện được ước mơ.
+架空[かくう] | n | GIÁ KHÔNG | hư cấu, tưởng tượng | {架空}の人物[じんぶつ] | nhân vật hư cấu | この小説[しょうせつ]の登場[とうじょう]人物[じんぶつ]は架空[かくう]だ。 | Nhân vật trong tiểu thuyết này là hư cấu.
+模倣[もほう] | n | MÔ PHỎNG | bắt chước | {模倣}する | bắt chước | 先進国[せんしんこく]の制度[せいど]を模倣[もほう]するだけでは不十分[ふじゅうぶん]だ。 | Chỉ bắt chước chế độ nước tiên tiến thì chưa đủ.
+模索[もさく] | n | MÔ SÁCH | tìm tòi | {模索}する | tìm tòi | 新[あたら]しい解決策[かいけつさく]を模索[もさく]している。 | Đang tìm tòi giải pháp mới.
+渦[うず] | n | OA | xoáy, vòng xoáy | {渦}に巻[ま]き込[こ]まれる | bị cuốn vào vòng xoáy | スキャンダルの渦[うず]に巻[ま]き込[こ]まれた。 | Bị cuốn vào vòng xoáy bê bối.
+溝[みぞ] | n | CÂU | rãnh, khoảng cách | {溝}が深[ふか]まる | khoảng cách sâu thêm | 世代間[せだいかん]の溝[みぞ]が深[ふか]まっている。 | Khoảng cách giữa các thế hệ ngày càng sâu.
+無数[むすう] | n | VÔ SỐ | vô số | {無数}の星[ほし] | vô số ngôi sao | 無数[むすう]の可能性[かのうせい]が広[ひろ]がっている。 | Vô số khả năng đang mở ra.
+目安[めやす] | n | MỤC AN | tiêu chuẩn, ước lượng | {目安}になる | trở thành tiêu chuẩn | 一日[いちにち]の摂取[せっしゅ]カロリーの目安[めやす]は2000キロカロリーだ。 | Tiêu chuẩn calo nạp trong ngày là 2000 kcal.
+着目[ちゃくもく] | n | TRƯỚC MỤC | chú ý, quan tâm | {着目}する | chú ý | 研究者[けんきゅうしゃ]たちはこの現象[げんしょう]に着目[ちゃくもく]した。 | Các nhà nghiên cứu đã chú ý đến hiện tượng này.
+神秘[しんぴ] | n | THẦN BÍ | bí ẩn, huyền bí | {神秘}的[てき] | huyền bí | 宇宙[うちゅう]の神秘[しんぴ]に魅[み]せられた。 | Bị mê hoặc bởi sự huyền bí của vũ trụ.
+禁物[きんもつ] | n | CẤM VẬT | điều cấm kỵ | 油断[ゆだん]は{禁物} | chủ quan là cấm kỵ | 試験[しけん]前[まえ]の油断[ゆだん]は禁物[きんもつ]だ。 | Chủ quan trước kỳ thi là điều cấm kỵ.
+第三者[だいさんしゃ] | n | ĐỆ TAM GIẢ | bên thứ ba | {第三者}の意見[いけん] | ý kiến bên thứ ba | 第三者[だいさんしゃ]の立場[たちば]から意見[いけん]を述[の]べた。 | Phát biểu ý kiến từ lập trường bên thứ ba.
+節度[せつど] | n | TIẾT ĐỘ | chừng mực | {節度}を守[まも]る | giữ chừng mực | 節度[せつど]ある行動[こうどう]を心[こころ]がけましょう。 | Hãy cố gắng hành động có chừng mực.
+経緯[けいい] | n | KINH VĨ | diễn biến, quá trình | {経緯}を説明[せつめい]する | giải thích diễn biến | 事件[じけん]の経緯[けいい]を詳[くわ]しく報告[ほうこく]した。 | Đã báo cáo chi tiết diễn biến vụ việc.
+自粛[じしゅく] | n | TỰ TÚC | tự kiềm chế | {自粛}する | tự kiềm chế | 不要不急[ふようふきゅう]の外出[がいしゅつ]を自粛[じしゅく]してください。 | Hãy tự kiềm chế ra ngoài không cần thiết.
+行[い]き違[ちが]い | n | HÀNH VI | hiểu lầm, trái ngược | {行き違い}が生[しょう]じる | phát sinh hiểu lầm | 連絡[れんらく]の行[い]き違[ちが]いがあったようだ。 | Có vẻ đã xảy ra hiểu lầm trong liên lạc.
+行[ゆ]く手[て] | n | HÀNH THỦ | phía trước, con đường | {行く手}を阻[はば]む | chặn đường trước | 大[おお]きな岩[いわ]が行[ゆ]く手[て]を阻[はば]んでいた。 | Tảng đá lớn chặn con đường phía trước.
+許容[きょよう] | n | HỨA DUNG | chấp nhận, dung thứ | {許容}する | chấp nhận | 許容[きょよう]範囲[はんい]を超[こ]えるミスだった。 | Đó là lỗi vượt quá phạm vi chấp nhận.
+認識[にんしき] | n | NHẬN THỨC | nhận thức | {認識}する | nhận thức | 問題[もんだい]の深刻[しんこく]さを認識[にんしき]していない人[ひと]が多[おお]い。 | Nhiều người chưa nhận thức được mức độ nghiêm trọng của vấn đề.
+逃避[とうひ] | n | ĐÀO TỊ | trốn tránh | 現実[げんじつ]{逃避} | trốn tránh hiện thực | 現実[げんじつ]逃避[とうひ]をしても問題[もんだい]は解決[かいけつ]しない。 | Trốn tránh hiện thực thì vấn đề cũng không giải quyết.
+阻害[そがい] | n | TRỞ HẠI | cản trở | {阻害}する | cản trở | 成長[せいちょう]を阻害[そがい]する要因[よういん]を取[と]り除[のぞ]く。 | Loại bỏ yếu tố cản trở tăng trưởng.
+除外[じょがい] | n | TRỪ NGOẠI | loại trừ | {除外}する | loại trừ | 対象[たいしょう]から除外[じょがい]された項目[こうもく]がある。 | Có hạng mục bị loại trừ khỏi đối tượng.
+駆使[くし] | n | KHU SỬ | vận dụng hết | {駆使}する | vận dụng hết | 最新[さいしん]の技術[ぎじゅつ]を駆使[くし]して問題[もんだい]を解決[かいけつ]した。 | Vận dụng hết công nghệ mới nhất để giải quyết vấn đề.
+驚異[きょうい] | n | KINH DỊ | kỳ diệu, phi thường | {驚異}的[てき] | phi thường | 驚異[きょうい]的[てき]なスピードで成長[せいちょう]した。 | Đã tăng trưởng với tốc độ phi thường.
+反映[はんえい] | n | PHẢN ÁNH | phản ánh | {反映}する | phản ánh | 顧客[こきゃく]の意見[いけん]を商品[しょうひん]に反映[はんえい]させた。 | Đã phản ánh ý kiến khách hàng vào sản phẩm.
+復帰[ふっき] | n | PHỤC QUY | trở lại | {復帰}する | trở lại | けがから復帰[ふっき]した選手[せんしゅ]が活躍[かつやく]した。 | Vận động viên trở lại sau chấn thương đã thi đấu xuất sắc.
+手[て]がかり | n | THỦ | manh mối | {手がかり}を探[さが]す | tìm manh mối | 事件[じけん]の手[て]がかりがやっと見[み]つかった。 | Cuối cùng đã tìm được manh mối vụ án.
+手探[てさぐ]り | n | THỦ THÁM | dò dẫm | {手探り}で進[すす]む | tiến dò dẫm | 暗闇[くらやみ]の中[なか]を手探[てさぐ]りで進[すす]んだ。 | Dò dẫm tiến bước trong bóng tối.
+手本[てほん] | n | THỦ BẢN | tấm gương, mẫu | {手本}になる | trở thành tấm gương | 先輩[せんぱい]の仕事[しごと]ぶりを手本[てほん]にしている。 | Lấy phong cách làm việc của tiền bối làm tấm gương.
+特定[とくてい] | n | ĐẶC ĐỊNH | xác định, cụ thể | {特定}する | xác định | 原因[げんいん]を特定[とくてい]するのに時間[じかん]がかかった。 | Mất thời gian để xác định nguyên nhân.
+特有[とくゆう] | n | ĐẶC HỮU | đặc trưng | 日本[にほん]{特有}の文化[ぶんか] | văn hóa đặc trưng Nhật Bản | この地域[ちいき]特有[とくゆう]の風習[ふうしゅう]が残[のこ]っている。 | Phong tục đặc trưng vùng này vẫn còn.
+確保[かくほ] | n | XÁC BẢO | đảm bảo | {確保}する | đảm bảo | 必要[ひつよう]な人員[じんいん]を確保[かくほ]した。 | Đã đảm bảo nhân sự cần thiết.
+確信[かくしん] | n | XÁC TÍN | tin chắc | {確信}する | tin chắc | 自分[じぶん]の判断[はんだん]が正[ただ]しいと確信[かくしん]している。 | Tin chắc phán đoán của mình đúng.
+追究[ついきゅう] | n | TRUY CỨU | truy cứu | {追究}する | truy cứu | 責任[せきにん]を追究[ついきゅう]する姿勢[しせい]が重要[じゅうよう]だ。 | Tinh thần truy cứu trách nhiệm là quan trọng.
+追跡[ついせき] | n | TRUY TÍCH | truy tìm | {追跡}する | truy tìm | 警察[けいさつ]が犯人[はんにん]を追跡[ついせき]している。 | Cảnh sát đang truy tìm thủ phạm.
+拍車[はくしゃ] | n | PHÁCH XA | thúc đẩy | {拍車}をかける | thúc đẩy mạnh | 円安[えんやす]が物価[ぶっか]上昇[じょうしょう]に拍車[はくしゃ]をかけている。 | Đồng yên yếu đang thúc đẩy mạnh tăng giá.
+名残[なごり] | n | DANH TÀN | dư vị, dấu tích | {名残}惜[お]しい | lưu luyến | 別[わか]れの名残[なごり]惜[お]しさで涙[なみだ]が止[と]まらなかった。 | Không cầm được nước mắt vì lưu luyến lúc chia tay.
+帰結[きけつ] | n | QUY KẾT | kết quả, hệ quả | {帰結}する | đi đến kết quả | 長[なが]い議論[ぎろん]の帰結[きけつ]として合意[ごうい]に至[いた]った。 | Đã đi đến đồng thuận như hệ quả của cuộc thảo luận dài.
+糸口[いとぐち] | n | TY KHẨU | manh mối, đầu mối | {糸口}を見[み]つける | tìm đầu mối | 解決[かいけつ]の糸口[いとぐち]がようやく見[み]えてきた。 | Đầu mối giải quyết cuối cùng cũng bắt đầu thấy.
+素地[そじ] | n | TỐ ĐỊA | nền tảng, cơ sở | {素地}を作[つく]る | tạo nền tảng | 幼少期[ようしょうき]の経験[けいけん]が人格[じんかく]の素地[そじ]を作[つく]る。 | Kinh nghiệm thời thơ ấu tạo nền tảng nhân cách.
+恩恵[おんけい] | n | ÂN HUỆ | ân huệ, lợi ích | {恩恵}を受[う]ける | nhận ân huệ | 技術[ぎじゅつ]の進歩[しんぽ]の恩恵[おんけい]を受[う]けている。 | Đang nhận lợi ích từ tiến bộ công nghệ.
+脈絡[みゃくらく] | n | MẠCH LẠC | mạch lạc, bối cảnh | {脈絡}がない | không mạch lạc | 彼[かれ]の話[はなし]は脈絡[みゃくらく]がなくて理解[りかい]しにくい。 | Câu chuyện của anh ấy không mạch lạc nên khó hiểu.
+歳月[さいげつ] | n | TUẾ NGUYỆT | năm tháng | {歳月}が流[なが]れる | năm tháng trôi | 歳月[さいげつ]が経[た]つのは早[はや]いものだ。 | Năm tháng trôi qua thật nhanh.
+先[さき] | n | TIÊN | đầu mút, phía trước, tương lai | {先}が見[み]えない | không thấy tương lai | この不況[ふきょう]では先[さき]が見[み]えない。 | Trong cơn suy thoái này không nhìn thấy tương lai.
+艶[つや] | n | DIỄM | độ bóng, nước bóng | {艶}がある | có độ bóng | このワックスを塗[ぬ]ると木[き]に艶[つや]が出[で]る。 | Bôi sáp này lên gỗ sẽ có nước bóng.
+決[けつ] | n | QUYẾT | quyết định, phán quyết | 多数[たすう]{決}を取[と]る | lấy quyết định theo đa số | 議長[ぎちょう]が多数[たすう]決[けつ]を取[と]って議案[ぎあん]を通[とお]した。 | Chủ tọa lấy biểu quyết đa số thông qua nghị án.
+窮地[きゅうち] | n | CÙNG ĐỊA | bước đường cùng | {窮地}に陥[おちい]る | rơi vào bế tắc | 資金[しきん]不足[ぶそく]で窮地[きゅうち]に陥[おちい]った。 | Rơi vào bế tắc vì thiếu vốn.
+難局[なんきょく] | n | NAN CỤC | tình thế khó khăn | {難局}を乗[の]り切[き]る | vượt qua khó khăn | リーダーシップで難局[なんきょく]を乗[の]り切[き]った。 | Vượt qua khó khăn nhờ năng lực lãnh đạo.
+岐路[きろ] | n | KỲ LỘ | ngã rẽ, bước ngoặt | {岐路}に立[た]つ | đứng trước ngã rẽ | 人生[じんせい]の岐路[きろ]に立[た]っている。 | Đang đứng trước ngã rẽ cuộc đời.
+転機[てんき] | n | CHUYỂN CƠ | bước ngoặt | {転機}を迎[むか]える | đón bước ngoặt | 失敗[しっぱい]が人生[じんせい]の転機[てんき]になった。 | Thất bại trở thành bước ngoặt cuộc đời.
+契機[けいき] | n | KHẾ CƠ | cơ hội, khế cơ | {契機}として | lấy đó làm cơ hội | 留学[りゅうがく]を契機[けいき]として視野[しや]が広[ひろ]がった。 | Nhờ du học mà tầm nhìn mở rộng.
+機運[きうん] | n | CƠ VẬN | thời cơ | {機運}が高[たか]まる | thời cơ chín muồi | 改革[かいかく]の機運[きうん]が高[たか]まっている。 | Thời cơ cải cách đang chín muồi.
+趨勢[すうせい] | n | XU THẾ | xu thế, khuynh hướng | {趨勢}を見極[みきわ]める | phân tích xu thế | 時代[じだい]の趨勢[すうせい]を見極[みきわ]めて戦略[せんりゃく]を立[た]てる。 | Phân tích xu thế thời đại để lập chiến lược.
+帰趨[きすう] | n | QUY XU | kết cục, xu hướng | {帰趨}が注目[ちゅうもく]される | được chú ý kết cục | 選挙[せんきょ]の帰趨[きすう]が注目[ちゅうもく]されている。 | Kết cục bầu cử đang được chú ý.
+顛末[てんまつ] | n | ĐIÊN MẠT | đầu đuôi, diễn biến | {顛末}を報告[ほうこく]する | báo cáo diễn biến | 事故[じこ]の顛末[てんまつ]を詳[くわ]しく報告[ほうこく]した。 | Đã báo cáo chi tiết diễn biến vụ tai nạn.
+沿革[えんかく] | n | DUYÊN CÁCH | lịch sử hình thành | {沿革}をたどる | truy theo lịch sử | 会社[かいしゃ]の沿革[えんかく]をホームページに掲載[けいさい]した。 | Đăng lịch sử hình thành công ty lên trang web.
+軌跡[きせき] | n | QUỸ TÍCH | quỹ tích, dấu chân | {軌跡}をたどる | theo dấu chân | 偉人[いじん]の軌跡[きせき]をたどるドキュメンタリーだ。 | Phim tài liệu theo dấu chân vĩ nhân.
+系譜[けいふ] | n | HỆ PHỔ | gia phả, hệ phổ | {系譜}を調[しら]べる | tìm hiểu gia phả | 文学[ぶんがく]の系譜[けいふ]をたどる研究[けんきゅう]だ。 | Nghiên cứu theo dấu hệ phổ văn học.
+系統[けいとう] | n | HỆ THỐNG | hệ thống, dòng | {系統}立[だ]てる | hệ thống hóa | 知識[ちしき]を系統[けいとう]立[だ]てて整理[せいり]した。 | Đã hệ thống hóa và sắp xếp kiến thức.
+混沌[こんとん] | n | HỖN ĐỘN | hỗn độn | {混沌}とする | hỗn độn | 政局[せいきょく]は混沌[こんとん]としている。 | Tình hình chính trị đang hỗn độn.
+反目[はんもく] | n | PHẢN MỤC | bất hòa, đối lập | {反目}し合[あ]う | bất hòa với nhau | 兄弟[きょうだい]が遺産[いさん]をめぐって反目[はんもく]している。 | Anh em bất hòa vì tranh chấp di sản.
+断絶[だんぜつ] | n | ĐOẠN TUYỆT | đoạn tuyệt, cắt đứt | {断絶}する | đoạn tuyệt | 外交[がいこう]関係[かんけい]が断絶[だんぜつ]した。 | Quan hệ ngoại giao bị cắt đứt.
+瓦解[がかい] | n | NGÕA GIẢI | sụp đổ | {瓦解}する | sụp đổ | 内紛[ないふん]で組織[そしき]が瓦解[がかい]した。 | Tổ chức sụp đổ vì nội bộ bất hòa.
+凋落[ちょうらく] | n | ĐIÊU LẠC | suy tàn | {凋落}する | suy tàn | かつての名門[めいもん]が凋落[ちょうらく]した。 | Danh gia một thời đã suy tàn.
+衰微[すいび] | n | SUY VI | suy vi, suy yếu | {衰微}する | suy vi | 伝統[でんとう]工芸[こうげい]が衰微[すいび]の一途[いっと]をたどっている。 | Nghề thủ công truyền thống đang trên đà suy vi.
+勃興[ぼっこう] | n | BỘT HƯNG | bột hưng, nổi lên mạnh mẽ | {勃興}する | bột hưng | 新興[しんこう]国[こく]の経済[けいざい]が勃興[ぼっこう]している。 | Kinh tế nước đang phát triển bột hưng.
+人徳[じんとく] | n | NHÂN ĐỨC | nhân đức | {人徳}がある | có nhân đức | 人徳[じんとく]のある人[ひと]の周[まわ]りには人[ひと]が集[あつ]まる。 | Người có nhân đức thì xung quanh tự có người tụ hội.
+威信[いしん] | n | UY TÍN | uy tín | {威信}をかける | đặt cược uy tín | 国[くに]の威信[いしん]をかけたプロジェクトだ。 | Đó là dự án đặt cược uy tín quốc gia.
+外観[がいかん] | n | NGOẠI QUAN | ngoại quan, bề ngoài | {外観}を整[ととの]える | chỉnh trang bề ngoài | ビルの外観[がいかん]をリニューアルした。 | Đã chỉnh trang bề ngoài tòa nhà.
+様相[ようそう] | n | DẠNG TƯỚNG | diện mạo, tình trạng | {様相}を呈[てい]する | mang diện mạo | 街[まち]は戦場[せんじょう]のような様相[ようそう]を呈[てい]していた。 | Phố phường mang diện mạo như chiến trường.
+面影[おもかげ] | n | DIỆN ẢNH | hình bóng, vết tích | {面影}が残[のこ]る | còn vết tích | 少年[しょうねん]時代[じだい]の面影[おもかげ]がまだ残[のこ]っている。 | Vẫn còn hình bóng thời thiếu niên.
+所以[ゆえん] | n | SỞ DĨ | lý do, nguyên nhân | {所以}である | là lý do | これこそが日本[にほん]文化[ぶんか]の魅力[みりょく]の所以[ゆえん]だ。 | Đây chính là lý do sức hút văn hóa Nhật.
+所在[しょざい] | n | SỞ TẠI | nơi ở, sở tại | {所在}を確認[かくにん]する | xác nhận nơi ở | 容疑者[ようぎしゃ]の所在[しょざい]が判明[はんめい]した。 | Đã xác nhận nơi ở của nghi phạm.
+所為[せい] | n | SỞ VI | do, tại | {所為}にする | đổ tại | 失敗[しっぱい]を人[ひと]の所為[せい]にするな。 | Đừng đổ thất bại tại người khác.
+所存[しょぞん] | n | SỞ TỒN | ý định, quan điểm | {所存}を述[の]べる | trình bày ý định | 精一杯[せいいっぱい]努力[どりょく]する所存[しょぞん]です。 | Tôi có ý định nỗ lực hết sức.
+実在[じつざい] | n | THỰC TẠI | thực tại, có thật | {実在}する | có thật | この小説[しょうせつ]は実在[じつざい]の人物[じんぶつ]をモデルにしている。 | Tiểu thuyết này lấy nhân vật có thật làm mẫu.
+実情[じつじょう] | n | THỰC TÌNH | tình hình thực tế | {実情}を把握[はあく]する | nắm bắt thực tế | 現場[げんば]の実情[じつじょう]を把握[はあく]する必要[ひつよう]がある。 | Cần nắm bắt tình hình thực tế hiện trường.
+虚実[きょじつ] | n | HƯ THỰC | hư thực, thật giả | {虚実}を見極[みきわ]める | phân biệt thật giả | 情報[じょうほう]の虚実[きょじつ]を見極[みきわ]めることが大切[たいせつ]だ。 | Phân biệt thật giả thông tin là rất quan trọng.
+真髄[しんずい] | n | CHÂN TUỶ | tinh túy, cốt lõi | {真髄}に触[ふ]れる | chạm tới tinh túy | 日本[にほん]料理[りょうり]の真髄[しんずい]に触[ふ]れた。 | Chạm tới tinh túy ẩm thực Nhật Bản.
+要諦[ようてい] | n | YẾU ĐẾ | yếu đế, điểm then chốt | {要諦}を押[お]さえる | nắm điểm then chốt | 交渉[こうしょう]の要諦[ようてい]は相手[あいて]の立場[たちば]を理解[りかい]することだ。 | Điểm then chốt đàm phán là hiểu lập trường đối phương.
+大綱[たいこう] | n | ĐẠI CƯƠNG | đại cương, nét chính | {大綱}を示[しめ]す | trình bày nét chính | 政策[せいさく]の大綱[たいこう]が発表[はっぴょう]された。 | Nét chính chính sách đã được công bố.
+概略[がいりゃく] | n | KHÁI LƯỢC | khái lược, tóm tắt | {概略}を説明[せつめい]する | giải thích khái lược | まず計画[けいかく]の概略[がいりゃく]を説明[せつめい]する。 | Trước tiên xin giải thích khái lược kế hoạch.
+興廃[こうはい] | n | HƯNG PHẾ | hưng phế | {興廃}を左右[さゆう]する | quyết định sự hưng phế | 国[くに]の興廃[こうはい]がかかった戦[たたか]いだ。 | Là trận chiến quyết định sự hưng phế quốc gia.
+栄枯[えいこ] | n | VINH KHÔ | vinh khô, thịnh suy | {栄枯}盛衰[せいすい] | thịnh suy biến đổi | 栄枯[えいこ]盛衰[せいすい]は世[よ]の常[つね]だ。 | Thịnh suy là lẽ thường của đời.
+退廃[たいはい] | n | THOÁI PHẾ | suy đồi | {退廃}的[てき]な風潮[ふうちょう] | trào lưu suy đồi | 退廃[たいはい]的[てき]な文化[ぶんか]が蔓延[まんえん]した。 | Văn hóa suy đồi đã lan tràn.
+頽廃[たいはい] | n | ĐỒI PHẾ | suy đồi (văn học) | {頽廃}主義[しゅぎ] | chủ nghĩa suy đồi | 頽廃[たいはい]主義[しゅぎ]の芸術[げいじゅつ]作品[さくひん]だ。 | Là tác phẩm nghệ thuật theo chủ nghĩa suy đồi.
+荒廃[こうはい] | n | HOANG PHẾ | hoang phế | {荒廃}する | hoang phế | 戦争[せんそう]で国土[こくど]が荒廃[こうはい]した。 | Đất nước hoang phế vì chiến tranh.
+疲弊[ひへい] | n | BÌ TỆ | kiệt quệ | {疲弊}する | kiệt quệ | 長期[ちょうき]の不況[ふきょう]で経済[けいざい]が疲弊[ひへい]した。 | Kinh tế kiệt quệ do bất ổn kéo dài.
+困窮[こんきゅう] | n | KHỐN CÙNG | khốn cùng | {困窮}する | lâm vào khốn cùng | 生活[せいかつ]に困窮[こんきゅう]している世帯[せたい]を支援[しえん]する。 | Hỗ trợ các hộ gia đình lâm vào khốn cùng.
+逼迫[ひっぱく] | n | BỨC BÁCH | bức bách, căng thẳng | 財政[ざいせい]が{逼迫}する | tài chính bức bách | 財政[ざいせい]が逼迫[ひっぱく]して歳出[さいしゅつ]を削減[さくげん]した。 | Tài chính bức bách nên cắt giảm chi tiêu.
+窮迫[きゅうはく] | n | CÙNG BÁCH | cùng quẫn | {窮迫}した状況[じょうきょう] | tình trạng cùng quẫn | 窮迫[きゅうはく]した状況[じょうきょう]で犯行[はんこう]に及[およ]んだ。 | Phạm tội trong tình trạng cùng quẫn.
+飽和[ほうわ] | n | BÃO HÒA | bão hòa | 市場[しじょう]が{飽和}する | thị trường bão hòa | 市場[しじょう]が飽和[ほうわ]して成長[せいちょう]が止[と]まった。 | Thị trường bão hòa nên tăng trưởng dừng lại.
+空洞[くうどう] | n | KHÔNG ĐỖNG | rỗng, hình thức | {空洞}化[か] | trống rỗng hóa | 産業[さんぎょう]の空洞[くうどう]化[か]が進[すす]んでいる。 | Sự rỗng hóa công nghiệp đang tiến triển.
+形骸[けいがい] | n | HÌNH HÀI | hình thức suông | {形骸}化[か]する | trở nên hình thức | 規則[きそく]が形骸[けいがい]化[か]している。 | Quy tắc đã trở nên hình thức suông.
+残骸[ざんがい] | n | TÀN HÀI | tàn tích, xác | {残骸}が散乱[さんらん]する | tàn tích nằm ngổn ngang | 飛行機[ひこうき]の残骸[ざんがい]が発見[はっけん]された。 | Tàn tích máy bay được phát hiện.
+余韻[よいん] | n | DƯ VẬN | dư âm | {余韻}に浸[ひた]る | đắm chìm trong dư âm | コンサートの余韻[よいん]に浸[ひた]った。 | Đắm chìm trong dư âm buổi hòa nhạc.
+余波[よは] | n | DƯ BA | dư ba, hệ lụy | {余波}が広[ひろ]がる | dư ba lan rộng | 金融[きんゆう]危機[きき]の余波[よは]が世界[せかい]に広[ひろ]がった。 | Dư ba khủng hoảng tài chính lan rộng khắp thế giới.
+波紋[はもん] | n | BA VĂN | sóng gợn, ảnh hưởng | {波紋}を広[ひろ]げる | gây sóng gợn | 発言[はつげん]が政界[せいかい]に波紋[はもん]を広[ひろ]げた。 | Phát ngôn gây sóng gợn trong chính giới.
+結末[けつまつ] | n | KẾT MẠT | kết cục | {結末}を迎[むか]える | đón kết cục | 物語[ものがたり]は意外[いがい]な結末[けつまつ]を迎[むか]えた。 | Câu chuyện đón kết cục bất ngờ.
+終結[しゅうけつ] | n | CHUNG KẾT | kết thúc | 戦争[せんそう]が{終結}する | chiến tranh kết thúc | 長[なが]い戦争[せんそう]がようやく終結[しゅうけつ]した。 | Cuộc chiến dài cuối cùng đã kết thúc.
+完結[かんけつ] | n | HOÀN KẾT | hoàn kết | 物語[ものがたり]が{完結}する | câu chuyện hoàn kết | 連載[れんさい]が10年[ねん]かけて完結[かんけつ]した。 | Truyện dài kỳ hoàn kết sau 10 năm.
+決着[けっちゃく] | n | QUYẾT TRƯỚC | ngã ngũ | {決着}がつく | ngã ngũ | 長年[ながねん]の紛争[ふんそう]にようやく決着[けっちゃく]がついた。 | Tranh chấp nhiều năm cuối cùng đã ngã ngũ.
+妥結[だけつ] | n | THỎA KẾT | đạt thỏa thuận | {妥結}する | đạt thỏa thuận | 労使[ろうし]交渉[こうしょう]が妥結[だけつ]した。 | Đàm phán lao sử đã đạt thỏa thuận.
+遭遇[そうぐう] | n | TẠO NGỘ | chạm trán | {遭遇}する | chạm trán | 嵐[あらし]に遭遇[そうぐう]して航海[こうかい]が遅[おく]れた。 | Chạm trán bão nên hải trình bị chậm.
+離散[りさん] | n | LY TÁN | ly tán | {離散}する | ly tán | 戦乱[せんらん]で離散[りさん]した家族[かぞく]を探[さが]す。 | Tìm kiếm gia đình ly tán vì loạn lạc.
+損壊[そんかい] | n | TỔN HOẠI | hư hỏng | {損壊}する | hư hỏng | 地震[じしん]で建物[たてもの]が損壊[そんかい]した。 | Tòa nhà bị hư hỏng vì động đất.
+全壊[ぜんかい] | n | TOÀN HOẠI | sụp đổ hoàn toàn | {全壊}する | sụp đổ hoàn toàn | 全壊[ぜんかい]した家屋[かおく]は百棟[ひゃくとう]を超[こ]えた。 | Hơn 100 ngôi nhà bị sụp đổ hoàn toàn.
+半壊[はんかい] | n | BÁN HOẠI | hư hỏng một nửa | {半壊}する | hư hỏng một nửa | 半壊[はんかい]した住宅[じゅうたく]の修復[しゅうふく]が急[いそ]がれる。 | Cấp bách sửa chữa nhà bị hư hỏng một nửa.
+大破[たいは] | n | ĐẠI PHÁ | phá hủy nặng | {大破}する | bị phá hủy nặng | 船[ふね]が大破[たいは]して航行[こうこう]不能[ふのう]になった。 | Tàu bị phá hủy nặng không thể hành trình.
+撃破[げきは] | n | KÍCH PHÁ | đánh bại | {撃破}する | đánh bại | 敵[てき]の主力[しゅりょく]を撃破[げきは]した。 | Đánh bại lực lượng chủ lực đối phương.
+打破[だは] | n | ĐẢ PHÁ | phá vỡ | {打破}する | phá vỡ | 既成[きせい]概念[がいねん]を打破[だは]する。 | Phá vỡ quan niệm sẵn có.
+看破[かんぱ] | n | KHÁN PHÁ | nhìn thấu | {看破}する | nhìn thấu | 相手[あいて]の嘘[うそ]を看破[かんぱ]した。 | Nhìn thấu lời nói dối của đối phương.
+論破[ろんぱ] | n | LUẬN PHÁ | bác bỏ | {論破}する | bác bỏ | 相手[あいて]の主張[しゅちょう]を論破[ろんぱ]した。 | Bác bỏ lập luận của đối phương.
+欺瞞[ぎまん] | n | KHI MAN | lừa dối | {欺瞞}する | lừa dối | 国民[こくみん]に対[たい]する欺瞞[ぎまん]が暴[あば]かれた。 | Sự lừa dối đối với quốc dân bị phơi bày.
+詐称[さしょう] | n | TRÁ XƯNG | mạo xưng | {詐称}する | mạo xưng | 身分[みぶん]を詐称[さしょう]して侵入[しんにゅう]した。 | Mạo xưng thân phận để xâm nhập.
+僭称[せんしょう] | n | TIẾM XƯNG | tiếm xưng | {僭称}する | tiếm xưng | 王[おう]を僭称[せんしょう]して権力[けんりょく]を握[にぎ]った。 | Tiếm xưng vua để nắm quyền lực.
+詐取[さしゅ] | n | TRÁ THỦ | chiếm đoạt bằng lừa | {詐取}する | chiếm đoạt | 金銭[きんせん]を詐取[さしゅ]した罪[つみ]で逮捕[たいほ]された。 | Bị bắt vì tội chiếm đoạt tiền bạc bằng lừa đảo.
+窃取[せっしゅ] | n | THIẾT THỦ | đánh cắp | {窃取}する | đánh cắp | 機密[きみつ]情報[じょうほう]を窃取[せっしゅ]した。 | Đánh cắp thông tin cơ mật.

@@ -1,0 +1,227 @@
+@topic t15
+@ja 複合動詞[ふくごうどうし]
+@vi Động từ ghép
+@desc Động từ ghép với ～かかる・～かける・～つける・～取る・～返す・～切る・取り～・突き～・飛び～・差し～・引き～ và nhiều tiền tố khác.
+寄[よ]りかかる | v1 | KÝ | dựa vào; ỷ lại | - | - | 壁[かべ]に寄[よ]りかかって電車[でんしゃ]を待[ま]った。 | Tôi dựa vào tường chờ tàu.
+もたれかかる | v1 | - | tựa hẳn vào | - | - | 疲[つか]れた彼女[かのじょ]は私[わたし]の肩[かた]にもたれかかった。 | Cô ấy mệt mỏi tựa hẳn vào vai tôi.
+つかみかかる | v1 | - | xông vào túm | - | - | 男[おとこ]は怒[おこ]って相手[あいて]につかみかかった。 | Gã đàn ông tức giận xông vào túm lấy đối phương.
+突[つ]っかかる | v1 | ĐỘT | gây sự, cãi lại | - | - | 彼[かれ]は何[なに]を言[い]ってもすぐ突[つ]っかかってくる。 | Nói gì anh ta cũng gây sự ngay.
+飛[と]びかかる | v1 | PHI | vồ lấy | - | - | 猫[ねこ]がネズミに飛[と]びかかった。 | Con mèo vồ lấy con chuột.
+暮[く]れかかる | v1 | MỘ | sắp tối | - | - | 日[ひ]が暮[く]れかかったころ、ようやく村[むら]に着[つ]いた。 | Trời sắp tối thì chúng tôi mới tới làng.
+落[お]ちかかる | v1 | LẠC | sắp rơi | - | - | 棚[たな]から落[お]ちかかった花瓶[かびん]を慌[あわ]てて支[ささ]えた。 | Tôi vội đỡ chiếc bình hoa sắp rơi khỏi kệ.
+立[た]てかける | v2 | LẬP | dựng tựa vào | - | - | 傘[かさ]を玄関[げんかん]の壁[かべ]に立[た]てかけた。 | Dựng ô tựa vào tường cửa ra vào.
+働[はたら]きかける | v2 | ĐỘNG | tác động, vận động | - | - | 住民[じゅうみん]は市[し]に公園[こうえん]の整備[せいび]を働[はたら]きかけた。 | Cư dân vận động thành phố cải tạo công viên.
+持[も]ちかける | v2 | TRÌ | đề nghị, gạ | 話[はなし] を {持ちかける} | ngỏ lời | 友人[ゆうじん]から共同[きょうどう]経営[けいえい]の話[はなし]を持[も]ちかけられた。 | Bạn ngỏ lời rủ tôi cùng kinh doanh.
+問[と]いかける | v2 | VẤN | đặt câu hỏi | - | - | 作品[さくひん]は見[み]る人[ひと]に生[い]きる意味[いみ]を問[と]いかける。 | Tác phẩm đặt câu hỏi về ý nghĩa sống cho người xem.
+押[お]しかける | v2 | ÁP | kéo đến (không mời) | - | - | ファンがホテルに押[お]しかけた。 | Người hâm mộ kéo đến khách sạn.
+詰[つ]めかける | v2 | CẬT | đổ xô đến | - | - | 開店[かいてん]前[まえ]から大勢[おおぜい]の客[きゃく]が詰[つ]めかけた。 | Từ trước giờ mở cửa khách đã đổ xô đến.
+見[み]せかける | v2 | KIẾN | giả vờ, ngụy trang | - | - | 事故[じこ]に見[み]せかけた犯行[はんこう]だった。 | Đó là vụ án được ngụy trang thành tai nạn.
+言[い]いかける | v2 | NGÔN | định nói | - | - | 彼女[かのじょ]は何[なに]か言[い]いかけて口[くち]をつぐんだ。 | Cô ấy định nói gì đó rồi lại im.
+溺[おぼ]れかける | v2 | NỊCH | suýt chết đuối | - | - | 子供[こども]のころ海[うみ]で溺[おぼ]れかけたことがある。 | Hồi nhỏ tôi từng suýt chết đuối ở biển.
+駆[か]けつける | v2 | KHU | chạy đến | - | - | 知[し]らせを聞[き]いて病院[びょういん]に駆[か]けつけた。 | Nghe tin, tôi chạy ngay đến bệnh viện.
+決[き]めつける | v2 | QUYẾT | quy chụp | - | - | 見[み]た目[め]だけで人[ひと]を決[き]めつけてはいけない。 | Không được quy chụp người khác chỉ qua vẻ ngoài.
+送[おく]りつける | v2 | TỐNG | gửi tới (không mời) | - | - | 注文[ちゅうもん]していない商品[しょうひん]を送[おく]りつけられた。 | Tôi bị gửi tới món hàng không hề đặt.
+押[お]し付[つ]ける | v2 | ÁP PHÓ | ép, áp đặt | 仕事[しごと] を {押し付ける} | đùn việc | 面倒[めんどう]な仕事[しごと]を後輩[こうはい]に押[お]し付[つ]けるな。 | Đừng đùn việc phiền phức cho đàn em.
+にらみつける | v2 | - | trừng mắt nhìn | - | - | 彼[かれ]は黙[だま]って私[わたし]をにらみつけた。 | Anh ta im lặng trừng mắt nhìn tôi.
+たたきつける | v2 | - | đập mạnh; ném thẳng | 辞表[じひょう] を {たたきつける} | ném đơn từ chức | 彼[かれ]は社長[しゃちょう]に辞表[じひょう]をたたきつけた。 | Anh ném đơn từ chức vào mặt giám đốc.
+怒鳴[どな]りつける | v2 | NỘ MINH | quát tháo | - | - | 遅刻[ちこく]した部下[ぶか]を怒鳴[どな]りつけた。 | Quát tháo cấp dưới đến muộn.
+備[そな]えつける | v2 | BỊ | lắp đặt sẵn | - | - | 各部屋[かくへや]にエアコンが備[そな]えつけられている。 | Mỗi phòng đều được lắp sẵn điều hòa.
+飾[かざ]り付[つ]ける | v2 | SỨC PHÓ | trang trí | - | - | 教室[きょうしつ]を花[はな]で飾[かざ]り付[つ]けた。 | Trang trí lớp học bằng hoa.
+やりつける | v2 | - | quen làm | - | - | やりつけない仕事[しごと]で疲[つか]れた。 | Làm việc không quen nên mệt.
+行[い]きつける | v2 | HÀNH | hay lui tới | 行[い]きつけ の 店[みせ] | quán quen | 行[い]きつけの店[みせ]でいつものメニューを頼[たの]んだ。 | Gọi món quen ở quán hay lui tới.
+勝[か]ち取[と]る | v1 | THẮNG THỦ | giành được | 自由[じゆう] を {勝ち取る} | giành tự do | 長[なが]い闘[たたか]いの末[すえ]、独立[どくりつ]を勝[か]ち取[と]った。 | Sau cuộc đấu tranh dài, họ đã giành được độc lập.
+つかみ取[と]る | v1 | THỦ | chộp lấy | - | - | チャンスを自分[じぶん]の手[て]でつかみ取[と]れ。 | Hãy tự tay chộp lấy cơ hội.
+聞[き]き取[と]る | v1 | VĂN THỦ | nghe rõ; lấy lời khai | - | - | 雑音[ざつおん]がひどくて声[こえ]が聞[き]き取[と]れない。 | Tạp âm quá lớn, không nghe rõ tiếng.
+乗[の]っ取[と]る | v1 | THỪA THỦ | chiếm đoạt | - | - | アカウントを乗[の]っ取[と]られた。 | Tài khoản bị chiếm đoạt.
+抜[ぬ]き取[と]る | v1 | BẠT THỦ | rút ra; lấy trộm | - | - | 財布[さいふ]から現金[げんきん]だけが抜[ぬ]き取[と]られていた。 | Chỉ có tiền mặt bị rút khỏi ví.
+読[よ]み返[かえ]す | v1 | ĐỘC PHẢN | đọc lại | - | - | 提出[ていしゅつ]前[まえ]にレポートを読[よ]み返[かえ]した。 | Đọc lại bài báo cáo trước khi nộp.
+聞[き]き返[かえ]す | v1 | VĂN PHẢN | hỏi lại | - | - | 聞[き]き取[と]れなかったので聞[き]き返[かえ]した。 | Không nghe rõ nên tôi hỏi lại.
+思[おも]い返[かえ]す | v1 | TƯ PHẢN | nhớ lại; nghĩ lại | - | - | 思[おも]い返[かえ]せば、あの時[とき]が転機[てんき]だった。 | Nghĩ lại thì lúc đó là bước ngoặt.
+見返[みかえ]す | v1 | KIẾN PHẢN | xem lại; cho biết tay | - | - | いつか成功[せいこう]して、ばかにした人[ひと]たちを見返[みかえ]してやる。 | Một ngày tôi sẽ thành công cho những kẻ chế nhạo biết tay.
+取[と]り返[かえ]す | v1 | THỦ PHẢN | lấy lại | 遅[おく]れ を {取り返す} | gỡ lại phần chậm | 一度[いちど]失[うしな]った信用[しんよう]は簡単[かんたん]には取[と]り返[かえ]せない。 | Lòng tin đã mất khó lấy lại.
+突[つ]き返[かえ]す | v1 | ĐỘT PHẢN | trả lại thẳng thừng | - | - | 書類[しょるい]の不備[ふび]を指摘[してき]されて突[つ]き返[かえ]された。 | Bị chỉ ra giấy tờ thiếu sót và trả lại thẳng thừng.
+使[つか]い切[き]る | v1 | SỬ THIẾT | dùng hết | - | - | 今月[こんげつ]の小遣[こづか]いを使[つか]い切[き]ってしまった。 | Tôi tiêu hết tiền tiêu vặt tháng này.
+出[だ]し切[き]る | v1 | XUẤT THIẾT | phát huy hết | 力[ちから] を {出し切る} | dốc hết sức | 試合[しあい]で全力[ぜんりょく]を出[だ]し切[き]った。 | Dốc toàn lực trong trận đấu.
+わかり切[き]る | v1 | THIẾT | hiển nhiên ai cũng biết | - | - | わかり切[き]ったことを何度[なんど]も言[い]わないで。 | Đừng nói mãi điều hiển nhiên.
+困[こま]り切[き]る | v1 | KHỐN THIẾT | bế tắc hoàn toàn | - | - | 道[みち]に迷[まよ]って困[こま]り切[き]っていた。 | Lạc đường và hoàn toàn bế tắc.
+澄[す]み切[き]る | v1 | TRỪNG THIẾT | trong vắt | - | - | 澄[す]み切[き]った秋[あき]の空[そら]が広[ひろ]がっている。 | Bầu trời thu trong vắt trải rộng.
+押[お]し切[き]る | v1 | ÁP THIẾT | bất chấp, gạt phăng | 反対[はんたい] を {押し切る} | bất chấp phản đối | 親[おや]の反対[はんたい]を押[お]し切[き]って結婚[けっこん]した。 | Kết hôn bất chấp bố mẹ phản đối.
+言[い]い切[き]る | v1 | NGÔN THIẾT | khẳng định chắc nịch | - | - | 「絶対[ぜったい]に勝[か]つ」と彼[かれ]は言[い]い切[き]った。 | Anh khẳng định chắc nịch "nhất định sẽ thắng".
+踏[ふ]み切[き]る | v1 | ĐẠP THIẾT | quyết định làm, dứt khoát | - | - | 会社[かいしゃ]はついに値上[ねあ]げに踏[ふ]み切[き]った。 | Công ty cuối cùng đã quyết định tăng giá.
+打[う]ち切[き]る | v1 | ĐẢ THIẾT | chấm dứt | - | - | 視聴[しちょう]率[りつ]が低[ひく]く、番組[ばんぐみ]は打[う]ち切[き]られた。 | Rating thấp nên chương trình bị chấm dứt.
+思[おも]い切[き]る | v1 | TƯ THIẾT | quyết tâm; từ bỏ | - | - | 思[おも]い切[き]って留学[りゅうがく]することにした。 | Tôi quyết tâm đi du học.
+取[と]り込[こ]む | v1 | THỦ VÀO | đưa vào; thu hút | 洗濯[せんたく] 物[もの] を {取り込む} | rút quần áo vào | 雨[あめ]が降[ふ]りそうなので洗濯[せんたく]物[もの]を取[と]り込[こ]んだ。 | Trời sắp mưa nên tôi rút quần áo vào.
+取[と]り巻[ま]く | v1 | THỦ QUYỂN | bao quanh | - | - | 子供[こども]を取[と]り巻[ま]く環境[かんきょう]は大[おお]きく変[か]わった。 | Môi trường bao quanh trẻ em đã thay đổi nhiều.
+取[と]り除[のぞ]く | v1 | THỦ TRỪ | loại bỏ | 不安[ふあん] を {取り除く} | gạt bỏ lo âu | 魚[さかな]の骨[ほね]を丁寧[ていねい]に取[と]り除[のぞ]いた。 | Gỡ xương cá cẩn thận.
+取[と]り囲[かこ]む | v1 | THỦ VI | vây quanh | - | - | 記者[きしゃ]たちが選手[せんしゅ]を取[と]り囲[かこ]んだ。 | Phóng viên vây quanh vận động viên.
+取[と]り違[ちが]える | v2 | THỦ VI | nhầm lẫn | - | - | 薬[くすり]を取[と]り違[ちが]えるミスが起[お]きた。 | Đã xảy ra lỗi nhầm thuốc.
+取[と]り乱[みだ]す | v1 | THỦ LOẠN | mất bình tĩnh | - | - | 知[し]らせを聞[き]いて彼女[かのじょ]はひどく取[と]り乱[みだ]した。 | Nghe tin, cô ấy hoàn toàn mất bình tĩnh.
+取[と]り計[はか]らう | v1 | THỦ KẾ | thu xếp | - | - | 便宜[べんぎ]を取[と]り計[はか]らっていただき感謝[かんしゃ]します。 | Cảm ơn anh đã thu xếp tạo điều kiện.
+取[と]り繕[つくろ]う | v1 | THỦ THIỆN | che đậy, làm ra vẻ | その場[ば] を {取り繕う} | chữa thẹn tạm thời | 失敗[しっぱい]をごまかして、その場[ば]を取[と]り繕[つくろ]った。 | Lấp liếm thất bại để chữa thẹn cho qua.
+取[と]り留[と]める | v2 | THỦ LƯU | giữ được | 一命[いちめい] を {取り留める} | giữ được mạng | 事故[じこ]に遭[あ]ったが一命[いちめい]を取[と]り留[と]めた。 | Gặp tai nạn nhưng giữ được mạng sống.
+取[と]り沙汰[ざた] | n,v3 | THỦ SA THẢI | lời đồn đại | - | - | 首相[しゅしょう]の辞任[じにん]が取[と]り沙汰[ざた]されている。 | Đang có lời đồn đại về việc thủ tướng từ chức.
+突[つ]き飛[と]ばす | v1 | ĐỘT PHI | đẩy văng | - | - | 男[おとこ]は通行人[つうこうにん]を突[つ]き飛[と]ばして逃[に]げた。 | Gã đàn ông đẩy văng người đi đường rồi bỏ chạy.
+突[つ]き上[あ]げる | v2 | ĐỘT THƯỢNG | giơ cao; gây sức ép từ dưới | - | - | 若手[わかて]議員[ぎいん]の突[つ]き上[あ]げで党[とう]は方針[ほうしん]を変[か]えた。 | Bị các nghị sĩ trẻ gây sức ép, đảng đổi đường lối.
+突[つ]き出[だ]す | v1 | ĐỘT XUẤT | chìa ra; giao nộp | 警察[けいさつ] に {突き出す} | giao cho cảnh sát | 店員[てんいん]は万引[まんび]き犯[はん]を警察[けいさつ]に突[つ]き出[だ]した。 | Nhân viên giao kẻ ăn cắp cho cảnh sát.
+突[つ]きつける | v2 | ĐỘT | chìa thẳng vào mặt | 証拠[しょうこ] を {突きつける} | đưa bằng chứng | 刑事[けいじ]は容疑者[ようぎしゃ]に証拠[しょうこ]を突[つ]きつけた。 | Thám tử chìa bằng chứng vào mặt nghi phạm.
+突[つ]き合[あ]わせる | v2 | ĐỘT HỢP | đối chiếu | - | - | 二人[ふたり]の証言[しょうげん]を突[つ]き合[あ]わせて矛盾[むじゅん]を探[さが]した。 | Đối chiếu lời khai hai người để tìm mâu thuẫn.
+突[つ]き止[と]める | v2 | ĐỘT CHỈ | tìm ra tận cùng | 原因[げんいん] を {突き止める} | tìm ra nguyên nhân | 専門家[せんもんか]が事故[じこ]の原因[げんいん]を突[つ]き止[と]めた。 | Chuyên gia đã tìm ra nguyên nhân sự cố.
+突[つ]き詰[つ]める | v2 | ĐỘT CẬT | truy đến cùng | - | - | 問題[もんだい]を突[つ]き詰[つ]めて考[かんが]えると、原因[げんいん]は一[ひと]つだ。 | Truy đến cùng thì nguyên nhân chỉ có một.
+飛[と]び降[お]りる | v2 | PHI GIÁNG | nhảy xuống | - | - | 猫[ねこ]が塀[へい]から飛[と]び降[お]りた。 | Con mèo nhảy xuống từ bờ tường.
+飛[と]び歩[ある]く | v1 | PHI BỘ | đi khắp nơi | - | - | 彼[かれ]は仕事[しごと]で世界[せかい]中[じゅう]を飛[と]び歩[ある]いている。 | Anh đi khắp thế giới vì công việc.
+飛[と]び起[お]きる | v2 | PHI KHỞI | bật dậy | - | - | 目覚[めざ]まし時計[どけい]の音[おと]で飛[と]び起[お]きた。 | Bật dậy vì tiếng đồng hồ báo thức.
+飛[と]びつく | v1 | PHI | chộp lấy, lao vào | - | - | 安[やす]い話[はなし]にすぐ飛[と]びつくのは危険[きけん]だ。 | Vội lao vào lời mời rẻ là nguy hiểm.
+飛[と]び散[ち]る | v1 | PHI TÁN | văng tung tóe | - | - | 割[わ]れたガラスが床[ゆか]に飛[と]び散[ち]った。 | Kính vỡ văng tung tóe khắp sàn.
+飛[と]び跳[は]ねる | v2 | PHI KHIÊU | nhảy cẫng | - | - | 合格[ごうかく]を知[し]って飛[と]び跳[は]ねて喜[よろこ]んだ。 | Biết tin đỗ, tôi nhảy cẫng lên vui mừng.
+差[さ]し出[だ]す | v1 | SAI XUẤT | chìa ra; gửi | - | - | 彼[かれ]は名刺[めいし]を両手[りょうて]で差[さ]し出[だ]した。 | Anh đưa danh thiếp bằng hai tay.
+差[さ]し伸[の]べる | v2 | SAI THÂN | chìa (tay giúp đỡ) | 手[て] を {差し伸べる} | chìa tay giúp | 困[こま]っている人[ひと]に手[て]を差[さ]し伸[の]べたい。 | Tôi muốn chìa tay giúp người gặp khó.
+差[さ]し挟[はさ]む | v1 | SAI HIỆP | chen vào | 疑問[ぎもん] を {差し挟む} | nêu nghi ngờ | 彼[かれ]の説明[せつめい]に疑問[ぎもん]を差[さ]し挟[はさ]む余地[よち]はない。 | Không có chỗ để nghi ngờ lời giải thích của anh.
+差[さ]し引[ひ]く | v1 | SAI DẪN | khấu trừ | - | - | 給料[きゅうりょう]から税金[ぜいきん]が差[さ]し引[ひ]かれる。 | Thuế được khấu trừ từ lương.
+差[さ]し控[ひか]える | v2 | SAI KHỐNG | kiềm chế, xin không | 発言[はつげん] を {差し控える} | xin không bình luận | その件[けん]についてのコメントは差[さ]し控[ひか]えます。 | Tôi xin không bình luận về việc đó.
+差[さ]し替[か]える | v2 | SAI THẾ | thay thế | - | - | 資料[しりょう]の古[ふる]いデータを最新[さいしん]のものに差[さ]し替[か]えた。 | Thay dữ liệu cũ trong tài liệu bằng dữ liệu mới nhất.
+差[さ]し迫[せま]る | v1 | SAI BÁCH | cận kề | - | - | 締[し]め切[き]りが差[さ]し迫[せま]っている。 | Hạn chót đang cận kề.
+引[ひ]き上[あ]げる | v2 | DẪN THƯỢNG | nâng lên; kéo lên | - | - | 政府[せいふ]は最低[さいてい]賃金[ちんぎん]を引[ひ]き上[あ]げた。 | Chính phủ nâng lương tối thiểu.
+引[ひ]き揚[あ]げる | v2 | DẪN DƯƠNG | rút về; trục vớt | - | - | 戦後[せんご]、多[おお]くの人[ひと]が大陸[たいりく]から引[ひ]き揚[あ]げた。 | Sau chiến tranh, nhiều người rút về từ đại lục.
+引[ひ]き下[さ]がる | v1 | DẪN HẠ | lui bước | - | - | ここで引[ひ]き下[さ]がるわけにはいかない。 | Không thể lui bước ở đây được.
+引[ひ]き下[さ]げる | v2 | DẪN HẠ | hạ xuống | - | - | 中央[ちゅうおう]銀行[ぎんこう]は金利[きんり]を引[ひ]き下[さ]げた。 | Ngân hàng trung ương hạ lãi suất.
+引[ひ]き取[と]る | v1 | DẪN THỦ | nhận về; lui về | - | - | 不要[ふよう]になった家具[かぐ]を業者[ぎょうしゃ]に引[ひ]き取[と]ってもらった。 | Nhờ thợ thu mua đồ đạc không dùng nữa.
+引[ひ]きずる | v1 | DẪN | kéo lê; vương vấn | - | - | 失恋[しつれん]をいつまでも引[ひ]きずっている。 | Mãi vẫn vương vấn chuyện thất tình.
+引[ひ]き締[し]める | v2 | DẪN ĐẾ | thắt chặt | 気[き] を {引き締める} | chấn chỉnh tinh thần | 試合[しあい]前[まえ]に気[き]を引[ひ]き締[し]めた。 | Trước trận đấu tôi chấn chỉnh tinh thần.
+引[ひ]きこもる | v1 | DẪN | ở lì trong nhà | - | - | 彼[かれ]は退職[たいしょく]後[ご]、家[いえ]に引[ひ]きこもりがちだ。 | Sau khi nghỉ việc, ông hay ở lì trong nhà.
+引[ひ]き伸[の]ばす | v1 | DẪN THÂN | phóng to; kéo dài | - | - | 気[き]に入[い]った写真[しゃしん]を引[ひ]き伸[の]ばして飾[かざ]った。 | Phóng to bức ảnh ưng ý để treo.
+引[ひ]き延[の]ばす | v1 | DẪN DIÊN | trì hoãn | 回答[かいとう] を {引き延ばす} | hoãn trả lời | 返事[へんじ]を引[ひ]き延[の]ばしても問題[もんだい]は解決[かいけつ]しない。 | Trì hoãn trả lời cũng không giải quyết được vấn đề.
+引[ひ]き起[お]こす | v1 | DẪN KHỞI | gây ra | 事故[じこ] を {引き起こす} | gây tai nạn | 小[ちい]さな不注意[ふちゅうい]が大事故[だいじこ]を引[ひ]き起[お]こす。 | Một chút bất cẩn gây ra tai nạn lớn.
+引[ひ]き抜[ぬ]く | v1 | DẪN BẠT | nhổ; săn (nhân tài) | - | - | ライバル会社[がいしゃ]に優秀[ゆうしゅう]な社員[しゃいん]を引[ひ]き抜[ぬ]かれた。 | Nhân viên giỏi bị công ty đối thủ săn mất.
+引[ひ]き寄[よ]せる | v2 | DẪN KÝ | kéo lại gần; thu hút | - | - | 彼女[かのじょ]は子供[こども]を引[ひ]き寄[よ]せて抱[だ]きしめた。 | Cô kéo đứa trẻ lại ôm chặt.
+引[ひ]き離[はな]す | v1 | DẪN LY | tách ra; bỏ xa | - | - | 先頭[せんとう]のランナーが二位[にい]を大[おお]きく引[ひ]き離[はな]した。 | Người dẫn đầu bỏ xa người thứ hai.
+引[ひ]き換[か]える | v2 | DẪN HOÁN | đổi lấy | - | - | 引換券[ひきかえけん]を景品[けいひん]と引[ひ]き換[か]えた。 | Đổi phiếu lấy quà.
+引[ひ]き立[た]てる | v2 | DẪN LẬP | làm nổi bật; nâng đỡ | 味[あじ] を {引き立てる} | tôn vị | 塩[しお]が素材[そざい]の甘[あま]みを引[ひ]き立[た]てる。 | Muối làm nổi bật vị ngọt của nguyên liệu.
+引[ひ]き戻[もど]す | v1 | DẪN LỆ | kéo trở lại | 現実[げんじつ] に {引き戻す} | kéo về thực tại | 電話[でんわ]の音[おと]で現実[げんじつ]に引[ひ]き戻[もど]された。 | Tiếng điện thoại kéo tôi về thực tại.
+引[ひ]き払[はら]う | v1 | DẪN PHẤT | dọn đi hẳn | - | - | 東京[とうきょう]の部屋[へや]を引[ひ]き払[はら]って故郷[こきょう]に戻[もど]った。 | Trả phòng ở Tokyo, tôi về quê.
+振[ふ]り返[かえ]る | v1 | CHẤN PHẢN | ngoảnh lại; nhìn lại | 一年[いちねん] を {振り返る} | nhìn lại một năm | 名前[なまえ]を呼[よ]ばれて振[ふ]り返[かえ]った。 | Bị gọi tên, tôi ngoảnh lại.
+振[ふ]り替[か]える | v2 | CHẤN THẾ | chuyển đổi | 振替[ふりかえ] 休日[きゅうじつ] | ngày nghỉ bù | 雨[あめ]で中止[ちゅうし]になった授業[じゅぎょう]を来週[らいしゅう]に振[ふ]り替[か]えた。 | Chuyển buổi học bị hủy vì mưa sang tuần sau.
+打[う]ち出[だ]す | v1 | ĐẢ XUẤT | đưa ra (phương châm) | - | - | 政府[せいふ]は新[あら]たな経済[けいざい]対策[たいさく]を打[う]ち出[だ]した。 | Chính phủ đưa ra biện pháp kinh tế mới.
+打[う]ち合[あ]わせる | v2 | ĐẢ HỢP | bàn bạc trước | - | - | 明日[あした]の段取[だんど]りを打[う]ち合[あ]わせた。 | Bàn bạc trước trình tự ngày mai.
+打[う]ち砕[くだ]く | v1 | ĐẢ TOÁI | đập tan | 夢[ゆめ] を {打ち砕く} | đập tan giấc mơ | 一[ひと]つのけがが彼[かれ]の夢[ゆめ]を打[う]ち砕[くだ]いた。 | Một chấn thương đã đập tan giấc mơ của anh.
+打[う]ち勝[か]つ | v1 | ĐẢ THẮNG | vượt qua, chiến thắng | 病気[びょうき] に {打ち勝つ} | chiến thắng bệnh tật | 彼女[かのじょ]は困難[こんなん]に打[う]ち勝[か]って夢[ゆめ]をかなえた。 | Cô vượt qua khó khăn để thực hiện ước mơ.
+打[う]ち負[ま]かす | v1 | ĐẢ PHỤ | đánh bại | - | - | 無名[むめい]の選手[せんしゅ]が王者[おうじゃ]を打[う]ち負[ま]かした。 | Tuyển thủ vô danh đánh bại nhà vô địch.
+打[う]ちのめす | v1 | ĐẢ | đánh gục | - | - | 父[ちち]の死[し]に彼[かれ]は打[う]ちのめされた。 | Anh bị đánh gục trước cái chết của cha.
+打[う]ち立[た]てる | v2 | ĐẢ LẬP | thiết lập | 記録[きろく] を {打ち立てる} | lập kỷ lục | 彼[かれ]は世界[せかい]新[しん]記録[きろく]を打[う]ち立[た]てた。 | Anh lập kỷ lục thế giới mới.
+打[う]ち寄[よ]せる | v2 | ĐẢ KÝ | (sóng) xô vào | - | - | 波[なみ]が岩[いわ]に打[う]ち寄[よ]せている。 | Sóng xô vào ghềnh đá.
+見過[みす]ごす | v1 | KIẾN QUÁ | bỏ qua, làm ngơ | - | - | いじめを見過[みす]ごすことはできない。 | Không thể làm ngơ trước bắt nạt.
+見届[みとど]ける | v2 | KIẾN GIỚI | chứng kiến đến cùng | - | - | 子供[こども]の成長[せいちょう]を最後[さいご]まで見届[みとど]けたい。 | Tôi muốn chứng kiến con trưởng thành đến cùng.
+見入[みい]る | v1 | KIẾN NHẬP | chăm chú nhìn | - | - | 子供[こども]たちは水槽[すいそう]の魚[さかな]に見入[みい]っていた。 | Bọn trẻ chăm chú nhìn cá trong bể.
+見極[みきわ]める | v2 | KIẾN CỰC | nhận định rõ | - | - | 状況[じょうきょう]をよく見極[みきわ]めてから判断[はんだん]する。 | Nhìn rõ tình hình rồi mới phán đoán.
+見抜[みぬ]く | v1 | KIẾN BẠT | nhìn thấu | 嘘[うそ] を {見抜く} | nhìn thấu lời nói dối | 母[はは]は私[わたし]の嘘[うそ]をすぐに見抜[みぬ]いた。 | Mẹ nhìn thấu lời nói dối của tôi ngay.
+見通[みとお]す | v1 | KIẾN THÔNG | dự liệu, nhìn xa | - | - | 十[じゅう]年[ねん]先[さき]を見通[みとお]して計画[けいかく]を立[た]てる。 | Lập kế hoạch nhìn xa mười năm.
+見計[みはか]らう | v1 | KIẾN KẾ | canh (thời điểm) | - | - | 頃合[ころあ]いを見計[みはか]らって話[はなし]を切[き]り出[だ]した。 | Canh đúng lúc rồi mở lời.
+見張[みは]る | v1 | KIẾN TRƯƠNG | canh gác; tròn mắt | 目[め] を {見張る} | tròn mắt kinh ngạc | その美[うつく]しさに目[め]を見張[みは]った。 | Tôi tròn mắt trước vẻ đẹp đó.
+見守[みまも]る | v1 | KIẾN THỦ | dõi theo | - | - | 両親[りょうしん]はいつも温[あたた]かく見守[みまも]ってくれた。 | Bố mẹ luôn ấm áp dõi theo tôi.
+見損[みそこ]なう | v1 | KIẾN TỔN | đánh giá sai; lỡ xem | - | - | あんなことをするなんて、君[きみ]を見損[みそこ]なったよ。 | Làm chuyện như thế, tôi đã đánh giá sai cậu.
+見[み]せつける | v2 | KIẾN | phô ra, cho thấy rõ | 実力[じつりょく] を {見せつける} | phô diễn thực lực | 王者[おうじゃ]は圧倒[あっとう]的[てき]な強[つよ]さを見[み]せつけた。 | Nhà vô địch phô diễn sức mạnh áp đảo.
+見[み]なす | v1 | KIẾN | coi như, xem là | - | - | 連絡[れんらく]がない場合[ばあい]は欠席[けっせき]と見[み]なします。 | Không liên lạc sẽ được coi là vắng mặt.
+見[み]いだす | v1 | KIẾN | tìm ra, phát hiện | 意味[いみ] を {見いだす} | tìm thấy ý nghĩa | 彼[かれ]は仕事[しごと]に生[い]きがいを見[み]いだした。 | Anh tìm thấy lẽ sống trong công việc.
+言[い]い直[なお]す | v1 | NGÔN TRỰC | nói lại cho đúng | - | - | 間違[まちが]えたので言[い]い直[なお]した。 | Nói sai nên tôi nói lại.
+言[い]い当[あ]てる | v2 | NGÔN ĐƯƠNG | đoán trúng | - | - | 彼女[かのじょ]は私[わたし]の年齢[ねんれい]をぴたりと言[い]い当[あ]てた。 | Cô đoán trúng phóc tuổi tôi.
+言[い]い聞[き]かせる | v2 | NGÔN VĂN | khuyên bảo | 自分[じぶん] に {言い聞かせる} | tự nhủ | 「大丈夫[だいじょうぶ]」と自分[じぶん]に言[い]い聞[き]かせた。 | Tôi tự nhủ "không sao đâu".
+言[い]い残[のこ]す | v1 | NGÔN TÀN | dặn lại | - | - | 父[ちち]は「家族[かぞく]を頼[たの]む」と言[い]い残[のこ]した。 | Bố dặn lại "trông nom gia đình nhé".
+言[い]い漏[も]らす | v1 | NGÔN LẬU | quên nói | - | - | 大事[だいじ]なことを言[い]い漏[も]らしていた。 | Tôi đã quên nói điều quan trọng.
+言[い]い過[す]ぎる | v2 | NGÔN QUÁ | nói quá lời | - | - | 昨日[きのう]は言[い]い過[す]ぎた。ごめん。 | Hôm qua tôi nói quá lời, xin lỗi.
+書[か]き換[か]える | v2 | THƯ HOÁN | viết lại; thay đổi | 記録[きろく] を {書き換える} | phá kỷ lục | 彼[かれ]は日本[にほん]記録[きろく]を書[か]き換[か]えた。 | Anh ta đã viết lại kỷ lục Nhật Bản.
+書[か]き留[と]める | v2 | THƯ LƯU | ghi lại | - | - | 思[おも]いついたことを手帳[てちょう]に書[か]き留[と]める。 | Ghi lại những gì chợt nghĩ ra vào sổ tay.
+書[か]き添[そ]える | v2 | THƯ THIÊM | viết thêm | - | - | 年賀状[ねんがじょう]に一言[ひとこと]書[か]き添[そ]えた。 | Viết thêm một câu vào thiệp năm mới.
+書[か]き記[しる]す | v1 | THƯ KÝ | ghi chép | - | - | 祖母[そぼ]は戦争[せんそう]の体験[たいけん]を書[か]き記[しる]した。 | Bà tôi ghi chép lại trải nghiệm chiến tranh.
+読[よ]み流[なが]す | v1 | ĐỘC LƯU | đọc lướt | - | - | 契約[けいやく]書[しょ]を読[よ]み流[なが]すのは危険[きけん]だ。 | Đọc lướt hợp đồng là nguy hiểm.
+読[よ]みふける | v2 | ĐỘC | mải mê đọc | - | - | 夜遅[よるおそ]くまで推理[すいり]小説[しょうせつ]を読[よ]みふけった。 | Mải mê đọc tiểu thuyết trinh thám đến khuya.
+聞[き]き入[い]れる | v2 | VĂN NHẬP | chấp nhận (yêu cầu) | - | - | 会社[かいしゃ]は組合[くみあい]の要求[ようきゅう]を聞[き]き入[い]れた。 | Công ty chấp nhận yêu cầu của công đoàn.
+聞[き]き流[なが]す | v1 | VĂN LƯU | nghe bỏ ngoài tai | - | - | 悪口[わるぐち]は聞[き]き流[なが]すのがいい。 | Lời nói xấu nên bỏ ngoài tai.
+聞[き]き入[い]る | v1 | VĂN NHẬP | lắng nghe say sưa | - | - | 観客[かんきゃく]は彼女[かのじょ]の歌[うた]に聞[き]き入[い]っていた。 | Khán giả say sưa lắng nghe cô hát.
+聞[き]き逃[のが]す | v1 | VĂN ĐÀO | nghe sót | - | - | 大事[だいじ]な説明[せつめい]を聞[き]き逃[のが]してしまった。 | Tôi nghe sót phần giải thích quan trọng.
+聞[き]き込[こ]む | v1 | VĂN VÀO | đi dò hỏi | - | - | 刑事[けいじ]は近所[きんじょ]の人[ひと]に聞[き]き込[こ]みをした。 | Thám tử đi dò hỏi hàng xóm.
+思[おも]い込[こ]む | v1 | TƯ VÀO | đinh ninh | - | - | 今日[きょう]は休[やす]みだと思[おも]い込[こ]んでいた。 | Tôi cứ đinh ninh hôm nay được nghỉ.
+思[おも]い詰[つ]める | v2 | TƯ CẬT | nghĩ quẩn | - | - | そんなに思[おも]い詰[つ]めないで、誰[だれ]かに相談[そうだん]して。 | Đừng nghĩ quẩn thế, hãy tâm sự với ai đó.
+思[おも]い立[た]つ | v1 | TƯ LẬP | chợt quyết định | 思[おも]い立[た]ったが 吉日[きちじつ] | nghĩ là làm | 思[おも]い立[た]って一人[ひとり]旅[たび]に出[で]た。 | Chợt nảy ý, tôi lên đường đi du lịch một mình.
+思[おも]い至[いた]る | v1 | TƯ CHÍ | chợt nhận ra | - | - | 母[はは]の苦労[くろう]に思[おも]い至[いた]った。 | Tôi chợt nhận ra nỗi vất vả của mẹ.
+思[おも]い起[お]こす | v1 | TƯ KHỞI | hồi tưởng | - | - | 写真[しゃしん]を見[み]て学生[がくせい]時代[じだい]を思[おも]い起[お]こした。 | Nhìn ảnh hồi tưởng thời sinh viên.
+思[おも]い巡[めぐ]らす | v1 | TƯ TUẦN | suy đi tính lại | - | - | あれこれ思[おも]い巡[めぐ]らして眠[ねむ]れなかった。 | Suy đi tính lại nên không ngủ được.
+思[おも]いとどまる | v1 | TƯ | từ bỏ ý định | - | - | 友人[ゆうじん]に説得[せっとく]されて退学[たいがく]を思[おも]いとどまった。 | Được bạn thuyết phục, tôi bỏ ý định thôi học.
+思[おも]い知[し]る | v1 | TƯ TRI | thấm thía | - | - | 自分[じぶん]の未熟[みじゅく]さを思[おも]い知[し]った。 | Tôi thấm thía sự non nớt của mình.
+思[おも]い浮[う]かぶ | v1 | TƯ PHÙ | chợt nảy ra | - | - | いいアイデアが思[おも]い浮[う]かんだ。 | Một ý hay chợt nảy ra.
+思[おも]い描[えが]く | v1 | TƯ MIÊU | hình dung | - | - | 思[おも]い描[えが]いていた生活[せいかつ]とは違[ちが]った。 | Khác với cuộc sống tôi đã hình dung.
+立[た]ち去[さ]る | v1 | LẬP KHỨ | rời đi | - | - | 彼[かれ]は何[なに]も言[い]わずに立[た]ち去[さ]った。 | Anh rời đi không nói một lời.
+立[た]ち向[む]かう | v1 | LẬP HƯỚNG | đương đầu | - | - | 困難[こんなん]に立[た]ち向[む]かう勇気[ゆうき]がほしい。 | Tôi muốn có dũng khí đương đầu khó khăn.
+立[た]ち会[あ]う | v1 | LẬP HỘI | chứng kiến, có mặt | - | - | 出産[しゅっさん]に夫[おっと]が立[た]ち会[あ]った。 | Người chồng có mặt khi vợ sinh.
+立[た]ち入[い]る | v1 | LẬP NHẬP | đi vào; can dự | 立[た]ち入[い]り 禁止[きんし] | cấm vào | 個人[こじん]的[てき]なことには立[た]ち入[い]らないでほしい。 | Mong đừng can dự vào chuyện riêng tư.
+立[た]ち遅[おく]れる | v2 | LẬP TRÌ | tụt hậu | - | - | 日本[にほん]はデジタル化[か]で立[た]ち遅[おく]れている。 | Nhật Bản đang tụt hậu về số hóa.
+立[た]ち尽[つ]くす | v1 | LẬP TẬN | đứng sững | - | - | 焼[や]け跡[あと]を前[まえ]に彼[かれ]は立[た]ち尽[つ]くした。 | Anh đứng sững trước đống tro tàn.
+立[た]ちはだかる | v1 | LẬP | chắn ngang | - | - | 大[おお]きな壁[かべ]が目[め]の前[まえ]に立[た]ちはだかった。 | Một bức tường lớn chắn ngang trước mắt.
+立[た]ち込[こ]める | v2 | LẬP VÀO | bao phủ, giăng | - | - | 谷[たに]には濃[こ]い霧[きり]が立[た]ち込[こ]めていた。 | Sương mù dày đặc giăng khắp thung lũng.
+立[た]ち退[の]く | v1 | LẬP THOÁI | rời khỏi, dọn đi | - | - | 住民[じゅうみん]は工事[こうじ]のため立[た]ち退[の]くことになった。 | Cư dân phải dọn đi vì công trình.
+立[た]て直[なお]す | v1 | LẬP TRỰC | chấn chỉnh, gây dựng lại | 体勢[たいせい] を {立て直す} | lấy lại thế | 経営[けいえい]を立[た]て直[なお]すのに五[ご]年[ねん]かかった。 | Mất năm năm để chấn chỉnh kinh doanh.
+立[た]て込[こ]む | v1 | LẬP VÀO | bận rộn dồn dập | - | - | 今週[こんしゅう]は仕事[しごと]が立[た]て込[こ]んでいる。 | Tuần này công việc dồn dập.
+立[た]て続[つづ]け | n | LẬP TỤC | liên tiếp | {立て続け} に | liên tục | 立[た]て続[つづ]けに三[みっ]つの事件[じけん]が起[お]きた。 | Ba vụ việc xảy ra liên tiếp.
+持[も]ち込[こ]む | v1 | TRÌ VÀO | mang vào; đưa đến | - | - | 機内[きない]に液体[えきたい]は持[も]ち込[こ]めない。 | Không được mang chất lỏng lên máy bay.
+持[も]ち去[さ]る | v1 | TRÌ KHỨ | mang đi mất | - | - | 誰[だれ]かに自転車[じてんしゃ]を持[も]ち去[さ]られた。 | Xe đạp bị ai đó lấy mất.
+持[も]ち越[こ]す | v1 | TRÌ VIỆT | để sang sau | - | - | 結論[けつろん]は次回[じかい]に持[も]ち越[こ]された。 | Kết luận được để sang lần sau.
+持[も]ち寄[よ]る | v1 | TRÌ KÝ | mỗi người mang góp | - | - | 料理[りょうり]を持[も]ち寄[よ]ってパーティーをした。 | Mỗi người mang một món đến góp tiệc.
+持[も]ちこたえる | v2 | TRÌ | cầm cự | - | - | この堤防[ていぼう]で洪水[こうずい]を持[も]ちこたえられるだろうか。 | Con đê này liệu có cầm cự nổi lũ không?
+持[も]て余[あま]す | v1 | TRÌ DƯ | không biết xử lý thế nào | 暇[ひま] を {持て余す} | rảnh không biết làm gì | 退職[たいしょく]後[ご]、父[ちち]は暇[ひま]を持[も]て余[あま]している。 | Sau khi nghỉ hưu, bố tôi rảnh không biết làm gì.
+追[お]い詰[つ]める | v2 | TRUY CẬT | dồn vào đường cùng | - | - | 犯人[はんにん]を屋上[おくじょう]に追[お]い詰[つ]めた。 | Dồn hung thủ lên sân thượng.
+追[お]い払[はら]う | v1 | TRUY PHẤT | xua đuổi | - | - | 畑[はたけ]に来[く]るカラスを追[お]い払[はら]った。 | Xua lũ quạ bay vào ruộng.
+追[お]い求[もと]める | v2 | TRUY CẦU | theo đuổi | 夢[ゆめ] を {追い求める} | theo đuổi ước mơ | 彼[かれ]は一生[いっしょう]理想[りそう]を追[お]い求[もと]めた。 | Ông theo đuổi lý tưởng cả đời.
+追[お]い打[う]ち | n | TRUY ĐẢ | đòn giáng thêm | {追い打ち} を かける | giáng thêm đòn | 不況[ふきょう]に増税[ぞうぜい]が追[お]い打[う]ちをかけた。 | Tăng thuế giáng thêm đòn vào suy thoái.
+押[お]し上[あ]げる | v2 | ÁP THƯỢNG | đẩy lên | - | - | 円安[えんやす]が物価[ぶっか]を押[お]し上[あ]げた。 | Yên yếu đẩy giá cả lên.
+押[お]し下[さ]げる | v2 | ÁP HẠ | đẩy xuống | - | - | 需要[じゅよう]の減少[げんしょう]が価格[かかく]を押[お]し下[さ]げた。 | Nhu cầu giảm đẩy giá xuống.
+押[お]し通[とお]す | v1 | ÁP THÔNG | khăng khăng giữ | 意見[いけん] を {押し通す} | khăng khăng ý mình | 彼[かれ]は最後[さいご]まで自分[じぶん]の意見[いけん]を押[お]し通[とお]した。 | Anh khăng khăng giữ ý mình đến cùng.
+押[お]し出[だ]す | v1 | ÁP XUẤT | đẩy ra; nhấn mạnh | - | - | 新[あたら]しい広告[こうこく]は安全[あんぜん]性[せい]を前面[ぜんめん]に押[お]し出[だ]している。 | Quảng cáo mới đẩy mạnh tính an toàn lên hàng đầu.
+押[お]し返[かえ]す | v1 | ÁP PHẢN | đẩy lùi lại | - | - | 守備[しゅび]陣[じん]が相手[あいて]の攻撃[こうげき]を押[お]し返[かえ]した。 | Hàng phòng ngự đẩy lùi đợt tấn công đối phương.
+押[お]し戻[もど]す | v1 | ÁP LỆ | đẩy trở lại | - | - | 強[つよ]い風[かぜ]に押[お]し戻[もど]されて進[すす]めない。 | Gió mạnh đẩy lùi lại, không tiến được.
+押[お]し流[なが]す | v1 | ÁP LƯU | cuốn trôi | - | - | 洪水[こうずい]で橋[はし]が押[お]し流[なが]された。 | Lũ cuốn trôi cây cầu.
+押[お]しのける | v2 | ÁP | gạt sang bên | - | - | 人[ひと]を押[お]しのけて前[まえ]に出[で]るのはマナー違反[いはん]だ。 | Gạt người khác để chen lên là vi phạm phép lịch sự.
+押[お]しつぶす | v1 | ÁP | đè bẹp | - | - | 雪[ゆき]の重[おも]みで小屋[こや]が押[お]しつぶされた。 | Túp lều bị sức nặng của tuyết đè bẹp.
+刹那[せつな] | n | SÁT NA | sát-na, khoảnh khắc | {刹那}の出来事[できごと] | sự việc trong khoảnh khắc | 刹那[せつな]の判断[はんだん]が命[いのち]を救[すく]った。 | Quyết định trong khoảnh khắc đã cứu mạng.
+瞬時[しゅんじ] | n | THUẤN THỜI | tức thì | {瞬時}に判断[はんだん]する | phán đoán tức thì | コンピュータが瞬時[しゅんじ]にデータを処理[しょり]する。 | Máy tính xử lý dữ liệu tức thì.
+一刻[いっこく] | n | NHẤT KHẮC | một khắc, chốc lát | {一刻}も早[はや]く | nhanh nhất có thể | 一刻[いっこく]も早[はや]く病院[びょういん]に運[はこ]ばなければ。 | Phải đưa đến bệnh viện nhanh nhất có thể.
+当面[とうめん] | n | ĐƯƠNG DIỆN | trước mắt | {当面}の課題[かだい] | vấn đề trước mắt | 当面[とうめん]の問題[もんだい]を解決[かいけつ]することが先決[せんけつ]だ。 | Giải quyết vấn đề trước mắt là ưu tiên hàng đầu.
+暫定[ざんてい] | n | TẠM ĐỊNH | tạm thời | {暫定}的[てき]な措置[そち] | biện pháp tạm thời | 暫定[ざんてい]政権[せいけん]が発足[ほっそく]した。 | Chính quyền tạm thời được thành lập.
+永遠[えいえん] | n | VĨNH VIỄN | vĩnh viễn | {永遠}の愛[あい] | tình yêu vĩnh viễn | 永遠[えいえん]に忘[わす]れないと誓[ちか]った。 | Thề sẽ không bao giờ quên.
+永劫[えいごう] | n | VĨNH KIẾP | vĩnh kiếp | 未来[みらい]{永劫} | mãi mãi về sau | 未来[みらい]永劫[えいごう]語[かた]り継[つ]がれるだろう。 | Sẽ được truyền lại mãi mãi về sau.
+悠久[ゆうきゅう] | n | DU CỬU | lâu dài, vĩnh hằng | {悠久}の歴史[れきし] | lịch sử lâu dài | 悠久[ゆうきゅう]の歴史[れきし]を持[も]つ古都[こと]を訪[おとず]れた。 | Thăm cố đô có lịch sử lâu dài.
+太古[たいこ] | n | THÁI CỔ | thời thái cổ | {太古}の昔[むかし] | thuở thái cổ | 太古[たいこ]の昔[むかし]から人[ひと]は火[ひ]を使[つか]ってきた。 | Con người đã dùng lửa từ thuở thái cổ.
+大昔[おおむかし] | n | ĐẠI TÍCH | xa xưa | {大昔}の話[はなし] | chuyện ngày xưa | 大昔[おおむかし]この辺[あた]りは海[うみ]だった。 | Ngày xưa vùng này là biển.
+古来[こらい] | n | CỔ LAI | từ xưa đến nay | {古来}の伝統[でんとう] | truyền thống từ xưa | 古来[こらい]より桜[さくら]は日本[にほん]人[じん]に愛[あい]されてきた。 | Từ xưa đến nay hoa anh đào được người Nhật yêu mến.
+本源[ほんげん] | n | BẢN NGUYÊN | bản nguyên, nguồn gốc | {本源}を探[さぐ]る | tìm nguồn gốc | 問題[もんだい]の本源[ほんげん]を探[さぐ]る必要[ひつよう]がある。 | Cần tìm nguồn gốc của vấn đề.
+根源[こんげん] | n | CĂN NGUYÊN | căn nguyên | 問題[もんだい]の{根源} | căn nguyên vấn đề | 貧困[ひんこん]の根源[こんげん]に迫[せま]る。 | Đi sâu vào căn nguyên của nghèo đói.
+淵源[えんげん] | n | UYÊN NGUYÊN | nguồn gốc sâu xa | {淵源}を辿[たど]る | truy tìm nguồn gốc | この風習[ふうしゅう]の淵源[えんげん]は平安[へいあん]時代[じだい]にある。 | Nguồn gốc sâu xa của phong tục này là từ thời Heian.
+元来[がんらい] | adv | NGUYÊN LAI | vốn dĩ | {元来}の意味[いみ] | ý nghĩa vốn dĩ | 元来[がんらい]この言葉[ことば]は別[べつ]の意味[いみ]だった。 | Vốn dĩ từ này có nghĩa khác.
+当初[とうしょ] | n | ĐƯƠNG SƠ | ban đầu | {当初}の予定[よてい] | kế hoạch ban đầu | 当初[とうしょ]の計画[けいかく]から大[おお]きく変[か]わった。 | Thay đổi lớn so với kế hoạch ban đầu.
+初頭[しょとう] | n | SƠ ĐẦU | đầu (thế kỷ, năm) | 21世紀[せいき]{初頭} | đầu thế kỷ 21 | 20世紀[せいき]初頭[しょとう]に発明[はつめい]された技術[ぎじゅつ]だ。 | Là công nghệ được phát minh vào đầu thế kỷ 20.
+巻頭[かんとう] | n | QUYỂN ĐẦU | đầu sách, đầu tập | {巻頭}言[げん] | lời nói đầu | 巻頭[かんとう]に著者[ちょしゃ]の挨拶[あいさつ]が載[の]っている。 | Lời chào của tác giả đăng ở đầu sách.
+劈頭[へきとう] | n | PHÁCH ĐẦU | ngay từ đầu | {劈頭}に述[の]べる | nêu ngay từ đầu | 劈頭[へきとう]に結論[けつろん]を述[の]べた。 | Nêu kết luận ngay từ đầu.
+中盤[ちゅうばん] | n | TRUNG BÀN | giữa trận | {中盤}に差[さ]し掛[か]かる | bước vào giữa trận | 試合[しあい]は中盤[ちゅうばん]に差[さ]し掛[か]かった。 | Trận đấu bước vào giữa trận.
+佳境[かきょう] | n | GIA CẢNH | cao trào | {佳境}に入[はい]る | vào cao trào | 物語[ものがたり]がいよいよ佳境[かきょう]に入[はい]った。 | Câu chuyện rốt cuộc đã vào cao trào.
+終盤[しゅうばん] | n | CHUNG BÀN | cuối trận | {終盤}に逆転[ぎゃくてん]する | lật ngược cuối trận | 終盤[しゅうばん]で劇的[げきてき]な逆転[ぎゃくてん]が起[お]きた。 | Lật ngược kịch tính ở cuối trận.
+終焉[しゅうえん] | n | CHUNG YÊN | kết thúc, cáo chung | {終焉}を迎[むか]える | đón cáo chung | 帝国[ていこく]が終焉[しゅうえん]を迎[むか]えた。 | Đế quốc đã cáo chung.
+末尾[まつび] | n | MẠT VĨ | cuối cùng | {末尾}に記載[きさい]する | ghi ở cuối | 文書[ぶんしょ]の末尾[まつび]に署名[しょめい]する。 | Ký tên ở cuối văn bản.
+大[おお]詰[づ]め | n | ĐẠI CÚ | đoạn kết, giai đoạn cuối | {大[おお]詰[づ]め}を迎[むか]える | bước vào giai đoạn cuối | 交渉[こうしょう]が大詰[おおづ]めを迎[むか]えている。 | Đàm phán bước vào giai đoạn cuối.
+遠近[えんきん] | n | VIỄN CẬN | xa gần | {遠近}法[ほう] | phép phối cảnh | 遠近[えんきん]法[ほう]を使[つか]って奥行[おくゆ]きを表現[ひょうげん]する。 | Dùng phép phối cảnh để biểu hiện chiều sâu.
+至近[しきん] | n | CHÍ CẬN | rất gần | {至近}距離[きょり] | cự ly rất gần | 至近[しきん]距離[きょり]で爆発[ばくはつ]が起[お]きた。 | Vụ nổ xảy ra ở cự ly rất gần.
+近傍[きんぼう] | n | CẬN BÀNG | lân cận | {近傍}の住民[じゅうみん] | cư dân lân cận | 工場[こうじょう]近傍[きんぼう]の住民[じゅうみん]が騒音[そうおん]に苦[くる]しんでいる。 | Cư dân lân cận nhà máy chịu khổ vì tiếng ồn.
+遠方[えんぽう] | n | VIỄN PHƯƠNG | xa xôi | {遠方}から来[く]る | đến từ xa | 遠方[えんぽう]からわざわざ来[き]てくださった。 | Đặc biệt đến từ nơi xa.
+彼方[かなた] | n | BỈ PHƯƠNG | phía xa kia | {彼方}に見[み]える | nhìn thấy ở phía xa | 山[やま]の彼方[かなた]に太陽[たいよう]が沈[しず]んだ。 | Mặt trời lặn phía bên kia núi.
+此方[こなた] | n | THỬ PHƯƠNG | phía này | {此方}に来[く]る | đến phía này | 此方[こなた]にお越[こ]しください。 | Xin hãy đến phía này.
+内外[ないがい] | n | NỘI NGOẠI | trong ngoài | 国[こく]{内外} | trong và ngoài nước | 国[こく]内外[ないがい]から注目[ちゅうもく]を集[あつ]めている。 | Thu hút sự chú ý từ trong và ngoài nước.
+回顧[かいこ] | n | HỒI CỐ | hồi cố, nhìn lại | {回顧}する | nhìn lại | 半生[はんせい]を回顧[かいこ]する自伝[じでん]を書[か]いた。 | Viết tự truyện nhìn lại nửa đời.
+追想[ついそう] | n | TRUY TƯỞNG | hồi tưởng | {追想}する | hồi tưởng | 青春[せいしゅん]の日々[ひび]を追想[ついそう]する。 | Hồi tưởng những ngày thanh xuân.
+追憶[ついおく] | n | TRUY ỨC | hoài niệm | {追憶}に浸[ひた]る | đắm chìm trong hoài niệm | 故郷[こきょう]の追憶[ついおく]に浸[ひた]った。 | Đắm chìm trong hoài niệm quê hương.
+回想[かいそう] | n | HỒI TƯỞNG | hồi tưởng | {回想}する | hồi tưởng | 当時[とうじ]のことを回想[かいそう]して語[かた]った。 | Hồi tưởng và kể về chuyện lúc đó.
+想起[そうき] | n | TƯỞNG KHỞI | nhớ lại | {想起}する | nhớ lại | その曲[きょく]を聴[き]くと幼少期[ようしょうき]を想起[そうき]する。 | Nghe bài nhạc đó nhớ lại thời thơ ấu.
+喚起[かんき] | n | HOÁN KHỞI | gợi lên, kêu gọi | 注意[ちゅうい]を{喚起}する | gợi sự chú ý | 国民[こくみん]の注意[ちゅうい]を喚起[かんき]した。 | Kêu gọi sự chú ý của quốc dân.
+触発[しょくはつ] | n | XÚC PHÁT | kích thích | {触発}する | kích thích | 彼[かれ]の作品[さくひん]に触発[しょくはつ]されて創作[そうさく]を始[はじ]めた。 | Được tác phẩm của anh ấy kích thích mà bắt đầu sáng tác.
+俯瞰[ふかん] | n | PHỦ KHÁM | nhìn bao quát | {俯瞰}する | nhìn bao quát | 全体[ぜんたい]を俯瞰[ふかん]して問題[もんだい]を把握[はあく]する。 | Nhìn bao quát toàn thể để nắm bắt vấn đề.
+鳥瞰[ちょうかん] | n | ĐIỂU KHÁM | nhìn từ trên cao | {鳥瞰}する | nhìn từ trên cao | 展望台[てんぼうだい]から街[まち]を鳥瞰[ちょうかん]した。 | Nhìn thành phố từ trên đài quan sát.
+眺望[ちょうぼう] | n | THIỂU VỌNG | cảnh nhìn ra | {眺望}を楽[たの]しむ | thưởng thức cảnh | 山頂[さんちょう]からの眺望[ちょうぼう]は素晴[すば]らしかった。 | Cảnh nhìn từ đỉnh núi thật tuyệt vời.
+展望[てんぼう] | n | TRIỂN VỌNG | triển vọng | {展望}を語[かた]る | nói về triển vọng | 今後[こんご]の展望[てんぼう]について議論[ぎろん]した。 | Thảo luận về triển vọng tương lai.
+概観[がいかん] | n | KHÁI QUAN | khái quát | {概観}する | khái quát | 日本[にほん]の歴史[れきし]を概観[がいかん]する。 | Khái quát lịch sử Nhật Bản.
+一望[いちぼう] | n | NHẤT VỌNG | nhìn một lượt | {一望}する | nhìn bao quát | 丘[おか]の上[うえ]から平野[へいや]を一望[いちぼう]した。 | Nhìn bao quát đồng bằng từ trên đồi.
+遠望[えんぼう] | n | VIỄN VỌNG | nhìn xa | {遠望}する | nhìn xa | 遠望[えんぼう]すると富士山[ふじさん]が見[み]えた。 | Nhìn xa thấy núi Phú Sĩ.

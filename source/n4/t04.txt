@@ -1,0 +1,103 @@
+@topic t04
+@ja 料理[りょうり]・食事[しょくじ]
+@vi Nấu ăn và bữa ăn
+@desc Nguyên liệu, gia vị, cách nấu, dụng cụ bếp, mùi vị và chuyện ăn uống bên ngoài.
+材料[ざいりょう] | n | TÀI LIỆU | nguyên liệu | 材料[ざいりょう] を そろえる | chuẩn bị đủ nguyên liệu | カレーの材料[ざいりょう]をそろえました。 | Tôi đã chuẩn bị đủ nguyên liệu nấu cà ri.
+調味料[ちょうみりょう] | n | ĐIỀU VỊ LIỆU | gia vị | - | - | 日本[にほん]の料理[りょうり]は調味料[ちょうみりょう]が少[すく]ないです。 | Món Nhật dùng ít gia vị.
+酢[す] | n | TẠC | giấm | - | - | 酢[す]を少[すこ]し入[い]れると、さっぱりします。 | Cho chút giấm vào sẽ thanh hơn.
+油[あぶら] | n | DU | dầu ăn | 油[あぶら] で 揚[あ]げる | chiên bằng dầu | 天[てん]ぷらは多[おお]めの油[あぶら]で揚[あ]げます。 | Tempura được chiên trong nhiều dầu.
+胡椒[こしょう] | n | HỒ TIÊU | hạt tiêu | 塩[しお] と 胡椒[こしょう] | muối tiêu | 塩[しお]と胡椒[こしょう]で味[あじ]を付[つ]けます。 | Nêm nếm bằng muối tiêu.
+味噌[みそ] | n | VỊ TĂNG | tương miso | - | - | 味噌[みそ]はお湯[ゆ]で溶[と]かしてから入[い]れます。 | Miso thì hòa với nước nóng rồi mới cho vào.
+バター | n | - | bơ | - | - | パンにバターを塗[ぬ]って食[た]べます。 | Tôi phết bơ lên bánh mì rồi ăn.
+チーズ | n | - | phô mai | - | - | ピザにチーズをたっぷりのせました。 | Tôi rắc thật nhiều phô mai lên pizza.
+小麦粉[こむぎこ] | n | TIỂU MẠCH PHẤN | bột mì | - | - | 小麦粉[こむぎこ]と卵[たまご]でパンケーキを作[つく]ります。 | Làm bánh kếp bằng bột mì và trứng.
+米[こめ] | n | MỄ | gạo | 米[こめ] を 研[と]ぐ | vo gạo | ご飯[はん]を炊[た]く前[まえ]に米[こめ]を研[と]ぎます。 | Trước khi nấu cơm thì vo gạo.
+炊[た]く | v1 | XUY | nấu (cơm) | ご飯[はん] を 炊[た]く | nấu cơm | 毎晩[まいばん]、三合[さんごう]のご飯[はん]を炊[た]きます。 | Tối nào tôi cũng nấu ba cốc gạo.
+煮[に]る | v2 | CHỬ | ninh, kho | 弱火[よわび] で 煮[に]る | ninh lửa nhỏ | 野菜[やさい]と肉[にく]を弱火[よわび]で三十[さんじゅっ]分[ぷん]煮[に]ます。 | Ninh rau và thịt lửa nhỏ ba mươi phút.
+茹[ゆ]でる | v2 | NHƯ | luộc | 卵[たまご] を 茹[ゆ]でる | luộc trứng | 卵[たまご]を十[じゅっ]分[ぷん]茹[ゆ]でてください。 | Hãy luộc trứng mười phút.
+揚[あ]げる | v2 | DƯƠNG | chiên ngập dầu | 鶏肉[とりにく] を 揚[あ]げる | rán gà | 母[はは]が鶏肉[とりにく]を揚[あ]げてくれました。 | Mẹ đã rán gà cho tôi.
+蒸[む]す | v1 | CHƯNG | hấp | 野菜[やさい] を 蒸[む]す | hấp rau | 野菜[やさい]を蒸[む]すと甘[あま]くなります。 | Rau hấp lên sẽ ngọt hơn.
+混[ま]ぜる | v2 | HỖN | trộn | よく 混[ま]ぜる | trộn đều | 材料[ざいりょう]をボウルに入[い]れて、よく混[ま]ぜます。 | Cho nguyên liệu vào bát rồi trộn đều.
+剥[む]く | v1 | BÁC | gọt, bóc vỏ | りんご の 皮[かわ] を 剥[む]く | gọt vỏ táo | 祖母[そぼ]は上手[じょうず]にりんごの皮[かわ]を剥[む]きます。 | Bà tôi gọt vỏ táo rất khéo.
+皮[かわ] | n | BÌ | vỏ; da | - | - | みかんの皮[かわ]は手[て]で簡単[かんたん]に剥[む]けます。 | Vỏ quýt bóc bằng tay rất dễ.
+刻[きざ]む | v1 | KHẮC | băm, thái nhỏ | ねぎ を 刻[きざ]む | thái nhỏ hành lá | ねぎを細[こま]かく刻[きざ]んでください。 | Hãy thái nhỏ hành lá.
+包丁[ほうちょう] | n | BAO ĐINH | dao bếp | 包丁[ほうちょう] を 研[と]ぐ | mài dao | 切[き]れなくなったので、包丁[ほうちょう]を研[と]ぎました。 | Dao cùn rồi nên tôi đã mài.
+まな板[いた] | n | BẢN | cái thớt | - | - | 肉[にく]と野菜[やさい]は別[べつ]のまな板[いた]で切[き]ります。 | Thịt và rau thái bằng thớt riêng.
+鍋[なべ] | n | OA | nồi; món lẩu | 鍋[なべ] を 囲[かこ]む | quây quần ăn lẩu | 冬[ふゆ]は家族[かぞく]で鍋[なべ]を囲[かこ]みます。 | Mùa đông cả nhà quây quần ăn lẩu.
+フライパン | n | - | chảo rán | - | - | フライパンで目玉焼[めだまや]きを作[つく]りました。 | Tôi làm trứng ốp la bằng chảo.
+電子[でんし]レンジ | n | ĐIỆN TỬ | lò vi sóng | 電子[でんし]レンジ で 温[あたた]める | hâm bằng lò vi sóng | お弁当[べんとう]を電子[でんし]レンジで温[あたた]めます。 | Tôi hâm cơm hộp bằng lò vi sóng.
+オーブン | n | - | lò nướng | - | - | オーブンでクッキーを焼[や]きました。 | Tôi nướng bánh quy bằng lò nướng.
+炊飯器[すいはんき] | n | XUY PHẠN KHÍ | nồi cơm điện | - | - | 炊飯器[すいはんき]のタイマーをセットしました。 | Tôi đã hẹn giờ nồi cơm điện.
+食器[しょっき] | n | THỰC KHÍ | bát đĩa | 食器[しょっき] を 片付[かたづ]ける | dọn bát đĩa | 食事[しょくじ]が終[お]わったら、食器[しょっき]を片付[かたづ]けます。 | Ăn xong tôi dọn bát đĩa.
+お椀[わん] | n | OẢN | bát (canh) | - | - | 味噌汁[みそしる]をお椀[わん]によそいます。 | Tôi múc canh miso ra bát.
+盛[も]る | v1 | THỊNH | bày, xới (vào đĩa) | お皿[さら] に 盛[も]る | bày ra đĩa | サラダを大[おお]きなお皿[さら]に盛[も]りました。 | Tôi bày salad ra đĩa lớn.
+注[つ]ぐ | v1 | CHÚ | rót | ビール を 注[つ]ぐ | rót bia | 上司[じょうし]のコップにビールを注[つ]ぎました。 | Tôi rót bia vào cốc cho cấp trên.
+味見[あじみ] | n,v3 | VỊ KIẾN | nếm thử | - | - | 塩[しお]を入[い]れる前[まえ]に味見[あじみ]をしてください。 | Hãy nếm thử trước khi cho muối.
+味付[あじつ]け | n,v3 | VỊ PHÓ | nêm nếm | 味付[あじつ]け が 濃[こ]い | nêm đậm | この店[みせ]は味付[あじつ]けが少[すこ]し濃[こ]いです。 | Quán này nêm hơi đậm.
+濃[こ]い | adj-i | NỒNG | đậm, đặc | 濃[こ]い コーヒー | cà phê đặc | 朝[あさ]は濃[こ]いコーヒーが飲[の]みたいです。 | Buổi sáng tôi muốn uống cà phê đặc.
+しょっぱい | adj-i | - | mặn | - | - | このスープはちょっとしょっぱいです。 | Món súp này hơi mặn.
+酸[す]っぱい | adj-i | TOAN | chua | - | - | 梅干[うめぼ]しはとても酸[す]っぱいです。 | Mơ muối rất chua.
+苦[にが]い | adj-i | KHỔ | đắng | 苦[にが]い 薬[くすり] | thuốc đắng | 苦[にが]い薬[くすり]は飲[の]みにくいです。 | Thuốc đắng khó uống.
+新鮮[しんせん] | adj-na | TÂN TIÊN | tươi | 新鮮[しんせん] な 野菜[やさい] | rau tươi | 朝市[あさいち]で新鮮[しんせん]な野菜[やさい]を買[か]いました。 | Tôi mua rau tươi ở chợ sáng.
+腐[くさ]る | v1 | HỦ | ôi thiu, thối | 牛乳[ぎゅうにゅう] が 腐[くさ]る | sữa bị hỏng | 夏[なつ]は食[た]べ物[もの]がすぐ腐[くさ]ります。 | Mùa hè đồ ăn nhanh hỏng.
+賞味期限[しょうみきげん] | n | THƯỞNG VỊ KỲ HẠN | hạn sử dụng (ngon nhất) | 賞味期限[しょうみきげん] が 切[き]れる | hết hạn sử dụng | このパンは賞味期限[しょうみきげん]が切[き]れています。 | Cái bánh mì này đã hết hạn.
+冷凍[れいとう] | n,v3 | LÃNH ĐÔNG | đông lạnh | {冷凍[れいとう]} 食品[しょくひん] | thực phẩm đông lạnh | 忙[いそが]しい日[ひ]は冷凍[れいとう]食品[しょくひん]を使[つか]います。 | Ngày bận tôi dùng thực phẩm đông lạnh.
+凍[こお]る | v1 | ĐÔNG | đóng băng | - | - | 冬[ふゆ]の朝[あさ]は池[いけ]の水[みず]が凍[こお]ります。 | Sáng mùa đông nước ao đóng băng.
+残[のこ]す | v1 | TÀN | để thừa, để lại | ご飯[はん] を 残[のこ]す | ăn bỏ thừa cơm | ご飯[はん]を残[のこ]さないで食[た]べましょう。 | Hãy ăn hết đừng để thừa cơm.
+残[のこ]る | v1 | TÀN | còn lại | 料理[りょうり] が 残[のこ]る | đồ ăn còn thừa | パーティーで料理[りょうり]がたくさん残[のこ]りました。 | Ở bữa tiệc đồ ăn thừa rất nhiều.
+余[あま]る | v1 | DƯ | thừa, dư | - | - | 余[あま]った野菜[やさい]でスープを作[つく]りました。 | Tôi nấu súp từ chỗ rau còn thừa.
+お代[か]わり | n,v3 | ĐẠI | thêm suất, ăn thêm | ご飯[はん] の お代[か]わり | thêm cơm | ご飯[はん]のお代[か]わりは自由[じゆう]です。 | Thêm cơm thoải mái.
+食[た]べ放題[ほうだい] | n | THỰC PHÓNG ĐỀ | ăn thả ga (buffet) | - | - | この店[みせ]は二[に]千[せん]円[えん]で焼肉[やきにく]食[た]べ放題[ほうだい]です。 | Quán này hai nghìn yên ăn thịt nướng thả ga.
+外食[がいしょく] | n,v3 | NGOẠI THỰC | ăn ngoài | - | - | 外食[がいしょく]が続[つづ]くとお金[かね]がかかります。 | Ăn ngoài liên tục thì tốn tiền.
+自炊[じすい] | n,v3 | TỰ XUY | tự nấu ăn | - | - | 節約[せつやく]のために毎日[まいにち]自炊[じすい]しています。 | Tôi tự nấu ăn mỗi ngày để tiết kiệm.
+注文[ちゅうもん] | n,v3 | CHÚ VĂN | gọi món; đặt hàng | 注文[ちゅうもん] を 取[と]る | ghi món (nhân viên) | 店員[てんいん]さんが注文[ちゅうもん]を取[と]りに来[き]ました。 | Nhân viên đến ghi món.
+予約[よやく] | n,v3 | DỰ ƯỚC | đặt trước | 予約[よやく] を 取[と]る | đặt chỗ | 人気[にんき]の店[みせ]なので、一[いっ]か月[げつ]前[まえ]に予約[よやく]を取[と]りました。 | Quán nổi tiếng nên tôi đặt chỗ trước một tháng.
+定食[ていしょく] | n | ĐỊNH THỰC | suất cơm (set) | - | - | 昼[ひる]は焼[や]き魚[ざかな]定食[ていしょく]にしました。 | Trưa nay tôi chọn suất cơm cá nướng.
+和食[わしょく] | n | HÒA THỰC | món Nhật | - | - | 和食[わしょく]は体[からだ]にいいと言[い]われています。 | Người ta nói món Nhật tốt cho sức khỏe.
+洋食[ようしょく] | n | DƯƠNG THỰC | món Âu | - | - | 子供[こども]は和食[わしょく]より洋食[ようしょく]が好[す]きです。 | Bọn trẻ thích món Âu hơn món Nhật.
+中華料理[ちゅうかりょうり] | n | TRUNG HOA LIỆU LÝ | món Trung Hoa | - | - | 駅前[えきまえ]に安[やす]い中華料理[ちゅうかりょうり]の店[みせ]があります。 | Trước ga có quán món Hoa rẻ.
+朝食[ちょうしょく] | n | TRIỀU THỰC | bữa sáng (trang trọng) | 朝食[ちょうしょく] {付[つ]き} | kèm bữa sáng | このホテルは朝食[ちょうしょく]付[つ]きです。 | Khách sạn này có kèm bữa sáng.
+昼食[ちゅうしょく] | n | TRÚ THỰC | bữa trưa (trang trọng) | - | - | 会議[かいぎ]の後[あと]、皆[みな]で昼食[ちゅうしょく]をとりました。 | Sau cuộc họp mọi người cùng ăn trưa.
+夕食[ゆうしょく] | n | TỊCH THỰC | bữa tối (trang trọng) | - | - | 夕食[ゆうしょく]は七[しち]時[じ]からです。 | Bữa tối bắt đầu từ bảy giờ.
+おかず | n | - | món ăn kèm cơm | - | - | 今晩[こんばん]のおかずは何[なに]にしようかな。 | Tối nay nấu món gì đây nhỉ.
+豆腐[とうふ] | n | ĐẬU HỦ | đậu phụ | - | - | 味噌汁[みそしる]に豆腐[とうふ]とわかめを入[い]れます。 | Tôi cho đậu phụ và rong biển vào canh miso.
+納豆[なっとう] | n | NẠP ĐẬU | đậu tương lên men | - | - | 納豆[なっとう]はまだ苦手[にがて]です。 | Tôi vẫn chưa ăn được natto.
+麺[めん] | n | MIẾN | mì, sợi mì | 麺[めん] を すする | húp mì | 日本[にほん]では麺[めん]を音[おと]を立[た]ててすすります。 | Ở Nhật người ta húp mì thành tiếng.
+丼[どんぶり] | n | ĐỈNH | bát tô; cơm tô | - | - | 牛丼[ぎゅうどん]は安[やす]くて早[はや]いです。 | Cơm bò tô vừa rẻ vừa nhanh.
+キャベツ | n | - | bắp cải | - | - | キャベツを千切[せんぎ]りにしてください。 | Hãy thái bắp cải thành sợi.
+人参[にんじん] | n | NHÂN SÂM | cà rốt | - | - | 人参[にんじん]を一口[ひとくち]大[だい]に切[き]ります。 | Thái cà rốt cỡ vừa miệng.
+玉[たま]ねぎ | n | NGỌC | hành tây | 玉[たま]ねぎ を 炒[いた]める | xào hành tây | 玉[たま]ねぎを茶色[ちゃいろ]になるまで炒[いた]めます。 | Xào hành tây đến khi chuyển màu nâu.
+じゃがいも | n | - | khoai tây | - | - | じゃがいもを茹[ゆ]でてサラダを作[つく]りました。 | Tôi luộc khoai tây làm salad.
+ねぎ | n | - | hành lá | - | - | ラーメンにねぎをたくさんのせます。 | Tôi cho thật nhiều hành lá vào mì.
+大根[だいこん] | n | ĐẠI CĂN | củ cải trắng | - | - | おでんの大根[だいこん]が一番[いちばん]好[す]きです。 | Tôi thích nhất củ cải trong món oden.
+にんにく | n | - | tỏi | - | - | にんにくを入[い]れると香[かお]りがよくなります。 | Cho tỏi vào thì dậy mùi thơm.
+生姜[しょうが] | n | SINH KHƯƠNG | gừng | - | - | 豚肉[ぶたにく]を生姜[しょうが]で焼[や]きました。 | Tôi áp chảo thịt lợn với gừng.
+きのこ | n | - | nấm | - | - | 秋[あき]はきのこがおいしい季節[きせつ]です。 | Mùa thu là mùa nấm ngon.
+海老[えび] | n | HẢI LÃO | tôm | - | - | 海老[えび]の天[てん]ぷらを注文[ちゅうもん]しました。 | Tôi gọi món tôm tempura.
+苺[いちご] | n | MÔI | dâu tây | - | - | ケーキの上[うえ]に苺[いちご]をのせます。 | Đặt dâu tây lên trên bánh.
+ぶどう | n | - | nho | - | - | 山梨[やまなし]はぶどうが有名[ゆうめい]です。 | Yamanashi nổi tiếng về nho.
+桃[もも] | n | ĐÀO | quả đào | - | - | 夏[なつ]の桃[もも]はとても甘[あま]いです。 | Đào mùa hè rất ngọt.
+すいか | n | - | dưa hấu | すいか を 割[わ]る | bổ dưa hấu | 夏休[なつやす]みに家族[かぞく]ですいかを割[わ]りました。 | Hè cả nhà tôi bổ dưa hấu.
+レモン | n | - | chanh vàng | - | - | 紅茶[こうちゃ]にレモンを入[い]れます。 | Tôi cho chanh vào hồng trà.
+食欲[しょくよく] | n | THỰC DỤC | thèm ăn | 食欲[しょくよく] が ない | chán ăn | 暑[あつ]くて食欲[しょくよく]がありません。 | Nóng quá nên tôi chán ăn.
+満腹[まんぷく] | n,adj-na | MÃN PHÚC | no căng | - | - | 食[た]べ放題[ほうだい]で満腹[まんぷく]になりました。 | Ăn buffet nên tôi no căng.
+食[た]べ過[す]ぎる | v2 | THỰC QUÁ | ăn quá nhiều | - | - | 昨日[きのう]の夜[よる]、食[た]べ過[す]ぎてしまいました。 | Tối qua tôi lỡ ăn quá nhiều.
+飲[の]み過[す]ぎる | v2 | ẨM QUÁ | uống quá nhiều | - | - | 飲[の]み過[す]ぎて、朝[あさ]、頭[あたま]が痛[いた]いです。 | Uống quá chén nên sáng ra đau đầu.
+乾杯[かんぱい] | n,v3,exp | CAN BÔI | cạn chén, nâng ly | - | - | では、皆[みな]さんの健康[けんこう]を祈[いの]って、乾杯[かんぱい]! | Nào, vì sức khỏe của mọi người, cạn ly!
+飲[の]み会[かい] | n | ẨM HỘI | buổi nhậu | 飲[の]み会[かい] に 参加[さんか] する | dự buổi nhậu | 金曜日[きんようび]の飲[の]み会[かい]に参加[さんか]します。 | Tôi sẽ dự buổi nhậu tối thứ Sáu.
+居酒屋[いざかや] | n | CƯ TỬU ỐC | quán nhậu kiểu Nhật | - | - | 会社[かいしゃ]の近[ちか]くの居酒屋[いざかや]によく行[い]きます。 | Tôi hay đến quán nhậu gần công ty.
+割[わ]り勘[かん] | n | CÁT KHÁM | chia tiền | 割[わ]り勘[かん] に する | chia đều tiền | 今日[きょう]は割[わ]り勘[かん]にしましょう。 | Hôm nay mình chia tiền nhé.
+奢[おご]る | v1 | XA | khao, mời | 後輩[こうはい] に 奢[おご]る | khao đàn em | 給料日[きゅうりょうび]なので後輩[こうはい]に奢[おご]りました。 | Hôm nay ngày lĩnh lương nên tôi khao đàn em.
+おやつ | n | - | đồ ăn vặt (bữa phụ) | - | - | 三[さん]時[じ]のおやつにプリンを食[た]べました。 | Bữa phụ lúc ba giờ tôi ăn bánh pudding.
+デザート | n | - | món tráng miệng | - | - | デザートにアイスクリームはいかがですか。 | Tráng miệng dùng kem nhé ạ?
+弁当箱[べんとうばこ] | n | BIỆN ĐƯƠNG TƯƠNG | hộp cơm | - | - | 弁当箱[べんとうばこ]を洗[あら]うのを忘[わす]れました。 | Tôi quên rửa hộp cơm.
+レシピ | n | - | công thức nấu ăn | - | - | ネットのレシピを見[み]ながら作[つく]りました。 | Tôi vừa xem công thức trên mạng vừa nấu.
+香[かお]り | n | HƯƠNG | mùi thơm | いい 香[かお]り が する | có mùi thơm | 台所[だいどころ]からいい香[かお]りがします。 | Từ bếp tỏa ra mùi thơm.
+匂[にお]い | n | (quốc tự) | mùi | 匂[にお]い が する | có mùi | 何[なに]か焦[こ]げた匂[にお]いがします。 | Có mùi gì đó bị cháy.
+焦[こ]げる | v2 | TIÊU | bị cháy khét | - | - | 話[はな]しているうちに魚[さかな]が焦[こ]げてしまいました。 | Mải nói chuyện nên cá bị cháy mất.
+固[かた]い | adj-i | CỐ | cứng, chắc | 固[かた]い 肉[にく] | thịt dai | この肉[にく]は少[すこ]し固[かた]いです。 | Thịt này hơi dai.
+温[あたた]かい | adj-i | ÔN | ấm, nóng (đồ ăn) | 温[あたた]かい スープ | súp nóng | 温[あたた]かいスープで体[からだ]が温[あたた]まりました。 | Súp nóng làm người tôi ấm lên.
+冷[さ]める | v2 | LÃNH | nguội đi | 料理[りょうり] が 冷[さ]める | đồ ăn nguội | 冷[さ]めないうちに召[め]し上[あ]がってください。 | Mời dùng khi còn nóng.
+一口[ひとくち] | n | NHẤT KHẨU | một miếng | 一口[ひとくち] 食[た]べる | ăn một miếng | 一口[ひとくち]食[た]べてみてください。 | Hãy ăn thử một miếng.
+栄養[えいよう]バランス | n | DINH DƯỠNG | cân bằng dinh dưỡng | - | - | 栄養[えいよう]バランスを考[かんが]えて献立[こんだて]を作[つく]ります。 | Tôi lên thực đơn có tính đến cân bằng dinh dưỡng.
+献立[こんだて] | n | HIẾN LẬP | thực đơn (bữa ăn) | 献立[こんだて] を 考[かんが]える | nghĩ thực đơn | 毎日[まいにち]の献立[こんだて]を考[かんが]えるのは大変[たいへん]です。 | Nghĩ thực đơn mỗi ngày thật vất vả.

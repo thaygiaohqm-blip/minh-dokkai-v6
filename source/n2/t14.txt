@@ -1,0 +1,182 @@
+@topic t14
+@ja 性格[せいかく]・態度[たいど]・評価[ひょうか]
+@vi Tính cách, thái độ và đánh giá
+@desc Từ miêu tả tính tình, năng lực, phong cách và những tính từ dùng để khen chê, đánh giá con người hay sự vật.
+気質[きしつ] | n | KHÍ CHẤT | khí chất, tính khí | 穏[おだ]やかな {気質} | tính khí ôn hòa | 県民[けんみん]の気質[きしつ]は地域[ちいき]によって違[ちが]うと言[い]われる。 | Người ta nói tính khí người dân mỗi tỉnh mỗi khác.
+気性[きしょう] | n | KHÍ TÍNH | tính khí | {気性} が 激[はげ]しい | nóng tính | 彼女[かのじょ]は気性[きしょう]が激[はげ]しいが、根[ね]は優[やさ]しい。 | Cô ấy nóng tính nhưng bản chất hiền lành.
+性分[しょうぶん] | n | TÍNH PHÂN | bản tính | - | - | 頼[たの]まれると断[ことわ]れない性分[しょうぶん]なんです。 | Bản tính tôi là được nhờ thì không từ chối được.
+気立[きだ]て | n | KHÍ LẬP | tính nết | {気立て} の いい | tính nết tốt | 隣[となり]の娘[むすめ]さんは気立[きだ]てのいい子[こ]だ。 | Con gái nhà bên là cô bé tính nết tốt.
+口癖[くちぐせ] | n | KHẨU PHÍCH | câu cửa miệng | - | - | 「忙[いそが]しい」が父[ちち]の口癖[くちぐせ]だ。 | "Bận quá" là câu cửa miệng của bố tôi.
+欠点[けってん] | n | KHIẾM ĐIỂM | khuyết điểm | {欠点} を 直[なお]す | sửa khuyết điểm | 誰[だれ]にでも欠点[けってん]はある。 | Ai cũng có khuyết điểm.
+美点[びてん] | n | MỸ ĐIỂM | ưu điểm | - | - | 正直[しょうじき]なところが彼[かれ]の美点[びてん]だ。 | Sự thật thà là ưu điểm của anh ấy.
+温厚[おんこう] | adj-na | ÔN HẬU | ôn hòa, hiền hậu | {温厚} な 人柄[ひとがら] | tính cách hiền hậu | 温厚[おんこう]な祖父[そふ]が怒[おこ]ったのを見[み]たことがない。 | Tôi chưa bao giờ thấy người ông hiền hậu nổi giận.
+温和[おんわ] | adj-na | ÔN HÒA | ôn hòa | - | - | 彼[かれ]は温和[おんわ]な性格[せいかく]で誰[だれ]からも好[す]かれる。 | Anh ấy tính ôn hòa nên được mọi người quý.
+柔和[にゅうわ] | adj-na | NHU HÒA | hiền dịu | {柔和} な 表情[ひょうじょう] | nét mặt hiền dịu | 先生[せんせい]はいつも柔和[にゅうわ]な表情[ひょうじょう]をしている。 | Thầy lúc nào cũng có nét mặt hiền dịu.
+にこやか | adj-na | - | tươi cười | {にこやか} に 挨拶[あいさつ]する | tươi cười chào hỏi | 店長[てんちょう]はにこやかに客[きゃく]を迎[むか]えた。 | Cửa hàng trưởng tươi cười đón khách.
+朗[ほが]らか | adj-na | LÃNG | vui vẻ, cởi mở | - | - | 彼女[かのじょ]の朗[ほが]らかな笑[わら]い声[ごえ]が聞[き]こえる。 | Nghe thấy tiếng cười vui vẻ của cô ấy.
+明朗[めいろう] | adj-na | MINH LÃNG | sáng sủa, minh bạch | {明朗} 会計[かいけい] | tính tiền minh bạch | 明朗[めいろう]な性格[せいかく]の人[ひと]を募集[ぼしゅう]しています。 | Chúng tôi tuyển người có tính cách vui tươi.
+快活[かいかつ] | adj-na | KHOÁI HOẠT | hoạt bát | - | - | 彼[かれ]は快活[かいかつ]で、クラスの人気者[にんきもの]だ。 | Cậu ấy hoạt bát, là người được yêu thích trong lớp.
+陰気[いんき] | adj-na | ÂM KHÍ | u ám, ủ rũ | - | - | 陰気[いんき]な顔[かお]をしないで、元気[げんき]を出[だ]して。 | Đừng ủ rũ thế, vui lên nào.
+気[き]さく | adj-na | KHÍ | cởi mở, dễ gần | - | - | 社長[しゃちょう]は気[き]さくな人[ひと]で、誰[だれ]とでも話[はな]す。 | Giám đốc là người dễ gần, nói chuyện với ai cũng được.
+愛想[あいそ] | n | ÁI TƯỞNG | sự niềm nở | {愛想} が いい | niềm nở | あの店[みせ]の店員[てんいん]は愛想[あいそ]がいい。 | Nhân viên cửa hàng đó rất niềm nở.
+無愛想[ぶあいそう] | adj-na | VÔ ÁI TƯỞNG | lạnh lùng, cộc lốc | - | - | 彼[かれ]は無愛想[ぶあいそう]だけど、仕事[しごと]は丁寧[ていねい]だ。 | Anh ta cộc lốc nhưng làm việc rất cẩn thận.
+愛嬌[あいきょう] | n | ÁI KIỀU | duyên dáng, dễ thương | {愛嬌} が ある | có duyên | 失敗[しっぱい]しても笑[わら]ってごまかす愛嬌[あいきょう]がある。 | Cô ấy có cái duyên làm hỏng việc cũng cười trừ cho qua.
+無邪気[むじゃき] | adj-na | VÔ TÀ KHÍ | ngây thơ | {無邪気} な 笑顔[えがお] | nụ cười ngây thơ | 子供[こども]の無邪気[むじゃき]な笑顔[えがお]に癒[いや]される。 | Nụ cười ngây thơ của trẻ con làm lòng dịu lại.
+情[なさ]け深[ぶか]い | adj-i | TÌNH THÂM | giàu lòng thương | - | - | 祖母[そぼ]は情[なさ]け深[ぶか]い人[ひと]で、困[こま]っている人[ひと]を放[ほう]っておけない。 | Bà tôi giàu lòng thương, không thể bỏ mặc người gặp khó.
+寛大[かんだい] | adj-na | KHOAN ĐẠI | rộng lượng | {寛大} な 処置[しょち] | xử lý khoan hồng | 部長[ぶちょう]は私[わたし]のミスに寛大[かんだい]だった。 | Trưởng phòng rộng lượng với lỗi của tôi.
+慈悲[じひ] | n | TỪ BI | lòng từ bi | - | - | 仏教[ぶっきょう]では慈悲[じひ]の心[こころ]を大切[たいせつ]にする。 | Phật giáo coi trọng lòng từ bi.
+薄情[はくじょう] | adj-na | BẠC TÌNH | bạc tình, vô tình | - | - | 困[こま]っている友達[ともだち]を見捨[みす]てるなんて薄情[はくじょう]だ。 | Bỏ rơi bạn đang gặp khó thật là vô tình.
+冷酷[れいこく] | adj-na | LÃNH KHỐC | tàn nhẫn | - | - | 映画[えいが]の悪役[あくやく]は冷酷[れいこく]な男[おとこ]だった。 | Vai phản diện trong phim là một gã tàn nhẫn.
+不誠実[ふせいじつ] | adj-na | BẤT THÀNH THỰC | thiếu thành thật | - | - | 約束[やくそく]を守[まも]らないのは不誠実[ふせいじつ]だ。 | Không giữ lời hứa là thiếu thành thật.
+強情[ごうじょう] | adj-na | CƯỜNG TÌNH | bướng bỉnh | {強情} を 張[は]る | ngoan cố | 強情[ごうじょう]を張[は]らないで、素直[すなお]に謝[あやま]りなさい。 | Đừng bướng nữa, hãy xin lỗi đi.
+意地[いじ]っ張[ぱ]り | n,adj-na | Ý ĐỊA TRƯƠNG | cứng đầu, sĩ diện | - | - | 意地[いじ]っ張[ぱ]りな弟[おとうと]は絶対[ぜったい]に謝[あやま]らない。 | Em trai cứng đầu nhất định không chịu xin lỗi.
+自分[じぶん]勝手[かって] | adj-na | TỰ PHÂN THẮNG THỦ | ích kỷ, tùy tiện | {自分勝手} な 行動[こうどう] | hành động tùy tiện | 団体[だんたい]旅行[りょこう]で自分[じぶん]勝手[かって]な行動[こうどう]は困[こま]る。 | Đi du lịch đoàn mà hành động tùy tiện thì khó xử.
+身勝手[みがって] | adj-na | THÂN THẮNG THỦ | ích kỷ | - | - | 彼[かれ]の身勝手[みがって]な言[い]い分[ぶん]にはあきれた。 | Tôi ngán ngẩm với lý lẽ ích kỷ của anh ta.
+せっかち | adj-na | - | nóng vội | - | - | 父[ちち]はせっかちで、いつも早[はや]く着[つ]きすぎる。 | Bố tôi nóng vội, lúc nào cũng đến quá sớm.
+気長[きなが] | adj-na | KHÍ TRƯỜNG | kiên nhẫn, thong thả | {気長} に 待[ま]つ | kiên nhẫn chờ | 結果[けっか]が出[で]るまで気長[きなが]に待[ま]ちましょう。 | Hãy kiên nhẫn chờ đến khi có kết quả.
+気短[きみじか] | adj-na | KHÍ ĐOẢN | nóng nảy | - | - | 年[とし]を取[と]って祖父[そふ]は気短[きみじか]になった。 | Có tuổi rồi ông trở nên nóng nảy.
+楽天的[らくてんてき] | adj-na | LẠC THIÊN ĐÍCH | lạc quan | - | - | 彼[かれ]は楽天的[らくてんてき]で、何[なん]とかなると思[おも]っている。 | Anh ấy lạc quan, nghĩ rằng rồi sẽ ổn thôi.
+後[うし]ろ向[む]き | n,adj-na | HẬU HƯỚNG | tiêu cực, thụt lùi | {後ろ向き} な 考[かんが]え | suy nghĩ tiêu cực | 後[うし]ろ向[む]きなことばかり言[い]っても仕方[しかた]がない。 | Toàn nói những điều tiêu cực cũng chẳng ích gì.
+内向的[ないこうてき] | adj-na | NỘI HƯỚNG ĐÍCH | hướng nội | - | - | 内向的[ないこうてき]な人[ひと]は一人[ひとり]の時間[じかん]を大切[たいせつ]にする。 | Người hướng nội coi trọng thời gian một mình.
+外向的[がいこうてき] | adj-na | NGOẠI HƯỚNG ĐÍCH | hướng ngoại | - | - | 姉[あね]は外向的[がいこうてき]で友達[ともだち]が多[おお]い。 | Chị tôi hướng ngoại nên có nhiều bạn.
+大雑把[おおざっぱ] | adj-na | ĐẠI TẠP BẢ | qua loa, đại khái | {大雑把} な 計算[けいさん] | tính sơ sơ | 大雑把[おおざっぱ]に言[い]うと、費用[ひよう]は十[じゅう]万[まん]円[えん]くらいだ。 | Nói đại khái thì chi phí khoảng một trăm nghìn yên.
+ずぼら | adj-na | - | cẩu thả, lười biếng | - | - | ずぼらな性格[せいかく]で、部屋[へや]がいつも散[ち]らかっている。 | Tính tôi cẩu thả nên phòng lúc nào cũng bừa bộn.
+怠[なま]け者[もの] | n | ĐÃI GIẢ | kẻ lười biếng | - | - | 怠[なま]け者[もの]と言[い]われないように頑張[がんば]る。 | Tôi cố gắng để không bị gọi là kẻ lười.
+怠惰[たいだ] | n,adj-na | ĐÃI NỌA | lười nhác | {怠惰} な 生活[せいかつ] | cuộc sống lười nhác | 休[やす]みの間[あいだ]、怠惰[たいだ]な生活[せいかつ]を送[おく]ってしまった。 | Trong kỳ nghỉ tôi lỡ sống lười nhác.
+不真面目[ふまじめ] | adj-na | BẤT CHÂN DIỆN MỤC | không nghiêm túc | - | - | 不真面目[ふまじめ]な態度[たいど]で授業[じゅぎょう]を受[う]けてはいけない。 | Không được học với thái độ thiếu nghiêm túc.
+生真面目[きまじめ] | adj-na | SINH CHÂN DIỆN MỤC | nghiêm túc quá mức | - | - | 彼[かれ]は生真面目[きまじめ]で冗談[じょうだん]が通[つう]じない。 | Anh ấy nghiêm túc quá mức, đùa không hiểu.
+堅苦[かたくる]しい | adj-i | KIÊN KHỔ | cứng nhắc, khách sáo | {堅苦しい} 挨拶[あいさつ] | chào hỏi khách sáo | 堅苦[かたくる]しい挨拶[あいさつ]は抜[ぬ]きにしましょう。 | Bỏ qua những lời chào khách sáo đi.
+厚[あつ]かましい | adj-i | HẬU | trơ tráo | {厚かましい} お願[ねが]い | lời nhờ hơi quá đáng | 厚[あつ]かましいお願[ねが]いですが、車[くるま]を貸[か]していただけませんか。 | Thật ngại nhưng anh cho tôi mượn xe được không?
+軽率[けいそつ] | adj-na | KHINH SUẤT | khinh suất | {軽率} な 発言[はつげん] | phát ngôn khinh suất | 軽率[けいそつ]な行動[こうどう]で信用[しんよう]を失[うしな]った。 | Hành động khinh suất làm tôi mất uy tín.
+軽[かる]はずみ | adj-na | KHINH | hấp tấp, thiếu suy nghĩ | - | - | 軽[かる]はずみな約束[やくそく]はしないほうがいい。 | Không nên hứa bừa thiếu suy nghĩ.
+そそっかしい | adj-i | - | hậu đậu, bộp chộp | - | - | そそっかしい弟[おとうと]は、よく忘[わす]れ物[もの]をする。 | Em trai hậu đậu của tôi hay để quên đồ.
+くどい | adj-i | - | dài dòng, lải nhải | - | - | 母[はは]の注意[ちゅうい]はくどくて嫌[いや]になる。 | Mẹ nhắc nhở lải nhải đến phát chán.
+強引[ごういん] | adj-na | CƯỜNG DẪN | cưỡng ép, ép buộc | {強引} に 進[すす]める | cố đẩy tới | 彼[かれ]は反対[はんたい]を押[お]し切[き]って強引[ごういん]に計画[けいかく]を進[すす]めた。 | Anh ta gạt phản đối, ép tiến hành kế hoạch.
+ルーズ | adj-na | - | lỏng lẻo, cẩu thả | 時間[じかん] に {ルーズ} | không đúng giờ | 彼[かれ]は時間[じかん]にルーズで、いつも遅[おく]れて来[く]る。 | Anh ta không đúng giờ, lúc nào cũng đến muộn.
+勇敢[ゆうかん] | adj-na | DŨNG CẢM | dũng cảm | - | - | 少年[しょうねん]の勇敢[ゆうかん]な行動[こうどう]が表彰[ひょうしょう]された。 | Hành động dũng cảm của cậu bé đã được tuyên dương.
+度胸[どきょう] | n | ĐỘ HUNG | gan dạ | {度胸} が ある | có gan | 一人[ひとり]で世界[せかい]を旅[たび]するなんて度胸[どきょう]がある。 | Một mình đi du lịch khắp thế giới thật gan dạ.
+卑怯[ひきょう] | adj-na | TI KHIẾP | hèn hạ | {卑怯} な 手[て] | thủ đoạn hèn hạ | 後[うし]ろから攻撃[こうげき]するのは卑怯[ひきょう]だ。 | Tấn công từ phía sau là hèn hạ.
+利口[りこう] | adj-na | LỢI KHẨU | lanh lợi, khôn | - | - | この犬[いぬ]はとても利口[りこう]で言葉[ことば]が分[わ]かる。 | Con chó này rất khôn, hiểu được lời nói.
+聡明[そうめい] | adj-na | THÔNG MINH | sáng suốt, thông tuệ | - | - | 彼女[かのじょ]は聡明[そうめい]で判断[はんだん]が的確[てきかく]だ。 | Cô ấy sáng suốt và phán đoán chính xác.
+愚[おろ]か | adj-na | NGU | ngu ngốc | {愚か} な 行為[こうい] | hành vi ngu ngốc | 戦争[せんそう]ほど愚[おろ]かなことはない。 | Không gì ngu ngốc bằng chiến tranh.
+間抜[まぬ]け | n,adj-na | GIAN BẠT | ngớ ngẩn | - | - | 鍵[かぎ]をかけ忘[わす]れるなんて、間抜[まぬ]けなことをした。 | Quên khóa cửa, tôi đã làm chuyện ngớ ngẩn.
+有能[ゆうのう] | adj-na | HỮU NĂNG | có năng lực | {有能} な 人材[じんざい] | nhân tài có năng lực | 会社[かいしゃ]は有能[ゆうのう]な人材[じんざい]を求[もと]めている。 | Công ty đang tìm kiếm nhân tài có năng lực.
+無能[むのう] | adj-na | VÔ NĂNG | bất tài | - | - | 失敗[しっぱい]しても自分[じぶん]を無能[むのう]だと思[おも]わないで。 | Dù thất bại cũng đừng nghĩ mình bất tài.
+平凡[へいぼん] | adj-na | BÌNH PHÀM | bình thường, tầm thường | {平凡} な 毎日[まいにち] | những ngày bình thường | 平凡[へいぼん]な毎日[まいにち]こそ幸[しあわ]せだと思[おも]う。 | Tôi nghĩ chính những ngày bình thường mới là hạnh phúc.
+非凡[ひぼん] | adj-na | PHI PHÀM | phi thường | {非凡} な 才能[さいのう] | tài năng phi thường | 彼[かれ]は子供[こども]のころから非凡[ひぼん]な才能[さいのう]を見[み]せていた。 | Từ nhỏ cậu ấy đã bộc lộ tài năng phi thường.
+抜群[ばつぐん] | adj-na | BẠT QUẦN | xuất chúng, nổi trội | {抜群} の 成績[せいせき] | thành tích vượt trội | 彼女[かのじょ]は運動[うんどう]神経[しんけい]が抜群[ばつぐん]だ。 | Cô ấy có khả năng vận động vượt trội.
+凡人[ぼんじん] | n | PHÀM NHÂN | người bình thường | - | - | 凡人[ぼんじん]の私[わたし]には天才[てんさい]の考[かんが]えは分[わ]からない。 | Người thường như tôi không hiểu được suy nghĩ của thiên tài.
+素人[しろうと] | n | TỐ NHÂN | người nghiệp dư | - | - | 素人[しろうと]とは思[おも]えないほど料理[りょうり]がうまい。 | Nấu ngon đến mức không nghĩ là người nghiệp dư.
+玄人[くろうと] | n | HUYỀN NHÂN | người chuyên nghiệp | {玄人} はだし | giỏi như dân chuyên | 彼[かれ]の写真[しゃしん]の腕[うで]は玄人[くろうと]並[な]みだ。 | Tay nghề chụp ảnh của anh ấy ngang dân chuyên nghiệp.
+達人[たつじん] | n | ĐẠT NHÂN | bậc thầy | 料理[りょうり] の {達人} | bậc thầy nấu ăn | 祖父[そふ]は剣道[けんどう]の達人[たつじん]だった。 | Ông tôi từng là bậc thầy kiếm đạo.
+名人[めいじん] | n | DANH NHÂN | cao thủ | - | - | 将棋[しょうぎ]の名人[めいじん]と対局[たいきょく]した。 | Tôi đã đấu với một cao thủ cờ shogi.
+新米[しんまい] | n | TÂN MỄ | lính mới; gạo mới | {新米} の 先生[せんせい] | giáo viên mới vào nghề | 新米[しんまい]の看護師[かんごし]として毎日[まいにち]必死[ひっし]だ。 | Là y tá mới vào nghề, ngày nào tôi cũng chật vật.
+若手[わかて] | n | NHƯỢC THỦ | lớp trẻ | {若手} 社員[しゃいん] | nhân viên trẻ | 若手[わかて]社員[しゃいん]の意見[いけん]を取[と]り入[い]れた。 | Đã tiếp thu ý kiến của nhân viên trẻ.
+半人前[はんにんまえ] | n | BÁN NHÂN TIỀN | chưa đủ trình độ | - | - | 私[わたし]はまだ半人前[はんにんまえ]で、一人[ひとり]では仕事[しごと]を任[まか]されない。 | Tôi vẫn chưa đủ trình, chưa được giao việc một mình.
+未熟[みじゅく] | adj-na | VỊ THỤC | non nớt | {未熟} な 技術[ぎじゅつ] | tay nghề non | 未熟[みじゅく]な私[わたし]ですが、よろしくお願[ねが]いします。 | Tôi còn non nớt, mong được mọi người giúp đỡ.
+成熟[せいじゅく] | n,v3 | THÀNH THỤC | trưởng thành, chín muồi | {成熟} した 社会[しゃかい] | xã hội phát triển chín muồi | 彼[かれ]は年齢[ねんれい]のわりに成熟[せいじゅく]している。 | Cậu ấy chín chắn so với tuổi.
+幼稚[ようち] | adj-na | ẤU TRĨ | ấu trĩ, trẻ con | {幼稚} な 考[かんが]え | suy nghĩ ấu trĩ | そんな幼稚[ようち]ないたずらはやめなさい。 | Thôi ngay trò nghịch ấu trĩ đó đi.
+大人[おとな]びる | v2 | ĐẠI NHÂN | ra dáng người lớn | - | - | 中学生[ちゅうがくせい]になって、娘[むすめ]は急[きゅう]に大人[おとな]びた。 | Lên cấp hai, con gái tôi bỗng ra dáng người lớn.
+品格[ひんかく] | n | PHẨM CÁCH | phẩm cách | {品格} が ある | có phẩm cách | 一流[いちりゅう]のホテルには品格[ひんかく]がある。 | Khách sạn hạng nhất có phẩm cách riêng.
+品位[ひんい] | n | PHẨM VỊ | phẩm giá | {品位} を 保[たも]つ | giữ phẩm giá | 公[おおやけ]の場[ば]では品位[ひんい]を保[たも]つべきだ。 | Ở nơi công cộng nên giữ phẩm giá.
+気品[きひん] | n | KHÍ PHẨM | vẻ thanh tao | {気品} が ある | thanh tao | 彼女[かのじょ]の立[た]ち居[い]振[ふ]る舞[ま]いには気品[きひん]がある。 | Cử chỉ của cô ấy toát lên vẻ thanh tao.
+品[ひん] | n | PHẨM | phẩm cách, nét thanh lịch | {品} が いい | thanh lịch | 祖母[そぼ]は品[ひん]がよく、話[はな]し方[かた]も上品[じょうひん]だ。 | Bà tôi thanh lịch, cách nói chuyện cũng nhã nhặn.
+優雅[ゆうが] | adj-na | ƯU NHÃ | thanh lịch, tao nhã | {優雅} な 暮[く]らし | cuộc sống thong dong | 退職[たいしょく]後[ご]は海辺[うみべ]で優雅[ゆうが]に暮[く]らしたい。 | Nghỉ hưu rồi tôi muốn sống thong dong bên bờ biển.
+粗野[そや] | adj-na | THÔ DÃ | thô lỗ | - | - | 粗野[そや]な言葉遣[ことばづか]いは誤解[ごかい]を招[まね]く。 | Lời ăn tiếng nói thô lỗ dễ gây hiểu lầm.
+野蛮[やばん] | adj-na | DÃ MAN | dã man | - | - | 暴力[ぼうりょく]で解決[かいけつ]しようとするのは野蛮[やばん]だ。 | Định giải quyết bằng bạo lực là dã man.
+雑[ざつ] | adj-na | TẠP | cẩu thả, ẩu | {雑} な 仕事[しごと] | làm ẩu | 急[いそ]いだせいで仕事[しごと]が雑[ざつ]になった。 | Vì vội nên công việc thành ra ẩu.
+粗末[そまつ] | adj-na | THÔ MẠT | sơ sài; phí phạm | 食[た]べ物[もの] を {粗末} に する | phí phạm đồ ăn | 食[た]べ物[もの]を粗末[そまつ]にしてはいけない。 | Không được phí phạm đồ ăn.
+口数[くちかず] | n | KHẨU SỐ | số lời nói | {口数} が 少[すく]ない | kiệm lời | 父[ちち]は口数[くちかず]が少[すく]ないが、優[やさ]しい。 | Bố tôi kiệm lời nhưng hiền.
+口[くち]が軽[かる]い | exp | KHẨU KHINH | không giữ được bí mật | - | - | 彼[かれ]は口[くち]が軽[かる]いから秘密[ひみつ]は話[はな]せない。 | Anh ta không giữ mồm nên không thể kể bí mật.
+口[くち]が堅[かた]い | exp | KHẨU KIÊN | kín miệng | - | - | 彼女[かのじょ]は口[くち]が堅[かた]いので安心[あんしん]して相談[そうだん]できる。 | Cô ấy kín miệng nên có thể yên tâm tâm sự.
+口[くち]が悪[わる]い | exp | KHẨU ÁC | ăn nói khó nghe | - | - | 彼[かれ]は口[くち]が悪[わる]いが、根[ね]はいい人[ひと]だ。 | Anh ta ăn nói khó nghe nhưng bản chất tốt.
+口[くち]がうまい | exp | KHẨU | khéo mồm | - | - | 口[くち]がうまい営業[えいぎょう]マンに乗[の]せられて買[か]ってしまった。 | Bị anh bán hàng khéo mồm dụ nên tôi đã mua.
+偉大[いだい] | adj-na | VĨ ĐẠI | vĩ đại | {偉大} な 業績[ぎょうせき] | thành tựu vĩ đại | アインシュタインは偉大[いだい]な科学者[かがくしゃ]だ。 | Einstein là nhà khoa học vĩ đại.
+独特[どくとく] | adj-na | ĐỘC ĐẶC | độc đáo, riêng biệt | {独特} の 味[あじ] | hương vị đặc trưng | この料理[りょうり]には独特[どくとく]の香[かお]りがある。 | Món ăn này có mùi hương đặc trưng.
+ユニーク | adj-na | - | độc đáo | {ユニーク} な 発想[はっそう] | ý tưởng độc đáo | 彼[かれ]はユニークな発想[はっそう]で人[ひと]を驚[おどろ]かせる。 | Anh ấy làm mọi người ngạc nhiên bằng ý tưởng độc đáo.
+センス | n | - | khiếu thẩm mỹ, cảm quan | {センス} が いい | có gu | 彼女[かのじょ]は服[ふく]のセンスがいい。 | Cô ấy có gu ăn mặc.
+キャラクター | n | - | nhân vật; tính cách | - | - | このアニメのキャラクターは子供[こども]に人気[にんき]がある。 | Nhân vật hoạt hình này được trẻ em yêu thích.
+ベテラン | n | - | người dày dạn kinh nghiệm | {ベテラン} 社員[しゃいん] | nhân viên kỳ cựu | ベテランの運転手[うんてんしゅ]でも雪道[ゆきみち]は緊張[きんちょう]する。 | Kể cả tài xế lão luyện cũng căng thẳng khi đi đường tuyết.
+マスター | n,v3 | - | thành thạo; chủ quán | 日本語[にほんご] を {マスター} する | thông thạo tiếng Nhật | 一年[いちねん]で運転[うんてん]をマスターした。 | Tôi thành thạo lái xe trong một năm.
+一流[いちりゅう] | n | NHẤT LƯU | hạng nhất | {一流} 企業[きぎょう] | doanh nghiệp hàng đầu | 一流[いちりゅう]の料理人[りょうりにん]を目指[めざ]して修業[しゅぎょう]している。 | Tôi đang học nghề để trở thành đầu bếp hàng đầu.
+精神[せいしん] | n | TINH THẦN | tinh thần | {精神} 的[てき]に 疲[つか]れる | mệt mỏi về tinh thần | 仕事[しごと]より人間[にんげん]関係[かんけい]で精神[せいしん]的[てき]に疲[つか]れた。 | Tôi mệt mỏi tinh thần vì quan hệ hơn là vì công việc.
+典型[てんけい] | n | ĐIỂN HÌNH | điển hình | {典型} 的[てき] な 例[れい] | ví dụ điển hình | 彼[かれ]は典型[てんけい]的[てき]な仕事[しごと]人間[にんげん]だ。 | Anh ấy là kiểu người tham công tiếc việc điển hình.
+見[み]かけ | n | KIẾN | vẻ bề ngoài | {見かけ} に よらない | không như vẻ ngoài | 彼[かれ]は見[み]かけによらず力[ちから]が強[つよ]い。 | Anh ấy khỏe hơn vẻ bề ngoài nhiều.
+ふり | n | - | giả vờ | 知[し]らない {ふり} を する | giả vờ không biết | 彼[かれ]は聞[き]こえないふりをした。 | Anh ta giả vờ không nghe thấy.
+まね | n,v3 | - | bắt chước | {まね} を する | bắt chước | 子供[こども]は親[おや]のまねをして育[そだ]つ。 | Trẻ con lớn lên bằng cách bắt chước bố mẹ.
+動作[どうさ] | n,v3 | ĐỘNG TÁC | động tác, cử động | {動作} が 遅[おそ]い | cử động chậm | パソコンの動作[どうさ]が重[おも]くなった。 | Máy tính chạy chậm đi.
+服装[ふくそう] | n | PHỤC TRANG | trang phục | - | - | 面接[めんせつ]にはきちんとした服装[ふくそう]で行[い]きなさい。 | Hãy mặc trang phục chỉnh tề khi đi phỏng vấn.
+生[い]き生[い]き | adv,v3 | SINH SINH | sống động, tràn đầy sức sống | - | - | 好[す]きな仕事[しごと]をしている彼[かれ]は生[い]き生[い]きしている。 | Làm công việc mình thích, anh ấy tràn đầy sức sống.
+わざと | adv | - | cố ý | - | - | わざと負[ま]けたわけではない。 | Không phải tôi cố tình thua.
+何気[なにげ]ない | adj-i | HÀ KHÍ | vô tình, bâng quơ | {何気ない} 一言[ひとこと] | câu nói vô tình | 何気[なにげ]ない一言[ひとこと]が人[ひと]を傷[きず]つけることもある。 | Một câu nói vô tình cũng có thể làm tổn thương người khác.
+でたらめ | n,adj-na | - | bừa bãi, bịa đặt | {でたらめ} を 言[い]う | nói bừa | 彼[かれ]の話[はなし]は全部[ぜんぶ]でたらめだった。 | Câu chuyện của anh ta toàn là bịa.
+くだらない | adj-i | - | vớ vẩn, nhảm nhí | {くだらない} 話[はなし] | chuyện vớ vẩn | くだらないことで喧嘩[けんか]するのはやめよう。 | Thôi đừng cãi nhau vì chuyện vớ vẩn.
+ばかばかしい | adj-i | - | ngớ ngẩn, lố bịch | - | - | そんなばかばかしい話[はなし]、誰[だれ]も信[しん]じないよ。 | Chuyện lố bịch như thế, chẳng ai tin đâu.
+とんでもない | adj-i | - | quá đáng; không dám đâu | - | - | 「ありがとう」「とんでもないです。」 | "Cảm ơn anh." "Không có gì đâu ạ."
+妙[みょう] | adj-na | DIỆU | kỳ lạ | {妙} な 音[おと] | âm thanh kỳ lạ | 夜中[よなか]に妙[みょう]な音[おと]がした。 | Giữa đêm có âm thanh kỳ lạ.
+奇妙[きみょう] | adj-na | KỲ DIỆU | kỳ quặc | {奇妙} な 事件[じけん] | vụ việc kỳ quặc | 森[もり]で奇妙[きみょう]な形[かたち]の石[いし]を見[み]つけた。 | Tôi tìm thấy hòn đá có hình thù kỳ quặc trong rừng.
+貴重[きちょう] | adj-na | QUÝ TRỌNG | quý giá | {貴重} な 経験[けいけん] | kinh nghiệm quý báu | 留学[りゅうがく]は貴重[きちょう]な経験[けいけん]になった。 | Du học đã trở thành một trải nghiệm quý báu.
+正式[せいしき] | adj-na | CHÍNH THỨC | chính thức | {正式} に 決定[けってい]する | chính thức quyết định | 来月[らいげつ]から正式[せいしき]に採用[さいよう]される。 | Từ tháng sau tôi được tuyển dụng chính thức.
+上等[じょうとう] | adj-na | THƯỢNG ĐẲNG | hảo hạng | {上等} な 肉[にく] | thịt hảo hạng | 誕生日[たんじょうび]に上等[じょうとう]なワインを開[あ]けた。 | Vào ngày sinh nhật tôi khui chai rượu vang hảo hạng.
+高度[こうど] | n,adj-na | CAO ĐỘ | cao độ; tiên tiến | {高度} な 技術[ぎじゅつ] | kỹ thuật tiên tiến | この製品[せいひん]には高度[こうど]な技術[ぎじゅつ]が使[つか]われている。 | Sản phẩm này sử dụng kỹ thuật tiên tiến.
+特殊[とくしゅ] | adj-na | ĐẶC THÙ | đặc thù, đặc biệt | {特殊} な 事情[じじょう] | hoàn cảnh đặc thù | 特殊[とくしゅ]な技能[ぎのう]を持[も]つ人[ひと]が求[もと]められている。 | Người có kỹ năng đặc thù đang được tìm kiếm.
+的確[てきかく] | adj-na | ĐÍCH XÁC | chính xác, trúng đích | {的確} な 判断[はんだん] | phán đoán chính xác | 部長[ぶちょう]の指示[しじ]はいつも的確[てきかく]だ。 | Chỉ thị của trưởng phòng lúc nào cũng chính xác.
+確実[かくじつ] | adj-na | XÁC THỰC | chắc chắn | {確実} な 方法[ほうほう] | cách chắc chắn | 確実[かくじつ]に連絡[れんらく]が取[と]れる方法[ほうほう]を教[おし]えてください。 | Hãy cho tôi biết cách liên lạc chắc chắn được.
+曖昧[あいまい] | adj-na | ÁI MUỘI | mơ hồ | {曖昧} な 返事[へんじ] | câu trả lời mập mờ | 彼[かれ]は曖昧[あいまい]な返事[へんじ]しかしなかった。 | Anh ấy chỉ trả lời mập mờ.
+合理的[ごうりてき] | adj-na | HỢP LÝ ĐÍCH | hợp lý | {合理的} な 考[かんが]え方[かた] | cách nghĩ hợp lý | 無駄[むだ]を省[はぶ]いて合理[ごうり]的[てき]に作業[さぎょう]を進[すす]める。 | Loại bỏ lãng phí và tiến hành công việc hợp lý.
+見事[みごと] | adj-na | KIẾN SỰ | tuyệt vời, ngoạn mục | {見事} な 演技[えんぎ] | màn diễn xuất sắc | 彼[かれ]は見事[みごと]に試験[しけん]に合格[ごうかく]した。 | Anh ấy đã đỗ kỳ thi một cách ngoạn mục.
+立派[りっぱ] | adj-na | LẬP PHÁI | đáng nể, tráng lệ | {立派} な 人[ひと] | người đáng kính | 息子[むすこ]さんは立派[りっぱ]な社会人[しゃかいじん]になりましたね。 | Con trai anh đã trở thành người đi làm đáng nể rồi nhỉ.
+素晴[すば]らしい | adj-i | TỐ TÌNH | tuyệt vời | {素晴らしい} 景色[けしき] | cảnh tuyệt đẹp | 山頂[さんちょう]からの眺[なが]めは素晴[すば]らしかった。 | Cảnh nhìn từ đỉnh núi thật tuyệt vời.
+みっともない | adj-i | - | khó coi, đáng xấu hổ | - | - | 人前[ひとまえ]で喧嘩[けんか]するなんてみっともない。 | Cãi nhau trước mặt người khác thật khó coi.
+見苦[みぐる]しい | adj-i | KIẾN KHỔ | chướng mắt, khó coi | {見苦しい} 言[い]い訳[わけ] | lời bào chữa khó coi | 負[ま]けてから文句[もんく]を言[い]うのは見苦[みぐる]しい。 | Thua rồi mới cằn nhằn thật chướng mắt.
+格好[かっこう]いい | adj-i | CÁCH HẢO | ngầu, bảnh | - | - | 消防士[しょうぼうし]の制服[せいふく]は格好[かっこう]いい。 | Đồng phục lính cứu hỏa trông thật ngầu.
+格好[かっこう]悪[わる]い | adj-i | CÁCH HẢO ÁC | xấu hổ, kém sang | - | - | 道[みち]で転[ころ]んで格好[かっこう]悪[わる]かった。 | Ngã trên đường, thật xấu hổ.
+ださい | adj-i | - | quê mùa, lỗi thời | - | - | そのシャツはちょっとださいよ。 | Cái áo đó hơi quê đấy.
+地道[じみち] | adj-na | ĐỊA ĐẠO | bền bỉ, chân chất | {地道} な 努力[どりょく] | nỗ lực bền bỉ | 地道[じみち]な努力[どりょく]がやっと実[みの]った。 | Nỗ lực bền bỉ cuối cùng đã đơm hoa kết trái.
+着実[ちゃくじつ] | adj-na | TRƯỚC THỰC | vững chắc, đều đặn | {着実} に 進[すす]む | tiến lên vững chắc | 日本語[にほんご]の力[ちから]が着実[ちゃくじつ]に伸[の]びている。 | Năng lực tiếng Nhật đang tiến bộ đều đặn.
+堅実[けんじつ] | adj-na | KIÊN THỰC | chắc chắn, thận trọng | {堅実} な 経営[けいえい] | kinh doanh vững vàng | 彼[かれ]はお金[かね]の使[つか]い方[かた]が堅実[けんじつ]だ。 | Anh ấy tiêu tiền rất thận trọng.
+誠意[せいい] | n | THÀNH Ý | thành ý | {誠意} を 見[み]せる | thể hiện thành ý | 謝罪[しゃざい]には誠意[せいい]が感[かん]じられなかった。 | Lời xin lỗi không cho thấy chút thành ý nào.
+熱烈[ねつれつ] | adj-na | NHIỆT LIỆT | nồng nhiệt | {熱烈} な ファン | người hâm mộ cuồng nhiệt | 空港[くうこう]で熱烈[ねつれつ]な歓迎[かんげい]を受[う]けた。 | Ở sân bay được chào đón nồng nhiệt.
+冷[ひ]ややか | adj-na | LÃNH | lạnh nhạt | {冷ややか} な 目[め] | ánh mắt lạnh lùng | 周[まわ]りは彼[かれ]の提案[ていあん]を冷[ひ]ややかに見[み]ていた。 | Mọi người nhìn đề xuất của anh ta một cách lạnh nhạt.
+厳格[げんかく] | adj-na | NGHIÊM CÁCH | nghiêm khắc | {厳格} な 父親[ちちおや] | người cha nghiêm khắc | 厳格[げんかく]な家庭[かてい]で育[そだ]った。 | Tôi lớn lên trong một gia đình nghiêm khắc.
+気丈[きじょう] | adj-na | KHÍ TRƯỢNG | cứng cỏi, vững vàng | {気丈} に ふるまう | cố tỏ ra vững vàng | 母[はは]は父[ちち]の葬儀[そうぎ]で気丈[きじょう]にふるまっていた。 | Ở tang lễ bố, mẹ cố tỏ ra vững vàng.
+健気[けなげ] | adj-na | KIỆN KHÍ | ngoan cường, đáng khen | - | - | 病気[びょうき]の母[はは]を支[ささ]える少女[しょうじょ]の健気[けなげ]な姿[すがた]に胸[むね]を打[う]たれた。 | Tôi xúc động trước hình ảnh cô bé ngoan cường chăm mẹ ốm.
+堂々[どうどう] | adj-na | ĐƯỜNG ĐƯỜNG | đường hoàng | {堂々} と 話[はな]す | nói năng đường hoàng | 彼女[かのじょ]は大勢[おおぜい]の前[まえ]で堂々[どうどう]と発表[はっぴょう]した。 | Cô ấy thuyết trình đường hoàng trước đông người.
+毅然[きぜん] | adj-na | NGHỊ NHIÊN | cứng rắn, kiên quyết | {毅然} と した 態度[たいど] | thái độ kiên quyết | 不当[ふとう]な要求[ようきゅう]には毅然[きぜん]とした態度[たいど]で臨[のぞ]む。 | Đối mặt yêu sách vô lý bằng thái độ kiên quyết.
+潔[いさぎよ]い | adj-i | KHIẾT | dứt khoát, quân tử | {潔[いさぎよ]く} 認[みと]める | thừa nhận đàng hoàng | 彼[かれ]は自分[じぶん]のミスを潔[いさぎよ]く認[みと]めた。 | Anh ấy đàng hoàng thừa nhận lỗi của mình.
+しぶとい | adj-i | - | lì lợm, dai dẳng | - | - | 最後[さいご]まで粘[ねば]るしぶとい相手[あいて]だった。 | Đó là một đối thủ lì lợm bám trụ đến cuối.
+辛抱強[しんぼうづよ]い | adj-i | TÂN BÃO CƯỜNG | nhẫn nại | - | - | 辛抱強[しんぼうづよ]く待[ま]てば、チャンスは来[く]る。 | Kiên nhẫn chờ thì cơ hội sẽ đến.
+律儀[りちぎ] | adj-na | LUẬT NGHI | đứng đắn, chu đáo | - | - | 彼[かれ]は律儀[りちぎ]で、借[か]りたものは必[かなら]ず返[かえ]す。 | Anh ấy rất đứng đắn, mượn gì cũng trả.
+義理堅[ぎりがた]い | adj-i | NGHĨA LÝ KIÊN | trọng tình nghĩa | - | - | 義理堅[ぎりがた]い彼[かれ]は毎年[まいとし]お歳暮[せいぼ]を送[おく]ってくる。 | Trọng tình nghĩa, năm nào anh ấy cũng gửi quà cuối năm.
+腰[こし]が低[ひく]い | exp | YÊU ĐÊ | khiêm nhường | - | - | 社長[しゃちょう]なのに腰[こし]が低[ひく]くて誰[だれ]にでも丁寧[ていねい]だ。 | Là giám đốc mà vẫn khiêm nhường, lịch sự với mọi người.
+頭[あたま]が固[かた]い | exp | ĐẦU CỐ | bảo thủ, cứng nhắc | - | - | 父[ちち]は頭[あたま]が固[かた]くて新[あたら]しい考[かんが]えを認[みと]めない。 | Bố tôi bảo thủ, không chấp nhận ý tưởng mới.
+気[き]が利[き]く | exp | KHÍ LỢI | tinh ý, chu đáo | - | - | 彼女[かのじょ]はとても気[き]が利[き]くので助[たす]かる。 | Cô ấy rất tinh ý nên giúp được nhiều.
+気[き]が弱[よわ]い | exp | KHÍ NHƯỢC | nhút nhát | - | - | 気[き]が弱[よわ]くて、頼[たの]まれると断[ことわ]れない。 | Tôi nhút nhát nên được nhờ thì không từ chối được.
+お人[ひと]よし | n,adj-na | NHÂN | người cả tin, quá tốt bụng | - | - | お人[ひと]よしの彼[かれ]はよくだまされる。 | Anh ấy quá tốt bụng nên hay bị lừa.
+世話好[せわず]き | n,adj-na | THẾ THOẠI HẢO | thích lo chuyện người khác | - | - | 隣[となり]のおばさんは世話好[せわず]きで、何[なに]かと面倒[めんどう]を見[み]てくれる。 | Cô hàng xóm thích lo toan, việc gì cũng giúp đỡ.
+出[で]しゃばり | n,adj-na | XUẤT | hay xía vào | - | - | 出[で]しゃばりだと思[おも]われたくないので黙[だま]っていた。 | Không muốn bị coi là hay xía vào nên tôi im lặng.
+欲張[よくば]り | n,adj-na | DỤC TRƯƠNG | tham lam | - | - | 全部[ぜんぶ]欲[ほ]しいなんて欲張[よくば]りだね。 | Muốn tất cả thì tham quá đấy.
+見栄[みえ] | n | KIẾN VINH | sĩ diện | {見栄} を 張[は]る | sĩ diện, làm màu | 見栄[みえ]を張[は]って高[たか]い時計[とけい]を買[か]った。 | Vì sĩ diện mà tôi mua chiếc đồng hồ đắt tiền.
+うぬぼれ | n | - | tự phụ | - | - | 自分[じぶん]が一番[いちばん]だなんて、うぬぼれもいいところだ。 | Nghĩ mình là số một thì tự phụ quá rồi.
+思[おも]い上[あ]がる | v1 | TƯ THƯỢNG | tự cao | - | - | 一度[いちど]成功[せいこう]したくらいで思[おも]い上[あ]がってはいけない。 | Mới thành công một lần đừng tự cao.
+卑屈[ひくつ] | adj-na | TI KHUẤT | tự ti, khúm núm | - | - | 失敗[しっぱい]しても卑屈[ひくつ]になる必要[ひつよう]はない。 | Thất bại cũng không cần phải tự ti.
+素[そ]っ気[け]ない | adj-i | TỐ KHÍ | lạnh nhạt, cụt lủn | {素っ気ない} 返事[へんじ] | câu trả lời cụt lủn | メールを送[おく]ったら素[そ]っ気[け]ない返事[へんじ]が来[き]た。 | Gửi email đi thì nhận lại câu trả lời cụt lủn.
+心[こころ]が広[ひろ]い | exp | TÂM QUẢNG | rộng lượng | - | - | 彼[かれ]は心[こころ]が広[ひろ]く、小[ちい]さなことでは怒[おこ]らない。 | Anh ấy rộng lượng, không giận vì chuyện nhỏ.
+度量[どりょう] | n | ĐỘ LƯỢNG | độ lượng | {度量} が 大[おお]きい | rộng lượng | 部下[ぶか]の失敗[しっぱい]を許[ゆる]す度量[どりょう]がある。 | Ông ấy có độ lượng tha thứ cho thất bại của cấp dưới.
+天性[てんせい] | n | THIÊN TÍNH | thiên bẩm | {天性} の 才能[さいのう] | tài năng thiên bẩm | 彼女[かのじょ]には天性[てんせい]の明[あか]るさがある。 | Cô ấy có tính vui vẻ thiên bẩm.
+要領[ようりょう] | n | YẾU LĨNH | mấu chốt; sự khéo léo | {要領} が いい | khéo xoay xở | 彼[かれ]は要領[ようりょう]がよくて、仕事[しごと]が早[はや]い。 | Anh ấy khéo xoay xở nên làm việc nhanh.
+腕前[うでまえ] | n | OẢN TIỀN | tay nghề | 料理[りょうり] の {腕前} | tay nghề nấu ăn | 父[ちち]の料理[りょうり]の腕前[うでまえ]はプロ並[な]みだ。 | Tay nghề nấu ăn của bố ngang dân chuyên.
+技量[ぎりょう] | n | KỸ LƯỢNG | kỹ năng, tài nghệ | - | - | この仕事[しごと]には高[たか]い技量[ぎりょう]が求[もと]められる。 | Công việc này đòi hỏi tay nghề cao.
+力量[りきりょう] | n | LỰC LƯỢNG | năng lực | {力量} を 発揮[はっき]する | phát huy năng lực | 新[あたら]しい監督[かんとく]の力量[りきりょう]が試[ため]される。 | Năng lực của huấn luyện viên mới sẽ bị thử thách.
+知性[ちせい] | n | TRI TÍNH | trí tuệ | - | - | 彼女[かのじょ]の話[はな]し方[かた]には知性[ちせい]が感[かん]じられる。 | Cách nói chuyện của cô ấy toát lên trí tuệ.
+理性[りせい] | n | LÝ TÍNH | lý trí | {理性} を 失[うしな]う | mất lý trí | 怒[いか]りで理性[りせい]を失[うしな]ってはいけない。 | Không được để cơn giận làm mất lý trí.
+感性[かんせい] | n | CẢM TÍNH | cảm quan, độ nhạy cảm | 豊[ゆた]かな {感性} | cảm quan phong phú | 子供[こども]の感性[かんせい]は大人[おとな]より豊[ゆた]かだ。 | Cảm quan của trẻ con phong phú hơn người lớn.
+感受性[かんじゅせい] | n | CẢM THỤ TÍNH | tính nhạy cảm | {感受性} が 強[つよ]い | nhạy cảm | 彼[かれ]は感受性[かんじゅせい]が強[つよ]く、すぐ泣[な]いてしまう。 | Cậu ấy nhạy cảm, dễ khóc.
+想像力[そうぞうりょく] | n | TƯỞNG TƯỢNG LỰC | trí tưởng tượng | - | - | 絵本[えほん]は子供[こども]の想像力[そうぞうりょく]を育[そだ]てる。 | Truyện tranh nuôi dưỡng trí tưởng tượng của trẻ.
+行動力[こうどうりょく] | n | HÀNH ĐỘNG LỰC | khả năng hành động | - | - | 彼女[かのじょ]の行動力[こうどうりょく]にはいつも驚[おどろ]かされる。 | Tôi luôn ngạc nhiên trước khả năng hành động của cô ấy.
+リーダーシップ | n | - | khả năng lãnh đạo | {リーダーシップ} を 取[と]る | dẫn dắt | 彼[かれ]はリーダーシップを発揮[はっき]してチームをまとめた。 | Anh ấy phát huy khả năng lãnh đạo, gắn kết cả đội.
+積極性[せっきょくせい] | n | TÍCH CỰC TÍNH | tính chủ động | - | - | 面接[めんせつ]では積極性[せっきょくせい]が評価[ひょうか]された。 | Ở buổi phỏng vấn, tính chủ động của tôi được đánh giá cao.
+主体性[しゅたいせい] | n | CHỦ THỂ TÍNH | tính chủ thể, tự giác | - | - | 学生[がくせい]には主体性[しゅたいせい]を持[も]って学[まな]んでほしい。 | Tôi muốn sinh viên học tập một cách tự giác.
+独創性[どくそうせい] | n | ĐỘC SÁNG TÍNH | tính sáng tạo độc đáo | - | - | この作品[さくひん]は独創性[どくそうせい]が高[たか]く評価[ひょうか]された。 | Tác phẩm này được đánh giá cao về tính sáng tạo.
+魅力的[みりょくてき] | adj-na | MỊ LỰC ĐÍCH | hấp dẫn | {魅力的} な 提案[ていあん] | đề xuất hấp dẫn | 給料[きゅうりょう]より仕事[しごと]の内容[ないよう]が魅力[みりょく]的[てき]だった。 | Nội dung công việc hấp dẫn hơn cả mức lương.
+印象的[いんしょうてき] | adj-na | ẤN TƯỢNG ĐÍCH | ấn tượng | - | - | 彼女[かのじょ]の笑顔[えがお]が印象[いんしょう]的[てき]だった。 | Nụ cười của cô ấy để lại ấn tượng.

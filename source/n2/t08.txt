@@ -1,0 +1,178 @@
+@topic t08
+@ja 環境[かんきょう]・エネルギー
+@vi Môi trường và năng lượng
+@desc Biến đổi khí hậu, ô nhiễm, rác thải, năng lượng tái tạo, địa hình, thời tiết cực đoan và các loài sinh vật.
+環境[かんきょう]保護[ほご] | n | HOÀN CẢNH BẢO HỘ | bảo vệ môi trường | - | - | 環境[かんきょう]保護[ほご]のためにマイバッグを使[つか]っている。 | Tôi dùng túi riêng để bảo vệ môi trường.
+自然[しぜん]保護[ほご] | n | TỰ NHIÊN BẢO HỘ | bảo vệ thiên nhiên | - | - | 自然[しぜん]保護[ほご]の活動[かつどう]に参加[さんか]している。 | Tôi tham gia các hoạt động bảo vệ thiên nhiên.
+環境[かんきょう]破壊[はかい] | n | HOÀN CẢNH PHÁ HOẠI | phá hủy môi trường | - | - | 開発[かいはつ]による環境[かんきょう]破壊[はかい]が問題[もんだい]になっている。 | Việc phá hủy môi trường do phát triển đang là vấn đề.
+環境[かんきょう]負荷[ふか] | n | HOÀN CẢNH PHỤ HÀ | tác động lên môi trường | 環境[かんきょう]負荷[ふか] を 減[へ]らす | giảm tác động môi trường | 工場[こうじょう]は環境[かんきょう]負荷[ふか]を減[へ]らす努力[どりょく]をしている。 | Nhà máy đang nỗ lực giảm tác động lên môi trường.
+負荷[ふか] | n | PHỤ HÀ | tải trọng, gánh nặng | 負荷[ふか] が かかる | chịu tải | 重[おも]い荷物[にもつ]で腰[こし]に負荷[ふか]がかかった。 | Mang đồ nặng nên lưng phải chịu tải.
+環境省[かんきょうしょう] | n | HOÀN CẢNH TỈNH | Bộ Môi trường | - | - | 環境省[かんきょうしょう]が熱中症[ねっちゅうしょう]の注意[ちゅうい]を呼[よ]びかけた。 | Bộ Môi trường kêu gọi đề phòng say nắng.
+環境[かんきょう]基準[きじゅん] | n | HOÀN CẢNH CƠ CHUẨN | tiêu chuẩn môi trường | - | - | 川[かわ]の水質[すいしつ]は環境[かんきょう]基準[きじゅん]を満[み]たしている。 | Chất lượng nước sông đạt tiêu chuẩn môi trường.
+環境税[かんきょうぜい] | n | HOÀN CẢNH THUẾ | thuế môi trường | - | - | 環境税[かんきょうぜい]の導入[どうにゅう]が検討[けんとう]されている。 | Việc áp dụng thuế môi trường đang được xem xét.
+地球[ちきゅう]温暖化[おんだんか] | n | ĐỊA CẦU ÔN NOÃN HÓA | trái đất nóng lên | 地球[ちきゅう]温暖化[おんだんか] を 防[ふせ]ぐ | ngăn trái đất nóng lên | 地球[ちきゅう]温暖化[おんだんか]を防[ふせ]ぐために何[なに]ができるか考[かんが]えよう。 | Hãy nghĩ xem mình làm được gì để ngăn trái đất nóng lên.
+温暖化[おんだんか]対策[たいさく] | n | ÔN NOÃN HÓA ĐỐI SÁCH | biện pháp chống nóng lên toàn cầu | - | - | 各国[かっこく]が温暖化[おんだんか]対策[たいさく]を進[すす]めている。 | Các nước đang triển khai biện pháp chống nóng lên toàn cầu.
+気候[きこう]変動[へんどう] | n | KHÍ HẬU BIẾN ĐỘNG | biến đổi khí hậu | - | - | 気候[きこう]変動[へんどう]で農作物[のうさくもつ]に影響[えいきょう]が出[で]ている。 | Biến đổi khí hậu đang ảnh hưởng đến nông sản.
+異常[いじょう]気象[きしょう] | n | DỊ THƯỜNG KHÍ TƯỢNG | thời tiết bất thường | - | - | 今年[ことし]は異常[いじょう]気象[きしょう]が続[つづ]いている。 | Năm nay thời tiết bất thường kéo dài.
+気温[きおん]上昇[じょうしょう] | n | KHÍ ÔN THƯỢNG THĂNG | nhiệt độ tăng | - | - | 気温[きおん]上昇[じょうしょう]で桜[さくら]の開花[かいか]が早[はや]くなった。 | Do nhiệt độ tăng, hoa anh đào nở sớm hơn.
+温室[おんしつ]効果[こうか] | n | ÔN THẤT HIỆU QUẢ | hiệu ứng nhà kính | {温室[おんしつ]効果[こうか]} ガス | khí nhà kính | 温室[おんしつ]効果[こうか]ガスの排出[はいしゅつ]を減[へ]らす。 | Giảm phát thải khí nhà kính.
+排出量[はいしゅつりょう] | n | BÀI XUẤT LƯỢNG | lượng phát thải | 排出量[はいしゅつりょう] を 削減[さくげん] する | cắt giảm lượng phát thải | 二酸化炭素[にさんかたんそ]の排出量[はいしゅつりょう]を半分[はんぶん]に削減[さくげん]する。 | Cắt giảm một nửa lượng phát thải CO2.
+脱炭素[だつたんそ] | n | THOÁT THÁN TỐ | phi cacbon hóa | {脱炭素} 社会[しゃかい] | xã hội phi cacbon | 脱炭素[だつたんそ]社会[しゃかい]の実現[じつげん]を目指[めざ]す。 | Hướng tới hiện thực hóa xã hội phi cacbon.
+海面[かいめん]上昇[じょうしょう] | n | HẢI DIỆN THƯỢNG THĂNG | nước biển dâng | - | - | 海面[かいめん]上昇[じょうしょう]で島[しま]が沈[しず]む恐[おそ]れがある。 | Nước biển dâng có nguy cơ nhấn chìm các hòn đảo.
+氷河[ひょうが] | n | BĂNG HÀ | sông băng | - | - | 温暖化[おんだんか]で氷河[ひょうが]が溶[と]けている。 | Sông băng đang tan do nóng lên toàn cầu.
+オゾン層[そう] | n | TẦNG | tầng ôzôn | - | - | オゾン層[そう]が紫外線[しがいせん]から地球[ちきゅう]を守[まも]っている。 | Tầng ôzôn bảo vệ Trái Đất khỏi tia cực tím.
+酸性雨[さんせいう] | n | TOAN TÍNH VŨ | mưa axit | - | - | 酸性雨[さんせいう]で古[ふる]い建物[たてもの]が傷[いた]んでいる。 | Mưa axit làm hư hại những tòa nhà cũ.
+熱帯[ねったい]雨林[うりん] | n | NHIỆT ĐỚI VŨ LÂM | rừng mưa nhiệt đới | - | - | 熱帯[ねったい]雨林[うりん]が減[へ]り続[つづ]けている。 | Rừng mưa nhiệt đới đang tiếp tục suy giảm.
+森林[しんりん]破壊[はかい] | n | SÂM LÂM PHÁ HOẠI | phá rừng | - | - | 森林[しんりん]破壊[はかい]は動物[どうぶつ]の住[す]む場所[ばしょ]を奪[うば]う。 | Phá rừng tước đi nơi sống của động vật.
+砂漠化[さばくか] | n,v3 | SA MẠC HÓA | sa mạc hóa | - | - | 砂漠化[さばくか]を防[ふせ]ぐために木[き]を植[う]える。 | Trồng cây để ngăn sa mạc hóa.
+干[かん]ばつ | n | CAN | hạn hán | - | - | 干[かん]ばつで米[こめ]の収穫[しゅうかく]が減[へ]った。 | Hạn hán khiến sản lượng lúa giảm.
+熱波[ねっぱ] | n | NHIỆT BA | đợt nắng nóng | - | - | ヨーロッパを熱波[ねっぱ]が襲[おそ]った。 | Đợt nắng nóng đã tràn qua châu Âu.
+猛暑日[もうしょび] | n | MÃNH THỬ NHẬT | ngày nắng gắt (trên 35 độ) | - | - | 今年[ことし]の夏[なつ]は猛暑日[もうしょび]が二十[にじゅう]日[にち]もあった。 | Mùa hè năm nay có đến hai mươi ngày nắng gắt.
+最低[さいてい]気温[きおん] | n | TỐI ĐÊ KHÍ ÔN | nhiệt độ thấp nhất | - | - | 明日[あした]の最低[さいてい]気温[きおん]は零[れい]度[ど]です。 | Nhiệt độ thấp nhất ngày mai là không độ.
+記録的[きろくてき] | adj-na | KÝ LỤC ĐÍCH | mang tính kỷ lục | {記録的} な 大雨[おおあめ] | trận mưa kỷ lục | 記録的[きろくてき]な大雨[おおあめ]で川[かわ]があふれた。 | Mưa lớn kỷ lục khiến sông tràn bờ.
+公害[こうがい] | n | CÔNG HẠI | ô nhiễm công nghiệp | - | - | 昔[むかし]、日本[にほん]では公害[こうがい]が大[おお]きな問題[もんだい]になった。 | Ngày trước ở Nhật, ô nhiễm công nghiệp từng là vấn đề lớn.
+大気[たいき]汚染[おせん] | n | ĐẠI KHÍ Ô NHIỄM | ô nhiễm không khí | - | - | ハノイの大気[たいき]汚染[おせん]が心配[しんぱい]だ。 | Lo ngại ô nhiễm không khí ở Hà Nội.
+水質[すいしつ]汚染[おせん] | n | THỦY CHẤT Ô NHIỄM | ô nhiễm nước | - | - | 工場[こうじょう]の排水[はいすい]で水質[すいしつ]汚染[おせん]が起[お]きた。 | Nước thải nhà máy gây ô nhiễm nguồn nước.
+土壌[どじょう]汚染[おせん] | n | THỔ NHƯỠNG Ô NHIỄM | ô nhiễm đất | - | - | 工場[こうじょう]の跡地[あとち]で土壌[どじょう]汚染[おせん]が見[み]つかった。 | Phát hiện ô nhiễm đất ở khu đất nhà máy cũ.
+海洋[かいよう]汚染[おせん] | n | HẢI DƯƠNG Ô NHIỄM | ô nhiễm biển | - | - | プラスチックごみによる海洋[かいよう]汚染[おせん]が深刻[しんこく]だ。 | Ô nhiễm biển do rác nhựa rất nghiêm trọng.
+汚染[おせん]物質[ぶっしつ] | n | Ô NHIỄM VẬT CHẤT | chất ô nhiễm | - | - | 空気[くうき]中[ちゅう]の汚染[おせん]物質[ぶっしつ]を測定[そくてい]する。 | Đo chất ô nhiễm trong không khí.
+有害[ゆうがい] | adj-na | HỮU HẠI | có hại | {有害} な ガス | khí độc hại | 火事[かじ]では有害[ゆうがい]なガスが出[で]る。 | Đám cháy sinh ra khí độc hại.
+悪臭[あくしゅう] | n | ÁC XÚ | mùi hôi thối | 悪臭[あくしゅう] が する | bốc mùi hôi | ごみ置[お]き場[ば]から悪臭[あくしゅう]がする。 | Bãi rác bốc mùi hôi.
+濃度[のうど] | n | NỒNG ĐỘ | nồng độ | 濃度[のうど] が 高[たか]い | nồng độ cao | 空気[くうき]中[ちゅう]の二酸化炭素[にさんかたんそ]の濃度[のうど]が高[たか]くなっている。 | Nồng độ CO2 trong không khí đang tăng cao.
+微量[びりょう] | n | VI LƯỢNG | lượng rất nhỏ | - | - | 水[みず]から微量[びりょう]の化学[かがく]物質[ぶっしつ]が検出[けんしゅつ]された。 | Phát hiện lượng rất nhỏ hóa chất trong nước.
+基準値[きじゅんち] | n | CƠ CHUẨN TRỊ | giá trị tiêu chuẩn | 基準値[きじゅんち] を 超[こ]える | vượt ngưỡng tiêu chuẩn | 基準値[きじゅんち]を超[こ]える有害[ゆうがい]物質[ぶっしつ]が検出[けんしゅつ]された。 | Phát hiện chất độc hại vượt ngưỡng tiêu chuẩn.
+規制値[きせいち] | n | QUY CHẾ TRỊ | giới hạn quy định | - | - | 騒音[そうおん]が規制値[きせいち]を下回[したまわ]った。 | Tiếng ồn đã dưới mức giới hạn quy định.
+測定値[そくていち] | n | TRẮC ĐỊNH TRỊ | giá trị đo được | - | - | 測定値[そくていち]を毎日[まいにち]記録[きろく]する。 | Ghi lại giá trị đo hằng ngày.
+被害額[ひがいがく] | n | BỊ HẠI NGẠCH | giá trị thiệt hại | - | - | 台風[たいふう]による被害額[ひがいがく]は百億[ひゃくおく]円[えん]を超[こ]えた。 | Thiệt hại do bão vượt mười tỷ yên.
+廃棄物[はいきぶつ] | n | PHẾ KHÍ VẬT | chất thải | - | - | 廃棄物[はいきぶつ]を減[へ]らす取[と]り組[く]みが必要[ひつよう]だ。 | Cần có những nỗ lực giảm chất thải.
+産業[さんぎょう]廃棄物[はいきぶつ] | n | SẢN NGHIỆP PHẾ KHÍ VẬT | chất thải công nghiệp | - | - | 産業[さんぎょう]廃棄物[はいきぶつ]は専門[せんもん]の業者[ぎょうしゃ]が処理[しょり]する。 | Chất thải công nghiệp được đơn vị chuyên môn xử lý.
+廃棄[はいき] | n,v3 | PHẾ KHÍ | vứt bỏ, tiêu hủy | 食品[しょくひん] を {廃棄} する | tiêu hủy thực phẩm | 賞味[しょうみ]期限[きげん]が切[き]れた食品[しょくひん]を廃棄[はいき]した。 | Đã tiêu hủy thực phẩm hết hạn.
+食品[しょくひん]ロス | n | THỰC PHẨM | lãng phí thực phẩm | 食品[しょくひん]ロス を 減[へ]らす | giảm lãng phí thực phẩm | 食[た]べ切[き]れる量[りょう]だけ買[か]って食品[しょくひん]ロスを減[へ]らそう。 | Chỉ mua lượng ăn hết để giảm lãng phí thực phẩm.
+生[なま]ごみ | n | SINH | rác hữu cơ (thức ăn thừa) | - | - | 生[なま]ごみは水[みず]を切[き]ってから捨[す]ててください。 | Rác thức ăn hãy chắt nước trước khi vứt.
+ごみ処理[しょり] | n | XỬ LÝ | xử lý rác | - | - | ごみ処理[しょり]には多[おお]くの税金[ぜいきん]が使[つか]われている。 | Rất nhiều tiền thuế được dùng để xử lý rác.
+焼却[しょうきゃく] | n,v3 | THIÊU KHƯỚC | đốt (rác) | {焼却} 炉[ろ] | lò đốt | 燃[も]えるごみは焼却[しょうきゃく]される。 | Rác cháy được sẽ được đốt.
+焼却炉[しょうきゃくろ] | n | THIÊU KHƯỚC LÔ | lò đốt rác | - | - | 新[あたら]しい焼却炉[しょうきゃくろ]は有害[ゆうがい]なガスが少[すく]ない。 | Lò đốt mới thải ít khí độc hại.
+埋[う]め立[た]て | n | MAI LẬP | san lấp | {埋[う]め立[た]て} 地[ち] | đất lấn biển | 空港[くうこう]は埋[う]め立[た]て地[ち]に作[つく]られた。 | Sân bay được xây trên đất lấn biển.
+処分場[しょぶんじょう] | n | XỬ PHÂN TRƯỜNG | bãi xử lý rác | - | - | ごみの処分場[しょぶんじょう]がもうすぐいっぱいになる。 | Bãi xử lý rác sắp đầy.
+不法[ふほう]投棄[とうき] | n | BẤT PHÁP ĐẦU KHÍ | đổ rác trái phép | - | - | 山[やま]への不法[ふほう]投棄[とうき]が後[あと]を絶[た]たない。 | Việc đổ rác trái phép lên núi vẫn không dứt.
+再生[さいせい] | n,v3 | TÁI SINH | tái sinh; phát lại | {再生} 紙[し] | giấy tái chế | このノートは再生[さいせい]紙[し]で作[つく]られている。 | Quyển vở này làm từ giấy tái chế.
+循環[じゅんかん] | n,v3 | TUẦN HOÀN | tuần hoàn | 血液[けつえき] の {循環} | tuần hoàn máu | マッサージは血液[けつえき]の循環[じゅんかん]を良[よ]くする。 | Mát-xa giúp máu lưu thông tốt.
+循環型[じゅんかんがた]社会[しゃかい] | n | TUẦN HOÀN HÌNH XÃ HỘI | xã hội tuần hoàn | - | - | 資源[しげん]を繰[く]り返[かえ]し使[つか]う循環型[じゅんかんがた]社会[しゃかい]を目指[めざ]す。 | Hướng tới xã hội tuần hoàn sử dụng tài nguyên nhiều lần.
+持続[じぞく]可能[かのう] | adj-na | TRÌ TỤC KHẢ NĂNG | bền vững | {持続[じぞく]可能[かのう]} な 社会[しゃかい] | xã hội bền vững | 持続[じぞく]可能[かのう]な社会[しゃかい]を作[つく]るために協力[きょうりょく]しよう。 | Hãy cùng hợp sức xây dựng xã hội bền vững.
+エコバッグ | n | - | túi sinh thái | - | - | 買[か]い物[もの]にはエコバッグを持[も]っていく。 | Đi mua sắm tôi mang theo túi sinh thái.
+マイバッグ | n | - | túi riêng (khi mua hàng) | - | - | レジ袋[ぶくろ]が有料[ゆうりょう]になってマイバッグを使[つか]う人[ひと]が増[ふ]えた。 | Túi ni lông tính phí nên người dùng túi riêng tăng lên.
+過剰[かじょう]包装[ほうそう] | n | QUÁ THẶNG BAO TRANG | bao bì quá mức | - | - | 過剰[かじょう]包装[ほうそう]をやめる店[みせ]が増[ふ]えた。 | Cửa hàng bỏ bao bì quá mức đã tăng lên.
+プラごみ | n | - | rác nhựa | - | - | プラごみは資源[しげん]ごみの日[ひ]に出[だ]す。 | Rác nhựa đổ vào ngày rác tái chế.
+マイクロプラスチック | n | - | vi nhựa | - | - | 魚[さかな]の体内[たいない]からマイクロプラスチックが見[み]つかった。 | Đã phát hiện vi nhựa trong cơ thể cá.
+節水[せっすい] | n,v3 | TIẾT THỦY | tiết kiệm nước | - | - | 歯[は]を磨[みが]くときは水[みず]を止[と]めて節水[せっすい]しよう。 | Khi đánh răng hãy khóa nước để tiết kiệm.
+省[しょう]エネルギー | n | TỈNH | tiết kiệm năng lượng | - | - | 省[しょう]エネルギーの家電[かでん]は電気[でんき]代[だい]が安[やす]い。 | Đồ điện tiết kiệm năng lượng có tiền điện rẻ.
+エネルギー政策[せいさく] | n | CHÍNH SÁCH | chính sách năng lượng | - | - | 国[くに]のエネルギー政策[せいさく]が見直[みなお]された。 | Chính sách năng lượng quốc gia đã được xem xét lại.
+再生[さいせい]可能[かのう]エネルギー | n | TÁI SINH KHẢ NĂNG | năng lượng tái tạo | - | - | 再生[さいせい]可能[かのう]エネルギーの割合[わりあい]を増[ふ]やす。 | Tăng tỷ lệ năng lượng tái tạo.
+化石[かせき]燃料[ねんりょう] | n | HÓA THẠCH NHIÊN LIỆU | nhiên liệu hóa thạch | - | - | 化石[かせき]燃料[ねんりょう]に頼[たよ]らない社会[しゃかい]を目指[めざ]す。 | Hướng tới xã hội không phụ thuộc nhiên liệu hóa thạch.
+天然[てんねん]ガス | n | THIÊN NHIÊN | khí đốt tự nhiên | - | - | 日本[にほん]は天然[てんねん]ガスを輸入[ゆにゅう]している。 | Nhật Bản nhập khẩu khí đốt tự nhiên.
+灯油[とうゆ] | n | ĐĂNG DU | dầu hỏa | - | - | 冬[ふゆ]は灯油[とうゆ]ストーブを使[つか]う。 | Mùa đông dùng lò sưởi dầu hỏa.
+軽油[けいゆ] | n | KHINH DU | dầu diesel | - | - | トラックは軽油[けいゆ]で走[はし]る。 | Xe tải chạy bằng dầu diesel.
+燃料費[ねんりょうひ] | n | NHIÊN LIỆU PHÍ | chi phí nhiên liệu | - | - | 燃料費[ねんりょうひ]が上[あ]がって運送[うんそう]費[ひ]も高[たか]くなった。 | Chi phí nhiên liệu tăng nên phí vận chuyển cũng tăng.
+燃費[ねんぴ] | n | NHIÊN PHÍ | mức tiêu hao nhiên liệu | 燃費[ねんぴ] が いい | tiết kiệm xăng | この車[くるま]は燃費[ねんぴ]がいい。 | Chiếc xe này tiết kiệm xăng.
+天然[てんねん]資源[しげん] | n | THIÊN NHIÊN TƯ NGUYÊN | tài nguyên thiên nhiên | - | - | 天然[てんねん]資源[しげん]の少[すく]ない国[くに]は輸入[ゆにゅう]に頼[たよ]る。 | Nước ít tài nguyên thiên nhiên phải dựa vào nhập khẩu.
+枯渇[こかつ] | n,v3 | KHÔ KHÁT | cạn kiệt | 資源[しげん] が {枯渇} する | tài nguyên cạn kiệt | 石油[せきゆ]はいつか枯渇[こかつ]すると言[い]われている。 | Người ta nói dầu mỏ một ngày nào đó sẽ cạn kiệt.
+埋蔵量[まいぞうりょう] | n | MAI TÀNG LƯỢNG | trữ lượng | - | - | この国[くに]は石油[せきゆ]の埋蔵量[まいぞうりょう]が多[おお]い。 | Nước này có trữ lượng dầu mỏ lớn.
+鉱山[こうざん] | n | KHOÁNG SƠN | mỏ khoáng sản | - | - | 昔[むかし]この町[まち]には金[きん]の鉱山[こうざん]があった。 | Ngày xưa thị trấn này có mỏ vàng.
+自給率[じきゅうりつ] | n | TỰ CẤP SUẤT | tỷ lệ tự cung | 食料[しょくりょう] {自給率} | tỷ lệ tự cung lương thực | 日本[にほん]の食料[しょくりょう]自給率[じきゅうりつ]は低[ひく]い。 | Tỷ lệ tự cung lương thực của Nhật thấp.
+発電所[はつでんしょ] | n | PHÁT ĐIỆN SỞ | nhà máy điện | - | - | 海[うみ]の近[ちか]くに発電所[はつでんしょ]がある。 | Gần biển có nhà máy điện.
+原発[げんぱつ] | n | NGUYÊN PHÁT | nhà máy điện hạt nhân (nói tắt) | - | - | 原発[げんぱつ]の再稼働[さいかどう]について議論[ぎろん]が続[つづ]いている。 | Tranh luận về việc tái vận hành điện hạt nhân vẫn tiếp diễn.
+火力[かりょく] | n | HỎA LỰC | nhiệt (điện), sức lửa | {火力} 発電[はつでん] | nhiệt điện | 日本[にほん]の電気[でんき]の多[おお]くは火力[かりょく]発電[はつでん]だ。 | Phần lớn điện ở Nhật là nhiệt điện.
+水力[すいりょく] | n | THỦY LỰC | sức nước | {水力} 発電[はつでん] | thủy điện | ベトナムには水力[すいりょく]発電[はつでん]所[しょ]が多[おお]い。 | Việt Nam có nhiều nhà máy thủy điện.
+風力[ふうりょく] | n | PHONG LỰC | sức gió | {風力} 発電[はつでん] | điện gió | 海[うみ]の上[うえ]で風力[ふうりょく]発電[はつでん]が始[はじ]まった。 | Điện gió ngoài khơi đã bắt đầu hoạt động.
+太陽光[たいようこう]発電[はつでん] | n | THÁI DƯƠNG QUANG PHÁT ĐIỆN | điện mặt trời | - | - | 屋根[やね]に太陽光[たいようこう]発電[はつでん]のパネルをつけた。 | Gắn tấm pin điện mặt trời lên mái nhà.
+ソーラーパネル | n | - | tấm pin mặt trời | - | - | 田[た]んぼの跡[あと]にソーラーパネルが並[なら]んでいる。 | Các tấm pin mặt trời xếp hàng trên khu ruộng cũ.
+太陽[たいよう]電池[でんち] | n | THÁI DƯƠNG ĐIỆN TRÌ | pin mặt trời | - | - | この時計[とけい]は太陽[たいよう]電池[でんち]で動[うご]く。 | Đồng hồ này chạy bằng pin mặt trời.
+地熱[ちねつ] | n | ĐỊA NHIỆT | địa nhiệt | {地熱} 発電[はつでん] | điện địa nhiệt | 火山[かざん]の多[おお]い日本[にほん]は地熱[ちねつ]発電[はつでん]に向[む]いている。 | Nhật Bản nhiều núi lửa nên phù hợp với điện địa nhiệt.
+バイオマス | n | - | sinh khối | - | - | 木[き]くずを使[つか]ったバイオマス発電[はつでん]がある。 | Có loại điện sinh khối dùng mùn gỗ.
+バイオ燃料[ねんりょう] | n | NHIÊN LIỆU | nhiên liệu sinh học | - | - | とうもろこしからバイオ燃料[ねんりょう]を作[つく]る。 | Sản xuất nhiên liệu sinh học từ ngô.
+燃料[ねんりょう]電池[でんち] | n | NHIÊN LIỆU ĐIỆN TRÌ | pin nhiên liệu | - | - | 燃料[ねんりょう]電池[でんち]で走[はし]るバスが導入[どうにゅう]された。 | Xe buýt chạy pin nhiên liệu đã được đưa vào sử dụng.
+電気[でんき]自動車[じどうしゃ] | n | ĐIỆN KHÍ TỰ ĐỘNG XA | xe điện | - | - | 電気[でんき]自動車[じどうしゃ]の充電[じゅうでん]スタンドが増[ふ]えた。 | Trạm sạc xe điện đã tăng lên.
+ハイブリッド | n | - | (xe) hybrid | {ハイブリッド} 車[しゃ] | xe hybrid | ハイブリッド車[しゃ]は燃費[ねんぴ]がいい。 | Xe hybrid tiết kiệm nhiên liệu.
+エコカー | n | - | xe thân thiện môi trường | - | - | エコカーを買[か]うと税金[ぜいきん]が安[やす]くなる。 | Mua xe thân thiện môi trường thì được giảm thuế.
+電力[でんりょく]不足[ぶそく] | n | ĐIỆN LỰC BẤT TÚC | thiếu điện | - | - | 夏[なつ]は電力[でんりょく]不足[ぶそく]になる恐[おそ]れがある。 | Mùa hè có nguy cơ thiếu điện.
+計画[けいかく]停電[ていでん] | n | KẾ HOẠCH ĐÌNH ĐIỆN | cắt điện luân phiên | - | - | 地震[じしん]の後[あと]、計画[けいかく]停電[ていでん]が行[おこな]われた。 | Sau động đất đã cắt điện luân phiên.
+電気[でんき]料金[りょうきん] | n | ĐIỆN KHÍ LIỆU KIM | tiền điện | - | - | エアコンを使[つか]いすぎて電気[でんき]料金[りょうきん]が高[たか]くなった。 | Dùng điều hòa quá nhiều nên tiền điện tăng.
+供給量[きょうきゅうりょう] | n | CUNG CẤP LƯỢNG | lượng cung cấp | - | - | 電気[でんき]の供給量[きょうきゅうりょう]が足[た]りない。 | Lượng điện cung cấp không đủ.
+送電[そうでん] | n,v3 | TỐNG ĐIỆN | truyền tải điện | {送電} 線[せん] | đường dây tải điện | 台風[たいふう]で送電[そうでん]線[せん]が切[き]れた。 | Đường dây tải điện bị đứt do bão.
+電柱[でんちゅう] | n | ĐIỆN TRỤ | cột điện | - | - | 強風[きょうふう]で電柱[でんちゅう]が倒[たお]れた。 | Gió mạnh làm đổ cột điện.
+断熱[だんねつ] | n,v3 | ĐOẠN NHIỆT | cách nhiệt | {断熱} 材[ざい] | vật liệu cách nhiệt | 断熱[だんねつ]材[ざい]を入[い]れたら部屋[へや]が暖[あたた]かくなった。 | Lắp vật liệu cách nhiệt xong phòng ấm hơn.
+ヒートアイランド | n | - | hiệu ứng đảo nhiệt đô thị | - | - | 都市[とし]ではヒートアイランド現象[げんしょう]で気温[きおん]が高[たか]い。 | Ở đô thị nhiệt độ cao do hiệu ứng đảo nhiệt.
+緑地[りょくち] | n | LỤC ĐỊA | khu cây xanh | - | - | 街[まち]の中[なか]に緑地[りょくち]を増[ふ]やす計画[けいかく]がある。 | Có kế hoạch tăng khu cây xanh trong thành phố.
+国立[こくりつ]公園[こうえん] | n | QUỐC LẬP CÔNG VIÊN | vườn quốc gia | - | - | 国立[こくりつ]公園[こうえん]では植物[しょくぶつ]をとってはいけない。 | Không được hái cây trong vườn quốc gia.
+保護区[ほごく] | n | BẢO HỘ KHU | khu bảo tồn | - | - | 鳥[とり]の保護区[ほごく]に指定[してい]された。 | Đã được chỉ định là khu bảo tồn chim.
+野生[やせい]動物[どうぶつ] | n | DÃ SINH ĐỘNG VẬT | động vật hoang dã | - | - | 野生[やせい]動物[どうぶつ]にえさをあげないでください。 | Đừng cho động vật hoang dã ăn.
+野生[やせい]生物[せいぶつ] | n | DÃ SINH SINH VẬT | sinh vật hoang dã | - | - | 野生[やせい]生物[せいぶつ]の生息地[せいそくち]が減[へ]っている。 | Môi trường sống của sinh vật hoang dã đang giảm.
+動植物[どうしょくぶつ] | n | ĐỘNG THỰC VẬT | động thực vật | - | - | 島[しま]には珍[めずら]しい動植物[どうしょくぶつ]が多[おお]い。 | Trên đảo có nhiều loài động thực vật quý hiếm.
+生物[せいぶつ]多様性[たようせい] | n | SINH VẬT ĐA DẠNG TÍNH | đa dạng sinh học | - | - | 生物[せいぶつ]多様性[たようせい]を守[まも]ることは人間[にんげん]のためでもある。 | Bảo vệ đa dạng sinh học cũng là vì con người.
+絶滅[ぜつめつ]危惧種[きぐしゅ] | n | TUYỆT DIỆT NGUY CỤ CHỦNG | loài có nguy cơ tuyệt chủng | - | - | パンダは絶滅[ぜつめつ]危惧種[きぐしゅ]に指定[してい]されていた。 | Gấu trúc từng bị xếp vào loài có nguy cơ tuyệt chủng.
+在来種[ざいらいしゅ] | n | TẠI LAI CHỦNG | loài bản địa | - | - | 外来種[がいらいしゅ]が在来種[ざいらいしゅ]を追[お]い出[だ]している。 | Loài ngoại lai đang lấn át loài bản địa.
+生息[せいそく] | n,v3 | SINH TỨC | sinh sống (động vật) | - | - | この川[かわ]には珍[めずら]しい魚[さかな]が生息[せいそく]している。 | Con sông này có loài cá quý hiếm sinh sống.
+生息地[せいそくち] | n | SINH TỨC ĐỊA | môi trường sống | - | - | 開発[かいはつ]で鳥[とり]の生息地[せいそくち]がなくなった。 | Do phát triển, nơi sống của chim đã mất.
+繁殖[はんしょく] | n,v3 | PHỒN THỰC | sinh sản | - | - | 動物園[どうぶつえん]でパンダの繁殖[はんしょく]に成功[せいこう]した。 | Sở thú đã cho gấu trúc sinh sản thành công.
+渡[わた]り鳥[どり] | n | ĐỘ ĐIỂU | chim di cư | - | - | 冬[ふゆ]になると渡[わた]り鳥[どり]が湖[みずうみ]にやってくる。 | Đến mùa đông chim di cư lại về hồ.
+天敵[てんてき] | n | THIÊN ĐỊCH | thiên địch | - | - | ネズミの天敵[てんてき]はヘビやフクロウだ。 | Thiên địch của chuột là rắn và cú.
+食物[しょくもつ]連鎖[れんさ] | n | THỰC VẬT LIÊN TỎA | chuỗi thức ăn | - | - | ライオンは食物[しょくもつ]連鎖[れんさ]の頂点[ちょうてん]に立[た]つ動物[どうぶつ]だ。 | Sư tử là loài đứng đầu chuỗi thức ăn.
+駆除[くじょ] | n,v3 | KHU TRỪ | tiêu diệt (côn trùng, chuột) | 害虫[がいちゅう] を {駆除} する | diệt côn trùng có hại | 業者[ぎょうしゃ]に頼[たの]んでシロアリを駆除[くじょ]した。 | Nhờ người chuyên làm để diệt mối.
+共存[きょうぞん] | n,v3 | CỘNG TỒN | cùng tồn tại | 自然[しぜん] と {共存} する | sống hài hòa với thiên nhiên | 人間[にんげん]と自然[しぜん]が共存[きょうぞん]できる社会[しゃかい]を作[つく]る。 | Xây dựng xã hội nơi con người và thiên nhiên cùng tồn tại.
+農薬[のうやく] | n | NÔNG DƯỢC | thuốc trừ sâu | 農薬[のうやく] を まく | phun thuốc trừ sâu | 野菜[やさい]に農薬[のうやく]をまく。 | Phun thuốc trừ sâu cho rau.
+無農薬[むのうやく] | n | VÔ NÔNG DƯỢC | không dùng thuốc trừ sâu | {無農薬} 野菜[やさい] | rau không thuốc trừ sâu | 無農薬[むのうやく]野菜[やさい]は少[すこ]し高[たか]い。 | Rau không thuốc trừ sâu hơi đắt.
+有機[ゆうき]栽培[さいばい] | n | HỮU CƠ TÀI BỒI | canh tác hữu cơ | - | - | 祖父[そふ]は有機[ゆうき]栽培[さいばい]で米[こめ]を作[つく]っている。 | Ông tôi trồng lúa theo phương pháp hữu cơ.
+化学[かがく]肥料[ひりょう] | n | HÓA HỌC PHÌ LIỆU | phân bón hóa học | - | - | 化学[かがく]肥料[ひりょう]を使[つか]いすぎると土[つち]が弱[よわ]る。 | Dùng quá nhiều phân hóa học thì đất bị bạc màu.
+肥料[ひりょう] | n | PHÌ LIỆU | phân bón | 肥料[ひりょう] を やる | bón phân | 花[はな]に肥料[ひりょう]をやった。 | Tôi bón phân cho hoa.
+堆肥[たいひ] | n | ĐÔI PHÌ | phân ủ | - | - | 生[なま]ごみから堆肥[たいひ]を作[つく]る。 | Ủ phân từ rác thức ăn.
+浄化[じょうか] | n,v3 | TỊNH HÓA | làm sạch | 水[みず] を {浄化} する | làm sạch nước | 植物[しょくぶつ]には空気[くうき]を浄化[じょうか]する働[はたら]きがある。 | Cây xanh có tác dụng làm sạch không khí.
+浄水[じょうすい] | n | TỊNH THỦY | nước sạch, lọc nước | {浄水} 器[き] | máy lọc nước | 台所[だいどころ]に浄水[じょうすい]器[き]をつけた。 | Tôi lắp máy lọc nước trong bếp.
+浄化槽[じょうかそう] | n | TỊNH HÓA TÀO | bể tự hoại | - | - | 田舎[いなか]の家[いえ]には浄化槽[じょうかそう]がある。 | Nhà ở quê có bể tự hoại.
+上水道[じょうすいどう] | n | THƯỢNG THỦY ĐẠO | hệ thống cấp nước | - | - | この村[むら]にも上水道[じょうすいどう]が整備[せいび]された。 | Làng này cũng đã có hệ thống cấp nước.
+下水道[げすいどう] | n | HẠ THỦY ĐẠO | hệ thống thoát nước | - | - | 大雨[おおあめ]で下水道[げすいどう]があふれた。 | Mưa lớn khiến cống thoát nước tràn.
+下水[げすい] | n | HẠ THỦY | nước thải sinh hoạt | - | - | 油[あぶら]を下水[げすい]に流[なが]さないでください。 | Đừng đổ dầu ăn xuống cống.
+ダム | n | - | đập nước | - | - | 雨[あめ]が少[すく]なくてダムの水[みず]が減[へ]った。 | Ít mưa nên nước trong đập giảm.
+決壊[けっかい] | n,v3 | QUYẾT HOẠI | vỡ (đê, đập) | 堤防[ていぼう] が {決壊} する | đê bị vỡ | 大雨[おおあめ]で堤防[ていぼう]が決壊[けっかい]した。 | Mưa lớn làm vỡ đê.
+冠水[かんすい] | n,v3 | QUAN THỦY | ngập nước | - | - | 道路[どうろ]が冠水[かんすい]して車[くるま]が通[とお]れない。 | Đường bị ngập nên xe không qua được.
+高潮[たかしお] | n | CAO TRIỀU | triều cường | - | - | 台風[たいふう]で高潮[たかしお]の恐[おそ]れがある。 | Do bão nên có nguy cơ triều cường.
+地滑[じすべ]り | n | ĐỊA HOẠT | sạt lở đất | - | - | 長雨[ながあめ]で地滑[じすべ]りが起[お]きた。 | Mưa kéo dài gây sạt lở đất.
+がけ崩[くず]れ | n | BĂNG | sạt lở vách núi | - | - | がけ崩[くず]れで道[みち]がふさがれた。 | Sạt lở vách núi khiến đường bị chặn.
+雪崩[なだれ] | n | TUYẾT BĂNG | tuyết lở | - | - | 山[やま]で雪崩[なだれ]が起[お]きて、スキー場[じょう]が閉鎖[へいさ]された。 | Tuyết lở trên núi nên khu trượt tuyết bị đóng cửa.
+土砂[どしゃ] | n | THỔ SA | đất cát | {土砂} 災害[さいがい] | thiên tai sạt lở | 大雨[おおあめ]で土砂[どしゃ]災害[さいがい]の危険[きけん]が高[たか]まっている。 | Mưa lớn khiến nguy cơ sạt lở tăng cao.
+避難[ひなん]指示[しじ] | n | TỊ NẠN CHỈ THỊ | lệnh sơ tán | - | - | 市[し]から避難[ひなん]指示[しじ]が出[で]た。 | Thành phố đã ra lệnh sơ tán.
+大雨[おおあめ]警報[けいほう] | n | ĐẠI VŨ CẢNH BÁO | cảnh báo mưa lớn | - | - | 大雨[おおあめ]警報[けいほう]で学校[がっこう]が休[やす]みになった。 | Có cảnh báo mưa lớn nên trường được nghỉ.
+減災[げんさい] | n | GIẢM TAI | giảm nhẹ thiên tai | - | - | 防災[ぼうさい]だけでなく減災[げんさい]の考[かんが]え方[かた]も大切[たいせつ]だ。 | Không chỉ phòng chống mà quan điểm giảm nhẹ thiên tai cũng quan trọng.
+荒天[こうてん] | n | HOANG THIÊN | thời tiết xấu | - | - | 荒天[こうてん]のため、フェリーは欠航[けっこう]となった。 | Do thời tiết xấu, phà đã hủy chuyến.
+濃霧[のうむ] | n | NỒNG VỤ | sương mù dày | - | - | 濃霧[のうむ]で飛行機[ひこうき]が遅[おく]れた。 | Máy bay bị trễ do sương mù dày.
+雹[ひょう] | n | BẠC | mưa đá | - | - | 突然[とつぜん]雹[ひょう]が降[ふ]ってきて驚[おどろ]いた。 | Đột nhiên mưa đá rơi khiến tôi giật mình.
+豪雪[ごうせつ] | n | HÀO TUYẾT | tuyết rơi dày | {豪雪} 地帯[ちたい] | vùng tuyết dày | 新潟[にいがた]は豪雪[ごうせつ]地帯[ちたい]だ。 | Niigata là vùng tuyết rơi dày.
+梅雨[つゆ]明[あ]け | n | MAI VŨ MINH | hết mùa mưa | - | - | 梅雨[つゆ]明[あ]けすると本格[ほんかく]的[てき]な夏[なつ]が来[く]る。 | Hết mùa mưa là mùa hè thực sự đến.
+低気圧[ていきあつ] | n | ĐÊ KHÍ ÁP | áp thấp | - | - | 低気圧[ていきあつ]が近[ちか]づいて雨[あめ]になりそうだ。 | Áp thấp đang đến gần, có vẻ sẽ mưa.
+高気圧[こうきあつ] | n | CAO KHÍ ÁP | áp cao | - | - | 高気圧[こうきあつ]に覆[おお]われて晴[は]れが続[つづ]く。 | Áp cao bao phủ nên trời nắng kéo dài.
+季節風[きせつふう] | n | QUÝ TIẾT PHONG | gió mùa | - | - | 冬[ふゆ]は北西[ほくせい]の季節風[きせつふう]が吹[ふ]く。 | Mùa đông có gió mùa tây bắc.
+気流[きりゅう] | n | KHÍ LƯU | luồng không khí | - | - | 飛行機[ひこうき]が気流[きりゅう]の悪[わる]い所[ところ]で揺[ゆ]れた。 | Máy bay rung lắc khi qua vùng nhiễu động không khí.
+日照[にっしょう] | n | NHẬT CHIẾU | ánh nắng, giờ nắng | {日照} 時間[じかん] | số giờ nắng | 今年[ことし]は日照[にっしょう]時間[じかん]が短[みじか]く、野菜[やさい]が育[そだ]たない。 | Năm nay ít giờ nắng nên rau không lớn được.
+温暖[おんだん] | adj-na | ÔN NOÃN | ấm áp | {温暖} な 気候[きこう] | khí hậu ấm áp | 温暖[おんだん]な気候[きこう]で果物[くだもの]がよく育[そだ]つ。 | Khí hậu ấm áp nên cây ăn quả phát triển tốt.
+寒冷[かんれい] | adj-na | HÀN LÃNH | lạnh giá | {寒冷} 地[ち] | vùng lạnh | 寒冷[かんれい]地[ち]では家[いえ]の作[つく]りが違[ちが]う。 | Ở vùng lạnh, nhà được xây theo cách khác.
+亜熱帯[あねったい] | n | Á NHIỆT ĐỚI | cận nhiệt đới | - | - | 沖縄[おきなわ]は亜熱帯[あねったい]の気候[きこう]だ。 | Okinawa có khí hậu cận nhiệt đới.
+温帯[おんたい] | n | ÔN ĐỚI | ôn đới | - | - | 日本[にほん]の大部分[だいぶぶん]は温帯[おんたい]に属[ぞく]する。 | Phần lớn Nhật Bản thuộc vùng ôn đới.
+風土[ふうど] | n | PHONG THỔ | phong thổ, khí hậu và đất đai | - | - | その土地[とち]の風土[ふうど]に合[あ]った作物[さくもつ]を育[そだ]てる。 | Trồng loại cây hợp với phong thổ nơi đó.
+地帯[ちたい] | n | ĐỊA ĐỚI | vùng, khu vực | 工業[こうぎょう] {地帯} | khu công nghiệp | 海沿[うみぞ]いに工業[こうぎょう]地帯[ちたい]が広[ひろ]がっている。 | Khu công nghiệp trải dọc bờ biển.
+山岳[さんがく] | n | SƠN NHẠC | núi non | {山岳} 地帯[ちたい] | vùng núi | 山岳[さんがく]地帯[ちたい]は天気[てんき]が変[か]わりやすい。 | Vùng núi thời tiết dễ thay đổi.
+高原[こうげん] | n | CAO NGUYÊN | cao nguyên | - | - | 夏[なつ]は涼[すず]しい高原[こうげん]で過[す]ごしたい。 | Mùa hè tôi muốn nghỉ ở cao nguyên mát mẻ.
+丘陵[きゅうりょう] | n | KHÂU LĂNG | đồi | - | - | 丘陵[きゅうりょう]地帯[ちたい]にゴルフ場[じょう]がある。 | Có sân golf ở vùng đồi.
+列島[れっとう] | n | LIỆT ĐẢO | quần đảo | 日本[にほん] {列島} | quần đảo Nhật Bản | 台風[たいふう]が日本[にほん]列島[れっとう]を縦断[じゅうだん]した。 | Bão đã đi dọc quần đảo Nhật Bản.
+海峡[かいきょう] | n | HẢI HIỆP | eo biển | - | - | 海峡[かいきょう]を渡[わた]るフェリーに乗[の]った。 | Tôi đi phà qua eo biển.
+岬[みさき] | n | GIÁP | mũi đất | - | - | 岬[みさき]の灯台[とうだい]から海[うみ]を眺[なが]めた。 | Ngắm biển từ ngọn hải đăng trên mũi đất.
+沿岸[えんがん] | n | DUYÊN NGẠN | ven biển | {沿岸} 部[ぶ] | vùng ven biển | 津波[つなみ]で沿岸[えんがん]部[ぶ]が大[おお]きな被害[ひがい]を受[う]けた。 | Vùng ven biển bị thiệt hại nặng do sóng thần.
+河川[かせん] | n | HÀ XUYÊN | sông ngòi | - | - | 大雨[おおあめ]で河川[かせん]の水位[すいい]が上[あ]がっている。 | Mực nước sông đang dâng do mưa lớn.
+河口[かこう] | n | HÀ KHẨU | cửa sông | - | - | 河口[かこう]には鳥[とり]がたくさん集[あつ]まる。 | Ở cửa sông có rất nhiều chim tụ tập.
+上流[じょうりゅう] | n | THƯỢNG LƯU | thượng nguồn; tầng lớp trên | - | - | 川[かわ]の上流[じょうりゅう]は水[みず]がきれいだ。 | Nước ở thượng nguồn sông rất trong.
+下流[かりゅう] | n | HẠ LƯU | hạ lưu | - | - | 下流[かりゅう]の町[まち]に洪水[こうずい]の危険[きけん]がある。 | Các thị trấn ở hạ lưu có nguy cơ lũ lụt.
+流域[りゅういき] | n | LƯU VỰC | lưu vực | - | - | メコン川[がわ]の流域[りゅういき]では米[こめ]作[づく]りが盛[さか]んだ。 | Ở lưu vực sông Mê Kông, nghề trồng lúa phát triển.
+湖畔[こはん] | n | HỒ BẠN | bờ hồ | - | - | 湖畔[こはん]のホテルに泊[と]まった。 | Tôi ở khách sạn bên bờ hồ.
+沼[ぬま] | n | CHIỂU | đầm lầy | - | - | 沼[ぬま]にはカエルがたくさんいる。 | Trong đầm có rất nhiều ếch.
+渓谷[けいこく] | n | KHÊ CỐC | thung lũng, hẻm núi | - | - | 秋[あき]の渓谷[けいこく]は紅葉[こうよう]がきれいだ。 | Hẻm núi mùa thu lá đỏ rất đẹp.
+崖[がけ] | n | NHAI | vách đá | - | - | 崖[がけ]の近[ちか]くは危[あぶ]ないので入[はい]らないでください。 | Gần vách đá nguy hiểm, xin đừng vào.
+斜面[しゃめん] | n | TÀ DIỆN | sườn dốc | - | - | 山[やま]の斜面[しゃめん]に茶畑[ちゃばたけ]が広[ひろ]がっている。 | Đồi chè trải dài trên sườn núi.
+温度差[おんどさ] | n | ÔN ĐỘ SAI | chênh lệch nhiệt độ | - | - | 朝[あさ]と昼[ひる]の温度差[おんどさ]が大[おお]きい。 | Chênh lệch nhiệt độ giữa sáng và trưa lớn.

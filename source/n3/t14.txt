@@ -1,0 +1,129 @@
+@topic t14
+@ja 自然[しぜん]・環境[かんきょう]
+@vi Thiên nhiên và môi trường
+@desc Địa hình, sông núi biển, thực vật và động vật, chu kỳ tự nhiên, ô nhiễm và bảo vệ môi trường.
+大自然[だいしぜん] | n | ĐẠI TỰ NHIÊN | thiên nhiên hùng vĩ | - | - | 北海道[ほっかいどう]の大自然[だいしぜん]を楽[たの]しみました。 | Tôi tận hưởng thiên nhiên hùng vĩ của Hokkaido.
+陸[りく] | n | LỤC | đất liền | - | - | 船[ふね]から陸[りく]が見[み]えてきました。 | Từ tàu đã thấy đất liền.
+大陸[たいりく] | n | ĐẠI LỤC | lục địa | - | - | アフリカ大陸[たいりく]に行[い]ってみたいです。 | Tôi muốn thử đến lục địa châu Phi.
+平野[へいや] | n | BÌNH DÃ | đồng bằng | - | - | 関東[かんとう]平野[へいや]は日本[にほん]で一番[いちばん]広[ひろ]い平野[へいや]です。 | Đồng bằng Kanto là đồng bằng rộng nhất Nhật Bản.
+山脈[さんみゃく] | n | SƠN MẠCH | dãy núi | - | - | 遠[とお]くに山脈[さんみゃく]が見[み]えます。 | Xa xa thấy dãy núi.
+谷[たに] | n | CỐC | thung lũng | - | - | 深[ふか]い谷[たに]に橋[はし]がかかっています。 | Có cây cầu bắc qua thung lũng sâu.
+峠[とうげ] | n | ĐÈO | đèo | 峠[とうげ] を 越[こ]える | vượt đèo | 車[くるま]で峠[とうげ]を越[こ]えました。 | Chúng tôi lái xe vượt đèo.
+盆地[ぼんち] | n | BỒN ĐỊA | lòng chảo | - | - | 京都[きょうと]は盆地[ぼんち]なので夏[なつ]は暑[あつ]いです。 | Kyoto là lòng chảo nên mùa hè nóng.
+砂漠[さばく] | n | SA MẠC | sa mạc | - | - | 砂漠[さばく]を旅[たび]したことがあります。 | Tôi từng đi du lịch sa mạc.
+海岸[かいがん] | n | HẢI NGẠN | bờ biển | - | - | 海岸[かいがん]を散歩[さんぽ]しました。 | Tôi dạo dọc bờ biển.
+湾[わん] | n | LOAN | vịnh | - | - | 東京[とうきょう]湾[わん]に船[ふね]が浮[う]かんでいます。 | Tàu nổi trên vịnh Tokyo.
+浮[う]かぶ | v1 | PHÙ | nổi; hiện ra | 頭[あたま] に 浮[う]かぶ | nảy ra trong đầu | いいアイデアが頭[あたま]に浮[う]かびました。 | Một ý tưởng hay nảy ra trong đầu.
+半島[はんとう] | n | BÁN ĐẢO | bán đảo | - | - | 伊豆[いず]半島[はんとう]に温泉[おんせん]旅行[りょこう]に行[い]きました。 | Tôi đi du lịch suối nước nóng ở bán đảo Izu.
+沖[おき] | n | XUNG | ngoài khơi | - | - | 沖[おき]で大[おお]きな魚[さかな]が釣[つ]れました。 | Ngoài khơi câu được cá lớn.
+潮[しお] | n | TRIỀU | thủy triều | 潮[しお] が 引[ひ]く | triều rút | 潮[しお]が引[ひ]いて岩[いわ]が見[み]えてきました。 | Triều rút nên lộ ra đá.
+深[ふか]さ | n | THÂM | độ sâu | - | - | この湖[みずうみ]の深[ふか]さは百[ひゃく]メートルです。 | Hồ này sâu 100 m.
+源[みなもと] | n | NGUYÊN | nguồn | - | - | この川[かわ]の源[みなもと]は山[やま]の中[なか]にあります。 | Nguồn sông này ở trong núi.
+流[なが]れ | n | LƯU | dòng chảy | 川[かわ] の {流[なが]れ} | dòng sông | この川[かわ]は流[なが]れが速[はや]いです。 | Sông này nước chảy xiết.
+清[きよ]らか | adj-na | THANH | trong lành | - | - | 山[やま]の清[きよ]らかな水[みず]を飲[の]みました。 | Tôi uống nước núi trong lành.
+澄[す]む | v1 | TRỪNG | trong vắt | 空気[くうき] が 澄[す]む | không khí trong lành | 秋[あき]は空気[くうき]が澄[す]んでいます。 | Mùa thu không khí trong lành.
+濁[にご]る | v1 | TRỌC | đục | - | - | 雨[あめ]の後[あと]は川[かわ]の水[みず]が濁[にご]ります。 | Sau mưa nước sông đục.
+泉[いずみ] | n | TUYỀN | suối, mạch nước | - | - | 森[もり]の中[なか]にきれいな泉[いずみ]があります。 | Trong rừng có dòng suối trong.
+洞窟[どうくつ] | n | ĐỘNG QUẬT | hang động | - | - | 洞窟[どうくつ]の中[なか]は暗[くら]くて寒[さむ]いです。 | Trong hang tối và lạnh.
+地形[ちけい] | n | ĐỊA HÌNH | địa hình | - | - | 日本[にほん]は山[やま]が多[おお]い地形[ちけい]です。 | Nhật Bản có địa hình nhiều núi.
+草原[そうげん] | n | THẢO NGUYÊN | thảo nguyên | - | - | 広[ひろ]い草原[そうげん]で馬[うま]が走[はし]っています。 | Ngựa chạy trên thảo nguyên rộng.
+森林[しんりん] | n | SÂM LÂM | rừng | - | - | 日本[にほん]の国土[こくど]の七割[ななわり]は森林[しんりん]です。 | 70% lãnh thổ Nhật là rừng.
+国土[こくど] | n | QUỐC THỔ | lãnh thổ | - | - | 日本[にほん]は国土[こくど]が狭[せま]いです。 | Nhật Bản lãnh thổ hẹp.
+樹木[じゅもく] | n | THỤ MỘC | cây cối | - | - | 公園[こうえん]には色々[いろいろ]な樹木[じゅもく]があります。 | Công viên có nhiều loại cây.
+幹[みき] | n | CÁN | thân cây | - | - | この木[き]の幹[みき]はとても太[ふと]いです。 | Thân cây này rất to.
+芽[め] | n | NHA | mầm | 芽[め] が 出[で]る | nảy mầm | 春[はる]になって木[き]の芽[め]が出[で]ました。 | Xuân đến cây đâm chồi.
+蕾[つぼみ] | n | LÔI | nụ hoa | - | - | 桜[さくら]の蕾[つぼみ]が膨[ふく]らんできました。 | Nụ anh đào bắt đầu căng lên.
+膨[ふく]らむ | v1 | BÀNH | phồng lên | 夢[ゆめ] が 膨[ふく]らむ | ước mơ lớn dần | 留学[りゅうがく]の夢[ゆめ]が膨[ふく]らみます。 | Ước mơ du học ngày càng lớn.
+花[はな]びら | n | HOA | cánh hoa | - | - | 桜[さくら]の花[はな]びらが散[ち]っています。 | Cánh hoa anh đào đang rơi.
+茂[しげ]る | v1 | MẬU | um tùm | - | - | 庭[にわ]に草[くさ]が茂[しげ]っています。 | Cỏ mọc um tùm trong vườn.
+苔[こけ] | n | ĐÀI | rêu | - | - | お寺[てら]の庭[にわ]は苔[こけ]がきれいです。 | Vườn chùa rêu rất đẹp.
+竹[たけ] | n | TRÚC | tre | - | - | 京都[きょうと]の竹[たけ]林[ばやし]を歩[ある]きました。 | Tôi dạo rừng tre ở Kyoto.
+松[まつ] | n | TÙNG | cây thông | - | - | 海岸[かいがん]に松[まつ]の木[き]が並[なら]んでいます。 | Cây thông mọc dọc bờ biển.
+稲[いね] | n | ĐẠO | cây lúa | - | - | 秋[あき]になって稲[いね]が実[みの]りました。 | Thu đến lúa chín.
+実[みの]る | v1 | THỰC | ra quả, chín; có kết quả | 努力[どりょく] が 実[みの]る | nỗ lực đơm hoa kết trái | 長年[ながねん]の努力[どりょく]が実[みの]りました。 | Nỗ lực nhiều năm đã đơm hoa kết trái.
+野生[やせい] | n | DÃ SINH | hoang dã | {野生[やせい]} 動物[どうぶつ] | động vật hoang dã | 山[やま]で野生[やせい]の鹿[しか]を見[み]ました。 | Trên núi tôi thấy hươu hoang dã.
+鹿[しか] | n | LỘC | con hươu | - | - | 奈良[なら]公園[こうえん]には鹿[しか]がたくさんいます。 | Công viên Nara có rất nhiều hươu.
+狐[きつね] | n | HỒ | con cáo | - | - | 畑[はたけ]に狐[きつね]が出[で]ました。 | Có con cáo xuất hiện ở ruộng.
+兎[うさぎ] | n | THỐ | con thỏ | - | - | 小学校[しょうがっこう]で兎[うさぎ]を飼[か]っていました。 | Trường tiểu học từng nuôi thỏ.
+蛇[へび] | n | XÀ | con rắn | - | - | 山道[やまみち]で蛇[へび]を見[み]て驚[おどろ]きました。 | Thấy rắn trên đường núi tôi giật mình.
+亀[かめ] | n | QUY | con rùa | - | - | 池[いけ]で亀[かめ]が泳[およ]いでいます。 | Con rùa đang bơi trong ao.
+蛙[かえる] | n | OA | con ếch | - | - | 夜[よる]になると蛙[かえる]が鳴[な]きます。 | Đêm xuống ếch kêu.
+鳴[な]く | v1 | MINH | (động vật) kêu, hót | - | - | 鳥[とり]が鳴[な]いています。 | Chim đang hót.
+羽[はね] | n | VŨ | lông vũ, cánh | 羽[はね] を 広[ひろ]げる | dang cánh | 鳥[とり]が羽[はね]を広[ひろ]げて飛[と]んでいきました。 | Con chim dang cánh bay đi.
+群[む]れ | n | QUẦN | bầy, đàn | - | - | 鳥[とり]の群[む]れが南[みなみ]へ飛[と]んでいきます。 | Đàn chim bay về phương nam.
+巣[す] | n | SÀO | tổ | - | - | 屋根[やね]の下[した]に鳥[とり]が巣[す]を作[つく]りました。 | Chim làm tổ dưới mái nhà.
+生態系[せいたいけい] | n | SINH THÁI HỆ | hệ sinh thái | - | - | 外来種[がいらいしゅ]が生態系[せいたいけい]を壊[こわ]しています。 | Loài ngoại lai đang phá hủy hệ sinh thái.
+外来種[がいらいしゅ] | n | NGOẠI LAI CHỦNG | loài ngoại lai | - | - | この魚[さかな]は外来種[がいらいしゅ]です。 | Loài cá này là loài ngoại lai.
+絶滅[ぜつめつ] | n,v3 | TUYỆT DIỆT | tuyệt chủng | 絶滅[ぜつめつ] の 危機[きき] | nguy cơ tuyệt chủng | この鳥[とり]は絶滅[ぜつめつ]の危機[きき]にあります。 | Loài chim này đang có nguy cơ tuyệt chủng.
+危機[きき] | n | NGUY CƠ | khủng hoảng, nguy cơ | - | - | 会社[かいしゃ]は経営[けいえい]の危機[きき]を乗[の]り越[こ]えました。 | Công ty đã vượt qua khủng hoảng kinh doanh.
+乗[の]り越[こ]える | v2 | THỪA VIỆT | vượt qua | 困難[こんなん] を 乗[の]り越[こ]える | vượt qua khó khăn | 家族[かぞく]で困難[こんなん]を乗[の]り越[こ]えました。 | Cả nhà đã vượt qua khó khăn.
+困難[こんなん] | n,adj-na | KHỐN NAN | khó khăn | - | - | 困難[こんなん]な状況[じょうきょう]でも諦[あきら]めません。 | Dù tình hình khó khăn tôi cũng không bỏ cuộc.
+保護[ほご] | n,v3 | BẢO HỘ | bảo vệ | 自然[しぜん] {保護[ほご]} | bảo vệ thiên nhiên | 自然[しぜん]保護[ほご]の活動[かつどう]をしています。 | Tôi tham gia hoạt động bảo vệ thiên nhiên.
+保全[ほぜん] | n,v3 | BẢO TOÀN | bảo tồn | - | - | 森林[しんりん]の保全[ほぜん]が大切[たいせつ]です。 | Bảo tồn rừng là điều quan trọng.
+温暖化[おんだんか] | n | ÔN NOÃN HÓA | sự nóng lên | 地球[ちきゅう] {温暖化[おんだんか]} | nóng lên toàn cầu | 地球[ちきゅう]温暖化[おんだんか]で海面[かいめん]が上昇[じょうしょう]しています。 | Do trái đất nóng lên mực nước biển đang dâng.
+上昇[じょうしょう] | n,v3 | THƯỢNG THĂNG | tăng lên | - | - | 気温[きおん]が上昇[じょうしょう]しています。 | Nhiệt độ đang tăng lên.
+二酸化炭素[にさんかたんそ] | n | NHỊ TOAN HÓA THÁN TỐ | khí CO2 | - | - | 車[くるま]は二酸化炭素[にさんかたんそ]を出[だ]します。 | Ô tô thải khí CO2.
+排出[はいしゅつ] | n,v3 | BÀI XUẤT | thải ra | - | - | 工場[こうじょう]の排出[はいしゅつ]ガスを減[へ]らします。 | Giảm khí thải nhà máy.
+排気[はいき]ガス | n | BÀI KHÍ | khí thải | - | - | 排気[はいき]ガスで空気[くうき]が汚[よご]れています。 | Không khí bẩn vì khí thải.
+酸素[さんそ] | n | TOAN TỐ | oxy | - | - | 植物[しょくぶつ]は酸素[さんそ]を作[つく]ります。 | Thực vật tạo ra oxy.
+資源[しげん] | n | TƯ NGUYÊN | tài nguyên | 資源[しげん] を 大切[たいせつ]にする | trân trọng tài nguyên | 限[かぎ]られた資源[しげん]を大切[たいせつ]にしましょう。 | Hãy trân trọng nguồn tài nguyên có hạn.
+限[かぎ]る | v1 | HẠN | giới hạn | - | - | 参加者[さんかしゃ]は二十人[にじゅうにん]に限[かぎ]ります。 | Người tham gia giới hạn ở hai mươi người.
+エネルギー | n | - | năng lượng | - | - | 太陽[たいよう]のエネルギーを利用[りよう]します。 | Tận dụng năng lượng mặt trời.
+太陽光[たいようこう] | n | THÁI DƯƠNG QUANG | ánh sáng mặt trời | {太陽光[たいようこう]} 発電[はつでん] | điện mặt trời | 屋根[やね]に太陽光[たいようこう]発電[はつでん]のパネルをつけました。 | Tôi lắp tấm pin mặt trời lên mái.
+発電[はつでん] | n,v3 | PHÁT ĐIỆN | phát điện | - | - | 風[かぜ]で発電[はつでん]しています。 | Phát điện bằng sức gió.
+節電[せつでん] | n,v3 | TIẾT ĐIỆN | tiết kiệm điện | - | - | 夏[なつ]は節電[せつでん]に協力[きょうりょく]してください。 | Mùa hè xin hợp tác tiết kiệm điện.
+省[しょう]エネ | n | TỈNH | tiết kiệm năng lượng | - | - | 省[しょう]エネのエアコンに買[か]い替[か]えました。 | Tôi thay điều hòa tiết kiệm năng lượng.
+エコ | n,adj-na | - | thân thiện môi trường | {エコ} バッグ | túi thân thiện môi trường | 買[か]い物[もの]にはエコバッグを持[も]って行[い]きます。 | Đi mua sắm tôi mang túi thân thiện môi trường.
+容器[ようき] | n | DUNG KHÍ | đồ chứa, hộp | - | - | 料理[りょうり]を容器[ようき]に入[い]れて冷凍[れいとう]します。 | Cho đồ ăn vào hộp rồi đông lạnh.
+プラスチック | n | - | nhựa | - | - | プラスチックのごみが海[うみ]を汚[よご]しています。 | Rác nhựa đang làm bẩn biển.
+再利用[さいりよう] | n,v3 | TÁI LỢI DỤNG | tái sử dụng | - | - | 空[あ]き瓶[びん]を再利用[さいりよう]しています。 | Tôi tái sử dụng chai rỗng.
+空[あ]き缶[かん] | n | KHÔNG PHẪU | lon rỗng | - | - | 空[あ]き缶[かん]を拾[ひろ]ってごみ箱[ばこ]に入[い]れました。 | Tôi nhặt lon rỗng bỏ vào thùng rác.
+瓶[びん] | n | BÌNH | chai lọ thủy tinh | - | - | ビールの瓶[びん]を洗[あら]ってから出[だ]します。 | Rửa chai bia rồi mới đem bỏ.
+ペットボトル | n | - | chai nhựa | - | - | ペットボトルはキャップを外[はず]して捨[す]てます。 | Chai nhựa bỏ nắp rồi mới vứt.
+外[はず]す | v1 | NGOẠI | tháo ra | 眼鏡[めがね] を 外[はず]す | tháo kính | 寝[ね]る前[まえ]に眼鏡[めがね]を外[はず]します。 | Trước khi ngủ tôi tháo kính.
+分[わ]ける | v2 | PHÂN | chia, phân loại | - | - | ごみを種類[しゅるい]ごとに分[わ]けます。 | Phân loại rác theo từng loại.
+種類[しゅるい] | n | CHỦNG LOẠI | chủng loại | - | - | この店[みせ]には色々[いろいろ]な種類[しゅるい]のパンがあります。 | Tiệm này có nhiều loại bánh mì.
+環境問題[かんきょうもんだい] | n | HOÀN CẢNH VẤN ĐỀ | vấn đề môi trường | - | - | 環境問題[かんきょうもんだい]について考[かんが]えましょう。 | Hãy cùng suy nghĩ về vấn đề môi trường.
+水質[すいしつ] | n | THỦY CHẤT | chất lượng nước | - | - | 川[かわ]の水質[すいしつ]がよくなりました。 | Chất lượng nước sông đã tốt hơn.
+破壊[はかい] | n,v3 | PHÁ HOẠI | phá hủy | 自然[しぜん] {破壊[はかい]} | phá hủy thiên nhiên | 開発[かいはつ]による自然[しぜん]破壊[はかい]が進[すす]んでいます。 | Việc phá hủy thiên nhiên do khai phá đang gia tăng.
+開発[かいはつ] | n,v3 | KHAI PHÁT | phát triển, khai phá | - | - | 新[あたら]しい薬[くすり]を開発[かいはつ]しています。 | Đang phát triển thuốc mới.
+伐採[ばっさい] | n,v3 | PHẠT THẢI | chặt phá (rừng) | - | - | 森林[しんりん]の伐採[ばっさい]が問題[もんだい]です。 | Việc chặt phá rừng là vấn đề.
+緑化[りょっか] | n,v3 | LỤC HÓA | phủ xanh | - | - | 町[まち]の緑化[りょっか]を進[すす]めています。 | Đang đẩy mạnh phủ xanh thị trấn.
+植林[しょくりん] | n,v3 | THỰC LÂM | trồng rừng | - | - | 山[やま]に植林[しょくりん]をしました。 | Chúng tôi trồng rừng trên núi.
+自然現象[しぜんげんしょう] | n | TỰ NHIÊN HIỆN TƯỢNG | hiện tượng tự nhiên | - | - | 虹[にじ]は自然現象[しぜんげんしょう]の一[ひと]つです。 | Cầu vồng là một hiện tượng tự nhiên.
+現象[げんしょう] | n | HIỆN TƯỢNG | hiện tượng | - | - | 不思議[ふしぎ]な現象[げんしょう]が起[お]きました。 | Một hiện tượng kỳ lạ đã xảy ra.
+移[うつ]り変[か]わり | n | DI BIẾN | sự thay đổi dần | - | - | 時代[じだい]の移[うつ]り変[か]わりは早[はや]いです。 | Thời đại thay đổi nhanh.
+時代[じだい] | n | THỜI ĐẠI | thời đại | - | - | 時代[じだい]が変[か]わりました。 | Thời đại đã thay đổi.
+四季[しき] | n | TỨ QUÝ | bốn mùa | - | - | 日本[にほん]には四季[しき]があります。 | Nhật Bản có bốn mùa.
+初夏[しょか] | n | SƠ HẠ | đầu hè | - | - | 初夏[しょか]の風[かぜ]が気持[きも]ちいいです。 | Gió đầu hè thật dễ chịu.
+真冬[まふゆ] | n | CHÂN ĐÔNG | giữa mùa đông | - | - | 真冬[まふゆ]の北海道[ほっかいどう]はとても寒[さむ]いです。 | Hokkaido giữa mùa đông rất lạnh.
+真夏[まなつ] | n | CHÂN HẠ | giữa mùa hè | - | - | 真夏[まなつ]の太陽[たいよう]が照[て]りつけます。 | Mặt trời giữa hè chiếu gay gắt.
+照[て]る | v1 | CHIẾU | chiếu sáng | - | - | 日[ひ]が照[て]って暑[あつ]くなりました。 | Nắng chiếu nên trời nóng lên.
+蝉[せみ] | n | THIỀN | con ve sầu | - | - | 夏[なつ]になると蝉[せみ]が鳴[な]きます。 | Hè đến ve sầu kêu.
+蛍[ほたる] | n | HUỲNH | đom đóm | - | - | 川[かわ]のそばで蛍[ほたる]を見[み]ました。 | Tôi thấy đom đóm bên sông.
+蟻[あり] | n | NGHĨ | con kiến | - | - | 台所[だいどころ]に蟻[あり]が入[はい]ってきました。 | Kiến bò vào bếp.
+金魚[きんぎょ] | n | KIM NGƯ | cá vàng | - | - | 金魚[きんぎょ]を飼[か]っています。 | Tôi nuôi cá vàng.
+鯨[くじら] | n | KÌNH | cá voi | - | - | 船[ふね]から鯨[くじら]が見[み]えました。 | Từ tàu thấy cá voi.
+イルカ | n | - | cá heo | - | - | イルカは頭[あたま]がいい動物[どうぶつ]です。 | Cá heo là con vật thông minh.
+害虫[がいちゅう] | n | HẠI TRÙNG | sâu bọ có hại | - | - | 害虫[がいちゅう]が野菜[やさい]を食[た]べてしまいました。 | Sâu hại đã ăn mất rau.
+生[い]き延[の]びる | v2 | SINH DIÊN | sống sót | - | - | 動物[どうぶつ]は厳[きび]しい冬[ふゆ]を生[い]き延[の]びます。 | Động vật sống sót qua mùa đông khắc nghiệt.
+冬眠[とうみん] | n,v3 | ĐÔNG MIÊN | ngủ đông | - | - | 熊[くま]は冬[ふゆ]の間[あいだ]冬眠[とうみん]します。 | Gấu ngủ đông suốt mùa đông.
+鉱物[こうぶつ] | n | KHOÁNG VẬT | khoáng vật | - | - | この山[やま]では色々[いろいろ]な鉱物[こうぶつ]が取[と]れます。 | Núi này khai thác được nhiều khoáng vật.
+石油[せきゆ] | n | THẠCH DU | dầu mỏ | - | - | 日本[にほん]は石油[せきゆ]を輸入[ゆにゅう]しています。 | Nhật nhập khẩu dầu mỏ.
+石炭[せきたん] | n | THẠCH THÁN | than đá | - | - | 昔[むかし]は石炭[せきたん]で汽車[きしゃ]を動[うご]かしました。 | Ngày xưa dùng than đá chạy tàu hơi nước.
+金属[きんぞく] | n | KIM THUỘC | kim loại | - | - | 金属[きんぞく]は電気[でんき]を通[とお]します。 | Kim loại dẫn điện.
+土[つち] | n | THỔ | đất | 土[つち] を 掘[ほ]る | đào đất | 庭[にわ]の土[つち]を掘[ほ]って木[き]を植[う]えました。 | Tôi đào đất trong vườn trồng cây.
+掘[ほ]る | v1 | QUẬT | đào | - | - | 犬[いぬ]が庭[にわ]に穴[あな]を掘[ほ]りました。 | Con chó đào hố trong vườn.
+穴[あな] | n | HUYỆT | cái lỗ, hố | 穴[あな] が 開[あ]く | bị thủng lỗ | 靴下[くつした]に穴[あな]が開[あ]いています。 | Tất bị thủng lỗ.
+泥[どろ] | n | NÊ | bùn | - | - | 雨[あめ]の後[あと]で靴[くつ]が泥[どろ]だらけになりました。 | Sau mưa giày đầy bùn.
+だらけ | suf | - | đầy (thứ không tốt) | 泥[どろ] {だらけ} | đầy bùn | この作文[さくぶん]は間違[まちが]いだらけです。 | Bài văn này đầy lỗi.
+煙[けむり] | n | YÊN | khói | 煙[けむり] が 出[で]る | bốc khói | 工場[こうじょう]から煙[けむり]が出[で]ています。 | Khói bốc ra từ nhà máy.
+炎[ほのお] | n | VIÊM | ngọn lửa | - | - | ろうそくの炎[ほのお]が揺[ゆ]れています。 | Ngọn nến đang lung linh.
+水面[すいめん] | n | THỦY DIỆN | mặt nước | - | - | 水面[すいめん]に月[つき]が映[うつ]っています。 | Mặt trăng in bóng trên mặt nước.
+映[うつ]る | v1 | ÁNH | phản chiếu, hiện lên | - | - | 鏡[かがみ]に顔[かお]が映[うつ]っています。 | Khuôn mặt hiện trong gương.
+陰[かげ] | n | ÂM | bóng râm, phía sau | - | - | 木[き]の陰[かげ]で休[やす]みました。 | Tôi nghỉ dưới bóng cây.
+影[かげ] | n | ẢNH | cái bóng | - | - | 夕方[ゆうがた]は影[かげ]が長[なが]くなります。 | Chiều tối bóng dài ra.
+宇宙飛行士[うちゅうひこうし] | n | VŨ TRỤ PHI HÀNH SĨ | phi hành gia | - | - | 子供[こども]の頃[ころ]、宇宙飛行士[うちゅうひこうし]になりたかったです。 | Hồi nhỏ tôi muốn làm phi hành gia.
+惑星[わくせい] | n | HOẶC TINH | hành tinh | - | - | 地球[ちきゅう]は太陽系[たいようけい]の惑星[わくせい]の一[ひと]つです。 | Trái đất là một hành tinh trong hệ mặt trời.
+満月[まんげつ] | n | MÃN NGUYỆT | trăng tròn | - | - | 今夜[こんや]は満月[まんげつ]です。 | Đêm nay trăng tròn.
+流[なが]れ星[ぼし] | n | LƯU TINH | sao băng | - | - | 流[なが]れ星[ぼし]に願[ねが]いごとをしました。 | Tôi ước nguyện với sao băng.

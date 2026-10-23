@@ -1,0 +1,76 @@
+@topic mimi-n3-b
+@ja 耳[みみ]から覚[おぼ]える N3
+@vi Từ riêng của giáo trình Mimikara N3 (phần 2)
+死亡[しぼう] | n,v3 | TỬ VONG | tử vong | - | - | 事故[じこ]で二人[ふたり]が死亡[しぼう]した。 | Hai người đã tử vong trong vụ tai nạn.
+訳[わけ] | n | DỊCH | lý do | {訳} を 話[はな]す | nói lý do | 遅[おく]れた訳[わけ]を説明[せつめい]してください。 | Hãy giải thích lý do đến muộn.
+場面[ばめん] | n | TRƯỜNG DIỆN | cảnh, tình huống | - | - | 映画[えいが]の最後[さいご]の場面[ばめん]で泣[な]いた。 | Tôi đã khóc ở cảnh cuối của bộ phim.
+やり取[と]り | n,v3 | THỦ | trao đổi qua lại | メール の {やり取り} | trao đổi email | 留学[りゅうがく]中[ちゅう]の友達[ともだち]と手紙[てがみ]のやり取[と]りをしている。 | Tôi trao đổi thư từ với người bạn đang du học.
+印[しるし] | n | ẤN | dấu, ký hiệu | {印} を つける | đánh dấu | 大事[だいじ]なところに印[しるし]をつけた。 | Tôi đánh dấu vào chỗ quan trọng.
+合図[あいず] | n,v3 | HỢP ĐỒ | ra hiệu | {合図} を 送[おく]る | ra hiệu | 先生[せんせい]の合図[あいず]で走[はし]り出[だ]した。 | Theo hiệu lệnh của thầy, chúng tôi chạy.
+強調[きょうちょう] | n,v3 | CƯỜNG ĐIỀU | nhấn mạnh | - | - | 社長[しゃちょう]は安全[あんぜん]の大切[たいせつ]さを強調[きょうちょう]した。 | Giám đốc nhấn mạnh tầm quan trọng của an toàn.
+省略[しょうりゃく] | n,v3 | TỈNH LƯỢC | lược bỏ, tỉnh lược | - | - | 説明[せつめい]は時間[じかん]がないので省略[しょうりゃく]します。 | Vì không có thời gian nên tôi xin lược phần giải thích.
+質[しつ] | n | CHẤT | chất lượng | {質} が いい | chất lượng tốt | 量[りょう]より質[しつ]が大切[たいせつ]だ。 | Chất lượng quan trọng hơn số lượng.
+型[かた] | n | HÌNH | kiểu, mẫu | 新[あたら]しい {型} | mẫu mới | この車[くるま]は古[ふる]い型[かた]だ。 | Chiếc xe này là mẫu cũ.
+上[のぼ]る | v1 | THƯỢNG | đi lên | 階段[かいだん] を {上る} | lên cầu thang | 坂[さか]を上[のぼ]ると海[うみ]が見[み]える。 | Lên dốc thì nhìn thấy biển.
+下[くだ]る | v1 | HẠ | đi xuống | 川[かわ] を {下る} | xuôi dòng sông | 船[ふね]で川[かわ]を下[くだ]った。 | Chúng tôi đi thuyền xuôi dòng sông.
+通[とお]す | v1 | THÔNG | cho qua; thông qua | 客[きゃく] を 部屋[へや] に {通す} | mời khách vào phòng | お客[きゃく]さんを応接室[おうせつしつ]に通[とお]した。 | Tôi mời khách vào phòng tiếp khách.
+寄[よ]せる | v2 | KÝ | dồn lại gần; gửi đến | 机[つくえ] を 壁[かべ] に {寄せる} | kê bàn sát tường | 机[つくえ]を窓[まど]の方[ほう]に寄[よ]せた。 | Tôi kê bàn sát về phía cửa sổ.
+与[あた]える | v2 | DỮ | cho, gây ra | 影響[えいきょう] を {与える} | gây ảnh hưởng | 植物[しょくぶつ]に水[みず]を与[あた]える。 | Tưới nước cho cây.
+向[む]く | v1 | HƯỚNG | quay về phía; hợp với | 前[まえ] を {向く} | nhìn về phía trước | この仕事[しごと]は私[わたし]に向[む]いている。 | Công việc này hợp với tôi.
+向[む]ける | v2 | HƯỚNG | hướng về | 目[め] を {向ける} | để mắt tới | カメラを子供[こども]に向[む]けた。 | Tôi hướng máy ảnh về phía đứa trẻ.
+望[のぞ]む | v1 | VỌNG | mong muốn | 平和[へいわ] を {望む} | mong hòa bình | 多[おお]くの人[ひと]が平和[へいわ]を望[のぞ]んでいる。 | Nhiều người mong muốn hòa bình.
+通[つう]じる | v2 | THÔNG | thông, hiểu được; dẫn tới | 言葉[ことば] が {通じる} | nói hiểu được | 英語[えいご]が通[つう]じなくて困[こま]った。 | Tiếng Anh không hiểu được nên tôi khốn đốn.
+思[おも]いつく | v1 | TƯ | nghĩ ra | アイデア を {思いつく} | nghĩ ra ý tưởng | いい方法[ほうほう]を思[おも]いついた。 | Tôi đã nghĩ ra cách hay.
+結[むす]ぶ | v1 | KẾT | buộc; kết nối | ひも を {結ぶ} | buộc dây | 二[ふた]つの町[まち]を結[むす]ぶ橋[はし]ができた。 | Cây cầu nối hai thị trấn đã được xây.
+済[す]ます | v1 | TẾ | làm xong; xoay xở | 用事[ようじ] を {済ます} | làm xong việc | 昼[ひる]ご飯[はん]はパンで済[す]ました。 | Bữa trưa tôi ăn tạm bánh mì cho xong.
+切[き]らす | v1 | THIẾT | hết (đồ dùng) | 名刺[めいし] を {切らす} | hết danh thiếp | すみません、名刺[めいし]を切[き]らしております。 | Xin lỗi, tôi đang hết danh thiếp.
+繋[つな]がる | v1 | HỆ | được kết nối | 電話[でんわ] が {繋がる} | điện thoại thông máy | やっと電話[でんわ]が繋[つな]がった。 | Cuối cùng cũng gọi thông được.
+繋[つな]ぐ | v1 | HỆ | nối, nắm (tay) | 手[て] を {繋ぐ} | nắm tay | 子供[こども]と手[て]を繋[つな]いで歩[ある]いた。 | Tôi nắm tay con đi bộ.
+繋[つな]げる | v2 | HỆ | nối lại | - | - | 二[ふた]つの机[つくえ]を繋[つな]げて大[おお]きくした。 | Tôi ghép hai chiếc bàn lại cho rộng.
+延[の]びる | v2 | DIÊN | được kéo dài, hoãn | 締[し]め切[き]り が {延びる} | hạn được lùi | 会議[かいぎ]が来週[らいしゅう]に延[の]びた。 | Cuộc họp được hoãn sang tuần sau.
+延[の]ばす | v1 | DIÊN | kéo dài, hoãn | 予定[よてい] を {延ばす} | lùi lịch | 出発[しゅっぱつ]を一日[いちにち]延[の]ばした。 | Tôi hoãn ngày khởi hành một ngày.
+重[かさ]なる | v1 | TRÙNG | chồng lên, trùng | 予定[よてい] が {重なる} | trùng lịch | 休[やす]みと誕生日[たんじょうび]が重[かさ]なった。 | Ngày nghỉ trùng với sinh nhật.
+重[かさ]ねる | v2 | TRÙNG | chồng lên | 経験[けいけん] を {重ねる} | tích lũy kinh nghiệm | 皿[さら]を重[かさ]ねて片付[かたづ]けた。 | Tôi xếp chồng đĩa rồi dọn đi.
+広[ひろ]げる | v2 | QUẢNG | mở rộng, trải ra | 地図[ちず] を {広げる} | mở bản đồ | テーブルに地図[ちず]を広[ひろ]げた。 | Tôi trải bản đồ lên bàn.
+揃[そろ]う | v1 | TIỄN | đầy đủ, đồng đều | 全員[ぜんいん] が {揃う} | đủ mặt mọi người | 全員[ぜんいん]揃[そろ]ったら出発[しゅっぱつ]します。 | Đủ mặt mọi người thì xuất phát.
+揃[そろ]える | v2 | TIỄN | sắp cho đủ, đều | 靴[くつ] を {揃える} | xếp giày ngay ngắn | 玄関[げんかん]で靴[くつ]を揃[そろ]えた。 | Tôi xếp giày ngay ngắn ở lối vào.
+まとまる | v1 | - | được tập hợp, thống nhất | 意見[いけん] が {まとまる} | ý kiến thống nhất | やっと話[はなし]がまとまった。 | Cuối cùng câu chuyện cũng đi đến thống nhất.
+混[ま]じる | v1 | HỖN | lẫn vào | - | - | 米[こめ]に小[ちい]さな石[いし]が混[ま]じっていた。 | Có viên sỏi nhỏ lẫn trong gạo.
+解[と]ける | v2 | GIẢI | được giải; tháo ra | 問題[もんだい] が {解ける} | giải được bài | 難[むずか]しい問題[もんだい]がやっと解[と]けた。 | Cuối cùng tôi cũng giải được bài khó.
+含[ふく]める | v2 | HÀM | bao gồm | 税[ぜい] を {含める} | gồm thuế | 私[わたし]を含[ふく]めて五[ご]人[にん]で行[い]った。 | Tính cả tôi là năm người đi.
+抜[ぬ]ける | v2 | BẠT | rụng, rời ra; thoát | 力[ちから] が {抜ける} | hết sức | 歯[は]が抜[ぬ]けた。 | Răng tôi bị rụng.
+現[あらわ]れる | v2 | HIỆN | xuất hiện | - | - | 雲[くも]の間[あいだ]から月[つき]が現[あらわ]れた。 | Mặt trăng hiện ra giữa những đám mây.
+現[あらわ]す | v1 | HIỆN | làm hiện ra, lộ diện | 姿[すがた] を {現す} | lộ diện | 有名[ゆうめい]な歌手[かしゅ]が会場[かいじょう]に姿[すがた]を現[あらわ]した。 | Ca sĩ nổi tiếng đã xuất hiện ở hội trường.
+表[あらわ]れる | v2 | BIỂU | thể hiện ra | 気持[きも]ち が 顔[かお] に {表れる} | cảm xúc lộ ra mặt | 喜[よろこ]びが顔[かお]に表[あらわ]れていた。 | Niềm vui hiện rõ trên khuôn mặt.
+表[あらわ]す | v1 | BIỂU | biểu thị, diễn tả | 気持[きも]ち を {表す} | bày tỏ cảm xúc | 言葉[ことば]で感謝[かんしゃ]の気持[きも]ちを表[あらわ]した。 | Tôi bày tỏ lòng biết ơn bằng lời.
+散[ち]らす | v1 | TÁN | làm tản ra, rải | - | - | 風[かぜ]が花[はな]びらを散[ち]らした。 | Gió làm cánh hoa tung bay.
+明[あ]ける | v2 | MINH | (trời) sáng; (năm) mới | 夜[よ] が {明ける} | trời sáng | 夜[よ]が明[あ]けるまで話[はな]していた。 | Chúng tôi nói chuyện đến sáng.
+差[さ]す | v1 | SAI | che (ô); chiếu (nắng) | 傘[かさ] を {差す} | che ô | 雨[あめ]なので傘[かさ]を差[さ]して歩[ある]いた。 | Trời mưa nên tôi che ô đi bộ.
+パートナー | n | - | đối tác, bạn đời | - | - | 仕事[しごと]のパートナーを探[さが]している。 | Tôi đang tìm đối tác làm ăn.
+リーダー | n | - | trưởng nhóm | - | - | 彼[かれ]はチームのリーダーに選[えら]ばれた。 | Anh ấy được chọn làm trưởng nhóm.
+コミュニケーション | n | - | giao tiếp | {コミュニケーション} を とる | giao tiếp | 同僚[どうりょう]とのコミュニケーションを大切[たいせつ]にしている。 | Tôi coi trọng việc giao tiếp với đồng nghiệp.
+ショック | n | - | cú sốc | {ショック} を 受[う]ける | bị sốc | その知[し]らせを聞[き]いてショックを受[う]けた。 | Nghe tin đó tôi bị sốc.
+バランス | n | - | sự cân bằng | {バランス} を とる | giữ cân bằng | 栄養[えいよう]のバランスを考[かんが]えて食[た]べる。 | Tôi ăn uống có tính đến cân bằng dinh dưỡng.
+レベル | n | - | trình độ, mức | {レベル} が 高[たか]い | trình độ cao | このクラスはレベルが高[たか]い。 | Lớp này trình độ cao.
+アップ | n,v3 | - | tăng lên | 給料[きゅうりょう] {アップ} | tăng lương | 今年[ことし]は給料[きゅうりょう]が少[すこ]しアップした。 | Năm nay lương tăng một chút.
+ダウン | n,v3 | - | giảm xuống | - | - | 売[う]り上[あ]げが去年[きょねん]よりダウンした。 | Doanh thu giảm so với năm ngoái.
+プラス | n,v3 | - | cộng; có lợi | - | - | この経験[けいけん]はきっとプラスになる。 | Kinh nghiệm này chắc chắn sẽ có ích.
+マイナス | n | - | trừ; bất lợi | - | - | 遅刻[ちこく]が多[おお]いとマイナスの評価[ひょうか]になる。 | Đi muộn nhiều sẽ bị đánh giá thấp.
+イメージ | n,v3 | - | hình ảnh, ấn tượng | - | - | 日本[にほん]に来[く]る前[まえ]のイメージと違[ちが]った。 | Khác với hình dung của tôi trước khi đến Nhật.
+タイトル | n | - | tựa đề | - | - | この本[ほん]のタイトルは何[なん]ですか。 | Tựa đề cuốn sách này là gì?
+ストーリー | n | - | cốt truyện | - | - | この映画[えいが]はストーリーがおもしろい。 | Bộ phim này có cốt truyện hay.
+ヒット | n,v3 | - | ăn khách, thành công | - | - | その歌[うた]は大[おお]きくヒットした。 | Bài hát đó rất ăn khách.
+ラベル | n | - | nhãn | - | - | 瓶[びん]のラベルをはがした。 | Tôi bóc nhãn chai.
+タイプ | n | - | kiểu, loại người | - | - | 彼[かれ]は私[わたし]の好[す]きなタイプだ。 | Anh ấy là mẫu người tôi thích.
+マイク | n | - | micro | - | - | マイクを使[つか]って話[はな]してください。 | Hãy nói bằng micro.
+ペンキ | n | - | sơn | {ペンキ} を 塗[ぬ]る | quét sơn | 壁[かべ]に白[しろ]いペンキを塗[ぬ]った。 | Tôi quét sơn trắng lên tường.
+炊[た]ける | v2 | XUY | (cơm) chín | ご飯[はん] が {炊ける} | cơm chín | ご飯[はん]が炊[た]けたら夕食[ゆうしょく]にしよう。 | Cơm chín thì ăn tối nào.
+じっと | adv | - | yên, chăm chú | - | - | 猫[ねこ]が窓[まど]の外[そと]をじっと見[み]ている。 | Con mèo chăm chú nhìn ra ngoài cửa sổ.
+そっと | adv | - | khẽ khàng | - | - | 赤[あか]ちゃんが寝[ね]ているので、そっとドアを閉[し]めた。 | Em bé đang ngủ nên tôi khẽ đóng cửa.
+互[たが]いに | adv | HỖ | lẫn nhau | - | - | 二人[ふたり]は互[たが]いに助[たす]け合[あ]っている。 | Hai người giúp đỡ lẫn nhau.
+少[すく]なくとも | adv | THIỂU | ít nhất | - | - | 少[すく]なくとも一日[いちにち]一[いち]時間[じかん]は勉強[べんきょう]しよう。 | Mỗi ngày hãy học ít nhất một tiếng.
+少[すこ]しも | adv | THIỂU | một chút cũng không | - | - | 彼[かれ]の話[はなし]は少[すこ]しもおもしろくない。 | Câu chuyện của anh ta chẳng thú vị chút nào.
+ちっとも | adv | - | chẳng chút nào | - | - | いくら待[ま]っても、ちっとも来[こ]ない。 | Đợi mãi mà chẳng thấy đến.
+どんなに | adv | - | dù thế nào | - | - | どんなに忙[いそが]しくても、朝[あさ]ご飯[はん]は食[た]べる。 | Dù bận đến đâu tôi vẫn ăn sáng.
+たった | adv | - | chỉ vỏn vẹn | - | - | 財布[さいふ]にはたった百[ひゃく]円[えん]しかない。 | Trong ví chỉ còn vỏn vẹn một trăm yên.
+そこで | conj | - | vì thế, do đó | - | - | 道[みち]が分[わ]からなかった。そこで、交番[こうばん]で聞[き]いた。 | Tôi không biết đường. Vì thế tôi hỏi ở đồn cảnh sát.

@@ -1,0 +1,164 @@
+@topic t17
+@ja 文化[ぶんか]・芸術[げいじゅつ]・余暇[よか]
+@vi Văn hóa, nghệ thuật và giải trí
+@desc Sân khấu, âm nhạc, hội họa, văn chương, lễ hội và các thú vui lúc rảnh rỗi, kèm những từ katakana thường gặp trong đời sống văn hóa.
+芸術[げいじゅつ] | n | NGHỆ THUẬT | nghệ thuật | {芸術} 作品[さくひん] | tác phẩm nghệ thuật | 芸術[げいじゅつ]の秋[あき]に美術館[びじゅつかん]を巡[めぐ]った。 | Mùa thu nghệ thuật, tôi đi một vòng các bảo tàng mỹ thuật.
+芸術家[げいじゅつか] | n | NGHỆ THUẬT GIA | nghệ sĩ | - | - | この町[まち]には多[おお]くの芸術家[げいじゅつか]が住[す]んでいる。 | Thị trấn này có nhiều nghệ sĩ sinh sống.
+芸能[げいのう] | n | NGHỆ NĂNG | nghệ thuật biểu diễn; giới giải trí | {芸能} 人[じん] | người nổi tiếng | 彼女[かのじょ]は芸能[げいのう]界[かい]で二十[にじゅう]年[ねん]活躍[かつやく]している。 | Cô ấy đã hoạt động trong giới giải trí hai mươi năm.
+伝統[でんとう]芸能[げいのう] | n | TRUYỀN THỐNG NGHỆ NĂNG | nghệ thuật truyền thống | - | - | 能[のう]や歌舞伎[かぶき]は日本[にほん]の伝統[でんとう]芸能[げいのう]だ。 | Kịch Noh và Kabuki là nghệ thuật truyền thống Nhật Bản.
+能[のう] | n | NĂNG | kịch Noh | - | - | 初[はじ]めて能[のう]を見[み]て、その静[しず]けさに驚[おどろ]いた。 | Lần đầu xem kịch Noh, tôi ngạc nhiên về sự tĩnh lặng của nó.
+華道[かどう] | n | HOA ĐẠO | nghệ thuật cắm hoa | - | - | 母[はは]は華道[かどう]の先生[せんせい]をしている。 | Mẹ tôi là giáo viên dạy cắm hoa.
+横綱[よこづな] | n | HOÀNH CƯƠNG | đại quán quân sumo | - | - | 横綱[よこづな]が土俵[どひょう]に上[あ]がると会場[かいじょう]が沸[わ]いた。 | Khi đại quán quân bước lên võ đài, cả hội trường sôi động.
+漫才[まんざい] | n | MẠN TÀI | hài đối đáp | - | - | テレビで漫才[まんざい]を見[み]て大笑[おおわら]いした。 | Tôi xem hài đối đáp trên ti vi mà cười lăn.
+演劇[えんげき] | n | DIỄN KỊCH | kịch nghệ | {演劇} 部[ぶ] | câu lạc bộ kịch | 高校[こうこう]では演劇[えんげき]部[ぶ]に入[はい]っていた。 | Hồi cấp ba tôi ở câu lạc bộ kịch.
+劇場[げきじょう] | n | KỊCH TRƯỜNG | nhà hát | - | - | 駅前[えきまえ]に新[あたら]しい劇場[げきじょう]ができた。 | Trước ga mới có một nhà hát.
+舞台[ぶたい] | n | VŨ ĐÀI | sân khấu | {舞台} に 立[た]つ | đứng trên sân khấu | 初[はじ]めて舞台[ぶたい]に立[た]ったときは足[あし]が震[ふる]えた。 | Lần đầu đứng trên sân khấu chân tôi run lẩy bẩy.
+公演[こうえん] | n,v3 | CÔNG DIỄN | buổi biểu diễn | - | - | 人気[にんき]劇団[げきだん]の公演[こうえん]はすぐに満席[まんせき]になる。 | Buổi diễn của đoàn kịch nổi tiếng nhanh chóng kín chỗ.
+上演[じょうえん] | n,v3 | THƯỢNG DIỄN | trình diễn | - | - | シェイクスピアの劇[げき]が上演[じょうえん]されている。 | Kịch của Shakespeare đang được trình diễn.
+開演[かいえん] | n,v3 | KHAI DIỄN | bắt đầu biểu diễn | - | - | 開演[かいえん]は午後[ごご]六[ろく]時[じ]です。 | Buổi diễn bắt đầu lúc sáu giờ chiều.
+終演[しゅうえん] | n,v3 | CHUNG DIỄN | kết thúc biểu diễn | - | - | 終演[しゅうえん]後[ご]、出演者[しゅつえんしゃ]が客[きゃく]を見送[みおく]った。 | Sau buổi diễn, các diễn viên tiễn khán giả.
+幕[まく] | n | MẠC | màn; hồi kịch | {幕} が 上[あ]がる | màn mở ra | 幕[まく]が下[お]りると大[おお]きな拍手[はくしゅ]が起[お]こった。 | Khi màn hạ xuống, tiếng vỗ tay vang lên.
+主演[しゅえん] | n,v3 | CHỦ DIỄN | đóng vai chính | {主演} 女優[じょゆう] | nữ diễn viên chính | 彼[かれ]が主演[しゅえん]した映画[えいが]は大[だい]ヒットした。 | Bộ phim anh ấy đóng chính đã ăn khách lớn.
+共演[きょうえん] | n,v3 | CỘNG DIỄN | đóng chung | - | - | 憧[あこが]れの俳優[はいゆう]と共演[きょうえん]できて嬉[うれ]しい。 | Tôi vui vì được đóng chung với diễn viên mình ngưỡng mộ.
+女優[じょゆう] | n | NỮ ƯU | nữ diễn viên | - | - | 彼女[かのじょ]は子役[こやく]から有名[ゆうめい]な女優[じょゆう]になった。 | Cô ấy từ diễn viên nhí trở thành nữ diễn viên nổi tiếng.
+役者[やくしゃ] | n | DỊCH GIẢ | diễn viên | - | - | 彼[かれ]は舞台[ぶたい]を中心[ちゅうしん]に活動[かつどう]する役者[やくしゃ]だ。 | Anh ấy là diễn viên chủ yếu hoạt động sân khấu.
+役[やく] | n | DỊCH | vai diễn; vai trò | {役} を 演[えん]じる | đóng vai | 彼[かれ]は医者[いしゃ]の役[やく]を演[えん]じた。 | Anh ấy đóng vai bác sĩ.
+主役[しゅやく] | n | CHỦ DỊCH | vai chính | - | - | 学芸会[がくげいかい]で主役[しゅやく]に選[えら]ばれた。 | Tôi được chọn đóng vai chính ở buổi văn nghệ.
+脇役[わきやく] | n | HIẾP DỊCH | vai phụ | - | - | 脇役[わきやく]の演技[えんぎ]が作品[さくひん]を引[ひ]き締[し]めている。 | Diễn xuất của vai phụ làm tác phẩm chặt chẽ hơn.
+配役[はいやく] | n | PHỐI DỊCH | phân vai | - | - | 映画[えいが]の配役[はいやく]が発表[はっぴょう]された。 | Danh sách phân vai của bộ phim đã được công bố.
+演技[えんぎ] | n,v3 | DIỄN KỸ | diễn xuất | {演技} 力[りょく] | khả năng diễn xuất | 新人[しんじん]とは思[おも]えないほど演技[えんぎ]がうまい。 | Diễn xuất giỏi đến mức không nghĩ là người mới.
+演[えん]じる | v2 | DIỄN | diễn, đóng | 役[やく] を {演じる} | đóng vai | 彼女[かのじょ]は母親[ははおや]の役[やく]を見事[みごと]に演[えん]じた。 | Cô ấy đóng vai người mẹ xuất sắc.
+演出[えんしゅつ] | n,v3 | DIỄN XUẤT | đạo diễn; dàn dựng | {演出} 家[か] | đạo diễn sân khấu | 照明[しょうめい]の演出[えんしゅつ]が美[うつく]しい舞台[ぶたい]だった。 | Vở diễn có cách dàn dựng ánh sáng rất đẹp.
+脚本[きゃくほん] | n | CƯỚC BẢN | kịch bản | - | - | このドラマの脚本[きゃくほん]は有名[ゆうめい]な作家[さっか]が書[か]いた。 | Kịch bản bộ phim này do nhà văn nổi tiếng viết.
+台本[だいほん] | n | ĐÀI BẢN | kịch bản (diễn viên dùng) | - | - | 台本[だいほん]のせりふを全部[ぜんぶ]覚[おぼ]えた。 | Tôi đã thuộc hết lời thoại trong kịch bản.
+観客[かんきゃく] | n | QUAN KHÁCH | khán giả | - | - | 観客[かんきゃく]は総立[そうだ]ちで拍手[はくしゅ]を送[おく]った。 | Khán giả đứng cả dậy vỗ tay.
+客席[きゃくせき] | n | KHÁCH TỊCH | ghế khán giả | - | - | 客席[きゃくせき]から大[おお]きな笑[わら]い声[ごえ]が起[お]こった。 | Từ hàng ghế khán giả vang lên tiếng cười lớn.
+拍手[はくしゅ] | n,v3 | PHÁCH THỦ | vỗ tay | {拍手} を 送[おく]る | vỗ tay tán thưởng | 演奏[えんそう]が終[お]わると拍手[はくしゅ]が鳴[な]りやまなかった。 | Buổi diễn tấu kết thúc, tiếng vỗ tay không ngớt.
+喝采[かっさい] | n,v3 | HÁT THÁI | hoan hô | 拍手[はくしゅ] {喝采} | vỗ tay hoan hô | 選手[せんしゅ]たちは観客[かんきゃく]の喝采[かっさい]を浴[あ]びた。 | Các vận động viên được khán giả hoan hô.
+歓声[かんせい] | n | HOAN THANH | tiếng reo hò | {歓声} を 上[あ]げる | reo hò | ゴールが決[き]まり、スタンドから歓声[かんせい]が上[あ]がった。 | Bàn thắng được ghi, khán đài reo hò.
+アンコール | n,v3 | - | biểu diễn thêm | - | - | アンコールに応[こた]えてもう一曲[いっきょく]歌[うた]った。 | Đáp lại yêu cầu, ca sĩ hát thêm một bài.
+名演[めいえん] | n | DANH DIỄN | màn diễn xuất sắc | - | - | 彼[かれ]の名演[めいえん]は今[いま]も語[かた]り継[つ]がれている。 | Màn diễn xuất sắc của ông đến nay vẫn được kể lại.
+登場[とうじょう] | n,v3 | ĐĂNG TRƯỜNG | xuất hiện, ra mắt | {登場} 人物[じんぶつ] | nhân vật trong truyện | この小説[しょうせつ]には多[おお]くの人物[じんぶつ]が登場[とうじょう]する。 | Tiểu thuyết này có nhiều nhân vật xuất hiện.
+スター | n | - | ngôi sao | - | - | 彼[かれ]は一夜[いちや]にしてスターになった。 | Anh ấy trở thành ngôi sao chỉ sau một đêm.
+上映[じょうえい] | n,v3 | THƯỢNG ẢNH | trình chiếu | - | - | その映画[えいが]は全国[ぜんこく]の映画館[えいがかん]で上映[じょうえい]中[ちゅう]だ。 | Bộ phim đó đang được chiếu tại các rạp toàn quốc.
+封切[ふうき]り | n | PHONG THIẾT | công chiếu | - | - | 封切[ふうき]りの日[ひ]に映画館[えいがかん]に行[い]った。 | Ngày công chiếu tôi đã đến rạp.
+試写会[ししゃかい] | n | THÍ TẢ HỘI | buổi chiếu thử | - | - | 新作[しんさく]映画[えいが]の試写会[ししゃかい]に当[あ]たった。 | Tôi trúng vé buổi chiếu thử phim mới.
+演奏会[えんそうかい] | n | DIỄN TẤU HỘI | buổi hòa nhạc | - | - | 娘[むすめ]のピアノの演奏会[えんそうかい]に行[い]った。 | Tôi đi xem buổi biểu diễn piano của con gái.
+オーケストラ | n | - | dàn nhạc | - | - | オーケストラの生[なま]演奏[えんそう]に感動[かんどう]した。 | Tôi xúc động trước màn trình diễn trực tiếp của dàn nhạc.
+吹奏楽[すいそうがく] | n | XUY TẤU NHẠC | nhạc kèn hơi | {吹奏楽} 部[ぶ] | đội kèn | 中学[ちゅうがく]では吹奏楽[すいそうがく]部[ぶ]でトランペットを吹[ふ]いていた。 | Hồi cấp hai tôi thổi kèn trumpet trong đội kèn.
+指揮者[しきしゃ] | n | CHỈ HUY GIẢ | nhạc trưởng | - | - | 指揮者[しきしゃ]が手[て]を上[あ]げると演奏[えんそう]が始[はじ]まった。 | Nhạc trưởng giơ tay lên là buổi diễn tấu bắt đầu.
+ピアニスト | n | - | nghệ sĩ piano | - | - | 将来[しょうらい]はピアニストになりたい。 | Sau này tôi muốn trở thành nghệ sĩ piano.
+合唱[がっしょう] | n,v3 | HỢP XƯỚNG | hợp xướng | {合唱} コンクール | cuộc thi hợp xướng | クラス全員[ぜんいん]で合唱[がっしょう]した。 | Cả lớp cùng hát hợp xướng.
+独唱[どくしょう] | n,v3 | ĐỘC XƯỚNG | đơn ca | - | - | 卒業式[そつぎょうしき]で国歌[こっか]を独唱[どくしょう]した。 | Tôi đơn ca quốc ca ở lễ tốt nghiệp.
+作曲[さっきょく] | n,v3 | TÁC KHÚC | sáng tác nhạc | {作曲} 家[か] | nhà soạn nhạc | 彼[かれ]は映画[えいが]音楽[おんがく]を作曲[さっきょく]している。 | Anh ấy sáng tác nhạc phim.
+作詞[さくし] | n,v3 | TÁC TỪ | viết lời bài hát | - | - | この歌[うた]は歌手[かしゅ]が自分[じぶん]で作詞[さくし]した。 | Bài hát này do chính ca sĩ viết lời.
+歌詞[かし] | n | CA TỪ | lời bài hát | - | - | 歌詞[かし]の意味[いみ]を考[かんが]えながら聞[き]いた。 | Tôi vừa nghe vừa ngẫm nghĩa lời bài hát.
+旋律[せんりつ] | n | TOÀN LUẬT | giai điệu | 美[うつく]しい {旋律} | giai điệu đẹp | 静[しず]かな旋律[せんりつ]に心[こころ]が癒[いや]された。 | Giai điệu êm dịu làm tâm hồn lắng lại.
+メロディー | n | - | giai điệu | - | - | このメロディー、どこかで聞[き]いたことがある。 | Giai điệu này tôi đã nghe ở đâu đó.
+リズム | n | - | nhịp điệu | {リズム} に 乗[の]る | theo nhịp | 音楽[おんがく]のリズムに合[あ]わせて体[からだ]を動[うご]かした。 | Tôi chuyển động theo nhịp điệu âm nhạc.
+拍子[ひょうし] | n | PHÁCH TỬ | nhịp; khoảnh khắc | 手[て] {拍子} | nhịp vỗ tay | 転[ころ]んだ拍子[ひょうし]に眼鏡[めがね]が落[お]ちた。 | Lúc ngã thì kính rơi mất.
+音色[ねいろ] | n | ÂM SẮC | âm sắc | - | - | バイオリンの音色[ねいろ]が美[うつく]しい。 | Âm sắc của đàn vĩ cầm thật đẹp.
+音程[おんてい] | n | ÂM TRÌNH | cao độ | {音程} が 外[はず]れる | lạc tông | カラオケで音程[おんてい]が外[はず]れて恥[は]ずかしかった。 | Hát karaoke bị lạc tông, xấu hổ quá.
+楽譜[がくふ] | n | NHẠC PHỔ | bản nhạc | {楽譜} を 読[よ]む | đọc bản nhạc | 楽譜[がくふ]が読[よ]めなくてもギターは弾[ひ]ける。 | Không đọc được bản nhạc vẫn chơi được guitar.
+アクセント | n | - | trọng âm; điểm nhấn | - | - | 日本語[にほんご]のアクセントは地方[ちほう]によって違[ちが]う。 | Trọng âm tiếng Nhật khác nhau tùy vùng.
+絵画[かいが] | n | HỘI HỌA | hội họa, tranh | - | - | 美術館[びじゅつかん]で西洋[せいよう]絵画[かいが]の展示[てんじ]を見[み]た。 | Tôi xem triển lãm tranh phương Tây ở bảo tàng.
+油絵[あぶらえ] | n | DU HỘI | tranh sơn dầu | - | - | 定年[ていねん]後[ご]に油絵[あぶらえ]を始[はじ]めた。 | Sau khi nghỉ hưu tôi bắt đầu vẽ tranh sơn dầu.
+水彩画[すいさいが] | n | THỦY THẢI HỌA | tranh màu nước | - | - | 旅先[たびさき]の風景[ふうけい]を水彩画[すいさいが]で描[えが]いた。 | Tôi vẽ phong cảnh nơi du lịch bằng màu nước.
+版画[はんが] | n | BẢN HỌA | tranh in khắc | - | - | 浮世絵[うきよえ]は日本[にほん]の版画[はんが]だ。 | Ukiyo-e là tranh khắc in của Nhật.
+彫刻[ちょうこく] | n,v3 | ĐIÊU KHẮC | điêu khắc | - | - | 公園[こうえん]に大[おお]きな彫刻[ちょうこく]が置[お]かれている。 | Trong công viên có đặt một tác phẩm điêu khắc lớn.
+彫刻家[ちょうこくか] | n | ĐIÊU KHẮC GIA | nhà điêu khắc | - | - | 有名[ゆうめい]な彫刻家[ちょうこくか]の作品[さくひん]を見[み]に行[い]った。 | Tôi đi xem tác phẩm của nhà điêu khắc nổi tiếng.
+陶芸[とうげい] | n | ĐÀO NGHỆ | nghề gốm | - | - | 陶芸[とうげい]教室[きょうしつ]で茶碗[ちゃわん]を作[つく]った。 | Tôi làm bát ở lớp học làm gốm.
+工芸[こうげい] | n | CÔNG NGHỆ | thủ công mỹ nghệ | 伝統[でんとう] {工芸} | thủ công truyền thống | この地方[ちほう]は伝統[でんとう]工芸[こうげい]が盛[さか]んだ。 | Vùng này phát triển thủ công truyền thống.
+工芸品[こうげいひん] | n | CÔNG NGHỆ PHẨM | đồ thủ công mỹ nghệ | - | - | お土産[みやげ]に地元[じもと]の工芸品[こうげいひん]を買[か]った。 | Tôi mua đồ thủ công địa phương làm quà.
+画家[がか] | n | HỌA GIA | họa sĩ | - | - | 祖父[そふ]は無名[むめい]の画家[がか]だった。 | Ông tôi từng là một họa sĩ vô danh.
+写真家[しゃしんか] | n | TẢ CHÂN GIA | nhiếp ảnh gia | - | - | 写真家[しゃしんか]として世界[せかい]の野生[やせい]動物[どうぶつ]を撮[と]っている。 | Là nhiếp ảnh gia, tôi chụp động vật hoang dã khắp thế giới.
+小説家[しょうせつか] | n | TIỂU THUYẾT GIA | tiểu thuyết gia | - | - | 小説家[しょうせつか]になるために毎日[まいにち]書[か]き続[つづ]けている。 | Tôi viết mỗi ngày để trở thành tiểu thuyết gia.
+詩人[しじん] | n | THI NHÂN | nhà thơ | - | - | 彼[かれ]は自然[しぜん]を愛[あい]した詩人[しじん]だった。 | Ông là nhà thơ yêu thiên nhiên.
+詩[し] | n | THI | thơ | {詩} を 書[か]く | làm thơ | 中学生[ちゅうがくせい]のころ、よく詩[し]を書[か]いていた。 | Hồi cấp hai tôi hay làm thơ.
+短歌[たんか] | n | ĐOẢN CA | thơ tanka | - | - | 祖母[そぼ]は趣味[しゅみ]で短歌[たんか]を詠[よ]んでいる。 | Bà tôi làm thơ tanka làm thú vui.
+随筆[ずいひつ] | n | TÙY BÚT | tùy bút | - | - | 作家[さっか]の随筆[ずいひつ]を読[よ]むと人柄[ひとがら]が分[わ]かる。 | Đọc tùy bút của nhà văn là hiểu được con người họ.
+エッセイ | n | - | tiểu luận, tản văn | - | - | 旅[たび]のエッセイを雑誌[ざっし]に連載[れんさい]している。 | Tôi đăng tản văn du lịch nhiều kỳ trên tạp chí.
+童話[どうわ] | n | ĐỒNG THOẠI | truyện cổ tích thiếu nhi | - | - | 寝[ね]る前[まえ]に子供[こども]に童話[どうわ]を読[よ]んであげる。 | Trước khi ngủ tôi đọc truyện thiếu nhi cho con.
+物語[ものがたり] | n | VẬT NGỮ | câu chuyện | - | - | この映画[えいが]は実話[じつわ]をもとにした物語[ものがたり]だ。 | Bộ phim này là câu chuyện dựa trên sự kiện có thật.
+神話[しんわ] | n | THẦN THOẠI | thần thoại | - | - | ギリシャ神話[しんわ]の神々[かみがみ]について調[しら]べた。 | Tôi tìm hiểu về các vị thần trong thần thoại Hy Lạp.
+ことわざ | n | - | tục ngữ | - | - | 「急[いそ]がば回[まわ]れ」ということわざがある。 | Có câu tục ngữ "Dục tốc bất đạt".
+古典[こてん] | n | CỔ ĐIỂN | cổ điển; văn học cổ | {古典} 文学[ぶんがく] | văn học cổ điển | 高校[こうこう]の古典[こてん]の授業[じゅぎょう]で源氏[げんじ]物語[ものがたり]を読[よ]んだ。 | Trong giờ cổ văn cấp ba tôi đã đọc Truyện Genji.
+近代[きんだい] | n | CẬN ĐẠI | cận đại | {近代} 化[か] | cận đại hóa | 明治[めいじ]時代[じだい]に日本[にほん]は近代[きんだい]化[か]を進[すす]めた。 | Thời Minh Trị, Nhật Bản đẩy mạnh cận đại hóa.
+現代[げんだい] | n | HIỆN ĐẠI | hiện đại, thời nay | {現代} 社会[しゃかい] | xã hội hiện đại | 現代[げんだい]の若者[わかもの]は新聞[しんぶん]をあまり読[よ]まない。 | Giới trẻ thời nay ít đọc báo giấy.
+背景[はいけい] | n | BỐI CẢNH | bối cảnh; phông nền | 時代[じだい] {背景} | bối cảnh thời đại | この小説[しょうせつ]の背景[はいけい]には戦争[せんそう]がある。 | Bối cảnh của tiểu thuyết này là chiến tranh.
+展示[てんじ] | n,v3 | TRIỂN THỊ | trưng bày | - | - | 博物館[はくぶつかん]に恐竜[きょうりゅう]の骨[ほね]が展示[てんじ]されている。 | Bảo tàng trưng bày xương khủng long.
+展示会[てんじかい] | n | TRIỂN THỊ HỘI | hội chợ triển lãm | - | - | 新製品[しんせいひん]の展示会[てんじかい]に出展[しゅってん]した。 | Chúng tôi tham gia hội chợ triển lãm sản phẩm mới.
+個展[こてん] | n | CÁ TRIỂN | triển lãm cá nhân | {個展} を 開[ひら]く | mở triển lãm cá nhân | 友人[ゆうじん]が初[はじ]めての個展[こてん]を開[ひら]いた。 | Bạn tôi mở triển lãm cá nhân đầu tiên.
+作品展[さくひんてん] | n | TÁC PHẨM TRIỂN | triển lãm tác phẩm | - | - | 小学生[しょうがくせい]の作品展[さくひんてん]を見[み]に行[い]った。 | Tôi đi xem triển lãm tác phẩm của học sinh tiểu học.
+鑑賞[かんしょう] | n,v3 | GIÁM THƯỞNG | thưởng thức (nghệ thuật) | 映画[えいが] {鑑賞} | xem phim | 趣味[しゅみ]は音楽[おんがく]鑑賞[かんしょう]です。 | Sở thích của tôi là thưởng thức âm nhạc.
+実物[じつぶつ] | n | THỰC VẬT | đồ thật | - | - | 写真[しゃしん]より実物[じつぶつ]のほうがずっと大[おお]きかった。 | Đồ thật lớn hơn nhiều so với trong ảnh.
+製作[せいさく] | n,v3 | CHẾ TÁC | chế tác, sản xuất | 映画[えいが] を {製作} する | sản xuất phim | この家具[かぐ]は職人[しょくにん]が一[ひと]つずつ製作[せいさく]している。 | Đồ gỗ này do nghệ nhân chế tác từng chiếc.
+イラスト | n | - | hình minh họa | - | - | 説明[せつめい]にイラストを入[い]れると分[わ]かりやすい。 | Thêm hình minh họa vào phần giải thích sẽ dễ hiểu.
+モデル | n | - | người mẫu; hình mẫu | - | - | この小説[しょうせつ]の主人公[しゅじんこう]には実在[じつざい]のモデルがいる。 | Nhân vật chính của tiểu thuyết có nguyên mẫu ngoài đời.
+スタイル | n | - | phong cách; vóc dáng | - | - | 彼女[かのじょ]は自分[じぶん]のスタイルを持[も]っている。 | Cô ấy có phong cách riêng.
+デコレーション | n | - | trang trí | {デコレーション} ケーキ | bánh kem trang trí | 誕生日[たんじょうび]にデコレーションケーキを注文[ちゅうもん]した。 | Tôi đặt bánh kem trang trí cho sinh nhật.
+カルチャー | n | - | văn hóa | {カルチャー} センター | trung tâm văn hóa | 母[はは]はカルチャーセンターで書道[しょどう]を習[なら]っている。 | Mẹ tôi học thư pháp ở trung tâm văn hóa.
+プログラム | n | - | chương trình | - | - | 演奏会[えんそうかい]のプログラムをもらった。 | Tôi nhận được tờ chương trình buổi hòa nhạc.
+マーク | n,v3 | - | ký hiệu; để mắt tới | - | - | 重要[じゅうよう]な所[ところ]に赤[あか]いマークをつけた。 | Tôi đánh dấu đỏ vào những chỗ quan trọng.
+アルファベット | n | - | bảng chữ cái Latinh | - | - | 名前[なまえ]をアルファベットで書[か]いてください。 | Xin viết tên bằng chữ cái Latinh.
+祭[まつ]り囃子[ばやし] | n | TẾ TÁP TỬ | nhạc lễ hội | - | - | 遠[とお]くから祭[まつ]り囃子[ばやし]が聞[き]こえてくる。 | Nhạc lễ hội vọng lại từ xa.
+ひな祭[まつ]り | n | TẾ | lễ hội búp bê | - | - | 三月[さんがつ]三日[みっか]はひな祭[まつ]りだ。 | Ngày mùng ba tháng ba là lễ hội búp bê.
+盛[も]り上[あ]がる | v1 | THỊNH THƯỢNG | sôi nổi, náo nhiệt | 会場[かいじょう] が {盛り上がる} | hội trường sôi động | パーティーは最後[さいご]まで盛[も]り上[あ]がった。 | Bữa tiệc sôi nổi đến tận cuối.
+打[う]ち上[あ]げる | v2 | ĐẢ THƯỢNG | bắn lên, phóng | 花火[はなび] を {打ち上げる} | bắn pháo hoa | 夏祭[なつまつ]りで一万[いちまん]発[ぱつ]の花火[はなび]が打[う]ち上[あ]げられた。 | Ở lễ hội mùa hè, mười nghìn quả pháo hoa đã được bắn lên.
+余暇[よか] | n | DƯ HẠ | thời gian rảnh | {余暇} を 楽[たの]しむ | tận hưởng lúc rảnh | 余暇[よか]を利用[りよう]して資格[しかく]の勉強[べんきょう]をしている。 | Tôi tận dụng thời gian rảnh để học lấy chứng chỉ.
+娯楽[ごらく] | n | NGU LẠC | giải trí | {娯楽} 施設[しせつ] | cơ sở giải trí | 昔[むかし]は映画[えいが]が一番[いちばん]の娯楽[ごらく]だった。 | Ngày xưa phim ảnh là thú giải trí hàng đầu.
+道楽[どうらく] | n | ĐẠO LẠC | thú tiêu khiển (tốn kém) | - | - | 父[ちち]の釣[つ]り道楽[どうらく]には母[はは]もあきれている。 | Mẹ cũng ngán thú câu cá tốn kém của bố.
+遊[あそ]び | n | DU | trò chơi, cuộc vui | - | - | 子供[こども]のころの遊[あそ]びを孫[まご]に教[おし]えた。 | Tôi dạy cho cháu những trò chơi thuở nhỏ.
+囲碁[いご] | n | VI KỲ | cờ vây | - | - | 祖父[そふ]と囲碁[いご]を打[う]つのが楽[たの]しみだ。 | Tôi thích chơi cờ vây với ông.
+将棋[しょうぎ] | n | TƯƠNG KỲ | cờ shogi | {将棋} を 指[さ]す | chơi shogi | 休[やす]み時間[じかん]に友達[ともだち]と将棋[しょうぎ]を指[さ]した。 | Giờ nghỉ tôi chơi cờ shogi với bạn.
+ガーデニング | n | - | làm vườn | - | - | 庭[にわ]でガーデニングを楽[たの]しんでいる。 | Tôi đang tận hưởng việc làm vườn.
+手芸[しゅげい] | n | THỦ NGHỆ | thủ công may thêu | - | - | 手芸[しゅげい]が趣味[しゅみ]で、小物[こもの]を作[つく]っている。 | Tôi thích làm thủ công, hay làm đồ nhỏ xinh.
+編[あ]み物[もの] | n | BIÊN VẬT | đan len | - | - | 冬[ふゆ]になると編[あ]み物[もの]をしたくなる。 | Đến mùa đông là tôi muốn đan len.
+工作[こうさく] | n,v3 | CÔNG TÁC | làm đồ thủ công | - | - | 夏休[なつやす]みの宿題[しゅくだい]で工作[こうさく]をした。 | Tôi làm đồ thủ công cho bài tập nghỉ hè.
+コレクション | n | - | bộ sưu tập | - | - | 父[ちち]の切手[きって]のコレクションは千[せん]枚[まい]以上[いじょう]ある。 | Bộ sưu tập tem của bố có hơn một nghìn con.
+鑑定[かんてい] | n,v3 | GIÁM ĐỊNH | giám định | - | - | 古[ふる]いつぼを専門家[せんもんか]に鑑定[かんてい]してもらった。 | Tôi nhờ chuyên gia giám định chiếc bình cổ.
+骨董品[こっとうひん] | n | CỐT ĐỔNG PHẨM | đồ cổ | - | - | 骨董品[こっとうひん]の市[いち]で古[ふる]い時計[とけい]を買[か]った。 | Tôi mua chiếc đồng hồ cũ ở chợ đồ cổ.
+占[うらな]い | n | CHIÊM | bói toán | {占い} 師[し] | thầy bói | 雑誌[ざっし]の星[ほし]占[うらな]いを毎月[まいつき]読[よ]んでいる。 | Tháng nào tôi cũng đọc mục tử vi trên tạp chí.
+占[うらな]う | v1 | CHIÊM | bói | 運勢[うんせい] を {占う} | xem vận mệnh | 新年[しんねん]の運勢[うんせい]を占[うらな]ってもらった。 | Tôi nhờ xem vận mệnh năm mới.
+手品[てじな] | n | THỦ PHẨM | ảo thuật | - | - | パーティーで手品[てじな]を披露[ひろう]した。 | Tôi biểu diễn ảo thuật ở bữa tiệc.
+マジック | n | - | ảo thuật; bút lông dầu | - | - | 名前[なまえ]をマジックで書[か]いた。 | Tôi viết tên bằng bút lông dầu.
+レクリエーション | n | - | hoạt động giải trí | - | - | 社員[しゃいん]旅行[りょこう]でレクリエーションをした。 | Trong chuyến du lịch công ty có các hoạt động giải trí.
+アルコール | n | - | cồn, rượu | - | - | アルコールに弱[よわ]いので、少[すこ]ししか飲[の]めない。 | Tôi yếu rượu nên chỉ uống được một chút.
+ウィークデー | n | - | ngày thường | - | - | ウィークデーは仕事[しごと]で忙[いそが]しい。 | Ngày thường tôi bận làm việc.
+キャンパス | n | - | khuôn viên trường | - | - | 大学[だいがく]のキャンパスには緑[みどり]が多[おお]い。 | Khuôn viên đại học có nhiều cây xanh.
+オリエンテーション | n | - | buổi định hướng | - | - | 入学式[にゅうがくしき]の翌日[よくじつ]にオリエンテーションがある。 | Ngày sau lễ nhập học có buổi định hướng.
+レッスン | n | - | buổi học | ピアノ の {レッスン} | buổi học piano | 週[しゅう]に一回[いっかい]英会話[えいかいわ]のレッスンを受[う]けている。 | Mỗi tuần tôi học một buổi hội thoại tiếng Anh.
+学[まな]ぶ | v1 | HỌC | học hỏi | 失敗[しっぱい] から {学ぶ} | học từ thất bại | 失敗[しっぱい]から学[まな]ぶことは多[おお]い。 | Có nhiều điều học được từ thất bại.
+練[ね]る | v1 | LUYỆN | nhào; trau chuốt | 計画[けいかく] を {練る} | gọt giũa kế hoạch | 旅行[りょこう]の計画[けいかく]をじっくり練[ね]った。 | Tôi gọt giũa kỹ kế hoạch du lịch.
+書[か]き上[あ]げる | v2 | THƯ THƯỢNG | viết xong | 論文[ろんぶん] を {書き上げる} | viết xong luận văn | 一晩[ひとばん]で報告書[ほうこくしょ]を書[か]き上[あ]げた。 | Tôi viết xong bản báo cáo trong một đêm.
+磨[みが]き上[あ]げる | v2 | MA THƯỢNG | đánh bóng; mài giũa | 技[わざ] を {磨き上げる} | mài giũa kỹ năng | 長年[ながねん]かけて職人[しょくにん]の技[わざ]を磨[みが]き上[あ]げた。 | Bao năm ròng ông mài giũa tay nghề nghệ nhân.
+創作[そうさく] | n,v3 | SÁNG TÁC | sáng tác | {創作} 活動[かつどう] | hoạt động sáng tác | 引退[いんたい]後[ご]も彼[かれ]は創作[そうさく]を続[つづ]けた。 | Sau khi giải nghệ ông vẫn tiếp tục sáng tác.
+芸[げい] | n | NGHỆ | tài nghệ, tiết mục | {芸} を 磨[みが]く | trau dồi tài nghệ | 犬[いぬ]にお手[て]という芸[げい]を教[おし]えた。 | Tôi dạy chó tiết mục đưa chân.
+国宝[こくほう] | n | QUỐC BẢO | quốc bảo | - | - | このお寺[てら]には国宝[こくほう]の仏像[ぶつぞう]がある。 | Ngôi chùa này có tượng Phật là quốc bảo.
+重要[じゅうよう]文化財[ぶんかざい] | n | TRỌNG YẾU VĂN HÓA TÀI | di sản văn hóa quan trọng | - | - | この建物[たてもの]は重要[じゅうよう]文化財[ぶんかざい]に指定[してい]されている。 | Tòa nhà này được công nhận là di sản văn hóa quan trọng.
+遺跡[いせき] | n | DI TÍCH | di tích | 古代[こだい] の {遺跡} | di tích cổ đại | 工事[こうじ]中[ちゅう]に古代[こだい]の遺跡[いせき]が見[み]つかった。 | Trong lúc thi công đã phát hiện di tích cổ đại.
+史跡[しせき] | n | SỬ TÍCH | di tích lịch sử | - | - | 京都[きょうと]の史跡[しせき]を巡[めぐ]るツアーに参加[さんか]した。 | Tôi tham gia tour tham quan các di tích lịch sử Kyoto.
+古墳[こふん] | n | CỔ PHẦN | gò mộ cổ | - | - | 日本[にほん]最大[さいだい]の古墳[こふん]は大阪[おおさか]にある。 | Gò mộ cổ lớn nhất Nhật Bản ở Osaka.
+名画[めいが] | n | DANH HỌA | bức tranh nổi tiếng; phim kinh điển | - | - | 美術館[びじゅつかん]で世界[せかい]の名画[めいが]を鑑賞[かんしょう]した。 | Tôi thưởng thức các bức tranh nổi tiếng thế giới ở bảo tàng.
+名曲[めいきょく] | n | DANH KHÚC | bản nhạc nổi tiếng | - | - | この曲[きょく]は時代[じだい]を超[こ]えて愛[あい]される名曲[めいきょく]だ。 | Bản nhạc này là ca khúc được yêu thích vượt thời gian.
+名言[めいげん] | n | DANH NGÔN | danh ngôn | - | - | 好[す]きな名言[めいげん]を手帳[てちょう]に書[か]いている。 | Tôi ghi những câu danh ngôn yêu thích vào sổ tay.
+作風[さくふう] | n | TÁC PHONG | phong cách sáng tác | - | - | 晩年[ばんねん]になって作風[さくふう]が大[おお]きく変[か]わった。 | Về cuối đời phong cách sáng tác đã thay đổi lớn.
+絵[え]の具[ぐ] | n | HỘI CỤ | màu vẽ | - | - | 子供[こども]が絵[え]の具[ぐ]で服[ふく]を汚[よご]した。 | Đứa bé làm bẩn áo bằng màu vẽ.
+筆[ふで] | n | BÚT | bút lông | {筆} を 執[と]る | cầm bút viết | 筆[ふで]で年賀状[ねんがじょう]を書[か]いた。 | Tôi viết thiệp năm mới bằng bút lông.
+額縁[がくぶち] | n | NGẠCH DUYÊN | khung tranh | - | - | 賞状[しょうじょう]を額縁[がくぶち]に入[い]れて飾[かざ]った。 | Tôi lồng bằng khen vào khung treo lên.
+スケッチ | n,v3 | - | phác họa | - | - | 公園[こうえん]で木[き]をスケッチした。 | Tôi phác họa cây cối ở công viên.
+写生[しゃせい] | n,v3 | TẢ SINH | vẽ phong cảnh thực | - | - | 遠足[えんそく]で花[はな]を写生[しゃせい]した。 | Trong buổi dã ngoại chúng tôi vẽ hoa.
+ロケ | n | - | quay ngoại cảnh | - | - | この町[まち]で映画[えいが]のロケが行[おこな]われた。 | Phim đã quay ngoại cảnh ở thị trấn này.
+声優[せいゆう] | n | THANH ƯU | diễn viên lồng tiếng | - | - | アニメの声優[せいゆう]を目指[めざ]している。 | Tôi đang theo đuổi nghề lồng tiếng anime.
+漫画家[まんがか] | n | MẠN HỌA GIA | họa sĩ truyện tranh | - | - | 好[す]きな漫画家[まんがか]のサイン会[かい]に行[い]った。 | Tôi đến buổi ký tặng của họa sĩ truyện tranh yêu thích.
+大[だい]ヒット | n,v3 | ĐẠI | thành công vang dội | - | - | その映画[えいが]は世界中[せかいじゅう]で大[だい]ヒットした。 | Bộ phim đó thành công vang dội khắp thế giới.
+ベストセラー | n | - | sách bán chạy | - | - | 彼[かれ]の小説[しょうせつ]はベストセラーになった。 | Tiểu thuyết của anh ấy đã thành sách bán chạy.
+新刊[しんかん] | n | TÂN SAN | sách mới phát hành | - | - | 好[す]きな作家[さっか]の新刊[しんかん]が出[で]た。 | Nhà văn tôi thích vừa ra sách mới.
+入場料[にゅうじょうりょう] | n | NHẬP TRƯỜNG LIỆU | phí vào cửa | - | - | 美術館[びじゅつかん]の入場料[にゅうじょうりょう]は千[せん]円[えん]だ。 | Phí vào cửa bảo tàng là một nghìn yên.
+前売[まえう]り券[けん] | n | TIỀN MẠI KHOÁN | vé bán trước | - | - | 前売[まえう]り券[けん]なら二百[にひゃく]円[えん]安[やす]い。 | Vé mua trước rẻ hơn hai trăm yên.
+当日券[とうじつけん] | n | ĐƯƠNG NHẬT KHOÁN | vé bán trong ngày | - | - | 当日券[とうじつけん]はすぐに売[う]り切[き]れた。 | Vé bán trong ngày hết ngay lập tức.
+立[た]ち見[み] | n,v3 | LẬP KIẾN | xem đứng | - | - | 満員[まんいん]で立[た]ち見[み]の客[きゃく]も出[で]た。 | Kín chỗ nên có cả khách phải đứng xem.
+ライブ | n | - | buổi biểu diễn trực tiếp | - | - | 好[す]きなバンドのライブに行[い]った。 | Tôi đi xem buổi diễn trực tiếp của ban nhạc yêu thích.
+民謡[みんよう] | n | DÂN DAO | dân ca | - | - | 祖母[そぼ]は地元[じもと]の民謡[みんよう]をよく歌[うた]っていた。 | Bà tôi hay hát dân ca địa phương.
+口笛[くちぶえ] | n | KHẨU ĐỊCH | huýt sáo | {口笛} を 吹[ふ]く | huýt sáo | 機嫌[きげん]がいいのか、弟[おとうと]が口笛[くちぶえ]を吹[ふ]いている。 | Có lẽ đang vui nên em trai huýt sáo.
+盆栽[ぼんさい] | n | BỒN TÀI | cây cảnh bonsai | - | - | 定年[ていねん]後[ご]、父[ちち]は盆栽[ぼんさい]に夢中[むちゅう]だ。 | Nghỉ hưu rồi bố tôi mê cây cảnh.

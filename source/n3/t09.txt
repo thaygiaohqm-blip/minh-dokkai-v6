@@ -1,0 +1,129 @@
+@topic t09
+@ja 旅行[りょこう]・レジャー
+@vi Du lịch và giải trí
+@desc Lên kế hoạch chuyến đi, lưu trú, tham quan, hoạt động ngoài trời và các thú vui lúc rảnh.
+旅程[りょてい] | n | LỮ TRÌNH | lịch trình chuyến đi | - | - | 三泊[さんぱく]四日[よっか]の旅程[りょてい]です。 | Lịch trình bốn ngày ba đêm.
+泊[はく] | suf | BẠC | (số) đêm | 二[に] {泊[はく]} 三日[みっか] | ba ngày hai đêm | 二泊[にはく]三日[みっか]で沖縄[おきなわ]に行[い]きます。 | Tôi đi Okinawa ba ngày hai đêm.
+宿泊[しゅくはく] | n,v3 | TÚC BẠC | lưu trú | {宿泊[しゅくはく]} 先[さき] | nơi lưu trú | 宿泊[しゅくはく]先[さき]のホテルを予約[よやく]しました。 | Tôi đã đặt khách sạn lưu trú.
+民宿[みんしゅく] | n | DÂN TÚC | nhà nghỉ kiểu nhà dân | - | - | 海[うみ]の近[ちか]くの民宿[みんしゅく]に泊[と]まりました。 | Tôi ở nhà nghỉ gần biển.
+チェックイン | n,v3 | - | nhận phòng | - | - | ホテルのチェックインは三[さん]時[じ]からです。 | Nhận phòng khách sạn từ ba giờ.
+チェックアウト | n,v3 | - | trả phòng | - | - | 十[じゅう]時[じ]までにチェックアウトしてください。 | Hãy trả phòng trước mười giờ.
+フロント | n | - | quầy lễ tân | - | - | 鍵[かぎ]はフロントに預[あず]けてください。 | Hãy gửi chìa khóa ở quầy lễ tân.
+相部屋[あいべや] | n | TƯƠNG BỘ ỐC | phòng ở chung | - | - | 安[やす]いので相部屋[あいべや]にしました。 | Vì rẻ nên tôi chọn phòng ở chung.
+露天風呂[ろてんぶろ] | n | LỘ THIÊN PHONG LỮ | bồn tắm lộ thiên | - | - | 雪[ゆき]を見[み]ながら露天風呂[ろてんぶろ]に入[はい]りました。 | Tôi ngâm bồn lộ thiên vừa ngắm tuyết.
+浴衣[ゆかた] | n | DỤC Y | áo yukata | - | - | 旅館[りょかん]で浴衣[ゆかた]を着[き]ました。 | Tôi mặc yukata ở lữ quán.
+名所[めいしょ]巡[めぐ]り | n | DANH SỞ TUẦN | đi thăm danh lam | - | - | 京都[きょうと]で名所[めいしょ]巡[めぐ]りをしました。 | Tôi đi thăm danh lam ở Kyoto.
+巡[めぐ]る | v1 | TUẦN | đi vòng quanh, tuần hoàn | - | - | 季節[きせつ]が巡[めぐ]って、また春[はる]が来[き]ました。 | Mùa luân chuyển, xuân lại về.
+観光客[かんこうきゃく] | n | QUAN QUANG KHÁCH | khách du lịch | - | - | 京都[きょうと]は外国人[がいこくじん]観光客[かんこうきゃく]が多[おお]いです。 | Kyoto có nhiều khách du lịch nước ngoài.
+見学[けんがく] | n,v3 | KIẾN HỌC | tham quan học hỏi | 工場[こうじょう] {見学[けんがく]} | tham quan nhà máy | 子供[こども]たちとビール工場[こうじょう]を見学[けんがく]しました。 | Tôi cùng bọn trẻ tham quan nhà máy bia.
+入場[にゅうじょう] | n,v3 | NHẬP TRƯỜNG | vào cửa | {入場[にゅうじょう]} 料[りょう] | phí vào cửa | 美術館[びじゅつかん]の入場[にゅうじょう]料[りょう]は千円[せんえん]です。 | Phí vào bảo tàng mỹ thuật là một nghìn yên.
+入場券[にゅうじょうけん] | n | NHẬP TRƯỜNG KHOÁN | vé vào cửa | - | - | 入場券[にゅうじょうけん]を買[か]って中[なか]に入[はい]ります。 | Mua vé vào cửa rồi đi vào.
+パンフレット | n | - | tờ rơi giới thiệu | - | - | 観光[かんこう]案内所[あんないじょ]でパンフレットをもらいました。 | Tôi nhận tờ giới thiệu ở trung tâm hướng dẫn du lịch.
+観光[かんこう]案内所[あんないじょ] | n | QUAN QUANG ÁN NỘI SỞ | trung tâm hướng dẫn du lịch | - | - | 駅前[えきまえ]に観光[かんこう]案内所[あんないじょ]があります。 | Trước ga có trung tâm hướng dẫn du lịch.
+世界遺産[せかいいさん] | n | THẾ GIỚI DI SẢN | di sản thế giới | - | - | 富士山[ふじさん]は世界遺産[せかいいさん]です。 | Núi Phú Sĩ là di sản thế giới.
+城[しろ] | n | THÀNH | lâu đài | - | - | 姫路城[ひめじじょう]は白[しろ]くて美[うつく]しいお城[しろ]です。 | Thành Himeji là lâu đài trắng rất đẹp.
+神社[じんじゃ] | n | THẦN XÃ | đền Thần đạo | 神社[じんじゃ] に お参[まい]りする | đi lễ đền | お正月[しょうがつ]に神社[じんじゃ]にお参[まい]りします。 | Tết tôi đi lễ đền.
+お参[まい]り | n,v3 | THAM | đi lễ, viếng | - | - | 毎年[まいとし]お寺[てら]にお参[まい]りに行[い]きます。 | Năm nào tôi cũng đi lễ chùa.
+お守[まも]り | n | THỦ | bùa hộ mệnh | - | - | 合格[ごうかく]のお守[まも]りを買[か]いました。 | Tôi mua bùa cầu đỗ.
+おみくじ | n | - | quẻ bói (ở đền) | おみくじ を 引[ひ]く | rút quẻ | 神社[じんじゃ]でおみくじを引[ひ]きました。 | Tôi rút quẻ ở đền.
+絶景[ぜっけい] | n | TUYỆT CẢNH | cảnh tuyệt đẹp | - | - | 山頂[さんちょう]からの絶景[ぜっけい]に感動[かんどう]しました。 | Tôi xúc động trước cảnh tuyệt đẹp từ đỉnh núi.
+山頂[さんちょう] | n | SƠN ĐỈNH | đỉnh núi | - | - | 三時間[さんじかん]かけて山頂[さんちょう]に着[つ]きました。 | Mất ba tiếng mới lên tới đỉnh núi.
+展望台[てんぼうだい] | n | TRIỂN VỌNG ĐÀI | đài quan sát | - | - | 展望台[てんぼうだい]から町[まち]が見渡[みわた]せます。 | Từ đài quan sát có thể nhìn bao quát thị trấn.
+見渡[みわた]す | v1 | KIẾN ĐỘ | nhìn bao quát | - | - | 丘[おか]の上[うえ]から海[うみ]を見渡[みわた]しました。 | Từ trên đồi tôi phóng tầm mắt ra biển.
+記念写真[きねんしゃしん] | n | KỶ NIỆM TẢ CHÂN | ảnh kỷ niệm | 記念写真[きねんしゃしん] を 撮[と]る | chụp ảnh kỷ niệm | お城[しろ]の前[まえ]で記念写真[きねんしゃしん]を撮[と]りました。 | Chúng tôi chụp ảnh kỷ niệm trước lâu đài.
+記念品[きねんひん] | n | KỶ NIỆM PHẨM | đồ lưu niệm | - | - | 記念品[きねんひん]にキーホルダーを買[か]いました。 | Tôi mua móc khóa làm đồ lưu niệm.
+名産[めいさん] | n | DANH SẢN | đặc sản | - | - | この地方[ちほう]の名産[めいさん]はみかんです。 | Đặc sản vùng này là quýt.
+土産物[みやげもの] | n | THỔ SẢN VẬT | quà lưu niệm | {土産物[みやげもの]} 屋[や] | cửa hàng quà lưu niệm | 駅[えき]の土産物[みやげもの]屋[や]でお菓子[かし]を買[か]いました。 | Tôi mua bánh ở cửa hàng quà lưu niệm trong ga.
+一人旅[ひとりたび] | n | NHẤT NHÂN LỮ | du lịch một mình | - | - | 初[はじ]めての一人旅[ひとりたび]は不安[ふあん]でした。 | Lần đầu du lịch một mình tôi thấy lo.
+団体[だんたい] | n | ĐOÀN THỂ | đoàn, tập thể | {団体[だんたい]} 旅行[りょこう] | du lịch theo đoàn | 会社[かいしゃ]の団体[だんたい]旅行[りょこう]で北海道[ほっかいどう]に行[い]きました。 | Tôi đi Hokkaido theo đoàn của công ty.
+添乗員[てんじょういん] | n | THIÊM THỪA VIÊN | hướng dẫn viên đi cùng đoàn | - | - | 添乗員[てんじょういん]が案内[あんない]してくれました。 | Hướng dẫn viên đi cùng đã dẫn đường cho chúng tôi.
+自由行動[じゆうこうどう] | n | TỰ DO HÀNH ĐỘNG | thời gian tự do | - | - | 午後[ごご]は自由行動[じゆうこうどう]です。 | Buổi chiều là thời gian tự do.
+集合[しゅうごう] | n,v3 | TẬP HỢP | tập trung | {集合[しゅうごう]} 時間[じかん] | giờ tập trung | 集合[しゅうごう]時間[じかん]に遅[おく]れないでください。 | Đừng đến muộn giờ tập trung.
+解散[かいさん] | n,v3 | GIẢI TÁN | giải tán | - | - | 駅[えき]に着[つ]いたら解散[かいさん]です。 | Đến ga thì giải tán.
+海外旅行[かいがいりょこう] | n | HẢI NGOẠI LỮ HÀNH | du lịch nước ngoài | - | - | 初[はじ]めての海外旅行[かいがいりょこう]はタイでした。 | Chuyến du lịch nước ngoài đầu tiên là Thái Lan.
+両替所[りょうがえじょ] | n | LƯỠNG THẾ SỞ | nơi đổi tiền | - | - | 空港[くうこう]の両替所[りょうがえじょ]で円[えん]に替[か]えました。 | Tôi đổi sang yên ở quầy đổi tiền sân bay.
+替[か]える | v2 | THẾ | đổi | - | - | ドルを円[えん]に替[か]えました。 | Tôi đổi đô la sang yên.
+現地[げんち] | n | HIỆN ĐỊA | tại chỗ, địa phương | 現地[げんち] の 人[ひと] | người bản địa | 現地[げんち]の人[ひと]と友達[ともだち]になりました。 | Tôi kết bạn với người bản địa.
+異文化[いぶんか] | n | DỊ VĂN HÓA | văn hóa khác | - | - | 旅行[りょこう]で異文化[いぶんか]に触[ふ]れました。 | Qua chuyến đi tôi được tiếp xúc văn hóa khác.
+触[ふ]れる | v2 | XÚC | chạm, tiếp xúc | - | - | 作品[さくひん]に手[て]を触[ふ]れないでください。 | Xin đừng chạm tay vào tác phẩm.
+レジャー | n | - | giải trí, vui chơi | - | - | 週末[しゅうまつ]は家族[かぞく]でレジャーを楽[たの]しみます。 | Cuối tuần cả nhà đi vui chơi.
+行楽[こうらく] | n | HÀNH LẠC | đi chơi | {行楽[こうらく]} 地[ち] | điểm vui chơi | 連休[れんきゅう]は行楽[こうらく]地[ち]が混[こ]みます。 | Kỳ nghỉ dài các điểm vui chơi rất đông.
+海水浴[かいすいよく] | n | HẢI THỦY DỤC | tắm biển | - | - | 夏[なつ]は海水浴[かいすいよく]に行[い]きます。 | Mùa hè tôi đi tắm biển.
+潜[もぐ]る | v1 | TIỀM | lặn | - | - | 海[うみ]に潜[もぐ]って魚[さかな]を見[み]ました。 | Tôi lặn xuống biển ngắm cá.
+紅葉狩[もみじが]り | n | HỒNG DIỆP THÚ | đi ngắm lá đỏ | - | - | 秋[あき]は家族[かぞく]で紅葉狩[もみじが]りに行[い]きます。 | Mùa thu cả nhà đi ngắm lá đỏ.
+バーベキュー | n | - | tiệc nướng ngoài trời | - | - | 川原[かわら]でバーベキューをしました。 | Chúng tôi làm tiệc nướng ở bãi sông.
+テーマパーク | n | - | công viên chủ đề | - | - | 大阪[おおさか]のテーマパークに行[い]きました。 | Tôi đã đến công viên chủ đề ở Osaka.
+水族館[すいぞくかん] | n | THỦY TỘC QUÁN | thủy cung | - | - | 水族館[すいぞくかん]でイルカのショーを見[み]ました。 | Tôi xem biểu diễn cá heo ở thủy cung.
+ドライブ | n,v3 | - | lái xe đi chơi | - | - | 海沿[うみぞ]いの道[みち]をドライブしました。 | Chúng tôi lái xe dọc bờ biển.
+サイクリング | n,v3 | - | đạp xe dạo | - | - | 休[やす]みの日[ひ]は川沿[かわぞ]いをサイクリングします。 | Ngày nghỉ tôi đạp xe dọc bờ sông.
+沿[ぞ]い | suf | DUYÊN | dọc theo | 川[かわ] {沿[ぞ]い} | dọc bờ sông | 川沿[かわぞ]いに桜[さくら]が咲[さ]いています。 | Hoa anh đào nở dọc bờ sông.
+行楽客[こうらくきゃく] | n | HÀNH LẠC KHÁCH | khách đi chơi | - | - | 連休[れんきゅう]中[ちゅう]は行楽客[こうらくきゃく]で賑[にぎ]わいます。 | Trong kỳ nghỉ đông nghịt khách đi chơi.
+賑[にぎ]わう | v1 | CHẨN | nhộn nhịp, đông vui | - | - | 夏祭[なつまつ]りで町[まち]が賑[にぎ]わっています。 | Thị trấn nhộn nhịp vì lễ hội mùa hè.
+シーズン | n | - | mùa (du lịch, thể thao) | オフ {シーズン} | mùa thấp điểm | オフシーズンはホテルが安[やす]いです。 | Mùa thấp điểm khách sạn rẻ.
+満喫[まんきつ] | n,v3 | MÃN KHIẾT | tận hưởng trọn vẹn | 休日[きゅうじつ] を {満喫[まんきつ]}する | tận hưởng ngày nghỉ | 温泉[おんせん]で休日[きゅうじつ]を満喫[まんきつ]しました。 | Tôi tận hưởng ngày nghỉ ở suối nước nóng.
+気晴[きば]らし | n | KHÍ TÌNH | giải khuây | - | - | 気晴[きば]らしに映画[えいが]を見[み]に行[い]きました。 | Tôi đi xem phim để giải khuây.
+リラックス | n,v3 | - | thư giãn | - | - | 音楽[おんがく]を聞[き]いてリラックスします。 | Tôi nghe nhạc để thư giãn.
+下調[したしら]べ | n,v3 | HẠ ĐIỀU | tìm hiểu trước | - | - | 旅行[りょこう]の前[まえ]に下調[したしら]べをします。 | Trước chuyến đi tôi tìm hiểu trước.
+ガイドブック | n | - | sách hướng dẫn du lịch | - | - | ガイドブックを見[み]ながら町[まち]を歩[ある]きました。 | Tôi vừa xem sách hướng dẫn vừa dạo phố.
+地図[ちず]アプリ | n | ĐỊA ĐỒ | ứng dụng bản đồ | - | - | 地図[ちず]アプリがあれば迷[まよ]いません。 | Có ứng dụng bản đồ thì không lạc.
+キャリーバッグ | n | - | va-li kéo | - | - | キャリーバッグを引[ひ]いて駅[えき]まで歩[ある]きました。 | Tôi kéo va-li đi bộ ra ga.
+リュック | n | - | ba lô | リュック を 背負[せお]う | đeo ba lô | リュックを背負[せお]って山[やま]に登[のぼ]りました。 | Tôi đeo ba lô leo núi.
+背負[せお]う | v1 | BỐI PHỤ | đeo trên lưng, gánh vác | - | - | 重[おも]い責任[せきにん]を背負[せお]っています。 | Anh ấy gánh trách nhiệm nặng nề.
+旅費[りょひ] | n | LỮ PHÍ | chi phí đi lại | 旅費[りょひ] を 節約[せつやく]する | tiết kiệm chi phí đi lại | 夜行[やこう]バスで旅費[りょひ]を節約[せつやく]しました。 | Tôi tiết kiệm chi phí bằng xe buýt đêm.
+夜行[やこう]バス | n | DẠ HÀNH | xe buýt đêm | - | - | 夜行[やこう]バスで東京[とうきょう]から大阪[おおさか]へ行[い]きました。 | Tôi đi từ Tokyo đến Osaka bằng xe buýt đêm.
+格安[かくやす]航空[こうくう] | n | CÁCH AN HÀNG KHÔNG | hãng bay giá rẻ | - | - | 格安[かくやす]航空[こうくう]は荷物[にもつ]の料金[りょうきん]が別[べつ]です。 | Hãng bay giá rẻ tính phí hành lý riêng.
+パック旅行[りょこう] | n | LỮ HÀNH | tour trọn gói | - | - | パック旅行[りょこう]は楽[らく]で安心[あんしん]です。 | Tour trọn gói thì nhàn và yên tâm.
+送迎[そうげい] | n,v3 | TỐNG NGHÊNH | đưa đón | {送迎[そうげい]} バス | xe đưa đón | ホテルの送迎[そうげい]バスが駅[えき]に来[き]ます。 | Xe đưa đón của khách sạn đến ga.
+空室[くうしつ] | n | KHÔNG THẤT | phòng trống | - | - | 今夜[こんや]は空室[くうしつ]がありません。 | Đêm nay không còn phòng trống.
+満室[まんしつ] | n | MÃN THẤT | hết phòng | - | - | お盆[ぼん]はどのホテルも満室[まんしつ]です。 | Dịp Obon khách sạn nào cũng hết phòng.
+素泊[すど]まり | n | TỐ BẠC | chỉ ngủ (không ăn) | - | - | 素泊[すど]まりなら一泊[いっぱく]五千円[ごせんえん]です。 | Chỉ ngủ thì năm nghìn yên một đêm.
+食事付[しょくじつ]き | n | THỰC SỰ PHÓ | kèm bữa ăn | - | - | 朝食[ちょうしょく]付[つ]きのプランにしました。 | Tôi chọn gói kèm bữa sáng.
+貸[か]し切[き]り | n | THẢI THIẾT | thuê trọn | {貸[か]し切[き]り} 風呂[ぶろ] | bồn tắm thuê riêng | 家族[かぞく]で貸[か]し切[き]り風呂[ぶろ]に入[はい]りました。 | Cả nhà tắm bồn thuê riêng.
+夜景[やけい] | n | DẠ CẢNH | cảnh đêm | - | - | 函館[はこだて]の夜景[やけい]はとてもきれいです。 | Cảnh đêm Hakodate rất đẹp.
+朝日[あさひ] | n | TRIÊU NHẬT | mặt trời buổi sáng | - | - | 海[うみ]から昇[のぼ]る朝日[あさひ]を見[み]ました。 | Tôi ngắm mặt trời mọc từ biển.
+昇[のぼ]る | v1 | THĂNG | mọc lên | - | - | 太陽[たいよう]が東[ひがし]から昇[のぼ]ります。 | Mặt trời mọc ở phía đông.
+秘境[ひきょう] | n | BÍ CẢNH | nơi hoang sơ | - | - | 山奥[やまおく]の秘境[ひきょう]の温泉[おんせん]に行[い]きました。 | Tôi đến suối nước nóng hoang sơ sâu trong núi.
+山奥[やまおく] | n | SƠN ÁO | sâu trong núi | - | - | 祖父[そふ]は山奥[やまおく]の村[むら]に住[す]んでいます。 | Ông tôi sống ở ngôi làng sâu trong núi.
+ハイキングコース | n | - | cung đường đi bộ | - | - | 初心者[しょしんしゃ]向[む]けのハイキングコースです。 | Đây là cung đường đi bộ cho người mới.
+初心者[しょしんしゃ] | n | SƠ TÂM GIẢ | người mới bắt đầu | - | - | 初心者[しょしんしゃ]でも楽[たの]しめます。 | Người mới bắt đầu cũng thưởng thức được.
+向[む]け | suf | HƯỚNG | dành cho | 子供[こども] {向[む]け} | dành cho trẻ em | これは子供[こども]向[む]けの本[ほん]です。 | Đây là sách dành cho trẻ em.
+向[む]き | suf | HƯỚNG | phù hợp với | 初心者[しょしんしゃ] {向[む]き} | hợp với người mới | このコースは初心者[しょしんしゃ]向[む]きです。 | Cung đường này hợp với người mới.
+野外[やがい] | n | DÃ NGOẠI | ngoài trời | - | - | 野外[やがい]コンサートに行[い]きました。 | Tôi đi xem hòa nhạc ngoài trời.
+アウトドア | n | - | hoạt động ngoài trời | - | - | 週末[しゅうまつ]はアウトドアを楽[たの]しんでいます。 | Cuối tuần tôi tận hưởng hoạt động ngoài trời.
+テント | n | - | lều | - | - | 山[やま]でテントを張[は]って寝[ね]ました。 | Chúng tôi dựng lều ngủ trên núi.
+寝袋[ねぶくろ] | n | TẨM ĐẠI | túi ngủ | - | - | 寝袋[ねぶくろ]があれば寒[さむ]くても大丈夫[だいじょうぶ]です。 | Có túi ngủ thì lạnh cũng không sao.
+焚[た]き火[び] | n,v3 | PHẦN HỎA | đốt lửa trại | - | - | 夜[よる]は焚[た]き火[び]を囲[かこ]んで話[はな]しました。 | Ban đêm chúng tôi quây quanh đống lửa trò chuyện.
+川原[かわら] | n | XUYÊN NGUYÊN | bãi sông | - | - | 川原[かわら]で石[いし]を拾[ひろ]いました。 | Tôi nhặt đá ở bãi sông.
+潮干狩[しおひが]り | n | TRIỀU CAN THÚ | bắt sò lúc triều rút | - | - | 春[はる]に海[うみ]で潮干狩[しおひが]りをしました。 | Mùa xuân chúng tôi đi bắt sò ở biển.
+いちご狩[が]り | n | THÚ | đi hái dâu | - | - | 農園[のうえん]でいちご狩[が]りを楽[たの]しみました。 | Chúng tôi thích thú đi hái dâu ở trang trại.
+花見客[はなみきゃく] | n | HOA KIẾN KHÁCH | khách ngắm hoa | - | - | 公園[こうえん]は花見客[はなみきゃく]でいっぱいでした。 | Công viên đầy khách ngắm hoa.
+場所取[ばしょと]り | n,v3 | TRƯỜNG SỞ THỦ | giữ chỗ | - | - | 花見[はなみ]の場所取[ばしょと]りを頼[たの]まれました。 | Tôi được nhờ giữ chỗ ngắm hoa.
+縁日[えんにち] | n | DUYÊN NHẬT | phiên chợ đền | - | - | 神社[じんじゃ]の縁日[えんにち]で金魚[きんぎょ]すくいをしました。 | Ở phiên chợ đền tôi chơi vớt cá vàng.
+花火大会[はなびたいかい] | n | HOA HỎA ĐẠI HỘI | lễ hội pháo hoa | - | - | 浴衣[ゆかた]を着[き]て花火大会[はなびたいかい]に行[い]きました。 | Tôi mặc yukata đi lễ hội pháo hoa.
+見物客[けんぶつきゃく] | n | KIẾN VẬT KHÁCH | người xem | - | - | お祭[まつ]りに大勢[おおぜい]の見物客[けんぶつきゃく]が集[あつ]まりました。 | Nhiều người kéo đến xem lễ hội.
+ライトアップ | n,v3 | - | chiếu đèn trang trí | - | - | 夜[よる]になるとお寺[てら]がライトアップされます。 | Ban đêm chùa được chiếu đèn trang trí.
+イルミネーション | n | - | đèn trang trí | - | - | 冬[ふゆ]の街[まち]のイルミネーションがきれいです。 | Đèn trang trí phố mùa đông rất đẹp.
+旅行会社[りょこうがいしゃ] | n | LỮ HÀNH HỘI XÃ | công ty du lịch | - | - | 旅行会社[りょこうがいしゃ]でツアーを申[もう]し込[こ]みました。 | Tôi đăng ký tour ở công ty du lịch.
+手配[てはい] | n,v3 | THỦ PHỐI | sắp xếp, bố trí | - | - | ホテルと飛行機[ひこうき]の手配[てはい]をしました。 | Tôi đã sắp xếp khách sạn và vé máy bay.
+取[と]り消[け]す | v1 | THỦ TIÊU | hủy bỏ | 予約[よやく] を 取[と]り消[け]す | hủy đặt chỗ | 台風[たいふう]で予約[よやく]を取[と]り消[け]しました。 | Vì bão tôi đã hủy đặt chỗ.
+旅先[たびさき] | n | LỮ TIÊN | nơi đang du lịch | - | - | 旅先[たびさき]で偶然[ぐうぜん]友達[ともだち]に会[あ]いました。 | Tôi tình cờ gặp bạn ở nơi du lịch.
+偶然[ぐうぜん] | n,adj-na,adv | NGẪU NHIÊN | tình cờ | - | - | 駅[えき]で偶然[ぐうぜん]先生[せんせい]に会[あ]いました。 | Tôi tình cờ gặp thầy ở ga.
+思[おも]い出[で]に残[のこ]る | exp | TƯ XUẤT TÀN | đáng nhớ | - | - | 思[おも]い出[で]に残[のこ]る旅行[りょこう]になりました。 | Đó là chuyến đi đáng nhớ.
+遊覧船[ゆうらんせん] | n | DU LÃM THUYỀN | thuyền tham quan | - | - | 湖[みずうみ]で遊覧船[ゆうらんせん]に乗[の]りました。 | Tôi đi thuyền tham quan trên hồ.
+ロープウェイ | n | - | cáp treo | - | - | ロープウェイで山頂[さんちょう]まで行[い]きました。 | Tôi đi cáp treo lên đỉnh núi.
+景勝地[けいしょうち] | n | CẢNH THẮNG ĐỊA | thắng cảnh | - | - | 松島[まつしま]は有名[ゆうめい]な景勝地[けいしょうち]です。 | Matsushima là thắng cảnh nổi tiếng.
+古都[こと] | n | CỔ ĐÔ | cố đô | - | - | 京都[きょうと]は千[せん]年[ねん]の古都[こと]です。 | Kyoto là cố đô nghìn năm.
+寺院[じいん] | n | TỰ VIỆN | chùa chiền | - | - | 奈良[なら]には古[ふる]い寺院[じいん]が多[おお]いです。 | Nara có nhiều chùa cổ.
+仏像[ぶつぞう] | n | PHẬT TƯỢNG | tượng Phật | - | - | 大[おお]きな仏像[ぶつぞう]に驚[おどろ]きました。 | Tôi ngạc nhiên trước bức tượng Phật lớn.
+鳥居[とりい] | n | ĐIỂU CƯ | cổng đền torii | - | - | 赤[あか]い鳥居[とりい]がたくさん並[なら]んでいます。 | Rất nhiều cổng torii đỏ xếp hàng.
+庭園[ていえん] | n | ĐÌNH VIÊN | khu vườn (lớn) | 日本[にほん] {庭園[ていえん]} | vườn Nhật | 静[しず]かな日本[にほん]庭園[ていえん]を散歩[さんぽ]しました。 | Tôi dạo trong khu vườn Nhật yên tĩnh.
+屋形船[やかたぶね] | n | ỐC HÌNH THUYỀN | thuyền mái che | - | - | 屋形船[やかたぶね]で花火[はなび]を見[み]ました。 | Chúng tôi ngắm pháo hoa trên thuyền mái che.
+温泉街[おんせんがい] | n | ÔN TUYỀN NHAI | phố suối nước nóng | - | - | 浴衣[ゆかた]で温泉街[おんせんがい]を歩[ある]きました。 | Tôi mặc yukata dạo phố suối nước nóng.
+湯[ゆ]めぐり | n | THANG | đi tắm nhiều suối | - | - | 別府[べっぷ]で湯[ゆ]めぐりを楽[たの]しみました。 | Ở Beppu tôi đi tắm nhiều suối.
+観光名所[かんこうめいしょ] | n | QUAN QUANG DANH SỞ | danh lam du lịch | - | - | 東京[とうきょう]の観光名所[かんこうめいしょ]を回[まわ]りました。 | Tôi đi một vòng các danh lam du lịch ở Tokyo.
+回[まわ]る | v1 | HỒI | đi vòng quanh | - | - | 一日[いちにち]で五[いつ]つのお寺[てら]を回[まわ]りました。 | Trong một ngày tôi đi năm ngôi chùa.
+免税[めんぜい] | n | MIỄN THUẾ | miễn thuế | {免税[めんぜい]} 店[てん] | cửa hàng miễn thuế | 空港[くうこう]の免税[めんぜい]店[てん]で香水[こうすい]を買[か]いました。 | Tôi mua nước hoa ở cửa hàng miễn thuế sân bay.
+香水[こうすい] | n | HƯƠNG THỦY | nước hoa | - | - | 彼女[かのじょ]はいい香水[こうすい]をつけています。 | Cô ấy dùng nước hoa thơm.
+観覧車[かんらんしゃ] | n | QUAN LÃM XA | vòng đu quay | - | - | 観覧車[かんらんしゃ]から海[うみ]が見[み]えました。 | Từ vòng đu quay có thể nhìn thấy biển.
+ジェットコースター | n | - | tàu lượn siêu tốc | - | - | ジェットコースターに乗[の]って叫[さけ]びました。 | Đi tàu lượn siêu tốc tôi hét lên.
+叫[さけ]ぶ | v1 | KHIẾU | hét | - | - | 助[たす]けてと叫[さけ]びました。 | Tôi hét lên cứu với.

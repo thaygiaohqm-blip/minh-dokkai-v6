@@ -1,0 +1,152 @@
+@topic từ vay mượn nâng cao
+@ja 外来語[がいらいご]
+@vi Từ vay mượn (katakana) nâng cao
+@desc Từ katakana thường gặp trong tiếng Nhật hiện đại ở trình độ N1, bao gồm từ vựng Mimikara N1 Unit 6 và Unit 10.
+イニシャル | n | - | chữ cái đầu, ban đầu | {イニシャル}コスト | chi phí ban đầu | 名前[なまえ]のイニシャルを教[おし]えてください。 | Cho tôi biết chữ cái đầu của tên bạn.
+インターンシップ | n | - | thực tập | {インターンシップ}に参加[さんか]する | tham gia thực tập | 大学[だいがく]3年[ねん]のときにインターンシップを経験[けいけん]した。 | Tôi đã trải nghiệm thực tập khi năm 3 đại học.
+キャンペーン | n | - | chiến dịch, khuyến mãi | {キャンペーン}を実施[じっし]する | thực hiện chiến dịch | 新商品[しんしょうひん]の発売[はつばい]キャンペーンが始[はじ]まった。 | Chiến dịch ra mắt sản phẩm mới đã bắt đầu.
+グッズ | n | - | sản phẩm, đồ lưu niệm | 限定[げんてい]{グッズ} | sản phẩm giới hạn | アーティストの限定[げんてい]グッズがすぐに完売[かんばい]した。 | Đồ lưu niệm giới hạn của nghệ sĩ bán hết ngay.
+シンポジウム | n | - | hội thảo chuyên đề | {シンポジウム}を開催[かいさい]する | tổ chức hội thảo | 環境[かんきょう]問題[もんだい]に関[かん]するシンポジウムが開[ひら]かれた。 | Hội thảo chuyên đề về vấn đề môi trường đã được tổ chức.
+スパイス | n | - | gia vị | {スパイス}を効[き]かせる | cho gia vị đậm đà | 本場[ほんば]のカレーはスパイスがたっぷり効[き]いている。 | Cà ri chính gốc gia vị rất đậm đà.
+スポンサー | n | - | nhà tài trợ | {スポンサー}を募[つの]る | tìm nhà tài trợ | イベントのスポンサーが見[み]つかった。 | Đã tìm được nhà tài trợ cho sự kiện.
+スリル | n | - | cảm giác hồi hộp | {スリル}を味[あじ]わう | cảm nhận sự hồi hộp | ジェットコースターでスリルを味[あじ]わった。 | Đã trải nghiệm cảm giác hồi hộp trên tàu lượn.
+ダブル | n | - | gấp đôi | {ダブル}ブッキング | đặt trùng lịch | ダブルチェックをしてからメールを送[おく]ってください。 | Hãy kiểm tra kỹ hai lần trước khi gửi email.
+ディスプレイ | n | - | trưng bày, màn hình | {ディスプレイ}を設置[せっち]する | lắp đặt màn hình | 店頭[てんとう]のディスプレイが華[はな]やかだ。 | Trưng bày ở cửa hàng rất lộng lẫy.
+デビュー | n | - | ra mắt, debut | {デビュー}を飾[かざ]る | tỏa sáng khi ra mắt | 若[わか]い歌手[かしゅ]がデビューを飾[かざ]った。 | Ca sĩ trẻ đã tỏa sáng trong buổi ra mắt.
+トライ | n | - | thử thách | {トライ}する | thử | 新[あたら]しいことにトライする姿勢[しせい]が大切[たいせつ]だ。 | Tinh thần thử thách điều mới là quan trọng.
+バック | n | - | phía sau, hậu thuẫn | {バック}アップ | sao lưu | データのバックアップを忘[わす]れずに取[と]ってください。 | Đừng quên sao lưu dữ liệu.
+パネル | n | - | tấm bảng, hội đồng | {パネル}ディスカッション | thảo luận hội đồng | パネルディスカッションで活発[かっぱつ]な議論[ぎろん]が交[か]わされた。 | Cuộc thảo luận hội đồng diễn ra sôi nổi.
+パレード | n | - | diễu hành | {パレード}に参加[さんか]する | tham gia diễu hành | 優勝[ゆうしょう]パレードに大勢[おおぜい]のファンが集[あつ]まった。 | Đông đảo fan tập trung tại cuộc diễu hành mừng vô địch.
+ヒーロー | n | - | anh hùng | {ヒーロー}になる | trở thành anh hùng | 子[こ]どもたちにとって消防士[しょうぼうし]はヒーローだ。 | Đối với bọn trẻ, lính cứu hỏa là anh hùng.
+フィクション | n | - | hư cấu | {フィクション}作品[さくひん] | tác phẩm hư cấu | この映画[えいが]はフィクションに基[もと]づいています。 | Bộ phim này dựa trên hư cấu.
+フェア | n | - | hội chợ, công bằng | {フェア}を開[ひら]く | mở hội chợ | 国際[こくさい]ブックフェアが今週末[こんしゅうまつ]開催[かいさい]される。 | Hội chợ sách quốc tế sẽ được tổ chức cuối tuần này.
+フェスティバル | n | - | lễ hội | 音楽[おんがく]{フェスティバル} | lễ hội âm nhạc | 毎年[まいとし]夏[なつ]に音楽[おんがく]フェスティバルが開[ひら]かれる。 | Mỗi năm mùa hè đều tổ chức lễ hội âm nhạc.
+フリーター | n | - | người làm thời vụ | {フリーター}生活[せいかつ] | cuộc sống làm thời vụ | フリーターから正社員[せいしゃいん]になった。 | Từ làm thời vụ trở thành nhân viên chính thức.
+プロフィール | n | - | hồ sơ, tiểu sử | {プロフィール}を更新[こうしん]する | cập nhật hồ sơ | SNSのプロフィールを更新[こうしん]した。 | Đã cập nhật hồ sơ trên mạng xã hội.
+ヘルシー | adj-na | - | lành mạnh, tốt cho sức khỏe | {ヘルシー}な食事[しょくじ] | bữa ăn lành mạnh | ヘルシーなメニューが人気[にんき]を集[あつ]めている。 | Thực đơn lành mạnh đang được ưa chuộng.
+ボイコット | n | - | tẩy chay | {ボイコット}運動[うんどう] | phong trào tẩy chay | 消費者[しょうひしゃ]がその企業[きぎょう]をボイコットした。 | Người tiêu dùng đã tẩy chay doanh nghiệp đó.
+ボリューム | n | - | khối lượng, âm lượng | {ボリューム}がある | có khối lượng | この定食[ていしょく]はボリュームがあって満足[まんぞく]だ。 | Bộ cơm này lượng nhiều, rất hài lòng.
+ポピュラー | adj-na | - | phổ biến, đại chúng | {ポピュラー}な曲[きょく] | bài hát phổ biến | ポピュラー音楽[おんがく]は幅広[はばひろ]い世代[せだい]に親[した]しまれている。 | Nhạc đại chúng được yêu thích bởi nhiều thế hệ.
+マイペース | n | - | theo nhịp riêng | {マイペース}で進[すす]める | tiến hành theo nhịp riêng | 彼[かれ]はいつもマイペースで仕事[しごと]をする。 | Anh ấy luôn làm việc theo nhịp riêng.
+ミステリー | n | - | bí ẩn, trinh thám | {ミステリー}小説[しょうせつ] | tiểu thuyết trinh thám | ミステリー小説[しょうせつ]を読[よ]むのが趣味[しゅみ]だ。 | Sở thích của tôi là đọc tiểu thuyết trinh thám.
+ランク | n | - | hạng, thứ bậc | {ランク}が上[あ]がる | lên hạng | 世界[せかい]ランクで10位[い]以内[いない]に入[はい]った。 | Đã lọt vào top 10 xếp hạng thế giới.
+リスト | n | - | danh sách | {リスト}を作成[さくせい]する | lập danh sách | 買[か]い物[もの]リストを作[つく]ってからスーパーに行[い]く。 | Lập danh sách mua sắm rồi đi siêu thị.
+リゾート | n | - | khu nghỉ dưỡng | {リゾート}ホテル | khách sạn nghỉ dưỡng | 沖縄[おきなわ]のリゾートホテルで休暇[きゅうか]を過[す]ごした。 | Đã nghỉ lễ ở khách sạn nghỉ dưỡng Okinawa.
+レジュメ | n | - | tóm tắt, sơ yếu lý lịch | {レジュメ}を配[くば]る | phát tóm tắt | 会議[かいぎ]の前[まえ]にレジュメを配布[はいふ]した。 | Đã phát tóm tắt trước cuộc họp.
+アピール | n | - | kêu gọi, thể hiện | {アピール}する | thể hiện | 面接[めんせつ]で自分[じぶん]の強[つよ]みをアピールした。 | Đã thể hiện điểm mạnh của mình trong phỏng vấn.
+インパクト | n | - | tác động, ấn tượng mạnh | {インパクト}がある | có tác động mạnh | そのニュースは社会[しゃかい]に大[おお]きなインパクトを与[あた]えた。 | Tin tức đó đã gây tác động lớn đến xã hội.
+カジュアル | adj-na | - | thoải mái, giản dị | {カジュアル}な服装[ふくそう] | trang phục thoải mái | カジュアルな雰囲気[ふんいき]のレストランだ。 | Đây là nhà hàng có bầu không khí thoải mái.
+ギャップ | n | - | khoảng cách, chênh lệch | {ギャップ}を埋[う]める | lấp khoảng cách | 理想[りそう]と現実[げんじつ]のギャップに悩[なや]んでいる。 | Đang trăn trở về khoảng cách giữa lý tưởng và hiện thực.
+クライマックス | n | - | cao trào | {クライマックス}を迎[むか]える | đón cao trào | 物語[ものがたり]はいよいよクライマックスを迎[むか]えた。 | Câu chuyện cuối cùng cũng đến cao trào.
+クリア | n | - | vượt qua, hoàn thành | {クリア}する | vượt qua | 全[すべ]ての条件[じょうけん]をクリアした。 | Đã vượt qua tất cả các điều kiện.
+コンセプト | n | - | ý tưởng, khái niệm | {コンセプト}を決[き]める | quyết định ý tưởng | 店[みせ]のコンセプトは和[わ]モダンだ。 | Ý tưởng của cửa hàng là phong cách Nhật hiện đại.
+コントラスト | n | - | tương phản | {コントラスト}が鮮[あざ]やか | tương phản rõ nét | 白[しろ]と黒[くろ]のコントラストが美[うつく]しい。 | Tương phản trắng đen rất đẹp.
+サイクル | n | - | chu kỳ, vòng tuần hoàn | {サイクル}を繰[く]り返[かえ]す | lặp lại chu kỳ | 生活[せいかつ]のサイクルを整[ととの]えることが大切[たいせつ]だ。 | Điều chỉnh chu kỳ sinh hoạt là quan trọng.
+シビア | adj-na | - | nghiêm khắc, khắc nghiệt | {シビア}な条件[じょうけん] | điều kiện khắc nghiệt | 今年[ことし]の就職[しゅうしょく]市場[しじょう]はシビアだ。 | Thị trường việc làm năm nay khắc nghiệt.
+シンプル | adj-na | - | đơn giản | {シンプル}なデザイン | thiết kế đơn giản | シンプルなデザインが好[この]まれている。 | Thiết kế đơn giản được ưa chuộng.
+スタミナ | n | - | thể lực, sức bền | {スタミナ}がつく | tăng thể lực | マラソンにはスタミナが必要[ひつよう]だ。 | Chạy marathon cần thể lực.
+ステレオタイプ | n | - | khuôn mẫu | {ステレオタイプ}な考[かんが]え | suy nghĩ khuôn mẫu | ステレオタイプな見方[みかた]をしないようにしよう。 | Hãy không nhìn nhận theo khuôn mẫu.
+スムーズ | adj-na | - | trôi chảy, suôn sẻ | {スムーズ}に進[すす]む | tiến triển suôn sẻ | 準備[じゅんび]のおかげでイベントはスムーズに進[すす]んだ。 | Nhờ chuẩn bị, sự kiện diễn ra suôn sẻ.
+セーフ | adj-na | - | an toàn | {セーフ}ティー | an toàn | ぎりぎりセーフで間[ま]に合[あ]った。 | Kịp sát nút, an toàn.
+タイミング | n | - | thời điểm | {タイミング}を見計[みはか]らう | canh thời điểm | 話[はなし]を切[き]り出[だ]すタイミングを見計[みはか]らっていた。 | Đang canh thời điểm để mở lời.
+ダイナミック | adj-na | - | năng động, mạnh mẽ | {ダイナミック}な動[うご]き | chuyển động mạnh mẽ | ダイナミックな演技[えんぎ]に観客[かんきゃく]が沸[わ]いた。 | Khán giả phấn khích trước màn trình diễn mạnh mẽ.
+チェンジ | n | - | thay đổi | {チェンジ}する | thay đổi | イメージチェンジのために髪[かみ]を切[き]った。 | Cắt tóc để thay đổi hình ảnh.
+テクニック | n | - | kỹ thuật | {テクニック}を磨[みが]く | trau dồi kỹ thuật | プレゼンテクニックを磨[みが]く必要[ひつよう]がある。 | Cần trau dồi kỹ thuật thuyết trình.
+テクノロジー | n | - | công nghệ | 最新[さいしん]{テクノロジー} | công nghệ mới nhất | テクノロジーの進歩[しんぽ]が生活[せいかつ]を変[か]えている。 | Tiến bộ công nghệ đang thay đổi cuộc sống.
+トーン | n | - | giọng điệu, tông | {トーン}を合[あ]わせる | phối tông | 落[お]ち着[つ]いたトーンで話[はな]してください。 | Hãy nói với giọng điệu bình tĩnh.
+ドライ | adj-na | - | khô, lạnh lùng | {ドライ}な性格[せいかく] | tính cách lạnh lùng | 彼[かれ]はドライな性格[せいかく]に見[み]えるが実[じつ]は優[やさ]しい。 | Anh ấy trông lạnh lùng nhưng thực ra tốt bụng.
+ニュアンス | n | - | sắc thái, ngữ cảnh | {ニュアンス}が違[ちが]う | sắc thái khác | 日本語[にほんご]の微妙[びみょう]なニュアンスを理解[りかい]するのは難[むずか]しい。 | Hiểu sắc thái tinh tế của tiếng Nhật rất khó.
+ハード | adj-na | - | khó khăn, vất vả | {ハード}なスケジュール | lịch trình vất vả | ハードな練習[れんしゅう]に耐[た]えて優勝[ゆうしょう]した。 | Chịu đựng luyện tập vất vả và vô địch.
+バイタリティー | n | - | sức sống, sinh lực | {バイタリティー}にあふれる | tràn đầy sức sống | バイタリティーにあふれた経営者[けいえいしゃ]だ。 | Là nhà kinh doanh tràn đầy sức sống.
+バラエティー | n | - | đa dạng | {バラエティー}に富[と]む | phong phú đa dạng | バラエティーに富[と]んだメニューが魅力[みりょく]だ。 | Thực đơn phong phú đa dạng là điểm hấp dẫn.
+パワー | n | - | sức mạnh, năng lượng | {パワー}アップ | tăng sức mạnh | チーム全体[ぜんたい]のパワーアップを図[はか]る。 | Nâng cao sức mạnh toàn đội.
+ピンチ | n | - | tình thế nguy cấp | {ピンチ}を切[き]り抜[ぬ]ける | vượt qua nguy cấp | ピンチをチャンスに変[か]えよう。 | Hãy biến nguy thành cơ.
+ピーク | n | - | đỉnh điểm | {ピーク}を迎[むか]える | đạt đỉnh | 桜[さくら]の見[み]ごろがピークを迎[むか]えている。 | Mùa ngắm hoa anh đào đang ở đỉnh điểm.
+フィルター | n | - | bộ lọc | {フィルター}をかける | đặt bộ lọc | 情報[じょうほう]にフィルターをかけて必要[ひつよう]なものだけ選[えら]ぶ。 | Lọc thông tin và chỉ chọn cái cần thiết.
+フィードバック | n | - | phản hồi | {フィードバック}をもらう | nhận phản hồi | 上司[じょうし]からフィードバックをもらって改善[かいぜん]した。 | Nhận phản hồi từ cấp trên và cải thiện.
+フィーリング | n | - | cảm giác | {フィーリング}が合[あ]う | hợp cảm giác | 初対面[しょたいめん]でフィーリングが合[あ]った。 | Gặp lần đầu đã hợp cảm giác.
+フォーマル | adj-na | - | trang trọng, chính thức | {フォーマル}な場[ば] | dịp trang trọng | フォーマルな場[ば]ではスーツを着[き]る。 | Ở dịp trang trọng thì mặc vest.
+フォーム | n | - | biểu mẫu, tư thế | {フォーム}を整[ととの]える | chỉnh tư thế | 正[ただ]しいフォームでトレーニングすることが大切[たいせつ]だ。 | Luyện tập đúng tư thế là quan trọng.
+プロセス | n | - | quy trình, quá trình | {プロセス}を踏[ふ]む | tuân theo quy trình | 結果[けっか]だけでなくプロセスも大事[だいじ]だ。 | Không chỉ kết quả mà quá trình cũng quan trọng.
+ベース | n | - | cơ sở, nền tảng | {ベース}にする | lấy làm nền tảng | 経験[けいけん]をベースにした研修[けんしゅう]プログラムだ。 | Đây là chương trình đào tạo lấy kinh nghiệm làm nền tảng.
+ポリシー | n | - | chính sách, phương châm | {ポリシー}を貫[つらぬ]く | kiên trì phương châm | 自分[じぶん]のポリシーを曲[ま]げない人[ひと]だ。 | Là người không thay đổi phương châm.
+ポーズ | n | - | tạm dừng, tư thế | {ポーズ}を取[と]る | tạo tư thế | カメラの前[まえ]でポーズを取[と]った。 | Tạo tư thế trước ống kính.
+マンネリ | n | - | nhàm chán, đơn điệu | {マンネリ}化[か]する | trở nên nhàm chán | 毎日[まいにち]同[おな]じことの繰[く]り返[かえ]しでマンネリ化[か]している。 | Lặp đi lặp lại mỗi ngày nên trở nên nhàm chán.
+メカニズム | n | - | cơ chế | {メカニズム}を解明[かいめい]する | giải mã cơ chế | 病気[びょうき]の発症[はっしょう]メカニズムが解明[かいめい]された。 | Cơ chế phát bệnh đã được giải mã.
+ラスト | n | - | cuối cùng | {ラスト}チャンス | cơ hội cuối cùng | これがラストチャンスだと思[おも]って全力[ぜんりょく]を尽[つ]くした。 | Nghĩ đây là cơ hội cuối cùng nên đã nỗ lực hết sức.
+レッテル | n | - | nhãn hiệu, dán nhãn | {レッテル}を貼[は]る | dán nhãn | 人[ひと]にレッテルを貼[は]るべきではない。 | Không nên dán nhãn người khác.
+アウトライン | n | - | phác thảo, đề cương | {アウトライン}を描[えが]く | phác thảo | プロジェクトのアウトラインを作成[さくせい]した。 | Đã tạo phác thảo dự án.
+オプション | n | - | tùy chọn | {オプション}を選[えら]ぶ | chọn tùy chọn | 追加[ついか]オプションとして保険[ほけん]に加入[かにゅう]した。 | Đã đăng ký bảo hiểm như tùy chọn thêm.
+スキル | n | - | kỹ năng | {スキル}アップ | nâng cao kỹ năng | ビジネススキルを身[み]につけるために研修[けんしゅう]に参加[さんか]した。 | Tham gia đào tạo để trang bị kỹ năng kinh doanh.
+コンプレックス | n | - | mặc cảm | {コンプレックス}を抱[かか]える | mang mặc cảm | 自分[じぶん]の外見[がいけん]にコンプレックスを感[かん]じている。 | Cảm thấy mặc cảm về ngoại hình.
+ポテンシャル | n | - | tiềm năng | {ポテンシャル}が高[たか]い | tiềm năng cao | 彼[かれ]にはまだまだポテンシャルがある。 | Anh ấy vẫn còn nhiều tiềm năng.
+コラボレーション | n | - | hợp tác | {コラボレーション}企画[きかく] | dự án hợp tác | 異業種[いぎょうしゅ]とのコラボレーションで新商品[しんしょうひん]が生[う]まれた。 | Sản phẩm mới ra đời từ hợp tác liên ngành.
+ステータス | n | - | trạng thái, địa vị | {ステータス}を確認[かくにん]する | xác nhận trạng thái | プロジェクトの進捗[しんちょく]ステータスを毎週[まいしゅう]報告[ほうこく]している。 | Báo cáo trạng thái tiến độ dự án mỗi tuần.
+パフォーマンス | n | - | hiệu suất, biểu diễn | {パフォーマンス}を上[あ]げる | nâng hiệu suất | チームのパフォーマンスを最大限[さいだいげん]に引[ひ]き出[だ]す。 | Khai thác hiệu suất tối đa của đội.
+ハイライト | n | - | điểm nổi bật | {ハイライト}シーン | cảnh nổi bật | 試合[しあい]のハイライトをまとめた映像[えいぞう]が公開[こうかい]された。 | Video tổng hợp điểm nổi bật trận đấu đã được công bố.
+バリエーション | n | - | biến thể, đa dạng | {バリエーション}が豊富[ほうふ] | phong phú biến thể | 色[いろ]のバリエーションが豊富[ほうふ]で選[えら]びやすい。 | Phong phú biến thể màu sắc nên dễ chọn.
+マイルストーン | n | - | cột mốc | {マイルストーン}を達成[たっせい]する | đạt cột mốc | プロジェクトの重要[じゅうよう]なマイルストーンを達成[たっせい]した。 | Đã đạt cột mốc quan trọng của dự án.
+アイデンティティー | n | - | bản sắc | {アイデンティティー}を確立[かくりつ]する | xác lập bản sắc | 地域[ちいき]のアイデンティティーを守[まも]ることが大切[たいせつ]だ。 | Gìn giữ bản sắc địa phương là quan trọng.
+モチベーション | n | - | động lực | {モチベーション}を維持[いじ]する | duy trì động lực | モチベーションを維持[いじ]するのが難[むずか]しい。 | Duy trì động lực thật khó.
+リアリティー | n | - | tính chân thực | {リアリティー}がある | có tính chân thực | この小説[しょうせつ]はリアリティーがあって引[ひ]き込[こ]まれる。 | Tiểu thuyết này chân thực nên lôi cuốn.
+リニューアル | n | - | đổi mới, tân trang | {リニューアル}オープン | mở cửa tân trang | 駅前[えきまえ]のデパートがリニューアルオープンした。 | Bách hóa trước ga đã mở cửa sau tân trang.
+レパートリー | n | - | tiết mục, vốn | {レパートリー}が広[ひろ]い | vốn rộng | 料理[りょうり]のレパートリーを増[ふ]やしたい。 | Muốn mở rộng vốn món ăn.
+ワンパターン | n | - | đơn điệu, lặp lại | {ワンパターン}になる | trở nên đơn điệu | プレゼンがワンパターンになりがちだ。 | Thuyết trình hay bị đơn điệu.
+アプローチ | n | - | cách tiếp cận | {アプローチ}を変[か]える | thay đổi cách tiếp cận | 別[べつ]のアプローチで問題[もんだい]を解決[かいけつ]しよう。 | Hãy giải quyết vấn đề bằng cách tiếp cận khác.
+アカウンタビリティー | n | - | trách nhiệm giải trình | {アカウンタビリティー}を果[は]たす | thực hiện trách nhiệm giải trình | 企業[きぎょう]のアカウンタビリティーが問[と]われている。 | Trách nhiệm giải trình của doanh nghiệp đang bị chất vấn.
+クオリティー | n | - | chất lượng | {クオリティー}が高[たか]い | chất lượng cao | このブランドは製品[せいひん]のクオリティーが高[たか]い。 | Thương hiệu này có chất lượng sản phẩm cao.
+コンパクト | adj-na | - | nhỏ gọn | {コンパクト}にまとめる | tóm gọn | コンパクトにまとめた報告書[ほうこくしょ]を提出[ていしゅつ]した。 | Đã nộp báo cáo tóm gọn.
+スケール | n | - | quy mô | {スケール}が大[おお]きい | quy mô lớn | スケールの大[おお]きなプロジェクトに参加[さんか]している。 | Đang tham gia dự án quy mô lớn.
+ガバナンス | n | - | quản trị | {ガバナンス}を強化[きょうか]する | tăng cường quản trị | コーポレートガバナンスの強化[きょうか]が求[もと]められている。 | Việc tăng cường quản trị doanh nghiệp đang được yêu cầu.
+リアル | adj-na | - | chân thực, thực tế | {リアル}タイム | thời gian thực | リアルな体験[たいけん]ができるシミュレーションだ。 | Đây là mô phỏng có thể trải nghiệm chân thực.
+イノベーション | n | - | đổi mới sáng tạo | {イノベーション}を起[お]こす | tạo đổi mới | イノベーションが経済[けいざい]成長[せいちょう]の鍵[かぎ]を握[にぎ]っている。 | Đổi mới sáng tạo nắm giữ chìa khóa tăng trưởng kinh tế.
+ブレークスルー | n | - | đột phá | {ブレークスルー}を果[は]たす | đạt đột phá | 医療[いりょう]分野[ぶんや]で画期的[かっきてき]なブレークスルーがあった。 | Đã có bước đột phá mang tính đột phá trong lĩnh vực y tế.
+サステナビリティー | n | - | tính bền vững | {サステナビリティー}を推進[すいしん]する | thúc đẩy bền vững | 企業[きぎょう]のサステナビリティーへの取[と]り組[く]みが評価[ひょうか]されている。 | Nỗ lực hướng tới bền vững của doanh nghiệp được đánh giá cao.
+アウトソーシング | n | - | thuê ngoài | {アウトソーシング}する | thuê ngoài | IT部門[ぶもん]をアウトソーシングしてコストを削減[さくげん]した。 | Thuê ngoài bộ phận IT để cắt giảm chi phí.
+コンセンサス | n | - | đồng thuận | {コンセンサス}を得[え]る | đạt đồng thuận | 関係者[かんけいしゃ]のコンセンサスを得[え]てから進[すす]める。 | Đạt đồng thuận các bên rồi mới tiến hành.
+ガイドライン | n | - | hướng dẫn, chỉ dẫn | {ガイドライン}を策定[さくてい]する | xây dựng hướng dẫn | 新[あたら]しいガイドラインが発表[はっぴょう]された。 | Hướng dẫn mới được công bố.
+プロトコル | n | - | giao thức, quy trình | {プロトコル}に従[したが]う | tuân theo giao thức | 安全[あんぜん]プロトコルに従[したが]って作業[さぎょう]する。 | Làm việc tuân theo quy trình an toàn.
+リテラシー | n | - | năng lực đọc hiểu, kiến thức cơ bản | {リテラシー}を高[たか]める | nâng cao kiến thức | 金融[きんゆう]リテラシーを高[たか]めることが大切[たいせつ]だ。 | Nâng cao kiến thức tài chính là rất quan trọng.
+グローバリゼーション | n | - | toàn cầu hóa | {グローバリゼーション}が進[すす]む | toàn cầu hóa tiến triển | グローバリゼーションの影響[えいきょう]で競争[きょうそう]が激[はげ]しくなった。 | Cạnh tranh khốc liệt hơn do toàn cầu hóa.
+ダイバーシティー | n | - | đa dạng | {ダイバーシティー}を推進[すいしん]する | thúc đẩy đa dạng | 職場[しょくば]のダイバーシティーを推進[すいしん]している。 | Đang thúc đẩy sự đa dạng nơi làm việc.
+インクルージョン | n | - | hòa nhập | {インクルージョン}を目指[めざ]す | hướng tới hòa nhập | ダイバーシティーとインクルージョンは車[くるま]の両輪[りょうりん]だ。 | Đa dạng và hòa nhập như hai bánh xe.
+プラットフォーム | n | - | nền tảng | {プラットフォーム}を構築[こうちく]する | xây dựng nền tảng | デジタルプラットフォームを活用[かつよう]したビジネスが増[ふ]えている。 | Kinh doanh sử dụng nền tảng số ngày càng nhiều.
+オンデマンド | n | - | theo yêu cầu | {オンデマンド}配信[はいしん] | phát theo yêu cầu | オンデマンドで好[す]きな番組[ばんぐみ]が見[み]られる。 | Có thể xem chương trình yêu thích theo yêu cầu.
+サブスクリプション | n | - | thuê bao, đăng ký | {サブスクリプション}に加入[かにゅう]する | đăng ký thuê bao | 音楽[おんがく]のサブスクリプションサービスを利用[りよう]している。 | Đang sử dụng dịch vụ thuê bao nhạc.
+フリーランス | n | - | tự do, freelance | {フリーランス}で働[はたら]く | làm việc tự do | フリーランスのデザイナーとして独立[どくりつ]した。 | Độc lập làm nhà thiết kế tự do.
+パラダイム | n | - | mô hình tư duy | {パラダイム}シフト | chuyển đổi mô hình | AIの登場[とうじょう]でパラダイムシフトが起[お]きている。 | Sự xuất hiện của AI gây ra chuyển đổi mô hình.
+コモディティー | n | - | hàng hóa cơ bản | {コモディティー}化[か]する | hàng hóa hóa | スマートフォンはコモディティー化[か]が進[すす]んでいる。 | Điện thoại thông minh đang bị hàng hóa hóa.
+ポートフォリオ | n | - | danh mục đầu tư, hồ sơ | {ポートフォリオ}を組[く]む | lập danh mục | 分散[ぶんさん]投資[とうし]でポートフォリオを組[く]んだ。 | Lập danh mục đầu tư phân tán.
+スタートアップ | n | - | khởi nghiệp | {スタートアップ}を立[た]ち上[あ]げる | khởi nghiệp | 大学[だいがく]在学中[ざいがくちゅう]にスタートアップを立[た]ち上[あ]げた。 | Khởi nghiệp khi còn đang học đại học.
+メンタルヘルス | n | - | sức khỏe tinh thần | {メンタルヘルス}に配慮[はいりょ]する | quan tâm sức khỏe tinh thần | 従業員[じゅうぎょういん]のメンタルヘルスに配慮[はいりょ]する企業[きぎょう]が増[ふ]えた。 | Nhiều doanh nghiệp quan tâm sức khỏe tinh thần nhân viên.
+アウトプット | n | - | đầu ra, kết quả | {アウトプット}を増[ふ]やす | tăng đầu ra | インプットだけでなくアウトプットも大切[たいせつ]だ。 | Không chỉ đầu vào mà đầu ra cũng quan trọng.
+インプット | n | - | đầu vào, tiếp thu | {インプット}する | tiếp thu | 毎日[まいにち]英語[えいご]をインプットしている。 | Hàng ngày tiếp thu tiếng Anh.
+コーポレート | n | - | công ty, doanh nghiệp | {コーポレート}ガバナンス | quản trị doanh nghiệp | コーポレートガバナンスの強化[きょうか]が求[もと]められている。 | Đang được yêu cầu tăng cường quản trị doanh nghiệp.
+コミットメント | n | - | cam kết | {コミットメント}を示[しめ]す | thể hiện cam kết | 環境[かんきょう]問題[もんだい]へのコミットメントを示[しめ]した。 | Đã thể hiện cam kết với vấn đề môi trường.
+コンサルタント | n | - | tư vấn viên | {コンサルタント}に依頼[いらい]する | thuê tư vấn viên | 経営[けいえい]コンサルタントに依頼[いらい]して改革[かいかく]を進[すす]めた。 | Thuê tư vấn viên quản lý để tiến hành cải cách.
+ファシリテーター | n | - | người điều phối | {ファシリテーター}を務[つと]める | làm người điều phối | 会議[かいぎ]のファシリテーターを務[つと]めた。 | Tôi làm người điều phối cuộc họp.
+ストラテジー | n | - | chiến lược | {ストラテジー}を練[ね]る | xây dựng chiến lược | マーケティングストラテジーを練[ね]り直[なお]す。 | Xây dựng lại chiến lược marketing.
+タスクフォース | n | - | nhóm đặc nhiệm | {タスクフォース}を設置[せっち]する | lập nhóm đặc nhiệm | 問題[もんだい]解決[かいけつ]のためにタスクフォースが設置[せっち]された。 | Nhóm đặc nhiệm được lập để giải quyết vấn đề.
+ロードマップ | n | - | lộ trình | {ロードマップ}を作成[さくせい]する | lập lộ trình | 5年間[ねんかん]のロードマップを作成[さくせい]した。 | Đã lập lộ trình 5 năm.
+ダイナミクス | n | - | động lực học, động thái | グループ{ダイナミクス} | động thái nhóm | チームのダイナミクスを理解[りかい]することが重要[じゅうよう]だ。 | Hiểu động thái nhóm là rất quan trọng.
+ディスカッション | n | - | thảo luận | {ディスカッション}する | thảo luận | パネルディスカッションで意見[いけん]を交[か]わした。 | Trao đổi ý kiến trong thảo luận tọa đàm.
+プレゼンテーション | n | - | thuyết trình | {プレゼンテーション}を行[おこな]う | thuyết trình | 新商品[しんしょうひん]のプレゼンテーションを行[おこな]った。 | Đã thuyết trình sản phẩm mới.
+ネゴシエーション | n | - | đàm phán | {ネゴシエーション}スキル | kỹ năng đàm phán | ネゴシエーションスキルはビジネスに不可欠[ふかけつ]だ。 | Kỹ năng đàm phán là không thể thiếu trong kinh doanh.
+エビデンス | n | - | bằng chứng, chứng cứ | {エビデンス}に基[もと]づく | dựa trên bằng chứng | エビデンスに基[もと]づいた政策[せいさく]が求[もと]められている。 | Đang được yêu cầu chính sách dựa trên bằng chứng.
+コンテンツ | n | - | nội dung | {コンテンツ}を配信[はいしん]する | phát nội dung | 魅力的[みりょくてき]なコンテンツを配信[はいしん]している。 | Đang phát nội dung hấp dẫn.
+アーカイブ | n | - | lưu trữ | {アーカイブ}する | lưu trữ | 過去[かこ]のデータをアーカイブした。 | Đã lưu trữ dữ liệu trong quá khứ.
+ソリューション | n | - | giải pháp | {ソリューション}を提供[ていきょう]する | cung cấp giải pháp | 顧客[こきゃく]のニーズに合[あ]ったソリューションを提供[ていきょう]する。 | Cung cấp giải pháp phù hợp nhu cầu khách hàng.
+リソース | n | - | nguồn lực, tài nguyên | {リソース}を配分[はいぶん]する | phân bổ nguồn lực | 限[かぎ]られたリソースを効率的[こうりつてき]に配分[はいぶん]する。 | Phân bổ nguồn lực có hạn một cách hiệu quả.
+アセスメント | n | - | đánh giá | {アセスメント}を実施[じっし]する | thực hiện đánh giá | リスクアセスメントを実施[じっし]した。 | Đã thực hiện đánh giá rủi ro.
+フレームワーク | n | - | khung, cơ cấu | {フレームワーク}を導入[どうにゅう]する | đưa vào khung | 新[あたら]しいフレームワークを導入[どうにゅう]して開発[かいはつ]効率[こうりつ]を上[あ]げた。 | Đưa vào khung mới nâng hiệu quả phát triển.
+デフォルト | n | - | mặc định, vỡ nợ | {デフォルト}設定[せってい] | cài đặt mặc định | デフォルト設定[せってい]のまま使[つか]っている。 | Đang dùng với cài đặt mặc định.
+バイアス | n | - | thiên kiến | {バイアス}がかかる | bị thiên kiến | 無意識[むいしき]のバイアスに気[き]をつける必要[ひつよう]がある。 | Cần chú ý thiên kiến vô thức.
+レジリエンス | n | - | khả năng phục hồi | {レジリエンス}を高[たか]める | nâng khả năng phục hồi | 組織[そしき]のレジリエンスを高[たか]めることが課題[かだい]だ。 | Nâng khả năng phục hồi tổ chức là thách thức.
+エンパワーメント | n | - | trao quyền | {エンパワーメント}を推進[すいしん]する | thúc đẩy trao quyền | 女性[じょせい]のエンパワーメントが進[すす]んでいる。 | Trao quyền cho phụ nữ đang được thúc đẩy.
+サプライチェーン | n | - | chuỗi cung ứng | {サプライチェーン}を見直[みなお]す | xem lại chuỗi cung ứng | パンデミックでサプライチェーンが混乱[こんらん]した。 | Đại dịch gây hỗn loạn chuỗi cung ứng.
+レバレッジ | n | - | đòn bẩy | {レバレッジ}をかける | sử dụng đòn bẩy | テクノロジーにレバレッジをかけて成長[せいちょう]する。 | Sử dụng đòn bẩy công nghệ để phát triển.
+ボトルネック | n | - | nút thắt, điểm nghẽn | {ボトルネック}を解消[かいしょう]する | giải tỏa nút thắt | 生産[せいさん]ラインのボトルネックを解消[かいしょう]した。 | Đã giải tỏa nút thắt dây chuyền sản xuất.
+アジェンダ | n | - | chương trình nghị sự | {アジェンダ}を設定[せってい]する | đặt chương trình nghị sự | 会議[かいぎ]のアジェンダを事前[じぜん]に共有[きょうゆう]した。 | Đã chia sẻ trước chương trình nghị sự cuộc họp.
+レギュレーション | n | - | quy định, điều luật | {レギュレーション}を遵守[じゅんしゅ]する | tuân thủ quy định | 業界[ぎょうかい]のレギュレーションを遵守[じゅんしゅ]する。 | Tuân thủ quy định ngành.
+インセンティブ | n | - | khuyến khích, ưu đãi | {インセンティブ}を与[あた]える | trao ưu đãi | 優秀[ゆうしゅう]な社員[しゃいん]にインセンティブを与[あた]える。 | Trao ưu đãi cho nhân viên xuất sắc.
+ヒエラルキー | n | - | thứ bậc, phân cấp | {ヒエラルキー}が厳[きび]しい | thứ bậc nghiêm ngặt | 日本[にほん]企業[きぎょう]はヒエラルキーが厳[きび]しいと言[い]われる。 | Doanh nghiệp Nhật được cho là thứ bậc nghiêm ngặt.

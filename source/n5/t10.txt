@@ -1,0 +1,83 @@
+@topic t10
+@ja 様子[ようす]・気持[きも]ち・つなぐ言葉[ことば]
+@vi Tính chất, cảm xúc và từ nối
+@desc Tính từ mô tả người và vật, từ chỉ cảm xúc, phó từ chỉ mức độ, tần suất cùng các liên từ, từ chỉ định giúp nối câu.
+悪[わる]い | adj-i | ÁC | xấu, tệ | 体[からだ] に 悪[わる]い | có hại cho sức khỏe | 夜[よる]遅[おそ]く食[た]べるのは体[からだ]に悪[わる]いです。 | Ăn khuya có hại cho sức khỏe.
+多[おお]い | adj-i | ĐA | nhiều | 人[ひと] が 多[おお]い | đông người | 週末[しゅうまつ]の駅[えき]は人[ひと]が多[おお]いです。 | Nhà ga cuối tuần rất đông người.
+少[すく]ない | adj-i | THIỂU | ít | - | - | この町[まち]は若[わか]い人[ひと]が少[すく]ないです。 | Thị trấn này ít người trẻ.
+早[はや]い | adj-i | TẢO | sớm | 朝[あさ] が 早[はや]い | dậy sớm (buổi sáng bắt đầu sớm) | 父[ちち]は毎日[まいにち]朝[あさ]が早[はや]いです。 | Bố tôi ngày nào cũng dậy sớm.
+速[はや]い | adj-i | TỐC | nhanh | 足[あし] が 速[はや]い | chạy nhanh | 弟[おとうと]はクラスで一番[いちばん]足[あし]が速[はや]いです。 | Em trai tôi chạy nhanh nhất lớp.
+遅[おそ]い | adj-i | TRÌ | muộn; chậm | 帰[かえ]り が 遅[おそ]い | về muộn | 最近[さいきん]、夫[おっと]は帰[かえ]りが遅[おそ]いです。 | Dạo này chồng tôi về muộn.
+楽[たの]しい | adj-i | LẠC | vui | 楽[たの]しい 時間[じかん] | khoảng thời gian vui vẻ | 皆[みな]さんと楽[たの]しい時間[じかん]を過[す]ごしました。 | Tôi đã có khoảng thời gian vui vẻ cùng mọi người.
+面白[おもしろ]い | adj-i | DIỆN BẠCH | thú vị, hay | 面白[おもしろ]い 話[はなし] | câu chuyện thú vị | 先生[せんせい]は授業[じゅぎょう]で面白[おもしろ]い話[はなし]をしてくれます。 | Thầy kể chuyện thú vị trong giờ học.
+つまらない | adj-i | - | chán, nhạt nhẽo | - | - | この映画[えいが]はつまらなかったです。 | Bộ phim này chán.
+嬉[うれ]しい | adj-i | HY | vui mừng | - | - | 合格[ごうかく]の知[し]らせを聞[き]いて、とても嬉[うれ]しかったです。 | Nghe tin thi đỗ, tôi rất vui.
+悲[かな]しい | adj-i | BI | buồn | - | - | 友達[ともだち]が国[くに]へ帰[かえ]って、悲[かな]しいです。 | Bạn tôi về nước, tôi buồn lắm.
+寂[さび]しい | adj-i | TỊCH | cô đơn, buồn tẻ | - | - | 家族[かぞく]に会[あ]えなくて寂[さび]しいです。 | Không gặp được gia đình nên tôi thấy cô đơn.
+優[やさ]しい | adj-i | ƯU | hiền, tốt bụng | 人[ひと] に 優[やさ]しい | tốt bụng với mọi người | 彼女[かのじょ]は誰[だれ]にでも優[やさ]しいです。 | Cô ấy tốt với tất cả mọi người.
+強[つよ]い | adj-i | CƯỜNG | mạnh | 力[ちから] が 強[つよ]い | khỏe, nhiều sức | 兄[あに]は力[ちから]が強[つよ]いです。 | Anh tôi rất khỏe.
+弱[よわ]い | adj-i | NHƯỢC | yếu | 体[からだ] が 弱[よわ]い | sức khỏe yếu | 子供[こども]のころは体[からだ]が弱[よわ]かったです。 | Hồi nhỏ sức khỏe tôi yếu.
+若[わか]い | adj-i | NHƯỢC | trẻ | - | - | 社長[しゃちょう]は若[わか]くて元気[げんき]です。 | Giám đốc còn trẻ và năng động.
+危[あぶ]ない | adj-i | NGUY | nguy hiểm | - | - | 危[あぶ]ないですから、道[みち]で遊[あそ]ばないでください。 | Nguy hiểm lắm, đừng chơi ngoài đường.
+かわいい | adj-i | - | dễ thương | - | - | 隣[となり]の家[いえ]の犬[いぬ]はとてもかわいいです。 | Con chó nhà bên rất dễ thương.
+汚[きたな]い | adj-i | Ô | bẩn | - | - | 汚[きたな]い手[て]で食[た]べないでください。 | Đừng ăn bằng tay bẩn.
+うるさい | adj-i | - | ồn ào | - | - | 工事[こうじ]の音[おと]がうるさくて寝[ね]られません。 | Tiếng công trình ồn quá, tôi không ngủ được.
+静[しず]か | adj-na | TĨNH | yên tĩnh | 静[しず]か な 所[ところ] | nơi yên tĩnh | 静[しず]かな所[ところ]で勉強[べんきょう]したいです。 | Tôi muốn học ở một nơi yên tĩnh.
+賑[にぎ]やか | adj-na | CHẨN | náo nhiệt | 賑[にぎ]やか な 町[まち] | khu phố náo nhiệt | 渋谷[しぶや]は若[わか]い人[ひと]が多[おお]くて賑[にぎ]やかな町[まち]です。 | Shibuya là khu phố náo nhiệt nhiều người trẻ.
+きれい | adj-na | - | đẹp; sạch | - | - | 部屋[へや]をきれいに掃除[そうじ]しました。 | Tôi đã dọn phòng sạch sẽ.
+有名[ゆうめい] | adj-na | HỮU DANH | nổi tiếng | 有名[ゆうめい] な 店[みせ] | cửa hàng nổi tiếng | ここはラーメンで有名[ゆうめい]な店[みせ]です。 | Đây là quán nổi tiếng về ramen.
+便利[べんり] | adj-na | TIỆN LỢI | tiện lợi | 便利[べんり] な 場所[ばしょ] | nơi thuận tiện | 駅[えき]に近[ちか]くて便利[べんり]な場所[ばしょ]に住[す]んでいます。 | Tôi sống ở nơi gần ga, rất tiện.
+大切[たいせつ] | adj-na | ĐẠI THIẾT | quan trọng, quý giá | 大切[たいせつ] な もの | thứ quý giá | これは祖母[そぼ]にもらった大切[たいせつ]なものです。 | Đây là thứ quý giá bà đã tặng tôi.
+大丈夫[だいじょうぶ] | adj-na | ĐẠI TRƯỢNG PHU | ổn, không sao | - | - | 「大丈夫[だいじょうぶ]ですか。」「はい、大丈夫[だいじょうぶ]です。」 | "Bạn có sao không?" "Vâng, tôi không sao."
+丈夫[じょうぶ] | adj-na | TRƯỢNG PHU | chắc chắn, bền; khỏe | 丈夫[じょうぶ] な かばん | chiếc cặp bền | 毎日[まいにち]使[つか]うので、丈夫[じょうぶ]なかばんがほしいです。 | Dùng hằng ngày nên tôi muốn có chiếc cặp bền.
+好[す]き | adj-na | HẢO | thích | - | - | 私[わたし]は日本[にほん]のアニメが好[す]きです。 | Tôi thích phim hoạt hình Nhật.
+嫌[きら]い | adj-na | HIỀM | ghét, không thích | - | - | 子供[こども]のころ、野菜[やさい]が嫌[きら]いでした。 | Hồi nhỏ tôi ghét ăn rau.
+大変[たいへん] | adj-na,adv | ĐẠI BIẾN | vất vả; rất | - | - | 毎日[まいにち]残業[ざんぎょう]で大変[たいへん]です。 | Ngày nào cũng làm thêm, vất vả lắm.
+簡単[かんたん] | adj-na | GIẢN ĐƠN | đơn giản | 簡単[かんたん] な 料理[りょうり] | món ăn đơn giản | 簡単[かんたん]な料理[りょうり]なら作[つく]れます。 | Món đơn giản thì tôi nấu được.
+色々[いろいろ] | adj-na | SẮC | nhiều loại, đủ thứ | 色々[いろいろ] な 国[くに] | nhiều nước khác nhau | この学校[がっこう]には色々[いろいろ]な国[くに]の学生[がくせい]がいます。 | Trường này có học sinh từ nhiều nước.
+心配[しんぱい] | n,v3,adj-na | TÂM PHỐI | lo lắng | 心配[しんぱい] を かける | làm ai lo lắng | 両親[りょうしん]に心配[しんぱい]をかけたくないです。 | Tôi không muốn làm bố mẹ lo lắng.
+本当[ほんとう] | n,adj-na | BẢN ĐƯƠNG | thật, sự thật | - | - | その話[はなし]は本当[ほんとう]ですか。 | Chuyện đó có thật không?
+とても | adv | - | rất | - | - | このケーキはとてもおいしいです。 | Chiếc bánh này rất ngon.
+たくさん | adv | - | nhiều | - | - | 駅[えき]の前[まえ]に自転車[じてんしゃ]がたくさんあります。 | Trước ga có rất nhiều xe đạp.
+少[すこ]し | adv | THIỂU | một chút | 少[すこ]し 休[やす]む | nghỉ một chút | 疲[つか]れたので、少[すこ]し休[やす]みましょう。 | Mệt rồi, mình nghỉ một chút đi.
+ちょっと | adv | - | một chút; hơi | ちょっと 待[ま]って | đợi một chút | ちょっと待[ま]ってください。すぐ行[い]きます。 | Đợi tôi một chút. Tôi tới ngay.
+よく | adv | - | thường; kỹ, rõ | よく 分[わ]かる | hiểu rõ | 先生[せんせい]の説明[せつめい]はよく分[わ]かります。 | Lời giải thích của thầy rất dễ hiểu.
+あまり | adv | - | không… lắm (đi với phủ định) | あまり 食[た]べない | không ăn mấy | 朝[あさ]はあまり食[た]べません。 | Buổi sáng tôi không ăn mấy.
+全然[ぜんぜん] | adv | TOÀN NHIÊN | hoàn toàn (không) | 全然[ぜんぜん] 分[わ]からない | hoàn toàn không hiểu | 最初[さいしょ]は日本語[にほんご]が全然[ぜんぜん]分[わ]かりませんでした。 | Lúc đầu tôi hoàn toàn không hiểu tiếng Nhật.
+もう | adv | - | đã, rồi; thêm | もう 少[すこ]し | thêm một chút | もう少[すこ]しゆっくり話[はな]してください。 | Hãy nói chậm thêm một chút.
+まだ | adv | - | vẫn, vẫn chưa | まだ 来[き]て いない | vẫn chưa đến | 田中[たなか]さんはまだ来[き]ていません。 | Anh Tanaka vẫn chưa đến.
+すぐ | adv | - | ngay lập tức | すぐ 戻[もど]る | quay lại ngay | すぐ戻[もど]りますから、ここで待[ま]っていてください。 | Tôi quay lại ngay, hãy đợi ở đây.
+また | adv | - | lại; hẹn lần sau | - | - | また来週[らいしゅう]会[あ]いましょう。 | Hẹn gặp lại tuần sau.
+一緒[いっしょ]に | adv | NHẤT TỰ | cùng nhau | 一緒[いっしょ]に 行[い]く | đi cùng | 一緒[いっしょ]に昼[ひる]ご飯[はん]を食[た]べに行[い]きませんか。 | Cùng đi ăn trưa không?
+一番[いちばん] | adv,n | NHẤT PHIÊN | nhất; số một | 一番[いちばん] 好[す]き | thích nhất | 果物[くだもの]の中[なか]でいちごが一番[いちばん]好[す]きです。 | Trong các loại quả tôi thích dâu tây nhất.
+時々[ときどき] | adv | THỜI | thỉnh thoảng | - | - | 時々[ときどき]、国[くに]の料理[りょうり]が食[た]べたくなります。 | Thỉnh thoảng tôi lại thèm món ăn quê nhà.
+いつも | adv | - | luôn luôn | - | - | 彼[かれ]はいつも笑顔[えがお]です。 | Anh ấy lúc nào cũng tươi cười.
+初[はじ]めて | adv | SƠ | lần đầu tiên | 初[はじ]めて 会[あ]う | gặp lần đầu | 初[はじ]めて会[あ]った日[ひ]のことを覚[おぼ]えています。 | Tôi vẫn nhớ ngày đầu tiên chúng ta gặp nhau.
+ゆっくり | adv | - | chậm rãi; thong thả | ゆっくり 話[はな]す | nói chậm | すみません、もう一度[いちど]ゆっくり話[はな]してください。 | Xin lỗi, hãy nói chậm lại một lần nữa.
+だんだん | adv | - | dần dần | だんだん 寒[さむ]く なる | trời lạnh dần | 十一月[じゅういちがつ]になって、だんだん寒[さむ]くなってきました。 | Sang tháng Mười một, trời lạnh dần.
+多分[たぶん] | adv | ĐA PHÂN | có lẽ | - | - | 明日[あした]は多分[たぶん]雨[あめ]でしょう。 | Mai có lẽ trời mưa.
+もっと | adv | - | hơn nữa | もっと 早[はや]く | sớm hơn nữa | もっと早[はや]く来[き]てください。 | Hãy đến sớm hơn nữa.
+必[かなら]ず | adv | TẤT | nhất định | 必[かなら]ず 来[く]る | nhất định đến | パーティーには必[かなら]ず来[き]てくださいね。 | Nhất định phải đến bữa tiệc nhé.
+きっと | adv | - | chắc chắn (dự đoán) | きっと 大丈夫[だいじょうぶ] | chắc chắn sẽ ổn | たくさん練習[れんしゅう]したから、きっと大丈夫[だいじょうぶ]です。 | Bạn đã luyện tập nhiều nên chắc chắn sẽ ổn.
+そして | conj | - | và, rồi thì | - | - | 朝[あさ]ご飯[はん]を食[た]べました。そして、会社[かいしゃ]へ行[い]きました。 | Tôi ăn sáng. Rồi đi làm.
+それから | conj | - | sau đó | - | - | 宿題[しゅくだい]をしました。それから、テレビを見[み]ました。 | Tôi làm bài tập. Sau đó xem ti vi.
+でも | conj | - | nhưng | - | - | この店[みせ]は高[たか]いです。でも、おいしいです。 | Quán này đắt. Nhưng ngon.
+しかし | conj | - | tuy nhiên | - | - | 一生懸命[いっしょうけんめい]練習[れんしゅう]した。しかし、試合[しあい]に負[ま]けた。 | Đã luyện tập hết sức. Tuy nhiên vẫn thua trận.
+だから | conj | - | vì vậy | - | - | 雨[あめ]が降[ふ]っています。だから、今日[きょう]は出[で]かけません。 | Trời đang mưa. Vì vậy hôm nay tôi không ra ngoài.
+じゃ | conj | - | vậy thì | - | - | じゃ、また明日[あした]。 | Vậy thì, mai gặp lại.
+これ | pron | - | cái này | - | - | これは私[わたし]の傘[かさ]です。 | Đây là chiếc ô của tôi.
+それ | pron | - | cái đó | - | - | それは何[なん]ですか。 | Đó là cái gì vậy?
+あれ | pron | - | cái kia | - | - | あれは東京[とうきょう]タワーです。 | Kia là tháp Tokyo.
+どれ | q | - | cái nào | - | - | あなたのかばんはどれですか。 | Cặp của bạn là cái nào?
+この | pron | - | … này | - | - | この本[ほん]はとても面白[おもしろ]いです。 | Quyển sách này rất hay.
+その | pron | - | … đó | - | - | その話[はなし]はもう聞[き]きました。 | Chuyện đó tôi nghe rồi.
+あの | pron | - | … kia | - | - | あの建物[たてもの]は何[なん]ですか。 | Tòa nhà kia là gì?
+どの | q | - | … nào | - | - | どの電車[でんしゃ]に乗[の]ればいいですか。 | Tôi nên lên chuyến tàu nào?
+何[なに] | q | HÀ | cái gì | - | - | 週末[しゅうまつ]は何[なに]をしましたか。 | Cuối tuần bạn đã làm gì?
+どう | q | - | thế nào | - | - | 日本[にほん]の生活[せいかつ]はどうですか。 | Cuộc sống ở Nhật thế nào?
+どんな | q | - | như thế nào, loại nào | - | - | どんな音楽[おんがく]が好[す]きですか。 | Bạn thích loại nhạc nào?
+どうして | q | - | tại sao | - | - | どうして昨日[きのう]休[やす]んだんですか。 | Tại sao hôm qua bạn nghỉ?
+全部[ぜんぶ] | n,adv | TOÀN BỘ | toàn bộ | 全部[ぜんぶ] で | tổng cộng | 全部[ぜんぶ]でいくらですか。 | Tổng cộng bao nhiêu tiền?
+みんな | n,pron | - | mọi người; tất cả | - | - | みんなで写真[しゃしん]を撮[と]りましょう。 | Mọi người cùng chụp ảnh nào.
+他[ほか] | n | THA | khác | 他[ほか] の 人[ひと] | người khác | 他[ほか]の人[ひと]にも聞[き]いてみます。 | Tôi sẽ hỏi thử người khác nữa.
+次[つぎ] | n | THỨ | tiếp theo | 次[つぎ] の 日[ひ] | ngày hôm sau | 次[つぎ]の日[ひ]、熱[ねつ]が下[さ]がりました。 | Ngày hôm sau thì tôi hạ sốt.

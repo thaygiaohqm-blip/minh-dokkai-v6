@@ -1,0 +1,203 @@
+@topic t07
+@ja 環境[かんきょう]・資源[しげん]・産業[さんぎょう]
+@vi Môi trường, tài nguyên và các ngành sản xuất
+@desc Nông – lâm – ngư nghiệp, địa lý tự nhiên, năng lượng, công nghiệp và các vấn đề môi trường.
+食物[しょくもつ] | n | THỰC VẬT | thức ăn, thực phẩm | {食物} 繊維[せんい] | chất xơ | 野菜[やさい]には食物[しょくもつ]繊維[せんい]が多[おお]く含[ふく]まれている。 | Rau chứa nhiều chất xơ.
+穀物[こくもつ] | n | CỐC VẬT | ngũ cốc | - | - | 小麦[こむぎ]や大豆[だいず]などの穀物[こくもつ]の価格[かかく]が上[あ]がっている。 | Giá ngũ cốc như lúa mì và đậu tương đang tăng.
+豊作[ほうさく] | n | PHONG TÁC | được mùa | - | - | 今年[ことし]は天候[てんこう]に恵[めぐ]まれて米[こめ]が豊作[ほうさく]だった。 | Năm nay thời tiết thuận lợi nên lúa được mùa.
+凶作[きょうさく] | n | HUNG TÁC | mất mùa nặng | - | - | 冷夏[れいか]で凶作[きょうさく]となり、米[こめ]の値段[ねだん]が上[あ]がった。 | Mùa hè lạnh gây mất mùa nặng, giá gạo tăng.
+不作[ふさく] | n | BẤT TÁC | mất mùa, thu hoạch kém | - | - | 雨[あめ]不足[ぶそく]でリンゴが不作[ふさく]だった。 | Vì thiếu mưa mà táo thu hoạch kém.
+例年[れいねん] | n | LỆ NIÊN | mọi năm | {例年} 並[な]み | như mọi năm | 今年[ことし]の桜[さくら]は例年[れいねん]より一週間[いっしゅうかん]早[はや]く咲[さ]いた。 | Hoa anh đào năm nay nở sớm hơn mọi năm một tuần.
+冷夏[れいか] | n | LÃNH HẠ | mùa hè lạnh | - | - | 冷夏[れいか]の影響[えいきょう]で海水浴[かいすいよく]客[きゃく]が減[へ]った。 | Do mùa hè lạnh, khách tắm biển giảm.
+耕[たがや]す | v1 | CANH | cày, xới | 畑[はたけ] を {耕す} | cày ruộng | 春[はる]になると祖父[そふ]は畑[はたけ]を耕[たがや]し始[はじ]める。 | Vào xuân ông tôi bắt đầu cày ruộng.
+耕作[こうさく] | n,v3 | CANH TÁC | canh tác | - | - | 山[やま]の斜面[しゃめん]を耕作[こうさく]して茶[ちゃ]を育[そだ]てている。 | Canh tác sườn núi để trồng chè.
+耕地[こうち] | n | CANH ĐỊA | đất canh tác | - | - | 日本[にほん]は耕地[こうち]面積[めんせき]が狭[せま]い。 | Nhật Bản có diện tích đất canh tác hẹp.
+耕作[こうさく]放棄地[ほうきち] | n | CANH TÁC PHÓNG KHÍ ĐỊA | đất bỏ hoang | - | - | 高齢[こうれい]化[か]で耕作[こうさく]放棄[ほうき]地[ち]が増[ふ]えている。 | Do già hóa, đất bỏ hoang ngày càng nhiều.
+農地[のうち] | n | NÔNG ĐỊA | đất nông nghiệp | - | - | 農地[のうち]を宅地[たくち]に転用[てんよう]するには許可[きょか]が必要[ひつよう]だ。 | Chuyển đất nông nghiệp thành đất ở cần có giấy phép.
+田畑[たはた] | n | ĐIỀN ĐIỀN | ruộng đồng | - | - | 洪水[こうずい]で田畑[たはた]が水[みず]につかった。 | Lũ lụt làm ruộng đồng ngập nước.
+水田[すいでん] | n | THỦY ĐIỀN | ruộng nước | - | - | 夏[なつ]の水田[すいでん]には青[あお]い稲[いね]が揺[ゆ]れている。 | Trên ruộng nước mùa hè, lúa xanh đung đưa.
+棚田[たなだ] | n | BẰNG ĐIỀN | ruộng bậc thang | - | - | 夕日[ゆうひ]に照[て]らされた棚田[たなだ]が美[うつく]しい。 | Ruộng bậc thang dưới ánh hoàng hôn thật đẹp.
+稲作[いなさく] | n | ĐẠO TÁC | trồng lúa | - | - | 稲作[いなさく]は弥生[やよい]時代[じだい]に広[ひろ]まった。 | Nghề trồng lúa lan rộng vào thời Yayoi.
+田植[たう]え | n,v3 | ĐIỀN THỰC | cấy lúa | - | - | 五月[ごがつ]に家族[かぞく]総出[そうで]で田植[たう]えをした。 | Tháng năm cả nhà cùng ra đồng cấy lúa.
+稲刈[いねか]り | n | ĐẠO NGẢI | gặt lúa | - | - | 秋[あき]になると稲刈[いねか]りの季節[きせつ]だ。 | Sang thu là mùa gặt lúa.
+作物[さくもつ] | n | TÁC VẬT | cây trồng, hoa màu | - | - | この地域[ちいき]は寒[さむ]さに強[つよ]い作物[さくもつ]を育[そだ]てている。 | Vùng này trồng các loại cây chịu lạnh tốt.
+農作物[のうさくもつ] | n | NÔNG TÁC VẬT | nông sản trồng trọt | - | - | 台風[たいふう]で農作[のうさく]物[もつ]に大[おお]きな被害[ひがい]が出[で]た。 | Bão gây thiệt hại lớn cho nông sản.
+農産物[のうさんぶつ] | n | NÔNG SẢN VẬT | nông sản | - | - | 農産[のうさん]物[ぶつ]の輸入[ゆにゅう]自由[じゆう]化[か]が議論[ぎろん]されている。 | Tự do hóa nhập khẩu nông sản đang được thảo luận.
+収穫量[しゅうかくりょう] | n | THU HOẠCH LƯỢNG | sản lượng thu hoạch | - | - | 天候[てんこう]不順[ふじゅん]で収穫[しゅうかく]量[りょう]が減[へ]った。 | Thời tiết thất thường làm sản lượng giảm.
+品種[ひんしゅ] | n | PHẨM CHỦNG | giống | - | - | このイチゴは新[あたら]しい品種[ひんしゅ]で、とても甘[あま]い。 | Dâu tây này là giống mới, rất ngọt.
+品種[ひんしゅ]改良[かいりょう] | n | PHẨM CHỦNG CẢI LƯƠNG | cải tạo giống | - | - | 品種[ひんしゅ]改良[かいりょう]によって寒[さむ]さに強[つよ]い米[こめ]ができた。 | Nhờ cải tạo giống, có được loại lúa chịu lạnh.
+種子[しゅし] | n | CHỦNG TỬ | hạt giống | - | - | 世界[せかい]中[じゅう]の種子[しゅし]を保存[ほぞん]する施設[しせつ]がある。 | Có cơ sở lưu giữ hạt giống của toàn thế giới.
+遺伝[いでん]資源[しげん] | n | DI TRUYỀN TƯ NGUYÊN | nguồn gen | - | - | 野生[やせい]植物[しょくぶつ]は貴重[きちょう]な遺伝[いでん]資源[しげん]だ。 | Thực vật hoang dã là nguồn gen quý.
+苗[なえ] | n | MIÊU | cây giống | - | - | トマトの苗[なえ]をプランターに植[う]えた。 | Tôi trồng cây giống cà chua vào chậu.
+ハウス栽培[さいばい] | n | TÀI BỒI | trồng trong nhà kính | - | - | ハウス栽培[さいばい]で冬[ふゆ]でもキュウリが取[と]れる。 | Nhờ trồng trong nhà kính, mùa đông vẫn thu hoạch được dưa chuột.
+促成[そくせい]栽培[さいばい] | n | XÚC THÀNH TÀI BỒI | trồng thúc sớm | - | - | 高知[こうち]県[けん]では野菜[やさい]の促成[そくせい]栽培[さいばい]が盛[さか]んだ。 | Tỉnh Kochi phát triển việc trồng rau thúc sớm.
+有機[ゆうき]農業[のうぎょう] | n | HỮU CƠ NÔNG NGHIỆP | nông nghiệp hữu cơ | - | - | 都会[とかい]から移住[いじゅう]して有機[ゆうき]農業[のうぎょう]を始[はじ]めた。 | Chuyển từ thành phố về, tôi bắt đầu làm nông nghiệp hữu cơ.
+病害虫[びょうがいちゅう] | n | BỆNH HẠI TRÙNG | sâu bệnh | - | - | 病害[びょうがい]虫[ちゅう]の被害[ひがい]を減[へ]らす工夫[くふう]をしている。 | Đang tìm cách giảm thiệt hại do sâu bệnh.
+鳥獣[ちょうじゅう]被害[ひがい] | n | ĐIỂU THÚ BỊ HẠI | thiệt hại do chim thú | - | - | シカやイノシシによる鳥獣[ちょうじゅう]被害[ひがい]が深刻[しんこく]だ。 | Thiệt hại do hươu và lợn rừng rất nghiêm trọng.
+害獣[がいじゅう] | n | HẠI THÚ | thú gây hại | - | - | 畑[はたけ]を荒[あ]らす害獣[がいじゅう]を防[ふせ]ぐ柵[さく]を作[つく]った。 | Làm hàng rào ngăn thú phá ruộng.
+農協[のうきょう] | n | NÔNG HIỆP | hợp tác xã nông nghiệp | - | - | 収穫[しゅうかく]した米[こめ]を農協[のうきょう]に出荷[しゅっか]する。 | Chuyển lúa thu hoạch cho hợp tác xã nông nghiệp.
+農家[のうか] | n | NÔNG GIA | nhà nông | - | - | 農家[のうか]の高齢[こうれい]化[か]が進[すす]んでいる。 | Nông dân ngày càng già đi.
+兼業[けんぎょう]農家[のうか] | n | KIÊM NGHIỆP NÔNG GIA | hộ nông kiêm nghề khác | - | - | 父[ちち]は会社[かいしゃ]勤[づと]めをしながら兼業[けんぎょう]農家[のうか]を続[つづ]けている。 | Bố tôi vừa đi làm công ty vừa làm nông.
+担[にな]い手[て] | n | ĐẢM THỦ | người gánh vác | - | - | 地域[ちいき]の農業[のうぎょう]の担[にな]い手[て]が不足[ふそく]している。 | Thiếu người gánh vác nông nghiệp địa phương.
+後継者[こうけいしゃ]不足[ぶそく] | n | HẬU KẾ GIẢ BẤT TÚC | thiếu người kế nghiệp | - | - | 後継[こうけい]者[しゃ]不足[ぶそく]で廃業[はいぎょう]する店[みせ]が多[おお]い。 | Nhiều cửa hàng đóng cửa vì thiếu người kế nghiệp.
+食料[しょくりょう]自給率[じきゅうりつ] | n | THỰC LIỆU TỰ CẤP SUẤT | tỷ lệ tự túc lương thực | - | - | 日本[にほん]の食料[しょくりょう]自給[じきゅう]率[りつ]は四十[よんじゅう]パーセント前後[ぜんご]だ。 | Tỷ lệ tự túc lương thực của Nhật khoảng bốn mươi phần trăm.
+地産地消[ちさんちしょう] | n | ĐỊA SẢN ĐỊA TIÊU | sản xuất và tiêu thụ tại chỗ | - | - | 給食[きゅうしょく]で地産[ちさん]地消[ちしょう]を進[すす]めている。 | Thúc đẩy sản xuất – tiêu thụ tại chỗ qua bữa ăn trường học.
+産地[さんち]直送[ちょくそう] | n | SẢN ĐỊA TRỰC TỐNG | gửi thẳng từ nơi sản xuất | - | - | 産地[さんち]直送[ちょくそう]の新鮮[しんせん]な野菜[やさい]を買[か]った。 | Tôi mua rau tươi gửi thẳng từ nơi sản xuất.
+ブランド米[まい] | n | MỄ | gạo thương hiệu | - | - | 新潟[にいがた]のブランド米[まい]は全国[ぜんこく]で人気[にんき]がある。 | Gạo thương hiệu Niigata được ưa chuộng toàn quốc.
+特産品[とくさんひん] | n | ĐẶC SẢN PHẨM | đặc sản | - | - | 道[みち]の駅[えき]で地元[じもと]の特産[とくさん]品[ひん]を買[か]った。 | Mua đặc sản địa phương ở trạm dừng chân.
+畜産[ちくさん] | n | SÚC SẢN | chăn nuôi | - | - | 北海道[ほっかいどう]は畜産[ちくさん]が盛[さか]んだ。 | Hokkaido phát triển chăn nuôi.
+酪農[らくのう] | n | LẠC NÔNG | chăn nuôi bò sữa | {酪農} 家[か] | chủ trại bò sữa | 酪農[らくのう]家[か]は毎朝[まいあさ]早[はや]く起[お]きて牛[うし]の世話[せわ]をする。 | Chủ trại bò sữa dậy sớm mỗi sáng chăm bò.
+家畜[かちく] | n | GIA SÚC | gia súc | - | - | 家畜[かちく]の伝染[でんせん]病[びょう]が発生[はっせい]した。 | Dịch bệnh gia súc đã bùng phát.
+飼料[しりょう] | n | TỰ LIỆU | thức ăn chăn nuôi | - | - | 輸入[ゆにゅう]飼料[しりょう]の値上[ねあ]がりが畜産[ちくさん]農家[のうか]を苦[くる]しめている。 | Giá thức ăn chăn nuôi nhập khẩu tăng làm khổ người chăn nuôi.
+牧草[ぼくそう] | n | MỤC THẢO | cỏ chăn nuôi | - | - | 牛[うし]が牧草[ぼくそう]を食[た]べている。 | Đàn bò đang ăn cỏ.
+放牧[ほうぼく] | n,v3 | PHÓNG MỤC | chăn thả | - | - | 夏[なつ]の間[あいだ]、牛[うし]は山[やま]に放牧[ほうぼく]される。 | Suốt mùa hè, bò được chăn thả trên núi.
+牧場[ぼくじょう] | n | MỤC TRƯỜNG | trang trại chăn nuôi | - | - | 牧場[ぼくじょう]でしぼりたての牛乳[ぎゅうにゅう]を飲[の]んだ。 | Tôi uống sữa vừa vắt ở trang trại.
+口蹄疫[こうていえき] | n | KHẨU ĐỀ DỊCH | bệnh lở mồm long móng | - | - | 口蹄[こうてい]疫[えき]の発生[はっせい]で多[おお]くの牛[うし]が処分[しょぶん]された。 | Bệnh lở mồm long móng bùng phát khiến nhiều bò bị tiêu hủy.
+鳥[とり]インフルエンザ | n | ĐIỂU | cúm gia cầm | - | - | 鳥[とり]インフルエンザの感染[かんせん]が確認[かくにん]された。 | Đã xác nhận ca nhiễm cúm gia cầm.
+殺処分[さつしょぶん] | n,v3 | SÁT XỬ PHÂN | tiêu hủy (gia súc) | - | - | 感染[かんせん]を防[ふせ]ぐため鶏[にわとり]が殺[さつ]処分[しょぶん]された。 | Gà bị tiêu hủy để ngăn lây nhiễm.
+食肉[しょくにく] | n | THỰC NHỤC | thịt (làm thực phẩm) | {食肉} 加工[かこう] | chế biến thịt | 食肉[しょくにく]の需要[じゅよう]は世界[せかい]的[てき]に増[ふ]えている。 | Nhu cầu thịt đang tăng trên toàn thế giới.
+養殖[ようしょく] | n,v3 | DƯỠNG THỰC | nuôi trồng (thủy sản) | - | - | この湾[わん]ではカキの養殖[ようしょく]が盛[さか]んだ。 | Vịnh này phát triển nuôi hàu.
+漁業[ぎょぎょう] | n | NGƯ NGHIỆP | ngư nghiệp | - | - | 町[まち]の主[おも]な産業[さんぎょう]は漁業[ぎょぎょう]だ。 | Ngành chính của thị trấn là ngư nghiệp.
+水産業[すいさんぎょう] | n | THỦY SẢN NGHIỆP | ngành thủy sản | - | - | 水産[すいさん]業[ぎょう]の後継[こうけい]者[しゃ]を育[そだ]てる。 | Đào tạo người kế nghiệp cho ngành thủy sản.
+水産物[すいさんぶつ] | n | THỦY SẢN VẬT | thủy sản | - | - | 水産[すいさん]物[ぶつ]の輸出[ゆしゅつ]が伸[の]びている。 | Xuất khẩu thủy sản đang tăng.
+水産[すいさん]資源[しげん] | n | THỦY SẢN TƯ NGUYÊN | nguồn lợi thủy sản | - | - | 乱獲[らんかく]で水産[すいさん]資源[しげん]が減少[げんしょう]している。 | Đánh bắt quá mức khiến nguồn lợi thủy sản giảm.
+魚介類[ぎょかいるい] | n | NGƯ GIỚI LOẠI | hải sản | - | - | この町[まち]では新鮮[しんせん]な魚介[ぎょかい]類[るい]が食[た]べられる。 | Ở thị trấn này có thể ăn hải sản tươi.
+漁獲量[ぎょかくりょう] | n | NGƯ HOẠCH LƯỢNG | sản lượng đánh bắt | - | - | サンマの漁獲[ぎょかく]量[りょう]が過去[かこ]最低[さいてい]になった。 | Sản lượng cá thu đao thấp nhất từ trước đến nay.
+乱獲[らんかく] | n,v3 | LOẠN HOẠCH | đánh bắt bừa bãi | - | - | 象牙[ぞうげ]目的[もくてき]の乱獲[らんかく]でゾウが減[へ]った。 | Voi giảm do bị săn bắt bừa bãi lấy ngà.
+漁船[ぎょせん] | n | NGƯ THUYỀN | thuyền đánh cá | - | - | 早朝[そうちょう]に漁船[ぎょせん]が港[みなと]を出[で]ていく。 | Sáng sớm thuyền đánh cá rời cảng.
+漁港[ぎょこう] | n | NGƯ CẢNG | cảng cá | - | - | 漁港[ぎょこう]の市場[いちば]で朝[あさ]の競[せ]りが行[おこな]われる。 | Phiên đấu giá buổi sáng diễn ra ở chợ cảng cá.
+漁場[ぎょじょう] | n | NGƯ TRƯỜNG | ngư trường | - | - | この沖[おき]は豊[ゆた]かな漁場[ぎょじょう]として知[し]られる。 | Vùng khơi này nổi tiếng là ngư trường trù phú.
+漁師[りょうし] | n | NGƯ SƯ | ngư dân | - | - | 漁師[りょうし]の父[ちち]は毎朝[まいあさ]三時[さんじ]に海[うみ]へ出[で]る。 | Bố tôi là ngư dân, ba giờ sáng mỗi ngày đã ra biển.
+稚魚[ちぎょ] | n | TRĨ NGƯ | cá con | - | - | 川[かわ]にサケの稚魚[ちぎょ]を放流[ほうりゅう]した。 | Thả cá hồi con xuống sông.
+放流[ほうりゅう] | n,v3 | PHÓNG LƯU | thả (cá); xả (nước) | - | - | 大雨[おおあめ]でダムが放流[ほうりゅう]を始[はじ]めた。 | Do mưa lớn, đập bắt đầu xả nước.
+禁漁[きんりょう] | n | CẤM NGƯ | cấm đánh bắt | {禁漁} 期間[きかん] | mùa cấm đánh bắt | 資源[しげん]保護[ほご]のため禁漁[きんりょう]期間[きかん]が設[もう]けられている。 | Mùa cấm đánh bắt được đặt ra để bảo vệ nguồn lợi.
+解禁[かいきん] | n,v3 | GIẢI CẤM | dỡ lệnh cấm | - | - | 今日[きょう]はアユ釣[づ]りの解禁[かいきん]日[び]だ。 | Hôm nay là ngày mở mùa câu cá ayu.
+林業[りんぎょう] | n | LÂM NGHIỆP | lâm nghiệp | - | - | 林業[りんぎょう]の衰退[すいたい]で山[やま]が荒[あ]れている。 | Lâm nghiệp suy thoái khiến rừng núi hoang tàn.
+間伐[かんばつ] | n,v3 | GIAN PHẠT | tỉa thưa rừng | {間伐} 材[ざい] | gỗ tỉa thưa | 森[もり]を健康[けんこう]に保[たも]つには間伐[かんばつ]が必要[ひつよう]だ。 | Để giữ rừng khỏe mạnh cần tỉa thưa.
+原生林[げんせいりん] | n | NGUYÊN SINH LÂM | rừng nguyên sinh | - | - | 島[しま]には手[て]つかずの原生[げんせい]林[りん]が残[のこ]っている。 | Trên đảo vẫn còn rừng nguyên sinh chưa bị đụng tới.
+里山[さとやま] | n | LÝ SƠN | vùng đồi núi gần làng | - | - | 里山[さとやま]の自然[しぜん]を守[まも]る活動[かつどう]に参加[さんか]している。 | Tôi tham gia hoạt động bảo vệ thiên nhiên vùng đồi gần làng.
+開拓[かいたく] | n,v3 | KHAI THÁC | khai hoang; khai phá | 新[しん] 市場[しじょう] を {開拓} する | khai phá thị trường mới | 明治[めいじ]時代[じだい]に北海道[ほっかいどう]の開拓[かいたく]が進[すす]められた。 | Thời Minh Trị, việc khai hoang Hokkaido được đẩy mạnh.
+開墾[かいこん] | n,v3 | KHAI KHẨN | khai khẩn | - | - | 荒[あ]れ地[ち]を開墾[かいこん]して畑[はたけ]にした。 | Khai khẩn đất hoang thành ruộng.
+灌漑[かんがい] | n,v3 | QUÁN KHÁI | tưới tiêu | {灌漑} 設備[せつび] | hệ thống tưới tiêu | 灌漑[かんがい]設備[せつび]が整[ととの]い、乾燥[かんそう]地[ち]でも農業[のうぎょう]ができるようになった。 | Hệ thống tưới tiêu hoàn thiện nên vùng khô cũng làm nông được.
+用水[ようすい] | n | DỤNG THỦY | nước dùng (tưới, sinh hoạt) | 農業[のうぎょう] {用水} | nước tưới nông nghiệp | 工業[こうぎょう]用水[ようすい]として川[かわ]の水[みず]が使[つか]われている。 | Nước sông được dùng làm nước công nghiệp.
+用水路[ようすいろ] | n | DỤNG THỦY LỘ | kênh dẫn nước | - | - | 田[た]んぼの横[よこ]を用水[ようすい]路[ろ]が流[なが]れている。 | Kênh dẫn nước chảy cạnh ruộng lúa.
+ため池[いけ] | n | TRÌ | ao chứa nước | - | - | 雨[あめ]の少[すく]ない地方[ちほう]には多[おお]くのため池[いけ]がある。 | Vùng ít mưa có nhiều ao chứa nước.
+水源[すいげん] | n | THỦY NGUYÊN | nguồn nước | - | - | 森林[しんりん]は大切[たいせつ]な水源[すいげん]を守[まも]っている。 | Rừng bảo vệ nguồn nước quý giá.
+水資源[みずしげん] | n | THỦY TƯ NGUYÊN | tài nguyên nước | - | - | 世界[せかい]的[てき]に水[みず]資源[しげん]の不足[ふそく]が懸念[けねん]されている。 | Trên thế giới đang lo ngại thiếu tài nguyên nước.
+水不足[みずぶそく] | n | THỦY BẤT TÚC | thiếu nước | - | - | 雨[あめ]が降[ふ]らず、深刻[しんこく]な水[みず]不足[ぶそく]になった。 | Trời không mưa, tình trạng thiếu nước trở nên nghiêm trọng.
+渇水[かっすい] | n,v3 | KHÁT THỦY | hạn hán thiếu nước | - | - | 渇水[かっすい]のため給水[きゅうすい]制限[せいげん]が行[おこな]われた。 | Do thiếu nước, việc cấp nước bị hạn chế.
+浄水場[じょうすいじょう] | n | TỊNH THỦY TRƯỜNG | nhà máy lọc nước | - | - | 川[かわ]の水[みず]は浄水[じょうすい]場[じょう]できれいにされる。 | Nước sông được làm sạch ở nhà máy lọc nước.
+下水[げすい]処理[しょり] | n | HẠ THỦY XỬ LÝ | xử lý nước thải | - | - | 下水[げすい]処理[しょり]場[じょう]の見学[けんがく]に行[い]った。 | Tôi đi tham quan nhà máy xử lý nước thải.
+汚水[おすい] | n | Ô THỦY | nước bẩn | - | - | 工場[こうじょう]の汚水[おすい]が川[かわ]に流[なが]れ込[こ]んだ。 | Nước bẩn từ nhà máy chảy vào sông.
+生活[せいかつ]排水[はいすい] | n | SINH HOẠT BÀI THỦY | nước thải sinh hoạt | - | - | 生活[せいかつ]排水[はいすい]が湖[みずうみ]を汚[よご]している。 | Nước thải sinh hoạt làm bẩn hồ.
+廃液[はいえき] | n | PHẾ DỊCH | chất thải lỏng | - | - | 工場[こうじょう]から有害[ゆうがい]な廃液[はいえき]が流出[りゅうしゅつ]した。 | Chất thải lỏng độc hại rò rỉ từ nhà máy.
+汚泥[おでい] | n | Ô NÊ | bùn thải | - | - | 下水[げすい]の汚泥[おでい]を肥料[ひりょう]に再利用[さいりよう]する。 | Tái sử dụng bùn thải cống làm phân bón.
+ヘドロ | n | - | bùn đáy ô nhiễm | - | - | 川底[かわぞこ]にヘドロがたまっている。 | Bùn ô nhiễm tích tụ dưới đáy sông.
+赤潮[あかしお] | n | XÍCH TRIỀU | thủy triều đỏ | - | - | 赤潮[あかしお]で養殖[ようしょく]の魚[さかな]が大量[たいりょう]に死[し]んだ。 | Thủy triều đỏ làm cá nuôi chết hàng loạt.
+富栄養化[ふえいようか] | n,v3 | PHÚ VINH DƯỠNG HÓA | phú dưỡng hóa | - | - | 湖[みずうみ]の富[ふ]栄養[えいよう]化[か]で藻[も]が大量[たいりょう]に発生[はっせい]した。 | Hồ bị phú dưỡng hóa nên tảo phát triển ồ ạt.
+三角州[さんかくす] | n | TAM GIÁC CHÂU | châu thổ | - | - | 大[おお]きな川[かわ]の河口[かこう]には三角[さんかく]州[す]ができる。 | Ở cửa sông lớn hình thành châu thổ.
+扇状地[せんじょうち] | n | PHIẾN TRẠNG ĐỊA | quạt bồi tích | - | - | 扇状[せんじょう]地[ち]は水[みず]はけがよく果樹[かじゅ]栽培[さいばい]に向[む]いている。 | Quạt bồi tích thoát nước tốt nên hợp trồng cây ăn quả.
+台地[だいち] | n | ĐÀI ĐỊA | cao nguyên thấp, vùng đất cao | - | - | 台地[だいち]の上[うえ]に茶畑[ちゃばたけ]が広[ひろ]がっている。 | Đồi chè trải rộng trên vùng đất cao.
+峡谷[きょうこく] | n | HẠP CỐC | hẻm núi | - | - | 秋[あき]の峡谷[きょうこく]は紅葉[こうよう]で真[ま]っ赤[か]になる。 | Hẻm núi mùa thu đỏ rực lá phong.
+湿地[しっち] | n | THẤP ĐỊA | vùng đất ngập nước | - | - | 湿地[しっち]には多[おお]くの水鳥[みずどり]が集[あつ]まる。 | Nhiều loài chim nước tụ về vùng đất ngập nước.
+湿原[しつげん] | n | THẤP NGUYÊN | đồng cỏ ngập nước | - | - | 釧路[くしろ]湿原[しつげん]には珍[めずら]しい鳥[とり]が生息[せいそく]している。 | Đồng cỏ ngập nước Kushiro là nơi sinh sống của loài chim quý.
+干潟[ひがた] | n | CAN TÍCH | bãi bồi lộ khi triều rút | - | - | 干潟[ひがた]で貝[かい]を拾[ひろ]った。 | Tôi nhặt sò trên bãi bồi khi triều rút.
+砂丘[さきゅう] | n | SA KHÂU | đồi cát | - | - | 鳥取[とっとり]砂丘[さきゅう]をラクダに乗[の]って歩[ある]いた。 | Tôi cưỡi lạc đà dạo đồi cát Tottori.
+離島[りとう] | n | LY ĐẢO | đảo xa | - | - | 離島[りとう]では医師[いし]不足[ぶそく]が深刻[しんこく]だ。 | Ở các đảo xa, thiếu bác sĩ rất nghiêm trọng.
+孤島[ことう] | n | CÔ ĐẢO | hòn đảo cô độc | 陸[りく] の {孤島} | nơi bị cô lập | 大雪[おおゆき]で村[むら]は陸[りく]の孤島[ことう]になった。 | Tuyết lớn khiến ngôi làng bị cô lập.
+内海[ないかい] | n | NỘI HẢI | biển nội địa | - | - | 瀬戸[せと]内海[ないかい]には多[おお]くの島[しま]が浮[う]かんでいる。 | Biển nội địa Seto có nhiều đảo.
+近海[きんかい] | n | CẬN HẢI | vùng biển gần bờ | - | - | 近海[きんかい]で取[と]れたマグロを使[つか]っている。 | Dùng cá ngừ đánh bắt ở vùng biển gần bờ.
+遠洋[えんよう] | n | VIỄN DƯƠNG | viễn dương | {遠洋} 漁業[ぎょぎょう] | đánh bắt xa bờ | 遠洋[えんよう]漁業[ぎょぎょう]の船[ふね]は何[なん]か月[げつ]も帰[かえ]らない。 | Tàu đánh bắt xa bờ đi nhiều tháng không về.
+海流[かいりゅう] | n | HẢI LƯU | hải lưu | - | - | 海流[かいりゅう]に乗[の]って魚[さかな]が北上[ほくじょう]する。 | Cá theo hải lưu di chuyển lên phía bắc.
+暖流[だんりゅう] | n | NOÃN LƯU | dòng hải lưu nóng | - | - | 暖流[だんりゅう]の影響[えいきょう]でこの地域[ちいき]は冬[ふゆ]も暖[あたた]かい。 | Do ảnh hưởng của dòng nóng, vùng này mùa đông cũng ấm.
+寒流[かんりゅう] | n | HÀN LƯU | dòng hải lưu lạnh | - | - | 暖流[だんりゅう]と寒流[かんりゅう]がぶつかる海域[かいいき]は魚[さかな]が多[おお]い。 | Vùng biển nơi dòng nóng và lạnh gặp nhau có nhiều cá.
+潮流[ちょうりゅう] | n | TRIỀU LƯU | dòng triều; trào lưu | 時代[じだい] の {潮流} | trào lưu thời đại | 時代[じだい]の潮流[ちょうりゅう]に乗[の]り遅[おく]れてはいけない。 | Không được lỡ nhịp trào lưu thời đại.
+干潮[かんちょう] | n | CAN TRIỀU | triều rút | - | - | 干潮[かんちょう]の時[とき]には島[しま]まで歩[ある]いて渡[わた]れる。 | Lúc triều rút có thể đi bộ ra đảo.
+満潮[まんちょう] | n | MÃN TRIỀU | triều lên | - | - | 満潮[まんちょう]になると海岸[かいがん]の道[みち]が水[みず]につかる。 | Khi triều lên, con đường ven biển bị ngập.
+海溝[かいこう] | n | HẢI CÂU | rãnh đại dương | - | - | 日本[にほん]海溝[かいこう]では大[おお]きな地震[じしん]が起[お]きやすい。 | Rãnh Nhật Bản dễ xảy ra động đất lớn.
+大陸棚[たいりくだな] | n | ĐẠI LỤC BẰNG | thềm lục địa | - | - | 大陸[たいりく]棚[だな]には豊富[ほうふ]な資源[しげん]が眠[ねむ]っている。 | Thềm lục địa chứa nhiều tài nguyên phong phú.
+温室[おんしつ]効果[こうか]ガス | n | ÔN THẤT HIỆU QUẢ | khí nhà kính | - | - | 温室[おんしつ]効果[こうか]ガスの排出[はいしゅつ]を削減[さくげん]する目標[もくひょう]が立[た]てられた。 | Mục tiêu cắt giảm phát thải khí nhà kính đã được đề ra.
+排出権[はいしゅつけん] | n | BÀI XUẤT QUYỀN | quyền phát thải | {排出権} 取引[とりひき] | mua bán quyền phát thải | 企業[きぎょう]間[かん]で排出[はいしゅつ]権[けん]の取引[とりひき]が行[おこな]われている。 | Việc mua bán quyền phát thải diễn ra giữa các doanh nghiệp.
+カーボンニュートラル | n | - | trung hòa carbon | - | - | 政府[せいふ]は2050年[ねん]までのカーボンニュートラルを掲[かか]げている。 | Chính phủ đặt mục tiêu trung hòa carbon đến năm 2050.
+永久[えいきゅう]凍土[とうど] | n | VĨNH CỬU ĐỐNG THỔ | băng vĩnh cửu | - | - | 温暖[おんだん]化[か]で永久[えいきゅう]凍土[とうど]が溶[と]け始[はじ]めている。 | Do ấm lên, băng vĩnh cửu bắt đầu tan.
+集中[しゅうちゅう]豪雨[ごうう] | n | TẬP TRUNG HÀO VŨ | mưa lớn cục bộ | - | - | 集中[しゅうちゅう]豪雨[ごうう]で川[かわ]が氾濫[はんらん]した。 | Mưa lớn cục bộ làm sông tràn bờ.
+線状[せんじょう]降水帯[こうすいたい] | n | TUYẾN TRẠNG GIÁNG THỦY ĐỚI | dải mưa hình tuyến | - | - | 線状[せんじょう]降水[こうすい]帯[たい]が発生[はっせい]し、大雨[おおあめ]特別[とくべつ]警報[けいほう]が出[で]た。 | Dải mưa hình tuyến xuất hiện, cảnh báo đặc biệt mưa lớn được ban bố.
+土石流[どせきりゅう] | n | THỔ THẠCH LƯU | lũ bùn đá | - | - | 土石[どせき]流[りゅう]が集落[しゅうらく]を襲[おそ]った。 | Lũ bùn đá ập vào khu dân cư.
+PM2.5 | n | - | bụi mịn PM2.5 | - | - | 今日[きょう]はPM2.5の濃度[のうど]が高[たか]いので外出[がいしゅつ]を控[ひか]えよう。 | Hôm nay nồng độ bụi mịn cao nên hạn chế ra ngoài.
+環境[かんきょう]保全[ほぜん] | n | HOÀN CẢNH BẢO TOÀN | bảo tồn môi trường | - | - | 開発[かいはつ]と環境[かんきょう]保全[ほぜん]の両立[りょうりつ]が求[もと]められる。 | Cần cân bằng phát triển với bảo tồn môi trường.
+固有種[こゆうしゅ] | n | CỐ HỮU CHỦNG | loài đặc hữu | - | - | この島[しま]には多[おお]くの固有[こゆう]種[しゅ]が生息[せいそく]している。 | Hòn đảo này có nhiều loài đặc hữu.
+生態[せいたい] | n | SINH THÁI | sinh thái, tập tính | - | - | 深海[しんかい]魚[ぎょ]の生態[せいたい]はまだよく分[わ]かっていない。 | Tập tính của cá biển sâu vẫn chưa được hiểu rõ.
+光合成[こうごうせい] | n,v3 | QUANG HỢP THÀNH | quang hợp | - | - | 植物[しょくぶつ]は光合成[こうごうせい]によって酸素[さんそ]を作[つく]る。 | Thực vật tạo ra oxy nhờ quang hợp.
+生分解[せいぶんかい] | n | SINH PHÂN GIẢI | phân hủy sinh học | {生分解} 性[せい] プラスチック | nhựa phân hủy sinh học | 生[せい]分解[ぶんかい]性[せい]のストローを使[つか]う店[みせ]が増[ふ]えた。 | Ngày càng nhiều quán dùng ống hút phân hủy sinh học.
+再資源化[さいしげんか] | n,v3 | TÁI TƯ NGUYÊN HÓA | tái chế thành tài nguyên | - | - | 古[ふる]い家電[かでん]から金属[きんぞく]を再[さい]資源[しげん]化[か]する。 | Tái chế kim loại từ đồ điện cũ thành tài nguyên.
+埋[う]め立[た]て地[ち] | n | MAI LẬP ĐỊA | đất lấn biển | - | - | 空港[くうこう]は海[うみ]の埋[う]め立[た]て地[ち]に作[つく]られた。 | Sân bay được xây trên đất lấn biển.
+採掘[さいくつ] | n,v3 | THẢI QUẬT | khai thác (mỏ) | 石炭[せきたん] を {採掘} する | khai thác than | 海底[かいてい]から資源[しげん]を採掘[さいくつ]する技術[ぎじゅつ]が開発[かいはつ]された。 | Công nghệ khai thác tài nguyên dưới đáy biển đã được phát triển.
+鉱石[こうせき] | n | KHOÁNG THẠCH | quặng | - | - | 鉱石[こうせき]から金属[きんぞく]を取[と]り出[だ]す。 | Tách kim loại từ quặng.
+鉄鉱石[てっこうせき] | n | THIẾT KHOÁNG THẠCH | quặng sắt | - | - | 鉄鉱[てっこう]石[せき]の大半[たいはん]をオーストラリアから輸入[ゆにゅう]している。 | Phần lớn quặng sắt được nhập từ Úc.
+希少[きしょう]金属[きんぞく] | n | HY THIỂU KIM THUỘC | kim loại hiếm | - | - | 携帯[けいたい]電話[でんわ]には希少[きしょう]金属[きんぞく]が使[つか]われている。 | Điện thoại di động sử dụng kim loại hiếm.
+レアメタル | n | - | kim loại hiếm | - | - | 使[つか]わなくなったスマホからレアメタルを回収[かいしゅう]する。 | Thu hồi kim loại hiếm từ điện thoại không dùng nữa.
+レアアース | n | - | đất hiếm | - | - | レアアースの供給[きょうきゅう]が特定[とくてい]の国[くに]に偏[かたよ]っている。 | Nguồn cung đất hiếm tập trung vào một số nước.
+製鉄[せいてつ] | n | CHẾ THIẾT | luyện sắt | {製鉄} 所[しょ] | nhà máy luyện thép | 製鉄[せいてつ]所[しょ]の高炉[こうろ]が赤々[あかあか]と燃[も]えている。 | Lò cao nhà máy luyện thép cháy đỏ rực.
+鉄鋼[てっこう] | n | THIẾT CƯƠNG | sắt thép | - | - | 鉄鋼[てっこう]業界[ぎょうかい]は需要[じゅよう]の減少[げんしょう]に苦[くる]しんでいる。 | Ngành sắt thép chật vật vì nhu cầu giảm.
+造船[ぞうせん] | n,v3 | TẠO THUYỀN | đóng tàu | - | - | 長崎[ながさき]は造船[ぞうせん]の町[まち]として栄[さか]えた。 | Nagasaki phồn thịnh như một thành phố đóng tàu.
+化学[かがく]工業[こうぎょう] | n | HÓA HỌC CÔNG NGHIỆP | công nghiệp hóa chất | - | - | 化学[かがく]工業[こうぎょう]は多[おお]くの排水[はいすい]を出[だ]す。 | Công nghiệp hóa chất thải ra nhiều nước thải.
+重工業[じゅうこうぎょう] | n | TRỌNG CÔNG NGHIỆP | công nghiệp nặng | - | - | 戦後[せんご]の日本[にほん]は重[じゅう]工業[こうぎょう]を中心[ちゅうしん]に発展[はってん]した。 | Nhật Bản sau chiến tranh phát triển dựa vào công nghiệp nặng.
+軽工業[けいこうぎょう] | n | KHINH CÔNG NGHIỆP | công nghiệp nhẹ | - | - | 繊維[せんい]産業[さんぎょう]は代表[だいひょう]的[てき]な軽[けい]工業[こうぎょう]だ。 | Dệt may là ngành công nghiệp nhẹ tiêu biểu.
+第一次[だいいちじ]産業[さんぎょう] | n | ĐỆ NHẤT THỨ SẢN NGHIỆP | khu vực một (nông lâm ngư) | - | - | 第[だい]一[いち]次[じ]産業[さんぎょう]で働[はたら]く人[ひと]は年々[ねんねん]減[へ]っている。 | Số người làm khu vực nông lâm ngư giảm qua từng năm.
+第二次[だいにじ]産業[さんぎょう] | n | ĐỆ NHỊ THỨ SẢN NGHIỆP | khu vực hai (công nghiệp) | - | - | 製造[せいぞう]業[ぎょう]や建設[けんせつ]業[ぎょう]は第[だい]二[に]次[じ]産業[さんぎょう]に含[ふく]まれる。 | Chế tạo và xây dựng thuộc khu vực hai.
+第三次[だいさんじ]産業[さんぎょう] | n | ĐỆ TAM THỨ SẢN NGHIỆP | khu vực ba (dịch vụ) | - | - | 先進[せんしん]国[こく]では第[だい]三[さん]次[じ]産業[さんぎょう]の割合[わりあい]が高[たか]い。 | Ở các nước phát triển, tỷ trọng khu vực dịch vụ cao.
+産業[さんぎょう]構造[こうぞう] | n | SẢN NGHIỆP CẤU TẠO | cơ cấu ngành | - | - | デジタル化[か]で産業[さんぎょう]構造[こうぞう]が大[おお]きく変[か]わった。 | Số hóa làm cơ cấu ngành thay đổi lớn.
+工業[こうぎょう]地帯[ちたい] | n | CÔNG NGHIỆP ĐỊA ĐỚI | vùng công nghiệp | - | - | 太平洋[たいへいよう]沿[ぞ]いに工業[こうぎょう]地帯[ちたい]が広[ひろ]がっている。 | Vùng công nghiệp trải dài dọc Thái Bình Dương.
+工業[こうぎょう]団地[だんち] | n | CÔNG NGHIỆP ĐOÀN ĐỊA | khu công nghiệp | - | - | 郊外[こうがい]の工業[こうぎょう]団地[だんち]に工場[こうじょう]を移[うつ]した。 | Chuyển nhà máy ra khu công nghiệp ngoại ô.
+コンビナート | n | - | tổ hợp công nghiệp | 石油[せきゆ] {コンビナート} | tổ hợp hóa dầu | 海沿[うみぞ]いに石油[せきゆ]コンビナートが立[た]ち並[なら]んでいる。 | Tổ hợp hóa dầu san sát dọc bờ biển.
+臨海[りんかい] | n | LÂM HẢI | ven biển | {臨海} 部[ぶ] | khu ven biển | 臨海[りんかい]部[ぶ]の再開発[さいかいはつ]が進[すす]んでいる。 | Khu ven biển đang được tái phát triển.
+内陸[ないりく] | n | NỘI LỤC | nội địa, sâu trong đất liền | - | - | 内陸[ないりく]は夏[なつ]と冬[ふゆ]の気温[きおん]差[さ]が大[おお]きい。 | Vùng nội địa có chênh lệch nhiệt độ hè và đông lớn.
+地場[じば]産業[さんぎょう] | n | ĐỊA TRƯỜNG SẢN NGHIỆP | ngành nghề địa phương | - | - | 眼鏡[めがね]作[づく]りはこの町[まち]の地場[じば]産業[さんぎょう]だ。 | Làm kính là ngành nghề địa phương của thị trấn này.
+伝統[でんとう]産業[さんぎょう] | n | TRUYỀN THỐNG SẢN NGHIỆP | ngành nghề truyền thống | - | - | 伝統[でんとう]産業[さんぎょう]の職人[しょくにん]が減[へ]っている。 | Thợ thủ công ngành nghề truyền thống đang ít dần.
+町工場[まちこうば] | n | ĐINH CÔNG TRƯỜNG | xưởng nhỏ | - | - | この部品[ぶひん]は小[ちい]さな町[まち]工場[こうば]で作[つく]られている。 | Linh kiện này được làm ở một xưởng nhỏ.
+加工品[かこうひん] | n | GIA CÔNG PHẨM | sản phẩm chế biến | - | - | 牛乳[ぎゅうにゅう]の加工[かこう]品[ひん]としてチーズやバターがある。 | Sản phẩm chế biến từ sữa gồm phô mai và bơ.
+食品[しょくひん]加工[かこう] | n | THỰC PHẨM GIA CÔNG | chế biến thực phẩm | - | - | 食品[しょくひん]加工[かこう]工場[こうじょう]で働[はたら]いている。 | Tôi làm ở nhà máy chế biến thực phẩm.
+部材[ぶざい] | n | BỘ TÀI | vật liệu cấu kiện | - | - | 住宅[じゅうたく]の部材[ぶざい]を工場[こうじょう]で作[つく]っておく。 | Cấu kiện nhà ở được làm sẵn tại nhà máy.
+排熱[はいねつ] | n | BÀI NHIỆT | nhiệt thải | - | - | 工場[こうじょう]の排熱[はいねつ]を暖房[だんぼう]に利用[りよう]している。 | Tận dụng nhiệt thải nhà máy để sưởi ấm.
+電力[でんりょく]会社[がいしゃ] | n | ĐIỆN LỰC HỘI XÃ | công ty điện lực | - | - | 電力[でんりょく]会社[がいしゃ]が電気[でんき]料金[りょうきん]の値上[ねあ]げを申請[しんせい]した。 | Công ty điện lực xin tăng giá điện.
+送電線[そうでんせん] | n | TỐNG ĐIỆN TUYẾN | đường dây tải điện | - | - | 台風[たいふう]で送電[そうでん]線[せん]が切[き]れて停電[ていでん]した。 | Bão làm đứt đường dây tải điện gây mất điện.
+変電所[へんでんしょ] | n | BIẾN ĐIỆN SỞ | trạm biến áp | - | - | 変電[へんでん]所[しょ]の事故[じこ]で広[ひろ]い範囲[はんい]が停電[ていでん]した。 | Sự cố trạm biến áp gây mất điện diện rộng.
+火力[かりょく]発電[はつでん] | n | HỎA LỰC PHÁT ĐIỆN | nhiệt điện | - | - | 火力[かりょく]発電[はつでん]は二酸化炭素[にさんかたんそ]を多[おお]く出[だ]す。 | Nhiệt điện thải ra nhiều CO2.
+水力[すいりょく]発電[はつでん] | n | THỦY LỰC PHÁT ĐIỆN | thủy điện | - | - | 山間[さんかん]部[ぶ]のダムで水力[すいりょく]発電[はつでん]を行[おこな]っている。 | Đập ở vùng núi đang sản xuất thủy điện.
+地熱[ちねつ]発電[はつでん] | n | ĐỊA NHIỆT PHÁT ĐIỆN | điện địa nhiệt | - | - | 火山[かざん]の多[おお]い日本[にほん]は地熱[ちねつ]発電[はつでん]に向[む]いている。 | Nhật Bản nhiều núi lửa nên phù hợp với điện địa nhiệt.
+原子力[げんしりょく]発電所[はつでんしょ] | n | NGUYÊN TỬ LỰC PHÁT ĐIỆN SỞ | nhà máy điện hạt nhân | - | - | 原子[げんし]力[りょく]発電[はつでん]所[しょ]の安全[あんぜん]対策[たいさく]が強化[きょうか]された。 | Biện pháp an toàn cho nhà máy điện hạt nhân được tăng cường.
+廃炉[はいろ] | n | PHẾ LÔ | tháo dỡ lò phản ứng | - | - | 廃炉[はいろ]作業[さぎょう]には数十[すうじゅう]年[ねん]かかる。 | Công việc tháo dỡ lò phản ứng mất hàng chục năm.
+使用済[しようず]み核燃料[かくねんりょう] | n | SỬ DỤNG TẾ HẠCH NHIÊN LIỆU | nhiên liệu hạt nhân đã qua sử dụng | - | - | 使用[しよう]済[ず]み核[かく]燃料[ねんりょう]の処分[しょぶん]場所[ばしょ]が決[き]まらない。 | Chưa quyết được nơi xử lý nhiên liệu hạt nhân đã qua sử dụng.
+放射性[ほうしゃせい]廃棄物[はいきぶつ] | n | PHÓNG XẠ TÍNH PHẾ KHÍ VẬT | chất thải phóng xạ | - | - | 放射[ほうしゃ]性[せい]廃棄[はいき]物[ぶつ]は何万[なんまん]年[ねん]も管理[かんり]が必要[ひつよう]だ。 | Chất thải phóng xạ cần quản lý hàng vạn năm.
+汚染水[おせんすい] | n | Ô NHIỄM THỦY | nước nhiễm xạ, nước ô nhiễm | - | - | 原発[げんぱつ]の汚染[おせん]水[すい]の処理[しょり]が課題[かだい]だ。 | Xử lý nước nhiễm xạ của nhà máy hạt nhân là thách thức.
+除染[じょせん] | n,v3 | TRỪ NHIỄM | khử nhiễm | - | - | 住宅[じゅうたく]地[ち]の除染[じょせん]作業[さぎょう]が終[お]わった。 | Công việc khử nhiễm khu dân cư đã xong.
+被[ひ]ばく | n,v3 | BỊ | nhiễm xạ | - | - | 作業[さぎょう]員[いん]の被[ひ]ばく量[りょう]を管理[かんり]している。 | Quản lý mức nhiễm xạ của công nhân.
+堆積[たいせき] | n | ĐỐI TÍCH | bồi tụ, tích tụ | {堆積}する | bồi tụ | 河口[かこう]に土砂[どしゃ]が堆積[たいせき]した。 | Đất cát bồi tụ ở cửa sông.
+浸食[しんしょく] | n | PHẨM THỰC | xói mòn | {浸食}される | bị xói mòn | 海岸[かいがん]が波[なみ]で浸食[しんしょく]されている。 | Bờ biển bị sóng xói mòn.
+風化[ふうか] | n | PHONG HÓA | phong hóa | {風化}する | phong hóa | 岩石[がんせき]が長年[ながねん]の風化[ふうか]で崩[くず]れた。 | Đá vỡ vụn do phong hóa nhiều năm.
+沖積[ちゅうせき] | n | XUNG TÍCH | phù sa, bồi tích | {沖積}平野[へいや] | đồng bằng phù sa | 沖積[ちゅうせき]平野[へいや]は農業[のうぎょう]に適[てき]している。 | Đồng bằng phù sa thích hợp cho nông nghiệp.
+渓流[けいりゅう] | n | KHÊ LƯU | suối, khe | {渓流}釣[づ]り | câu cá suối | 渓流[けいりゅう]でイワナを釣[つ]った。 | Câu được cá iwana ở suối.
+清流[せいりゅう] | n | THANH LƯU | dòng nước trong | {清流}が流[なが]れる | dòng nước trong chảy | 清流[せいりゅう]にホタルが舞[ま]う。 | Đom đóm bay trên dòng nước trong.
+激流[げきりゅう] | n | KÍCH LƯU | dòng nước xiết | {激流}を下[くだ]る | xuôi dòng nước xiết | 激流[げきりゅう]を下[くだ]るラフティングを体験[たいけん]した。 | Trải nghiệm chèo bè xuôi dòng nước xiết.
+濁流[だくりゅう] | n | TRỌC LƯU | dòng nước đục | {濁流}に飲[の]まれる | bị dòng nước đục cuốn | 豪雨[ごうう]で川[かわ]が濁流[だくりゅう]になった。 | Sông biến thành dòng nước đục vì mưa lớn.
+水脈[すいみゃく] | n | THỦY MẠCH | mạch nước | 地下[ちか]{水脈} | mạch nước ngầm | 地下[ちか]水脈[すいみゃく]を探[さが]して井戸[いど]を掘[ほ]る。 | Tìm mạch nước ngầm để đào giếng.
+伏流[ふくりゅう] | n | PHỤC LƯU | dòng chảy ngầm | {伏流}水[すい] | nước ngầm | 伏流[ふくりゅう]水[すい]が湧[わ]き出[で]る場所[ばしょ]がある。 | Có nơi nước ngầm trào lên.
+湧水[ゆうすい] | n | DŨNG THỦY | nước phun, nước ngầm trào | {湧水}が豊富[ほうふ]だ | nước ngầm phong phú | 富士山[ふじさん]の湧水[ゆうすい]は飲料[いんりょう]水[すい]に使[つか]われる。 | Nước ngầm núi Phú Sĩ được dùng làm nước uống.
+滝壺[たきつぼ] | n | LUNG HỒ | vực dưới thác | {滝壺}で泳[およ]ぐ | bơi ở vực dưới thác | 滝壺[たきつぼ]の水[みず]は冷[つめ]たくて澄[す]んでいた。 | Nước ở vực dưới thác lạnh và trong vắt.
+断崖[だんがい] | n | ĐOẠN NHAI | vách đá | {断崖}絶壁[ぜっぺき] | vách đá cheo leo | 断崖[だんがい]の上[うえ]から海[うみ]を見[み]下[お]ろした。 | Nhìn xuống biển từ trên vách đá.
+絶壁[ぜっぺき] | n | TUYỆT BÍCH | vách dựng đứng | {絶壁}がそびえる | vách dựng đứng sừng sững | 絶壁[ぜっぺき]に野生[やせい]の花[はな]が咲[さ]いていた。 | Hoa dại nở trên vách đá dựng đứng.
+岩礁[がんしょう] | n | NHAM TIÊU | đá ngầm | {岩礁}に乗[の]り上[あ]げる | mắc cạn trên đá ngầm | 船[ふね]が岩礁[がんしょう]に乗[の]り上[あ]げた。 | Tàu mắc cạn trên đá ngầm.
+凍土[とうど] | n | ĐÔNG THỔ | đất đóng băng | 永久[えいきゅう]{凍土} | đất đóng băng vĩnh cửu | 温暖[おんだん]化[か]で永久[えいきゅう]凍土[とうど]が溶[と]けている。 | Đất đóng băng vĩnh cửu đang tan do ấm lên toàn cầu.
+永久[えいきゅう] | n | VĨNH CỬU | vĩnh cửu | {永久}に続[つづ]く | kéo dài mãi mãi | 永久[えいきゅう]に変[か]わらない愛[あい]を誓[ちか]った。 | Thề tình yêu vĩnh cửu không đổi.
+樹海[じゅかい] | n | THỤ HẢI | rừng rậm bao la | {樹海}に入[はい]る | vào rừng rậm | 富士山[ふじさん]の樹海[じゅかい]は神秘的[しんぴてき]だ。 | Rừng rậm núi Phú Sĩ rất huyền bí.
+原生[げんせい] | n | NGUYÊN SINH | nguyên sinh | {原生}林[りん] | rừng nguyên sinh | 原生[げんせい]林[りん]には多様[たよう]な生物[せいぶつ]が棲[す]む。 | Rừng nguyên sinh là nơi cư trú của nhiều sinh vật.
+群生[ぐんせい] | n | QUẦN SINH | mọc thành đám | {群生}する | mọc thành đám | ラベンダーが丘[おか]に群生[ぐんせい]している。 | Hoa oải hương mọc thành đám trên đồi.
+自生[じせい] | n | TỰ SINH | mọc hoang | {自生}する | mọc hoang | この地域[ちいき]には珍[めずら]しい蘭[らん]が自生[じせい]している。 | Loài lan quý hiếm mọc hoang ở vùng này.
+棲息[せいそく] | n | THÊ TỨC | sinh sống, cư trú | {棲息}する | sinh sống | 絶滅[ぜつめつ]危惧[きぐ]種[しゅ]が棲息[せいそく]する森[もり]を守[まも]る。 | Bảo vệ rừng nơi các loài nguy cấp sinh sống.
+回遊[かいゆう] | n | HỒI DU | di cư (cá) | {回遊}する | di cư | マグロは太平洋[たいへいよう]を回遊[かいゆう]する。 | Cá ngừ di cư khắp Thái Bình Dương.
+渡[わた]り | n | ĐỘ | di cư (chim) | {渡[わた]り}鳥[どり] | chim di cư | 渡[わた]り鳥[どり]がV字[じ]形[がた]で飛[と]んでいく。 | Chim di cư bay theo hình chữ V.
+越冬[えっとう] | n | VIỆT ĐÔNG | qua đông | {越冬}する | qua đông | 白鳥[はくちょう]が日本[にほん]で越冬[えっとう]する。 | Thiên nga qua đông ở Nhật Bản.
+脱皮[だっぴ] | n | THOÁT BÌ | lột xác | {脱皮}する | lột xác | セミの幼虫[ようちゅう]が脱皮[だっぴ]して成虫[せいちゅう]になる。 | Ấu trùng ve sầu lột xác thành ve trưởng thành.
+羽化[うか] | n | VŨ HÓA | vũ hóa (thành bướm) | {羽化}する | vũ hóa | 蛹[さなぎ]から蝶[ちょう]が羽化[うか]した。 | Bướm vũ hóa từ nhộng.
+孵化[ふか] | n | PHU HÓA | nở (trứng) | {孵化}する | nở | 卵[たまご]が孵化[ふか]してヒナが生[う]まれた。 | Trứng nở ra chim non.
+受粉[じゅふん] | n | THỤ PHẤN | thụ phấn | {受粉}する | thụ phấn | ミツバチが花[はな]の受粉[じゅふん]を助[たす]ける。 | Ong mật giúp hoa thụ phấn.

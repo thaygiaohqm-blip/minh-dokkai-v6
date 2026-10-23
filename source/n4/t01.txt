@@ -1,0 +1,108 @@
+@topic t01
+@ja 家族[かぞく]・人間関係[にんげんかんけい]
+@vi Gia đình và các mối quan hệ
+@desc Họ hàng, các thế hệ trong nhà, đồng nghiệp, bạn bè và những việc làm gắn kết hay làm rạn nứt quan hệ.
+祖父[そふ] | n | TỔ PHỤ | ông (của mình) | - | - | 祖父[そふ]は毎朝[まいあさ]畑[はたけ]に行[い]きます。 | Sáng nào ông tôi cũng ra đồng.
+祖母[そぼ] | n | TỔ MẪU | bà (của mình) | - | - | 祖母[そぼ]の料理[りょうり]が一番[いちばん]好[す]きです。 | Tôi thích nhất món bà nấu.
+孫[まご] | n | TÔN | cháu (nội, ngoại) | 孫[まご] が 生[う]まれる | có cháu | 先月[せんげつ]、初[はじ]めての孫[まご]が生[う]まれました。 | Tháng trước đứa cháu đầu tiên đã chào đời.
+息子[むすこ] | n | TỨC TỬ | con trai (mình) | - | - | 息子[むすこ]は今年[ことし]小学校[しょうがっこう]に入[はい]りました。 | Con trai tôi năm nay vào tiểu học.
+娘[むすめ] | n | NƯƠNG | con gái (mình) | - | - | 娘[むすめ]はピアノが得意[とくい]です。 | Con gái tôi giỏi piano.
+親[おや] | n | THÂN | bố mẹ | 親[おや] に 反対[はんたい] される | bị bố mẹ phản đối | 留学[りゅうがく]を親[おや]に反対[はんたい]されました。 | Việc du học của tôi bị bố mẹ phản đối.
+親戚[しんせき] | n | THÂN THÍCH | họ hàng | 親戚[しんせき] が 集[あつ]まる | họ hàng tụ họp | お正月[しょうがつ]には親戚[しんせき]が集[あつ]まります。 | Tết thì họ hàng tụ họp.
+いとこ | n | - | anh chị em họ | - | - | いとこと同[おな]じ大学[だいがく]に通[かよ]っています。 | Tôi học cùng trường đại học với anh họ.
+赤[あか]ちゃん | n | XÍCH | em bé | 赤[あか]ちゃん を 抱[だ]く | bế em bé | 姉[あね]の赤[あか]ちゃんを抱[だ]かせてもらいました。 | Tôi được bế em bé của chị gái.
+長男[ちょうなん] | n | TRƯỞNG NAM | con trai cả | - | - | 彼[かれ]は長男[ちょうなん]なので、家[いえ]を継[つ]ぎます。 | Anh ấy là con trai cả nên sẽ nối nghiệp nhà.
+長女[ちょうじょ] | n | TRƯỞNG NỮ | con gái cả | - | - | 長女[ちょうじょ]はもう高校生[こうこうせい]です。 | Con gái cả của tôi đã là học sinh cấp ba.
+夫婦[ふうふ] | n | PHU PHỤ | vợ chồng | {夫婦[ふうふ]} 喧嘩[げんか] | cãi nhau vợ chồng | 夫婦[ふうふ]喧嘩[げんか]は犬[いぬ]も食[く]わない。 | Chuyện vợ chồng cãi nhau người ngoài đừng xen vào.
+家内[かない] | n | GIA NỘI | vợ tôi (khiêm nhường) | - | - | 家内[かない]は今[いま]、出[で]かけております。 | Vợ tôi hiện đang ra ngoài ạ.
+恋人[こいびと] | n | LUYẾN NHÂN | người yêu | - | - | 恋人[こいびと]と海[うみ]へドライブに行[い]きました。 | Tôi đi lái xe ra biển với người yêu.
+彼氏[かれし] | n | BỈ THỊ | bạn trai | 彼氏[かれし] が できる | có bạn trai | 妹[いもうと]に彼氏[かれし]ができたそうです。 | Nghe nói em gái tôi đã có bạn trai.
+友人[ゆうじん] | n | HỮU NHÂN | bạn (trang trọng) | - | - | 大学[だいがく]時代[じだい]の友人[ゆうじん]と久[ひさ]しぶりに会[あ]いました。 | Lâu lắm rồi tôi mới gặp lại bạn thời đại học.
+仲間[なかま] | n | TRỌNG GIAN | đồng đội, bạn bè | 仲間[なかま] に 入[はい]る | gia nhập nhóm | サッカーチームの仲間[なかま]に入[はい]りました。 | Tôi đã gia nhập đội bóng.
+知[し]り合[あ]い | n | TRI HỢP | người quen | - | - | 知[し]り合[あ]いに紹介[しょうかい]してもらった店[みせ]です。 | Đây là quán người quen giới thiệu cho tôi.
+相手[あいて] | n | TƯƠNG THỦ | đối phương, người kia | 相手[あいて] の 気持[きも]ち | cảm xúc của người khác | 相手[あいて]の気持[きも]ちを考[かんが]えて話[はな]しましょう。 | Hãy nói chuyện có nghĩ đến cảm xúc của người khác.
+先輩[せんぱい] | n | TIÊN BỐI | đàn anh, tiền bối | - | - | 会社[かいしゃ]の先輩[せんぱい]に色々[いろいろ]教[おし]えてもらいました。 | Tôi được đàn anh ở công ty chỉ dạy nhiều điều.
+後輩[こうはい] | n | HẬU BỐI | đàn em, hậu bối | 後輩[こうはい] の 面倒[めんどう] を 見[み]る | chăm lo cho đàn em | 彼[かれ]はよく後輩[こうはい]の面倒[めんどう]を見[み]ます。 | Anh ấy hay chăm lo cho đàn em.
+同僚[どうりょう] | n | ĐỒNG LIÊU | đồng nghiệp | - | - | 同僚[どうりょう]と仕事[しごと]の後[あと]に飲[の]みに行[い]きました。 | Tôi đi nhậu với đồng nghiệp sau giờ làm.
+上司[じょうし] | n | THƯỢNG TY | cấp trên | 上司[じょうし] に 相談[そうだん] する | xin ý kiến cấp trên | 困[こま]ったことがあったら、上司[じょうし]に相談[そうだん]してください。 | Có gì khó khăn thì hãy xin ý kiến cấp trên.
+部下[ぶか] | n | BỘ HẠ | cấp dưới | - | - | 部長[ぶちょう]は部下[ぶか]にとても優[やさ]しいです。 | Trưởng phòng rất tử tế với cấp dưới.
+年上[としうえ] | n | NIÊN THƯỢNG | lớn tuổi hơn | - | - | 彼女[かのじょ]は私[わたし]より三[みっ]つ年上[としうえ]です。 | Cô ấy hơn tôi ba tuổi.
+年下[としした] | n | NIÊN HẠ | nhỏ tuổi hơn | - | - | 年下[としした]の人[ひと]にも丁寧[ていねい]に話[はな]します。 | Tôi nói chuyện lịch sự cả với người nhỏ tuổi hơn.
+関係[かんけい] | n | QUAN HỆ | quan hệ; liên quan | 関係[かんけい] が ない | không liên quan | それは私[わたし]とは関係[かんけい]がありません。 | Chuyện đó không liên quan đến tôi.
+人間関係[にんげんかんけい] | n | NHÂN GIAN QUAN HỆ | quan hệ giữa người với người | 人間関係[にんげんかんけい] に 悩[なや]む | phiền não vì quan hệ con người | 職場[しょくば]の人間関係[にんげんかんけい]に悩[なや]んでいます。 | Tôi đang phiền lòng vì các mối quan hệ ở chỗ làm.
+仲[なか] | n | TRỌNG | mối quan hệ, tình cảm | 仲[なか] が いい | thân thiết | 私[わたし]たち兄弟[きょうだい]はとても仲[なか]がいいです。 | Anh em chúng tôi rất thân nhau.
+お互[たが]い | n | HỖ | lẫn nhau | お互[たが]い に 助[たす]け合[あ]う | giúp đỡ lẫn nhau | 困[こま]った時[とき]はお互[たが]いに助[たす]け合[あ]いましょう。 | Lúc khó khăn hãy giúp đỡ lẫn nhau.
+付[つ]き合[あ]う | v1 | PHÓ HỢP | hẹn hò; giao du | 彼女[かのじょ] と 付[つ]き合[あ]う | hẹn hò với cô ấy | 二人[ふたり]は三[さん]年[ねん]付[つ]き合[あ]っています。 | Hai người đã hẹn hò ba năm.
+別[わか]れる | v2 | BIỆT | chia tay | 恋人[こいびと] と 別[わか]れる | chia tay người yêu | 先月[せんげつ]、恋人[こいびと]と別[わか]れました。 | Tháng trước tôi đã chia tay người yêu.
+喧嘩[けんか] | n,v3 | HUYÊN HOA | cãi nhau, đánh nhau | 兄弟[きょうだい] {喧嘩[げんか]} | anh em cãi nhau | 子供[こども]のころはよく兄弟[きょうだい]喧嘩[げんか]をしました。 | Hồi nhỏ anh em tôi hay cãi nhau.
+仲直[なかなお]り | n,v3 | TRỌNG TRỰC | làm lành | すぐ {仲直[なかなお]り} する | làm lành ngay | 喧嘩[けんか]しても、すぐ仲直[なかなお]りします。 | Dù có cãi nhau thì cũng làm lành ngay.
+世話[せわ] | n,v3 | THẾ THOẠI | chăm sóc; giúp đỡ | 世話[せわ] に なる | được giúp đỡ, chiếu cố | 日本[にほん]では色々[いろいろ]な人[ひと]にお世話[せわ]になりました。 | Ở Nhật tôi đã được nhiều người giúp đỡ.
+育[そだ]てる | v2 | DỤC | nuôi nấng | 子供[こども] を 育[そだ]てる | nuôi con | 母[はは]は一人[ひとり]で三人[さんにん]の子供[こども]を育[そだ]てました。 | Mẹ tôi một mình nuôi ba đứa con.
+育[そだ]つ | v1 | DỤC | lớn lên | 田舎[いなか] で 育[そだ]つ | lớn lên ở quê | 私[わたし]は海[うみ]の近[ちか]くの田舎[いなか]で育[そだ]ちました。 | Tôi lớn lên ở vùng quê gần biển.
+叱[しか]る | v1 | SẤT | mắng, la | 子供[こども] を 叱[しか]る | mắng con | いたずらをした子供[こども]を叱[しか]りました。 | Tôi đã mắng đứa trẻ nghịch ngợm.
+褒[ほ]める | v2 | BAO | khen | 先生[せんせい] に 褒[ほ]められる | được thầy khen | 作文[さくぶん]を先生[せんせい]に褒[ほ]められました。 | Bài văn của tôi được thầy khen.
+謝[あやま]る | v1 | TẠ | xin lỗi | 素直[すなお] に 謝[あやま]る | thành thật xin lỗi | 悪[わる]いと思[おも]ったら、素直[すなお]に謝[あやま]りましょう。 | Thấy mình sai thì hãy thành thật xin lỗi.
+許[ゆる]す | v1 | HỨA | tha thứ; cho phép | - | - | 今回[こんかい]だけは許[ゆる]してあげます。 | Lần này thôi tôi sẽ tha cho.
+信[しん]じる | v2 | TÍN | tin tưởng | 人[ひと] を 信[しん]じる | tin người | 私[わたし]はあなたを信[しん]じています。 | Tôi tin bạn.
+助[たす]ける | v2 | TRỢ | giúp đỡ, cứu | 困[こま]って いる 人[ひと] を 助[たす]ける | giúp người gặp khó | 困[こま]っている人[ひと]を助[たす]けるのは当然[とうぜん]です。 | Giúp người gặp khó là điều đương nhiên.
+尊敬[そんけい] | n,v3 | TÔN KÍNH | tôn trọng, kính trọng | - | - | 私[わたし]は父[ちち]を一番[いちばん]尊敬[そんけい]しています。 | Người tôi kính trọng nhất là bố.
+感謝[かんしゃ] | n,v3 | CẢM TẠ | biết ơn | 心[こころ] から {感謝[かんしゃ]} する | biết ơn từ tận đáy lòng | 皆様[みなさま]のご協力[きょうりょく]に心[こころ]から感謝[かんしゃ]します。 | Tôi chân thành cảm ơn sự hợp tác của mọi người.
+紹介[しょうかい] | n,v3 | THIỆU GIỚI | giới thiệu | 友達[ともだち] を {紹介[しょうかい]} する | giới thiệu bạn | 両親[りょうしん]に彼女[かのじょ]を紹介[しょうかい]しました。 | Tôi đã giới thiệu bạn gái với bố mẹ.
+相談[そうだん] | n,v3 | TƯƠNG ĐÀM | bàn bạc, xin ý kiến | 相談[そうだん] に 乗[の]る | lắng nghe tư vấn cho ai | 先輩[せんぱい]はいつも相談[そうだん]に乗[の]ってくれます。 | Đàn anh lúc nào cũng lắng nghe và cho tôi lời khuyên.
+招待[しょうたい] | n,v3 | CHIÊU ĐÃI | mời | 結婚式[けっこんしき] に {招待[しょうたい]} する | mời dự đám cưới | 友達[ともだち]の結婚式[けっこんしき]に招待[しょうたい]されました。 | Tôi được mời dự đám cưới của bạn.
+挨拶[あいさつ] | n,v3 | AI TẠT | chào hỏi | 挨拶[あいさつ] を 交[か]わす | chào nhau | 近所[きんじょ]の人[ひと]と毎朝[まいあさ]挨拶[あいさつ]を交[か]わします。 | Sáng nào tôi cũng chào hỏi hàng xóm.
+お礼[れい] | n | LỄ | lời cảm ơn; quà cảm ơn | お礼[れい] を 言[い]う | nói lời cảm ơn | 助[たす]けてもらったお礼[れい]を言[い]いに行[い]きました。 | Tôi đến để cảm ơn vì đã được giúp đỡ.
+お祝[いわ]い | n | CHÚC | lời chúc mừng; quà mừng | 結婚[けっこん] の お祝[いわ]い | quà mừng cưới | 結婚[けっこん]のお祝[いわ]いに食器[しょっき]を贈[おく]りました。 | Tôi tặng bộ bát đĩa làm quà mừng cưới.
+祝[いわ]う | v1 | CHÚC | chúc mừng | 誕生日[たんじょうび] を 祝[いわ]う | mừng sinh nhật | 家族[かぞく]みんなで祖母[そぼ]の誕生日[たんじょうび]を祝[いわ]いました。 | Cả nhà cùng mừng sinh nhật bà.
+結婚式[けっこんしき] | n | KẾT HÔN THỨC | đám cưới | 結婚式[けっこんしき] を 挙[あ]げる | tổ chức đám cưới | 二人[ふたり]は来年[らいねん]の春[はる]に結婚式[けっこんしき]を挙[あ]げます。 | Hai người sẽ làm đám cưới vào mùa xuân năm sau.
+葬式[そうしき] | n | TÁNG THỨC | đám tang | 葬式[そうしき] に 出[で]る | dự đám tang | 祖父[そふ]の葬式[そうしき]に出[で]るため、国[くに]へ帰[かえ]りました。 | Tôi về nước để dự đám tang ông.
+離婚[りこん] | n,v3 | LY HÔN | ly hôn | - | - | 両親[りょうしん]は私[わたし]が子供[こども]のころに離婚[りこん]しました。 | Bố mẹ tôi ly hôn khi tôi còn nhỏ.
+誕生[たんじょう] | n,v3 | ĐẢN SINH | ra đời | - | - | 新[あたら]しい命[いのち]の誕生[たんじょう]を家族[かぞく]で喜[よろこ]びました。 | Cả nhà vui mừng đón sinh linh mới chào đời.
+一生[いっしょう] | n,adv | NHẤT SINH | cả đời | 一生[いっしょう] 忘[わす]れない | cả đời không quên | あなたの親切[しんせつ]は一生[いっしょう]忘[わす]れません。 | Lòng tốt của bạn tôi sẽ không bao giờ quên.
+人生[じんせい] | n | NHÂN SINH | cuộc đời | - | - | 日本[にほん]に来[き]て、人生[じんせい]が大[おお]きく変[か]わりました。 | Đến Nhật, cuộc đời tôi đã thay đổi rất nhiều.
+将来[しょうらい] | n | TƯƠNG LAI | tương lai | 将来[しょうらい] の 夢[ゆめ] | ước mơ tương lai | 将来[しょうらい]の夢[ゆめ]は通訳[つうやく]になることです。 | Ước mơ tương lai của tôi là làm phiên dịch.
+昔[むかし] | n | TÍCH | ngày xưa | - | - | この町[まち]は昔[むかし]、漁村[ぎょそん]でした。 | Ngày xưa thị trấn này là làng chài.
+思[おも]い出[で] | n | TƯ XUẤT | kỷ niệm | 思[おも]い出[で] を 作[つく]る | tạo kỷ niệm | 卒業[そつぎょう]旅行[りょこう]でいい思[おも]い出[で]を作[つく]りましょう。 | Hãy tạo những kỷ niệm đẹp trong chuyến du lịch tốt nghiệp.
+思[おも]い出[だ]す | v1 | TƯ XUẤT | nhớ ra, hồi tưởng | 名前[なまえ] を 思[おも]い出[だ]す | nhớ ra tên | あの人[ひと]の名前[なまえ]がどうしても思[おも]い出[だ]せません。 | Tôi không thể nào nhớ ra tên người đó.
+連[つ]れる | v2 | LIÊN | dẫn theo | 子供[こども] を 連[つ]れて いく | dẫn con đi | 日曜日[にちようび]に子供[こども]を動物園[どうぶつえん]に連[つ]れていきました。 | Chủ nhật tôi dẫn con đi sở thú.
+訪[たず]ねる | v2 | PHỎNG | thăm, ghé thăm | 友人[ゆうじん] を 訪[たず]ねる | đến thăm bạn | 大阪[おおさか]に住[す]んでいる友人[ゆうじん]を訪[たず]ねました。 | Tôi đã đến thăm người bạn sống ở Osaka.
+寄[よ]る | v1 | KÝ | ghé qua | 帰[かえ]り に 寄[よ]る | ghé qua trên đường về | 帰[かえ]りにスーパーに寄[よ]ります。 | Trên đường về tôi ghé siêu thị.
+迎[むか]える | v2 | NGHÊNH | đón | 客[きゃく] を 迎[むか]える | đón khách | 笑顔[えがお]でお客[きゃく]さんを迎[むか]えましょう。 | Hãy đón khách bằng nụ cười.
+見送[みおく]る | v1 | KIẾN TỐNG | tiễn | 空港[くうこう] で 見送[みおく]る | tiễn ở sân bay | 家族[かぞく]が空港[くうこう]で見送[みおく]ってくれました。 | Gia đình đã tiễn tôi ở sân bay.
+贈[おく]る | v1 | TẶNG | tặng | 花[はな] を 贈[おく]る | tặng hoa | 母[はは]の日[ひ]にカーネーションを贈[おく]りました。 | Tôi tặng hoa cẩm chướng vào Ngày của Mẹ.
+差[さ]し上[あ]げる | v2 | SAI THƯỢNG | biếu, tặng (khiêm nhường) | - | - | 先生[せんせい]にお土産[みやげ]を差[さ]し上[あ]げました。 | Tôi đã biếu thầy món quà.
+いただく | v1 | - | nhận (khiêm nhường) | - | - | 社長[しゃちょう]から本[ほん]をいただきました。 | Tôi được giám đốc tặng sách.
+くださる | v1 | - | (người trên) cho | - | - | 先生[せんせい]が辞書[じしょ]をくださいました。 | Thầy đã cho tôi quyển từ điển.
+やる | v1 | - | cho (người dưới, cây, vật); làm | 花[はな] に 水[みず] を やる | tưới nước cho hoa | 毎朝[まいあさ]、庭[にわ]の花[はな]に水[みず]をやります。 | Sáng nào tôi cũng tưới hoa trong vườn.
+破[やぶ]る | v1 | PHÁ | xé rách; phá vỡ (lời hứa, quy tắc) | 約束[やくそく] を 破[やぶ]る | thất hứa | 約束[やくそく]を破[やぶ]るのはよくないです。 | Thất hứa là không tốt.
+裏切[うらぎ]る | v1 | LÝ THIẾT | phản bội | 信頼[しんらい] を 裏切[うらぎ]る | phụ lòng tin | 彼[かれ]の信頼[しんらい]を裏切[うらぎ]りたくないです。 | Tôi không muốn phụ lòng tin của anh ấy.
+頼[たよ]る | v1 | LẠI | dựa dẫm, nhờ cậy | 親[おや] に 頼[たよ]る | dựa vào bố mẹ | いつまでも親[おや]に頼[たよ]ってはいけません。 | Không thể mãi dựa vào bố mẹ được.
+甘[あま]える | v2 | CAM | nũng nịu; dựa vào lòng tốt | 好意[こうい] に 甘[あま]える | nhận lòng tốt của ai | お言葉[ことば]に甘[あま]えて、お先[さき]に失礼[しつれい]します。 | Xin phép nhận lời anh, tôi về trước ạ.
+迷惑[めいわく] | n,adj-na | MÊ HOẶC | phiền hà | 迷惑[めいわく] を かける | gây phiền | 周[まわ]りの人[ひと]に迷惑[めいわく]をかけないようにしましょう。 | Hãy cố đừng gây phiền cho người xung quanh.
+遠慮[えんりょ] | n,v3 | VIỄN LỰ | ngại, khách sáo | {遠慮[えんりょ]} なく | đừng ngại | 遠慮[えんりょ]なく食[た]べてください。 | Cứ tự nhiên ăn đi nhé.
+気[き]を遣[つか]う | exp | KHÍ KHIỂN | để ý, chu đáo với người khác | - | - | 彼女[かのじょ]はいつも周[まわ]りに気[き]を遣[つか]っています。 | Cô ấy luôn chu đáo với người xung quanh.
+気[き]が合[あ]う | exp | KHÍ HỢP | hợp tính | - | - | 彼[かれ]とは初[はじ]めて会[あ]った時[とき]から気[き]が合[あ]いました。 | Tôi hợp tính với anh ấy ngay từ lần đầu gặp.
+話[はな]し合[あ]う | v1 | THOẠI HỢP | trao đổi, bàn bạc | よく 話[はな]し合[あ]う | bàn bạc kỹ | 問題[もんだい]があれば、家族[かぞく]でよく話[はな]し合[あ]います。 | Có vấn đề gì thì cả nhà bàn bạc kỹ với nhau.
+言[い]い合[あ]う | v1 | NGÔN HỢP | cãi qua lại | - | - | 小[ちい]さなことで妻[つま]と言[い]い合[あ]いになりました。 | Vì chuyện nhỏ mà tôi với vợ cãi nhau.
+冗談[じょうだん] | n | NHŨNG ĐÀM | lời nói đùa | 冗談[じょうだん] を 言[い]う | nói đùa | 彼[かれ]はいつも冗談[じょうだん]を言[い]って皆[みな]を笑[わら]わせます。 | Anh ấy luôn nói đùa làm mọi người cười.
+噂[うわさ] | n | ĐỒN | tin đồn | 噂[うわさ] が 広[ひろ]がる | tin đồn lan ra | 変[へん]な噂[うわさ]がすぐに広[ひろ]がりました。 | Tin đồn lạ đã lan ra rất nhanh.
+秘密[ひみつ] | n | BÍ MẬT | bí mật | 秘密[ひみつ] を 守[まも]る | giữ bí mật | この話[はなし]は秘密[ひみつ]を守[まも]ってください。 | Chuyện này xin hãy giữ bí mật.
+嘘[うそ] | n | HƯ | lời nói dối | 嘘[うそ] を つく | nói dối | 子供[こども]に嘘[うそ]をついてはいけません。 | Không được nói dối trẻ con.
+本音[ほんね] | n | BẢN ÂM | lời thật lòng | 本音[ほんね] を 言[い]う | nói thật lòng | 友達[ともだち]には本音[ほんね]を言[い]えます。 | Với bạn bè thì tôi có thể nói thật lòng.
+味方[みかた] | n | VỊ PHƯƠNG | đồng minh, phe mình | - | - | 母[はは]はいつも私[わたし]の味方[みかた]です。 | Mẹ lúc nào cũng đứng về phía tôi.
+独身[どくしん] | n | ĐỘC THÂN | độc thân | - | - | 兄[あに]は三十五[さんじゅうご]歳[さい]ですが、まだ独身[どくしん]です。 | Anh tôi 35 tuổi nhưng vẫn độc thân.
+同[おな]い年[どし] | n | ĐỒNG NIÊN | bằng tuổi | - | - | 彼[かれ]とは同[おな]い年[どし]なので、話[はなし]が合[あ]います。 | Tôi với anh ấy bằng tuổi nên nói chuyện hợp.
+年齢[ねんれい] | n | NIÊN LINH | tuổi tác | - | - | 応募[おうぼ]に年齢[ねんれい]の制限[せいげん]はありません。 | Không giới hạn độ tuổi khi ứng tuyển.
+男性[だんせい] | n | NAM TÍNH | nam giới | - | - | この会社[かいしゃ]は男性[だんせい]の社員[しゃいん]が多[おお]いです。 | Công ty này có nhiều nhân viên nam.
+女性[じょせい] | n | NỮ TÍNH | nữ giới | - | - | 女性[じょせい]が働[はたら]きやすい職場[しょくば]を作[つく]りたいです。 | Tôi muốn tạo ra nơi làm việc thuận lợi cho phụ nữ.
+お嬢[じょう]さん | n | NƯƠNG | con gái (người khác) | - | - | お嬢[じょう]さんはおいくつですか。 | Con gái anh bao nhiêu tuổi rồi?
+息子[むすこ]さん | n | TỨC TỬ | con trai (người khác) | - | - | 息子[むすこ]さんは大学生[だいがくせい]ですか。 | Con trai chị là sinh viên à?
+ご主人[しゅじん] | n | CHỦ NHÂN | chồng (người khác) | - | - | ご主人[しゅじん]はどちらにお勤[つと]めですか。 | Chồng chị làm việc ở đâu ạ?
+お子[こ]さん | n | TỬ | con (người khác) | - | - | お子[こ]さんは何人[なんにん]いらっしゃいますか。 | Anh chị có mấy cháu ạ?
+ペット | n | - | thú cưng | - | - | うちのペットは小[ちい]さな犬[いぬ]です。 | Thú cưng nhà tôi là một chú chó nhỏ.
+一人暮[ひとりぐ]らし | n | NHẤT NHÂN MỘ | sống một mình | 一人暮[ひとりぐ]らし を 始[はじ]める | bắt đầu sống một mình | 大学[だいがく]に入[はい]って一人暮[ひとりぐ]らしを始[はじ]めました。 | Vào đại học tôi bắt đầu sống một mình.
+暮[く]らす | v1 | MỘ | sinh sống | 幸[しあわ]せ に 暮[く]らす | sống hạnh phúc | 家族[かぞく]と幸[しあわ]せに暮[く]らしています。 | Tôi đang sống hạnh phúc cùng gia đình.
+幸[しあわ]せ | adj-na,n | HẠNH | hạnh phúc | 幸[しあわ]せ な 家庭[かてい] | gia đình hạnh phúc | 幸[しあわ]せな家庭[かてい]を作[つく]りたいです。 | Tôi muốn xây dựng một gia đình hạnh phúc.
+家庭[かてい] | n | GIA ĐÌNH | gia đình, tổ ấm | 家庭[かてい] を 持[も]つ | lập gia đình | 彼[かれ]は若[わか]くして家庭[かてい]を持[も]ちました。 | Anh ấy lập gia đình khi còn trẻ.
+出会[であ]う | v1 | XUẤT HỘI | tình cờ gặp | 運命[うんめい] の 人[ひと] に 出会[であ]う | gặp người định mệnh | 大学[だいがく]で運命[うんめい]の人[ひと]に出会[であ]いました。 | Tôi gặp người định mệnh ở đại học.
+出会[であ]い | n | XUẤT HỘI | cuộc gặp gỡ | - | - | 日本[にほん]での出会[であ]いを大切[たいせつ]にしたいです。 | Tôi muốn trân trọng những cuộc gặp gỡ ở Nhật.

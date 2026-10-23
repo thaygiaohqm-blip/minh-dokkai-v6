@@ -1,0 +1,97 @@
+@topic t09
+@ja 趣味[しゅみ]・スポーツ
+@vi Sở thích và thể thao
+@desc Thi đấu, các môn thể thao, âm nhạc, phim ảnh, truyện tranh, nghệ thuật truyền thống và những hoạt động giải trí.
+試合[しあい] | n | THÍ HỢP | trận đấu | 試合[しあい] に 出[で]る | ra sân thi đấu | 来週[らいしゅう]、初[はじ]めて試合[しあい]に出[で]ます。 | Tuần sau lần đầu tiên tôi ra sân thi đấu.
+選手[せんしゅ] | n | TUYỂN THỦ | vận động viên, cầu thủ | - | - | 彼[かれ]は有名[ゆうめい]なサッカー選手[せんしゅ]です。 | Anh ấy là cầu thủ bóng đá nổi tiếng.
+チーム | n | - | đội | チーム を 組[く]む | lập đội | 会社[かいしゃ]の仲間[なかま]とチームを組[く]みました。 | Tôi lập đội với đồng nghiệp ở công ty.
+勝[か]つ | v1 | THẮNG | thắng | 試合[しあい] に 勝[か]つ | thắng trận | 最後[さいご]の一点[いってん]で試合[しあい]に勝[か]ちました。 | Chúng tôi thắng trận nhờ điểm cuối cùng.
+負[ま]ける | v2 | PHỤ | thua | 一点[いってん] 差[さ] で 負[ま]ける | thua sát nút một điểm | 残念[ざんねん]ながら一点[いってん]差[さ]で負[ま]けました。 | Đáng tiếc là chúng tôi thua một điểm.
+優勝[ゆうしょう] | n,v3 | ƯU THẮNG | vô địch | 大会[たいかい] で {優勝[ゆうしょう]} する | vô địch giải đấu | 高校[こうこう]の時[とき]、全国[ぜんこく]大会[たいかい]で優勝[ゆうしょう]しました。 | Hồi cấp ba tôi vô địch giải toàn quốc.
+大会[たいかい] | n | ĐẠI HỘI | giải đấu, đại hội | - | - | 市[し]のマラソン大会[たいかい]に出[で]ました。 | Tôi đã tham gia giải marathon của thành phố.
+決勝[けっしょう] | n | QUYẾT THẮNG | trận chung kết | 決勝[けっしょう] に 進[すす]む | vào chung kết | 私[わたし]たちのチームは決勝[けっしょう]に進[すす]みました。 | Đội chúng tôi đã vào chung kết.
+引[ひ]き分[わ]け | n | DẪN PHÂN | hòa | - | - | 試合[しあい]は一対一[いったいいち]の引[ひ]き分[わ]けでした。 | Trận đấu hòa một đều.
+応援[おうえん] | n,v3 | ỨNG VIỆN | cổ vũ | チーム を {応援[おうえん]} する | cổ vũ đội | スタジアムで日本[にほん]チームを応援[おうえん]しました。 | Tôi đã cổ vũ đội Nhật ở sân vận động.
+審判[しんぱん] | n | THẨM PHÁN | trọng tài | - | - | 審判[しんぱん]の判断[はんだん]に従[したが]います。 | Chúng tôi tuân theo quyết định của trọng tài.
+ルール | n | - | luật lệ | ルール を 守[まも]る | tuân thủ luật | スポーツはルールを守[まも]って楽[たの]しみましょう。 | Hãy tuân thủ luật và tận hưởng thể thao.
+記録[きろく] | n,v3 | KÝ LỤC | kỷ lục; ghi chép | 記録[きろく] を 破[やぶ]る | phá kỷ lục | 彼女[かのじょ]は日本[にほん]記録[きろく]を破[やぶ]りました。 | Cô ấy đã phá kỷ lục Nhật Bản.
+水泳[すいえい] | n | THỦY VỊNH | bơi lội | - | - | 健康[けんこう]のために水泳[すいえい]を始[はじ]めました。 | Tôi bắt đầu bơi vì sức khỏe.
+柔道[じゅうどう] | n | NHU ĐẠO | judo | - | - | 柔道[じゅうどう]は日本[にほん]で生[う]まれたスポーツです。 | Judo là môn thể thao ra đời ở Nhật.
+空手[からて] | n | KHÔNG THỦ | karate | - | - | 息子[むすこ]は空手[からて]を習[なら]っています。 | Con trai tôi đang học karate.
+相撲[すもう] | n | TƯƠNG PHÁC | sumo | 相撲[すもう] を 見[み]る | xem sumo | 東京[とうきょう]で初[はじ]めて相撲[すもう]を見[み]ました。 | Lần đầu tiên tôi xem sumo ở Tokyo.
+マラソン | n | - | chạy marathon | - | - | 来年[らいねん]はフルマラソンに挑戦[ちょうせん]します。 | Năm sau tôi sẽ thử sức chạy marathon toàn phần.
+ジョギング | n,v3 | - | chạy bộ | - | - | 毎朝[まいあさ]、川[かわ]沿[ぞ]いをジョギングしています。 | Sáng nào tôi cũng chạy bộ dọc bờ sông.
+ゴルフ | n | - | gôn | - | - | 部長[ぶちょう]は週末[しゅうまつ]によくゴルフをします。 | Trưởng phòng cuối tuần hay chơi gôn.
+スキー | n | - | trượt tuyết | - | - | 冬[ふゆ]に長野[ながの]へスキーに行[い]きました。 | Mùa đông tôi đi trượt tuyết ở Nagano.
+釣[つ]り | n | ĐIẾU | câu cá | 釣[つ]り に 行[い]く | đi câu cá | 父[ちち]と海[うみ]へ釣[つ]りに行[い]きました。 | Tôi đi câu cá biển với bố.
+釣[つ]る | v1 | ĐIẾU | câu (cá) | 魚[さかな] を 釣[つ]る | câu cá | 大[おお]きな魚[さかな]を釣[つ]りました。 | Tôi đã câu được một con cá to.
+登山[とざん] | n,v3 | ĐĂNG SƠN | leo núi | - | - | 秋[あき]は登山[とざん]にいい季節[きせつ]です。 | Mùa thu là mùa thích hợp để leo núi.
+キャンプ | n,v3 | - | cắm trại | - | - | 夏休[なつやす]みに家族[かぞく]でキャンプをしました。 | Hè cả nhà tôi đi cắm trại.
+ハイキング | n | - | đi bộ dã ngoại | - | - | 天気[てんき]がいいので、山[やま]へハイキングに行[い]きましょう。 | Trời đẹp, mình đi dã ngoại lên núi nhé.
+ジム | n | - | phòng tập | ジム に 通[かよ]う | đi tập gym | 仕事[しごと]の後[あと]、ジムに通[かよ]っています。 | Sau giờ làm tôi đi tập gym.
+鍛[きた]える | v2 | ĐOÀN | rèn luyện | 体[からだ] を 鍛[きた]える | rèn luyện cơ thể | 毎日[まいにち]走[はし]って体[からだ]を鍛[きた]えています。 | Ngày nào tôi cũng chạy để rèn luyện cơ thể.
+体力[たいりょく] | n | THỂ LỰC | thể lực | 体力[たいりょく] が つく | tăng thể lực | 水泳[すいえい]を始[はじ]めてから体力[たいりょく]がつきました。 | Từ khi bơi tôi khỏe lên.
+筋肉[きんにく] | n | CÂN NHỤC | cơ bắp | - | - | 運動[うんどう]しないと筋肉[きんにく]が落[お]ちます。 | Không vận động thì cơ bắp sẽ teo.
+準備運動[じゅんびうんどう] | n | CHUẨN BỊ VẬN ĐỘNG | khởi động | - | - | 泳[およ]ぐ前[まえ]に準備運動[じゅんびうんどう]をしましょう。 | Trước khi bơi hãy khởi động.
+ボール | n | - | quả bóng | ボール を 投[な]げる | ném bóng | 子供[こども]とボールを投[な]げて遊[あそ]びました。 | Tôi chơi ném bóng với con.
+投[な]げる | v2 | ĐẦU | ném | - | - | ごみを道[みち]に投[な]げないでください。 | Đừng ném rác ra đường.
+打[う]つ | v1 | ĐẢ | đánh, đập | ボール を 打[う]つ | đánh bóng | 彼[かれ]は遠[とお]くまでボールを打[う]ちました。 | Anh ấy đánh quả bóng đi rất xa.
+蹴[け]る | v1 | XÚC | đá | ボール を 蹴[け]る | sút bóng | 思[おも]い切[き]りボールを蹴[け]りました。 | Tôi dồn hết sức sút quả bóng.
+飛[と]ぶ | v1 | PHI | bay | 鳥[とり] が 飛[と]ぶ | chim bay | 空[そら]を鳥[とり]が飛[と]んでいます。 | Chim đang bay trên trời.
+跳[と]ぶ | v1 | KHIÊU | nhảy (bật lên) | - | - | 子供[こども]たちが縄跳[なわと]びで跳[と]んでいます。 | Bọn trẻ đang nhảy dây.
+コンサート | n | - | buổi hòa nhạc | コンサート に 行[い]く | đi xem hòa nhạc | 好[す]きな歌手[かしゅ]のコンサートに行[い]きました。 | Tôi đi xem hòa nhạc của ca sĩ mình thích.
+歌手[かしゅ] | n | CA THỦ | ca sĩ | - | - | 将来[しょうらい]は歌手[かしゅ]になりたいです。 | Sau này tôi muốn trở thành ca sĩ.
+楽器[がっき] | n | NHẠC KHÍ | nhạc cụ | 楽器[がっき] を 弾[ひ]く | chơi nhạc cụ | 何[なに]か楽器[がっき]を弾[ひ]けますか。 | Bạn có chơi được nhạc cụ nào không?
+演奏[えんそう] | n,v3 | DIỄN TẤU | biểu diễn (nhạc) | - | - | 彼[かれ]のピアノの演奏[えんそう]に感動[かんどう]しました。 | Tôi xúc động trước màn trình diễn piano của anh ấy.
+バンド | n | - | ban nhạc | バンド を 組[く]む | lập ban nhạc | 大学[だいがく]で友達[ともだち]とバンドを組[く]みました。 | Ở đại học tôi lập ban nhạc với bạn.
+ドラマ | n | - | phim truyền hình | - | - | 毎週[まいしゅう]この日本[にほん]のドラマを見[み]ています。 | Tuần nào tôi cũng xem bộ phim Nhật này.
+アニメ | n | - | phim hoạt hình | - | - | 日本[にほん]のアニメで日本語[にほんご]を覚[おぼ]えました。 | Tôi học tiếng Nhật qua anime.
+漫画[まんが] | n | MẠN HỌA | truyện tranh | 漫画[まんが] を 読[よ]む | đọc truyện tranh | 電車[でんしゃ]の中[なか]で漫画[まんが]を読[よ]んでいる人[ひと]が多[おお]いです。 | Trên tàu nhiều người đọc truyện tranh.
+小説[しょうせつ] | n | TIỂU THUYẾT | tiểu thuyết | - | - | 寝[ね]る前[まえ]に小説[しょうせつ]を読[よ]みます。 | Trước khi ngủ tôi đọc tiểu thuyết.
+作家[さっか] | n | TÁC GIA | nhà văn | - | - | 好[す]きな作家[さっか]の新[あたら]しい本[ほん]が出[で]ました。 | Nhà văn tôi thích vừa ra sách mới.
+読書[どくしょ] | n,v3 | ĐỘC THƯ | đọc sách | - | - | 私[わたし]の趣味[しゅみ]は読書[どくしょ]です。 | Sở thích của tôi là đọc sách.
+俳優[はいゆう] | n | BÀI ƯU | diễn viên | - | - | あの俳優[はいゆう]は演技[えんぎ]がとても上手[じょうず]です。 | Diễn viên đó diễn xuất rất giỏi.
+番組[ばんぐみ] | n | PHIÊN TỔ | chương trình (TV, radio) | - | - | 好[す]きな番組[ばんぐみ]を録画[ろくが]しました。 | Tôi đã ghi hình chương trình mình thích.
+録画[ろくが] | n,v3 | LỤC HỌA | ghi hình | - | - | 試合[しあい]を録画[ろくが]して、後[あと]で見[み]ます。 | Tôi ghi hình trận đấu rồi xem sau.
+撮影[さつえい] | n,v3 | TOÁT ẢNH | quay chụp | {撮影[さつえい]} 禁止[きんし] | cấm chụp ảnh | 館内[かんない]は撮影[さつえい]禁止[きんし]です。 | Trong bảo tàng cấm chụp ảnh.
+生[い]け花[ばな] | n | SINH HOA | nghệ thuật cắm hoa | - | - | 生[い]け花[ばな]の教室[きょうしつ]に通[かよ]っています。 | Tôi theo học lớp cắm hoa.
+茶道[さどう] | n | TRÀ ĐẠO | trà đạo | - | - | 茶道[さどう]の体験[たいけん]をしました。 | Tôi đã trải nghiệm trà đạo.
+書道[しょどう] | n | THƯ ĐẠO | thư pháp | - | - | 書道[しょどう]で「夢[ゆめ]」という字[じ]を書[か]きました。 | Tôi viết chữ "mộng" bằng thư pháp.
+体験[たいけん] | n,v3 | THỂ NGHIỆM | trải nghiệm | - | - | 田植[たう]えを体験[たいけん]しました。 | Tôi đã trải nghiệm cấy lúa.
+踊[おど]る | v1 | DŨNG | nhảy múa | - | - | 祭[まつ]りで皆[みな]と一緒[いっしょ]に踊[おど]りました。 | Ở lễ hội tôi đã nhảy cùng mọi người.
+踊[おど]り | n | DŨNG | điệu nhảy | - | - | 盆[ぼん]踊[おど]りを習[なら]いました。 | Tôi đã học điệu múa Bon.
+ダンス | n | - | nhảy (khiêu vũ) | - | - | 娘[むすめ]はダンス教室[きょうしつ]に通[かよ]っています。 | Con gái tôi theo học lớp nhảy.
+祭[まつ]り | n | TẾ | lễ hội | 祭[まつ]り に 参加[さんか] する | tham gia lễ hội | 町[まち]の夏祭[なつまつ]りに参加[さんか]しました。 | Tôi tham gia lễ hội mùa hè của thị trấn.
+花火[はなび] | n | HOA HỎA | pháo hoa | 花火[はなび] を 見[み]る | xem pháo hoa | 浴衣[ゆかた]を着[き]て花火[はなび]を見[み]に行[い]きました。 | Tôi mặc yukata đi xem pháo hoa.
+花見[はなみ] | n | HOA KIẾN | ngắm hoa | - | - | 会社[かいしゃ]の皆[みな]で花見[はなみ]をしました。 | Cả công ty cùng đi ngắm hoa.
+楽[たの]しむ | v1 | LẠC | tận hưởng | 旅行[りょこう] を 楽[たの]しむ | tận hưởng chuyến đi | 時間[じかん]を気[き]にしないで旅行[りょこう]を楽[たの]しみました。 | Tôi tận hưởng chuyến đi mà không lo về thời gian.
+楽[たの]しみ | n,adj-na | LẠC | niềm vui; mong chờ | - | - | 週末[しゅうまつ]の旅行[りょこう]がとても楽[たの]しみです。 | Tôi rất mong chờ chuyến đi cuối tuần.
+興味[きょうみ] | n | HỨNG VỊ | hứng thú | 興味[きょうみ] が ある | có hứng thú | 日本[にほん]の歴史[れきし]に興味[きょうみ]があります。 | Tôi có hứng thú với lịch sử Nhật.
+夢中[むちゅう] | adj-na | MỘNG TRUNG | say mê | ゲーム に {夢中[むちゅう]} に なる | mê game | 弟[おとうと]はゲームに夢中[むちゅう]になっています。 | Em trai tôi đang mê game.
+はまる | v1 | - | nghiện, mê mẩn | - | - | 最近[さいきん]、韓国[かんこく]ドラマにはまっています。 | Dạo này tôi mê phim Hàn.
+挑戦[ちょうせん] | n,v3 | KHIÊU CHIẾN | thử thách bản thân | 新[あたら]しい こと に {挑戦[ちょうせん]} する | thử điều mới | 毎年[まいとし]何[なに]か新[あたら]しいことに挑戦[ちょうせん]します。 | Mỗi năm tôi thử thách bản thân với điều gì đó mới.
+うまい | adj-i | - | giỏi; ngon | - | - | 彼[かれ]は絵[え]を描[か]くのがうまいです。 | Anh ấy vẽ giỏi.
+暇[ひま]つぶし | n | HẠ | giết thời gian | - | - | 暇[ひま]つぶしにスマホでゲームをします。 | Tôi chơi game trên điện thoại để giết thời gian.
+カラオケ | n | - | karaoke | - | - | 金曜日[きんようび]は同僚[どうりょう]とカラオケに行[い]きます。 | Thứ Sáu tôi đi karaoke với đồng nghiệp.
+遊園地[ゆうえんち] | n | DU VIÊN ĐỊA | công viên giải trí | - | - | 子供[こども]を遊園地[ゆうえんち]に連[つ]れていきました。 | Tôi dẫn con đi công viên giải trí.
+美術館[びじゅつかん] | n | MỸ THUẬT QUÁN | bảo tàng mỹ thuật | - | - | 美術館[びじゅつかん]で有名[ゆうめい]な絵[え]を見[み]ました。 | Tôi xem bức tranh nổi tiếng ở bảo tàng mỹ thuật.
+博物館[はくぶつかん] | n | BÁC VẬT QUÁN | viện bảo tàng | - | - | 博物館[はくぶつかん]で恐竜[きょうりゅう]の骨[ほね]を見[み]ました。 | Tôi xem xương khủng long ở viện bảo tàng.
+展覧会[てんらんかい] | n | TRIỂN LÃM HỘI | triển lãm | - | - | 友人[ゆうじん]の写真[しゃしん]の展覧会[てんらんかい]に行[い]きました。 | Tôi đi xem triển lãm ảnh của bạn.
+動画[どうが] | n | ĐỘNG HỌA | video | 動画[どうが] を 見[み]る | xem video | 寝[ね]る前[まえ]に動画[どうが]を見[み]るのが好[す]きです。 | Tôi thích xem video trước khi ngủ.
+配信[はいしん] | n,v3 | PHỐI TÍN | phát sóng trực tuyến | - | - | 試合[しあい]はネットで配信[はいしん]されます。 | Trận đấu được phát trực tuyến trên mạng.
+ゲーム機[き] | n | CƠ | máy chơi game | - | - | 誕生日[たんじょうび]に新[あたら]しいゲーム機[き]をもらいました。 | Sinh nhật tôi được tặng máy chơi game mới.
+編[あ]む | v1 | BIÊN | đan | セーター を 編[あ]む | đan áo len | 冬[ふゆ]になると、祖母[そぼ]はセーターを編[あ]みます。 | Cứ đến đông là bà tôi đan áo len.
+手作[てづく]り | n | THỦ TÁC | làm thủ công | {手作[てづく]り} の ケーキ | bánh tự làm | 手作[てづく]りのケーキをプレゼントしました。 | Tôi tặng chiếc bánh tự làm.
+園芸[えんげい] | n | VIÊN NGHỆ | làm vườn | - | - | 定年[ていねん]後[ご]、父[ちち]は園芸[えんげい]を始[はじ]めました。 | Sau khi nghỉ hưu bố tôi bắt đầu làm vườn.
+集[あつ]まり | n | TẬP | buổi họp mặt | - | - | 同窓会[どうそうかい]の集[あつ]まりに行[い]ってきました。 | Tôi vừa đi dự buổi họp lớp.
+仲良[なかよ]く | adv | TRỌNG LƯƠNG | hòa thuận, thân thiết | 仲良[なかよ]く 遊[あそ]ぶ | chơi hòa thuận | 子供[こども]たちは仲良[なかよ]く遊[あそ]んでいます。 | Bọn trẻ đang chơi với nhau hòa thuận.
+のんびり | adv,v3 | - | thong thả, nhàn nhã | のんびり 過[す]ごす | sống thong thả | 休日[きゅうじつ]は温泉[おんせん]でのんびり過[す]ごしました。 | Ngày nghỉ tôi thong thả ở suối nước nóng.
+過[す]ごす | v1 | QUÁ | trải qua (thời gian) | 楽[たの]しい 時間[じかん] を 過[す]ごす | có quãng thời gian vui | 家族[かぞく]と楽[たの]しい時間[じかん]を過[す]ごしました。 | Tôi có quãng thời gian vui vẻ bên gia đình.
+気分転換[きぶんてんかん] | n | KHÍ PHÂN CHUYỂN HOÁN | đổi gió, thay đổi tâm trạng | - | - | 気分転換[きぶんてんかん]に散歩[さんぽ]をしましょう。 | Mình đi dạo cho đổi gió nhé.
+オリンピック | n | - | Thế vận hội | - | - | オリンピックをテレビで応援[おうえん]しました。 | Tôi đã cổ vũ Thế vận hội qua ti vi.
+ワールドカップ | n | - | World Cup | - | - | ワールドカップの試合[しあい]を夜中[よなか]まで見[み]ました。 | Tôi xem trận World Cup đến tận nửa đêm.
+勝負[しょうぶ] | n,v3 | THẮNG PHỤ | thắng thua; so tài | 勝負[しょうぶ] が つく | phân thắng bại | 最後[さいご]まで勝負[しょうぶ]がつきませんでした。 | Đến cuối vẫn chưa phân thắng bại.
+ファン | n | - | người hâm mộ | - | - | 私[わたし]はこのチームの大[だい]ファンです。 | Tôi là fan lớn của đội này.
+参加者[さんかしゃ] | n | THAM GIA GIẢ | người tham gia | 参加者[さんかしゃ] を 募集[ぼしゅう] する | tuyển người tham gia | イベントの参加者[さんかしゃ]を募集[ぼしゅう]しています。 | Đang tuyển người tham gia sự kiện.
+募集[ぼしゅう] | n,v3 | MỘ TẬP | tuyển, chiêu mộ | - | - | サークルの新[あたら]しいメンバーを募集[ぼしゅう]しています。 | Câu lạc bộ đang tuyển thành viên mới.
+サークル | n | - | câu lạc bộ (đại học) | - | - | 大学[だいがく]でテニスサークルに入[はい]りました。 | Ở đại học tôi vào câu lạc bộ quần vợt.

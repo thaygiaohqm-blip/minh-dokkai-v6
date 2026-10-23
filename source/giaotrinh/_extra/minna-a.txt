@@ -1,0 +1,149 @@
+@topic minna-a
+@ja みんなの日本語[にほんご]
+@vi Từ riêng của giáo trình Minna (bài 1–17)
+あの人[ひと] | pron | NHÂN | người kia, người đó | - | - | あの人[ひと]はだれですか。 | Người kia là ai vậy?
+あの方[かた] | pron | PHƯƠNG | vị kia (lịch sự) | - | - | あの方[かた]は山田[やまだ]先生[せんせい]です。 | Vị kia là thầy Yamada.
+ちゃん | suf | - | bé, cháu (gọi thân mật với trẻ) | - | - | ゆきちゃんは五[ご]歳[さい]です。 | Bé Yuki năm tuổi.
+何歳[なんさい] | q | HÀ TUẾ | mấy tuổi | - | - | お子[こ]さんは何歳[なんさい]ですか。 | Con anh mấy tuổi rồi?
+お名前[なまえ]は | exp | DANH TIỀN | tên anh/chị là gì? | - | - | すみません、お名前[なまえ]は? | Xin lỗi, tên anh là gì ạ?
+アメリカ | n | - | nước Mỹ | - | - | 兄[あに]はアメリカで働[はたら]いています。 | Anh trai tôi làm việc ở Mỹ.
+イギリス | n | - | nước Anh | - | - | イギリスの紅茶[こうちゃ]はおいしいです。 | Trà của Anh rất ngon.
+インド | n | - | Ấn Độ | - | - | インドのカレーは辛[から]いです。 | Cà ri Ấn Độ cay.
+インドネシア | n | - | Indonesia | - | - | インドネシアから来[き]ました。 | Tôi đến từ Indonesia.
+韓国[かんこく] | n | HÀN QUỐC | Hàn Quốc | - | - | 夏休[なつやす]みに韓国[かんこく]へ行[い]きます。 | Kỳ nghỉ hè tôi sẽ đi Hàn Quốc.
+タイ | n | - | Thái Lan | - | - | タイの料理[りょうり]が好[す]きです。 | Tôi thích món ăn Thái.
+中国[ちゅうごく] | n | TRUNG QUỐC | Trung Quốc | - | - | 中国[ちゅうごく]の友達[ともだち]がいます。 | Tôi có bạn người Trung Quốc.
+ドイツ | n | - | nước Đức | - | - | この車[くるま]はドイツの車[くるま]です。 | Chiếc xe này là xe Đức.
+日本[にほん] | n | NHẬT BẢN | Nhật Bản | - | - | 日本[にほん]は島[しま]の国[くに]です。 | Nhật Bản là đất nước của những hòn đảo.
+ブラジル | n | - | Brazil | - | - | ブラジルはサッカーが強[つよ]いです。 | Brazil mạnh về bóng đá.
+シャープペンシル | n | - | bút chì kim | - | - | シャープペンシルを貸[か]してください。 | Cho tôi mượn bút chì kim.
+CD | n | - | đĩa CD | - | - | これは日本[にほん]の歌[うた]のCDです。 | Đây là đĩa CD nhạc Nhật.
+コンピューター | n | - | máy vi tính | - | - | 会社[かいしゃ]のコンピューターは新[あたら]しいです。 | Máy tính ở công ty là máy mới.
+チョコレート | n | - | sô-cô-la | - | - | 友達[ともだち]にチョコレートをもらいました。 | Tôi được bạn cho sô-cô-la.
+語[ご] | suf | NGỮ | tiếng (ngôn ngữ) | - | - | ベトナム語[ご]と日本語[にほんご]が話[はな]せます。 | Tôi nói được tiếng Việt và tiếng Nhật.
+あのう | interj | - | à, ừm (khi mở lời ngập ngừng) | - | - | あのう、駅[えき]はどこですか。 | Ừm, nhà ga ở đâu ạ?
+えっ | interj | - | hả? (ngạc nhiên) | - | - | えっ、本当[ほんとう]ですか。 | Hả, thật sao?
+どうぞ | adv | - | xin mời | - | - | どうぞ、入[はい]ってください。 | Xin mời vào.
+そうですか | exp | - | thế à | - | - | 「明日[あした]は休[やす]みです。」「そうですか。」 | "Mai tôi nghỉ." "Thế à."
+あ | interj | - | a, ôi | - | - | あ、雨[あめ]が降[ふ]っています。 | A, trời đang mưa.
+これからお世話[せわ]になります | exp | THẾ THOẠI | từ nay mong được giúp đỡ | - | - | 隣[となり]に引[ひ]っ越[こ]してきました。これからお世話[せわ]になります。 | Tôi mới chuyển đến bên cạnh, từ nay mong được giúp đỡ.
+こちらこそよろしくお願[ねが]いします | exp | NGUYỆN | chính tôi mới phải nhờ anh giúp đỡ | - | - | 「よろしくお願[ねが]いします。」「こちらこそよろしくお願[ねが]いします。」 | "Rất mong được giúp đỡ." "Chính tôi mới phải nhờ anh."
+ロビー | n | - | sảnh | - | - | ホテルのロビーで待[ま]っています。 | Tôi đang đợi ở sảnh khách sạn.
+何階[なんがい] | q | HÀ GIAI | tầng mấy | - | - | トイレは何階[なんがい]ですか。 | Nhà vệ sinh ở tầng mấy?
+どうも | adv | - | cảm ơn; rất (dùng nhấn mạnh) | - | - | どうも、ありがとうございます。 | Rất cảm ơn anh.
+いらっしゃいませ | exp | - | xin mời quý khách vào | - | - | 店員[てんいん]が「いらっしゃいませ」と言[い]いました。 | Nhân viên nói "Xin mời quý khách".
+見[み]せてください | exp | KIẾN | cho tôi xem | - | - | その時計[とけい]を見[み]せてください。 | Cho tôi xem chiếc đồng hồ đó.
+イタリア | n | - | nước Ý | - | - | イタリアのワインを買[か]いました。 | Tôi đã mua rượu vang Ý.
+スイス | n | - | Thụy Sĩ | - | - | スイスの時計[とけい]は高[たか]いです。 | Đồng hồ Thụy Sĩ đắt.
+フランス | n | - | nước Pháp | - | - | フランスのパンはおいしいです。 | Bánh mì Pháp ngon.
+何分[なんぷん] | q | HÀ PHÂN | mấy phút | - | - | 駅[えき]まで何分[なんぷん]かかりますか。 | Đến ga mất mấy phút?
+何曜日[なんようび] | q | HÀ DIỆU NHẬT | thứ mấy | - | - | 今日[きょう]は何曜日[なんようび]ですか。 | Hôm nay là thứ mấy?
+から | part | - | từ (thời điểm, nơi chốn) | - | - | 銀行[ぎんこう]は九[く]時[じ]からです。 | Ngân hàng mở từ chín giờ.
+まで | part | - | đến (thời điểm, nơi chốn) | - | - | 五[ご]時[じ]まで働[はたら]きます。 | Tôi làm việc đến năm giờ.
+大変[たいへん]ですね | exp | ĐẠI BIẾN | vất vả nhỉ | - | - | 毎晩[まいばん]十[じゅう]時[じ]まで仕事[しごと]ですか。大変[たいへん]ですね。 | Tối nào cũng làm đến mười giờ à? Vất vả nhỉ.
+何番[なんばん] | q | HÀ PHIÊN | số mấy | - | - | 電話[でんわ]番号[ばんごう]は何番[なんばん]ですか。 | Số điện thoại là số mấy?
+何年[なんねん] | q | HÀ NIÊN | năm nào; mấy năm | - | - | 何年[なんねん]に生[う]まれましたか。 | Anh sinh năm nào?
+何月[なんがつ] | q | HÀ NGUYỆT | tháng mấy | - | - | 誕生日[たんじょうび]は何月[なんがつ]ですか。 | Sinh nhật anh tháng mấy?
+十四日[じゅうよっか] | n | THẬP TỨ NHẬT | ngày mười bốn | - | - | 二月[にがつ]十四日[じゅうよっか]はバレンタインデーです。 | Ngày mười bốn tháng hai là ngày lễ tình nhân.
+二十四日[にじゅうよっか] | n | NHỊ THẬP TỨ NHẬT | ngày hai mươi bốn | - | - | 十二月[じゅうにがつ]二十四日[にじゅうよっか]にパーティーをします。 | Ngày hai mươi bốn tháng mười hai chúng tôi tổ chức tiệc.
+日[にち] | suf | NHẬT | ngày (đếm ngày) | - | - | 三十一日[さんじゅういちにち]に東京[とうきょう]へ行[い]きます。 | Ngày ba mươi mốt tôi đi Tokyo.
+何日[なんにち] | q | HÀ NHẬT | ngày mấy; mấy ngày | - | - | 試験[しけん]は何日[なんにち]ですか。 | Kỳ thi vào ngày mấy?
+そうですね | exp | - | đúng vậy nhỉ; để xem nào | - | - | 「暑[あつ]いですね。」「そうですね。」 | "Nóng nhỉ." "Đúng vậy."
+番線[ばんせん] | suf | PHIÊN TUYẾN | đường ray số ~ | - | - | 新幹線[しんかんせん]は十四[じゅうよ]番線[ばんせん]から出[で]ます。 | Tàu cao tốc chạy từ đường ray số mười bốn.
+普通[ふつう] | n | PHỔ THÔNG | tàu thường (dừng mọi ga); bình thường | - | - | この駅[えき]は普通[ふつう]しか止[と]まりません。 | Ga này chỉ có tàu thường dừng.
+ミルク | n | - | sữa | - | - | コーヒーにミルクを入[い]れますか。 | Anh có cho sữa vào cà phê không?
+ビデオ | n | - | video | - | - | 旅行[りょこう]のビデオを見[み]ました。 | Tôi đã xem video chuyến du lịch.
+いいですね | exp | - | hay đấy, được đấy | - | - | 「一緒[いっしょ]に昼[ひる]ご飯[はん]を食[た]べませんか。」「いいですね。」 | "Cùng ăn trưa không?" "Được đấy."
+分[わ]かりました | exp | PHÂN | tôi hiểu rồi | - | - | 「明日[あした]九[く]時[じ]に来[き]てください。」「分[わ]かりました。」 | "Mai chín giờ hãy đến nhé." "Tôi hiểu rồi."
+何[なん]ですか | exp | HÀ | gì vậy? (khi được gọi) | - | - | 「田中[たなか]さん。」「はい、何[なん]ですか。」 | "Anh Tanaka." "Vâng, có gì vậy?"
+じゃ、また | exp | - | hẹn gặp lại | - | - | じゃ、また明日[あした]。 | Vậy hẹn mai gặp lại.
+メキシコ | n | - | Mexico | - | - | メキシコの料理[りょうり]を食[た]べたことがありますか。 | Anh đã ăn món Mexico bao giờ chưa?
+ケータイ | n | - | điện thoại di động | - | - | ケータイで写真[しゃしん]を撮[と]りました。 | Tôi chụp ảnh bằng điện thoại di động.
+パンチ | n | - | dụng cụ đục lỗ | - | - | パンチで書類[しょるい]に穴[あな]をあけました。 | Tôi đục lỗ tài liệu bằng dụng cụ đục lỗ.
+セロテープ | n | - | băng dính trong | - | - | セロテープでポスターを貼[は]りました。 | Tôi dán áp phích bằng băng dính.
+すてき | adj-na | - | đẹp, tuyệt | {すてき} な 服[ふく] | bộ đồ đẹp | すてきなネクタイですね。 | Cà vạt đẹp quá nhỉ.
+いらっしゃい | exp | - | chào mừng (anh) đến | - | - | いらっしゃい。どうぞお上[あ]がりください。 | Chào mừng anh đến. Xin mời vào nhà.
+お上[あ]がりください | exp | THƯỢNG | xin mời vào nhà | - | - | 寒[さむ]いですから、どうぞお上[あ]がりください。 | Trời lạnh, xin mời vào nhà.
+いかがですか | exp | - | anh dùng ... nhé? / thế nào ạ? | - | - | コーヒーはいかがですか。 | Anh dùng cà phê nhé?
+スペイン | n | - | Tây Ban Nha | - | - | スペインでサッカーを見[み]ました。 | Tôi đã xem bóng đá ở Tây Ban Nha.
+ハンサム | adj-na | - | đẹp trai | - | - | 彼[かれ]はハンサムで、親切[しんせつ]です。 | Anh ấy đẹp trai và tốt bụng.
+低[ひく]い | adj-i | ĐÊ | thấp | - | - | この机[つくえ]は少[すこ]し低[ひく]いです。 | Chiếc bàn này hơi thấp.
+が | conj | - | nhưng | - | - | 日本[にほん]の食[た]べ物[もの]はおいしいですが、高[たか]いです。 | Đồ ăn Nhật ngon nhưng đắt.
+お元気[げんき]ですか | exp | NGUYÊN KHÍ | anh có khỏe không? | - | - | お久[ひさ]しぶりです。お元気[げんき]ですか。 | Lâu rồi không gặp. Anh có khỏe không?
+けっこうです | exp | - | đủ rồi, không cần ạ | - | - | 「もう一杯[いっぱい]いかがですか。」「いいえ、けっこうです。」 | "Thêm một chén nữa nhé?" "Không, đủ rồi ạ."
+そろそろ失礼[しつれい]します | exp | THẤT LỄ | tôi xin phép về | - | - | もう九[く]時[じ]ですね。そろそろ失礼[しつれい]します。 | Chín giờ rồi nhỉ. Tôi xin phép về.
+またいらっしゃってください | exp | - | lần sau lại đến chơi nhé | - | - | 今日[きょう]はありがとうございました。またいらっしゃってください。 | Cảm ơn anh hôm nay. Lần sau lại đến chơi nhé.
+クラシック | n | - | nhạc cổ điển | - | - | 寝[ね]る前[まえ]にクラシックを聞[き]きます。 | Trước khi ngủ tôi nghe nhạc cổ điển.
+ジャズ | n | - | nhạc jazz | - | - | 父[ちち]はジャズが好[す]きです。 | Bố tôi thích nhạc jazz.
+かたかな | n | - | chữ katakana | - | - | 外国[がいこく]の名前[なまえ]はかたかなで書[か]きます。 | Tên nước ngoài được viết bằng katakana.
+ローマ字[じ] | n | TỰ | chữ La-tinh | - | - | 名前[なまえ]をローマ字[じ]で書[か]いてください。 | Hãy viết tên bằng chữ La-tinh.
+細[こま]かいお金[かね] | n | TẾ KIM | tiền lẻ | - | - | すみません、細[こま]かいお金[かね]がありません。 | Xin lỗi, tôi không có tiền lẻ.
+チケット | n | - | vé | - | - | コンサートのチケットを二[に]枚[まい]買[か]いました。 | Tôi mua hai vé buổi hòa nhạc.
+早[はや]く | adv | TẢO | sớm; nhanh | - | - | 今日[きょう]は早[はや]く帰[かえ]ります。 | Hôm nay tôi về sớm.
+貸[か]してください | exp | THẢI | cho tôi mượn | - | - | 辞書[じしょ]を貸[か]してください。 | Cho tôi mượn từ điển.
+いいですよ | exp | - | được chứ | - | - | 「このペン、使[つか]ってもいいですか。」「いいですよ。」 | "Tôi dùng cây bút này được không?" "Được chứ."
+残念[ざんねん]です | exp | TÀN NIỆM | tiếc quá | - | - | 明日[あした]は行[い]けません。残念[ざんねん]です。 | Mai tôi không đi được. Tiếc quá.
+ああ | interj | - | à, ồ | - | - | ああ、そうですか。 | À, ra vậy.
+だめですか | exp | - | không được à? | - | - | 日曜日[にちようび]はだめですか。 | Chủ nhật không được à?
+また今度[こんど]お願[ねが]いします | exp | KIM ĐỘ NGUYỆN | hẹn dịp khác nhé | - | - | 今日[きょう]はちょっと…。また今度[こんど]お願[ねが]いします。 | Hôm nay thì hơi… Hẹn anh dịp khác nhé.
+パンダ | n | - | gấu trúc | - | - | 動物園[どうぶつえん]でパンダを見[み]ました。 | Tôi đã xem gấu trúc ở sở thú.
+象[ぞう] | n | TƯỢNG | con voi | - | - | 象[ぞう]は鼻[はな]が長[なが]いです。 | Con voi có vòi dài.
+ATM | n | - | máy rút tiền | - | - | コンビニにATMがあります。 | Ở cửa hàng tiện lợi có máy rút tiền.
+屋[や] | suf | ỐC | tiệm, cửa hàng ~ | - | - | 駅[えき]の前[まえ]にパン屋[や]があります。 | Trước ga có tiệm bánh mì.
+や | part | - | và (liệt kê không hết) | - | - | 机[つくえ]の上[うえ]に本[ほん]やノートがあります。 | Trên bàn có sách, vở các thứ.
+など | part | - | vân vân | - | - | 箱[はこ]の中[なか]に手紙[てがみ]や写真[しゃしん]などがあります。 | Trong hộp có thư, ảnh, vân vân.
+ナンプラー | n | - | nước mắm Thái | - | - | ナンプラーはどこにありますか。 | Nước mắm Thái ở đâu ạ?
+一番[いちばん]下[した] | exp | NHẤT PHIÊN HẠ | dưới cùng | - | - | 棚[たな]の一番[いちばん]下[した]にあります。 | Ở ngăn dưới cùng của kệ.
+サンドイッチ | n | - | bánh sandwich | - | - | 昼[ひる]ご飯[はん]にサンドイッチを食[た]べました。 | Bữa trưa tôi ăn bánh sandwich.
+カレーライス | n | - | cơm cà ri | - | - | カレーライスを二[ふた]つください。 | Cho tôi hai suất cơm cà ri.
+アイスクリーム | n | - | kem | - | - | 暑[あつ]い日[ひ]はアイスクリームを食[た]べます。 | Ngày nóng tôi ăn kem.
+弟[おとうと]さん | n | ĐỆ | em trai (người khác) | - | - | 弟[おとうと]さんは学生[がくせい]ですか。 | Em trai anh là sinh viên à?
+妹[いもうと]さん | n | MUỘI | em gái (người khác) | - | - | 妹[いもうと]さんは何歳[なんさい]ですか。 | Em gái anh mấy tuổi?
+ぐらい | part | - | khoảng | - | - | 駅[えき]まで十[じゅっ]分[ぷん]ぐらいかかります。 | Đến ga mất khoảng mười phút.
+どのくらい | q | - | bao lâu, bao nhiêu | - | - | 日本[にほん]にどのくらいいますか。 | Anh ở Nhật bao lâu?
+全部[ぜんぶ]で | adv | TOÀN BỘ | tổng cộng | - | - | 全部[ぜんぶ]で千[せん]円[えん]です。 | Tổng cộng một nghìn yên.
+だけ | part | - | chỉ | - | - | 休[やす]みは日曜日[にちようび]だけです。 | Ngày nghỉ chỉ có chủ nhật.
+いい天気[てんき]ですね | exp | THIÊN KHÍ | trời đẹp nhỉ | - | - | いい天気[てんき]ですね。お出[で]かけですか。 | Trời đẹp nhỉ. Anh đi đâu đấy à?
+お出[で]かけですか | exp | XUẤT | anh đi ra ngoài à? | - | - | 「お出[で]かけですか。」「ええ、ちょっと郵便局[ゆうびんきょく]まで。」 | "Anh đi đâu đấy à?" "Vâng, đến bưu điện một chút."
+エアメール | n | - | thư gửi máy bay | - | - | この手紙[てがみ]はエアメールでお願[ねが]いします。 | Bức thư này xin gửi đường hàng không.
+オーストラリア | n | - | nước Úc | - | - | オーストラリアにはカンガルーがいます。 | Ở Úc có chuột túi.
+世界[せかい] | n | THẾ GIỚI | thế giới | - | - | 世界[せかい]で一番[いちばん]高[たか]い山[やま]はエベレストです。 | Ngọn núi cao nhất thế giới là Everest.
+すき焼[や]き | n | THIÊU | lẩu sukiyaki | - | - | 冬[ふゆ]は家族[かぞく]ですき焼[や]きを食[た]べます。 | Mùa đông cả nhà ăn lẩu sukiyaki.
+とり肉[にく] | n | NHỤC | thịt gà | - | - | 牛肉[ぎゅうにく]よりとり肉[にく]のほうが安[やす]いです。 | Thịt gà rẻ hơn thịt bò.
+どちらも | adv | - | cả hai | - | - | 「肉[にく]と魚[さかな]とどちらが好[す]きですか。」「どちらも好[す]きです。」 | "Anh thích thịt hay cá?" "Thích cả hai."
+すごい | adj-i | - | ghê, tuyệt | - | - | すごい人[ひと]ですね。 | Đông người ghê nhỉ.
+欲[ほ]しい | adj-i | DỤC | muốn có | - | - | 新[あたら]しい車[くるま]が欲[ほ]しいです。 | Tôi muốn có chiếc xe mới.
+ごろ | suf | - | khoảng (thời điểm) | - | - | 七[しち]時[じ]ごろ帰[かえ]ります。 | Tôi về khoảng bảy giờ.
+何[なに]か | pron | HÀ | cái gì đó | - | - | 何[なに]か飲[の]みませんか。 | Uống gì đó không?
+どこか | pron | - | đâu đó | - | - | 夏休[なつやす]みはどこか行[い]きましたか。 | Kỳ nghỉ hè anh có đi đâu không?
+のどが渇[かわ]く | exp | KHÁT | khát nước | - | - | のどが渇[かわ]きましたね。お茶[ちゃ]を飲[の]みましょう。 | Khát nước nhỉ. Uống trà đi.
+おなかがすく | exp | - | đói bụng | - | - | おなかがすきました。何[なに]か食[た]べたいです。 | Tôi đói rồi. Muốn ăn gì đó.
+そうしましょう | exp | - | làm vậy đi | - | - | 「タクシーで行[い]きませんか。」「そうしましょう。」 | "Đi taxi nhé?" "Làm vậy đi."
+ご注文[ちゅうもん]は | exp | CHÚ VĂN | quý khách gọi món gì ạ? | - | - | いらっしゃいませ。ご注文[ちゅうもん]は? | Kính chào quý khách. Quý khách gọi món gì ạ?
+牛[ぎゅう]どん | n | NGƯU | cơm thịt bò | - | - | 昼[ひる]は牛[ぎゅう]どんを食[た]べました。 | Trưa nay tôi ăn cơm thịt bò.
+少々[しょうしょう]お待[ま]ちください | exp | THIỂU THIỂU ĐÃI | xin đợi một chút | - | - | はい、少々[しょうしょう]お待[ま]ちください。 | Vâng, xin quý khách đợi một chút.
+別々[べつべつ]に | adv | BIỆT BIỆT | riêng ra | - | - | お会計[かいけい]は別々[べつべつ]にお願[ねが]いします。 | Xin tính tiền riêng từng người.
+読[よ]み方[かた] | n | ĐỘC PHƯƠNG | cách đọc | - | - | この漢字[かんじ]の読[よ]み方[かた]を教[おし]えてください。 | Hãy dạy tôi cách đọc chữ Hán này.
+方[かた] | suf | PHƯƠNG | cách ~ | - | - | 切符[きっぷ]の買[か]い方[かた]が分[わ]かりません。 | Tôi không biết cách mua vé.
+あとで | adv | - | lát nữa, sau | - | - | あとで電話[でんわ]します。 | Lát nữa tôi sẽ gọi điện.
+もう少[すこ]し | adv | THIỂU | thêm chút nữa | - | - | もう少[すこ]しゆっくり話[はな]してください。 | Hãy nói chậm thêm chút nữa.
+さあ | interj | - | nào | - | - | さあ、行[い]きましょう。 | Nào, đi thôi.
+カタログ | n | - | ca-ta-lô | - | - | 新[あたら]しい家具[かぐ]のカタログを見[み]ています。 | Tôi đang xem ca-ta-lô đồ nội thất mới.
+ソフト | n | - | phần mềm | - | - | パソコンに新[あたら]しいソフトを入[い]れました。 | Tôi cài phần mềm mới vào máy tính.
+電子[でんし]辞書[じしょ] | n | ĐIỆN TỬ TỪ THƯ | từ điển điện tử | - | - | 電子[でんし]辞書[じしょ]で言葉[ことば]を調[しら]べます。 | Tôi tra từ bằng từ điển điện tử.
+浴[あ]びる | v2 | DỤC | tắm (vòi sen) | シャワー を {浴びる} | tắm vòi sen | 毎朝[まいあさ]シャワーを浴[あ]びます。 | Sáng nào tôi cũng tắm vòi sen.
+お寺[てら] | n | TỰ | ngôi chùa | - | - | 京都[きょうと]には古[ふる]いお寺[てら]がたくさんあります。 | Kyoto có nhiều chùa cổ.
+どうやって | q | - | làm thế nào | - | - | 大学[だいがく]までどうやって行[い]きますか。 | Đến trường đại học đi bằng cách nào?
+すごいですね | exp | - | giỏi thật nhỉ | - | - | 一人[ひとり]で富士山[ふじさん]に登[のぼ]ったんですか。すごいですね。 | Anh leo núi Phú Sĩ một mình à? Giỏi thật nhỉ.
+まだまだです | exp | - | tôi còn kém lắm | - | - | 「日本語[にほんご]が上手[じょうず]ですね。」「いいえ、まだまだです。」 | "Tiếng Nhật anh giỏi nhỉ." "Không, tôi còn kém lắm."
+お引[ひ]き出[だ]しですか | exp | DẪN XUẤT | anh rút tiền ạ? | - | - | お引[ひ]き出[だ]しですか。では、このボタンを押[お]してください。 | Anh rút tiền ạ? Vậy hãy nhấn nút này.
+まず | adv | - | trước hết | - | - | まずカードを入[い]れてください。 | Trước hết hãy đưa thẻ vào.
+次[つぎ]に | adv | THỨ | tiếp theo | - | - | 次[つぎ]に暗証[あんしょう]番号[ばんごう]を押[お]します。 | Tiếp theo bấm mật mã.
+なくす | v1 | - | làm mất | - | - | 電車[でんしゃ]で傘[かさ]をなくしました。 | Tôi làm mất ô trên tàu.
+持[も]っていく | v1 | TRÌ | mang đi | - | - | 雨[あめ]ですから、傘[かさ]を持[も]っていきます。 | Trời mưa nên tôi mang ô đi.
+持[も]ってくる | v3 | TRÌ | mang đến | - | - | 明日[あした]パスポートを持[も]ってきてください。 | Mai hãy mang hộ chiếu đến.
+健康[けんこう]保険証[ほけんしょう] | n | KIỆN KHANG BẢO HIỂM CHỨNG | thẻ bảo hiểm y tế | - | - | 病院[びょういん]へ行[い]くときは健康[けんこう]保険証[ほけんしょう]を持[も]っていきます。 | Khi đi bệnh viện tôi mang theo thẻ bảo hiểm y tế.
+までに | part | - | trước (hạn) | - | - | 金曜日[きんようび]までにレポートを出[だ]してください。 | Hãy nộp báo cáo trước thứ Sáu.
+ですから | conj | - | vì vậy | - | - | 今日[きょう]は雨[あめ]です。ですから、出[で]かけません。 | Hôm nay mưa. Vì vậy tôi không ra ngoài.
+どうしましたか | exp | - | anh bị sao vậy? | - | - | 「どうしましたか。」「頭[あたま]が痛[いた]いです。」 | "Anh bị sao vậy?" "Tôi đau đầu."
+お大事[だいじ]に | exp | ĐẠI SỰ | chóng khỏe nhé | - | - | 風邪[かぜ]ですね。お大事[だいじ]に。 | Bị cảm rồi. Chóng khỏe nhé.

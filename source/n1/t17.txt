@@ -1,0 +1,149 @@
+@topic tính từ nâng cao
+@ja 形容詞[けいようし]・形容[けいよう]動詞[どうし]
+@vi Tính từ nâng cao
+@desc Tính từ i và tính từ na thường gặp trong văn bản và giao tiếp N1, bao gồm từ vựng Mimikara N1 Unit 3 và Unit 11.
+手近[てぢか] | adj-na | THỦ CẬN | gần, tiện tay | {手近}な例[れい] | ví dụ gần gũi | 手近[てぢか]な材料[ざいりょう]で工作[こうさく]を作[つく]った。 | Tôi đã làm đồ thủ công bằng nguyên liệu có sẵn.
+渋[しぶ]い | adj-i | SÁP | chát, trầm, kén người | {渋い}味[あじ] | vị chát | この茶[ちゃ]は少[すこ]し渋[しぶ]いが、後味[あとあじ]がよい。 | Trà này hơi chát nhưng hậu vị rất ngon.
+華[はな]やか | adj-na | HOA | lộng lẫy, rực rỡ | {華やか}な雰囲気[ふんいき] | không khí lộng lẫy | パーティー会場[かいじょう]は華[はな]やかに飾[かざ]り付[つ]けられていた。 | Hội trường tiệc được trang trí lộng lẫy.
+盛大[せいだい] | adj-na | THỊNH ĐẠI | long trọng, hoành tráng | {盛大}な式典[しきてん] | lễ kỷ niệm long trọng | 創立[そうりつ]50周年[しゅうねん]を盛大[せいだい]に祝[いわ]った。 | Đã tổ chức lễ kỷ niệm 50 năm thành lập hoành tráng.
+猛烈[もうれつ] | adj-na | MÃNH LIỆT | dữ dội, mãnh liệt | {猛烈}な風[かぜ] | gió dữ dội | 猛烈[もうれつ]な勢[いきお]いで台風[たいふう]が接近[せっきん]している。 | Bão đang tiến đến với sức mạnh dữ dội.
+厳重[げんじゅう] | adj-na | NGHIÊM TRỌNG | nghiêm ngặt, chặt chẽ | {厳重}な警備[けいび] | bảo vệ nghiêm ngặt | 空港[くうこう]では厳重[げんじゅう]なセキュリティチェックが行[おこな]われている。 | Tại sân bay đang thực hiện kiểm tra an ninh nghiêm ngặt.
+膨大[ぼうだい] | adj-na | BÀNH ĐẠI | khổng lồ, đồ sộ | {膨大}なデータ | dữ liệu đồ sộ | 研究[けんきゅう]には膨大[ぼうだい]な時間[じかん]と費用[ひよう]がかかった。 | Nghiên cứu tốn thời gian và chi phí khổng lồ.
+乏[とぼ]しい | adj-i | PHẠP | thiếu thốn, khan hiếm | 資源[しげん]が{乏しい} | thiếu tài nguyên | この地域[ちいき]は水資源[みずしげん]が乏[とぼ]しい。 | Khu vực này thiếu nguồn nước.
+急速[きゅうそく] | adj-na | CẤP TỐC | nhanh chóng, cấp tốc | {急速}な発展[はってん] | phát triển nhanh chóng | 技術[ぎじゅつ]の急速[きゅうそく]な進歩[しんぽ]に驚[おどろ]かされる。 | Tôi ngạc nhiên trước tiến bộ nhanh chóng của công nghệ.
+正常[せいじょう] | adj-na | CHÍNH THƯỜNG | bình thường | {正常}な状態[じょうたい] | trạng thái bình thường | 手術後[しゅじゅつご]、血圧[けつあつ]は正常[せいじょう]に戻[もど]った。 | Sau phẫu thuật, huyết áp đã trở về bình thường.
+完璧[かんぺき] | adj-na | HOÀN BÍCH | hoàn hảo | {完璧}な計画[けいかく] | kế hoạch hoàn hảo | 今回[こんかい]のプレゼンは完璧[かんぺき]だった。 | Bài thuyết trình lần này hoàn hảo.
+不可欠[ふかけつ] | adj-na | BẤT KHẢ KHIẾM | không thể thiếu | {不可欠}な要素[ようそ] | yếu tố không thể thiếu | ビタミンは健康[けんこう]に不可欠[ふかけつ]な栄養素[えいようそ]だ。 | Vitamin là chất dinh dưỡng không thể thiếu cho sức khỏe.
+有望[ゆうぼう] | adj-na | HỮU VỌNG | có triển vọng | {有望}な人材[じんざい] | nhân tài triển vọng | 彼[かれ]は将来[しょうらい]有望[ゆうぼう]な若手[わかて]研究者[けんきゅうしゃ]だ。 | Anh ấy là nhà nghiên cứu trẻ có triển vọng.
+喜[よろこ]ばしい | adj-i | HỈ | đáng mừng | {喜ばしい}ニュース | tin đáng mừng | 全員[ぜんいん]合格[ごうかく]とは喜[よろこ]ばしい限[かぎ]りだ。 | Tất cả đều đỗ, thật đáng mừng hết sức.
+望[のぞ]ましい | adj-i | VỌNG | đáng mong muốn | {望ましい}結果[けっか] | kết quả đáng mong muốn | 早期[そうき]に解決[かいけつ]することが望[のぞ]ましい。 | Việc giải quyết sớm là điều đáng mong muốn.
+疑[うたが]わしい | adj-i | NGHI | đáng nghi ngờ | {疑わしい}行動[こうどう] | hành động đáng nghi | その証言[しょうげん]は疑[うたが]わしい点[てん]が多[おお]い。 | Lời khai đó có nhiều điểm đáng nghi.
+くすぐったい | adj-i | - | nhột, buồn cười | {くすぐったい}感[かん]じ | cảm giác nhột | 褒[ほ]められるとくすぐったい気持[きも]ちになる。 | Được khen thì thấy ngại ngùng.
+貧弱[ひんじゃく] | adj-na | BẦN NHƯỢC | yếu ớt, nghèo nàn | {貧弱}な体格[たいかく] | thể hình yếu ớt | インフラが貧弱[ひんじゃく]で生活[せいかつ]に不便[ふべん]だ。 | Hạ tầng nghèo nàn nên sinh hoạt bất tiện.
+哀[あわ]れ | adj-na | AI | thương tâm, đáng thương | {哀れ}な姿[すがた] | dáng vẻ đáng thương | 雨[あめ]に濡[ぬ]れた子猫[こねこ]の哀[あわ]れな姿[すがた]を見[み]た。 | Tôi thấy dáng vẻ đáng thương của mèo con bị ướt mưa.
+やかましい | adj-i | - | ồn ào, khó tính | {やかましい}音[おと] | tiếng ồn ào | 隣[となり]の工事[こうじ]がやかましい。 | Công trình bên cạnh ồn ào quá.
+軽快[けいかい] | adj-na | KHINH KHOÁI | nhẹ nhàng, nhanh nhẹn | {軽快}なリズム | nhịp điệu nhẹ nhàng | 軽快[けいかい]な音楽[おんがく]に合[あ]わせて踊[おど]った。 | Nhảy theo nhạc nhẹ nhàng.
+窮屈[きゅうくつ] | adj-na | CÙNG KHUẤT | chật chội, gò bó | {窮屈}な靴[くつ] | giày chật | 規則[きそく]が多[おお]くて窮屈[きゅうくつ]に感[かん]じる。 | Quy tắc nhiều nên cảm thấy gò bó.
+あやふや | adj-na | - | mơ hồ, không rõ ràng | {あやふや}な記憶[きおく] | ký ức mơ hồ | 事故[じこ]の記憶[きおく]があやふやで思[おも]い出[だ]せない。 | Ký ức về tai nạn mơ hồ, không nhớ nổi.
+残酷[ざんこく] | adj-na | TÀN KHỐC | tàn khốc, độc ác | {残酷}な仕打[しう]ち | hành xử tàn nhẫn | 戦争[せんそう]の残酷[ざんこく]な現実[げんじつ]を伝[つた]える。 | Truyền tải thực tế tàn khốc của chiến tranh.
+悲惨[ひさん] | adj-na | BI THẢM | bi thảm, thảm khốc | {悲惨}な事故[じこ] | tai nạn bi thảm | 地震[じしん]で悲惨[ひさん]な状況[じょうきょう]が広[ひろ]がった。 | Tình hình bi thảm lan rộng do động đất.
+根強[ねづよ]い | adj-i | CĂN CƯỜNG | bám rễ sâu, dai dẳng | {根強い}人気[にんき] | sự yêu thích bền vững | このブランドには根強[ねづよ]いファンがいる。 | Thương hiệu này có lượng fan trung thành.
+密接[みっせつ] | adj-na | MẬT TIẾP | mật thiết, gắn bó | {密接}な関係[かんけい] | mối quan hệ mật thiết | 経済[けいざい]と環境[かんきょう]は密接[みっせつ]に関連[かんれん]している。 | Kinh tế và môi trường liên quan mật thiết.
+ふさわしい | adj-i | - | xứng đáng, phù hợp | {ふさわしい}人物[じんぶつ] | nhân vật phù hợp | リーダーにふさわしい人[ひと]を選[えら]ぼう。 | Hãy chọn người phù hợp làm lãnh đạo.
+申[もう]し分[ぶん]ない | adj-i | THÂN PHÂN | hoàn hảo, không chê vào đâu được | {申し分ない}出来[でき] | kết quả không chê vào đâu được | 今回[こんかい]の成績[せいせき]は申[もう]し分[ぶん]ない。 | Thành tích lần này hoàn hảo.
+円滑[えんかつ] | adj-na | VIÊN HOẠT | trôi chảy, suôn sẻ | {円滑}な運営[うんえい] | vận hành suôn sẻ | 会議[かいぎ]を円滑[えんかつ]に進[すす]めるには準備[じゅんび]が大切[たいせつ]だ。 | Chuẩn bị kỹ là quan trọng để cuộc họp diễn ra suôn sẻ.
+迅速[じんそく] | adj-na | TẤN TỐC | nhanh chóng, mau lẹ | {迅速}な対応[たいおう] | phản hồi nhanh chóng | 災害[さいがい]時[じ]には迅速[じんそく]な避難[ひなん]が求[もと]められる。 | Khi thiên tai cần sơ tán nhanh chóng.
+速[すみ]やか | adj-na | TỐC | mau chóng, nhanh gọn | {速やか}に処理[しょり]する | xử lý mau chóng | 問題[もんだい]が発生[はっせい]したら速[すみ]やかに報告[ほうこく]してください。 | Nếu phát sinh vấn đề hãy báo cáo nhanh chóng.
+素早[すばや]い | adj-i | TỐ TẢO | nhanh nhẹn | {素早い}動[うご]き | động tác nhanh nhẹn | 猫[ねこ]は素早[すばや]い動[うご]きで獲物[えもの]を捕[と]らえた。 | Con mèo bắt mồi bằng động tác nhanh nhẹn.
+敏[びん]しょう | adj-na | MẪN | nhanh nhẹn, lanh lẹ | {敏しょう}な身[み]のこなし | cử chỉ lanh lẹ | 忍者[にんじゃ]は敏[びん]しょうに屋根[やね]の上[うえ]を走[はし]った。 | Ninja lanh lẹ chạy trên mái nhà.
+緻密[ちみつ] | adj-na | TRÍ MẬT | tỉ mỉ, tinh vi | {緻密}な計算[けいさん] | tính toán tỉ mỉ | 緻密[ちみつ]な調査[ちょうさ]に基[もと]づいて結論[けつろん]を出[だ]した。 | Đưa ra kết luận dựa trên khảo sát tỉ mỉ.
+まれ | adj-na | - | hiếm, ít có | {まれ}なケース | trường hợp hiếm | こんなに美[うつく]しい景色[けしき]に出会[であ]えるのはまれだ。 | Hiếm khi gặp được phong cảnh đẹp thế này.
+ひそか | adj-na | - | kín đáo, thầm lặng | {ひそか}な楽[たの]しみ | niềm vui thầm lặng | 彼女[かのじょ]はひそかに転職[てんしょく]を考[かんが]えていた。 | Cô ấy thầm lặng suy nghĩ về việc đổi nghề.
+細[こま]やか | adj-na | TẾ | tế nhị, tỉ mỉ | {細やか}な気配[きくば]り | sự quan tâm tế nhị | 細[こま]やかなおもてなしに感動[かんどう]した。 | Tôi cảm động trước sự tiếp đãi tế nhị.
+ささやか | adj-na | - | nhỏ bé, khiêm tốn | {ささやか}なプレゼント | quà khiêm tốn | ささやかですが、お礼[れい]の品[しな]を用意[ようい]しました。 | Tuy nhỏ bé nhưng tôi đã chuẩn bị quà cảm ơn.
+ささい | adj-na | - | nhỏ nhặt, vặt vãnh | {ささい}なミス | lỗi nhỏ nhặt | ささいなことで喧嘩[けんか]しないでほしい。 | Đừng cãi nhau vì chuyện nhỏ nhặt.
+切実[せつじつ] | adj-na | THIẾT THỰC | thiết thực, cấp bách | {切実}な問題[もんだい] | vấn đề cấp bách | 少子化[しょうしか]は切実[せつじつ]な社会問題[しゃかいもんだい]だ。 | Giảm sinh là vấn đề xã hội cấp bách.
+痛切[つうせつ] | adj-na | THỐNG THIẾT | thống thiết, sâu sắc | {痛切}に感[かん]じる | cảm nhận thống thiết | 自分[じぶん]の無力[むりょく]さを痛切[つうせつ]に感[かん]じた。 | Tôi cảm nhận sâu sắc sự bất lực của mình.
+厄介[やっかい] | adj-na | ÁCH GIỚI | phiền phức, rắc rối | {厄介}な問題[もんだい] | vấn đề phiền phức | この虫[むし]は駆除[くじょ]が厄介[やっかい]だ。 | Loài sâu bọ này khó diệt trừ.
+たやすい | adj-i | - | dễ dàng | {たやすい}仕事[しごと] | công việc dễ dàng | 信頼[しんらい]を築[きず]くのはたやすいことではない。 | Xây dựng niềm tin không phải chuyện dễ.
+思[おも]わしい | adj-i | TƯ | khả quan, như mong đợi | {思わしい}結果[けっか] | kết quả khả quan | 治療[ちりょう]の経過[けいか]が思[おも]わしいとは言[い]えない。 | Không thể nói tiến triển điều trị khả quan.
+手持[ても]ち無沙汰[ぶさた] | adj-na | THỦ TRÌ VÔ SA THẢI | rảnh rỗi, không biết làm gì | {手持ち無沙汰}な時間[じかん] | thời gian rảnh rỗi | 待[ま]ち時間[じかん]が長[なが]くて手持[ても]ち無沙汰[ぶさた]だった。 | Thời gian chờ lâu nên không biết làm gì.
+淡[あわ]い | adj-i | ĐẠM | nhạt, mờ | {淡い}色[いろ] | màu nhạt | 淡[あわ]いピンクのドレスがよく似合[にあ]っている。 | Váy hồng nhạt rất hợp với cô ấy.
+淡白[たんぱく] | adj-na | ĐẠM BẠCH | đạm bạc, nhạt nhẽo | {淡白}な性格[せいかく] | tính cách đạm bạc | 彼[かれ]は淡白[たんぱく]な性格[せいかく]で感情[かんじょう]を表[あらわ]さない。 | Anh ấy tính đạm bạc, không bộc lộ cảm xúc.
+はかない | adj-i | - | phù du, mong manh | {はかない}夢[ゆめ] | giấc mơ phù du | 桜[さくら]の美[うつく]しさははかないものだ。 | Vẻ đẹp hoa anh đào thật phù du.
+あっけない | adj-i | - | quá nhanh, hụt hẫng | {あっけない}結末[けつまつ] | kết cục hụt hẫng | あんなに準備[じゅんび]したのにあっけない幕切[まくぎ]れだった。 | Chuẩn bị kỹ vậy mà kết thúc hụt hẫng.
+なだらか | adj-na | - | thoai thoải, êm ái | {なだらか}な丘[おか] | đồi thoai thoải | なだらかな坂道[さかみち]を自転車[じてんしゃ]で下[くだ]った。 | Đạp xe xuống con dốc thoai thoải.
+緩[ゆる]やか | adj-na | HOÃN | chậm rãi, nhẹ nhàng | {緩やか}な流[なが]れ | dòng chảy nhẹ nhàng | 経済[けいざい]は緩[ゆる]やかに回復[かいふく]している。 | Kinh tế đang phục hồi chậm rãi.
+のどか | adj-na | - | yên bình, thanh thản | {のどか}な田園[でんえん] | đồng quê yên bình | のどかな風景[ふうけい]を眺[なが]めてリラックスした。 | Ngắm phong cảnh yên bình và thư giãn.
+和[なご]やか | adj-na | HÒA | hòa nhã, ấm cúng | {和やか}な雰囲気[ふんいき] | không khí ấm cúng | 食事会[しょくじかい]は和[なご]やかな雰囲気[ふんいき]で進[すす]んだ。 | Bữa tiệc diễn ra trong không khí ấm cúng.
+しなやか | adj-na | - | mềm mại, uyển chuyển | {しなやか}な体[からだ] | thân hình mềm mại | バレリーナのしなやかな動[うご]きに見[み]とれた。 | Mê mẩn trước động tác uyển chuyển của vũ công ballet.
+かけがえのない | adj-i | - | vô giá, không gì thay thế | {かけがえのない}存在[そんざい] | sự tồn tại vô giá | 家族[かぞく]はかけがえのない宝物[たからもの]だ。 | Gia đình là báu vật vô giá.
+格別[かくべつ] | adj-na | CÁCH BIỆT | đặc biệt, khác thường | {格別}の味[あじ]わい | hương vị đặc biệt | 手作[てづく]りの料理[りょうり]は格別[かくべつ]だ。 | Món ăn tự làm thật đặc biệt.
+重宝[ちょうほう] | adj-na | TRỌNG BẢO | tiện lợi, hữu ích | {重宝}な道具[どうぐ] | dụng cụ tiện lợi | このアプリは旅行中[りょこうちゅう]重宝[ちょうほう]した。 | Ứng dụng này rất tiện lợi trong chuyến đi.
+無難[ぶなん] | adj-na | VÔ NAN | an toàn, không có gì chê | {無難}な選択[せんたく] | lựa chọn an toàn | 無難[ぶなん]なデザインを選[えら]んだ。 | Tôi chọn thiết kế an toàn.
+画一的[かくいつてき] | adj-na | HOẠCH NHẤT ĐÍCH | đồng nhất, rập khuôn | {画一的}な教育[きょういく] | giáo dục rập khuôn | 画一的[かくいつてき]なやり方[かた]では個性[こせい]が育[そだ]たない。 | Cách làm rập khuôn không nuôi dưỡng được cá tính.
+紛[まぎ]らわしい | adj-i | PHÂN | dễ nhầm lẫn | {紛らわしい}表現[ひょうげん] | diễn đạt dễ nhầm | この二[ふた]つの漢字[かんじ]は紛[まぎ]らわしい。 | Hai chữ Hán này dễ nhầm lẫn.
+生[なま]ぬるい | adj-i | SINH | hâm hấp, nửa vời | {生ぬるい}対応[たいおう] | ứng phó nửa vời | 生[なま]ぬるい態度[たいど]では問題[もんだい]は解決[かいけつ]しない。 | Thái độ nửa vời thì không giải quyết được vấn đề.
+もろい | adj-i | - | mỏng manh, dễ vỡ | {もろい}構造[こうぞう] | kết cấu dễ vỡ | この壁[かべ]はもろいので注意[ちゅうい]が必要[ひつよう]だ。 | Bức tường này mỏng manh nên cần chú ý.
+ややこしい | adj-i | - | phức tạp, rắc rối | {ややこしい}手続[てつづ]き | thủ tục rắc rối | 税金[ぜいきん]の申告[しんこく]はややこしい。 | Khai thuế thật rắc rối.
+まちまち | adj-na | - | khác nhau, không thống nhất | 意見[いけん]が{まちまち} | ý kiến khác nhau | メンバーの意見[いけん]がまちまちでまとまらない。 | Ý kiến thành viên khác nhau không thống nhất được.
+生々[なまなま]しい | adj-i | SINH SINH | sống động, còn mới | {生々しい}記憶[きおく] | ký ức sống động | 事故[じこ]の生々[なまなま]しい映像[えいぞう]が流[なが]れた。 | Hình ảnh sống động của tai nạn được phát sóng.
+露骨[ろこつ] | adj-na | LỘ CỐT | lộ liễu, trắng trợn | {露骨}な批判[ひはん] | phê phán lộ liễu | 露骨[ろこつ]な差別[さべつ]発言[はつげん]に非難[ひなん]が集[あつ]まった。 | Phát ngôn phân biệt đối xử lộ liễu bị lên án.
+巧妙[こうみょう] | adj-na | XẢO DIỆU | khéo léo, tinh vi | {巧妙}な手口[てぐち] | thủ đoạn tinh vi | 巧妙[こうみょう]なトリックで観客[かんきゃく]を驚[おどろ]かせた。 | Ảo thuật tinh vi làm khán giả kinh ngạc.
+重厚[じゅうこう] | adj-na | TRỌNG HẬU | trang trọng, dày dặn | {重厚}な雰囲気[ふんいき] | không khí trang trọng | 重厚[じゅうこう]な木製[もくせい]の扉[とびら]が印象的[いんしょうてき]だった。 | Cánh cửa gỗ dày dặn để lại ấn tượng.
+厳[おごそ]か | adj-na | NGHIÊM | trang nghiêm, uy nghiêm | {厳か}な式[しき] | buổi lễ trang nghiêm | 厳[おごそ]かな雰囲気[ふんいき]の中[なか]で結婚式[けっこんしき]が行[おこな]われた。 | Lễ cưới diễn ra trong không khí trang nghiêm.
+希薄[きはく] | adj-na | HY BẠC | loãng, mỏng manh | 人間関係[にんげんかんけい]が{希薄} | quan hệ con người mỏng manh | 都会[とかい]では近所[きんじょ]との関係[かんけい]が希薄[きはく]になりがちだ。 | Ở thành phố quan hệ láng giềng hay trở nên mỏng manh.
+圧倒的[あっとうてき] | adj-na | ÁP ĐẢO ĐÍCH | áp đảo | {圧倒的}な勝利[しょうり] | chiến thắng áp đảo | 圧倒的[あっとうてき]な票差[ひょうさ]で当選[とうせん]した。 | Đắc cử với số phiếu áp đảo.
+致命的[ちめいてき] | adj-na | TRÍ MỆNH ĐÍCH | chí mạng, chí tử | {致命的}なミス | lỗi chí mạng | ソフトウェアに致命的[ちめいてき]な欠陥[けっかん]が見[み]つかった。 | Phát hiện lỗi chí mạng trong phần mềm.
+顕著[けんちょ] | adj-na | HIỂN TRƯỚC | rõ rệt, nổi bật | {顕著}な成果[せいか] | thành quả rõ rệt | 温暖化[おんだんか]の影響[えいきょう]が顕著[けんちょ]に表[あらわ]れている。 | Ảnh hưởng của ấm lên toàn cầu thể hiện rõ rệt.
+莫大[ばくだい] | adj-na | MẠC ĐẠI | khổng lồ, to lớn | {莫大}な費用[ひよう] | chi phí khổng lồ | 復旧[ふっきゅう]には莫大[ばくだい]な予算[よさん]が必要[ひつよう]だ。 | Phục hồi cần ngân sách khổng lồ.
+おびただしい | adj-i | - | rất nhiều, vô số | {おびただしい}数[かず] | số lượng rất nhiều | おびただしい量[りょう]の書類[しょるい]が積[つ]み上[あ]げられていた。 | Lượng tài liệu khổng lồ chất đống.
+目覚[めざ]ましい | adj-i | MỤC GIÁC | vượt bậc, ngoạn mục | {目覚ましい}進歩[しんぽ] | tiến bộ vượt bậc | AI技術[ぎじゅつ]は目覚[めざ]ましい発展[はってん]を遂[と]げている。 | Công nghệ AI đang phát triển vượt bậc.
+紛[まぎ]れもない | adj-i | PHÂN | rõ ràng, chắc chắn | {紛れもない}事実[じじつ] | sự thật không thể chối cãi | これは紛[まぎ]れもない本物[ほんもの]だ。 | Đây rõ ràng là hàng thật.
+奥深[おくぶか]い | adj-i | ÁO THÂM | sâu xa, uyên thâm | {奥深い}味[あじ]わい | hương vị sâu xa | 日本文化[にほんぶんか]は奥深[おくぶか]い。 | Văn hóa Nhật Bản thật uyên thâm.
+手堅[てがた]い | adj-i | THỦ KIÊN | chắc chắn, vững vàng | {手堅い}投資[とうし] | đầu tư chắc chắn | 手堅[てがた]い経営[けいえい]で会社[かいしゃ]を成長[せいちょう]させた。 | Kinh doanh vững vàng giúp công ty phát triển.
+空[むな]しい | adj-i | KHÔNG | hư vô, trống rỗng | {空しい}努力[どりょく] | nỗ lực vô ích | いくら頑張[がんば]っても空[むな]しい気持[きも]ちになる。 | Dù cố gắng đến đâu cũng cảm thấy trống rỗng.
+勿体[もったい]ない | adj-i | VẬT THỂ | lãng phí, tiếc | {勿体ない}使[つか]い方[かた] | cách dùng lãng phí | まだ食[た]べられるのに捨[す]てるのは勿体[もったい]ない。 | Còn ăn được mà vứt đi thì lãng phí.
+手際[てぎわ]よい | adj-i | THỦ TẾ | khéo léo, gọn gàng | {手際よい}仕事[しごと]ぶり | cách làm việc gọn gàng | シェフの手際[てぎわ]よい包丁[ほうちょう]さばきに感心[かんしん]した。 | Tôi khâm phục sự gọn gàng khi dùng dao của đầu bếp.
+遥[はる]か | adj-na | DAO | xa xôi, xa xăm | {遥か}な昔[むかし] | thời xa xưa | 遥[はる]か彼方[かなた]に富士山[ふじさん]が見[み]えた。 | Nhìn thấy núi Phú Sĩ ở phía xa xôi.
+多大[ただい] | adj-na | ĐA ĐẠI | rất lớn, to lớn | {多大}な影響[えいきょう] | ảnh hưởng rất lớn | 多大[ただい]なご迷惑[めいわく]をおかけして申[もう]し訳[わけ]ありません。 | Xin lỗi vì đã gây phiền lớn.
+壮大[そうだい] | adj-na | TRÁNG ĐẠI | hùng vĩ, hoành tráng | {壮大}な計画[けいかく] | kế hoạch hoành tráng | 壮大[そうだい]な自然[しぜん]の景色[けしき]に圧倒[あっとう]された。 | Bị áp đảo bởi phong cảnh thiên nhiên hùng vĩ.
+厳密[げんみつ] | adj-na | NGHIÊM MẬT | chính xác, chặt chẽ | {厳密}な管理[かんり] | quản lý chặt chẽ | 厳密[げんみつ]に言[い]えば、この二[ふた]つは異[こと]なる。 | Nói chính xác thì hai cái này khác nhau.
+殺風景[さっぷうけい] | adj-na | SÁT PHONG CẢNH | buồn tẻ, trống trải | {殺風景}な部屋[へや] | phòng trống trải | 引[ひ]っ越[こ]したばかりで部屋[へや]が殺風景[さっぷうけい]だ。 | Vừa chuyển nhà nên phòng còn trống trải.
+稀有[けう] | adj-na | HY HỮU | hiếm có, phi thường | {稀有}な才能[さいのう] | tài năng hiếm có | 稀有[けう]な体験[たいけん]をすることができた。 | Tôi có được trải nghiệm hiếm có.
+荒[あら]い | adj-i | HOANG | thô bạo, dữ dội | 気性[きしょう]が{荒い} | tính tình nóng nảy | 彼[かれ]は金遣[かねづか]いが荒[あら]い。 | Anh ấy tiêu tiền phung phí.
+脆[もろ]い | adj-i | THÚY | mong manh, dễ vỡ | {脆い}地盤[じばん] | nền đất yếu | この建物[たてもの]は地盤[じばん]が脆[もろ]くて危険[きけん]だ。 | Tòa nhà này nền đất yếu nên nguy hiểm.
+逞[たくま]しい | adj-i | SÍNH | cường tráng, khỏe mạnh | {逞しい}体[からだ] | thân thể cường tráng | 逞[たくま]しい腕[うで]で重[おも]い荷物[にもつ]を持[も]ち上[あ]げた。 | Với cánh tay cường tráng, anh nhấc bổng hành lý nặng.
+凄[すさ]まじい | adj-i | THÊ | kinh khủng, dữ dội | {凄まじい}勢[いきお]い | sức mạnh dữ dội | 凄[すさ]まじい勢[いきお]いで売[う]り上[あ]げが伸[の]びた。 | Doanh số tăng với tốc độ kinh khủng.
+好[この]ましい | adj-i | HIẾU | đáng mong muốn, được ưa thích | {好ましい}結果[けっか] | kết quả đáng mong muốn | 好[この]ましい結果[けっか]が得[え]られた。 | Đã đạt được kết quả đáng mong muốn.
+忌[い]まわしい | adj-i | KỴ | đáng ghê tởm, đáng ghét | {忌まわしい}記憶[きおく] | ký ức đáng ghê tởm | 忌[い]まわしい過去[かこ]を思[おも]い出[だ]したくない。 | Không muốn nhớ lại quá khứ đáng ghê tởm.
+痛[いた]ましい | adj-i | THỐNG | thương tâm, đau lòng | {痛ましい}事故[じこ] | tai nạn thương tâm | 痛[いた]ましい事故[じこ]のニュースに胸[むね]が痛[いた]んだ。 | Tin tai nạn thương tâm khiến lòng đau nhói.
+清々[すがすが]しい | adj-i | THANH | trong lành, sảng khoái | {清々しい}朝[あさ] | buổi sáng trong lành | 清々[すがすが]しい秋[あき]の朝[あさ]に散歩[さんぽ]した。 | Dạo bước trong buổi sáng mùa thu trong lành.
+初々[ういうい]しい | adj-i | SƠ | ngây thơ, non nớt | {初々しい}新人[しんじん] | nhân viên mới non nớt | 初々[ういうい]しい新入[しんにゅう]社員[しゃいん]が挨拶[あいさつ]に来[き]た。 | Nhân viên mới non nớt đến chào hỏi.
+空々[そらぞら]しい | adj-i | KHÔNG | giả tạo, vờ vĩnh | {空々しい}嘘[うそ] | lời dối giả tạo | 空々[そらぞら]しい言[い]い訳[わけ]をするな。 | Đừng đưa ra lý do biện minh giả tạo.
+白々[しらじら]しい | adj-i | BẠCH | trắng trợn, lộ liễu | {白々しい}嘘[うそ] | nói dối trắng trợn | そんな白々[しらじら]しい嘘[うそ]は誰[だれ]も信[しん]じない。 | Không ai tin lời dối trắng trợn như thế.
+よそよそしい | adj-i | - | lạnh nhạt, xa cách | {よそよそしい}態度[たいど] | thái độ lạnh nhạt | 急[きゅう]によそよそしい態度[たいど]を取[と]られて困惑[こんわく]した。 | Bối rối vì bị đối xử lạnh nhạt đột ngột.
+馴[な]れ馴[な]れしい | adj-i | THUẦN | suồng sã, quá thân mật | {馴れ馴れしい}口調[くちょう] | giọng điệu suồng sã | 初対面[しょたいめん]なのに馴[な]れ馴[な]れしい口調[くちょう]で話[はな]す。 | Mới gặp lần đầu mà nói chuyện với giọng điệu suồng sã.
+うやうやしい | adj-i | - | cung kính, trang trọng | {うやうやしい}態度[たいど] | thái độ cung kính | うやうやしく一礼[いちれい]して部屋[へや]に入[はい]った。 | Cung kính cúi chào rồi bước vào phòng.
+華々[はなばな]しい | adj-i | HOA | rực rỡ, huy hoàng | {華々しい}デビュー | ra mắt rực rỡ | 華々[はなばな]しいデビューを飾[かざ]った新人[しんじん]歌手[かしゅ]だ。 | Đó là ca sĩ mới ra mắt rực rỡ.
+猛々[たけだけ]しい | adj-i | MÃNH | hung dữ, dũng mãnh | {猛々しい}目[め]つき | ánh mắt hung dữ | 猛々[たけだけ]しい目[め]つきで敵[てき]を睨[にら]んだ。 | Trừng mắt hung dữ nhìn kẻ thù.
+痒[かゆ]い | adj-i | DƯỠNG | ngứa | {痒い}ところ | chỗ ngứa | 蚊[か]に刺[さ]されて痒[かゆ]くてたまらない。 | Bị muỗi đốt ngứa không chịu nổi.
+疎[うと]い | adj-i | SƠ | xa lạ, không rành | 機械[きかい]に{疎い} | không rành máy móc | パソコンに疎[うと]くて設定[せってい]ができない。 | Không rành máy tính nên không cài đặt được.
+儚[はかな]い | adj-i | MỘNG | phù du, mong manh | {儚い}夢[ゆめ] | giấc mơ phù du | 桜[さくら]は儚[はかな]い美[うつく]しさの象徴[しょうちょう]だ。 | Hoa anh đào là biểu tượng của vẻ đẹp phù du.
+怠[だる]い | adj-i | ĐÃI | mệt mỏi, uể oải | 体[からだ]が{怠い} | cơ thể mệt mỏi | 風邪[かぜ]で体[からだ]が怠[だる]くて動[うご]けない。 | Cảm cúm nên mệt mỏi không nhúc nhích nổi.
+物々[ものもの]しい | adj-i | VẬT | nghiêm trọng, rầm rộ | {物々しい}警備[けいび] | canh gác nghiêm ngặt | 要人[ようじん]の来日[らいにち]で物々[ものもの]しい警備[けいび]が敷[し]かれた。 | Yếu nhân đến Nhật nên an ninh được bố trí nghiêm ngặt.
+仰々[ぎょうぎょう]しい | adj-i | NGƯỠNG | phóng đại, làm quá | {仰々しい}表現[ひょうげん] | biểu hiện phóng đại | そんな仰々[ぎょうぎょう]しく言[い]わなくてもいいよ。 | Không cần phải nói phóng đại thế đâu.
+忙[せわ]しない | adj-i | MANG | bận rộn không ngơi, hối hả | {忙しない}日々[ひび] | những ngày hối hả | 年末[ねんまつ]は忙[せわ]しない日々[ひび]が続[つづ]く。 | Cuối năm những ngày hối hả kéo dài.
+目[め]まぐるしい | adj-i | MỤC | chóng mặt, biến đổi nhanh | {目まぐるしい}変化[へんか] | biến đổi chóng mặt | IT業界[ぎょうかい]は目[め]まぐるしい変化[へんか]が続[つづ]いている。 | Ngành IT liên tục có biến đổi chóng mặt.
+おぞましい | adj-i | - | kinh tởm, ghê rợn | {おぞましい}犯行[はんこう] | hành vi phạm tội kinh tởm | おぞましい事件[じけん]の詳細[しょうさい]が明[あき]らかになった。 | Chi tiết vụ án kinh tởm đã được phơi bày.
+麗[うるわ]しい | adj-i | LỆ | đẹp đẽ, tao nhã | {麗しい}姿[すがた] | dáng vẻ tao nhã | 麗[うるわ]しい友情[ゆうじょう]に心[こころ]を打[う]たれた。 | Bị lay động bởi tình bạn đẹp đẽ.
+みすぼらしい | adj-i | - | tồi tàn, nhếch nhác | {みすぼらしい}格好[かっこう] | bộ dạng nhếch nhác | みすぼらしい身[み]なりだが実[じつ]は資産家[しさんか]だ。 | Bộ dạng nhếch nhác nhưng thực ra là nhà tư sản.
+物珍[ものめずら]しい | adj-i | VẬT TRÂN | lạ mắt, hiếu kỳ | {物珍しい}目[め]で見[み]る | nhìn bằng ánh mắt hiếu kỳ | 外国人[がいこくじん]を物珍[ものめずら]しい目[め]で見[み]る子供[こども]たち。 | Trẻ em nhìn người nước ngoài bằng ánh mắt hiếu kỳ.
+根深[ねぶか]い | adj-i | CĂN THÂM | sâu xa, ăn sâu | {根深い}偏見[へんけん] | thành kiến ăn sâu | 社会[しゃかい]に根深[ねぶか]い差別[さべつ]意識[いしき]がある。 | Trong xã hội có ý thức phân biệt ăn sâu.
+手厚[てあつ]い | adj-i | THỦ HẬU | chu đáo, hậu hĩnh | {手厚い}もてなし | tiếp đãi chu đáo | 手厚[てあつ]いもてなしに感激[かんげき]した。 | Cảm kích vì sự tiếp đãi chu đáo.
+手強[てごわ]い | adj-i | THỦ CƯỜNG | khó đối phó, ngoan cường | {手強い}相手[あいて] | đối thủ ngoan cường | 決勝[けっしょう]の相手[あいて]はかなり手強[てごわ]い。 | Đối thủ trận chung kết rất ngoan cường.
+小賢[こざか]しい | adj-i | TIỂU HIỀN | khôn vặt, ranh mãnh | {小賢しい}態度[たいど] | thái độ khôn vặt | 小賢[こざか]しい言[い]い訳[わけ]をするな。 | Đừng biện minh khôn vặt.
+気[け]だるい | adj-i | KHÍ | uể oải, lười biếng | {気だるい}午後[ごご] | buổi chiều uể oải | 夏[なつ]の気[け]だるい午後[ごご]に昼寝[ひるね]をした。 | Ngủ trưa vào buổi chiều uể oải mùa hè.
+ほろ苦[にが]い | adj-i | KHỔ | hơi đắng, chua xót | {ほろ苦い}思[おも]い出[で] | kỷ niệm chua xót | 青春[せいしゅん]のほろ苦[にが]い思[おも]い出[で]が蘇[よみがえ]った。 | Kỷ niệm chua xót thời thanh xuân sống lại.
+生温[なまぬる]い | adj-i | SINH ÔN | ấm ấm, hời hợt | {生温い}対応[たいおう] | ứng phó hời hợt | 生温[なまぬる]い対応[たいおう]では問題[もんだい]は解決[かいけつ]しない。 | Ứng phó hời hợt thì vấn đề không giải quyết được.
+手[て]ぬるい | adj-i | THỦ | quá nhẹ tay, nhu nhược | {手ぬるい}処分[しょぶん] | xử phạt quá nhẹ | 手[て]ぬるい処分[しょぶん]に被害者[ひがいしゃ]が怒[いか]っている。 | Nạn nhân tức giận vì xử phạt quá nhẹ.
+あくどい | adj-i | - | tàn nhẫn, xấu xa | {あくどい}やり方[かた] | cách làm xấu xa | あくどい商売[しょうばい]で儲[もう]けている。 | Kiếm lời bằng cách kinh doanh xấu xa.
+せこい | adj-i | - | keo kiệt, bủn xỉn | {せこい}やり方[かた] | cách làm keo kiệt | せこい手[て]を使[つか]って得[とく]しようとする。 | Dùng thủ đoạn keo kiệt để trục lợi.
+えぐい | adj-i | - | cay nghiệt, quá đáng | {えぐい}質問[しつもん] | câu hỏi cay nghiệt | 記者[きしゃ]からえぐい質問[しつもん]が飛[と]んできた。 | Phóng viên đặt câu hỏi cay nghiệt.
+際[きわ]どい | adj-i | TẾ | suýt soát, mạo hiểm | {際どい}判定[はんてい] | phán quyết suýt soát | 際[きわ]どい判定[はんてい]で勝[か]ちを拾[ひろ]った。 | Thắng nhờ phán quyết suýt soát.
+毒々[どくどく]しい | adj-i | ĐỘC | lòe loẹt, trông độc | {毒々しい}色[いろ] | màu sắc lòe loẹt | 毒々[どくどく]しい色[いろ]のキノコは食[た]べないほうがいい。 | Nấm màu lòe loẹt không nên ăn.
+けばけばしい | adj-i | - | lòe loẹt, sặc sỡ | {けばけばしい}服装[ふくそう] | trang phục lòe loẹt | けばけばしい化粧[けしょう]は好[す]きじゃない。 | Không thích trang điểm lòe loẹt.
+横暴[おうぼう] | adj-na | HOÀNH BẠO | bạo ngược | {横暴}な振[ふ]る舞[ま]い | cách cư xử bạo ngược | 横暴[おうぼう]な権力者[けんりょくしゃ]に立[た]ち向[む]かった。 | Đứng lên chống lại kẻ quyền lực bạo ngược.
+凶暴[きょうぼう] | adj-na | HUNG BẠO | hung bạo | {凶暴}な性格[せいかく] | tính cách hung bạo | 凶暴[きょうぼう]な犯人[はんにん]が逮捕[たいほ]された。 | Tội phạm hung bạo đã bị bắt.
+獰猛[どうもう] | adj-na | NINH MÃNH | hung tợn | {獰猛}な動物[どうぶつ] | động vật hung tợn | 獰猛[どうもう]な野生[やせい]動物[どうぶつ]に注意[ちゅうい]する。 | Cẩn thận với động vật hoang dã hung tợn.
+不遜[ふそん] | adj-na | BẤT TỐN | bất kính, kiêu ngạo | {不遜}な態度[たいど] | thái độ bất kính | 不遜[ふそん]な態度[たいど]で上司[じょうし]に接[せっ]した。 | Đối xử bất kính với cấp trên.
+純朴[じゅんぼく] | adj-na | THUẦN PHÁC | chất phác, mộc mạc | {純朴}な人柄[ひとがら] | tính cách chất phác | 純朴[じゅんぼく]な村人[むらびと]に温[あたた]かく迎[むか]えられた。 | Được dân làng chất phác đón tiếp nồng hậu.
+深遠[しんえん] | adj-na | THÂM VIỄN | thâm sâu | {深遠}な思想[しそう] | tư tưởng thâm sâu | 深遠[しんえん]な哲学[てつがく]的[てき]問[と]いかけだ。 | Là câu hỏi triết học thâm sâu.
+厳粛[げんしゅく] | adj-na | NGHIÊM TÚC | trang nghiêm | {厳粛}な雰囲気[ふんいき] | bầu không khí trang nghiêm | 厳粛[げんしゅく]な雰囲気[ふんいき]の中[なか]で式典[しきてん]が行[おこな]われた。 | Lễ kỷ niệm diễn ra trong bầu không khí trang nghiêm.
+雄大[ゆうだい] | adj-na | HÙNG ĐẠI | hùng vĩ | {雄大}な景色[けしき] | cảnh sắc hùng vĩ | 雄大[ゆうだい]なアルプスの山並[やまな]みに感動[かんどう]した。 | Xúc động trước dãy Alps hùng vĩ.
+広大[こうだい] | adj-na | QUẢNG ĐẠI | rộng lớn | {広大}な土地[とち] | đất đai rộng lớn | 広大[こうだい]な牧場[ぼくじょう]で牛[うし]が放牧[ほうぼく]されている。 | Bò được chăn thả trên đồng cỏ rộng lớn.
+広漠[こうばく] | adj-na | QUẢNG MẠC | mênh mông | {広漠}とした砂漠[さばく] | sa mạc mênh mông | 広漠[こうばく]とした大地[だいち]が広[ひろ]がっていた。 | Đại địa mênh mông trải rộng.
+渺茫[びょうぼう] | adj-na | MIỂU MANG | mênh mang, vô vọng | {渺茫}とした海[うみ] | biển mênh mang | 渺茫[びょうぼう]とした海原[うなばら]を見渡[みわた]した。 | Nhìn bao quát biển cả mênh mang.
+精緻[せいち] | adj-na | TINH TRÍ | tinh xảo | {精緻}な細工[さいく] | đồ thủ công tinh xảo | 精緻[せいち]な彫刻[ちょうこく]が施[ほどこ]されている。 | Được chạm trổ tinh xảo.
+些細[ささい] | adj-na | TA TẾ | vặt vãnh, nhỏ nhặt | {些細}なことで | vì chuyện nhỏ nhặt | 些細[ささい]なことで口論[こうろん]になった。 | Cãi nhau vì chuyện nhỏ nhặt.
+微々[びび]たる | adj-na | VI VI | nhỏ bé, không đáng kể | {微々[びび]たる}金額[きんがく] | số tiền không đáng kể | 微々[びび]たる差[さ]ではあるが改善[かいぜん]は見[み]られた。 | Tuy là khác biệt không đáng kể nhưng đã thấy cải thiện.

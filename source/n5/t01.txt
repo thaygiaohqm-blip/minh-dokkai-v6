@@ -1,0 +1,85 @@
+@topic t01
+@ja 挨拶[あいさつ]と人[ひと]
+@vi Chào hỏi và con người
+@desc Lời chào hằng ngày, cách xưng hô, các thành viên trong gia đình và những câu tự giới thiệu đầu tiên.
+# từ | từ loại | Hán Việt | nghĩa | cụm từ | nghĩa cụm | ví dụ | dịch
+おはよう ございます | exp | - | chào buổi sáng | - | - | 先生[せんせい]、おはようございます。 | Chào buổi sáng thầy ạ.
+こんにちは | exp | - | xin chào (ban ngày) | - | - | 皆[みな]さん、こんにちは。 | Xin chào mọi người.
+こんばんは | exp | - | chào buổi tối | - | - | こんばんは。今日[きょう]は寒[さむ]いですね。 | Chào buổi tối. Hôm nay lạnh nhỉ.
+さようなら | exp | - | tạm biệt | - | - | 先生[せんせい]、さようなら。また明日[あした]。 | Tạm biệt thầy. Hẹn mai gặp lại.
+おやすみ なさい | exp | - | chúc ngủ ngon | - | - | もう寝[ね]ます。おやすみなさい。 | Mình đi ngủ đây. Chúc ngủ ngon.
+ありがとう ございます | exp | - | cảm ơn | - | - | 本[ほん]を貸[か]してくれて、ありがとうございます。 | Cảm ơn bạn đã cho mượn sách.
+すみません | exp | - | xin lỗi; cho tôi hỏi | - | - | すみません、駅[えき]はどこですか。 | Xin lỗi, cho hỏi nhà ga ở đâu ạ?
+ごめん なさい | exp | - | xin lỗi (thân mật) | - | - | 遅[おそ]くなって、ごめんなさい。 | Xin lỗi vì mình đến muộn.
+はじめまして | exp | - | rất vui được gặp lần đầu | - | - | はじめまして。ミンです。 | Rất vui được gặp bạn. Mình là Minh.
+どうぞ よろしく | exp | - | rất mong được giúp đỡ | - | - | どうぞよろしくお願[ねが]いします。 | Rất mong được mọi người giúp đỡ.
+お願[ねが]い します | exp | NGUYỆN | làm ơn; nhờ anh chị | - | - | コーヒーを一[ひと]つお願[ねが]いします。 | Cho tôi một cốc cà phê.
+どう いたしまして | exp | - | không có gì | - | - | 「ありがとう。」「どういたしまして。」 | "Cảm ơn." "Không có gì."
+いただきます | exp | - | xin phép ăn (trước bữa ăn) | - | - | おいしそうですね。いただきます。 | Trông ngon quá. Mời cả nhà ạ.
+ごちそうさま でした | exp | - | cảm ơn vì bữa ăn | - | - | おいしかったです。ごちそうさまでした。 | Ngon lắm ạ. Cảm ơn vì bữa ăn.
+いって きます | exp | - | con đi đây | - | - | 学校[がっこう]へいってきます。 | Con đi học đây ạ.
+いって らっしゃい | exp | - | đi cẩn thận nhé | - | - | 「いってきます。」「いってらっしゃい。」 | "Con đi đây." "Đi cẩn thận nhé."
+ただいま | exp | - | con về rồi | - | - | ただいま。今日[きょう]は忙[いそが]しかった。 | Con về rồi. Hôm nay bận quá.
+おかえり なさい | exp | - | mừng con về | - | - | 「ただいま。」「おかえりなさい。」 | "Con về rồi." "Mừng con về."
+失礼[しつれい] します | exp | THẤT LỄ | xin phép (vào/ra) | - | - | 失礼[しつれい]します。入[はい]ってもいいですか。 | Em xin phép. Em vào được không ạ?
+もしもし | interj | - | a lô | - | - | もしもし、田中[たなか]です。 | A lô, Tanaka đây.
+はい | interj | - | vâng, dạ | - | - | 「学生[がくせい]ですか。」「はい、そうです。」 | "Bạn là sinh viên à?" "Vâng, đúng vậy."
+いいえ | interj | - | không | - | - | 「先生[せんせい]ですか。」「いいえ、学生[がくせい]です。」 | "Anh là giáo viên à?" "Không, tôi là sinh viên."
+ええ | interj | - | ừ, vâng | - | - | 「日本[にほん]は初[はじ]めてですか。」「ええ、初[はじ]めてです。」 | "Lần đầu bạn đến Nhật à?" "Ừ, lần đầu."
+私[わたし] | pron | TƯ | tôi | - | - | 私[わたし]はベトナム人[じん]です。 | Tôi là người Việt Nam.
+あなた | pron | - | bạn, anh, chị | - | - | あなたのお名前[なまえ]は何[なん]ですか。 | Tên bạn là gì?
+彼[かれ] | pron | BỈ | anh ấy | - | - | 彼[かれ]は私[わたし]の友達[ともだち]です。 | Anh ấy là bạn tôi.
+彼女[かのじょ] | pron | BỈ NỮ | cô ấy; bạn gái | - | - | 彼女[かのじょ]は病院[びょういん]で働[はたら]いています。 | Cô ấy làm việc ở bệnh viện.
+皆[みな]さん | pron | GIAI | mọi người, các bạn | - | - | 皆[みな]さん、静[しず]かにしてください。 | Mọi người giữ trật tự nhé.
+誰[だれ] | q | THÙY | ai | - | - | あの人[ひと]は誰[だれ]ですか。 | Người kia là ai?
+どなた | q | - | vị nào (lịch sự) | - | - | 失礼[しつれい]ですが、どなたですか。 | Xin lỗi, ngài là ai ạ?
+人[ひと] | n | NHÂN | người | - | - | 駅[えき]の前[まえ]に人[ひと]がたくさんいます。 | Trước ga có rất nhiều người.
+男[おとこ] の 人[ひと] | n | NAM NHÂN | người đàn ông | - | - | 男[おとこ]の人[ひと]が三人[さんにん]来[き]ました。 | Ba người đàn ông đã đến.
+女[おんな] の 人[ひと] | n | NỮ NHÂN | người phụ nữ | - | - | あの女[おんな]の人[ひと]は誰[だれ]ですか。 | Người phụ nữ kia là ai?
+男[おとこ] の 子[こ] | n | NAM TỬ | bé trai | - | - | 公園[こうえん]で男[おとこ]の子[こ]が遊[あそ]んでいます。 | Có bé trai đang chơi ở công viên.
+女[おんな] の 子[こ] | n | NỮ TỬ | bé gái | - | - | 女[おんな]の子[こ]が歌[うた]を歌[うた]っています。 | Bé gái đang hát.
+子供[こども] | n | TỬ CUNG | trẻ con; con cái | 子供[こども] が いる | có con | 田中[たなか]さんには子供[こども]が二人[ふたり]います。 | Anh Tanaka có hai con.
+大人[おとな] | n | ĐẠI NHÂN | người lớn | 大人[おとな] に なる | trở thành người lớn | 弟[おとうと]はもうすぐ大人[おとな]になります。 | Em trai tôi sắp thành người lớn rồi.
+友達[ともだち] | n | HỮU ĐẠT | bạn bè | 友達[ともだち] が できる | kết được bạn | 日本[にほん]で友達[ともだち]ができました。 | Tôi đã kết được bạn ở Nhật.
+名前[なまえ] | n | DANH TIỀN | tên | 名前[なまえ] を 書[か]く | viết tên | ここに名前[なまえ]を書[か]いてください。 | Hãy viết tên vào đây.
+先生[せんせい] | n | TIÊN SINH | giáo viên; thầy cô | - | - | 山田[やまだ]先生[せんせい]は英語[えいご]を教[おし]えています。 | Thầy Yamada dạy tiếng Anh.
+学生[がくせい] | n | HỌC SINH | học sinh, sinh viên | - | - | 私[わたし]は大学[だいがく]の学生[がくせい]です。 | Tôi là sinh viên đại học.
+医者[いしゃ] | n | Y GIẢ | bác sĩ | 医者[いしゃ] に なる | trở thành bác sĩ | 兄[あに]は医者[いしゃ]になりました。 | Anh trai tôi đã trở thành bác sĩ.
+警官[けいかん] | n | CẢNH QUAN | cảnh sát | 警官[けいかん] に 聞[き]く | hỏi cảnh sát | 道[みち]がわからない時[とき]は、警官[けいかん]に聞[き]きます。 | Khi không biết đường, tôi hỏi cảnh sát.
+外国人[がいこくじん] | n | NGOẠI QUỐC NHÂN | người nước ngoài | - | - | この町[まち]には外国人[がいこくじん]が多[おお]いです。 | Thị trấn này có nhiều người nước ngoài.
+国[くに] | n | QUỐC | đất nước; quê nhà | 国[くに] へ 帰[かえ]る | về nước | 来年[らいねん]、国[くに]へ帰[かえ]ります。 | Sang năm tôi về nước.
+人[じん] | suf | NHÂN | người (chỉ quốc tịch) | - | - | マイさんはベトナム人[じん]です。 | Chị Mai là người Việt Nam.
+さん | suf | - | anh, chị, ông, bà (gắn sau tên) | - | - | 山田[やまだ]さんは銀行[ぎんこう]で働[はたら]いています。 | Anh Yamada làm việc ở ngân hàng.
+自分[じぶん] | n | TỰ PHÂN | bản thân, tự mình | 自分[じぶん] で 作[つく]る | tự mình làm | この料理[りょうり]は自分[じぶん]で作[つく]りました。 | Món này tôi tự nấu.
+一人[ひとり] | n | NHẤT NHÂN | một người; một mình | 一人[ひとり] で 旅行[りょこう] する | du lịch một mình | 一人[ひとり]で旅行[りょこう]するのが好[す]きです。 | Tôi thích đi du lịch một mình.
+二人[ふたり] | n | NHỊ NHÂN | hai người | 二人[ふたり] で 行[い]く | hai người cùng đi | 日曜日[にちようび]、彼女[かのじょ]と二人[ふたり]で映画[えいが]に行[い]きます。 | Chủ nhật tôi đi xem phim cùng bạn gái.
+大勢[おおぜい] | n | ĐẠI THẾ | đông người | 大勢[おおぜい] の 人[ひと] | rất đông người | 公園[こうえん]に大勢[おおぜい]の人[ひと]が来[き]ました。 | Rất đông người đã đến công viên.
+家族[かぞく] | n | GIA TỘC | gia đình | 家族[かぞく] を 大切[たいせつ] に する | trân trọng gia đình | 父[ちち]はいつも家族[かぞく]を大切[たいせつ]にしています。 | Bố tôi luôn trân trọng gia đình.
+両親[りょうしん] | n | LƯỠNG THÂN | bố mẹ | 両親[りょうしん] に 電話[でんわ] する | gọi điện cho bố mẹ | 毎週[まいしゅう]、両親[りょうしん]に電話[でんわ]します。 | Mỗi tuần tôi gọi điện cho bố mẹ.
+父[ちち] | n | PHỤ | bố (của mình) | - | - | 父[ちち]は銀行[ぎんこう]に勤[つと]めています。 | Bố tôi làm ở ngân hàng.
+母[はは] | n | MẪU | mẹ (của mình) | - | - | 母[はは]は毎朝[まいあさ]六時[ろくじ]に起[お]きます。 | Mẹ tôi dậy lúc sáu giờ mỗi sáng.
+お父[とう]さん | n | PHỤ | bố (người khác); bố ơi | - | - | お父[とう]さんはお元気[げんき]ですか。 | Bố bạn có khỏe không?
+お母[かあ]さん | n | MẪU | mẹ (người khác); mẹ ơi | - | - | お母[かあ]さんの料理[りょうり]はおいしいです。 | Món mẹ nấu rất ngon.
+兄[あに] | n | HUYNH | anh trai (của mình) | - | - | 兄[あに]は大学[だいがく]で英語[えいご]を勉強[べんきょう]しています。 | Anh trai tôi học tiếng Anh ở đại học.
+姉[あね] | n | TỶ | chị gái (của mình) | - | - | 姉[あね]は私[わたし]より背[せ]が高[たか]いです。 | Chị tôi cao hơn tôi.
+弟[おとうと] | n | ĐỆ | em trai | - | - | 弟[おとうと]は今年[ことし]十歳[じゅっさい]です。 | Năm nay em trai tôi mười tuổi.
+妹[いもうと] | n | MUỘI | em gái | - | - | 妹[いもうと]と一緒[いっしょ]に買[か]い物[もの]に行[い]きます。 | Tôi đi mua sắm cùng em gái.
+お兄[にい]さん | n | HUYNH | anh trai (người khác) | - | - | お兄[にい]さんは何[なに]をしていますか。 | Anh trai bạn đang làm gì?
+お姉[ねえ]さん | n | TỶ | chị gái (người khác) | - | - | お姉[ねえ]さんはどこに住[す]んでいますか。 | Chị gái bạn sống ở đâu?
+兄弟[きょうだい] | n | HUYNH ĐỆ | anh chị em | - | - | 兄弟[きょうだい]は何人[なんにん]いますか。 | Bạn có mấy anh chị em?
+おじいさん | n | - | ông; ông cụ | - | - | おじいさんは今年[ことし]八十歳[はちじゅっさい]になります。 | Năm nay ông tôi tròn tám mươi tuổi.
+おばあさん | n | - | bà; bà cụ | - | - | おばあさんに手紙[てがみ]を書[か]きました。 | Tôi đã viết thư cho bà.
+おじさん | n | - | chú, bác; ông chú | - | - | 隣[となり]のおじさんは毎朝[まいあさ]犬[いぬ]と散歩[さんぽ]します。 | Ông chú nhà bên sáng nào cũng dắt chó đi dạo.
+おばさん | n | - | cô, dì; bà cô | - | - | おばさんがケーキを作[つく]ってくれました。 | Cô tôi đã làm bánh cho tôi.
+夫[おっと] | n | PHU | chồng (của mình) | - | - | 夫[おっと]と二人[ふたり]で京都[きょうと]へ行[い]きました。 | Tôi đã cùng chồng đi Kyoto.
+妻[つま] | n | THÊ | vợ (của mình) | - | - | 妻[つま]は料理[りょうり]が上手[じょうず]です。 | Vợ tôi nấu ăn giỏi.
+奥[おく]さん | n | ÁO | vợ (của người khác) | - | - | 奥[おく]さんはお元気[げんき]ですか。 | Vợ anh có khỏe không?
+結婚[けっこん] する | v3 | KẾT HÔN | kết hôn | {結婚[けっこん]} して いる | đã kết hôn | 姉[あね]はもう結婚[けっこん]しています。 | Chị gái tôi đã kết hôn rồi.
+生[う]まれる | v2 | SINH | được sinh ra | ハノイ で 生[う]まれる | sinh ra ở Hà Nội | 私[わたし]はハノイで生[う]まれました。 | Tôi sinh ra ở Hà Nội.
+会[あ]う | v1 | HỘI | gặp | 人[ひと] に 会[あ]う | gặp ai đó | 明日[あした]、駅[えき]で先生[せんせい]に会[あ]います。 | Ngày mai tôi gặp thầy ở nhà ga.
+呼[よ]ぶ | v1 | HÔ | gọi | 名前[なまえ] を 呼[よ]ぶ | gọi tên | 先生[せんせい]が私[わたし]の名前[なまえ]を呼[よ]びました。 | Thầy giáo đã gọi tên tôi.
+話[はな]す | v1 | THOẠI | nói chuyện | 友達[ともだち] と 話[はな]す | nói chuyện với bạn | 昨日[きのう]、友達[ともだち]と電話[でんわ]で話[はな]しました。 | Hôm qua tôi đã nói chuyện điện thoại với bạn.
+言[い]う | v1 | NGÔN | nói | お礼[れい] を 言[い]う | nói lời cảm ơn | 先生[せんせい]にお礼[れい]を言[い]いました。 | Tôi đã nói lời cảm ơn với thầy.
+住[す]む | v1 | TRÚ | sống, cư trú | 東京[とうきょう] に 住[す]む | sống ở Tokyo | どこに住[す]んでいますか。 | Bạn đang sống ở đâu?
+元気[げんき] | adj-na | NGUYÊN KHÍ | khỏe mạnh, hăng hái | 元気[げんき] な 子供[こども] | đứa trẻ khỏe mạnh | 「お元気[げんき]ですか。」「はい、元気[げんき]です。」 | "Bạn khỏe không?" "Vâng, tôi khỏe."
+親切[しんせつ] | adj-na | THÂN THIẾT | tử tế, tốt bụng | 親切[しんせつ] な 人[ひと] | người tốt bụng | ホテルの人[ひと]はとても親切[しんせつ]でした。 | Nhân viên khách sạn rất tốt bụng.

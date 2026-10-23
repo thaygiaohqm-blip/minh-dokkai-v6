@@ -1,0 +1,182 @@
+@topic t18
+@ja スポーツ・体[からだ]の動[うご]き
+@vi Thể thao và động tác cơ thể
+@desc Thi đấu, luyện tập, kết quả trận đấu và những động từ mô tả cử động của tay chân, thân người, kể cả nhiều động từ ghép thường gặp.
+競技[きょうぎ] | n,v3 | CẠNH KỸ | môn thi đấu | {競技} 場[じょう] | sân vận động | オリンピックでは多[おお]くの競技[きょうぎ]が行[おこな]われる。 | Ở Thế vận hội có rất nhiều môn thi đấu.
+競技場[きょうぎじょう] | n | CẠNH KỸ TRƯỜNG | sân thi đấu | - | - | 新[あたら]しい競技場[きょうぎじょう]で開会式[かいかいしき]が行[おこな]われた。 | Lễ khai mạc diễn ra ở sân vận động mới.
+種目[しゅもく] | n | CHỦNG MỤC | nội dung thi đấu | - | - | 彼[かれ]は三[みっ]つの種目[しゅもく]で金[きん]メダルを取[と]った。 | Anh ấy giành huy chương vàng ở ba nội dung.
+代表[だいひょう]選手[せんしゅ] | n | ĐẠI BIỂU TUYỂN THỦ | tuyển thủ đại diện | - | - | 日本[にほん]の代表[だいひょう]選手[せんしゅ]に選[えら]ばれた。 | Tôi được chọn làm tuyển thủ đại diện Nhật Bản.
+スポーツ選手[せんしゅ] | n | TUYỂN THỦ | vận động viên | - | - | スポーツ選手[せんしゅ]は体調[たいちょう]管理[かんり]が大切[たいせつ]だ。 | Với vận động viên, quản lý thể trạng rất quan trọng.
+プロ | n | - | chuyên nghiệp | {プロ} 野球[やきゅう] | bóng chày chuyên nghiệp | 高校[こうこう]卒業[そつぎょう]後[ご]、プロのサッカー選手[せんしゅ]になった。 | Tốt nghiệp cấp ba, anh ấy trở thành cầu thủ chuyên nghiệp.
+アマチュア | n | - | nghiệp dư | - | - | アマチュアの大会[たいかい]で優勝[ゆうしょう]した。 | Tôi vô địch một giải nghiệp dư.
+主審[しゅしん] | n | CHỦ THẨM | trọng tài chính | - | - | 主審[しゅしん]の笛[ふえ]で試合[しあい]が始[はじ]まった。 | Trận đấu bắt đầu bằng tiếng còi của trọng tài chính.
+判定[はんてい] | n,v3 | PHÁN ĐỊNH | phán quyết | {判定} 勝[が]ち | thắng điểm | ビデオで判定[はんてい]が覆[くつがえ]った。 | Phán quyết bị lật lại nhờ xem video.
+反則[はんそく] | n,v3 | PHẢN TẮC | phạm luật | - | - | 反則[はんそく]をして相手[あいて]にボールを与[あた]えた。 | Phạm luật khiến đối phương được bóng.
+ファウル | n | - | lỗi, phạm quy | - | - | 相手[あいて]の選手[せんしゅ]を押[お]してファウルを取[と]られた。 | Đẩy cầu thủ đối phương nên bị thổi phạt.
+退場[たいじょう] | n,v3 | THOÁI TRƯỜNG | rời sân; bị đuổi | - | - | 二枚目[にまいめ]のイエローカードで退場[たいじょう]になった。 | Nhận thẻ vàng thứ hai nên bị đuổi khỏi sân.
+失格[しっかく] | n,v3 | THẤT CÁCH | bị loại, mất tư cách | - | - | フライングで失格[しっかく]になった。 | Bị loại vì xuất phát sớm.
+対戦[たいせん] | n,v3 | ĐỐI CHIẾN | thi đấu với | {対戦} 相手[あいて] | đối thủ | 一回戦[いっかいせん]の対戦[たいせん]相手[あいて]が決[き]まった。 | Đã xác định đối thủ vòng một.
+対決[たいけつ] | n,v3 | ĐỐI QUYẾT | đối đầu | - | - | 決勝[けっしょう]は昨年[さくねん]と同[おな]じチームの対決[たいけつ]になった。 | Trận chung kết lại là cuộc đối đầu giữa hai đội như năm ngoái.
+予選[よせん] | n | DỰ TUYỂN | vòng loại | {予選} を 通過[つうか]する | vượt qua vòng loại | 予選[よせん]を一位[いちい]で通過[つうか]した。 | Vượt qua vòng loại với vị trí số một.
+本選[ほんせん] | n | BẢN TUYỂN | vòng chính | - | - | 本選[ほんせん]に進[すす]めるのは十[じゅう]チームだけだ。 | Chỉ mười đội được vào vòng chính.
+準決勝[じゅんけっしょう] | n | CHUẨN QUYẾT THẮNG | bán kết | - | - | 準決勝[じゅんけっしょう]で強豪[きょうごう]チームに敗[やぶ]れた。 | Thua đội mạnh ở bán kết.
+準優勝[じゅんゆうしょう] | n,v3 | CHUẨN ƯU THẮNG | á quân | - | - | 去年[きょねん]は準優勝[じゅんゆうしょう]だったが、今年[ことし]は優勝[ゆうしょう]したい。 | Năm ngoái là á quân, năm nay muốn vô địch.
+勝敗[しょうはい] | n | THẮNG BẠI | thắng thua | {勝敗} を 決[き]める | quyết định thắng thua | 最後[さいご]の一[いっ]球[きゅう]が勝敗[しょうはい]を決[き]めた。 | Cú đánh cuối cùng đã quyết định thắng thua.
+逆転[ぎゃくてん] | n,v3 | NGHỊCH CHUYỂN | lội ngược dòng | {逆転} 勝[が]ち | thắng ngược | 後半[こうはん]に二点[にてん]を取[と]って逆転[ぎゃくてん]した。 | Ghi hai bàn ở hiệp hai và lội ngược dòng.
+連勝[れんしょう] | n,v3 | LIÊN THẮNG | thắng liên tiếp | - | - | チームは十[じゅう]連勝[れんしょう]を記録[きろく]した。 | Đội ghi chuỗi mười trận thắng liên tiếp.
+連敗[れんぱい] | n,v3 | LIÊN BẠI | thua liên tiếp | - | - | 五[ご]連敗[れんぱい]で監督[かんとく]が交代[こうたい]した。 | Thua liên tiếp năm trận nên huấn luyện viên bị thay.
+新記録[しんきろく] | n | TÂN KÝ LỤC | kỷ lục mới | {新記録} を 出[だ]す | lập kỷ lục mới | 百[ひゃく]メートルで日本[にほん]新記録[しんきろく]が出[で]た。 | Kỷ lục mới của Nhật ở cự ly một trăm mét đã được lập.
+世界[せかい]記録[きろく] | n | THẾ GIỚI KÝ LỤC | kỷ lục thế giới | - | - | 彼[かれ]は世界[せかい]記録[きろく]を三[さん]秒[びょう]も縮[ちぢ]めた。 | Anh ấy rút ngắn kỷ lục thế giới tới ba giây.
+自己[じこ]ベスト | n | TỰ KỶ | thành tích tốt nhất của bản thân | - | - | マラソンで自己[じこ]ベストを更新[こうしん]した。 | Tôi phá thành tích tốt nhất của mình ở môn marathon.
+ベスト | n | - | tốt nhất | {ベスト} を 尽[つ]くす | làm hết sức | 結果[けっか]はどうであれ、ベストを尽[つ]くそう。 | Dù kết quả thế nào, hãy cố gắng hết sức.
+失点[しってん] | n,v3 | THẤT ĐIỂM | bị mất điểm | - | - | 守備[しゅび]のミスで失点[しってん]した。 | Lỗi phòng ngự khiến đội bị mất điểm.
+減点[げんてん] | n,v3 | GIẢM ĐIỂM | trừ điểm | - | - | 字[じ]が汚[きたな]くて減点[げんてん]された。 | Chữ xấu nên bị trừ điểm.
+点差[てんさ] | n | ĐIỂM SAI | cách biệt điểm số | {点差} が 開[ひら]く | cách biệt tăng | 前半[ぜんはん]で点差[てんさ]が大[おお]きく開[ひら]いた。 | Cách biệt điểm số tăng mạnh trong hiệp một.
+同点[どうてん] | n | ĐỒNG ĐIỂM | hòa điểm | {同点} に 追[お]いつく | gỡ hòa | 終了[しゅうりょう]直前[ちょくぜん]に同点[どうてん]に追[お]いついた。 | Gỡ hòa ngay trước khi kết thúc.
+延長戦[えんちょうせん] | n | DIÊN TRƯỜNG CHIẾN | hiệp phụ | - | - | 試合[しあい]は延長戦[えんちょうせん]にもつれ込[こ]んだ。 | Trận đấu kéo dài sang hiệp phụ.
+先制[せんせい] | n,v3 | TIÊN CHẾ | ghi bàn trước | {先制} 点[てん] | bàn mở tỷ số | 前半[ぜんはん]五[ご]分[ふん]に先制[せんせい]点[てん]を奪[うば]った。 | Ghi bàn mở tỷ số ở phút thứ năm hiệp một.
+先発[せんぱつ] | n,v3 | TIÊN PHÁT | đá chính, ra sân từ đầu | {先発} メンバー | đội hình chính | 初[はじ]めて先発[せんぱつ]メンバーに選[えら]ばれた。 | Lần đầu tôi được chọn vào đội hình chính.
+控[ひか]え | n | KHỐNG | dự bị | {控え} の 選手[せんしゅ] | cầu thủ dự bị | 控[ひか]えの選手[せんしゅ]もベンチで声[こえ]を出[だ]している。 | Các cầu thủ dự bị cũng hò hét trên băng ghế.
+補欠[ほけつ] | n | BỔ KHUYẾT | dự khuyết | - | - | 三[さん]年間[ねんかん]ずっと補欠[ほけつ]だったが、練習[れんしゅう]は休[やす]まなかった。 | Suốt ba năm tôi chỉ là dự khuyết nhưng chưa từng bỏ tập.
+レギュラー | n | - | thành viên chính thức | - | - | 努力[どりょく]してレギュラーの座[ざ]をつかんだ。 | Nhờ nỗ lực tôi giành được suất đá chính.
+キャプテン | n | - | đội trưởng | - | - | 彼[かれ]はチームのキャプテンとしてみんなをまとめた。 | Là đội trưởng, anh ấy gắn kết mọi người.
+コーチ | n,v3 | - | huấn luyện viên | - | - | 元[もと]選手[せんしゅ]が子供[こども]たちをコーチしている。 | Một cựu tuyển thủ đang huấn luyện bọn trẻ.
+練習[れんしゅう]試合[じあい] | n | LUYỆN TẬP THÍ HỢP | trận giao hữu | - | - | 隣[となり]の学校[がっこう]と練習[れんしゅう]試合[じあい]をした。 | Chúng tôi đá giao hữu với trường bên cạnh.
+合宿[がっしゅく] | n,v3 | HỢP TÚC | tập huấn tập trung | - | - | 夏休[なつやす]みにテニス部[ぶ]の合宿[がっしゅく]があった。 | Kỳ nghỉ hè có đợt tập huấn của câu lạc bộ tennis.
+強化[きょうか] | n,v3 | CƯỜNG HÓA | tăng cường | 守備[しゅび] を {強化} する | tăng cường phòng ngự | 大会[たいかい]に向[む]けて体力[たいりょく]を強化[きょうか]した。 | Tôi tăng cường thể lực để chuẩn bị cho giải đấu.
+鍛錬[たんれん] | n,v3 | ĐOÁN LUYỆN | rèn luyện | 心身[しんしん] の {鍛錬} | rèn luyện thân tâm | 武道[ぶどう]は心身[しんしん]の鍛錬[たんれん]になる。 | Võ đạo giúp rèn luyện cả thân và tâm.
+鍛[きた]え上[あ]げる | v2 | ĐOÁN THƯỢNG | rèn luyện kỹ | 体[からだ] を {鍛え上げる} | rèn luyện cơ thể | 厳[きび]しい練習[れんしゅう]で鍛[きた]え上[あ]げられた体[からだ]だ。 | Đây là cơ thể được rèn luyện qua những buổi tập khắc nghiệt.
+トレーニング | n,v3 | - | tập luyện | - | - | 毎朝[まいあさ]ジムでトレーニングしている。 | Sáng nào tôi cũng tập ở phòng gym.
+筋力[きんりょく] | n | CÂN LỰC | sức cơ | - | - | 年[とし]を取[と]ると筋力[きんりょく]が落[お]ちる。 | Có tuổi thì sức cơ giảm.
+持久力[じきゅうりょく] | n | TRÌ CỬU LỰC | sức bền | - | - | 長距離[ちょうきょり]走[そう]には持久力[じきゅうりょく]が必要[ひつよう]だ。 | Chạy đường dài cần sức bền.
+瞬発力[しゅんぱつりょく] | n | THUẤN PHÁT LỰC | sức bật | - | - | 短距離[たんきょり]選手[せんしゅ]は瞬発力[しゅんぱつりょく]が大切[たいせつ]だ。 | Vận động viên chạy ngắn cần sức bật.
+柔軟[じゅうなん] | adj-na | NHU NHUYỄN | mềm dẻo, linh hoạt | {柔軟} な 考[かんが]え | suy nghĩ linh hoạt | 状況[じょうきょう]に応[おう]じて柔軟[じゅうなん]に対応[たいおう]してください。 | Hãy ứng phó linh hoạt theo tình hình.
+柔軟性[じゅうなんせい] | n | NHU NHUYỄN TÍNH | độ dẻo dai | - | - | ストレッチで体[からだ]の柔軟性[じゅうなんせい]を高[たか]める。 | Tăng độ dẻo dai của cơ thể bằng các bài giãn cơ.
+整理[せいり]運動[うんどう] | n | CHỈNH LÝ VẬN ĐỘNG | bài thả lỏng | - | - | 走[はし]った後[あと]は整理[せいり]運動[うんどう]をしよう。 | Chạy xong hãy tập các động tác thả lỏng.
+陸上[りくじょう] | n | LỤC THƯỢNG | điền kinh; trên cạn | {陸上} 競技[きょうぎ] | điền kinh | 中学[ちゅうがく]から陸上[りくじょう]部[ぶ]で走[はし]っている。 | Tôi chạy trong đội điền kinh từ hồi cấp hai.
+短距離[たんきょり] | n | ĐOẢN CỰ LY | cự ly ngắn | - | - | 彼[かれ]は短距離[たんきょり]が得意[とくい]だ。 | Anh ấy giỏi chạy cự ly ngắn.
+長距離[ちょうきょり] | n | TRƯỜNG CỰ LY | cự ly dài | {長距離} バス | xe buýt đường dài | 長距離[ちょうきょり]を走[はし]るのは苦手[にがて]だ。 | Tôi kém chạy đường dài.
+駅伝[えきでん] | n | DỊCH TRUYỀN | chạy tiếp sức đường dài | - | - | 正月[しょうがつ]はテレビで駅伝[えきでん]を見[み]る。 | Ngày Tết tôi xem chạy tiếp sức đường dài trên ti vi.
+リレー | n | - | chạy tiếp sức | - | - | 運動会[うんどうかい]のリレーでアンカーを走[はし]った。 | Tôi chạy chặng cuối trong cuộc thi tiếp sức ở hội thao.
+競泳[きょうえい] | n | CẠNH VỊNH | bơi thi đấu | - | - | 競泳[きょうえい]の日本[にほん]代表[だいひょう]に選[えら]ばれた。 | Được chọn vào đội tuyển bơi thi đấu Nhật Bản.
+平泳[ひらおよ]ぎ | n | BÌNH VỊNH | bơi ếch | - | - | 平泳[ひらおよ]ぎなら一[いち]キロ泳[およ]げる。 | Bơi ếch thì tôi bơi được một cây số.
+背泳[せおよ]ぎ | n | BỐI VỊNH | bơi ngửa | - | - | 背泳[せおよ]ぎはまっすぐ進[すす]むのが難[むずか]しい。 | Bơi ngửa khó mà đi thẳng.
+自由形[じゆうがた] | n | TỰ DO HÌNH | bơi tự do | - | - | 五十[ごじゅう]メートル自由形[じゆうがた]で優勝[ゆうしょう]した。 | Tôi vô địch nội dung năm mươi mét tự do.
+プール | n | - | bể bơi | - | - | 夏[なつ]は毎週[まいしゅう]プールで泳[およ]ぐ。 | Mùa hè tuần nào tôi cũng bơi ở bể bơi.
+球技[きゅうぎ] | n | CẦU KỸ | các môn bóng | - | - | 球技[きゅうぎ]の中[なか]ではバレーボールが好[す]きだ。 | Trong các môn bóng tôi thích bóng chuyền.
+バスケットボール | n | - | bóng rổ | - | - | 背[せ]が高[たか]いのでバスケットボール部[ぶ]に誘[さそ]われた。 | Vì cao nên tôi được rủ vào câu lạc bộ bóng rổ.
+バレーボール | n | - | bóng chuyền | - | - | 昼休[ひるやす]みにバレーボールをした。 | Giờ nghỉ trưa chúng tôi chơi bóng chuyền.
+卓球[たっきゅう] | n | TRÁC CẦU | bóng bàn | - | - | 温泉[おんせん]旅館[りょかん]で卓球[たっきゅう]をした。 | Chúng tôi chơi bóng bàn ở lữ quán suối nóng.
+スケート | n | - | trượt băng | - | - | 冬[ふゆ]は湖[みずうみ]でスケートができる。 | Mùa đông có thể trượt băng trên hồ.
+格闘技[かくとうぎ] | n | CÁCH ĐẤU KỸ | võ thuật đối kháng | - | - | 格闘技[かくとうぎ]の試合[しあい]を見[み]に行[い]った。 | Tôi đi xem trận võ đối kháng.
+ボクシング | n | - | quyền anh | - | - | ダイエットのためにボクシングを習[なら]っている。 | Tôi học quyền anh để giảm cân.
+レスリング | n | - | đấu vật | - | - | 日本[にほん]はレスリングが強[つよ]い。 | Nhật Bản mạnh môn đấu vật.
+運動場[うんどうじょう] | n | VẬN ĐỘNG TRƯỜNG | sân vận động (trường) | - | - | 運動場[うんどうじょう]で運動会[うんどうかい]の練習[れんしゅう]をした。 | Chúng tôi tập cho hội thao ở sân trường.
+球場[きゅうじょう] | n | CẦU TRƯỜNG | sân bóng chày | - | - | 週末[しゅうまつ]は球場[きゅうじょう]で野球[やきゅう]を観戦[かんせん]する。 | Cuối tuần tôi đến sân xem bóng chày.
+グラウンド | n | - | sân tập, sân đấu | - | - | 雨[あめ]でグラウンドが使[つか]えない。 | Mưa nên không dùng được sân.
+スタンド | n | - | khán đài; đèn bàn | - | - | スタンドはファンで満員[まんいん]だった。 | Khán đài chật kín người hâm mộ.
+観戦[かんせん] | n,v3 | QUAN CHIẾN | xem thi đấu | {観戦} チケット | vé xem đấu | 家族[かぞく]でサッカーを観戦[かんせん]した。 | Cả gia đình đi xem bóng đá.
+応援団[おうえんだん] | n | ỨNG VIỆN ĐOÀN | đội cổ vũ | - | - | 応援団[おうえんだん]の声[こえ]が球場[きゅうじょう]に響[ひび]いた。 | Tiếng đội cổ vũ vang khắp sân.
+声援[せいえん] | n,v3 | THANH VIỆN | cổ vũ bằng lời | {声援} を 送[おく]る | reo hò cổ vũ | 観客[かんきゃく]の声援[せいえん]が力[ちから]になった。 | Tiếng cổ vũ của khán giả tiếp thêm sức mạnh.
+ユニフォーム | n | - | đồng phục thi đấu | - | - | 新[あたら]しいユニフォームでみんなの気分[きぶん]が上[あ]がった。 | Đồng phục mới làm mọi người phấn chấn.
+ラケット | n | - | vợt | - | - | テニスのラケットを新[あたら]しくした。 | Tôi đổi vợt tennis mới.
+バット | n | - | gậy bóng chày | - | - | バットを強[つよ]く振[ふ]った。 | Tôi vung gậy thật mạnh.
+グローブ | n | - | găng tay bóng chày | - | - | 父[ちち]にグローブを買[か]ってもらった。 | Bố mua cho tôi găng tay bóng chày.
+ゴール | n,v3 | - | khung thành; đích | {ゴール} を 決[き]める | ghi bàn | 彼[かれ]はゴール前[まえ]で冷静[れいせい]にシュートを決[き]めた。 | Anh ấy bình tĩnh dứt điểm trước khung thành.
+パス | n,v3 | - | chuyền bóng; vượt qua | - | - | 正確[せいかく]なパスがゴールにつながった。 | Đường chuyền chính xác đã dẫn tới bàn thắng.
+レース | n | - | cuộc đua | - | - | 最後[さいご]の一周[いっしゅう]でレースが大[おお]きく動[うご]いた。 | Ở vòng cuối, cuộc đua có biến động lớn.
+リード | n,v3 | - | dẫn trước; dẫn dắt | - | - | 前半[ぜんはん]を終[お]えて二点[にてん]リードしている。 | Kết thúc hiệp một, đội đang dẫn trước hai điểm.
+トップ | n | - | vị trí đầu | - | - | 彼女[かのじょ]はトップでゴールした。 | Cô ấy về đích đầu tiên.
+ペア | n | - | cặp, đôi | {ペア} を 組[く]む | bắt cặp | 二人[ふたり]はペアを組[く]んでダブルスに出場[しゅつじょう]した。 | Hai người bắt cặp thi đấu nội dung đôi.
+オーバー | adj-na,v3 | - | vượt quá; cường điệu | - | - | 予算[よさん]を少[すこ]しオーバーしてしまった。 | Tôi lỡ vượt ngân sách một chút.
+コントロール | n,v3 | - | kiểm soát; điều khiển | 感情[かんじょう] を {コントロール} する | kiểm soát cảm xúc | あのピッチャーはコントロールがいい。 | Cầu thủ ném bóng đó kiểm soát bóng tốt.
+ウエスト | n | - | vòng eo | - | - | ウエストが少[すこ]しきつくなった。 | Vòng eo hơi chật đi.
+金[きん]メダル | n | KIM | huy chương vàng | - | - | 柔道[じゅうどう]で金[きん]メダルを獲得[かくとく]した。 | Giành huy chương vàng môn judo.
+メダル | n | - | huy chương | - | - | 日本[にほん]は今大会[こんたいかい]で三十[さんじゅう]個[こ]のメダルを取[と]った。 | Nhật Bản giành ba mươi huy chương ở giải lần này.
+表彰台[ひょうしょうだい] | n | BIỂU CHƯƠNG ĐÀI | bục trao giải | - | - | 三人[さんにん]が表彰台[ひょうしょうだい]に上[あ]がった。 | Ba người bước lên bục trao giải.
+表彰[ひょうしょう] | n,v3 | BIỂU CHƯƠNG | khen thưởng | - | - | 人命[じんめい]救助[きゅうじょ]で消防[しょうぼう]から表彰[ひょうしょう]された。 | Được cứu hỏa khen thưởng vì cứu người.
+パラリンピック | n | - | Thế vận hội người khuyết tật | - | - | パラリンピックの選手[せんしゅ]の努力[どりょく]に感動[かんどう]した。 | Tôi xúc động trước nỗ lực của các vận động viên Paralympic.
+出場[しゅつじょう] | n,v3 | XUẤT TRƯỜNG | tham dự thi đấu | 大会[たいかい] に {出場} する | tham dự giải | 全国[ぜんこく]大会[たいかい]への出場[しゅつじょう]が決[き]まった。 | Đã giành quyền tham dự giải toàn quốc.
+エントリー | n,v3 | - | đăng ký tham gia | - | - | マラソン大会[たいかい]にエントリーした。 | Tôi đã đăng ký tham gia giải marathon.
+敗退[はいたい] | n,v3 | BẠI THOÁI | bị loại, thua | - | - | 日本[にほん]チームは一回戦[いっかいせん]で敗退[はいたい]した。 | Đội Nhật Bản bị loại ngay vòng một.
+突破[とっぱ] | n,v3 | ĐỘT PHÁ | vượt qua | 予選[よせん] を {突破} する | vượt qua vòng loại | 難関[なんかん]を突破[とっぱ]して合格[ごうかく]した。 | Tôi vượt qua cửa ải khó và đỗ.
+制[せい]する | v3 | CHẾ | chiến thắng, khống chế | 試合[しあい] を {制する} | giành chiến thắng | 接戦[せっせん]を制[せい]して決勝[けっしょう]に進[すす]んだ。 | Thắng trận sát nút và vào chung kết.
+負[ま]かす | v1 | PHỤ | đánh bại | - | - | 兄[あに]をテニスで初[はじ]めて負[ま]かした。 | Lần đầu tiên tôi đánh bại anh trai ở môn tennis.
+全力[ぜんりょく] | n | TOÀN LỰC | toàn lực | {全力} を 尽[つ]くす | dốc toàn lực | 最後[さいご]まで全力[ぜんりょく]で走[はし]った。 | Tôi dốc toàn lực chạy đến cuối.
+勢[いきお]い | n | THẾ | khí thế, đà | {勢い} に 乗[の]る | thừa thắng | 一[いっ]点[てん]取[と]って、チームは勢[いきお]いに乗[の]った。 | Ghi được một điểm, cả đội thừa thắng xông lên.
+起[お]き上[あ]がる | v1 | KHỞI THƯỢNG | ngồi dậy, gượng dậy | - | - | 転[ころ]んだ子供[こども]が自分[じぶん]で起[お]き上[あ]がった。 | Đứa trẻ bị ngã tự mình gượng dậy.
+立[た]ち上[あ]がる | v1 | LẬP THƯỢNG | đứng dậy; vùng lên | 席[せき] から {立ち上がる} | đứng dậy khỏi ghế | 名前[なまえ]を呼[よ]ばれて立[た]ち上[あ]がった。 | Được gọi tên, tôi đứng dậy.
+飛[と]び上[あ]がる | v1 | PHI THƯỢNG | nhảy cẫng lên | 喜[よろこ]んで {飛び上がる} | nhảy cẫng vì vui | 合格[ごうかく]を知[し]って飛[と]び上[あ]がって喜[よろこ]んだ。 | Biết tin đỗ, tôi nhảy cẫng lên vì vui.
+浮[う]かび上[あ]がる | v1 | PHÙ THƯỢNG | nổi lên; hiện ra | - | - | 調査[ちょうさ]で新[あら]たな問題[もんだい]が浮[う]かび上[あ]がった。 | Qua điều tra, vấn đề mới đã lộ ra.
+舞[ま]い上[あ]がる | v1 | VŨ THƯỢNG | bay lên; lâng lâng | - | - | 強[つよ]い風[かぜ]で落[お]ち葉[ば]が舞[ま]い上[あ]がった。 | Gió mạnh làm lá rụng bay tung lên.
+屈[かが]む | v1 | KHUẤT | cúi khom | - | - | 屈[かが]んで落[お]ちた硬貨[こうか]を拾[ひろ]った。 | Tôi cúi xuống nhặt đồng xu bị rơi.
+しゃがむ | v1 | - | ngồi xổm | - | - | 疲[つか]れて道[みち]の端[はし]にしゃがみ込[こ]んだ。 | Mệt quá tôi ngồi thụp xuống bên đường.
+寝転[ねころ]ぶ | v1 | TẨM CHUYỂN | nằm dài | 芝生[しばふ] に {寝転ぶ} | nằm dài trên cỏ | 公園[こうえん]の芝生[しばふ]に寝転[ねころ]んで空[そら]を見[み]た。 | Tôi nằm dài trên bãi cỏ công viên ngắm trời.
+横[よこ]たわる | v1 | HOÀNH | nằm ngang; tồn tại | - | - | ベッドに横[よこ]たわって休[やす]んだ。 | Tôi nằm xuống giường nghỉ ngơi.
+這[は]う | v1 | GIÁ | bò | - | - | 赤[あか]ちゃんが床[ゆか]を這[は]って進[すす]む。 | Em bé bò trên sàn.
+反[そ]らす | v1 | PHẢN | ưỡn ra | 胸[むね] を {反らす} | ưỡn ngực | 背中[せなか]を反[そ]らしてストレッチした。 | Tôi ưỡn lưng ra để giãn cơ.
+ねじる | v1 | - | vặn, xoắn | 体[からだ] を {ねじる} | vặn người | 腰[こし]をねじったら痛[いた]くなった。 | Vặn hông một cái là bị đau.
+振[ふ]り回[まわ]す | v1 | CHẤN HỒI | vung vẩy; xoay như chong chóng | 他人[たにん] に {振[ふ]り回[まわ]される} | bị người khác xoay vòng | 子供[こども]が傘[かさ]を振[ふ]り回[まわ]して危[あぶ]ない。 | Trẻ con vung vẩy cái ô thật nguy hiểm.
+揺[ゆ]らす | v1 | DAO | lắc, đung đưa | - | - | 風[かぜ]が木[き]の枝[えだ]を揺[ゆ]らしている。 | Gió đang làm cành cây đung đưa.
+殴[なぐ]る | v1 | ẨU | đánh, đấm | - | - | 喧嘩[けんか]で相手[あいて]を殴[なぐ]ってしまった。 | Trong lúc cãi nhau tôi lỡ đấm đối phương.
+つかむ | v1 | - | nắm lấy | チャンス を {つかむ} | nắm lấy cơ hội | 電車[でんしゃ]が揺[ゆ]れて、つり革[かわ]をつかんだ。 | Tàu lắc nên tôi nắm lấy tay vịn.
+放[はな]す | v1 | PHÓNG | thả ra, buông | 手[て] を {放す} | buông tay | 犬[いぬ]のリードを放[はな]してはいけない。 | Không được buông dây dắt chó.
+離[はな]す | v1 | LY | tách ra, rời | 目[め] を {離す} | rời mắt | 小[ちい]さな子供[こども]から目[め]を離[はな]さないでください。 | Xin đừng rời mắt khỏi trẻ nhỏ.
+抱[だ]きしめる | v2 | BÃO | ôm chặt | - | - | 母[はは]は泣[な]いている私[わたし]を抱[だ]きしめてくれた。 | Mẹ ôm chặt tôi khi tôi đang khóc.
+抱[かか]える | v2 | BÃO | ôm; gánh vác | 問題[もんだい] を {抱える} | ôm vấn đề | 彼[かれ]は多[おお]くの悩[なや]みを抱[かか]えている。 | Anh ấy đang ôm nhiều nỗi lo.
+踏[ふ]み込[こ]む | v1 | ĐẠP NHẬP | bước vào; đi sâu | - | - | もう一歩[いっぽ]踏[ふ]み込[こ]んで考[かんが]えてみよう。 | Hãy thử suy nghĩ sâu thêm một bước.
+蹴飛[けと]ばす | v1 | XÚC PHI | đá văng | - | - | 腹[はら]が立[た]って空[あ]き缶[かん]を蹴飛[けと]ばした。 | Tức quá tôi đá văng cái vỏ lon.
+またぐ | v1 | - | bước qua | 水[みず]たまり を {またぐ} | bước qua vũng nước | 倒[たお]れた木[き]をまたいで進[すす]んだ。 | Tôi bước qua thân cây đổ để đi tiếp.
+飛[と]び越[こ]える | v2 | PHI VIỆT | nhảy qua | - | - | 馬[うま]が柵[さく]を飛[と]び越[こ]えた。 | Con ngựa nhảy qua hàng rào.
+腕組[うでぐ]み | n,v3 | OẢN TỔ | khoanh tay | - | - | 父[ちち]は腕組[うでぐ]みをして考[かんが]え込[こ]んだ。 | Bố khoanh tay ngồi trầm ngâm.
+足踏[あしぶ]み | n,v3 | TÚC ĐẠP | dậm chân tại chỗ | - | - | 交渉[こうしょう]は足踏[あしぶ]み状態[じょうたい]が続[つづ]いている。 | Cuộc đàm phán vẫn đang dậm chân tại chỗ.
+頬杖[ほおづえ] | n | GIÁP TRƯỢNG | chống cằm | {頬杖} を つく | chống cằm | 頬杖[ほおづえ]をついて窓[まど]の外[そと]を眺[なが]めていた。 | Tôi chống cằm nhìn ra ngoài cửa sổ.
+背伸[せの]び | n,v3 | BỐI THÂN | nhón chân; cố tỏ ra hơn mình | - | - | 背伸[せの]びして棚[たな]の上[うえ]の箱[はこ]を取[と]った。 | Tôi nhón chân lấy cái hộp trên kệ.
+深呼吸[しんこきゅう] | n,v3 | THÂM HÔ HẤP | hít thở sâu | - | - | 緊張[きんちょう]したら深呼吸[しんこきゅう]をしてみよう。 | Khi căng thẳng hãy thử hít thở sâu.
+まばたき | n,v3 | - | chớp mắt | - | - | 驚[おどろ]いてまばたきも忘[わす]れた。 | Ngạc nhiên đến quên cả chớp mắt.
+しゃっくり | n | - | nấc cụt | - | - | しゃっくりがなかなか止[と]まらない。 | Mãi không hết nấc cụt.
+身振[みぶ]り | n | THÂN CHẤN | điệu bộ | {身振り} 手振[てぶ]り | điệu bộ tay chân | 言葉[ことば]が通[つう]じず身振[みぶ]り手振[てぶ]りで説明[せつめい]した。 | Không thông ngôn ngữ nên tôi giải thích bằng điệu bộ.
+仕草[しぐさ] | n | SĨ THẢO | cử chỉ | - | - | 猫[ねこ]の仕草[しぐさ]はかわいい。 | Cử chỉ của con mèo thật đáng yêu.
+前[まえ]かがみ | n | TIỀN | khom người về phía trước | - | - | 前[まえ]かがみの姿勢[しせい]は腰[こし]に悪[わる]い。 | Tư thế khom người về trước có hại cho lưng.
+猫背[ねこぜ] | n | MIÊU BỐI | lưng gù | - | - | パソコンを使[つか]うとつい猫背[ねこぜ]になる。 | Dùng máy tính là dễ bị gù lưng.
+どく | v1 | - | tránh ra | - | - | ちょっとどいてくれる?通[とお]りたいんだ。 | Tránh ra chút được không? Tôi muốn đi qua.
+こぐ | v1 | - | đạp (xe), chèo (thuyền) | 自転車[じてんしゃ] を {こぐ} | đạp xe | 坂道[さかみち]で自転車[じてんしゃ]をこぐのは大変[たいへん]だ。 | Đạp xe lên dốc thật vất vả.
+放[ほう]る | v1 | PHÓNG | ném; bỏ mặc | - | - | 弟[おとうと]は宿題[しゅくだい]を放[ほう]って遊[あそ]びに行[い]った。 | Em trai bỏ mặc bài tập đi chơi.
+突[つ]く | v1 | ĐỘT | chọc, chống; chỉ ra | 杖[つえ] を {突く} | chống gậy | 祖父[そふ]は杖[つえ]を突[つ]いて歩[ある]いている。 | Ông chống gậy đi bộ.
+つまずく | v1 | - | vấp; thất bại | 石[いし] に {つまずく} | vấp phải đá | 段差[だんさ]につまずいて転[ころ]んだ。 | Tôi vấp bậc chênh rồi ngã.
+振[ふ]り向[む]く | v1 | CHẤN HƯỚNG | quay đầu lại | - | - | 名前[なまえ]を呼[よ]ばれて振[ふ]り向[む]いた。 | Nghe gọi tên, tôi quay đầu lại.
+跳[は]ねる | v2 | KHIÊU | nhảy, bắn tung | 水[みず] が {跳ねる} | nước bắn | 車[くるま]が通[とお]って泥水[どろみず]が跳[は]ねた。 | Xe chạy qua làm nước bùn bắn lên.
+浮[う]く | v1 | PHÙ | nổi | - | - | 木[き]は水[みず]に浮[う]く。 | Gỗ nổi trên nước.
+浮[う]かべる | v2 | PHÙ | thả nổi; hiện (nét mặt) | 涙[なみだ] を {浮かべる} | rơm rớm nước mắt | 彼女[かのじょ]は目[め]に涙[なみだ]を浮[う]かべていた。 | Cô ấy rơm rớm nước mắt.
+追[お]う | v1 | TRUY | đuổi theo | 夢[ゆめ] を {追う} | theo đuổi ước mơ | 警察[けいさつ]が犯人[はんにん]を追[お]っている。 | Cảnh sát đang truy đuổi hung thủ.
+追[お]いかける | v2 | TRUY | đuổi theo | - | - | 犬[いぬ]がボールを追[お]いかけて走[はし]った。 | Con chó chạy đuổi theo quả bóng.
+追[お]いつく | v1 | TRUY | đuổi kịp | - | - | 走[はし]って前[まえ]の人[ひと]に追[お]いついた。 | Tôi chạy đuổi kịp người phía trước.
+捕[と]る | v1 | BỔ | bắt (con vật, bóng) | 魚[さかな] を {捕る} | bắt cá | 子供[こども]のころ川[かわ]で魚[さかな]を捕[と]った。 | Hồi nhỏ tôi bắt cá ở sông.
+組[く]む | v1 | TỔ | ghép, lập; khoanh | 足[あし] を {組む} | bắt chéo chân | 友達[ともだち]とバンドを組[く]んだ。 | Tôi lập ban nhạc cùng bạn bè.
+にらむ | v1 | - | lườm, trừng mắt | - | - | 騒[さわ]いでいたら先生[せんせい]ににらまれた。 | Đang làm ồn thì bị thầy lườm.
+見[み]つめる | v2 | KIẾN | nhìn chăm chú | - | - | 彼[かれ]は黙[だま]って窓[まど]の外[そと]を見[み]つめていた。 | Anh ấy lặng lẽ nhìn chăm chú ra ngoài cửa sổ.
+触[さわ]る | v1 | XÚC | sờ, chạm | - | - | 展示品[てんじひん]に触[さわ]らないでください。 | Xin đừng chạm vào hiện vật trưng bày.
+指[さ]す | v1 | CHỈ | chỉ trỏ | 指[ゆび] で {指す} | chỉ bằng ngón tay | 先生[せんせい]は黒板[こくばん]の字[じ]を指[さ]して説明[せつめい]した。 | Thầy chỉ vào chữ trên bảng và giải thích.
+よける | v2 | - | tránh né | 車[くるま] を {よける} | né xe | 水[みず]たまりをよけて歩[ある]いた。 | Tôi đi né vũng nước.
+逸[そ]らす | v1 | DẬT | lảng đi, đánh trống lảng | 目[め] を {逸らす} | quay mặt đi | 質問[しつもん]されると彼[かれ]は目[め]を逸[そ]らした。 | Bị hỏi, anh ta lảng mắt đi chỗ khác.
+引[ひ]っかける | v2 | DẪN | móc, vướng; lừa | - | - | コートを釘[くぎ]に引[ひ]っかけて破[やぶ]いてしまった。 | Tôi vướng áo khoác vào đinh làm rách mất.
+ひっくり返[かえ]る | v1 | PHẢN | lật ngửa, đảo ngược | - | - | 強風[きょうふう]でボートがひっくり返[かえ]った。 | Gió mạnh làm thuyền lật úp.
+ひっくり返[かえ]す | v1 | PHẢN | lật lại, đảo lại | - | - | ハンバーグを途中[とちゅう]でひっくり返[かえ]す。 | Giữa chừng thì lật miếng thịt băm lại.
+ずらす | v1 | - | xê dịch, lùi lại | 時間[じかん] を {ずらす} | lùi giờ | 机[つくえ]を少[すこ]し右[みぎ]にずらした。 | Tôi xê bàn sang phải một chút.
+傾[かたむ]ける | v2 | KHUYNH | nghiêng; dồn (tâm sức) | 耳[みみ] を {傾ける} | lắng nghe | 子供[こども]の話[はなし]に耳[みみ]を傾[かたむ]けよう。 | Hãy lắng nghe câu chuyện của con.
+投[な]げ出[だ]す | v1 | ĐẦU XUẤT | quăng ra; bỏ dở | 仕事[しごと] を {投げ出す} | bỏ dở công việc | 途中[とちゅう]で仕事[しごと]を投[な]げ出[だ]してはいけない。 | Không được bỏ dở công việc giữa chừng.
+放[ほう]り出[だ]す | v1 | PHÓNG XUẤT | ném ra; bỏ dở | - | - | 彼[かれ]はかばんを放[ほう]り出[だ]して遊[あそ]びに行[い]った。 | Cậu ta quăng cặp đi chơi.
+引[ひ]っ張[ぱ]り出[だ]す | v1 | DẪN TRƯƠNG XUẤT | lôi ra | - | - | 押[お]し入[い]れから扇風機[せんぷうき]を引[ひ]っ張[ぱ]り出[だ]した。 | Tôi lôi chiếc quạt máy ra khỏi tủ âm tường.
+見[み]つけ出[だ]す | v1 | KIẾN XUẤT | tìm ra | - | - | 問題[もんだい]の原因[げんいん]を見[み]つけ出[だ]した。 | Đã tìm ra nguyên nhân của vấn đề.
+探[さが]し出[だ]す | v1 | THÁM XUẤT | tìm ra được | - | - | 古[ふる]い写真[しゃしん]をアルバムから探[さが]し出[だ]した。 | Tôi tìm ra tấm ảnh cũ trong album.
+打[う]ち込[こ]む | v1 | ĐẢ NHẬP | đóng vào; dồn hết tâm sức | 研究[けんきゅう] に {打ち込む} | dồn sức nghiên cứu | 彼[かれ]は若[わか]いころから音楽[おんがく]に打[う]ち込[こ]んできた。 | Từ trẻ anh ấy đã dồn hết tâm sức cho âm nhạc.
+引[ひ]き込[こ]む | v1 | DẪN NHẬP | lôi kéo vào | 話[はなし] に {引[ひ]き込[こ]まれる} | bị cuốn vào câu chuyện | 彼[かれ]の話[はなし]に思[おも]わず引[ひ]き込[こ]まれた。 | Tôi bất giác bị cuốn vào câu chuyện của anh ấy.
+座[すわ]り込[こ]む | v1 | TỌA NHẬP | ngồi bệt xuống | - | - | 疲[つか]れて床[ゆか]に座[すわ]り込[こ]んだ。 | Mệt quá tôi ngồi bệt xuống sàn.
+積[つ]み上[あ]げる | v2 | TÍCH THƯỢNG | chất đống; tích lũy | 経験[けいけん] を {積み上げる} | tích lũy kinh nghiệm | 机[つくえ]の上[うえ]に本[ほん]が積[つ]み上[あ]げてある。 | Sách được chất đống trên bàn.
+さっさと | adv | - | nhanh nhanh, mau | - | - | さっさと片付[かたづ]けて出[で]かけよう。 | Dọn nhanh rồi ra ngoài thôi.
+さっと | adv | - | thoắt cái, nhanh gọn | - | - | 野菜[やさい]をさっとゆでる。 | Chần rau thật nhanh.
+せっせと | adv | - | cần mẫn | - | - | 蟻[あり]がせっせと食[た]べ物[もの]を運[はこ]んでいる。 | Đàn kiến cần mẫn tha thức ăn.
+こっそり | adv | - | lén lút | - | - | 授業[じゅぎょう]中[ちゅう]にこっそりお菓子[かし]を食[た]べた。 | Tôi lén ăn bánh trong giờ học.
+ばったり | adv | - | tình cờ (gặp); đổ sầm | {ばったり} 会[あ]う | tình cờ gặp | 駅[えき]で昔[むかし]の友達[ともだち]にばったり会[あ]った。 | Tôi tình cờ gặp lại bạn cũ ở nhà ga.
+どっと | adv | - | ùa ra; ập đến | - | - | 家[いえ]に着[つ]いたら疲[つか]れがどっと出[で]た。 | Về đến nhà là mệt mỏi ập đến.
+しんと | adv | - | im phăng phắc | - | - | 先生[せんせい]が入[はい]ってくると教室[きょうしつ]がしんとなった。 | Thầy bước vào là lớp im phăng phắc.

@@ -1,0 +1,195 @@
+@topic t13
+@ja 人物[じんぶつ]・性格[せいかく]・振[ふ]る舞[ま]い
+@vi Con người, tính cách và cách cư xử
+@desc Từ vựng đánh giá con người: phẩm chất, tính khí, dáng vẻ, năng lực và thái độ trong giao tiếp.
+人格[じんかく] | n | NHÂN CÁCH | nhân cách | {人格} を 否定[ひてい]する | phủ nhận nhân cách | 子供[こども]にも一人[ひとり]の人格[じんかく]として接[せっ]するべきだ。 | Nên đối xử với trẻ như một con người có nhân cách riêng.
+人格者[じんかくしゃ] | n | NHÂN CÁCH GIẢ | người có nhân cách | - | - | 校長[こうちょう]先生[せんせい]は誰[だれ]からも尊敬[そんけい]される人格[じんかく]者[しゃ]だ。 | Thầy hiệu trưởng là người có nhân cách được mọi người kính trọng.
+品性[ひんせい] | n | PHẨM TÍNH | phẩm hạnh | {品性} を 疑[うたが]う | nghi ngờ phẩm hạnh | あんな言葉[ことば]を使[つか]うなんて、品性[ひんせい]を疑[うたが]う。 | Dùng lời lẽ như vậy, tôi nghi ngờ phẩm hạnh của anh ta.
+性根[しょうね] | n | TÍNH CĂN | bản tính, tâm địa | {性根} を 入[い]れ替[か]える | thay đổi tâm tính | 彼[かれ]は性根[しょうね]を入[い]れ替[か]えて真面目[まじめ]に働[はたら]き始[はじ]めた。 | Anh ta thay đổi tâm tính và bắt đầu làm việc nghiêm túc.
+本性[ほんしょう] | n | BẢN TÍNH | bản chất thật | {本性} を 現[あらわ]す | lộ bản chất | 酒[さけ]に酔[よ]って彼[かれ]は本性[ほんしょう]を現[あらわ]した。 | Say rượu, hắn lộ bản chất thật.
+素性[すじょう] | n | TỐ TÍNH | lai lịch, gốc gác | - | - | 素性[すじょう]の知[し]れない人[ひと]を家[いえ]に入[い]れてはいけない。 | Không được cho người không rõ lai lịch vào nhà.
+器量[きりょう] | n | KHÍ LƯỢNG | tài cán; dung mạo | - | - | 彼[かれ]には社長[しゃちょう]としての器量[きりょう]がある。 | Anh ấy có tài cán của một giám đốc.
+気骨[きこつ] | n | KHÍ CỐT | khí phách | - | - | 権力[けんりょく]に屈[くっ]しない気骨[きこつ]のある記者[きしゃ]だ。 | Đó là phóng viên có khí phách không khuất phục quyền lực.
+気前[きまえ] | n | KHÍ TIỀN | tính hào phóng | {気前} が いい | hào phóng | 叔父[おじ]は気前[きまえ]がよく、いつもおごってくれる。 | Chú tôi hào phóng, lúc nào cũng khao.
+気難[きむずか]しい | adj-i | KHÍ NAN | khó tính | - | - | 祖父[そふ]は気難[きむずか]しいが、根[ね]は優[やさ]しい。 | Ông tôi khó tính nhưng tốt bụng.
+穏和[おんわ] | adj-na | ỔN HÒA | ôn hòa | - | - | 彼[かれ]は穏和[おんわ]な性格[せいかく]で、怒[おこ]ったことがない。 | Anh ấy tính ôn hòa, chưa từng nổi giận.
+高慢[こうまん] | adj-na | CAO MẠN | kiêu căng | - | - | 高慢[こうまん]な態度[たいど]は周[まわ]りの人[ひと]を遠[とお]ざける。 | Thái độ kiêu căng làm người xung quanh xa lánh.
+尊大[そんだい] | adj-na | TÔN ĐẠI | trịch thượng | - | - | 部長[ぶちょう]の尊大[そんだい]な話[はな]し方[かた]が嫌[きら]われている。 | Lối nói trịch thượng của trưởng phòng bị ghét.
+無遠慮[ぶえんりょ] | adj-na | VÔ VIỄN LỰ | sỗ sàng | - | - | 無遠慮[ぶえんりょ]な質問[しつもん]に彼女[かのじょ]は顔[かお]をしかめた。 | Cô ấy nhăn mặt trước câu hỏi sỗ sàng.
+実直[じっちょく] | adj-na | THỰC TRỰC | chân chất, thật thà | - | - | 父[ちち]は実直[じっちょく]な人柄[ひとがら]で、取引[とりひき]先[さき]から信頼[しんらい]されていた。 | Bố tôi chân chất nên được đối tác tin cậy.
+篤実[とくじつ] | adj-na | ĐỐC THỰC | đôn hậu, thật thà | - | - | 篤実[とくじつ]な人柄[ひとがら]で地域[ちいき]の人々[ひとびと]に慕[した]われた。 | Ông được người địa phương quý mến vì tính đôn hậu.
+鷹揚[おうよう] | adj-na | ƯNG DƯƠNG | rộng rãi, điềm nhiên | - | - | 社長[しゃちょう]は社員[しゃいん]の失敗[しっぱい]にも鷹揚[おうよう]に構[かま]えている。 | Giám đốc điềm nhiên cả trước thất bại của nhân viên.
+忠実[ちゅうじつ] | adj-na | TRUNG THỰC | trung thành; trung thực | 原作[げんさく] に {忠実} | trung thành với nguyên tác | 犬[いぬ]は飼[か]い主[ぬし]に忠実[ちゅうじつ]だ。 | Chó trung thành với chủ.
+賢明[けんめい] | adj-na | HIỀN MINH | sáng suốt | {賢明} な 判断[はんだん] | phán đoán sáng suốt | 今[いま]は動[うご]かない方[ほう]が賢明[けんめい]だ。 | Bây giờ không hành động thì sáng suốt hơn.
+利己的[りこてき] | adj-na | LỢI KỶ ĐÍCH | ích kỷ | - | - | 自分[じぶん]のことしか考[かんが]えない利己[りこ]的[てき]な人[ひと]だ。 | Đó là người ích kỷ chỉ nghĩ cho bản thân.
+自己[じこ]中心的[ちゅうしんてき] | adj-na | TỰ KỶ TRUNG TÂM ĐÍCH | lấy mình làm trung tâm | - | - | 自己[じこ]中心[ちゅうしん]的[てき]な行動[こうどう]がチームの和[わ]を乱[みだ]した。 | Hành động coi mình là trung tâm làm rối sự hòa hợp của đội.
+独善的[どくぜんてき] | adj-na | ĐỘC THIỆN ĐÍCH | tự cho mình là đúng | - | - | 独善[どくぜん]的[てき]なリーダーには誰[だれ]もついていかない。 | Không ai theo người lãnh đạo tự cho mình là đúng.
+独断的[どくだんてき] | adj-na | ĐỘC ĐOÁN ĐÍCH | độc đoán | - | - | 社長[しゃちょう]の独断[どくだん]的[てき]な決定[けってい]に反発[はんぱつ]が起[お]きた。 | Quyết định độc đoán của giám đốc gây phản ứng.
+協調的[きょうちょうてき] | adj-na | HIỆP ĐIỀU ĐÍCH | có tinh thần hợp tác | - | - | 彼[かれ]は協調[きょうちょう]的[てき]で、チームワークを大切[たいせつ]にする。 | Anh ấy có tinh thần hợp tác, coi trọng làm việc nhóm.
+献身的[けんしんてき] | adj-na | HIẾN THÂN ĐÍCH | tận tụy | {献身的} な 看護[かんご] | chăm sóc tận tụy | 妻[つま]の献身[けんしん]的[てき]な介護[かいご]で夫[おっと]は回復[かいふく]した。 | Nhờ vợ chăm sóc tận tụy, người chồng đã hồi phục.
+献身[けんしん] | n,v3 | HIẾN THÂN | hiến thân, tận tụy | - | - | 彼女[かのじょ]は貧[まず]しい人々[ひとびと]の救済[きゅうさい]に一生[いっしょう]を献身[けんしん]した。 | Bà hiến cả đời cho việc cứu giúp người nghèo.
+奉仕[ほうし] | n,v3 | PHỤNG SĨ | phục vụ, cống hiến | {奉仕} 活動[かつどう] | hoạt động phục vụ cộng đồng | 週末[しゅうまつ]は地域[ちいき]の奉仕[ほうし]活動[かつどう]に参加[さんか]している。 | Cuối tuần tôi tham gia hoạt động phục vụ cộng đồng.
+自己[じこ]犠牲[ぎせい] | n | TỰ KỶ HY SINH | hy sinh bản thân | - | - | 彼[かれ]の自己[じこ]犠牲[ぎせい]の精神[せいしん]に心[こころ]を打[う]たれた。 | Tôi xúc động trước tinh thần hy sinh bản thân của anh.
+打算的[ださんてき] | adj-na | ĐẢ TOÁN ĐÍCH | toan tính vụ lợi | - | - | 打算[ださん]的[てき]な付[つ]き合[あ]いは長[なが]く続[つづ]かない。 | Mối quan hệ vụ lợi không bền lâu.
+計算高[けいさんだか]い | adj-i | KẾ TOÁN CAO | tính toán chi li | - | - | 彼[かれ]は計算[けいさん]高[だか]く、得[とく]にならないことはしない。 | Hắn tính toán chi li, không làm gì không có lợi.
+抜[ぬ]け目[め]ない | adj-i | BẠT MỤC | khôn lỏi, không bỏ sót cơ hội | - | - | 抜[ぬ]け目[め]ない彼[かれ]は早[はや]くもチケットを確保[かくほ]していた。 | Lanh lợi như anh ta đã sớm giữ được vé.
+世渡[よわた]り上手[じょうず] | n,adj-na | THẾ ĐỘ THƯỢNG THỦ | khéo xoay xở ở đời | - | - | 世渡[よわた]り上手[じょうず]な彼[かれ]はどこでも出世[しゅっせ]する。 | Khéo xoay xở như anh ta đi đâu cũng thăng tiến.
+要領[ようりょう]がいい | exp | YẾU LĨNH | biết cách làm, nhanh nhạy | - | - | 要領[ようりょう]がいい人[ひと]は短時間[たんじかん]で仕事[しごと]を終[お]わらせる。 | Người biết cách làm hoàn thành việc trong thời gian ngắn.
+主観的[しゅかんてき] | adj-na | CHỦ QUAN ĐÍCH | chủ quan | - | - | 評価[ひょうか]が主観[しゅかん]的[てき]になりすぎないよう注意[ちゅうい]する。 | Chú ý để đánh giá không quá chủ quan.
+客観的[きゃっかんてき] | adj-na | KHÁCH QUAN ĐÍCH | khách quan | {客観的} に 見[み]る | nhìn khách quan | 自分[じぶん]の作品[さくひん]を客観[きゃっかん]的[てき]に見[み]るのは難[むずか]しい。 | Nhìn tác phẩm của mình một cách khách quan thật khó.
+情緒的[じょうちょてき] | adj-na | TÌNH TỰ ĐÍCH | thiên về cảm xúc | - | - | 情緒[じょうちょ]的[てき]な判断[はんだん]ではなく、データに基[もと]づいて決[き]めよう。 | Hãy quyết định dựa trên dữ liệu chứ không theo cảm xúc.
+理性的[りせいてき] | adj-na | LÝ TÍNH ĐÍCH | lý trí | - | - | 怒[おこ]っていても理性[りせい]的[てき]に話[はな]し合[あ]うべきだ。 | Dù giận cũng nên bàn bạc bằng lý trí.
+理知的[りちてき] | adj-na | LÝ TRI ĐÍCH | thông tuệ, lý trí | - | - | 彼女[かのじょ]は理知[りち]的[てき]な顔立[かおだ]ちをしている。 | Cô ấy có gương mặt toát lên vẻ thông tuệ.
+浅[あさ]はか | adj-na | THIỂN | nông cạn | - | - | 金[かね]のために嘘[うそ]をつくなんて浅[あさ]はかだった。 | Nói dối vì tiền thật là nông cạn.
+浅薄[せんぱく] | adj-na | THIỂN BẠC | nông cạn, hời hợt | - | - | 浅薄[せんぱく]な知識[ちしき]で専門家[せんもんか]に意見[いけん]するべきではない。 | Không nên góp ý chuyên gia bằng kiến thức hời hợt.
+軽薄[けいはく] | adj-na | KHINH BẠC | nhẹ dạ, hời hợt | - | - | 軽薄[けいはく]な言動[げんどう]で信用[しんよう]を失[うしな]った。 | Anh ta mất uy tín vì lời nói hành động hời hợt.
+愚鈍[ぐどん] | adj-na | NGU ĐỘN | ngu đần | - | - | 物語[ものがたり]の主人公[しゅじんこう]は愚鈍[ぐどん]に見[み]えて実[じつ]は賢[かしこ]い。 | Nhân vật chính trông có vẻ ngu đần nhưng thật ra rất khôn.
+無垢[むく] | n,adj-na | VÔ CẤU | ngây thơ trong trắng; nguyên chất | 純真[じゅんしん] {無垢} | trong trắng ngây thơ | 赤[あか]ちゃんの無垢[むく]な笑顔[えがお]に癒[いや]される。 | Nụ cười trong trẻo của em bé làm tôi nhẹ lòng.
+純真[じゅんしん] | adj-na | THUẦN CHÂN | trong sáng, chân thật | - | - | 子供[こども]の純真[じゅんしん]な心[こころ]を大切[たいせつ]にしたい。 | Tôi muốn trân trọng tâm hồn trong sáng của trẻ.
+あどけない | adj-i | - | ngây thơ (trẻ con) | - | - | 寝顔[ねがお]にまだあどけなさが残[のこ]っている。 | Gương mặt ngủ vẫn còn nét ngây thơ.
+いじらしい | adj-i | - | đáng thương đáng mến | - | - | 母[はは]を手伝[てつだ]おうとする子供[こども]の姿[すがた]がいじらしい。 | Dáng đứa trẻ cố giúp mẹ thật đáng thương đáng mến.
+しおらしい | adj-i | - | ngoan ngoãn, nhu mì | - | - | いつも生意気[なまいき]な彼[かれ]が今日[きょう]はしおらしい。 | Anh ta vốn láo hôm nay lại ngoan ngoãn.
+人懐[ひとなつ]っこい | adj-i | NHÂN HOÀI | dễ gần, hay làm thân | - | - | 人懐[ひとなつ]っこい子犬[こいぬ]がしっぽを振[ふ]って近寄[ちかよ]ってきた。 | Chú chó con dễ gần vẫy đuôi lại gần.
+意固地[いこじ] | adj-na | Ý CỐ ĐỊA | ương bướng | - | - | 注意[ちゅうい]されるとますます意固地[いこじ]になる。 | Bị nhắc là càng ương bướng.
+偏屈[へんくつ] | adj-na | THIÊN KHUẤT | gàn dở, khó chịu | - | - | 近所[きんじょ]の偏屈[へんくつ]な老人[ろうじん]は実[じつ]は寂[さび]しがり屋[や]だった。 | Ông lão gàn dở hàng xóm thật ra là người sợ cô đơn.
+変[か]わり者[もの] | n | BIẾN GIẢ | người lập dị | - | - | 彼[かれ]は変[か]わり者[もの]だが、才能[さいのう]はある。 | Anh ấy lập dị nhưng có tài.
+曲者[くせもの] | n | KHÚC GIẢ | kẻ khó lường; thứ khó nhằn | - | - | この問題[もんだい]は簡単[かんたん]そうに見[み]えて曲者[くせもの]だ。 | Câu hỏi này trông dễ nhưng thật ra khó nhằn.
+大物[おおもの] | n | ĐẠI VẬT | nhân vật tầm cỡ | - | - | パーティーには政界[せいかい]の大物[おおもの]も来[き]ていた。 | Bữa tiệc có cả những nhân vật tầm cỡ chính giới.
+小物[こもの] | n | TIỂU VẬT | nhân vật tép riu; đồ lặt vặt | - | - | 逮捕[たいほ]されたのは組織[そしき]の小物[こもの]だけだった。 | Kẻ bị bắt chỉ là tép riu của tổ chức.
+逸材[いつざい] | n | DẬT TÀI | nhân tài xuất chúng | - | - | 彼[かれ]は百[ひゃく]年[ねん]に一人[ひとり]の逸材[いつざい]だ。 | Anh ấy là nhân tài trăm năm có một.
+奇才[きさい] | n | KỲ TÀI | kỳ tài | - | - | 映画[えいが]界[かい]の奇才[きさい]が新作[しんさく]を発表[はっぴょう]した。 | Kỳ tài điện ảnh công bố tác phẩm mới.
+鬼才[きさい] | n | QUỶ TÀI | quỷ tài, tài năng phi thường | - | - | 彼[かれ]は音楽[おんがく]界[かい]の鬼才[きさい]と呼[よ]ばれた。 | Ông được gọi là quỷ tài của giới âm nhạc.
+凡庸[ぼんよう] | adj-na | PHÀM DUNG | tầm thường | - | - | 凡庸[ぼんよう]な作品[さくひん]ばかりで、心[こころ]に残[のこ]るものがない。 | Toàn tác phẩm tầm thường, chẳng có gì đọng lại.
+努力家[どりょくか] | n | NỖ LỰC GIA | người chăm chỉ nỗ lực | - | - | 彼女[かのじょ]は人一倍[ひといちばい]の努力[どりょく]家[か]だ。 | Cô ấy là người nỗ lực gấp mấy người khác.
+働[はたら]き者[もの] | n | ĐỘNG GIẢ | người chăm làm | - | - | 祖母[そぼ]は朝[あさ]から晩[ばん]まで休[やす]まない働[はたら]き者[もの]だった。 | Bà tôi là người chăm làm, từ sáng tới tối không nghỉ.
+しっかり者[もの] | n | GIẢ | người chín chắn, đảm đang | - | - | 妹[いもうと]は年[とし]の割[わり]にしっかり者[もの]だ。 | Em gái tôi chín chắn so với tuổi.
+苦労人[くろうにん] | n | KHỔ LAO NHÂN | người từng trải gian khổ | - | - | 社長[しゃちょう]は若[わか]いころから働[はたら]いてきた苦労[くろう]人[にん]だ。 | Giám đốc là người từng trải gian khổ, đi làm từ khi còn trẻ.
+物知[ものし]り | n | VẬT TRI | người hiểu biết rộng | - | - | 祖父[そふ]は物知[ものし]りで、何[なん]でも教[おし]えてくれる。 | Ông tôi hiểu biết rộng, gì cũng dạy cho tôi.
+お人好[ひとよ]し | n,adj-na | NHÂN HẢO | người cả tin, quá tốt bụng | - | - | お人好[ひとよ]しの彼[かれ]はすぐ人[ひと]にお金[かね]を貸[か]してしまう。 | Tốt bụng quá nên anh ta cứ cho người khác vay tiền.
+世間[せけん]知[し]らず | n,adj-na | THẾ GIAN TRI | ngây ngô, không biết sự đời | - | - | 世間[せけん]知[し]らずのお嬢様[じょうさま]だと思[おも]われている。 | Cô bị coi là tiểu thư không biết sự đời.
+箱入[はこい]り | n | TƯƠNG NHẬP | được giữ trong nhà (con gái) | {箱入り} 娘[むすめ] | tiểu thư khuê các | 彼女[かのじょ]は箱入[はこい]り娘[むすめ]として大切[たいせつ]に育[そだ]てられた。 | Cô được nuôi nâng như tiểu thư khuê các.
+八方美人[はっぽうびじん] | n | BÁT PHƯƠNG MỸ NHÂN | người chiều lòng tất cả | - | - | 八方[はっぽう]美人[びじん]は結局[けっきょく]誰[だれ]からも信頼[しんらい]されない。 | Người chiều lòng tất cả cuối cùng không được ai tin.
+気分屋[きぶんや] | n | KHÍ PHÂN ỐC | người thất thường | - | - | 上司[じょうし]が気分[きぶん]屋[や]で、毎日[まいにち]顔色[かおいろ]をうかがっている。 | Sếp thất thường nên ngày nào tôi cũng phải dò sắc mặt.
+移[うつ]り気[ぎ] | n,adj-na | DI KHÍ | hay thay lòng, cả thèm chóng chán | - | - | 移[うつ]り気[ぎ]な性格[せいかく]で趣味[しゅみ]が長続[ながつづ]きしない。 | Tính cả thèm chóng chán nên sở thích chẳng bền.
+おっちょこちょい | n,adj-na | - | hấp tấp vụng về | - | - | おっちょこちょいなので、よく忘[わす]れ物[もの]をする。 | Tôi hấp tấp nên hay quên đồ.
+口[くち]うるさい | adj-i | KHẨU | hay cằn nhằn | - | - | 母[はは]は勉強[べんきょう]のことになると口[くち]うるさい。 | Hễ chuyện học hành là mẹ tôi hay cằn nhằn.
+けちくさい | adj-i | - | keo kiệt, bủn xỉn | - | - | 百[ひゃく]円[えん]ぐらいでけちくさいことを言[い]うな。 | Có trăm yên thôi, đừng nói chuyện bủn xỉn.
+強欲[ごうよく] | n,adj-na | CƯỜNG DỤC | tham lam | - | - | 強欲[ごうよく]な商人[しょうにん]が最後[さいご]に全[すべ]てを失[うしな]う話[はなし]だ。 | Câu chuyện về gã thương nhân tham lam cuối cùng mất tất cả.
+貪欲[どんよく] | adj-na | THAM DỤC | tham lam; khát khao | {貪欲} に 学[まな]ぶ | học hỏi khao khát | 若手[わかて]は貪欲[どんよく]に知識[ちしき]を吸収[きゅうしゅう]している。 | Người trẻ khát khao hấp thu kiến thức.
+欲深[よくぶか]い | adj-i | DỤC THÂM | tham lam | - | - | 欲深[よくぶか]い人[ひと]ほど満足[まんぞく]することがない。 | Người càng tham thì càng không biết đủ.
+無欲[むよく] | n,adj-na | VÔ DỤC | vô dục, không tham | - | - | 無欲[むよく]で挑[いど]んだ大会[たいかい]で優勝[ゆうしょう]した。 | Thi đấu không màng thắng thua mà lại vô địch.
+虚栄心[きょえいしん] | n | HƯ VINH TÂM | lòng hư vinh | - | - | 虚栄[きょえい]心[しん]からブランド品[ひん]ばかり買[か]っていた。 | Vì hư vinh mà toàn mua hàng hiệu.
+見栄[みえ]っ張[ぱ]り | n,adj-na | KIẾN VINH TRƯƠNG | người sĩ diện | - | - | 見栄[みえ]っ張[ぱ]りの彼[かれ]は高[たか]い車[くるま]をローンで買[か]った。 | Sĩ diện, anh ta mua trả góp chiếc xe đắt tiền.
+自信家[じしんか] | n | TỰ TÍN GIA | người tự tin thái quá | - | - | 自信[じしん]家[か]の彼[かれ]は人[ひと]の意見[いけん]を聞[き]かない。 | Anh ta tự tin thái quá, không nghe ý kiến ai.
+自信[じしん]過剰[かじょう] | n,adj-na | TỰ TÍN QUÁ THẶNG | quá tự tin | - | - | 自信[じしん]過剰[かじょう]が油断[ゆだん]を招[まね]いた。 | Quá tự tin dẫn đến chủ quan.
+低姿勢[ていしせい] | n,adj-na | ĐÊ TƯ THẾ | thái độ khiêm nhường | - | - | 選挙[せんきょ]前[まえ]の候補者[こうほしゃ]はみな低[てい]姿勢[しせい]だ。 | Trước bầu cử, ứng viên nào cũng khiêm nhường.
+高姿勢[こうしせい] | n,adj-na | CAO TƯ THẾ | thái độ trịch thượng | - | - | 相手[あいて]は交渉[こうしょう]で終始[しゅうし]高[こう]姿勢[しせい]だった。 | Đối phương giữ thái độ trịch thượng suốt cuộc đàm phán.
+大人[おとな]げない | adj-i | ĐẠI NHÂN | trẻ con (với người lớn) | - | - | 子供[こども]相手[あいて]に本気[ほんき]で怒[おこ]るなんて大人[おとな]げない。 | Nổi giận thật với trẻ con thì thật trẻ con.
+子供[こども]っぽい | adj-i | TỬ CUNG | trẻ con | - | - | 彼[かれ]は三十[さんじゅう]歳[さい]なのに考[かんが]え方[かた]が子供[こども]っぽい。 | Ba mươi tuổi mà suy nghĩ còn trẻ con.
+女々[めめ]しい | adj-i | NỮ | ẻo lả, yếu đuối (đàn ông) | - | - | いつまでも過去[かこ]を引[ひ]きずるのは女々[めめ]しいと言[い]われた。 | Tôi bị bảo là yếu đuối vì mãi vương vấn quá khứ.
+雄々[おお]しい | adj-i | HÙNG | dũng mãnh, hiên ngang | - | - | 嵐[あらし]の中[なか]に立[た]つ雄々[おお]しい姿[すがた]が描[えが]かれている。 | Bức tranh vẽ dáng hiên ngang giữa bão tố.
+豪快[ごうかい] | adj-na | HÀO KHOÁI | hào sảng | {豪快} に 笑[わら]う | cười sảng khoái | 彼[かれ]は豪快[ごうかい]に笑[わら]って失敗[しっぱい]を気[き]にしなかった。 | Anh cười hào sảng, chẳng bận tâm thất bại.
+果敢[かかん] | adj-na | QUẢ CẢM | quả cảm | {果敢} に 挑[いど]む | dũng cảm thử thách | 若[わか]い選手[せんしゅ]が果敢[かかん]に攻[せ]めた。 | Cầu thủ trẻ tấn công quả cảm.
+たくましい | adj-i | - | vạm vỡ; mạnh mẽ, kiên cường | {たくましい} 想像[そうぞう]力[りょく] | trí tưởng tượng phong phú | 被災[ひさい]地[ち]の人々[ひとびと]はたくましく生[い]きている。 | Người dân vùng thiên tai sống thật kiên cường.
+したたか | adj-na | - | lì lợm, khôn ngoan cứng cỏi | - | - | 彼女[かのじょ]は交渉[こうしょう]上手[じょうず]なしたたかな経営[けいえい]者[しゃ]だ。 | Bà là nhà quản lý khôn ngoan lì lợm, giỏi đàm phán.
+若々[わかわか]しい | adj-i | NHƯỢC | trẻ trung | - | - | 母[はは]は六十[ろくじゅう]歳[さい]とは思[おも]えないほど若々[わかわか]しい。 | Mẹ tôi trẻ trung không ngờ đã sáu mươi.
+旺盛[おうせい] | adj-na | VƯỢNG THỊNH | mạnh mẽ, dồi dào | 食欲[しょくよく] {旺盛} | ăn khỏe | 子供[こども]たちは好奇[こうき]心[しん]旺盛[おうせい]だ。 | Bọn trẻ có lòng hiếu kỳ dồi dào.
+堪能[たんのう] | n,v3,adj-na | KHAM NĂNG | thông thạo; tận hưởng | 英語[えいご] に {堪能} | thông thạo tiếng Anh | 京都[きょうと]で秋[あき]の紅葉[こうよう]を堪能[たんのう]した。 | Tôi tận hưởng mùa lá đỏ ở Kyoto.
+模範的[もはんてき] | adj-na | MÔ PHẠM ĐÍCH | gương mẫu | - | - | 彼[かれ]は模範[もはん]的[てき]な社員[しゃいん]として表彰[ひょうしょう]された。 | Anh được khen thưởng là nhân viên gương mẫu.
+投[な]げやり | adj-na | ĐẦU | buông xuôi, cẩu thả | - | - | 失恋[しつれん]してから彼[かれ]は何事[なにごと]にも投[な]げやりだ。 | Từ khi thất tình, anh ấy buông xuôi mọi việc.
+無神経[むしんけい] | adj-na | VÔ THẦN KINH | vô ý tứ | - | - | 無神経[むしんけい]な一言[ひとこと]が彼女[かのじょ]を傷[きず]つけた。 | Một câu vô ý tứ đã làm cô ấy tổn thương.
+無造作[むぞうさ] | adj-na | VÔ TẠO TÁC | tùy tiện, không cầu kỳ | - | - | 高価[こうか]な絵[え]が無造作[むぞうさ]に壁[かべ]に立[た]てかけてあった。 | Bức tranh đắt tiền được dựng vào tường một cách tùy tiện.
+無茶[むちゃ] | n,adj-na | VÔ TRÀ | liều lĩnh, vô lý | {無茶} を する | làm liều | 熱[ねつ]があるのに無茶[むちゃ]をしてはいけない。 | Đang sốt thì đừng có làm liều.
+大[おお]げさ | adj-na | ĐẠI | khoa trương, làm quá | - | - | 少[すこ]し転[ころ]んだだけで大[おお]げさに騒[さわ]ぐ。 | Chỉ ngã chút mà làm ầm lên.
+粗暴[そぼう] | adj-na | THÔ BẠO | thô bạo | - | - | 酒[さけ]を飲[の]むと粗暴[そぼう]になる人[ひと]がいる。 | Có người uống rượu vào là trở nên thô bạo.
+がさつ | adj-na | - | cẩu thả thô lỗ | - | - | がさつな動作[どうさ]で食器[しょっき]を割[わ]ってしまった。 | Vì động tác cẩu thả mà tôi làm vỡ bát đĩa.
+無作法[ぶさほう] | n,adj-na | VÔ TÁC PHÁP | vô phép | - | - | 食事[しょくじ]中[ちゅう]に携帯[けいたい]をいじるのは無作法[ぶさほう]だ。 | Nghịch điện thoại khi ăn là vô phép.
+臆病者[おくびょうもの] | n | ỨC BỆNH GIẢ | kẻ nhát gan | - | - | 逃[に]げ出[だ]した彼[かれ]は臆病[おくびょう]者[もの]と呼[よ]ばれた。 | Bỏ chạy nên anh bị gọi là kẻ nhát gan.
+小心者[しょうしんもの] | n | TIỂU TÂM GIẢ | người nhút nhát | - | - | 私[わたし]は小心[しょうしん]者[もの]なので人前[ひとまえ]で話[はな]すと緊張[きんちょう]する。 | Tôi nhút nhát nên nói trước đám đông là căng thẳng.
+往生際[おうじょうぎわ] | n | VÃNG SINH TẾ | lúc từ bỏ | {往生際} が 悪[わる]い | không chịu thua | 負[ま]けを認[みと]めない彼[かれ]は往生[おうじょう]際[ぎわ]が悪[わる]い。 | Không chịu nhận thua, anh ta thật cố chấp.
+未練[みれん]がましい | adj-i | VỊ LUYỆN | vương vấn dai dẳng | - | - | 別[わか]れた恋人[こいびと]に何度[なんど]も電話[でんわ]するのは未練[みれん]がましい。 | Gọi cho người yêu cũ hoài là vương vấn dai dẳng.
+陰険[いんけん] | adj-na | ÂM HIỂM | thâm hiểm | - | - | 陰険[いんけん]ないじめは見[み]つけにくい。 | Bắt nạt thâm hiểm rất khó phát hiện.
+陰湿[いんしつ] | adj-na | ÂM THẤP | ngấm ngầm hiểm độc | - | - | ネット上[じょう]の陰湿[いんしつ]な嫌[いや]がらせに悩[なや]まされた。 | Tôi khổ sở vì bị quấy rối ngấm ngầm trên mạng.
+腹黒[はらぐろ]い | adj-i | PHÚC HẮC | bụng dạ đen tối | - | - | 優[やさ]しそうに見[み]えて、実[じつ]は腹黒[はらぐろ]い人[ひと]だった。 | Trông hiền lành mà thực ra bụng dạ đen tối.
+狡猾[こうかつ] | adj-na | GIẢO HOẠT | xảo quyệt | - | - | 狡猾[こうかつ]な詐欺[さぎ]師[し]にだまされた。 | Tôi bị tên lừa đảo xảo quyệt lừa.
+ずる賢[がしこ]い | adj-i | HIỀN | ranh mãnh | - | - | ずる賢[がしこ]いやり方[かた]で人[ひと]を出[だ]し抜[ぬ]く。 | Qua mặt người khác bằng cách ranh mãnh.
+悪賢[わるがしこ]い | adj-i | ÁC HIỀN | gian xảo | - | - | 悪賢[わるがしこ]い手口[てぐち]で高齢[こうれい]者[しゃ]をだました。 | Lừa người già bằng thủ đoạn gian xảo.
+老獪[ろうかい] | adj-na | LÃO QUÁI | cáo già | - | - | 老獪[ろうかい]な政治家[せいじか]に若手[わかて]は太刀打[たちう]ちできない。 | Người trẻ không đấu lại chính trị gia cáo già.
+老練[ろうれん] | adj-na | LÃO LUYỆN | lão luyện | - | - | 老練[ろうれん]な船長[せんちょう]が嵐[あらし]を乗[の]り切[き]った。 | Thuyền trưởng lão luyện đã vượt qua cơn bão.
+卑劣[ひれつ] | adj-na | TI LIỆT | đê tiện | {卑劣} な 手段[しゅだん] | thủ đoạn đê tiện | 弱[よわ]い者[もの]を狙[ねら]う卑劣[ひれつ]な犯罪[はんざい]だ。 | Đó là tội ác đê tiện nhắm vào kẻ yếu.
+姑息[こそく] | adj-na | CÔ TỨC | tạm bợ; hèn hạ (nghĩa thường dùng) | {姑息} な 手段[しゅだん] | thủ đoạn hèn | 姑息[こそく]なやり方[かた]では根本[こんぽん]的[てき]な解決[かいけつ]にならない。 | Cách làm tạm bợ không giải quyết tận gốc.
+卑[いや]しい | adj-i | TI | hèn hạ; tham ăn | - | - | 金[かね]にばかり執着[しゅうちゃく]するのは卑[いや]しい。 | Chỉ bám víu tiền bạc là hèn hạ.
+浅[あさ]ましい | adj-i | THIỂN | đáng xấu hổ, đê hèn | - | - | 人[ひと]の不幸[ふこう]を喜[よろこ]ぶなんて浅[あさ]ましい。 | Vui mừng trước bất hạnh của người khác thật đê hèn.
+慎[つつ]ましい | adj-i | THẬN | khiêm tốn, giản dị | - | - | 二人[ふたり]は郊外[こうがい]で慎[つつ]ましく暮[く]らしている。 | Hai người sống giản dị ở ngoại ô.
+慎[つつし]み深[ぶか]い | adj-i | THẬN THÂM | kín đáo, giữ ý | - | - | 祖母[そぼ]は慎[つつし]み深[ぶか]く、決[けっ]して人[ひと]の悪口[わるぐち]を言[い]わなかった。 | Bà tôi giữ ý, chưa bao giờ nói xấu ai.
+奥[おく]ゆかしい | adj-i | ÁO | thanh lịch kín đáo | - | - | 自分[じぶん]の手柄[てがら]を誇[ほこ]らない奥[おく]ゆかしい人[ひと]だ。 | Đó là người thanh lịch kín đáo, không khoe công.
+遠慮深[えんりょぶか]い | adj-i | VIỄN LỰ THÂM | rất khách sáo | - | - | 彼女[かのじょ]は遠慮[えんりょ]深[ぶか]くて、なかなか頼[たの]みごとをしない。 | Cô ấy khách sáo lắm, hiếm khi nhờ vả.
+用心深[ようじんぶか]い | adj-i | DỤNG TÂM THÂM | thận trọng | - | - | 用心[ようじん]深[ぶか]い父[ちち]は二重[にじゅう]に鍵[かぎ]をかける。 | Bố tôi thận trọng nên khóa hai lớp.
+疑[うたが]い深[ぶか]い | adj-i | NGHI THÂM | đa nghi | - | - | 疑[うたが]い深[ぶか]い性格[せいかく]で、人[ひと]の話[はなし]をなかなか信[しん]じない。 | Tính đa nghi nên khó tin lời người khác.
+思慮[しりょ] | n | TƯ LỰ | sự suy xét | {思慮} 分別[ふんべつ] | suy xét chín chắn | 彼[かれ]の行動[こうどう]は思慮[しりょ]に欠[か]けていた。 | Hành động của anh ta thiếu suy xét.
+思慮深[しりょぶか]い | adj-i | TƯ LỰ THÂM | chín chắn, thâm trầm | - | - | 思慮[しりょ]深[ぶか]い彼[かれ]の助言[じょげん]はいつも的確[てきかく]だ。 | Lời khuyên của người chín chắn như anh luôn chính xác.
+良識[りょうしき] | n | LƯƠNG THỨC | lương tri | {良識} ある 行動[こうどう] | hành động có lương tri | 市民[しみん]の良識[りょうしき]ある行動[こうどう]が求[もと]められる。 | Cần người dân hành động có lương tri.
+紳士[しんし] | n | THÂN SĨ | quý ông | {紳士} 的[てき] | lịch thiệp | 彼[かれ]は紳士[しんし]的[てき]な態度[たいど]で女性[じょせい]に接[せっ]する。 | Anh ấy đối xử với phụ nữ rất lịch thiệp.
+淑女[しゅくじょ] | n | THỤC NỮ | quý bà, thục nữ | - | - | 「紳士[しんし]淑女[しゅくじょ]の皆様[みなさま]」と司会[しかい]者[しゃ]が呼[よ]びかけた。 | Người dẫn chương trình kêu gọi: "Thưa quý ông quý bà".
+向上心[こうじょうしん] | n | HƯỚNG THƯỢNG TÂM | chí cầu tiến | - | - | 向上[こうじょう]心[しん]のある人[ひと]は伸[の]びる。 | Người có chí cầu tiến sẽ tiến bộ.
+野心的[やしんてき] | adj-na | DÃ TÂM ĐÍCH | đầy tham vọng | - | - | 野心[やしん]的[てき]な計画[けいかく]だが、実現[じつげん]は難[むずか]しい。 | Kế hoạch đầy tham vọng nhưng khó thực hiện.
+情熱的[じょうねつてき] | adj-na | TÌNH NHIỆT ĐÍCH | nồng nhiệt | - | - | 彼[かれ]は情熱[じょうねつ]的[てき]に夢[ゆめ]を語[かた]った。 | Anh ấy nồng nhiệt kể về ước mơ.
+精力的[せいりょくてき] | adj-na | TINH LỰC ĐÍCH | năng nổ | - | - | 新[しん]市長[しちょう]は精力[せいりょく]的[てき]に地域[ちいき]を回[まわ]っている。 | Tân thị trưởng năng nổ đi khắp địa phương.
+根気強[こんきづよ]い | adj-i | CĂN KHÍ CƯỜNG | kiên nhẫn bền bỉ | - | - | 先生[せんせい]は根気[こんき]強[づよ]く生徒[せいと]に教[おし]えた。 | Thầy kiên nhẫn dạy học trò.
+執拗[しつよう] | adj-na | CHẤP ẢO | dai dẳng, lì lợm | {執拗} に 迫[せま]る | bám riết | 記者[きしゃ]が執拗[しつよう]に質問[しつもん]を繰[く]り返[かえ]した。 | Phóng viên dai dẳng hỏi đi hỏi lại.
+機転[きてん] | n | CƠ CHUYỂN | sự nhanh trí | {機転} が 利[き]く | nhanh trí | 店員[てんいん]の機転[きてん]で混乱[こんらん]が避[さ]けられた。 | Nhờ nhân viên nhanh trí mà tránh được hỗn loạn.
+統率力[とうそつりょく] | n | THỐNG SUẤT LỰC | năng lực chỉ huy | - | - | キャプテンには統率[とうそつ]力[りょく]が求[もと]められる。 | Đội trưởng cần có năng lực chỉ huy.
+指導力[しどうりょく] | n | CHỈ ĐẠO LỰC | năng lực lãnh đạo | - | - | 首相[しゅしょう]の指導[しどう]力[りょく]が問[と]われている。 | Năng lực lãnh đạo của thủ tướng đang bị đặt dấu hỏi.
+実行力[じっこうりょく] | n | THỰC HÀNH LỰC | năng lực thực thi | - | - | 計画[けいかく]より実行[じっこう]力[りょく]が大切[たいせつ]だ。 | Năng lực thực thi quan trọng hơn kế hoạch.
+決断力[けつだんりょく] | n | QUYẾT ĐOÁN LỰC | khả năng quyết đoán | - | - | リーダーには素早[すばや]い決断[けつだん]力[りょく]が必要[ひつよう]だ。 | Người lãnh đạo cần khả năng quyết đoán nhanh.
+洞察力[どうさつりょく] | n | ĐỘNG SÁT LỰC | sức thấu suốt | - | - | 彼[かれ]の鋭[するど]い洞察[どうさつ]力[りょく]には驚[おどろ]かされる。 | Sức thấu suốt sắc bén của ông thật đáng kinh ngạc.
+観察力[かんさつりょく] | n | QUAN SÁT LỰC | khả năng quan sát | - | - | 画家[がか]には優[すぐ]れた観察[かんさつ]力[りょく]が欠[か]かせない。 | Họa sĩ không thể thiếu khả năng quan sát tốt.
+忍耐力[にんたいりょく] | n | NHẪN NẠI LỰC | sức chịu đựng | - | - | マラソンには体力[たいりょく]だけでなく忍耐[にんたい]力[りょく]も必要[ひつよう]だ。 | Chạy marathon không chỉ cần thể lực mà cả sức chịu đựng.
+存在感[そんざいかん] | n | TỒN TẠI CẢM | sự hiện diện nổi bật | {存在感} が ある | có sức hiện diện | 彼[かれ]は脇役[わきやく]でも強[つよ]い存在[そんざい]感[かん]を放[はな]っていた。 | Dù đóng vai phụ, anh vẫn có sức hiện diện mạnh mẽ.
+オーラ | n | - | hào quang, khí chất | - | - | トップスターには独特[どくとく]のオーラがある。 | Ngôi sao hàng đầu có hào quang riêng.
+カリスマ | n | - | sức hút lãnh tụ | {カリスマ} 性[せい] | sức hút | 彼[かれ]はカリスマ性[せい]のある経営[けいえい]者[しゃ]だ。 | Ông là nhà quản lý có sức hút.
+魅了[みりょう] | n,v3 | MỊ LIỄU | mê hoặc | - | - | 彼女[かのじょ]の歌声[うたごえ]は観客[かんきゃく]を魅了[みりょう]した。 | Giọng hát của cô mê hoặc khán giả.
+貫禄[かんろく] | n | QUÁN LỘC | phong thái đĩnh đạc | {貫禄} が ある | đĩnh đạc | 彼[かれ]は若[わか]いのに社長[しゃちょう]としての貫禄[かんろく]がある。 | Anh ấy còn trẻ mà đã có phong thái của một giám đốc.
+風格[ふうかく] | n | PHONG CÁCH | phong thái, cốt cách | - | - | 王者[おうじゃ]の風格[ふうかく]が漂[ただよ]っている。 | Toát lên cốt cách của nhà vô địch.
+威厳[いげん] | n | UY NGHIÊM | uy nghiêm | - | - | 裁判官[さいばんかん]は威厳[いげん]のある声[こえ]で判決[はんけつ]を言[い]い渡[わた]した。 | Thẩm phán tuyên án bằng giọng uy nghiêm.
+風貌[ふうぼう] | n | PHONG MẠO | diện mạo, phong thái | - | - | 彼[かれ]は芸術[げいじゅつ]家[か]らしい風貌[ふうぼう]をしている。 | Anh ta có diện mạo của một nghệ sĩ.
+容姿[ようし] | n | DUNG TƯ | dung mạo, ngoại hình | - | - | 人[ひと]を容姿[ようし]で判断[はんだん]してはいけない。 | Không được đánh giá người qua ngoại hình.
+容貌[ようぼう] | n | DUNG MẠO | dung mạo | - | - | 犯人[はんにん]の容貌[ようぼう]について目撃[もくげき]者[しゃ]に聞[き]いた。 | Hỏi nhân chứng về dung mạo hung thủ.
+風采[ふうさい] | n | PHONG THẢI | dáng vẻ bề ngoài | {風采} が 上[あ]がらない | trông xoàng | 彼[かれ]は風采[ふうさい]の上[あ]がらない男[おとこ]だが、仕事[しごと]はできる。 | Anh ta trông xoàng nhưng làm việc giỏi.
+装[よそお]い | n | TRANG | trang phục; diện mạo | {装い} を 新[あら]たに | khoác diện mạo mới | 駅[えき]ビルが装[よそお]いも新[あら]たにオープンした。 | Tòa nhà ga khai trương với diện mạo mới.
+いでたち | n | - | cách ăn mặc | - | - | 彼[かれ]は派手[はで]ないでたちで会場[かいじょう]に現[あらわ]れた。 | Anh xuất hiện ở hội trường với cách ăn mặc lòe loẹt.
+振[ふ]る舞[ま]い | n | CHẤN VŨ | cách cư xử | - | - | 彼[かれ]の大人[おとな]らしい振[ふ]る舞[ま]いに感心[かんしん]した。 | Tôi khâm phục cách cư xử chín chắn của cậu ấy.
+立[た]ち居[い]振[ふ]る舞[ま]い | n | LẬP CƯ CHẤN VŨ | dáng điệu cử chỉ | - | - | 茶道[さどう]を習[なら]って立[た]ち居[い]振[ふ]る舞[ま]いが美[うつく]しくなった。 | Học trà đạo xong, cử chỉ của tôi đẹp hơn.
+物腰[ものごし] | n | VẬT YÊU | phong thái, cách cư xử | {物腰} が 柔[やわ]らかい | nhã nhặn | 彼女[かのじょ]は物腰[ものごし]が柔[やわ]らかく、話[はな]しやすい。 | Cô ấy nhã nhặn, dễ nói chuyện.
+身[み]のこなし | n | THÂN | dáng điệu, cử động | - | - | ダンサーのしなやかな身[み]のこなしに見[み]とれた。 | Tôi ngắm say mê cử động uyển chuyển của vũ công.
+所作[しょさ] | n | SỞ TÁC | động tác, cử chỉ | - | - | 能[のう]の所作[しょさ]には一[ひと]つ一[ひと]つ意味[いみ]がある。 | Mỗi động tác trong kịch Nô đều có ý nghĩa.
+言動[げんどう] | n | NGÔN ĐỘNG | lời nói và hành động | {言動} を 慎[つつし]む | thận trọng lời nói việc làm | 公人[こうじん]は言動[げんどう]に注意[ちゅうい]すべきだ。 | Người của công chúng nên chú ý lời nói và hành động.
+挙動[きょどう] | n | CỬ ĐỘNG | cử chỉ, hành vi | - | - | パソコンの挙動[きょどう]がおかしい。 | Máy tính hoạt động bất thường.
+面持[おもも]ち | n | DIỆN TRÌ | vẻ mặt | 緊張[きんちょう] した {面持ち} | vẻ mặt căng thẳng | 受験[じゅけん]生[せい]たちは緊張[きんちょう]した面持[おもも]ちで会場[かいじょう]に入[はい]った。 | Thí sinh bước vào phòng thi với vẻ mặt căng thẳng.
+目[め]つき | n | MỤC | ánh mắt | 鋭[するど]い {目つき} | ánh mắt sắc lẹm | 彼[かれ]は鋭[するど]い目[め]つきで相手[あいて]をにらんだ。 | Anh trừng mắt nhìn đối phương bằng ánh mắt sắc lẹm.
+眼差[まなざ]し | n | NHÃN SAI | ánh nhìn | 温[あたた]かい {眼差し} | ánh nhìn ấm áp | 母[はは]は温[あたた]かい眼差[まなざ]しで子供[こども]を見守[みまも]っていた。 | Người mẹ dõi theo con bằng ánh nhìn ấm áp.
+口[くち]ぶり | n | KHẨU | giọng điệu, cách nói | - | - | 彼[かれ]は何[なに]か知[し]っているような口[くち]ぶりだった。 | Anh ta nói với giọng điệu như biết gì đó.
+素振[そぶ]り | n | TỐ CHẤN | dáng vẻ, cử chỉ | - | - | 彼女[かのじょ]は疲[つか]れた素振[そぶ]りも見[み]せずに働[はたら]いた。 | Cô làm việc không hề tỏ vẻ mệt.
+きっぱり | adv | - | dứt khoát | {きっぱり} 断[ことわ]る | từ chối dứt khoát | 無理[むり]な頼[たの]みはきっぱり断[ことわ]った。 | Tôi dứt khoát từ chối lời nhờ vô lý.
+ぐずぐず | adv,v3 | - | lề mề, chần chừ | - | - | ぐずぐずしていると電車[でんしゃ]に遅[おく]れるよ。 | Lề mề thế là trễ tàu đấy.
+ゆうゆう | adv | - | thong dong, ung dung | {ゆうゆう} と 間[ま]に合[あ]う | thừa sức kịp | 早[はや]めに出[で]たので、ゆうゆう間[ま]に合[あ]った。 | Đi sớm nên thong thả kịp giờ.
+いそいそ | adv | - | hớn hở, rộn ràng | - | - | 彼女[かのじょ]はデートの準備[じゅんび]をいそいそと始[はじ]めた。 | Cô ấy hớn hở bắt đầu chuẩn bị cho buổi hẹn.
+おろおろ | adv,v3 | - | cuống quýt | - | - | 子供[こども]が迷子[まいご]になり、母親[ははおや]はおろおろしていた。 | Con bị lạc, người mẹ cuống quýt.
+まごまご | adv,v3 | - | lúng túng | - | - | 初[はじ]めての駅[えき]で出口[でぐち]がわからずまごまごした。 | Ở nhà ga lạ tôi lúng túng không tìm ra lối ra.
+ぶつぶつ | adv | - | lầm bầm | {ぶつぶつ} 言[い]う | lầm bầm | 父[ちち]は文句[もんく]をぶつぶつ言[い]いながら片付[かたづ]けた。 | Bố vừa lầm bầm phàn nàn vừa dọn dẹp.
+うっとり | adv,v3 | - | ngây ngất | - | - | 美[うつく]しい夕日[ゆうひ]にうっとりと見[み]とれた。 | Tôi ngây ngất ngắm hoàng hôn tuyệt đẹp.
+朝刊[ちょうかん] | n | TRIÊU SAN | báo sáng | {朝刊}を読[よ]む | đọc báo sáng | 毎朝[まいあさ]朝刊[ちょうかん]に目[め]を通[とお]す。 | Đọc lướt báo sáng mỗi ngày.
+夕刊[ゆうかん] | n | TỊCH SAN | báo chiều | {夕刊}が届[とど]く | báo chiều được giao | 最近[さいきん]は夕刊[ゆうかん]を廃止[はいし]する新聞社[しんぶんしゃ]が増[ふ]えた。 | Gần đây ngày càng nhiều tòa báo ngừng phát hành báo chiều.
+歪曲[わいきょく] | n | OAI KHÚC | bóp méo, xuyên tạc | 事実[じじつ]を{歪曲}する | bóp méo sự thật | 事実[じじつ]を歪曲[わいきょく]した報道[ほうどう]が問題[もんだい]になった。 | Đưa tin bóp méo sự thật đã trở thành vấn đề.
+煽動[せんどう] | n | PHIẾN ĐỘNG | kích động, xúi giục | {煽動}する | kích động | SNSでデマを煽動[せんどう]する行為[こうい]が増[ふ]えている。 | Hành vi kích động tin giả trên mạng xã hội đang gia tăng.
+輿論[よろん] | n | DƯ LUẬN | dư luận | {輿論}を形成[けいせい]する | hình thành dư luận | メディアが輿論[よろん]の形成[けいせい]に大[おお]きな影響[えいきょう]を与[あた]える。 | Truyền thông ảnh hưởng lớn đến việc hình thành dư luận.
+風聞[ふうぶん] | n | PHONG VĂN | tin đồn | {風聞}によると | theo tin đồn | 風聞[ふうぶん]では社長[しゃちょう]が交代[こうたい]するらしい。 | Theo tin đồn thì giám đốc sắp thay đổi.
+流言[りゅうげん] | n | LƯU NGÔN | lời đồn đại | {流言}が広[ひろ]まる | tin đồn lan rộng | 災害[さいがい]時[じ]に流言[りゅうげん]が広[ひろ]まりやすい。 | Tin đồn dễ lan rộng khi có thiên tai.
+風説[ふうせつ] | n | PHONG THUYẾT | tin đồn, lời đồn | {風説}の流布[るふ] | phát tán tin đồn | 風説[ふうせつ]の流布[るふ]は株価[かぶか]操作[そうさ]の手段[しゅだん]になりうる。 | Phát tán tin đồn có thể là thủ đoạn thao túng giá cổ phiếu.
+仮名[かめい] | n | GIẢ DANH | tên giả | {仮名}を使[つか]う | dùng tên giả | 告発者[こくはつしゃ]は仮名[かめい]で証言[しょうげん]した。 | Người tố giác làm chứng dưới tên giả.
+筆名[ひつめい] | n | BÚT DANH | bút danh | {筆名}で活動[かつどう]する | hoạt động dưới bút danh | 多[おお]くの作家[さっか]が筆名[ひつめい]で活動[かつどう]している。 | Nhiều nhà văn hoạt động dưới bút danh.
+雅号[がごう] | n | NHÃ HIỆU | nhã hiệu, biệt hiệu nghệ sĩ | {雅号}を持[も]つ | có nhã hiệu | 俳人[はいじん]は雅号[がごう]を用[もち]いて句[く]を詠[よ]む。 | Nhà thơ haiku dùng nhã hiệu khi sáng tác.
+書簡[しょかん] | n | THƯ GIẢN | thư tín | {書簡}を送[おく]る | gửi thư | 夏目[なつめ]漱石[そうせき]の書簡[しょかん]が展示[てんじ]されている。 | Thư tín của Natsume Sōseki đang được trưng bày.
+回状[かいじょう] | n | HỒI TRẠNG | thông tư, thư luân lưu | {回状}を回[まわ]す | gửi thông tư | 町内会[ちょうないかい]で回状[かいじょう]を回[まわ]した。 | Phát thông tư trong ban tự quản khu phố.
+公報[こうほう] | n | CÔNG BÁO | công báo | 官[かん]{公報} | công báo chính phủ | 選挙[せんきょ]の結果[けっか]が公報[こうほう]で発表[はっぴょう]された。 | Kết quả bầu cử được công bố trên công báo.
+布達[ふたつ] | n | BỐ ĐẠT | bố đạt, thông báo | {布達}する | bố đạt | 軍[ぐん]から布達[ふたつ]が出[で]された。 | Thông báo được phát ra từ quân đội.

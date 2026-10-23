@@ -1,0 +1,201 @@
+@topic xay-dung
+@ja 建設[けんせつ]
+@vi Xây dựng
+@desc Công trường, nghề trong ngành, vật liệu, dụng cụ, máy móc, bản vẽ và an toàn lao động khi làm việc trên cao.
+建設[けんせつ] | n,v3 | KIẾN THIẾT | xây dựng | {建設[けんせつ]} 会社[がいしゃ] | công ty xây dựng | 兄[あに]は建設[けんせつ]会社[がいしゃ]で働[はたら]いています。 | Anh tôi làm ở công ty xây dựng.
+現場[げんば] | n | HIỆN TRƯỜNG | công trường, hiện trường | 現場[げんば] に 入[はい]る | vào công trường | 朝[あさ]七[しち]時[じ]半[はん]に現場[げんば]に入[はい]ります。 | Bảy rưỡi sáng vào công trường.
+工事[こうじ] | n,v3 | CÔNG SỰ | thi công | 工事[こうじ] を 進[すす]める | tiến hành thi công | 雨[あめ]がやんだので工事[こうじ]を進[すす]めます。 | Mưa tạnh rồi nên tiếp tục thi công.
+作業員[さぎょういん] | n | TÁC NGHIỆP VIÊN | công nhân | - | - | 現場[げんば]には二十[にじゅう]人[にん]の作業員[さぎょういん]がいます。 | Công trường có hai mươi công nhân.
+職人[しょくにん] | n | CHỨC NHÂN | thợ lành nghề | - | - | 腕[うで]のいい職人[しょくにん]になりたいです。 | Tôi muốn trở thành thợ tay nghề giỏi.
+大工[だいく] | n | ĐẠI CÔNG | thợ mộc | - | - | 大工[だいく]さんが家[いえ]の柱[はしら]を立[た]てています。 | Thợ mộc đang dựng cột nhà.
+鉄筋[てっきん] | n | THIẾT CÂN | cốt thép | 鉄筋[てっきん] を 組[く]む | buộc cốt thép | 基礎[きそ]の鉄筋[てっきん]を組[く]みます。 | Buộc cốt thép cho móng.
+型枠[かたわく] | n | HÌNH KHUNG | cốp pha | 型枠[かたわく] を 外[はず]す | tháo cốp pha | コンクリートが固[かた]まったら型枠[かたわく]を外[はず]します。 | Bê tông đông cứng rồi thì tháo cốp pha.
+左官[さかん] | n | TẢ QUAN | thợ trát | - | - | 左官[さかん]が壁[かべ]を塗[ぬ]っています。 | Thợ trát đang trát tường.
+塗装[とそう] | n,v3 | ĐỒ TRANG | sơn | 壁[かべ] を {塗装[とそう]} する | sơn tường | 外壁[がいへき]を塗装[とそう]します。 | Sơn tường ngoài.
+足場[あしば] | n | TÚC TRƯỜNG | giàn giáo | 足場[あしば] を 組[く]む | dựng giàn giáo | ビルの周[まわ]りに足場[あしば]を組[く]みます。 | Dựng giàn giáo quanh tòa nhà.
+組[く]む | v1 | TỔ | lắp, ghép | - | - | パイプを組[く]んで足場[あしば]を作[つく]ります。 | Ghép ống để làm giàn giáo.
+解体[かいたい] | n,v3 | GIẢI THỂ | phá dỡ | 建物[たてもの] を {解体[かいたい]} する | phá dỡ tòa nhà | 古[ふる]い建物[たてもの]を解体[かいたい]します。 | Phá dỡ tòa nhà cũ.
+基礎[きそ] | n | CƠ SỞ | móng; cơ bản | 基礎[きそ] を 作[つく]る | làm móng | まず建物[たてもの]の基礎[きそ]を作[つく]ります。 | Trước tiên làm móng tòa nhà.
+コンクリート | n | - | bê tông | コンクリート を 打[う]つ | đổ bê tông | 明日[あした]は朝[あさ]からコンクリートを打[う]ちます。 | Mai đổ bê tông từ sáng.
+生[なま]コン | n | SINH | bê tông tươi | - | - | 生[なま]コンの車[くるま]が到着[とうちゃく]しました。 | Xe bê tông tươi đã đến.
+セメント | n | - | xi măng | セメント を 練[ね]る | trộn xi măng | 砂[すな]と水[みず]でセメントを練[ね]ります。 | Trộn xi măng với cát và nước.
+練[ね]る | v1 | LUYỆN | trộn, nhào | - | - | モルタルをよく練[ね]ってください。 | Hãy trộn vữa thật kỹ.
+砂利[じゃり] | n | SA LỢI | sỏi | 砂利[じゃり] を 敷[し]く | rải sỏi | 駐車場[ちゅうしゃじょう]に砂利[じゃり]を敷[し]きます。 | Rải sỏi ở bãi đỗ xe.
+固[かた]まる | v1 | CỐ | đông cứng | - | - | コンクリートが固[かた]まるまで三日[みっか]待[ま]ちます。 | Đợi ba ngày cho bê tông đông cứng.
+鉄骨[てっこつ] | n | THIẾT CỐT | khung thép | - | - | クレーンで鉄骨[てっこつ]を吊[つ]り上[あ]げます。 | Cẩu khung thép lên bằng cần trục.
+柱[はしら] | n | TRỤ | cột | 柱[はしら] を 立[た]てる | dựng cột | 四隅[よすみ]に柱[はしら]を立[た]てます。 | Dựng cột ở bốn góc.
+梁[はり] | n | LƯƠNG | dầm | - | - | 柱[はしら]と梁[はり]をボルトで固定[こてい]します。 | Cố định cột và dầm bằng bu lông.
+固定[こてい] | n,v3 | CỐ ĐỊNH | cố định | - | - | 材料[ざいりょう]が動[うご]かないように固定[こてい]してください。 | Hãy cố định vật liệu để không xê dịch.
+図面[ずめん] | n | ĐỒ DIỆN | bản vẽ | 図面[ずめん] を 見[み]る | xem bản vẽ | 図面[ずめん]を見[み]ながら作業[さぎょう]します。 | Vừa xem bản vẽ vừa làm việc.
+設計図[せっけいず] | n | THIẾT KẾ ĐỒ | bản thiết kế | - | - | 設計図[せっけいず]通[どお]りに作[つく]ってください。 | Hãy làm đúng theo bản thiết kế.
+寸法[すんぽう] | n | THỐN PHÁP | kích thước | 寸法[すんぽう] を 測[はか]る | đo kích thước | 切[き]る前[まえ]に寸法[すんぽう]を測[はか]ります。 | Đo kích thước trước khi cắt.
+墨出[すみだ]し | n,v3 | MẶC XUẤT | bật mực, đánh dấu | - | - | 床[ゆか]に墨出[すみだ]しをして位置[いち]を決[き]めます。 | Bật mực trên sàn để xác định vị trí.
+位置[いち] | n | VỊ TRÍ | vị trí | 位置[いち] を 合[あ]わせる | căn chỉnh vị trí | 柱[はしら]の位置[いち]を合[あ]わせてください。 | Hãy căn vị trí cột cho khớp.
+水平[すいへい] | n,adj-na | THỦY BÌNH | ngang bằng | - | - | 水準器[すいじゅんき]で水平[すいへい]か確認[かくにん]します。 | Kiểm tra bằng thước thủy xem có ngang bằng không.
+垂直[すいちょく] | n,adj-na | THÙY TRỰC | thẳng đứng | - | - | 柱[はしら]が垂直[すいちょく]になっているか見[み]てください。 | Xem cột đã thẳng đứng chưa.
+傾[かたむ]く | v1 | KHUYNH | nghiêng | - | - | 壁[かべ]が少[すこ]し傾[かたむ]いています。 | Bức tường hơi nghiêng.
+金槌[かなづち] | n | KIM CHÙY | búa | 金槌[かなづち] で 打[う]つ | đóng bằng búa | 金槌[かなづち]で釘[くぎ]を打[う]ちます。 | Đóng đinh bằng búa.
+釘[くぎ] | n | ĐINH | cái đinh | 釘[くぎ] を 打[う]つ | đóng đinh | 板[いた]に釘[くぎ]を打[う]ってください。 | Hãy đóng đinh vào tấm ván.
+ネジ | n | - | ốc vít | ネジ を 締[し]める | vặn chặt vít | ドライバーでネジを締[し]めます。 | Vặn chặt vít bằng tua vít.
+締[し]める | v2 | ĐẾ | siết chặt | - | - | ボルトをしっかり締[し]めてください。 | Hãy siết chặt bu lông.
+緩[ゆる]める | v2 | HOÃN | nới lỏng | - | - | ナットを少[すこ]し緩[ゆる]めてください。 | Hãy nới đai ốc ra một chút.
+ボルト | n | - | bu lông | - | - | ボルトが緩[ゆる]んでいないか点検[てんけん]します。 | Kiểm tra xem bu lông có bị lỏng không.
+ナット | n | - | đai ốc | - | - | ナットを手[て]で仮止[かりど]めしてください。 | Hãy vặn tạm đai ốc bằng tay.
+スパナ | n | - | cờ lê | - | - | 十三[じゅうさん]ミリのスパナを持[も]ってきてください。 | Hãy mang cờ lê 13 ly lại đây.
+ドライバー | n | - | tua vít | - | - | プラスのドライバーを貸[か]してください。 | Cho tôi mượn tua vít bake.
+のこぎり | n | - | cái cưa | のこぎり で 切[き]る | cưa | 木材[もくざい]をのこぎりで切[き]ります。 | Cưa gỗ bằng cưa tay.
+電動[でんどう]ドリル | n | ĐIỆN ĐỘNG | máy khoan điện | - | - | 電動[でんどう]ドリルで壁[かべ]に穴[あな]を開[あ]けます。 | Khoan lỗ trên tường bằng máy khoan điện.
+穴[あな] | n | HUYỆT | cái lỗ | 穴[あな] を 開[あ]ける | khoan lỗ | ここに十[じゅう]ミリの穴[あな]を開[あ]けてください。 | Hãy khoan một lỗ 10 ly ở đây.
+脚立[きゃたつ] | n | CƯỚC LẬP | thang chữ A | 脚立[きゃたつ] に 乗[の]る | đứng lên thang | 脚立[きゃたつ]に乗[の]る時[とき]は一番[いちばん]上[うえ]に立[た]たないでください。 | Khi đứng lên thang đừng đứng ở bậc trên cùng.
+はしご | n | - | cái thang | はしご を かける | bắc thang | 屋根[やね]にはしごをかけます。 | Bắc thang lên mái nhà.
+工具[こうぐ] | n | CÔNG CỤ | dụng cụ (cơ khí) | 工具[こうぐ] を 片付[かたづ]ける | cất dụng cụ | 使[つか]った工具[こうぐ]は元[もと]の場所[ばしょ]に片付[かたづ]けます。 | Dụng cụ đã dùng thì cất về chỗ cũ.
+一輪車[いちりんしゃ] | n | NHẤT LUÂN XA | xe rùa | 一輪車[いちりんしゃ] で 運[はこ]ぶ | chở bằng xe rùa | 砂[すな]を一輪車[いちりんしゃ]で運[はこ]びます。 | Chở cát bằng xe rùa.
+スコップ | n | - | cái xẻng | - | - | スコップで土[つち]を掘[ほ]ります。 | Đào đất bằng xẻng.
+掘[ほ]る | v1 | QUẬT | đào | 穴[あな] を 掘[ほ]る | đào hố | 基礎[きそ]のために穴[あな]を掘[ほ]ります。 | Đào hố để làm móng.
+埋[う]める | v2 | MAI | lấp, chôn | - | - | 掘[ほ]った穴[あな]を土[つち]で埋[う]めます。 | Lấp hố đã đào bằng đất.
+土[つち] | n | THỔ | đất | - | - | 土[つち]を平[たい]らにならします。 | San đất cho bằng phẳng.
+クレーン | n | - | cần cẩu | - | - | クレーンの下[した]に入[はい]らないでください。 | Đừng đứng dưới cần cẩu.
+吊[つ]る | v1 | ĐIẾU | treo, cẩu | 荷[に] を 吊[つ]る | cẩu hàng | クレーンで荷[に]を吊[つ]ります。 | Cẩu hàng bằng cần trục.
+吊[つ]り荷[に] | n | ĐIẾU HÀ | hàng đang cẩu | - | - | 吊[つ]り荷[に]の下[した]は立入禁止[たちいりきんし]です。 | Cấm đứng dưới hàng đang cẩu.
+玉掛[たまか]け | n | NGỌC QUẢI | móc cáp (cẩu hàng) | - | - | 玉掛[たまか]けの資格[しかく]を取[と]りました。 | Tôi đã lấy chứng chỉ móc cáp.
+合図[あいず] | n,v3 | HỢP ĐỒ | ra hiệu | 合図[あいず] を 送[おく]る | ra hiệu | オペレーターに合図[あいず]を送[おく]ります。 | Ra hiệu cho người vận hành.
+誘導[ゆうどう] | n,v3 | DỤ ĐẠO | điều hướng, dẫn | 車[くるま] を {誘導[ゆうどう]} する | điều hướng xe | トラックを現場[げんば]の中[なか]に誘導[ゆうどう]します。 | Điều hướng xe tải vào công trường.
+重機[じゅうき] | n | TRỌNG CƠ | máy móc hạng nặng | 重機[じゅうき] を 操作[そうさ] する | vận hành máy hạng nặng | 重機[じゅうき]を操作[そうさ]するには免許[めんきょ]が必要[ひつよう]です。 | Vận hành máy hạng nặng cần có bằng.
+操作[そうさ] | n,v3 | THAO TÁC | thao tác, vận hành | - | - | 機械[きかい]の操作[そうさ]を覚[おぼ]えました。 | Tôi đã nhớ cách vận hành máy.
+ショベルカー | n | - | máy xúc | - | - | ショベルカーで土[つち]を掘[ほ]ります。 | Đào đất bằng máy xúc.
+ダンプ | n | - | xe ben | - | - | 土[つち]をダンプに積[つ]みます。 | Chất đất lên xe ben.
+積[つ]む | v1 | TÍCH | chất (hàng) | 荷物[にもつ] を 積[つ]む | chất hàng | 資材[しざい]をトラックに積[つ]みます。 | Chất vật tư lên xe tải.
+降[お]ろす | v1 | GIÁNG | dỡ xuống | 荷物[にもつ] を 降[お]ろす | dỡ hàng | トラックから資材[しざい]を降[お]ろしてください。 | Hãy dỡ vật tư xuống khỏi xe tải.
+資材[しざい] | n | TƯ TÀI | vật tư | 資材[しざい] を 搬入[はんにゅう] する | đưa vật tư vào | 朝[あさ]一番[いちばん]に資材[しざい]を搬入[はんにゅう]します。 | Sáng sớm đưa vật tư vào.
+搬入[はんにゅう] | n,v3 | BAN NHẬP | vận chuyển vào | - | - | 搬入[はんにゅう]口[ぐち]はこちらです。 | Cửa vận chuyển vào ở phía này.
+木材[もくざい] | n | MỘC TÀI | gỗ (vật liệu) | - | - | 木材[もくざい]は雨[あめ]に濡[ぬ]らさないでください。 | Đừng để gỗ bị ướt mưa.
+板[いた] | n | BẢN | tấm ván | - | - | この板[いた]を半分[はんぶん]に切[き]ってください。 | Hãy cắt tấm ván này làm đôi.
+鉄板[てっぱん] | n | THIẾT BẢN | tấm thép | 鉄板[てっぱん] を 敷[し]く | lót tấm thép | 重機[じゅうき]が通[とお]るので鉄板[てっぱん]を敷[し]きます。 | Máy nặng đi qua nên lót tấm thép.
+パイプ | n | - | ống | - | - | 足場[あしば]のパイプを運[はこ]んでください。 | Hãy khuân ống giàn giáo.
+安全帯[あんぜんたい] | n | AN TOÀN ĐỚI | dây đai an toàn | 安全帯[あんぜんたい] を 使[つか]う | dùng dây đai an toàn | 高[たか]い所[ところ]では必[かなら]ず安全帯[あんぜんたい]を使[つか]ってください。 | Ở trên cao nhất định phải dùng dây đai an toàn.
+フック | n | - | móc | フック を かける | móc vào | 安全帯[あんぜんたい]のフックを手[て]すりにかけます。 | Móc dây an toàn vào tay vịn.
+ヘルメット | n | - | mũ bảo hộ | ヘルメット の あご紐[ひも] | quai mũ bảo hộ | ヘルメットのあご紐[ひも]をしっかり締[し]めてください。 | Hãy cài chặt quai mũ bảo hộ.
+安全靴[あんぜんぐつ] | n | AN TOÀN NGOA | giày bảo hộ | - | - | 現場[げんば]では安全靴[あんぜんぐつ]を履[は]きます。 | Ở công trường phải đi giày bảo hộ.
+軍手[ぐんて] | n | QUÂN THỦ | găng tay vải | - | - | 軍手[ぐんて]をして材料[ざいりょう]を運[はこ]びます。 | Đeo găng tay vải rồi khuân vật liệu.
+保護[ほご]メガネ | n | BẢO HỘ | kính bảo hộ | - | - | 削[けず]る作業[さぎょう]では保護[ほご]メガネをかけます。 | Khi mài cắt thì đeo kính bảo hộ.
+耳栓[みみせん] | n | NHĨ XUYÊN | nút tai | - | - | 音[おと]が大[おお]きいので耳栓[みみせん]をしてください。 | Tiếng ồn lớn nên hãy đeo nút tai.
+転落[てんらく] | n,v3 | CHUYỂN LẠC | ngã từ trên cao | - | - | 足場[あしば]からの転落[てんらく]に注意[ちゅうい]してください。 | Cẩn thận ngã từ giàn giáo.
+墜落[ついらく] | n,v3 | TRỤY LẠC | rơi từ trên cao | {墜落[ついらく]} 事故[じこ] | tai nạn rơi ngã | 墜落[ついらく]事故[じこ]を防[ふせ]ぐために安全帯[あんぜんたい]を使[つか]います。 | Dùng dây đai để phòng tai nạn rơi ngã.
+落下物[らっかぶつ] | n | LẠC HẠ VẬT | vật rơi | - | - | 落下物[らっかぶつ]に注意[ちゅうい]してください。 | Hãy chú ý vật rơi.
+頭上[ずじょう] | n | ĐẦU THƯỢNG | trên đầu | {頭上[ずじょう]} 注意[ちゅうい] | chú ý trên đầu | 頭上[ずじょう]注意[ちゅうい]の看板[かんばん]があります。 | Có biển chú ý trên đầu.
+足元[あしもと] | n | TÚC NGUYÊN | dưới chân | 足元[あしもと] に 気[き] を つける | chú ý dưới chân | 足元[あしもと]に気[き]をつけて歩[ある]いてください。 | Hãy chú ý dưới chân khi đi.
+立入禁止[たちいりきんし] | n | LẬP NHẬP CẤM CHỈ | cấm vào | - | - | ここから先[さき]は立入禁止[たちいりきんし]です。 | Từ đây trở đi cấm vào.
+危険予知[きけんよち] | n | NGUY HIỂM DỰ TRI | dự đoán nguy hiểm (KY) | {危険予知[きけんよち]} 活動[かつどう] | hoạt động KY | 朝礼[ちょうれい]の後[あと]で危険予知[きけんよち]活動[かつどう]をします。 | Sau buổi họp sáng có hoạt động dự đoán nguy hiểm.
+ヒヤリハット | n | - | sự cố suýt xảy ra | - | - | ヒヤリハットがあったら報告[ほうこく]してください。 | Có sự cố suýt xảy ra thì hãy báo cáo.
+整理整頓[せいりせいとん] | n,v3 | CHỈNH LÝ CHỈNH ĐỐN | sắp xếp gọn gàng | - | - | 現場[げんば]はいつも整理整頓[せいりせいとん]を心[こころ]がけましょう。 | Công trường luôn phải giữ gọn gàng ngăn nắp.
+体操[たいそう] | n,v3 | THỂ THAO | thể dục | ラジオ {体操[たいそう]} | thể dục buổi sáng theo radio | 朝[あさ]はラジオ体操[たいそう]から始[はじ]まります。 | Buổi sáng bắt đầu bằng bài thể dục radio.
+熱中症[ねっちゅうしょう] | n | NHIỆT TRUNG CHỨNG | say nắng, sốc nhiệt | 熱中症[ねっちゅうしょう] に なる | bị sốc nhiệt | 夏[なつ]は熱中症[ねっちゅうしょう]にならないよう注意[ちゅうい]してください。 | Mùa hè hãy chú ý để không bị sốc nhiệt.
+水分補給[すいぶんほきゅう] | n,v3 | THỦY PHÂN BỔ CẤP | bổ sung nước | - | - | 三十[さんじゅっ]分[ぷん]ごとに水分補給[すいぶんほきゅう]をしましょう。 | Cứ ba mươi phút hãy bổ sung nước.
+雨天[うてん]中止[ちゅうし] | n | VŨ THIÊN TRUNG CHỈ | hủy do trời mưa | - | - | 明日[あした]の作業[さぎょう]は雨天[うてん]中止[ちゅうし]です。 | Công việc ngày mai hủy nếu trời mưa.
+天候[てんこう] | n | THIÊN HẬU | thời tiết (tình hình) | 天候[てんこう] が 悪化[あっか] する | thời tiết xấu đi | 天候[てんこう]が悪化[あっか]したら作業[さぎょう]を止[と]めます。 | Thời tiết xấu đi thì dừng làm.
+強風[きょうふう] | n | CƯỜNG PHONG | gió mạnh | - | - | 強風[きょうふう]の日[ひ]はクレーン作業[さぎょう]をしません。 | Ngày gió mạnh không làm việc với cần cẩu.
+段取[だんど]り | n | ĐOẠN THỦ | sắp xếp công việc | 段取[だんど]り を する | sắp xếp trình tự | 仕事[しごと]の前[まえ]にしっかり段取[だんど]りをします。 | Trước khi làm thì sắp xếp trình tự kỹ.
+工程[こうてい] | n | CÔNG TRÌNH | công đoạn, tiến trình | 工程[こうてい] が 遅[おく]れる | tiến độ bị chậm | 雨[あめ]で工程[こうてい]が二日[ふつか]遅[おく]れています。 | Do mưa nên tiến độ chậm hai ngày.
+工期[こうき] | n | CÔNG KỲ | thời hạn thi công | 工期[こうき] に 間[ま]に合[あ]う | kịp tiến độ | 工期[こうき]に間[ま]に合[あ]うよう残業[ざんぎょう]します。 | Tăng ca để kịp thời hạn thi công.
+完成[かんせい] | n,v3 | HOÀN THÀNH | hoàn thành | - | - | ビルは来年[らいねん]の春[はる]に完成[かんせい]します。 | Tòa nhà sẽ hoàn thành vào mùa xuân năm sau.
+現場監督[げんばかんとく] | n | HIỆN TRƯỜNG GIÁM ĐỐC | giám sát công trường | - | - | 現場監督[げんばかんとく]の指示[しじ]に従[したが]ってください。 | Hãy làm theo chỉ thị của giám sát công trường.
+親方[おやかた] | n | THÂN PHƯƠNG | thợ cả | - | - | 親方[おやかた]に道具[どうぐ]の使[つか]い方[かた]を教[おそ]わりました。 | Tôi được thợ cả dạy cách dùng dụng cụ.
+元請[もとう]け | n | NGUYÊN THỈNH | nhà thầu chính | - | - | 元請[もとう]けの会社[かいしゃ]が安全[あんぜん]パトロールに来[き]ます。 | Công ty thầu chính đến tuần tra an toàn.
+下請[したう]け | n | HẠ THỈNH | nhà thầu phụ | - | - | うちの会社[かいしゃ]は下請[したう]けとして工事[こうじ]をしています。 | Công ty tôi làm thầu phụ.
+指示[しじ] | n,v3 | CHỈ THỊ | chỉ thị | 指示[しじ] を 受[う]ける | nhận chỉ thị | 作業[さぎょう]の前[まえ]に監督[かんとく]から指示[しじ]を受[う]けます。 | Trước khi làm thì nhận chỉ thị từ giám sát.
+報告[ほうこく] | n,v3 | BÁO CÁO | báo cáo | - | - | 作業[さぎょう]が終[お]わったら報告[ほうこく]してください。 | Làm xong hãy báo cáo.
+怪我[けが] | n,v3 | QUÁI NGÃ | bị thương | - | - | 怪我[けが]をしたら、小[ちい]さくても必[かなら]ず報告[ほうこく]します。 | Bị thương dù nhỏ cũng phải báo cáo.
+危[あぶ]ない | adj-i | NGUY | nguy hiểm | - | - | 危[あぶ]ない！下[した]がって！ | Nguy hiểm! Lùi lại!
+声[こえ]かけ | n,v3 | THANH | nhắc nhau, lên tiếng | - | - | 物[もの]を運[はこ]ぶ時[とき]は声[こえ]かけをしましょう。 | Khi khuân đồ hãy lên tiếng nhắc nhau.
+持[も]ち上[あ]げる | v2 | TRÌ THƯỢNG | nhấc lên | - | - | 重[おも]い物[もの]は二人[ふたり]で持[も]ち上[あ]げてください。 | Vật nặng hãy hai người cùng nhấc.
+押[お]さえる | v2 | ÁP | giữ chặt | 板[いた] を 押[お]さえる | giữ chặt tấm ván | 切[き]る間[あいだ]、板[いた]を押[お]さえていてください。 | Trong lúc cắt hãy giữ chặt tấm ván.
+支[ささ]える | v2 | CHI | đỡ, chống | - | - | 柱[はしら]が倒[たお]れないように支[ささ]えてください。 | Hãy đỡ để cột không đổ.
+倒[たお]す | v1 | ĐẢO | làm đổ, đốn | - | - | 木[き]を倒[たお]す時[とき]は周[まわ]りに人[ひと]がいないか確認[かくにん]します。 | Khi đốn cây kiểm tra xung quanh không có người.
+並[なら]べる | v2 | TỊNH | xếp | 資材[しざい] を 並[なら]べる | xếp vật tư | 資材[しざい]を種類[しゅるい]ごとに並[なら]べます。 | Xếp vật tư theo từng loại.
+種類[しゅるい] | n | CHỦNG LOẠI | chủng loại | - | - | 釘[くぎ]にはいろいろな種類[しゅるい]があります。 | Đinh có nhiều chủng loại.
+長[なが]さ | n | TRƯỜNG | chiều dài | 長[なが]さ を そろえる | cắt đều chiều dài | パイプの長[なが]さをそろえて切[き]ります。 | Cắt ống cho đều chiều dài.
+高[たか]さ | n | CAO | chiều cao | - | - | 足場[あしば]の高[たか]さは十[じゅう]メートルあります。 | Giàn giáo cao mười mét.
+幅[はば] | n | PHÚC | chiều rộng | - | - | 通路[つうろ]の幅[はば]は一[いち]メートル以上[いじょう]必要[ひつよう]です。 | Lối đi cần rộng trên một mét.
+厚[あつ]さ | n | HẬU | độ dày | - | - | コンクリートの厚[あつ]さは二十[にじゅっ]センチです。 | Lớp bê tông dày hai mươi phân.
+メートル | ctr | - | mét | - | - | この板[いた]の長[なが]さは二[に]メートルです。 | Tấm ván này dài hai mét.
+ミリ | ctr | - | mi-li-mét | - | - | 誤差[ごさ]は二[に]ミリまでです。 | Sai số tối đa hai ly.
+誤差[ごさ] | n | NGỘ SAI | sai số | - | - | 誤差[ごさ]がないように丁寧[ていねい]に測[はか]ります。 | Đo cẩn thận để không có sai số.
+巻尺[まきじゃく] | n | QUYỂN XÍCH | thước dây | - | - | 巻尺[まきじゃく]で長[なが]さを測[はか]ります。 | Đo chiều dài bằng thước dây.
+水準器[すいじゅんき] | n | THỦY CHUẨN KHÍ | thước thủy | - | - | 水準器[すいじゅんき]を当[あ]てて水平[すいへい]を確認[かくにん]します。 | Đặt thước thủy để kiểm tra độ ngang.
+削[けず]る | v1 | TƯỚC | mài, gọt | - | - | 角[かど]をやすりで削[けず]ります。 | Mài góc bằng giũa.
+溶接[ようせつ] | n,v3 | DUNG TIẾP | hàn | 鉄骨[てっこつ] を {溶接[ようせつ]} する | hàn khung thép | 鉄骨[てっこつ]を溶接[ようせつ]してつなぎます。 | Hàn nối khung thép.
+切断[せつだん] | n,v3 | THIẾT ĐOẠN | cắt đứt | - | - | グラインダーで鉄筋[てっきん]を切断[せつだん]します。 | Cắt cốt thép bằng máy mài.
+火花[ひばな] | n | HỎA HOA | tia lửa | 火花[ひばな] が 飛[と]ぶ | tia lửa bắn ra | 火花[ひばな]が飛[と]ぶので、周[まわ]りに燃[も]えやすい物[もの]を置[お]かないでください。 | Tia lửa bắn ra nên đừng để đồ dễ cháy xung quanh.
+粉[こな]じん | n | PHẤN TRẦN | bụi | - | - | 粉[こな]じんが多[おお]いので防[ぼう]じんマスクをします。 | Bụi nhiều nên đeo khẩu trang chống bụi.
+騒音[そうおん] | n | TAO ÂM | tiếng ồn | - | - | 住宅地[じゅうたくち]なので騒音[そうおん]に気[き]をつけます。 | Gần khu dân cư nên chú ý tiếng ồn.
+近隣[きんりん] | n | CẬN LÂN | khu vực lân cận | - | - | 近隣[きんりん]の方[かた]に迷惑[めいわく]をかけないようにします。 | Cố không gây phiền cho người dân xung quanh.
+通行人[つうこうにん] | n | THÔNG HÀNH NHÂN | người qua đường | - | - | 通行人[つうこうにん]を安全[あんぜん]に誘導[ゆうどう]します。 | Hướng dẫn người qua đường đi an toàn.
+看板[かんばん] | n | KHÁN BẢN | biển hiệu | - | - | 入口[いりぐち]に工事[こうじ]の看板[かんばん]を立[た]てます。 | Dựng biển báo thi công ở lối vào.
+仮設[かせつ] | n | GIẢ THIẾT | tạm thời (công trình) | {仮設[かせつ]} トイレ | nhà vệ sinh tạm | 現場[げんば]には仮設[かせつ]トイレがあります。 | Công trường có nhà vệ sinh tạm.
+詰所[つめしょ] | n | CẬT SỞ | lán trại, phòng nghỉ công trường | - | - | 昼休[ひるやす]みは詰所[つめしょ]で休[やす]みます。 | Giờ nghỉ trưa nghỉ ở lán.
+養生[ようじょう] | n,v3 | DƯỠNG SINH | che chắn bảo vệ | - | - | 床[ゆか]が傷[きず]つかないようにシートで養生[ようじょう]します。 | Phủ bạt bảo vệ để sàn không bị trầy.
+シート | n | - | tấm bạt | シート を かける | phủ bạt | 雨[あめ]の前[まえ]に資材[しざい]にシートをかけます。 | Trước khi mưa phủ bạt lên vật tư.
+片付[かたづ]け | n,v3 | PHIẾN PHÓ | dọn dẹp | - | - | 作業[さぎょう]の最後[さいご]に片付[かたづ]けをします。 | Cuối giờ làm thì dọn dẹp.
+掃[は]く | v1 | TẢO | quét | ほうき で 掃[は]く | quét bằng chổi | 床[ゆか]のごみをほうきで掃[は]きます。 | Quét rác trên sàn bằng chổi.
+廃材[はいざい] | n | PHẾ TÀI | phế liệu xây dựng | - | - | 廃材[はいざい]は種類[しゅるい]ごとに分[わ]けて捨[す]てます。 | Phế liệu được phân loại rồi bỏ.
+壁紙[かべがみ] | n | BÍCH CHỈ | giấy dán tường | 壁紙[かべがみ] を 貼[は]る | dán giấy tường | 新[あたら]しい部屋[へや]に壁紙[かべがみ]を貼[は]ります。 | Dán giấy tường cho căn phòng mới.
+配管[はいかん] | n,v3 | PHỐI QUẢN | đường ống | - | - | 水道[すいどう]の配管[はいかん]工事[こうじ]をします。 | Thi công đường ống nước.
+電気工事[でんきこうじ] | n | ĐIỆN KHÍ CÔNG SỰ | thi công điện | - | - | 電気工事[でんきこうじ]には資格[しかく]が必要[ひつよう]です。 | Thi công điện cần có chứng chỉ.
+内装[ないそう] | n | NỘI TRANG | nội thất (hoàn thiện) | - | - | 来週[らいしゅう]から内装[ないそう]工事[こうじ]が始[はじ]まります。 | Từ tuần sau bắt đầu thi công nội thất.
+外壁[がいへき] | n | NGOẠI BÍCH | tường ngoài | - | - | 外壁[がいへき]にひびがないか確認[かくにん]します。 | Kiểm tra xem tường ngoài có vết nứt không.
+ひび | n | - | vết nứt | ひび が 入[はい]る | bị nứt | 地震[じしん]で壁[かべ]にひびが入[はい]りました。 | Động đất làm tường bị nứt.
+補修[ほしゅう] | n,v3 | BỔ TU | sửa chữa, tu bổ | - | - | 壊[こわ]れた部分[ぶぶん]を補修[ほしゅう]します。 | Tu bổ phần bị hỏng.
+防水[ぼうすい] | n | PHÒNG THỦY | chống thấm | {防水[ぼうすい]} 工事[こうじ] | thi công chống thấm | 屋上[おくじょう]の防水[ぼうすい]工事[こうじ]をしています。 | Đang thi công chống thấm sân thượng.
+屋上[おくじょう] | n | ỐC THƯỢNG | sân thượng | - | - | 屋上[おくじょう]に資材[しざい]を上[あ]げます。 | Đưa vật tư lên sân thượng.
+階段[かいだん] | n | GIAI ĐOẠN | cầu thang | - | - | 仮設[かせつ]の階段[かいだん]を使[つか]って上[あ]がってください。 | Hãy đi lên bằng cầu thang tạm.
+手[て]すり | n | THỦ | tay vịn | 手[て]すり を 持[も]つ | bám tay vịn | 階段[かいだん]では手[て]すりを持[も]ってください。 | Khi đi cầu thang hãy bám tay vịn.
+開口部[かいこうぶ] | n | KHAI KHẨU BỘ | lỗ mở (sàn, tường) | - | - | 開口部[かいこうぶ]には蓋[ふた]をしてください。 | Hãy đậy nắp các lỗ mở.
+道路工事[どうろこうじ] | n | ĐẠO LỘ CÔNG SỰ | thi công đường | - | - | 夜[よる]に道路工事[どうろこうじ]をすることもあります。 | Đôi khi thi công đường vào ban đêm.
+舗装[ほそう] | n,v3 | PHÔ TRANG | lát, rải mặt đường | - | - | 道路[どうろ]をアスファルトで舗装[ほそう]します。 | Rải nhựa mặt đường.
+測量[そくりょう] | n,v3 | TRẮC LƯỢNG | đo đạc | - | - | 工事[こうじ]の前[まえ]に土地[とち]を測量[そくりょう]します。 | Đo đạc đất trước khi thi công.
+土地[とち] | n | THỔ ĐỊA | đất đai | - | - | この土地[とち]に家[いえ]を建[た]てます。 | Xây nhà trên mảnh đất này.
+仕上[しあ]がり | n | SĨ THƯỢNG | độ hoàn thiện | 仕上[しあ]がり が きれい | hoàn thiện đẹp | 親方[おやかた]の仕事[しごと]は仕上[しあ]がりがきれいです。 | Công việc của thợ cả hoàn thiện rất đẹp.
+やり直[なお]す | v1 | TRỰC | làm lại | - | - | 寸法[すんぽう]が違[ちが]ったので、やり直[なお]しました。 | Kích thước sai nên tôi đã làm lại.
+とび職[しょく] | n | CHỨC | thợ giàn giáo, thợ làm trên cao | - | - | とび職[しょく]は高[たか]い所[ところ]で足場[あしば]を組[く]む仕事[しごと]です。 | Thợ giàn giáo là người dựng giàn ở trên cao.
+結束[けっそく] | n,v3 | KẾT THÚC | buộc, cột | 鉄筋[てっきん] を {結束[けっそく]} する | buộc cốt thép | 鉄筋[てっきん]を針金[はりがね]で結束[けっそく]します。 | Buộc cốt thép bằng dây kẽm.
+針金[はりがね] | n | CHÂM KIM | dây thép, dây kẽm | - | - | 針金[はりがね]を短[みじか]く切[き]ってください。 | Hãy cắt ngắn dây kẽm.
+バール | n | - | xà beng | - | - | バールで古[ふる]い板[いた]をはがします。 | Dùng xà beng cạy tấm ván cũ.
+はがす | v1 | - | bóc, gỡ ra | - | - | 古[ふる]い壁紙[かべがみ]をはがしてください。 | Hãy bóc giấy dán tường cũ ra.
+金属[きんぞく] | n | KIM THUỘC | kim loại | - | - | 金属[きんぞく]の破片[はへん]が落[お]ちていないか確認[かくにん]します。 | Kiểm tra xem có mảnh kim loại rơi không.
+鉄[てつ] | n | THIẾT | sắt | 鉄[てつ] が さびる | sắt bị gỉ | 雨[あめ]に濡[ぬ]れると鉄[てつ]がさびます。 | Bị ướt mưa sắt sẽ gỉ.
+さびる | v2 | - | bị gỉ | - | - | 工具[こうぐ]がさびないように油[あぶら]を塗[ぬ]ります。 | Bôi dầu để dụng cụ không bị gỉ.
+合板[ごうはん] | n | HỢP BẢN | gỗ dán | - | - | 床[ゆか]の下地[したじ]に合板[ごうはん]を使[つか]います。 | Dùng gỗ dán làm lớp nền sàn.
+石膏[せっこう]ボード | n | THẠCH CAO | tấm thạch cao | - | - | 天井[てんじょう]に石膏[せっこう]ボードを貼[は]ります。 | Ốp tấm thạch cao lên trần.
+断熱材[だんねつざい] | n | ĐOẠN NHIỆT TÀI | vật liệu cách nhiệt | 断熱材[だんねつざい] を 入[い]れる | lắp vật liệu cách nhiệt | 壁[かべ]の中[なか]に断熱材[だんねつざい]を入[い]れます。 | Lắp vật liệu cách nhiệt vào trong tường.
+ガラス | n | - | kính | ガラス が 割[わ]れる | kính vỡ | ガラスが割[わ]れないように丁寧[ていねい]に運[はこ]びます。 | Khuân cẩn thận để kính không vỡ.
+タイル | n | - | gạch ốp lát | タイル を 張[は]る | ốp gạch | 風呂場[ふろば]にタイルを張[は]ります。 | Ốp gạch phòng tắm.
+レンガ | n | - | gạch | レンガ を 積[つ]む | xếp gạch | 庭[にわ]にレンガを積[つ]んで花壇[かだん]を作[つく]ります。 | Xếp gạch làm bồn hoa trong vườn.
+ブロック | n | - | gạch block | - | - | ブロック塀[べい]を作[つく]ります。 | Xây tường rào bằng gạch block.
+ホース | n | - | vòi nước | ホース で 水[みず] を まく | tưới nước bằng vòi | 埃[ほこり]が立[た]たないようにホースで水[みず]をまきます。 | Tưới nước bằng vòi để bụi không bay.
+掘削[くっさく] | n,v3 | QUẬT TƯỚC | đào đất | - | - | 重機[じゅうき]で掘削[くっさく]を始[はじ]めます。 | Bắt đầu đào đất bằng máy.
+埋[う]め戻[もど]し | n,v3 | MAI LỆ | lấp đất lại | - | - | 配管[はいかん]が終[お]わったら埋[う]め戻[もど]しをします。 | Xong đường ống thì lấp đất lại.
+転圧[てんあつ] | n,v3 | CHUYỂN ÁP | lu lèn đất | - | - | 機械[きかい]で土[つち]をしっかり転圧[てんあつ]します。 | Lu lèn đất chắc bằng máy.
+運搬[うんぱん] | n,v3 | VẬN BAN | vận chuyển | - | - | 資材[しざい]の運搬[うんぱん]を手伝[てつだ]ってください。 | Hãy giúp vận chuyển vật tư.
+搬出[はんしゅつ] | n,v3 | BAN XUẤT | chuyển ra | - | - | 廃材[はいざい]をトラックで搬出[はんしゅつ]します。 | Chở phế liệu ra bằng xe tải.
+了解[りょうかい] | n,v3 | LIỄU GIẢI | đã hiểu, rõ | - | - | 「次[つぎ]はこっちをお願[ねが]い。」「了解[りょうかい]です。」 | "Tiếp theo làm chỗ này nhé." "Rõ ạ."
+ストップ | n,interj | - | dừng | - | - | 「ストップ！」と言[い]われたら、すぐ止[と]めてください。 | Khi nghe "Dừng!" thì dừng ngay.
+巻[ま]き上[あ]げ | n | QUYỂN THƯỢNG | kéo lên (cẩu) | - | - | 合図[あいず]で巻[ま]き上[あ]げを始[はじ]めます。 | Bắt đầu kéo lên theo hiệu lệnh.
+吊[つ]り上[あ]げる | v2 | ĐIẾU THƯỢNG | cẩu lên | - | - | 鉄骨[てっこつ]をゆっくり吊[つ]り上[あ]げてください。 | Hãy cẩu khung thép lên từ từ.
+間隔[かんかく] | n | GIAN CÁCH | khoảng cách | 間隔[かんかく] を あける | để khoảng cách | 鉄筋[てっきん]は二十[にじゅっ]センチの間隔[かんかく]をあけて並[なら]べます。 | Xếp cốt thép cách nhau hai mươi phân.
+角度[かくど] | n | GIÁC ĐỘ | góc | - | - | 板[いた]を四十五[よんじゅうご]度[ど]の角度[かくど]で切[き]ります。 | Cắt tấm ván theo góc 45 độ.
+直角[ちょっかく] | n | TRỰC GIÁC | góc vuông | - | - | 角[かど]が直角[ちょっかく]になっているか確認[かくにん]します。 | Kiểm tra góc có vuông không.
+平[たい]ら | adj-na | BÌNH | bằng phẳng | 平[たい]ら に する | làm phẳng | 地面[じめん]を平[たい]らにしてください。 | Hãy làm phẳng mặt đất.
+地面[じめん] | n | ĐỊA DIỆN | mặt đất | - | - | 地面[じめん]が濡[ぬ]れていて滑[すべ]りやすいです。 | Mặt đất ướt nên dễ trượt.
+隙間[すきま] | n | KHÍCH GIAN | khe hở | 隙間[すきま] を 埋[う]める | trám khe hở | 窓[まど]の隙間[すきま]を埋[う]めます。 | Trám khe hở cửa sổ.
+接着剤[せっちゃくざい] | n | TIẾP TRƯỚC TỄ | keo dán | - | - | 接着剤[せっちゃくざい]が乾[かわ]くまで触[さわ]らないでください。 | Đừng chạm vào cho đến khi keo khô.
+乾[かわ]く | v1 | CAN | khô | ペンキ が 乾[かわ]く | sơn khô | ペンキが乾[かわ]くまで一日[いちにち]かかります。 | Sơn khô mất một ngày.
+ペンキ | n | - | sơn | ペンキ を 塗[ぬ]る | quét sơn | 壁[かべ]に白[しろ]いペンキを塗[ぬ]ります。 | Quét sơn trắng lên tường.
+はけ | n | - | chổi quét sơn | - | - | はけでペンキを塗[ぬ]ります。 | Quét sơn bằng chổi.
+窓枠[まどわく] | n | SONG KHUNG | khung cửa sổ | 窓枠[まどわく] を 取[と]り付[つ]ける | lắp khung cửa sổ | 新[あたら]しい窓枠[まどわく]を取[と]り付[つ]けます。 | Lắp khung cửa sổ mới.
+取[と]り付[つ]ける | v2 | THỦ PHÓ | lắp đặt | - | - | エアコンを壁[かべ]に取[と]り付[つ]けます。 | Lắp điều hòa lên tường.
+取[と]り外[はず]す | v1 | THỦ NGOẠI | tháo gỡ | - | - | 古[ふる]いドアを取[と]り外[はず]してください。 | Hãy tháo cánh cửa cũ ra.
+道具箱[どうぐばこ] | n | ĐẠO CỤ TƯƠNG | hộp dụng cụ | - | - | 使[つか]った道具[どうぐ]を道具箱[どうぐばこ]に戻[もど]します。 | Trả dụng cụ đã dùng vào hộp.
+点呼[てんこ] | n,v3 | ĐIỂM HÔ | điểm danh | - | - | 作業[さぎょう]前[まえ]に点呼[てんこ]をとります。 | Điểm danh trước khi làm.
+新規[しんき]入場者[にゅうじょうしゃ] | n | TÂN QUY NHẬP TRƯỜNG GIẢ | người mới vào công trường | {新規[しんき]入場者[にゅうじょうしゃ]} 教育[きょういく] | huấn luyện người mới vào công trường | 初日[しょにち]は新規[しんき]入場者[にゅうじょうしゃ]教育[きょういく]を受[う]けます。 | Ngày đầu tiên được huấn luyện cho người mới vào công trường.
+作業手順書[さぎょうてじゅんしょ] | n | TÁC NGHIỆP THỦ THUẬN THƯ | bản quy trình làm việc | - | - | 作業手順書[さぎょうてじゅんしょ]をよく読[よ]んでください。 | Hãy đọc kỹ bản quy trình làm việc.
+安全確認[あんぜんかくにん] | n | AN TOÀN XÁC NHẬN | kiểm tra an toàn | 安全確認[あんぜんかくにん] を 行[おこな]う | tiến hành kiểm tra an toàn | 作業[さぎょう]前[まえ]に安全確認[あんぜんかくにん]を行[おこな]います。 | Tiến hành kiểm tra an toàn trước khi làm việc.

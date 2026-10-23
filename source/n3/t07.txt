@@ -1,0 +1,129 @@
+@topic t07
+@ja 買[か]い物[もの]・消費[しょうひ]
+@vi Mua sắm và tiêu dùng
+@desc Giá cả, cách thanh toán, đặt hàng và giao hàng, khuyến mãi, chất liệu và hoa văn, thói quen chi tiêu.
+消費[しょうひ] | n,v3 | TIÊU PHÍ | tiêu dùng, tiêu thụ | - | - | 夏[なつ]は電気[でんき]の消費[しょうひ]が増[ふ]えます。 | Mùa hè lượng điện tiêu thụ tăng.
+消費者[しょうひしゃ] | n | TIÊU PHÍ GIẢ | người tiêu dùng | - | - | 消費者[しょうひしゃ]の声[こえ]を大切[たいせつ]にしています。 | Chúng tôi trân trọng tiếng nói của người tiêu dùng.
+購入[こうにゅう] | n,v3 | CẤU NHẬP | mua (trang trọng) | - | - | チケットはネットで購入[こうにゅう]できます。 | Vé có thể mua trên mạng.
+品揃[しなぞろ]え | n | PHẨM TIỄN | sự đa dạng hàng hóa | 品揃[しなぞろ]え が いい | nhiều mặt hàng | この店[みせ]は品揃[しなぞろ]えがいいです。 | Cửa hàng này nhiều mặt hàng.
+売[う]れる | v2 | MẠI | bán chạy | - | - | この本[ほん]はよく売[う]れています。 | Cuốn sách này bán rất chạy.
+売[う]れ行[ゆ]き | n | MẠI HÀNH | tình hình tiêu thụ | 売[う]れ行[ゆ]き が いい | bán chạy | 新商品[しんしょうひん]の売[う]れ行[ゆ]きがいいです。 | Sản phẩm mới bán chạy.
+売[う]り出[だ]す | v1 | MẠI XUẤT | tung ra bán | - | - | 来月[らいげつ]新[あたら]しいゲームを売[う]り出[だ]します。 | Tháng sau sẽ tung ra trò chơi mới.
+特売[とくばい] | n,v3 | ĐẶC MẠI | bán giảm giá đặc biệt | 特売[とくばい] 日[び] | ngày giảm giá | 火曜日[かようび]はスーパーの特売[とくばい]日[び]です。 | Thứ Ba là ngày giảm giá của siêu thị.
+安売[やすう]り | n,v3 | AN MẠI | bán rẻ | - | - | 駅前[えきまえ]の店[みせ]で安売[やすう]りをしています。 | Cửa hàng trước ga đang bán rẻ.
+お買[か]い得[どく] | n,adj-na | MÃI ĐẮC | món hời | - | - | 今日[きょう]はこの肉[にく]がお買[か]い得[どく]です。 | Hôm nay thịt này là món hời.
+格安[かくやす] | adj-na | CÁCH AN | giá rẻ | - | - | 格安[かくやす]航空[こうくう]で旅行[りょこう]しました。 | Tôi du lịch bằng hãng bay giá rẻ.
+手頃[てごろ] | adj-na | THỦ KHOẢNH | vừa phải, phải chăng | 手頃[てごろ] な 値段[ねだん] | giá phải chăng | 手頃[てごろ]な値段[ねだん]のレストランを探[さが]しています。 | Tôi đang tìm nhà hàng giá phải chăng.
+高価[こうか] | adj-na | CAO GIÁ | đắt tiền | - | - | 高価[こうか]なプレゼントはいりません。 | Tôi không cần quà đắt tiền.
+定価[ていか] | n | ĐỊNH GIÁ | giá niêm yết | - | - | 定価[ていか]の三割[さんわり]引[び]きで買[か]いました。 | Tôi mua giảm 30% so với giá niêm yết.
+価格[かかく] | n | GIÁ CÁCH | giá cả | 価格[かかく] が 上[あ]がる | giá tăng | 野菜[やさい]の価格[かかく]が上[あ]がっています。 | Giá rau đang tăng.
+出費[しゅっぴ] | n | XUẤT PHÍ | khoản chi | 出費[しゅっぴ] が かさむ | chi tiêu chồng chất | 今月[こんげつ]は出費[しゅっぴ]がかさみました。 | Tháng này chi tiêu chồng chất.
+支出[ししゅつ] | n,v3 | CHI XUẤT | chi tiêu | - | - | 毎月[まいつき]の支出[ししゅつ]を記録[きろく]しています。 | Tôi ghi lại chi tiêu hằng tháng.
+買[か]いだめ | n,v3 | MÃI | mua tích trữ | - | - | 台風[たいふう]の前[まえ]に水[みず]を買[か]いだめしました。 | Trước bão tôi mua tích trữ nước.
+衝動買[しょうどうが]い | n,v3 | XUNG ĐỘNG MÃI | mua bốc đồng | - | - | セールでつい衝動買[しょうどうが]いしてしまいました。 | Lúc giảm giá tôi lỡ mua bốc đồng.
+まとめ買[が]い | n,v3 | MÃI | mua gộp số lượng lớn | - | - | 週末[しゅうまつ]に一週間分[いっしゅうかんぶん]をまとめ買[が]いします。 | Cuối tuần tôi mua gộp cho cả tuần.
+入荷[にゅうか] | n,v3 | NHẬP HÀ | nhập hàng | - | - | 新[あたら]しい商品[しょうひん]が入荷[にゅうか]しました。 | Hàng mới đã về.
+取[と]り寄[よ]せる | v2 | THỦ KÝ | đặt mua về | - | - | 在庫[ざいこ]がないので取[と]り寄[よ]せます。 | Hết hàng nên chúng tôi sẽ đặt về.
+取[と]り置[お]き | n,v3 | THỦ TRÍ | giữ hàng cho khách | - | - | この服[ふく]を明日[あした]まで取[と]り置[お]きしてもらえますか。 | Có thể giữ bộ đồ này đến mai cho tôi không?
+届[とど]け先[さき] | n | GIỚI TIÊN | nơi nhận hàng | - | - | 届[とど]け先[さき]の住所[じゅうしょ]を記入[きにゅう]してください。 | Hãy ghi địa chỉ nơi nhận.
+宛先[あてさき] | n | UYỂN TIÊN | địa chỉ người nhận | - | - | 宛先[あてさき]を間違[まちが]えてメールを送[おく]りました。 | Tôi gửi nhầm địa chỉ email.
+着払[ちゃくばら]い | n | TRƯỚC PHẤT | người nhận trả tiền | - | - | 送料[そうりょう]は着払[ちゃくばら]いでお願[ねが]いします。 | Phí gửi xin để người nhận trả.
+分割払[ぶんかつばら]い | n | PHÂN CÁT PHẤT | trả góp | - | - | パソコンを分割払[ぶんかつばら]いで買[か]いました。 | Tôi mua máy tính trả góp.
+一括[いっかつ] | n,v3 | NHẤT QUÁT | gộp một lần | {一括[いっかつ]} 払[ばら]い | trả một lần | 一括[いっかつ]払[ばら]いでお願[ねが]いします。 | Cho tôi trả một lần.
+電子[でんし]マネー | n | ĐIỆN TỬ | tiền điện tử | - | - | コンビニでは電子[でんし]マネーで払[はら]います。 | Ở cửa hàng tiện lợi tôi trả bằng tiền điện tử.
+キャッシュレス | n | - | không dùng tiền mặt | - | - | キャッシュレス決済[けっさい]が増[ふ]えています。 | Thanh toán không tiền mặt đang tăng.
+決済[けっさい] | n,v3 | QUYẾT TẾ | thanh toán | - | - | スマホで決済[けっさい]できます。 | Có thể thanh toán bằng điện thoại.
+残高[ざんだか] | n | TÀN CAO | số dư | 残高[ざんだか] が 足[た]りない | không đủ số dư | カードの残高[ざんだか]が足[た]りません。 | Số dư thẻ không đủ.
+チャージ | n,v3 | - | nạp tiền | - | - | 交通[こうつう]カードに千円[せんえん]チャージしました。 | Tôi nạp một nghìn yên vào thẻ giao thông.
+会員[かいいん] | n | HỘI VIÊN | hội viên | 会員[かいいん] 登録[とうろく] | đăng ký hội viên | 会員[かいいん]登録[とうろく]すると割引[わりびき]があります。 | Đăng ký hội viên thì được giảm giá.
+登録[とうろく] | n,v3 | ĐĂNG LỤC | đăng ký | - | - | メールアドレスを登録[とうろく]してください。 | Hãy đăng ký địa chỉ email.
+クーポン | n | - | phiếu giảm giá | - | - | このクーポンを使[つか]うと一割[いちわり]引[び]きです。 | Dùng phiếu này được giảm 10%.
+商品券[しょうひんけん] | n | THƯƠNG PHẨM KHOÁN | phiếu mua hàng | - | - | お祝[いわ]いに商品券[しょうひんけん]をもらいました。 | Tôi được tặng phiếu mua hàng làm quà mừng.
+おまけ | n,v3 | - | đồ tặng kèm | - | - | お菓子[かし]におまけのおもちゃが付[つ]いています。 | Bánh kẹo có kèm đồ chơi tặng.
+付録[ふろく] | n | PHÓ LỤC | phụ lục, quà kèm | - | - | この雑誌[ざっし]には付録[ふろく]が付[つ]いています。 | Tạp chí này có quà kèm.
+紙袋[かみぶくろ] | n | CHỈ ĐẠI | túi giấy | - | - | 紙袋[かみぶくろ]に入[い]れてください。 | Cho vào túi giấy giúp tôi.
+ラッピング | n,v3 | - | gói quà | - | - | プレゼント用[よう]にラッピングしてもらえますか。 | Có thể gói quà giúp tôi không?
+見本[みほん] | n | KIẾN BẢN | hàng mẫu | - | - | 見本[みほん]を見[み]てから注文[ちゅうもん]します。 | Xem hàng mẫu rồi mới đặt.
+サンプル | n | - | mẫu thử | - | - | 化粧品[けしょうひん]のサンプルをもらいました。 | Tôi được tặng mẫu thử mỹ phẩm.
+化粧品[けしょうひん] | n | HÓA TRANG PHẨM | mỹ phẩm | - | - | 化粧品[けしょうひん]売[う]り場[ば]は一階[いっかい]です。 | Quầy mỹ phẩm ở tầng một.
+不良品[ふりょうひん] | n | BẤT LƯƠNG PHẨM | hàng lỗi | - | - | 不良品[ふりょうひん]は交換[こうかん]いたします。 | Hàng lỗi chúng tôi sẽ đổi.
+返金[へんきん] | n,v3 | PHẢN KIM | hoàn tiền | - | - | 商品[しょうひん]を返品[へんぴん]して返金[へんきん]してもらいました。 | Tôi trả hàng và được hoàn tiền.
+問[と]い合[あ]わせ | n | VẤN HỢP | sự hỏi thông tin | お {問[と]い合[あ]わせ} 先[さき] | nơi liên hệ | 詳[くわ]しくは下記[かき]のお問[と]い合[あ]わせ先[さき]までどうぞ。 | Chi tiết xin liên hệ địa chỉ dưới đây.
+問[と]い合[あ]わせる | v2 | VẤN HỢP | hỏi, liên hệ | - | - | 在庫[ざいこ]があるか店[みせ]に問[と]い合[あ]わせました。 | Tôi hỏi cửa hàng xem còn hàng không.
+店頭[てんとう] | n | ĐIẾM ĐẦU | trước cửa hàng | - | - | 新商品[しんしょうひん]が店頭[てんとう]に並[なら]んでいます。 | Sản phẩm mới được bày trước cửa hàng.
+店舗[てんぽ] | n | ĐIẾM PHÔ | cửa hàng, chi nhánh | - | - | この会社[かいしゃ]は全国[ぜんこく]に百[ひゃく]店舗[てんぽ]あります。 | Công ty này có một trăm cửa hàng trên toàn quốc.
+専門店[せんもんてん] | n | CHUYÊN MÔN ĐIẾM | cửa hàng chuyên doanh | - | - | 靴[くつ]の専門店[せんもんてん]で買[か]いました。 | Tôi mua ở cửa hàng chuyên giày.
+売店[ばいてん] | n | MẠI ĐIẾM | quầy bán hàng | - | - | 駅[えき]の売店[ばいてん]で新聞[しんぶん]を買[か]いました。 | Tôi mua báo ở quầy trong ga.
+年中無休[ねんじゅうむきゅう] | n | NIÊN TRUNG VÔ HƯU | mở cửa quanh năm | - | - | このスーパーは年中無休[ねんじゅうむきゅう]です。 | Siêu thị này mở cửa quanh năm.
+込[こ]み合[あ]う | v1 | NHẬP HỢP | đông nghịt | - | - | 週末[しゅうまつ]の店内[てんない]は込[こ]み合[あ]っています。 | Trong cửa hàng cuối tuần đông nghịt.
+店内[てんない] | n | ĐIẾM NỘI | trong cửa hàng | - | - | 店内[てんない]での撮影[さつえい]はご遠慮[えんりょ]ください。 | Xin vui lòng không chụp ảnh trong cửa hàng.
+ブランド | n | - | thương hiệu | - | - | 彼女[かのじょ]はブランドの服[ふく]が好[す]きです。 | Cô ấy thích quần áo hàng hiệu.
+定番[ていばん] | n | ĐỊNH PHIÊN | món kinh điển | - | - | これはこの店[みせ]の定番[ていばん]商品[しょうひん]です。 | Đây là sản phẩm kinh điển của tiệm.
+新作[しんさく] | n | TÂN TÁC | tác phẩm/mẫu mới | - | - | 春[はる]の新作[しんさく]が出[で]ました。 | Mẫu mới mùa xuân đã ra.
+売[う]れ筋[すじ] | n | MẠI CÂN | hàng bán chạy | - | - | 今[いま]の売[う]れ筋[すじ]はどれですか。 | Hiện giờ mặt hàng bán chạy là cái nào?
+柄[がら] | n | BÍNH | hoa văn | 花[はな] {柄[がら]} | họa tiết hoa | 花柄[はながら]のワンピースを買[か]いました。 | Tôi mua chiếc váy họa tiết hoa.
+無地[むじ] | n | VÔ ĐỊA | trơn (không hoa văn) | - | - | 無地[むじ]のシャツが一番[いちばん]使[つか]いやすいです。 | Áo sơ mi trơn là dễ mặc nhất.
+縞[しま] | n | CẢO | sọc | - | - | 青[あお]い縞[しま]のネクタイです。 | Đó là chiếc cà vạt sọc xanh.
+水玉[みずたま] | n | THỦY NGỌC | chấm bi | - | - | 水玉[みずたま]の傘[かさ]を持[も]っています。 | Tôi có chiếc ô chấm bi.
+素材[そざい] | n | TỐ TÀI | chất liệu | - | - | このシャツの素材[そざい]は何[なん]ですか。 | Chất liệu của áo này là gì?
+綿[めん] | n | MIÊN | vải bông, cotton | - | - | 綿[めん]百[ひゃく]パーセントのタオルです。 | Khăn 100% cotton.
+絹[きぬ] | n | QUYÊN | lụa | - | - | 絹[きぬ]のスカーフをもらいました。 | Tôi được tặng chiếc khăn lụa.
+革[かわ] | n | CÁCH | da thuộc | - | - | 革[かわ]の財布[さいふ]は長持[ながも]ちします。 | Ví da dùng được lâu.
+長持[ながも]ち | n,v3 | TRƯỜNG TRÌ | bền, dùng lâu | - | - | この電池[でんち]は長持[ながも]ちします。 | Pin này dùng được lâu.
+使[つか]い捨[す]て | n | SỬ XẢ | dùng một lần | - | - | 使[つか]い捨[す]てのカイロを買[か]いました。 | Tôi mua miếng dán giữ nhiệt dùng một lần.
+使[つか]い心地[ごこち] | n | SỬ TÂM ĐỊA | cảm giác khi dùng | - | - | このペンは使[つか]い心地[ごこち]がいいです。 | Cây bút này dùng rất thích.
+値打[ねう]ち | n | TRỊ ĐẢ | giá trị | 値打[ねう]ち が ある | đáng giá | この絵[え]は見[み]る値打[ねう]ちがあります。 | Bức tranh này đáng để xem.
+価値[かち] | n | GIÁ TRỊ | giá trị | 価値[かち] が ある | có giá trị | 一度[いちど]行[い]ってみる価値[かち]があります。 | Đáng để đến thử một lần.
+もったいない | adj-i | - | phí phạm, tiếc | - | - | まだ使[つか]えるのに捨[す]てるのはもったいないです。 | Vẫn dùng được mà vứt thì phí.
+贅沢[ぜいたく] | n,adj-na,v3 | CHUẾ TRẠCH | xa xỉ | - | - | たまには贅沢[ぜいたく]をしてもいいでしょう。 | Thỉnh thoảng xa xỉ một chút cũng được.
+浪費[ろうひ] | n,v3 | LÃNG PHÍ | lãng phí | - | - | お金[かね]を浪費[ろうひ]しないようにしています。 | Tôi cố không lãng phí tiền.
+倹約[けんやく] | n,v3 | KIỆM ƯỚC | tiết kiệm, cần kiệm | - | - | 祖母[そぼ]は倹約[けんやく]家[か]です。 | Bà tôi là người cần kiệm.
+小遣[こづか]い | n | TIỂU KHIỂN | tiền tiêu vặt | お {小遣[こづか]い} を もらう | được tiền tiêu vặt | 毎月[まいつき]親[おや]からお小遣[こづか]いをもらっています。 | Hằng tháng tôi được bố mẹ cho tiền tiêu vặt.
+へそくり | n | - | tiền giấu riêng | - | - | 母[はは]は少[すこ]しずつへそくりを貯[た]めています。 | Mẹ tôi dành dụm tiền riêng từng chút.
+貯[た]める | v2 | TRỮ | dành dụm | お金[かね] を 貯[た]める | để dành tiền | 旅行[りょこう]のためにお金[かね]を貯[た]めています。 | Tôi đang để dành tiền đi du lịch.
+貯[た]まる | v1 | TRỮ | được tích lũy | - | - | ポイントがたくさん貯[た]まりました。 | Tích được rất nhiều điểm.
+財産[ざいさん] | n | TÀI SẢN | tài sản | - | - | 健康[けんこう]は一番[いちばん]の財産[ざいさん]です。 | Sức khỏe là tài sản quý nhất.
+値段[ねだん]が張[は]る | exp | TRỊ ĐOẠN TRƯƠNG | giá khá đắt | - | - | この店[みせ]は少[すこ]し値段[ねだん]が張[は]ります。 | Quán này giá hơi đắt.
+値切[ねぎ]る | v1 | TRỊ THIẾT | mặc cả | - | - | 市場[いちば]で値切[ねぎ]って買[か]いました。 | Tôi mặc cả rồi mua ở chợ.
+市場[いちば] | n | THỊ TRƯỜNG | chợ | - | - | 朝[あさ]の市場[いちば]は活気[かっき]があります。 | Chợ buổi sáng rất nhộn nhịp.
+活気[かっき] | n | HOẠT KHÍ | sức sống, nhộn nhịp | 活気[かっき] が ある | sôi động | 商店街[しょうてんがい]に活気[かっき]が戻[もど]りました。 | Phố mua sắm đã sôi động trở lại.
+並[なら]び | n | TỊNH | dãy, hàng | - | - | 駅[えき]の並[なら]びにコンビニがあります。 | Cùng dãy với nhà ga có cửa hàng tiện lợi.
+ショッピングモール | n | - | trung tâm mua sắm | - | - | 週末[しゅうまつ]はショッピングモールで買[か]い物[もの]します。 | Cuối tuần tôi mua sắm ở trung tâm thương mại.
+百円[ひゃくえん]ショップ | n | BÁCH VIÊN | cửa hàng đồng giá 100 yên | - | - | 百円[ひゃくえん]ショップは何[なん]でもあって便利[べんり]です。 | Cửa hàng 100 yên có đủ thứ, rất tiện.
+量販店[りょうはんてん] | n | LƯỢNG PHÁN ĐIẾM | cửa hàng bán số lượng lớn | 家電[かでん] {量販店[りょうはんてん]} | siêu thị điện máy | 家電[かでん]量販店[りょうはんてん]でテレビを買[か]いました。 | Tôi mua tivi ở siêu thị điện máy.
+ネットショッピング | n | - | mua sắm trực tuyến | - | - | 最近[さいきん]はネットショッピングばかりです。 | Dạo này tôi toàn mua sắm trực tuyến.
+口[くち]コミ | n | KHẨU | đánh giá truyền miệng | - | - | 口[くち]コミを読[よ]んでから買[か]います。 | Tôi đọc đánh giá rồi mới mua.
+評判[ひょうばん] | n | BÌNH PHÁN | tiếng tăm, đánh giá | 評判[ひょうばん] が いい | được khen | この店[みせ]のケーキは評判[ひょうばん]がいいです。 | Bánh ở tiệm này được khen ngợi.
+お勧[すす]め品[ひん] | n | KHUYẾN PHẨM | hàng gợi ý | - | - | 本日[ほんじつ]のお勧[すす]め品[ひん]はこちらです。 | Hàng gợi ý hôm nay là đây.
+在庫切[ざいこぎ]れ | n | TẠI KHỐ THIẾT | hết hàng tồn | - | - | 人気[にんき]で在庫切[ざいこぎ]れになりました。 | Vì được ưa chuộng nên đã hết hàng.
+再入荷[さいにゅうか] | n,v3 | TÁI NHẬP HÀ | hàng về lại | - | - | 来週[らいしゅう]再入荷[さいにゅうか]の予定[よてい]です。 | Dự kiến tuần sau hàng về lại.
+品薄[しなうす] | n,adj-na | PHẨM BẠC | khan hàng | - | - | マスクが品薄[しなうす]になっています。 | Khẩu trang đang khan hàng.
+買[か]い占[し]め | n | MÃI CHIẾM | mua vét | - | - | 災害[さいがい]の時[とき]、買[か]い占[し]めが起[お]きました。 | Khi có thảm họa đã xảy ra tình trạng mua vét.
+レンタル | n,v3 | - | cho thuê | - | - | 着物[きもの]をレンタルして京都[きょうと]を歩[ある]きました。 | Tôi thuê kimono dạo Kyoto.
+保証書[ほしょうしょ] | n | BẢO CHỨNG THƯ | phiếu bảo hành | - | - | 保証書[ほしょうしょ]はなくさないでください。 | Đừng làm mất phiếu bảo hành.
+説明書[せつめいしょ] | n | THUYẾT MINH THƯ | sách hướng dẫn | 説明書[せつめいしょ] を 読[よ]む | đọc hướng dẫn | 使[つか]う前[まえ]に説明書[せつめいしょ]を読[よ]んでください。 | Hãy đọc hướng dẫn trước khi dùng.
+組[く]み立[た]てる | v2 | TỔ LẬP | lắp ráp | - | - | 買[か]った棚[たな]を自分[じぶん]で組[く]み立[た]てました。 | Tôi tự lắp chiếc kệ đã mua.
+梱包[こんぽう] | n,v3 | KHỔN BAO | đóng gói | - | - | 商品[しょうひん]は丁寧[ていねい]に梱包[こんぽう]されていました。 | Hàng được đóng gói cẩn thận.
+発送[はっそう] | n,v3 | PHÁT TỐNG | gửi hàng | - | - | ご注文[ちゅうもん]の商品[しょうひん]は明日[あした]発送[はっそう]します。 | Hàng quý khách đặt sẽ được gửi ngày mai.
+受[う]け取[と]る | v1 | THỤ THỦ | nhận | 荷物[にもつ] を 受[う]け取[と]る | nhận hàng | コンビニで荷物[にもつ]を受[う]け取[と]りました。 | Tôi nhận hàng ở cửa hàng tiện lợi.
+受取人[うけとりにん] | n | THỤ THỦ NHÂN | người nhận | - | - | 受取人[うけとりにん]の名前[なまえ]を書[か]いてください。 | Hãy ghi tên người nhận.
+再配達[さいはいたつ] | n,v3 | TÁI PHỐI ĐẠT | giao lại | - | - | 留守[るす]だったので再配達[さいはいたつ]を頼[たの]みました。 | Vắng nhà nên tôi nhờ giao lại.
+送[おく]り状[じょう] | n | TỐNG TRẠNG | phiếu gửi hàng | - | - | 送[おく]り状[じょう]に住所[じゅうしょ]を書[か]きます。 | Ghi địa chỉ lên phiếu gửi hàng.
+支払[しはら]う | v1 | CHI PHẤT | chi trả | - | - | 料金[りょうきん]はカードで支払[しはら]いました。 | Tôi trả tiền bằng thẻ.
+料金[りょうきん] | n | LIỆU KIM | phí, cước | - | - | 電話[でんわ]の料金[りょうきん]が高[たか]いです。 | Cước điện thoại đắt.
+税金[ぜいきん] | n | THUẾ KIM | tiền thuế | 税金[ぜいきん] を 払[はら]う | nộp thuế | 毎年[まいとし]税金[ぜいきん]を払[はら]います。 | Năm nào cũng nộp thuế.
+税抜[ぜいぬ]き | n | THUẾ BẠT | chưa gồm thuế | - | - | この値段[ねだん]は税抜[ぜいぬ]きです。 | Giá này chưa gồm thuế.
+合計[ごうけい] | n,v3 | HỢP KẾ | tổng cộng | - | - | 合計[ごうけい]で三千円[さんぜんえん]です。 | Tổng cộng ba nghìn yên.
+細[こま]かい | adj-i | TẾ | lẻ (tiền); chi tiết | 細[こま]かい お金[かね] | tiền lẻ | 細[こま]かいお金[かね]がありません。 | Tôi không có tiền lẻ.
+くずす | v1 | - | đổi tiền lẻ | - | - | 一万円札[いちまんえんさつ]をくずしてもらえますか。 | Có thể đổi giúp tờ mười nghìn yên ra tiền lẻ không?
+買[か]い手[て] | n | MÃI THỦ | người mua | - | - | 古[ふる]い車[くるま]の買[か]い手[て]が見[み]つかりました。 | Đã tìm được người mua chiếc xe cũ.
+売[う]り手[て] | n | MẠI THỦ | người bán | - | - | 売[う]り手[て]と値段[ねだん]を交渉[こうしょう]しました。 | Tôi thương lượng giá với người bán.
+交渉[こうしょう] | n,v3 | GIAO THIỆP | thương lượng | 値段[ねだん] を {交渉[こうしょう]}する | mặc cả giá | 値段[ねだん]を交渉[こうしょう]して安[やす]くしてもらいました。 | Tôi thương lượng và được giảm giá.
+見積[みつ]もり | n | KIẾN TÍCH | báo giá | 見積[みつ]もり を 出[だ]す | đưa báo giá | 引[ひ]っ越[こ]しの見積[みつ]もりを出[だ]してもらいました。 | Tôi được báo giá chuyển nhà.
+払[はら]い込[こ]む | v1 | PHẤT NHẬP | nộp tiền vào | - | - | 授業料[じゅぎょうりょう]を銀行[ぎんこう]に払[はら]い込[こ]みました。 | Tôi nộp học phí vào ngân hàng.
+請求[せいきゅう] | n,v3 | THỈNH CẦU | yêu cầu thanh toán | {請求[せいきゅう]} 書[しょ] | hóa đơn đòi tiền | 電気代[でんきだい]の請求[せいきゅう]書[しょ]が届[とど]きました。 | Hóa đơn tiền điện đã đến.
+明細[めいさい] | n | MINH TẾ | bảng chi tiết | - | - | カードの利用[りよう]明細[めいさい]を確認[かくにん]します。 | Tôi kiểm tra bảng chi tiết sử dụng thẻ.
+高[たか]くつく | exp | CAO | tốn kém hơn | - | - | 安[やす]い物[もの]はすぐ壊[こわ]れて、結局[けっきょく]高[たか]くつきます。 | Đồ rẻ hỏng nhanh, rốt cuộc lại tốn hơn.
+結局[けっきょく] | adv,n | KẾT CỤC | rốt cuộc | - | - | 結局[けっきょく]何[なに]も買[か]いませんでした。 | Rốt cuộc tôi chẳng mua gì.
+品定[しなさだ]め | n,v3 | PHẨM ĐỊNH | xem xét chọn hàng | - | - | 店[みせ]で時間[じかん]をかけて品定[しなさだ]めしました。 | Tôi dành thời gian xem xét chọn hàng ở tiệm.
+手作[てづく]り品[ひん] | n | THỦ TÁC PHẨM | đồ thủ công | - | - | 手作[てづく]り品[ひん]の市[いち]に行[い]きました。 | Tôi đi chợ đồ thủ công.

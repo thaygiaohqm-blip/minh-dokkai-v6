@@ -1,0 +1,188 @@
+@topic nong-nghiep
+@ja 農業[のうぎょう]
+@vi Nông nghiệp
+@desc Làm đất, gieo trồng, chăm sóc cây, nhà kính, phân bón, thu hoạch, phân loại nông sản, máy nông nghiệp và chăn nuôi.
+農業[のうぎょう] | n | NÔNG NGHIỆP | nông nghiệp | - | - | 私[わたし]は北海道[ほっかいどう]で農業[のうぎょう]の実習[じっしゅう]をしています。 | Tôi đang thực tập nông nghiệp ở Hokkaido.
+農家[のうか] | n | NÔNG GIA | nhà nông, hộ nông dân | - | - | この農家[のうか]ではトマトを作[つく]っています。 | Hộ nông dân này trồng cà chua.
+農場[のうじょう] | n | NÔNG TRƯỜNG | nông trại | - | - | 農場[のうじょう]には大[おお]きな牛舎[ぎゅうしゃ]があります。 | Nông trại có chuồng bò lớn.
+畑[はたけ] | n | (quốc tự) | ruộng rau màu | 畑[はたけ] を 耕[たがや]す | cày ruộng | トラクターで畑[はたけ]を耕[たがや]します。 | Cày ruộng bằng máy kéo.
+田[た]んぼ | n | ĐIỀN | ruộng lúa | - | - | 春[はる]になると田[た]んぼに水[みず]を入[い]れます。 | Sang xuân thì cho nước vào ruộng lúa.
+耕[たがや]す | v1 | CANH | cày xới | - | - | 種[たね]をまく前[まえ]に土[つち]を耕[たがや]します。 | Trước khi gieo hạt thì cày xới đất.
+稲[いね] | n | ĐẠO | cây lúa | - | - | 秋[あき]になると稲[いね]が黄金色[こがねいろ]になります。 | Mùa thu lúa chuyển màu vàng óng.
+田植[たう]え | n,v3 | ĐIỀN THỰC | cấy lúa | - | - | 五月[ごがつ]に田植[たう]えをします。 | Tháng Năm cấy lúa.
+稲刈[いねか]り | n,v3 | ĐẠO NGẢI | gặt lúa | - | - | 九月[くがつ]の終[お]わりに稲刈[いねか]りをします。 | Cuối tháng Chín gặt lúa.
+収穫[しゅうかく] | n,v3 | THU HOẠCH | thu hoạch | 野菜[やさい] を {収穫[しゅうかく]} する | thu hoạch rau | 朝[あさ]早[はや]くレタスを収穫[しゅうかく]します。 | Thu hoạch xà lách từ sáng sớm.
+種[たね] | n | CHỦNG | hạt giống | 種[たね] を まく | gieo hạt | 畑[はたけ]にほうれん草[そう]の種[たね]をまきます。 | Gieo hạt rau chân vịt trên ruộng.
+種[たね]まき | n,v3 | CHỦNG | gieo hạt | - | - | 三月[さんがつ]は種[たね]まきの季節[きせつ]です。 | Tháng Ba là mùa gieo hạt.
+苗[なえ] | n | MIÊU | cây con | 苗[なえ] を 植[う]える | trồng cây con | トマトの苗[なえ]を畑[はたけ]に植[う]えます。 | Trồng cây cà chua con ra ruộng.
+育苗[いくびょう] | n,v3 | DỤC MIÊU | ươm cây giống | - | - | ハウスの中[なか]で育苗[いくびょう]をしています。 | Đang ươm cây giống trong nhà kính.
+植[う]え付[つ]け | n,v3 | THỰC PHÓ | trồng (cây con) | - | - | 苗[なえ]の植[う]え付[つ]けは間隔[かんかく]をあけてください。 | Khi trồng cây con hãy để khoảng cách.
+ビニールハウス | n | - | nhà kính nilon | - | - | 冬[ふゆ]もビニールハウスでいちごを育[そだ]てます。 | Mùa đông cũng trồng dâu trong nhà kính nilon.
+温室[おんしつ] | n | ÔN THẤT | nhà kính | - | - | 温室[おんしつ]の中[なか]はとても暑[あつ]いです。 | Bên trong nhà kính rất nóng.
+土作[つちづく]り | n | THỔ TÁC | cải tạo đất | - | - | いい野菜[やさい]を作[つく]るには土作[つちづく]りが大切[たいせつ]です。 | Muốn có rau ngon thì cải tạo đất là quan trọng.
+肥料[ひりょう] | n | PHÌ LIỆU | phân bón | 肥料[ひりょう] を やる | bón phân | 二[に]週間[しゅうかん]に一度[いちど]肥料[ひりょう]をやります。 | Hai tuần bón phân một lần.
+堆肥[たいひ] | n | ĐÔI PHÌ | phân ủ hữu cơ | 堆肥[たいひ] を まく | rải phân hữu cơ | 畑[はたけ]に堆肥[たいひ]をまいて耕[たがや]します。 | Rải phân hữu cơ lên ruộng rồi cày.
+有機[ゆうき] | n | HỮU CƠ | hữu cơ | {有機[ゆうき]} 野菜[やさい] | rau hữu cơ | この農家[のうか]は有機[ゆうき]野菜[やさい]を作[つく]っています。 | Hộ này trồng rau hữu cơ.
+農薬[のうやく] | n | NÔNG DƯỢC | thuốc bảo vệ thực vật | 農薬[のうやく] を まく | phun thuốc | 農薬[のうやく]をまく時[とき]はマスクと手袋[てぶくろ]をします。 | Khi phun thuốc thì đeo khẩu trang và găng tay.
+散布[さんぷ] | n,v3 | TÁN BỐ | phun rải | - | - | 風[かぜ]が強[つよ]い日[ひ]は農薬[のうやく]の散布[さんぷ]をしません。 | Ngày gió to không phun thuốc.
+雑草[ざっそう] | n | TẠP THẢO | cỏ dại | 雑草[ざっそう] を 抜[ぬ]く | nhổ cỏ dại | 畑[はたけ]の雑草[ざっそう]を手[て]で抜[ぬ]きます。 | Nhổ cỏ dại trên ruộng bằng tay.
+草取[くさと]り | n,v3 | THẢO THỦ | nhổ cỏ | - | - | 夏[なつ]は毎日[まいにち]草取[くさと]りをします。 | Mùa hè ngày nào cũng nhổ cỏ.
+除草[じょそう] | n,v3 | TRỪ THẢO | diệt cỏ | - | - | 機械[きかい]で除草[じょそう]します。 | Diệt cỏ bằng máy.
+水[みず]やり | n,v3 | THỦY | tưới nước | - | - | 朝[あさ]と夕方[ゆうがた]に水[みず]やりをします。 | Tưới nước vào buổi sáng và chiều tối.
+水[みず]はけ | n | THỦY | khả năng thoát nước | 水[みず]はけ が いい | thoát nước tốt | この畑[はたけ]は水[みず]はけがいいです。 | Ruộng này thoát nước tốt.
+日当[ひあ]たり | n | NHẬT ĐƯƠNG | ánh nắng chiếu | 日当[ひあ]たり が いい | nhiều nắng | 日当[ひあ]たりがいい場所[ばしょ]に植[う]えます。 | Trồng ở nơi nhiều nắng.
+害虫[がいちゅう] | n | HẠI TRÙNG | sâu bệnh hại | 害虫[がいちゅう] が 発生[はっせい] する | sâu hại xuất hiện | 葉[は]の裏[うら]に害虫[がいちゅう]が発生[はっせい]しています。 | Sâu hại xuất hiện dưới mặt lá.
+発生[はっせい] | n,v3 | PHÁT SINH | phát sinh | - | - | 梅雨[つゆ]の時期[じき]は病気[びょうき]が発生[はっせい]しやすいです。 | Mùa mưa dễ phát sinh bệnh.
+防除[ぼうじょ] | n,v3 | PHÒNG TRỪ | phòng trừ (sâu bệnh) | - | - | 病気[びょうき]の防除[ぼうじょ]のために消毒[しょうどく]します。 | Phun khử trùng để phòng trừ bệnh.
+支柱[しちゅう] | n | CHI TRỤ | cọc đỡ | 支柱[しちゅう] を 立[た]てる | cắm cọc đỡ | トマトの横[よこ]に支柱[しちゅう]を立[た]てます。 | Cắm cọc đỡ bên cạnh cây cà chua.
+誘引[ゆういん] | n,v3 | DỤ DẪN | buộc cây vào giàn | - | - | 茎[くき]を支柱[しちゅう]に誘引[ゆういん]します。 | Buộc thân cây vào cọc đỡ.
+茎[くき] | n | HÀNH | thân cây | 茎[くき] が 折[お]れる | gãy thân | 茎[くき]が折[お]れないように優[やさ]しく扱[あつか]ってください。 | Hãy xử lý nhẹ nhàng để thân cây không gãy.
+扱[あつか]う | v1 | TRÁP | xử lý, đối xử | 丁寧[ていねい] に 扱[あつか]う | xử lý cẩn thận | 果物[くだもの]は傷[きず]つきやすいので丁寧[ていねい]に扱[あつか]います。 | Hoa quả dễ dập nên xử lý cẩn thận.
+摘果[てきか] | n,v3 | TRÍCH QUẢ | tỉa quả | - | - | 大[おお]きい実[み]を残[のこ]して摘果[てきか]します。 | Tỉa bớt quả, để lại quả lớn.
+芽[め] | n | NHA | mầm, chồi | 芽[め] が 出[で]る | nảy mầm | 種[たね]をまいて一[いっ]週間[しゅうかん]で芽[め]が出[で]ました。 | Gieo hạt một tuần thì nảy mầm.
+脇芽[わきめ] | n | HIẾP NHA | chồi nách | 脇芽[わきめ] を 摘[つ]む | ngắt chồi nách | トマトの脇芽[わきめ]を摘[つ]みます。 | Ngắt chồi nách cây cà chua.
+摘[つ]む | v1 | TRÍCH | ngắt, hái | 茶[ちゃ] を 摘[つ]む | hái chè | 五月[ごがつ]に新茶[しんちゃ]を摘[つ]みます。 | Tháng Năm hái chè mới.
+剪定[せんてい] | n,v3 | TIỄN ĐỊNH | tỉa cành | - | - | 冬[ふゆ]の間[あいだ]に果樹[かじゅ]を剪定[せんてい]します。 | Tỉa cành cây ăn quả trong mùa đông.
+受粉[じゅふん] | n,v3 | THỤ PHẤN | thụ phấn | - | - | ハウスの中[なか]では蜂[はち]が受粉[じゅふん]を手伝[てつだ]います。 | Trong nhà kính, ong giúp thụ phấn.
+開花[かいか] | n,v3 | KHAI HOA | nở hoa | - | - | 今年[ことし]は開花[かいか]が早[はや]いです。 | Năm nay hoa nở sớm.
+熟[じゅく]す | v1 | THỤC | chín | - | - | よく熟[じゅく]したトマトから収穫[しゅうかく]します。 | Thu hoạch từ những quả cà chua chín kỹ.
+色[いろ]づく | v1 | SẮC | chín màu, lên màu | - | - | りんごが赤[あか]く色[いろ]づいてきました。 | Táo đã bắt đầu lên màu đỏ.
+収穫量[しゅうかくりょう] | n | THU HOẠCH LƯỢNG | sản lượng thu hoạch | 収穫量[しゅうかくりょう] が 減[へ]る | sản lượng giảm | 天気[てんき]が悪[わる]くて収穫量[しゅうかくりょう]が減[へ]りました。 | Thời tiết xấu nên sản lượng giảm.
+選別[せんべつ] | n,v3 | TUYỂN BIỆT | phân loại | 大[おお]きさ で {選別[せんべつ]} する | phân loại theo kích cỡ | じゃがいもを大[おお]きさで選別[せんべつ]します。 | Phân loại khoai tây theo kích cỡ.
+等級[とうきゅう] | n | ĐẲNG CẤP | hạng, loại | - | - | 色[いろ]と形[かたち]で等級[とうきゅう]を分[わ]けます。 | Chia hạng theo màu sắc và hình dáng.
+規格外[きかくがい] | n | QUY CÁCH NGOẠI | ngoài tiêu chuẩn | - | - | 規格外[きかくがい]の野菜[やさい]は加工用[かこうよう]にします。 | Rau ngoài tiêu chuẩn được dùng để chế biến.
+糖度[とうど] | n | ĐƯỜNG ĐỘ | độ ngọt | 糖度[とうど] が 高[たか]い | độ ngọt cao | このいちごは糖度[とうど]が高[たか]いです。 | Dâu này độ ngọt cao.
+傷[きず]もの | n | THƯƠNG | hàng bị dập, xước | - | - | 傷[きず]ものは別[べつ]の箱[はこ]に入[い]れてください。 | Hàng bị dập hãy để riêng vào thùng khác.
+トラクター | n | - | máy kéo | トラクター を 運転[うんてん] する | lái máy kéo | 畑[はたけ]でトラクターを運転[うんてん]します。 | Lái máy kéo trên ruộng.
+耕運機[こううんき] | n | CANH VẬN CƠ | máy xới đất | - | - | 小[ちい]さな畑[はたけ]は耕運機[こううんき]で耕[たがや]します。 | Ruộng nhỏ thì xới bằng máy xới.
+コンバイン | n | - | máy gặt đập liên hợp | - | - | コンバインで稲[いね]を刈[か]ります。 | Gặt lúa bằng máy gặt đập.
+田植[たう]え機[き] | n | ĐIỀN THỰC CƠ | máy cấy | - | - | 田植[たう]え機[き]で苗[なえ]を植[う]えます。 | Cấy mạ bằng máy cấy.
+草刈[くさか]り機[き] | n | THẢO NGẢI CƠ | máy cắt cỏ | - | - | 草刈[くさか]り機[き]を使[つか]う時[とき]は石[いし]が飛[と]ぶので注意[ちゅうい]してください。 | Khi dùng máy cắt cỏ đá có thể bắn ra nên hãy chú ý.
+刈[か]る | v1 | NGẢI | cắt (cỏ, lúa) | 草[くさ] を 刈[か]る | cắt cỏ | 田[た]んぼの周[まわ]りの草[くさ]を刈[か]ります。 | Cắt cỏ quanh ruộng lúa.
+軽[けい]トラ | n | KHINH | xe tải nhẹ | - | - | 収穫[しゅうかく]した野菜[やさい]を軽[けい]トラに積[つ]みます。 | Chất rau đã thu hoạch lên xe tải nhẹ.
+鎌[かま] | n | LIÊM | cái liềm | - | - | 鎌[かま]で草[くさ]を刈[か]ります。 | Cắt cỏ bằng liềm.
+鍬[くわ] | n | (quốc tự) | cái cuốc | - | - | 鍬[くわ]で畝[うね]を作[つく]ります。 | Lên luống bằng cuốc.
+畝[うね] | n | MẪU | luống | 畝[うね] を 立[た]てる | lên luống | まっすぐな畝[うね]を立[た]ててください。 | Hãy lên luống thật thẳng.
+かご | n | - | cái giỏ | - | - | 収穫[しゅうかく]したみかんをかごに入[い]れます。 | Cho quýt thu hoạch vào giỏ.
+コンテナ | n | - | thùng nhựa | - | - | 野菜[やさい]をコンテナに詰[つ]めて運[はこ]びます。 | Cho rau vào thùng nhựa rồi chở đi.
+はさみ | n | - | kéo | - | - | ぶどうははさみで一房[ひとふさ]ずつ切[き]ります。 | Cắt từng chùm nho bằng kéo.
+換気[かんき] | n,v3 | HOÁN KHÍ | thông gió | - | - | ハウスの温度[おんど]が上[あ]がったら換気[かんき]します。 | Nhiệt độ nhà kính tăng thì thông gió.
+遮光[しゃこう] | n,v3 | GIÀ QUANG | che nắng | {遮光[しゃこう]} ネット | lưới che nắng | 夏[なつ]は遮光[しゃこう]ネットをかけます。 | Mùa hè phủ lưới che nắng.
+霜[しも] | n | SƯƠNG | sương giá | 霜[しも] が 降[お]りる | có sương giá | 霜[しも]が降[お]りると野菜[やさい]が傷[いた]みます。 | Sương giá xuống thì rau bị hỏng.
+干[ひ]ばつ | n | CAN | hạn hán | - | - | 干[ひ]ばつで作物[さくもつ]が育[そだ]ちません。 | Hạn hán nên cây trồng không lớn.
+作物[さくもつ] | n | TÁC VẬT | cây trồng, nông sản | - | - | 台風[たいふう]で作物[さくもつ]が倒[たお]れました。 | Bão làm đổ cây trồng.
+農作業[のうさぎょう] | n | NÔNG TÁC NGHIỆP | công việc đồng áng | - | - | 農作業[のうさぎょう]は朝[あさ]早[はや]くから始[はじ]まります。 | Việc đồng áng bắt đầu từ sáng sớm.
+きゅうり | n | - | dưa chuột | - | - | きゅうりは毎日[まいにち]収穫[しゅうかく]しないと大[おお]きくなりすぎます。 | Dưa chuột không hái mỗi ngày thì quá to.
+なす | n | - | cà tím | - | - | なすの花[はな]が咲[さ]きました。 | Hoa cà tím đã nở.
+ピーマン | n | - | ớt chuông | - | - | ピーマンを箱[はこ]に詰[つ]めます。 | Xếp ớt chuông vào thùng.
+レタス | n | - | xà lách | - | - | レタスは朝[あさ]のうちに収穫[しゅうかく]します。 | Xà lách thu hoạch vào buổi sáng.
+白菜[はくさい] | n | BẠCH THÁI | cải thảo | - | - | 冬[ふゆ]は白菜[はくさい]がよく売[う]れます。 | Mùa đông cải thảo bán chạy.
+ほうれん草[そう] | n | THẢO | rau chân vịt | - | - | ほうれん草[そう]を十[じゅう]株[かぶ]ずつ束[たば]ねます。 | Bó rau chân vịt mỗi bó mười cây.
+束[たば]ねる | v2 | THÚC | bó lại | - | - | ねぎをテープで束[たば]ねます。 | Bó hành bằng băng dính.
+さつまいも | n | - | khoai lang | - | - | 秋[あき]にさつまいもを掘[ほ]ります。 | Mùa thu đào khoai lang.
+かぼちゃ | n | - | bí đỏ | - | - | かぼちゃは重[おも]いので気[き]をつけて運[はこ]んでください。 | Bí đỏ nặng nên hãy cẩn thận khi khuân.
+とうもろこし | n | - | ngô | - | - | とうもろこしは朝[あさ]採[と]りが甘[あま]いです。 | Ngô hái buổi sáng thì ngọt.
+採[と]る | v1 | THẢI | hái, thu | - | - | 熟[じゅく]したいちごだけを採[と]ってください。 | Chỉ hái những quả dâu đã chín.
+果樹[かじゅ] | n | QUẢ THỤ | cây ăn quả | {果樹[かじゅ]} 園[えん] | vườn cây ăn quả | 果樹[かじゅ]園[えん]でりんごを育[そだ]てています。 | Trồng táo trong vườn cây ăn quả.
+梨[なし] | n | LÊ | quả lê | - | - | 梨[なし]に袋[ふくろ]をかけます。 | Bọc túi cho quả lê.
+柿[かき] | n | THỊ | quả hồng | - | - | 柿[かき]の実[み]が赤[あか]くなりました。 | Quả hồng đã chín đỏ.
+茶畑[ちゃばたけ] | n | TRÀ | đồi chè | - | - | 静岡[しずおか]には広[ひろ]い茶畑[ちゃばたけ]があります。 | Shizuoka có những đồi chè rộng.
+畜産[ちくさん] | n | SÚC SẢN | chăn nuôi | - | - | 畜産[ちくさん]の実習[じっしゅう]で牛[うし]の世話[せわ]をしています。 | Thực tập chăn nuôi, tôi chăm sóc bò.
+酪農[らくのう] | n | LẠC NÔNG | chăn nuôi bò sữa | - | - | 北海道[ほっかいどう]は酪農[らくのう]が盛[さか]んです。 | Hokkaido phát triển chăn nuôi bò sữa.
+牛舎[ぎゅうしゃ] | n | NGƯU XÁ | chuồng bò | 牛舎[ぎゅうしゃ] を 掃除[そうじ] する | dọn chuồng bò | 毎朝[まいあさ]牛舎[ぎゅうしゃ]を掃除[そうじ]します。 | Sáng nào cũng dọn chuồng bò.
+豚舎[とんしゃ] | n | ĐỒN XÁ | chuồng lợn | - | - | 豚舎[とんしゃ]に入[はい]る前[まえ]に長靴[ながぐつ]を消毒[しょうどく]します。 | Trước khi vào chuồng lợn thì khử trùng ủng.
+鶏舎[けいしゃ] | n | KÊ XÁ | chuồng gà | - | - | 鶏舎[けいしゃ]で卵[たまご]を集[あつ]めます。 | Nhặt trứng trong chuồng gà.
+搾乳[さくにゅう] | n,v3 | TRÁ NHŨ | vắt sữa | - | - | 朝[あさ]五[ご]時[じ]と夕方[ゆうがた]五[ご]時[じ]に搾乳[さくにゅう]します。 | Vắt sữa lúc năm giờ sáng và năm giờ chiều.
+餌[えさ] | n | NHĨ | thức ăn (vật nuôi) | 餌[えさ] を やる | cho ăn | 牛[うし]に餌[えさ]をやります。 | Cho bò ăn.
+飼料[しりょう] | n | TỰ LIỆU | thức ăn chăn nuôi | - | - | 飼料[しりょう]の量[りょう]を計[はか]ってください。 | Hãy cân lượng thức ăn chăn nuôi.
+糞[ふん] | n | PHẨN | phân (động vật) | - | - | 糞[ふん]を集[あつ]めて堆肥[たいひ]にします。 | Gom phân lại để ủ phân bón.
+子牛[こうし] | n | TỬ NGƯU | bê con | - | - | 昨日[きのう]、子牛[こうし]が生[う]まれました。 | Hôm qua một chú bê con ra đời.
+出産[しゅっさん] | n,v3 | XUẤT SẢN | sinh nở | - | - | 牛[うし]の出産[しゅっさん]を手伝[てつだ]いました。 | Tôi đã giúp bò đẻ.
+獣医[じゅうい] | n | THÚ Y | bác sĩ thú y | - | - | 牛[うし]の具合[ぐあい]が悪[わる]いので獣医[じゅうい]を呼[よ]びます。 | Bò không khỏe nên gọi bác sĩ thú y.
+鳥[とり]インフルエンザ | n | ĐIỂU | cúm gia cầm | - | - | 鳥[とり]インフルエンザを防[ふせ]ぐため、消毒[しょうどく]を徹底[てってい]します。 | Khử trùng triệt để để phòng cúm gia cầm.
+日焼[ひや]け | n,v3 | NHẬT THIÊU | cháy nắng | - | - | 日焼[ひや]けしないように長袖[ながそで]を着[き]ます。 | Mặc áo dài tay để không bị cháy nắng.
+中腰[ちゅうごし] | n | TRUNG YÊU | tư thế khom lưng | - | - | 中腰[ちゅうごし]の作業[さぎょう]が続[つづ]くと腰[こし]が痛[いた]くなります。 | Khom lưng làm việc lâu thì đau lưng.
+しゃがむ | v1 | - | ngồi xổm | - | - | しゃがんでいちごを摘[つ]みます。 | Ngồi xổm hái dâu.
+長袖[ながそで] | n | TRƯỜNG TỤ | áo dài tay | - | - | 虫[むし]に刺[さ]されないように長袖[ながそで]を着[き]ます。 | Mặc áo dài tay để không bị côn trùng cắn.
+麦[むぎ]わら帽子[ぼうし] | n | MẠCH MẠO TỬ | mũ rơm | - | - | 暑[あつ]い日[ひ]は麦[むぎ]わら帽子[ぼうし]をかぶります。 | Ngày nóng đội mũ rơm.
+実習[じっしゅう] | n,v3 | THỰC TẬP | thực tập | - | - | 三[さん]年[ねん]間[かん]、日本[にほん]で農業[のうぎょう]を実習[じっしゅう]します。 | Tôi thực tập nông nghiệp ở Nhật ba năm.
+受[う]け入[い]れ先[さき] | n | THỤ NHẬP TIÊN | nơi tiếp nhận | - | - | 受[う]け入[い]れ先[さき]の農家[のうか]はとても親切[しんせつ]です。 | Hộ nông dân tiếp nhận tôi rất tử tế.
+いちご | n | - | dâu tây | いちご を 摘[つ]む | hái dâu | 朝[あさ]からハウスでいちごを摘[つ]みます。 | Từ sáng tôi hái dâu trong nhà kính.
+トマト | n | - | cà chua | - | - | トマトは赤[あか]くなってから収穫[しゅうかく]します。 | Cà chua đỏ rồi mới thu hoạch.
+キャベツ | n | - | bắp cải | - | - | キャベツを一[ひと]つずつ包丁[ほうちょう]で切[き]って収穫[しゅうかく]します。 | Thu hoạch bắp cải bằng cách dùng dao cắt từng cái.
+玉[たま]ねぎ | n | NGỌC | hành tây | - | - | 玉[たま]ねぎを干[ほ]して乾[かわ]かします。 | Phơi khô hành tây.
+じゃがいも | n | - | khoai tây | じゃがいも を 掘[ほ]る | đào khoai tây | 家族[かぞく]総出[そうで]でじゃがいもを掘[ほ]ります。 | Cả nhà cùng ra đào khoai tây.
+大根[だいこん] | n | ĐẠI CĂN | củ cải | 大根[だいこん] を 抜[ぬ]く | nhổ củ cải | 冬[ふゆ]は大根[だいこん]を抜[ぬ]く作業[さぎょう]が多[おお]いです。 | Mùa đông việc nhổ củ cải nhiều.
+人参[にんじん] | n | NHÂN SÂM | cà rốt | - | - | 人参[にんじん]の葉[は]を切[き]り落[お]とします。 | Cắt bỏ lá cà rốt.
+ねぎ | n | - | hành lá | - | - | ねぎの皮[かわ]を一枚[いちまい]むいて出荷[しゅっか]します。 | Bóc một lớp vỏ hành rồi xuất hàng.
+りんご | n | - | táo | - | - | りんごに日[ひ]が当[あ]たるように葉[は]を取[と]ります。 | Bỏ bớt lá để táo được nắng.
+みかん | n | - | quýt | - | - | 和歌山[わかやま]でみかんの収穫[しゅうかく]を手伝[てつだ]いました。 | Tôi giúp thu hoạch quýt ở Wakayama.
+ぶどう | n | - | nho | ぶどう の 房[ふさ] | chùm nho | ぶどうの房[ふさ]の形[かたち]を整[ととの]えます。 | Tỉa chỉnh hình dáng chùm nho.
+房[ふさ] | n | PHÒNG | chùm, buồng | - | - | 一房[ひとふさ]ずつ丁寧[ていねい]に切[き]ります。 | Cắt cẩn thận từng chùm.
+整[ととの]える | v2 | CHỈNH | chỉnh đốn, sửa cho đẹp | - | - | 箱[はこ]の中[なか]の並[なら]びを整[ととの]えます。 | Sắp xếp chỉnh lại hàng trong thùng.
+桃[もも] | n | ĐÀO | quả đào | - | - | 桃[もも]は手[て]で強[つよ]く持[も]つと傷[いた]みます。 | Đào cầm mạnh tay sẽ bị dập.
+袋[ふくろ]かけ | n,v3 | ĐẠI | bọc túi quả | - | - | 虫[むし]から守[まも]るために袋[ふくろ]かけをします。 | Bọc túi quả để bảo vệ khỏi sâu.
+米作[こめづく]り | n | MỄ TÁC | trồng lúa | - | - | 祖父[そふ]は五十[ごじゅう]年[ねん]米作[こめづく]りをしています。 | Ông tôi trồng lúa năm mươi năm.
+水田[すいでん] | n | THỦY ĐIỀN | ruộng nước | - | - | 水田[すいでん]の水[みず]の高[たか]さを確認[かくにん]します。 | Kiểm tra mực nước ruộng.
+用水路[ようすいろ] | n | DỤNG THỦY LỘ | mương dẫn nước | - | - | 用水路[ようすいろ]から水[みず]を引[ひ]きます。 | Dẫn nước từ mương vào.
+引[ひ]く | v1 | DẪN | dẫn (nước) | 水[みず] を 引[ひ]く | dẫn nước | 田[た]んぼに水[みず]を引[ひ]きます。 | Dẫn nước vào ruộng lúa.
+乾燥機[かんそうき] | n | CAN TÁO CƠ | máy sấy | - | - | 刈[か]った米[こめ]を乾燥機[かんそうき]で乾[かわ]かします。 | Sấy khô lúa đã gặt bằng máy sấy.
+精米[せいまい] | n,v3 | TINH MỄ | xát gạo | - | - | 玄米[げんまい]を精米[せいまい]して白米[はくまい]にします。 | Xát gạo lứt thành gạo trắng.
+玄米[げんまい] | n | HUYỀN MỄ | gạo lứt | - | - | 玄米[げんまい]は体[からだ]にいいです。 | Gạo lứt tốt cho sức khỏe.
+苗床[なえどこ] | n | MIÊU SÀNG | luống ươm | - | - | 苗床[なえどこ]に水[みず]をたっぷりやります。 | Tưới đẫm nước cho luống ươm.
+発芽[はつが] | n,v3 | PHÁT NHA | nảy mầm | - | - | 温度[おんど]が低[ひく]いと発芽[はつが]が遅[おそ]くなります。 | Nhiệt độ thấp thì nảy mầm chậm.
+根[ね] | n | CĂN | rễ | 根[ね] を 傷[きず]つける | làm tổn thương rễ | 苗[なえ]を植[う]える時[とき]、根[ね]を傷[きず]つけないでください。 | Khi trồng cây con đừng làm tổn thương rễ.
+枯[か]れる | v2 | KHÔ | héo, chết khô | - | - | 水[みず]が足[た]りなくて苗[なえ]が枯[か]れました。 | Thiếu nước nên cây con chết khô.
+しおれる | v2 | - | héo rũ | - | - | 暑[あつ]さで葉[は]がしおれています。 | Lá héo rũ vì nóng.
+病気[びょうき] | n | BỆNH KHÍ | bệnh (cây) | 病気[びょうき] に かかる | bị bệnh | 葉[は]が病気[びょうき]にかかったら、すぐ取[と]り除[のぞ]きます。 | Lá bị bệnh thì loại bỏ ngay.
+虫食[むしく]い | n | TRÙNG THỰC | bị sâu ăn | - | - | 虫食[むしく]いのキャベツは出荷[しゅっか]できません。 | Bắp cải bị sâu ăn không xuất được.
+ネット | n | - | lưới | ネット を 張[は]る | căng lưới | 鳥[とり]に食[た]べられないようにネットを張[は]ります。 | Căng lưới để chim không ăn.
+マルチ | n | - | màng phủ nông nghiệp | マルチ を 張[は]る | phủ màng | 畝[うね]に黒[くろ]いマルチを張[は]ります。 | Phủ màng đen lên luống.
+スプリンクラー | n | - | vòi phun tưới | - | - | スプリンクラーで畑[はたけ]全体[ぜんたい]に水[みず]をまきます。 | Tưới toàn ruộng bằng vòi phun.
+点滴[てんてき] | n | ĐIỂM TRÍCH | tưới nhỏ giọt | {点滴[てんてき]} チューブ | ống tưới nhỏ giọt | ハウスでは点滴[てんてき]チューブで水[みず]をやります。 | Trong nhà kính tưới bằng ống nhỏ giọt.
+暖房機[だんぼうき] | n | NOÃN PHÒNG CƠ | máy sưởi | - | - | 夜[よる]はハウスの暖房機[だんぼうき]をつけます。 | Ban đêm bật máy sưởi nhà kính.
+温度計[おんどけい] | n | ÔN ĐỘ KẾ | nhiệt kế | - | - | ハウスの温度計[おんどけい]を一日[いちにち]に何度[なんど]も見[み]ます。 | Xem nhiệt kế nhà kính nhiều lần mỗi ngày.
+天窓[てんまど] | n | THIÊN SONG | cửa sổ mái | 天窓[てんまど] を 開[あ]ける | mở cửa mái | 暑[あつ]くなったら天窓[てんまど]を開[あ]けます。 | Nóng lên thì mở cửa mái.
+出荷場[しゅっかじょう] | n | XUẤT HÀ TRƯỜNG | nơi xuất hàng | - | - | 箱詰[はこづ]めした野菜[やさい]を出荷場[しゅっかじょう]へ運[はこ]びます。 | Chở rau đã đóng thùng đến nơi xuất hàng.
+農協[のうきょう] | n | NÔNG HIỆP | hợp tác xã nông nghiệp | - | - | 野菜[やさい]を農協[のうきょう]に出荷[しゅっか]します。 | Xuất rau cho hợp tác xã.
+直売所[ちょくばいじょ] | n | TRỰC MẠI SỞ | quầy bán trực tiếp | - | - | 直売所[ちょくばいじょ]で採[と]れたての野菜[やさい]を売[う]っています。 | Bán rau vừa hái ở quầy bán trực tiếp.
+採[と]れたて | n | THẢI | vừa hái | - | - | 採[と]れたてのとうもろこしは甘[あま]いです。 | Ngô vừa hái rất ngọt.
+量[はか]る | v1 | LƯỢNG | cân, đong | - | - | 肥料[ひりょう]を量[はか]ってから混[ま]ぜます。 | Cân phân bón rồi mới trộn.
+キロ | ctr | - | ki-lô-gam | - | - | 一箱[ひとはこ]五[ご]キロにしてください。 | Mỗi thùng để năm cân.
+ラップ | n | - | màng bọc | - | - | 切[き]った白菜[はくさい]をラップで包[つつ]みます。 | Bọc cải thảo đã cắt bằng màng bọc.
+テープ | n | - | băng dính | テープ で 留[と]める | dán bằng băng dính | 箱[はこ]をテープで留[と]めます。 | Dán thùng bằng băng dính.
+段[だん]ボール | n | ĐOẠN | thùng các-tông | 段[だん]ボール を 組[く]み立[た]てる | gấp thùng các-tông | 朝[あさ]、段[だん]ボールを百[ひゃく]個[こ]組[く]み立[た]てます。 | Buổi sáng gấp một trăm thùng các-tông.
+冷蔵庫[れいぞうこ] | n | LÃNH TÀNG KHỐ | kho lạnh | - | - | 収穫[しゅうかく]した野菜[やさい]はすぐ冷蔵庫[れいぞうこ]に入[い]れます。 | Rau thu hoạch xong cho vào kho lạnh ngay.
+予冷[よれい] | n,v3 | DỰ LÃNH | làm lạnh sơ bộ | - | - | 出荷[しゅっか]の前[まえ]に予冷[よれい]して鮮度[せんど]を保[たも]ちます。 | Làm lạnh sơ bộ trước khi xuất để giữ độ tươi.
+鮮度[せんど] | n | TIÊN ĐỘ | độ tươi | 鮮度[せんど] を 保[たも]つ | giữ độ tươi | 鮮度[せんど]を保[たも]つために早[はや]く出荷[しゅっか]します。 | Xuất hàng sớm để giữ độ tươi.
+牛[うし] | n | NGƯU | con bò | 牛[うし] を 放牧[ほうぼく] する | thả bò | 夏[なつ]は牛[うし]を放牧[ほうぼく]します。 | Mùa hè thả bò ra đồng.
+放牧[ほうぼく] | n,v3 | PHÓNG MỤC | chăn thả | - | - | 放牧[ほうぼく]している牛[うし]を夕方[ゆうがた]に牛舎[ぎゅうしゃ]に戻[もど]します。 | Chiều tối lùa bò đang thả về chuồng.
+豚[ぶた] | n | ĐỒN | con lợn | - | - | 豚[ぶた]の体重[たいじゅう]を毎週[まいしゅう]量[はか]ります。 | Cân lợn mỗi tuần.
+鶏[にわとり] | n | KÊ | con gà | - | - | 鶏[にわとり]が卵[たまご]を産[う]みます。 | Gà đẻ trứng.
+産[う]む | v1 | SẢN | đẻ, sinh | 卵[たまご] を 産[う]む | đẻ trứng | この鶏[にわとり]は毎日[まいにち]卵[たまご]を産[う]みます。 | Con gà này ngày nào cũng đẻ trứng.
+集卵[しゅうらん] | n,v3 | TẬP NOÃN | nhặt trứng | - | - | 朝[あさ]と昼[ひる]に集卵[しゅうらん]します。 | Nhặt trứng vào buổi sáng và trưa.
+敷[し]きわら | n | PHU | rơm lót chuồng | - | - | 牛舎[ぎゅうしゃ]の敷[し]きわらを替[か]えます。 | Thay rơm lót chuồng bò.
+替[か]える | v2 | THẾ | thay | - | - | 水[みず]を新[あたら]しいものに替[か]えてください。 | Hãy thay nước mới.
+水飲[みずの]み場[ば] | n | THỦY ẨM TRƯỜNG | chỗ uống nước (vật nuôi) | - | - | 水飲[みずの]み場[ば]がきれいか毎日[まいにち]確認[かくにん]します。 | Mỗi ngày kiểm tra chỗ uống nước có sạch không.
+体重[たいじゅう] | n | THỂ TRỌNG | cân nặng | - | - | 子牛[こうし]の体重[たいじゅう]が順調[じゅんちょう]に増[ふ]えています。 | Cân nặng bê con tăng đều đặn.
+順調[じゅんちょう] | adj-na | THUẬN ĐIỀU | suôn sẻ | - | - | 苗[なえ]は順調[じゅんちょう]に育[そだ]っています。 | Cây con đang phát triển suôn sẻ.
+成長[せいちょう] | n,v3 | THÀNH TRƯỞNG | sinh trưởng | - | - | 今年[ことし]は天気[てんき]がよくて野菜[やさい]の成長[せいちょう]が早[はや]いです。 | Năm nay thời tiết tốt nên rau lớn nhanh.
+育[そだ]ち | n | DỤC | sự phát triển (cây) | 育[そだ]ち が いい | phát triển tốt | このトマトは育[そだ]ちがいいです。 | Cây cà chua này phát triển tốt.
+ワクチン | n | - | vắc-xin | ワクチン を 打[う]つ | tiêm vắc-xin | 子豚[こぶた]にワクチンを打[う]ちます。 | Tiêm vắc-xin cho lợn con.
+消毒槽[しょうどくそう] | n | TIÊU ĐỘC TÀO | bể khử trùng | - | - | 入口[いりぐち]の消毒槽[しょうどくそう]で長靴[ながぐつ]を洗[あら]います。 | Rửa ủng ở bể khử trùng tại lối vào.
+観察[かんさつ] | n,v3 | QUAN SÁT | quan sát | - | - | 牛[うし]の様子[ようす]を毎日[まいにち]観察[かんさつ]します。 | Quan sát tình trạng bò mỗi ngày.
+食[く]いつき | n | THỰC | độ ăn khỏe (vật nuôi) | 食[く]いつき が 悪[わる]い | ăn kém | 今日[きょう]は牛[うし]の食[く]いつきが悪[わる]いです。 | Hôm nay bò ăn kém.
+虫[むし]よけ | n | TRÙNG | thuốc chống côn trùng | - | - | 外[そと]で作業[さぎょう]する時[とき]は虫[むし]よけをします。 | Khi làm ngoài trời thì xịt chống côn trùng.
+雨合羽[あまがっぱ] | n | VŨ HỢP | áo mưa | - | - | 雨[あめ]の日[ひ]は雨合羽[あまがっぱ]を着[き]て作業[さぎょう]します。 | Ngày mưa mặc áo mưa làm việc.
+軍手[ぐんて] | n | QUÂN THỦ | găng tay vải | - | - | 草取[くさと]りの時[とき]は軍手[ぐんて]をします。 | Khi nhổ cỏ thì đeo găng tay vải.
+長靴[ながぐつ] | n | TRƯỜNG NGOA | ủng | - | - | 田[た]んぼでは長靴[ながぐつ]を履[は]きます。 | Ở ruộng lúa phải đi ủng.
+熱中症[ねっちゅうしょう] | n | NHIỆT TRUNG CHỨNG | sốc nhiệt | - | - | ハウスの中[なか]は熱中症[ねっちゅうしょう]に注意[ちゅうい]してください。 | Trong nhà kính hãy cẩn thận sốc nhiệt.
+休憩[きゅうけい] | n,v3 | HƯU KHẾ | nghỉ giải lao | - | - | 暑[あつ]い時[とき]はこまめに休憩[きゅうけい]しましょう。 | Lúc nóng hãy nghỉ giải lao thường xuyên.
+こまめ | adj-na | - | chăm chỉ, đều đặn | こまめ に 水[みず] を 飲[の]む | uống nước thường xuyên | こまめに水[みず]を飲[の]んでください。 | Hãy uống nước thường xuyên.
+道具小屋[どうぐごや] | n | ĐẠO CỤ TIỂU ỐC | nhà kho dụng cụ | - | - | 使[つか]った道具[どうぐ]は道具小屋[どうぐごや]に戻[もど]します。 | Dụng cụ đã dùng cất vào kho.
+倉庫[そうこ] | n | THƯƠNG KHỐ | nhà kho | - | - | 肥料[ひりょう]は倉庫[そうこ]に置[お]いてあります。 | Phân bón để trong nhà kho.
+燃料[ねんりょう] | n | NHIÊN LIỆU | nhiên liệu | 燃料[ねんりょう] を 入[い]れる | đổ nhiên liệu | トラクターに燃料[ねんりょう]を入[い]れます。 | Đổ nhiên liệu cho máy kéo.
+軽油[けいゆ] | n | KHINH DU | dầu diesel | - | - | この機械[きかい]は軽油[けいゆ]で動[うご]きます。 | Máy này chạy bằng dầu diesel.
+エンジン | n | - | động cơ | エンジン を かける | nổ máy | トラクターのエンジンをかけます。 | Nổ máy máy kéo.
+バック | n,v3 | - | lùi | - | - | トラクターをバックさせる時[とき]は後[うし]ろを確認[かくにん]します。 | Khi lùi máy kéo phải nhìn phía sau.
+傾斜[けいしゃ] | n | KHUYNH TÀ | dốc, nghiêng | - | - | 傾斜[けいしゃ]のある畑[はたけ]では機械[きかい]が倒[たお]れないよう注意[ちゅうい]します。 | Ở ruộng dốc phải chú ý để máy không bị lật.

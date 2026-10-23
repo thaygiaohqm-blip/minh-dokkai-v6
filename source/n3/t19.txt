@@ -1,0 +1,129 @@
+@topic t19
+@ja 時間[じかん]・数量[すうりょう]・程度[ていど]
+@vi Thời gian, số lượng và mức độ
+@desc Mốc thời gian, khoảng thời gian, cách nói số lượng, tỷ lệ, so sánh mức độ và các phó từ chỉ nhịp độ thay đổi.
+期間[きかん] | n | KỲ GIAN | khoảng thời gian | - | - | セールの期間[きかん]は一週間[いっしゅうかん]です。 | Thời gian giảm giá là một tuần.
+時期[じき] | n | THỜI KỲ | thời kỳ, thời điểm | - | - | 今[いま]は桜[さくら]の時期[じき]です。 | Bây giờ là mùa hoa anh đào.
+時刻[じこく] | n | THỜI KHẮC | giờ khắc | - | - | 出発[しゅっぱつ]の時刻[じこく]を確認[かくにん]してください。 | Hãy xác nhận giờ xuất phát.
+時点[じてん] | n | THỜI ĐIỂM | thời điểm | - | - | 現[げん]時点[じてん]では何[なに]も決[き]まっていません。 | Ở thời điểm hiện tại chưa quyết định gì.
+当時[とうじ] | n | ĐƯƠNG THỜI | hồi đó | - | - | 当時[とうじ]はまだ学生[がくせい]でした。 | Hồi đó tôi vẫn là sinh viên.
+当日[とうじつ] | n | ĐƯƠNG NHẬT | ngày hôm đó | - | - | チケットは当日[とうじつ]でも買[か]えます。 | Vé có thể mua cả trong ngày.
+前日[ぜんじつ] | n | TIỀN NHẬT | ngày hôm trước | - | - | 試験[しけん]の前日[ぜんじつ]は早[はや]く寝[ね]ました。 | Hôm trước kỳ thi tôi ngủ sớm.
+翌日[よくじつ] | n | DỰC NHẬT | ngày hôm sau | - | - | パーティーの翌日[よくじつ]は疲[つか]れていました。 | Ngày hôm sau bữa tiệc tôi mệt.
+翌年[よくねん] | n | DỰC NIÊN | năm sau đó | - | - | 結婚[けっこん]した翌年[よくねん]に子供[こども]が生[う]まれました。 | Năm sau khi cưới thì con chào đời.
+再来週[さらいしゅう] | n | TÁI LAI CHU | tuần sau nữa | - | - | 再来週[さらいしゅう]の月曜日[げつようび]に会[あ]いましょう。 | Hẹn gặp thứ Hai tuần sau nữa.
+再来年[さらいねん] | n | TÁI LAI NIÊN | năm sau nữa | - | - | 再来年[さらいねん]に大学[だいがく]を卒業[そつぎょう]します。 | Năm sau nữa tôi tốt nghiệp đại học.
+月末[げつまつ] | n | NGUYỆT MẠT | cuối tháng | - | - | 家賃[やちん]は月末[げつまつ]までに払[はら]ってください。 | Hãy trả tiền nhà trước cuối tháng.
+年始[ねんし] | n | NIÊN THỦY | đầu năm | {年末[ねんまつ]} 年始[ねんし] | cuối năm đầu năm | 年末[ねんまつ]年始[ねんし]は休[やす]みです。 | Cuối năm đầu năm được nghỉ.
+上旬[じょうじゅん] | n | THƯỢNG TUẦN | thượng tuần | - | - | 四月[しがつ]上旬[じょうじゅん]に桜[さくら]が咲[さ]きます。 | Thượng tuần tháng tư hoa anh đào nở.
+中旬[ちゅうじゅん] | n | TRUNG TUẦN | trung tuần | - | - | 来月[らいげつ]中旬[ちゅうじゅん]に引[ひ]っ越[こ]します。 | Giữa tháng sau tôi chuyển nhà.
+下旬[げじゅん] | n | HẠ TUẦN | hạ tuần | - | - | 八月[はちがつ]下旬[げじゅん]から涼[すず]しくなります。 | Từ cuối tháng tám trời mát dần.
+半[なか]ば | n | BÁN | giữa chừng | - | - | 三十代[さんじゅうだい]半[なか]ばで転職[てんしょく]しました。 | Giữa tuổi ba mươi tôi chuyển việc.
+前半[ぜんはん] | n | TIỀN BÁN | nửa đầu | - | - | 試合[しあい]の前半[ぜんはん]は負[ま]けていました。 | Hiệp một đang thua.
+後半[こうはん] | n | HẬU BÁN | nửa sau | - | - | 後半[こうはん]に二点[にてん]入[い]れて勝[か]ちました。 | Hiệp hai ghi hai bàn và thắng.
+未来[みらい] | n | VỊ LAI | tương lai | - | - | 未来[みらい]の自分[じぶん]に手紙[てがみ]を書[か]きました。 | Tôi viết thư cho chính mình trong tương lai.
+過去[かこ] | n | QUÁ KHỨ | quá khứ | - | - | 過去[かこ]のことは忘[わす]れましょう。 | Hãy quên chuyện quá khứ đi.
+現在[げんざい] | n | HIỆN TẠI | hiện tại | - | - | 現在[げんざい]、東京[とうきょう]に住[す]んでいます。 | Hiện tại tôi đang sống ở Tokyo.
+以前[いぜん] | n | DĨ TIỀN | trước đây | - | - | 以前[いぜん]、ここに住[す]んでいました。 | Trước đây tôi từng sống ở đây.
+以降[いこう] | n | DĨ GIÁNG | từ ... trở đi | - | - | 午後[ごご]六[ろく]時[じ]以降[いこう]は割引[わりびき]になります。 | Từ sáu giờ chiều trở đi được giảm giá.
+以来[いらい] | n | DĨ LAI | kể từ | - | - | 卒業[そつぎょう]以来[いらい]、彼[かれ]に会[あ]っていません。 | Từ khi tốt nghiệp tôi chưa gặp anh ấy.
+今後[こんご] | n | KIM HẬU | từ nay về sau | - | - | 今後[こんご]ともよろしくお願[ねが]いします。 | Từ nay về sau mong được giúp đỡ.
+今[いま]にも | adv | KIM | sắp sửa | - | - | 今[いま]にも雨[あめ]が降[ふ]りそうです。 | Trời sắp mưa đến nơi.
+今[いま]さら | adv | KIM | bây giờ mới (muộn) | - | - | 今[いま]さら謝[あやま]っても遅[おそ]いです。 | Giờ mới xin lỗi thì muộn rồi.
+早朝[そうちょう] | n | TẢO TRIÊU | sáng sớm | - | - | 早朝[そうちょう]に家[いえ]を出[で]ました。 | Tôi ra khỏi nhà lúc sáng sớm.
+深夜[しんや] | n | THÂM DẠ | đêm khuya | - | - | 深夜[しんや]まで営業[えいぎょう]しています。 | Mở cửa đến đêm khuya.
+正午[しょうご] | n | CHÍNH NGỌ | giữa trưa | - | - | 正午[しょうご]に会議[かいぎ]が終[お]わりました。 | Cuộc họp kết thúc lúc giữa trưa.
+瞬間[しゅんかん] | n | THUẤN GIAN | khoảnh khắc | - | - | ゴールした瞬間[しゅんかん]、涙[なみだ]が出[で]ました。 | Khoảnh khắc về đích nước mắt trào ra.
+一瞬[いっしゅん] | n | NHẤT THUẤN | một thoáng | - | - | 一瞬[いっしゅん]、何[なに]が起[お]きたか分[わ]かりませんでした。 | Trong thoáng chốc tôi không hiểu chuyện gì xảy ra.
+間[ま]もなく | adv | GIAN | chẳng bao lâu nữa | - | - | 間[ま]もなく電車[でんしゃ]が参[まい]ります。 | Tàu sắp đến.
+直後[ちょくご] | n | TRỰC HẬU | ngay sau | - | - | 食事[しょくじ]の直後[ちょくご]に運動[うんどう]しないでください。 | Đừng vận động ngay sau khi ăn.
+直前[ちょくぜん] | n | TRỰC TIỀN | ngay trước | - | - | 出発[しゅっぱつ]の直前[ちょくぜん]に電話[でんわ]がありました。 | Ngay trước khi xuất phát có điện thoại.
+最中[さいちゅう] | n | TỐI TRUNG | đang giữa lúc | - | - | 食事[しょくじ]の最中[さいちゅう]に地震[じしん]がありました。 | Đang ăn thì có động đất.
+延長[えんちょう] | n,v3 | DIÊN TRƯỜNG | kéo dài, gia hạn | - | - | 会議[かいぎ]が一時間[いちじかん]延長[えんちょう]されました。 | Cuộc họp kéo dài thêm một tiếng.
+短縮[たんしゅく] | n,v3 | ĐOẢN SÚC | rút ngắn | - | - | 営業[えいぎょう]時間[じかん]を短縮[たんしゅく]しています。 | Đang rút ngắn giờ mở cửa.
+数量[すうりょう] | n | SỐ LƯỢNG | số lượng | {数量[すうりょう]} 限定[げんてい] | số lượng có hạn | この商品[しょうひん]は数量[すうりょう]限定[げんてい]です。 | Sản phẩm này số lượng có hạn.
+分量[ぶんりょう] | n | PHÂN LƯỢNG | lượng | - | - | 砂糖[さとう]の分量[ぶんりょう]を間違[まちが]えました。 | Tôi nhầm lượng đường.
+大量[たいりょう] | n,adj-na | ĐẠI LƯỢNG | số lượng lớn | - | - | 大量[たいりょう]のごみが出[で]ました。 | Lượng rác lớn được thải ra.
+少量[しょうりょう] | n | THIỂU LƯỢNG | lượng nhỏ | - | - | 塩[しお]を少量[しょうりょう]入[い]れます。 | Cho một lượng nhỏ muối.
+大半[たいはん] | n | ĐẠI BÁN | phần lớn | - | - | 学生[がくせい]の大半[たいはん]が賛成[さんせい]しました。 | Phần lớn sinh viên tán thành.
+大部分[だいぶぶん] | n | ĐẠI BỘ PHẬN | đại bộ phận | - | - | 仕事[しごと]の大部分[だいぶぶん]は終[お]わりました。 | Đại bộ phận công việc đã xong.
+一部[いちぶ] | n | NHẤT BỘ | một phần | - | - | 一部[いちぶ]の人[ひと]が反対[はんたい]しています。 | Một bộ phận người phản đối.
+全員[ぜんいん] | n | TOÀN VIÊN | toàn bộ thành viên | - | - | 全員[ぜんいん]が集[あつ]まりました。 | Mọi người đã tập trung đủ.
+全国[ぜんこく] | n | TOÀN QUỐC | toàn quốc | - | - | 全国[ぜんこく]から人[ひと]が集[あつ]まりました。 | Người từ khắp cả nước đã tụ họp.
+半数[はんすう] | n | BÁN SỐ | một nửa số | - | - | 参加者[さんかしゃ]の半数[はんすう]は女性[じょせい]でした。 | Một nửa số người tham gia là nữ.
+倍[ばい] | n,suf | BỘI | gấp (lần) | 二[に] {倍[ばい]} | gấp đôi | 売[う]り上[あ]げが二倍[にばい]になりました。 | Doanh thu tăng gấp đôi.
+割合[わりあい] | n | CÁT HỢP | tỷ lệ | - | - | 女性[じょせい]の割合[わりあい]が増[ふ]えています。 | Tỷ lệ nữ đang tăng.
+割[わり] | suf | CÁT | mười phần trăm | 三[さん] {割[わり]} | 30% | 三割[さんわり]引[び]きで買[か]いました。 | Tôi mua giảm 30%.
+未満[みまん] | n | VỊ MÃN | chưa đến, dưới | - | - | 十八歳[じゅうはっさい]未満[みまん]は入[はい]れません。 | Dưới 18 tuổi không được vào.
+超[こ]える | v2 | SIÊU | vượt quá | - | - | 気温[きおん]が三十五[さんじゅうご]度[ど]を超[こ]えました。 | Nhiệt độ vượt 35 độ.
+足[た]す | v1 | TÚC | cộng, thêm | - | - | 二[に]に三[さん]を足[た]すと五[ご]です。 | Hai cộng ba là năm.
+割[わ]る | v1 | CÁT | chia | - | - | 十[じゅう]を二[に]で割[わ]ると五[ご]です。 | Mười chia hai là năm.
+数[かぞ]える | v2 | SỐ | đếm | - | - | 参加者[さんかしゃ]の数[かず]を数[かぞ]えました。 | Tôi đếm số người tham gia.
+人数[にんずう] | n | NHÂN SỐ | số người | - | - | 人数[にんずう]を教[おし]えてください。 | Cho tôi biết số người.
+回数[かいすう] | n | HỒI SỐ | số lần | - | - | 練習[れんしゅう]の回数[かいすう]を増[ふ]やしました。 | Tôi tăng số lần luyện tập.
+増[ふ]やす | v1 | TĂNG | làm tăng | - | - | 野菜[やさい]を食[た]べる量[りょう]を増[ふ]やしました。 | Tôi tăng lượng rau ăn.
+減[へ]らす | v1 | GIẢM | làm giảm | - | - | お酒[さけ]の量[りょう]を減[へ]らしています。 | Tôi đang giảm lượng rượu.
+程度[ていど] | n | TRÌNH ĐỘ | mức độ, chừng | - | - | 一時間[いちじかん]程度[ていど]で終[お]わります。 | Khoảng một tiếng là xong.
+範囲[はんい] | n | PHẠM VI | phạm vi | 試験[しけん] {範囲[はんい]} | phạm vi thi | 試験[しけん]範囲[はんい]を教[おし]えてください。 | Cho tôi biết phạm vi thi.
+限界[げんかい] | n | HẠN GIỚI | giới hạn | 限界[げんかい] を 超[こ]える | vượt giới hạn | もう体力[たいりょく]の限界[げんかい]です。 | Đã đến giới hạn thể lực rồi.
+最大[さいだい] | n | TỐI ĐẠI | lớn nhất | - | - | 日本[にほん]最大[さいだい]の湖[みずうみ]は琵琶湖[びわこ]です。 | Hồ lớn nhất Nhật Bản là hồ Biwa.
+最小[さいしょう] | n | TỐI TIỂU | nhỏ nhất | - | - | 被害[ひがい]を最小[さいしょう]にしたいです。 | Muốn giảm thiệt hại đến mức nhỏ nhất.
+最高[さいこう] | n,adj-na | TỐI CAO | cao nhất, tuyệt vời | - | - | 今日[きょう]は最高[さいこう]の一日[いちにち]でした。 | Hôm nay là ngày tuyệt vời nhất.
+最低[さいてい] | n,adj-na | TỐI ĐÊ | thấp nhất, tệ nhất | - | - | 最低[さいてい]でも一日[いちにち]七時間[しちじかん]は寝[ね]たいです。 | Ít nhất tôi muốn ngủ bảy tiếng mỗi ngày.
+ほぼ | adv | - | gần như | - | - | 仕事[しごと]はほぼ終[お]わりました。 | Công việc gần như xong.
+およそ | adv,n | - | khoảng chừng | - | - | 駅[えき]までおよそ十[じゅっ]分[ぷん]です。 | Đến ga khoảng mười phút.
+約[やく] | adv | ƯỚC | khoảng | - | - | 約[やく]百人[ひゃくにん]が参加[さんか]しました。 | Khoảng một trăm người tham gia.
+大体[だいたい] | adv,n | ĐẠI THỂ | đại khái | - | - | 話[はなし]は大体[だいたい]分[わ]かりました。 | Câu chuyện tôi hiểu đại khái.
+ほんの | pref | - | chỉ một chút | ほんの 少[すこ]し | chỉ một chút thôi | ほんの少[すこ]ししか食[た]べませんでした。 | Tôi chỉ ăn một chút thôi.
+わずか | adj-na,adv | - | ít ỏi | - | - | 残[のこ]り時間[じかん]はわずかです。 | Thời gian còn lại ít ỏi.
+たっぷり | adv,v3 | - | đầy ắp, dư dả | - | - | 時間[じかん]はたっぷりあります。 | Thời gian còn dư dả.
+ぎっしり | adv | - | chật cứng | - | - | 箱[はこ]に本[ほん]がぎっしり詰[つ]まっています。 | Hộp chật cứng sách.
+余計[よけい] | adj-na,adv | DƯ KẾ | thừa, không cần thiết | 余計[よけい] な こと | chuyện không đâu | 余計[よけい]なことを言[い]わないでください。 | Đừng nói chuyện không đâu.
+余分[よぶん] | n,adj-na | DƯ PHẬN | dư ra | - | - | 余分[よぶん]にお金[かね]を持[も]って行[い]きます。 | Tôi mang dư tiền theo.
+余[あま]り | n | DƯ | phần dư | - | - | 十[じゅう]を三[さん]で割[わ]ると余[あま]りは一[いち]です。 | Mười chia ba dư một.
+以内[いない] | n | DĨ NỘI | trong vòng | - | - | 三日[みっか]以内[いない]に返事[へんじ]をください。 | Hãy trả lời trong vòng ba ngày.
+前後[ぜんご] | n,suf | TIỀN HẬU | khoảng, trước sau | - | - | 三十歳[さんじゅっさい]前後[ぜんご]の男性[だんせい]でした。 | Đó là người đàn ông khoảng ba mươi tuổi.
+一段[いちだん]と | adv | NHẤT ĐOẠN | hơn hẳn | - | - | 今朝[けさ]は一段[いちだん]と寒[さむ]いです。 | Sáng nay lạnh hơn hẳn.
+一層[いっそう] | adv | NHẤT TẦNG | càng thêm | - | - | これからも一層[いっそう]努力[どりょく]します。 | Từ giờ tôi sẽ càng nỗ lực hơn.
+ますます | adv | - | ngày càng | - | - | 日本語[にほんご]がますます好[す]きになりました。 | Tôi ngày càng thích tiếng Nhật.
+一気[いっき]に | adv | NHẤT KHÍ | một mạch | - | - | 本[ほん]を一気[いっき]に読[よ]みました。 | Tôi đọc một mạch hết cuốn sách.
+次第[しだい]に | adv | THỨ ĐỆ | dần dần | - | - | 次第[しだい]に暗[くら]くなってきました。 | Trời tối dần.
+徐々[じょじょ]に | adv | TỪ | từ từ | - | - | 病気[びょうき]は徐々[じょじょ]によくなっています。 | Bệnh đang từ từ đỡ.
+少[すこ]しずつ | adv | THIỂU | từng chút một | - | - | 毎日[まいにち]少[すこ]しずつ練習[れんしゅう]しています。 | Ngày nào tôi cũng luyện từng chút.
+急激[きゅうげき] | adj-na | CẤP KÍCH | đột ngột, gấp | - | - | 気温[きおん]が急激[きゅうげき]に下[さ]がりました。 | Nhiệt độ giảm đột ngột.
+一斉[いっせい]に | adv | NHẤT TỀ | đồng loạt | - | - | 生徒[せいと]が一斉[いっせい]に立[た]ち上[あ]がりました。 | Học sinh đồng loạt đứng dậy.
+同時[どうじ] | n | ĐỒNG THỜI | đồng thời | - | - | 二人[ふたり]は同時[どうじ]に答[こた]えました。 | Hai người trả lời cùng lúc.
+順[じゅん]に | adv | THUẬN | lần lượt | - | - | 名前[なまえ]を呼[よ]ばれた順[じゅん]に入[はい]ってください。 | Hãy vào theo thứ tự được gọi tên.
+交互[こうご]に | adv | GIAO HỖ | luân phiên | - | - | 右[みぎ]と左[ひだり]を交互[こうご]に使[つか]います。 | Dùng luân phiên tay phải và trái.
+次々[つぎつぎ]に | adv | THỨ | lần lượt liên tiếp | - | - | 新[あたら]しい店[みせ]が次々[つぎつぎ]にできています。 | Cửa hàng mới lần lượt mọc lên.
+続々[ぞくぞく] | adv | TỤC | nối tiếp nhau | - | - | お客[きゃく]さんが続々[ぞくぞく]と来[き]ています。 | Khách đang nối tiếp nhau đến.
+相次[あいつ]ぐ | v1 | TƯƠNG THỨ | liên tiếp xảy ra | - | - | 事故[じこ]が相次[あいつ]いでいます。 | Tai nạn liên tiếp xảy ra.
+しばしば | adv | - | thường xuyên | - | - | 彼[かれ]はしばしば遅刻[ちこく]します。 | Anh ta thường xuyên đến muộn.
+たびたび | adv | - | nhiều lần | - | - | たびたびご迷惑[めいわく]をおかけしてすみません。 | Xin lỗi vì đã nhiều lần làm phiền.
+常[つね]に | adv | THƯỜNG | luôn luôn | - | - | 常[つね]に安全[あんぜん]を考[かんが]えています。 | Chúng tôi luôn nghĩ đến an toàn.
+絶[た]えず | adv | TUYỆT | không ngừng | - | - | 絶[た]えず努力[どりょく]しています。 | Không ngừng nỗ lực.
+再[ふたた]び | adv | TÁI | lại một lần nữa | - | - | 再[ふたた]び日本[にほん]に来[き]ました。 | Tôi lại đến Nhật lần nữa.
+改[あらた]めて | adv | CẢI | lần khác, một lần nữa | - | - | 改[あらた]めてご連絡[れんらく]します。 | Tôi sẽ liên lạc lại sau.
+いよいよ | adv | - | cuối cùng thì, sắp | - | - | いよいよ明日[あした]は試験[しけん]です。 | Cuối cùng mai là ngày thi.
+ようやく | adv | - | mãi rồi cũng | - | - | ようやく仕事[しごと]が終[お]わりました。 | Mãi rồi công việc cũng xong.
+とっくに | adv | - | từ lâu rồi | - | - | 会議[かいぎ]はとっくに始[はじ]まっています。 | Cuộc họp đã bắt đầu từ lâu rồi.
+すでに | adv | - | đã rồi | - | - | チケットはすでに売[う]り切[き]れていました。 | Vé đã bán hết rồi.
+前[まえ]もって | adv | TIỀN | trước, sẵn | - | - | 前[まえ]もって連絡[れんらく]してください。 | Hãy liên lạc trước.
+あらかじめ | adv | - | từ trước | - | - | あらかじめ予約[よやく]しておきました。 | Tôi đã đặt chỗ từ trước.
+長期[ちょうき] | n | TRƯỜNG KỲ | dài hạn | {長期[ちょうき]} 休暇[きゅうか] | kỳ nghỉ dài | 夏[なつ]に長期[ちょうき]休暇[きゅうか]を取[と]ります。 | Mùa hè tôi nghỉ dài ngày.
+短期[たんき] | n | ĐOẢN KỲ | ngắn hạn | {短期[たんき]} 留学[りゅうがく] | du học ngắn hạn | 短期[たんき]留学[りゅうがく]でアメリカに行[い]きました。 | Tôi đi Mỹ du học ngắn hạn.
+定期的[ていきてき] | adj-na | ĐỊNH KỲ ĐÍCH | định kỳ | - | - | 定期的[ていきてき]に歯医者[はいしゃ]に行[い]きます。 | Tôi đi nha sĩ định kỳ.
+年代[ねんだい] | n | NIÊN ĐẠI | thập niên, lứa tuổi | - | - | 八十[はちじゅう]年代[ねんだい]の音楽[おんがく]が好[す]きです。 | Tôi thích nhạc thập niên 80.
+世紀[せいき] | n | THẾ KỶ | thế kỷ | - | - | 二十一[にじゅういっ]世紀[せいき]になって技術[ぎじゅつ]が進[すす]みました。 | Sang thế kỷ 21 kỹ thuật tiến bộ.
+年月[ねんげつ] | n | NIÊN NGUYỆT | năm tháng | - | - | 長[なが]い年月[ねんげつ]をかけて完成[かんせい]しました。 | Hoàn thành sau năm tháng dài.
+日[ひ]にち | n | NHẬT | ngày tháng | - | - | 会議[かいぎ]の日[ひ]にちを決[き]めましょう。 | Hãy quyết định ngày họp.
+日付[ひづけ] | n | NHẬT PHÓ | ngày (ghi) | - | - | 書類[しょるい]に日付[ひづけ]を書[か]いてください。 | Hãy ghi ngày lên tài liệu.
+時間帯[じかんたい] | n | THỜI GIAN ĐỚI | khung giờ | - | - | 混[こ]む時間帯[じかんたい]を避[さ]けましょう。 | Hãy tránh khung giờ đông.
+頻度[ひんど] | n | TẦN ĐỘ | tần suất | - | - | 運動[うんどう]の頻度[ひんど]を増[ふ]やしました。 | Tôi tăng tần suất vận động.
+比率[ひりつ] | n | TỶ SUẤT | tỷ lệ | - | - | 男女[だんじょ]の比率[ひりつ]は半々[はんはん]です。 | Tỷ lệ nam nữ là một nửa mỗi bên.
+総数[そうすう] | n | TỔNG SỐ | tổng số | - | - | 参加者[さんかしゃ]の総数[そうすう]は五百人[ごひゃくにん]でした。 | Tổng số người tham gia là năm trăm.
+件数[けんすう] | n | KIỆN SỐ | số vụ, số trường hợp | - | - | 事故[じこ]の件数[けんすう]が減[へ]りました。 | Số vụ tai nạn đã giảm.
+半々[はんはん] | n | BÁN BÁN | một nửa một nửa | - | - | 費用[ひよう]は半々[はんはん]にしましょう。 | Chi phí chia đôi nhé.
+一人一人[ひとりひとり] | n | NHẤT NHÂN | từng người một | - | - | 一人一人[ひとりひとり]に話[はなし]を聞[き]きました。 | Tôi hỏi chuyện từng người một.
+それぞれ | n,adv | - | mỗi, từng | - | - | それぞれの意見[いけん]を聞[き]きましょう。 | Hãy nghe ý kiến của từng người.
+各[かく] | pref | CÁC | mỗi, các | {各[かく]} 部屋[へや] | mỗi phòng | 各[かく]部屋[へや]にテレビがあります。 | Mỗi phòng đều có tivi.

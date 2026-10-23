@@ -1,0 +1,84 @@
+@topic t05
+@ja 学校[がっこう]と仕事[しごと]
+@vi Trường học và công việc
+@desc Lớp học, bài tập, thi cử, đồ dùng học tập cùng những từ đầu tiên về công ty, nhà máy và giờ làm.
+学校[がっこう] | n | HỌC HIỆU | trường học | 学校[がっこう] に 通[かよ]う | đi học (theo học) | 弟[おとうと]は自転車[じてんしゃ]で学校[がっこう]に通[かよ]っています。 | Em trai tôi đi học bằng xe đạp.
+大学[だいがく] | n | ĐẠI HỌC | đại học | 大学[だいがく] に 入[はい]る | vào đại học | 来年[らいねん]、東京[とうきょう]の大学[だいがく]に入[はい]りたいです。 | Năm sau tôi muốn vào một trường đại học ở Tokyo.
+教室[きょうしつ] | n | GIÁO THẤT | phòng học | - | - | 教室[きょうしつ]で食[た]べ物[もの]を食[た]べないでください。 | Đừng ăn trong phòng học.
+クラス | n | - | lớp | - | - | 私[わたし]のクラスには外国人[がいこくじん]が五[ご]人[にん]います。 | Lớp tôi có năm người nước ngoài.
+授業[じゅぎょう] | n | THỤ NGHIỆP | giờ học, tiết học | 授業[じゅぎょう] を 受[う]ける | học (dự) giờ học | 毎週[まいしゅう]二[に]回[かい]、日本語[にほんご]の授業[じゅぎょう]を受[う]けています。 | Mỗi tuần tôi học tiếng Nhật hai buổi.
+宿題[しゅくだい] | n | TÚC ĐỀ | bài tập về nhà | 宿題[しゅくだい] を 出[だ]す | nộp bài tập | 宿題[しゅくだい]は明日[あした]までに出[だ]してください。 | Hãy nộp bài tập trước ngày mai.
+試験[しけん] | n | THÍ NGHIỆM | kỳ thi | 試験[しけん] を 受[う]ける | dự thi | 十二月[じゅうにがつ]に日本語[にほんご]の試験[しけん]を受[う]けます。 | Tháng Mười hai tôi dự thi tiếng Nhật.
+テスト | n | - | bài kiểm tra | - | - | 明日[あした]は漢字[かんじ]のテストがあります。 | Mai có bài kiểm tra chữ Hán.
+問題[もんだい] | n | VẤN ĐỀ | câu hỏi (bài tập); vấn đề | 問題[もんだい] を 解[と]く | giải bài | この問題[もんだい]を解[と]いてください。 | Hãy giải bài này.
+質問[しつもん] | n,v3 | CHẤT VẤN | câu hỏi; hỏi | 質問[しつもん] が ある | có câu hỏi | 質問[しつもん]がある人[ひと]は手[て]を挙[あ]げてください。 | Ai có câu hỏi thì giơ tay lên.
+答[こた]え | n | ĐÁP | câu trả lời, đáp án | - | - | 答[こた]えは鉛筆[えんぴつ]で書[か]いてください。 | Hãy viết đáp án bằng bút chì.
+答[こた]える | v2 | ĐÁP | trả lời | 質問[しつもん] に 答[こた]える | trả lời câu hỏi | 先生[せんせい]の質問[しつもん]に答[こた]えました。 | Tôi đã trả lời câu hỏi của thầy.
+練習[れんしゅう] | n,v3 | LUYỆN TẬP | luyện tập | 会話[かいわ] の {練習[れんしゅう]} | luyện hội thoại | 毎日[まいにち]、友達[ともだち]と会話[かいわ]の練習[れんしゅう]をします。 | Ngày nào tôi cũng luyện hội thoại với bạn.
+会話[かいわ] | n | HỘI THOẠI | hội thoại | - | - | 日本人[にほんじん]との会話[かいわ]はまだ難[むずか]しいです。 | Nói chuyện với người Nhật vẫn còn khó với tôi.
+勉強[べんきょう] | n,v3 | MIỄN CƯỠNG | học tập | 日本語[にほんご] を {勉強[べんきょう]} する | học tiếng Nhật | 毎晩[まいばん]二[に]時間[じかん]、日本語[にほんご]を勉強[べんきょう]します。 | Tối nào tôi cũng học tiếng Nhật hai tiếng.
+日本語[にほんご] | n | NHẬT BẢN NGỮ | tiếng Nhật | - | - | 日本語[にほんご]は少[すこ]しわかります。 | Tôi hiểu một chút tiếng Nhật.
+英語[えいご] | n | ANH NGỮ | tiếng Anh | - | - | 兄[あに]は英語[えいご]がペラペラです。 | Anh tôi nói tiếng Anh lưu loát.
+言葉[ことば] | n | NGÔN DIỆP | từ ngữ; ngôn ngữ | - | - | この言葉[ことば]の意味[いみ]がわかりません。 | Tôi không hiểu nghĩa của từ này.
+漢字[かんじ] | n | HÁN TỰ | chữ Hán | 漢字[かんじ] を 覚[おぼ]える | nhớ chữ Hán | 一日[いちにち]に五[いつ]つ漢字[かんじ]を覚[おぼ]えます。 | Mỗi ngày tôi nhớ năm chữ Hán.
+ひらがな | n | - | chữ hiragana | - | - | 子供[こども]はひらがなから習[なら]います。 | Trẻ con học từ chữ hiragana.
+カタカナ | n | - | chữ katakana | - | - | 外国[がいこく]の名前[なまえ]はカタカナで書[か]きます。 | Tên nước ngoài viết bằng katakana.
+作文[さくぶん] | n | TÁC VĂN | bài văn | 作文[さくぶん] を 書[か]く | viết bài văn | 夏休[なつやす]みの思[おも]い出[で]について作文[さくぶん]を書[か]きました。 | Tôi viết bài văn về kỷ niệm kỳ nghỉ hè.
+意味[いみ] | n | Ý VỊ | ý nghĩa | 意味[いみ] が わかる | hiểu nghĩa | 辞書[じしょ]を見[み]て、意味[いみ]がわかりました。 | Tra từ điển xong tôi đã hiểu nghĩa.
+辞書[じしょ] | n | TỪ THƯ | từ điển | 辞書[じしょ] を 引[ひ]く | tra từ điển | わからない言葉[ことば]は辞書[じしょ]を引[ひ]きます。 | Từ nào không hiểu tôi tra từ điển.
+本[ほん] | n | BẢN | sách | - | - | 図書館[としょかん]で本[ほん]を三[さん]冊[さつ]借[か]りました。 | Tôi đã mượn ba quyển sách ở thư viện.
+ノート | n | - | vở | - | - | 新[あたら]しい言葉[ことば]をノートに書[か]きます。 | Tôi viết từ mới vào vở.
+鉛筆[えんぴつ] | n | DIÊN BÚT | bút chì | - | - | 鉛筆[えんぴつ]を貸[か]してくれませんか。 | Cho tôi mượn bút chì được không?
+ボールペン | n | - | bút bi | - | - | 書類[しょるい]はボールペンで書[か]いてください。 | Hãy viết hồ sơ bằng bút bi.
+消[け]しゴム | n | TIÊU | cục tẩy | - | - | 消[け]しゴムで間違[まちが]いを消[け]しました。 | Tôi xóa chỗ sai bằng cục tẩy.
+黒板[こくばん] | n | HẮC BẢN | bảng đen | - | - | 先生[せんせい]が黒板[こくばん]に字[じ]を書[か]きました。 | Thầy giáo viết chữ lên bảng.
+字[じ] | n | TỰ | chữ | 字[じ] が きれい | chữ đẹp | マイさんは字[じ]がとてもきれいです。 | Chữ của chị Mai rất đẹp.
+ページ | n | - | trang | - | - | 教科書[きょうかしょ]の二十[にじゅう]ページを開[ひら]いてください。 | Hãy mở trang hai mươi của sách giáo khoa.
+開[ひら]く | v1 | KHAI | mở (sách); tổ chức | 本[ほん] を 開[ひら]く | mở sách | 本[ほん]を開[ひら]いて、読[よ]んでください。 | Hãy mở sách ra và đọc.
+図書館[としょかん] | n | ĐỒ THƯ QUÁN | thư viện | - | - | 図書館[としょかん]は静[しず]かで勉強[べんきょう]しやすいです。 | Thư viện yên tĩnh nên dễ học.
+休[やす]み | n | HƯU | ngày nghỉ; giờ nghỉ | 休[やす]み の 日[ひ] | ngày nghỉ | 休[やす]みの日[ひ]は何[なに]をしますか。 | Ngày nghỉ bạn làm gì?
+夏休[なつやす]み | n | HẠ HƯU | kỳ nghỉ hè | - | - | 夏休[なつやす]みに国[くに]へ帰[かえ]ります。 | Kỳ nghỉ hè tôi về nước.
+留学生[りゅうがくせい] | n | LƯU HỌC SINH | du học sinh | - | - | この大学[だいがく]には留学生[りゅうがくせい]が多[おお]いです。 | Trường đại học này có nhiều du học sinh.
+留学[りゅうがく] | n,v3 | LƯU HỌC | du học | 日本[にほん] に {留学[りゅうがく]} する | du học Nhật Bản | 来年[らいねん]、日本[にほん]に留学[りゅうがく]するつもりです。 | Sang năm tôi định du học Nhật.
+生徒[せいと] | n | SINH ĐỒ | học sinh (phổ thông) | - | - | 生徒[せいと]たちは元気[げんき]にあいさつしました。 | Các em học sinh chào hỏi rất hăng hái.
+点[てん] | n | ĐIỂM | điểm số; dấu chấm | 点[てん] を 取[と]る | được điểm | 試験[しけん]でいい点[てん]を取[と]りたいです。 | Tôi muốn được điểm cao trong kỳ thi.
+番[ばん] | ctr | PHIÊN | số thứ tự; lượt | - | - | 次[つぎ]はあなたの番[ばん]です。 | Tiếp theo là lượt của bạn.
+説明[せつめい] | n,v3 | THUYẾT MINH | giải thích | 説明[せつめい] を 聞[き]く | nghe giải thích | 先生[せんせい]の説明[せつめい]をよく聞[き]いてください。 | Hãy nghe kỹ lời giải thích của thầy.
+発音[はつおん] | n | PHÁT ÂM | phát âm | 発音[はつおん] が いい | phát âm tốt | ミンさんは日本語[にほんご]の発音[はつおん]がいいですね。 | Phát âm tiếng Nhật của Minh hay nhỉ.
+入学[にゅうがく] | n,v3 | NHẬP HỌC | nhập học | - | - | 日本[にほん]の学校[がっこう]は四月[しがつ]に入学[にゅうがく]します。 | Trường học ở Nhật nhập học vào tháng Tư.
+卒業[そつぎょう] | n,v3 | TỐT NGHIỆP | tốt nghiệp | 大学[だいがく] を {卒業[そつぎょう]} する | tốt nghiệp đại học | 姉[あね]は去年[きょねん]、大学[だいがく]を卒業[そつぎょう]しました。 | Chị tôi đã tốt nghiệp đại học năm ngoái.
+覚[おぼ]える | v2 | GIÁC | nhớ, thuộc | 単語[たんご] を 覚[おぼ]える | thuộc từ vựng | 寝[ね]る前[まえ]に単語[たんご]を覚[おぼ]えます。 | Tôi học thuộc từ vựng trước khi ngủ.
+忘[わす]れる | v2 | VONG | quên | 宿題[しゅくだい] を 忘[わす]れる | quên bài tập | また宿題[しゅくだい]を忘[わす]れてしまいました。 | Tôi lại quên bài tập mất rồi.
+教[おし]える | v2 | GIÁO | dạy; chỉ cho | 道[みち] を 教[おし]える | chỉ đường | 駅[えき]までの道[みち]を教[おし]えてください。 | Hãy chỉ cho tôi đường đến ga.
+習[なら]う | v1 | TẬP | học (từ ai) | ピアノ を 習[なら]う | học piano | 子供[こども]の時[とき]からピアノを習[なら]っています。 | Tôi học piano từ hồi nhỏ.
+読[よ]む | v1 | ĐỘC | đọc | 声[こえ] に 出[だ]して 読[よ]む | đọc thành tiếng | 文[ぶん]を声[こえ]に出[だ]して読[よ]んでください。 | Hãy đọc to câu văn lên.
+書[か]く | v1 | THƯ | viết | 日記[にっき] を 書[か]く | viết nhật ký | 日本語[にほんご]で日記[にっき]を書[か]いています。 | Tôi viết nhật ký bằng tiếng Nhật.
+聞[き]く | v1 | VĂN | nghe; hỏi | 話[はなし] を 聞[き]く | lắng nghe câu chuyện | 人[ひと]の話[はなし]をよく聞[き]きましょう。 | Hãy lắng nghe kỹ người khác nói.
+始[はじ]まる | v1 | THỦY | (cái gì) bắt đầu | 授業[じゅぎょう] が 始[はじ]まる | giờ học bắt đầu | もうすぐ授業[じゅぎょう]が始[はじ]まります。 | Giờ học sắp bắt đầu rồi.
+始[はじ]める | v2 | THỦY | bắt đầu (làm gì) | 仕事[しごと] を 始[はじ]める | bắt đầu công việc | 九[く]時[じ]から仕事[しごと]を始[はじ]めます。 | Tôi bắt đầu làm việc từ chín giờ.
+終[お]わる | v1 | CHUNG | kết thúc | 仕事[しごと] が 終[お]わる | xong việc | 仕事[しごと]が終[お]わったら、一緒[いっしょ]に帰[かえ]りましょう。 | Xong việc thì mình cùng về nhé.
+仕事[しごと] | n | SĨ SỰ | công việc | 仕事[しごと] を 探[さが]す | tìm việc | 今[いま]、日本[にほん]で仕事[しごと]を探[さが]しています。 | Hiện tôi đang tìm việc ở Nhật.
+会社[かいしゃ] | n | HỘI XÃ | công ty | 会社[かいしゃ] を 休[やす]む | nghỉ làm | 熱[ねつ]があるので、会社[かいしゃ]を休[やす]みます。 | Tôi bị sốt nên nghỉ làm.
+会社員[かいしゃいん] | n | HỘI XÃ VIÊN | nhân viên công ty | - | - | 兄[あに]は東京[とうきょう]で会社員[かいしゃいん]をしています。 | Anh tôi làm nhân viên công ty ở Tokyo.
+社長[しゃちょう] | n | XÃ TRƯỞNG | giám đốc | - | - | 社長[しゃちょう]は今[いま]、会議中[かいぎちゅう]です。 | Giám đốc hiện đang họp.
+働[はたら]く | v1 | ĐỘNG | làm việc | 工場[こうじょう] で 働[はたら]く | làm việc ở nhà máy | 私[わたし]は自動車[じどうしゃ]の工場[こうじょう]で働[はたら]いています。 | Tôi làm việc ở nhà máy ô tô.
+勤[つと]める | v2 | CẦN | làm việc (cho tổ chức) | 銀行[ぎんこう] に 勤[つと]める | làm ở ngân hàng | 姉[あね]は銀行[ぎんこう]に勤[つと]めています。 | Chị tôi làm việc ở ngân hàng.
+休[やす]む | v1 | HƯU | nghỉ ngơi; nghỉ (học, làm) | 学校[がっこう] を 休[やす]む | nghỉ học | 風邪[かぜ]で学校[がっこう]を休[やす]みました。 | Tôi nghỉ học vì bị cảm.
+休憩[きゅうけい] | n,v3 | HƯU KHẾ | nghỉ giải lao | 休憩[きゅうけい] を 取[と]る | nghỉ giải lao | 十二[じゅうに]時[じ]から一[いち]時間[じかん]、休憩[きゅうけい]を取[と]ります。 | Từ mười hai giờ chúng tôi nghỉ giải lao một tiếng.
+会議[かいぎ] | n | HỘI NGHỊ | cuộc họp | 会議[かいぎ] に 出[で]る | dự họp | 午後[ごご]、大切[たいせつ]な会議[かいぎ]に出[で]ます。 | Chiều nay tôi dự một cuộc họp quan trọng.
+工場[こうじょう] | n | CÔNG TRƯỜNG | nhà máy | - | - | この工場[こうじょう]では車[くるま]の部品[ぶひん]を作[つく]っています。 | Nhà máy này sản xuất linh kiện ô tô.
+事務所[じむしょ] | n | SỰ VỤ SỞ | văn phòng | - | - | 書類[しょるい]は事務所[じむしょ]に持[も]ってきてください。 | Hãy mang hồ sơ đến văn phòng.
+給料[きゅうりょう] | n | CẤP LIỆU | tiền lương | 給料[きゅうりょう] が 上[あ]がる | tăng lương | 来月[らいげつ]から給料[きゅうりょう]が上[あ]がります。 | Từ tháng sau tôi được tăng lương.
+残業[ざんぎょう] | n,v3 | TÀN NGHIỆP | làm thêm giờ | 残業[ざんぎょう] が 多[おお]い | làm thêm nhiều | 今月[こんげつ]は残業[ざんぎょう]が多[おお]くて大変[たいへん]です。 | Tháng này làm thêm nhiều, vất vả lắm.
+出張[しゅっちょう] | n,v3 | XUẤT TRƯƠNG | đi công tác | 出張[しゅっちょう] に 行[い]く | đi công tác | 来週[らいしゅう]、大阪[おおさか]へ出張[しゅっちょう]に行[い]きます。 | Tuần sau tôi đi công tác Osaka.
+遅刻[ちこく] | n,v3 | TRÌ KHẮC | đến muộn | 会議[かいぎ] に {遅刻[ちこく]} する | đến họp muộn | 電車[でんしゃ]が遅[おく]れて、会議[かいぎ]に遅刻[ちこく]しました。 | Tàu bị trễ nên tôi đến họp muộn.
+研修[けんしゅう] | n,v3 | NGHIÊN TU | đào tạo, thực tập | 研修[けんしゅう] を 受[う]ける | tham gia khóa đào tạo | 入社[にゅうしゃ]してから一[いっ]か月[げつ]、研修[けんしゅう]を受[う]けます。 | Sau khi vào công ty, tôi được đào tạo một tháng.
+手伝[てつだ]う | v1 | THỦ TRUYỀN | giúp đỡ | 仕事[しごと] を 手伝[てつだ]う | giúp việc | 先輩[せんぱい]が仕事[しごと]を手伝[てつだ]ってくれました。 | Đàn anh đã giúp tôi làm việc.
+頑張[がんば]る | v1 | NGOAN TRƯƠNG | cố gắng | 最後[さいご] まで 頑張[がんば]る | cố gắng đến cùng | 試験[しけん]まで最後[さいご]まで頑張[がんば]ります。 | Tôi sẽ cố gắng đến cùng cho đến kỳ thi.
+忙[いそが]しい | adj-i | MANG | bận rộn | 仕事[しごと] が 忙[いそが]しい | công việc bận | 年末[ねんまつ]は仕事[しごと]が忙[いそが]しいです。 | Cuối năm công việc bận rộn.
+暇[ひま] | adj-na | HẠ | rảnh rỗi | 暇[ひま] な 時[とき] | lúc rảnh | 暇[ひま]な時[とき]は何[なに]をしていますか。 | Lúc rảnh bạn làm gì?
+難[むずか]しい | adj-i | NAN | khó | 難[むずか]しい 問題[もんだい] | câu hỏi khó | この試験[しけん]には難[むずか]しい問題[もんだい]が多[おお]いです。 | Bài thi này có nhiều câu khó.
+易[やさ]しい | adj-i | DỊ | dễ | 易[やさ]しい 言葉[ことば] | từ ngữ dễ hiểu | 子供[こども]にも分[わ]かる易[やさ]しい言葉[ことば]で説明[せつめい]してください。 | Hãy giải thích bằng từ ngữ dễ đến trẻ con cũng hiểu.
+上手[じょうず] | adj-na | THƯỢNG THỦ | giỏi, khéo | 日本語[にほんご] が {上手[じょうず]} | giỏi tiếng Nhật | 「日本語[にほんご]が上手[じょうず]ですね。」「いいえ、まだまだです。」 | "Bạn giỏi tiếng Nhật nhỉ." "Không đâu, tôi còn kém lắm."
+下手[へた] | adj-na | HẠ THỦ | kém, vụng | 歌[うた] が {下手[へた]} | hát dở | 私[わたし]は歌[うた]が下手[へた]です。 | Tôi hát dở lắm.
+コピー | n,v3 | - | bản sao; phô tô | コピー を 取[と]る | phô tô tài liệu | この書類[しょるい]のコピーを三[さん]枚[まい]取[と]ってください。 | Hãy phô tô tài liệu này ba bản.

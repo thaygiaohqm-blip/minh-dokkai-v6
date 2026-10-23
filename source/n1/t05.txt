@@ -1,0 +1,273 @@
+@topic t05
+@ja 医学[いがく]・生命[せいめい]・身体[しんたい]
+@vi Y học, sự sống và cơ thể
+@desc Giải phẫu, bệnh tật, chẩn đoán, điều trị, sinh sản và y tế công cộng ở trình độ báo chí.
+発育[はついく] | n,v3 | PHÁT DỤC | sự phát triển (cơ thể) | {発育} が 早[はや]い | phát triển sớm | 子[こ]どもの発育[はついく]には十分[じゅうぶん]な睡眠[すいみん]が欠[か]かせない。 | Giấc ngủ đủ là không thể thiếu cho sự phát triển của trẻ.
+成長期[せいちょうき] | n | THÀNH TRƯỜNG KỲ | thời kỳ tăng trưởng, tuổi lớn | - | - | 成長[せいちょう]期[き]の子供[こども]はよく食[た]べる。 | Trẻ đang tuổi lớn ăn rất nhiều.
+思春期[ししゅんき] | n | TƯ XUÂN KỲ | tuổi dậy thì | - | - | 思春[ししゅん]期[き]には心[こころ]も体[からだ]も大[おお]きく変化[へんか]する。 | Ở tuổi dậy thì, cả tâm lý và cơ thể đều thay đổi lớn.
+更年期[こうねんき] | n | CANH NIÊN KỲ | thời kỳ mãn kinh | {更年期} 障害[しょうがい] | rối loạn tiền mãn kinh | 母[はは]は更年[こうねん]期[き]の症状[しょうじょう]に悩[なや]んでいる。 | Mẹ tôi khổ sở vì các triệu chứng thời kỳ mãn kinh.
+加齢[かれい] | n,v3 | GIA LINH | sự lão hóa theo tuổi | - | - | 加齢[かれい]とともに視力[しりょく]が衰[おとろ]えてきた。 | Thị lực suy giảm theo tuổi tác.
+摂取[せっしゅ] | n,v3 | NHIẾP THỦ | hấp thụ, nạp vào | 栄養[えいよう] を {摂取} する | nạp dinh dưỡng | 塩分[えんぶん]の摂取[せっしゅ]を控[ひか]えるよう医者[いしゃ]に言[い]われた。 | Bác sĩ dặn tôi hạn chế nạp muối.
+補給[ほきゅう] | n,v3 | BỔ CẤP | bổ sung, tiếp tế | 水分[すいぶん] {補給} | bổ sung nước | 運動[うんどう]中[ちゅう]はこまめな水分[すいぶん]補給[ほきゅう]が大切[たいせつ]だ。 | Trong lúc vận động, bổ sung nước thường xuyên là quan trọng.
+成分[せいぶん] | n | THÀNH PHẦN | thành phần | 有効[ゆうこう] {成分} | hoạt chất | この薬[くすり]にはどんな成分[せいぶん]が含[ふく]まれていますか。 | Thuốc này có những thành phần gì?
+添加[てんか] | n,v3 | THIÊM GIA | thêm vào | {添加} 物[ぶつ] | chất phụ gia | この食品[しょくひん]には保存料[ほぞんりょう]が添加[てんか]されていない。 | Thực phẩm này không thêm chất bảo quản.
+代謝[たいしゃ] | n,v3 | ĐẠI TẠ | trao đổi chất | - | - | 年[とし]を取[と]ると代謝[たいしゃ]が落[お]ちて太[ふと]りやすくなる。 | Có tuổi thì trao đổi chất giảm nên dễ béo.
+新陳代謝[しんちんたいしゃ] | n | TÂN TRẦN ĐẠI TẠ | sự trao đổi chất, thay cũ đổi mới | - | - | 運動[うんどう]すると新陳代謝[しんちんたいしゃ]が活発[かっぱつ]になる。 | Vận động làm quá trình trao đổi chất sôi động hơn.
+基礎[きそ]代謝[たいしゃ] | n | CƠ SỞ ĐẠI TẠ | chuyển hóa cơ bản | - | - | 筋肉[きんにく]を増[ふ]やせば基礎[きそ]代謝[たいしゃ]が上[あ]がる。 | Tăng cơ bắp thì chuyển hóa cơ bản sẽ tăng.
+排泄[はいせつ] | n,v3 | BÀI TIẾT | bài tiết | - | - | 腎臓[じんぞう]は老廃[ろうはい]物[ぶつ]を排泄[はいせつ]する働[はたら]きがある。 | Thận có chức năng bài tiết chất thải.
+分泌[ぶんぴつ] | n,v3 | PHÂN TIẾT | tiết ra | - | - | 緊張[きんちょう]するとアドレナリンが分泌[ぶんぴつ]される。 | Khi căng thẳng, adrenaline được tiết ra.
+ホルモン | n | - | hormone | {ホルモン} バランス | cân bằng nội tiết | ストレスでホルモンのバランスが崩[くず]れた。 | Căng thẳng làm mất cân bằng nội tiết.
+血糖値[けっとうち] | n | HUYẾT ĐƯỜNG TRỊ | chỉ số đường huyết | - | - | 食後[しょくご]に血糖[けっとう]値[ち]が急[きゅう]に上[あ]がった。 | Sau bữa ăn chỉ số đường huyết tăng vọt.
+コレステロール | n | - | cholesterol | - | - | 健康[けんこう]診断[しんだん]でコレステロールが高[たか]いと言[い]われた。 | Khám sức khỏe tôi bị bảo là cholesterol cao.
+心拍数[しんぱくすう] | n | TÂM PHÁCH SỐ | nhịp tim | - | - | 走[はし]ると心拍[しんぱく]数[すう]が上[あ]がる。 | Chạy làm nhịp tim tăng.
+体内[たいない] | n | THỂ NỘI | trong cơ thể | {体内} 時計[どけい] | đồng hồ sinh học | 朝日[あさひ]を浴[あ]びると体内[たいない]時計[どけい]がリセットされる。 | Tắm nắng sáng giúp đồng hồ sinh học được thiết lập lại.
+体液[たいえき] | n | THỂ DỊCH | dịch cơ thể | - | - | 感染[かんせん]者[しゃ]の体液[たいえき]に触[ふ]れないよう注意[ちゅうい]する。 | Chú ý không chạm vào dịch cơ thể người nhiễm bệnh.
+唾液[だえき] | n | THÓA DỊCH | nước bọt | - | - | よくかむと唾液[だえき]がたくさん出[で]る。 | Nhai kỹ sẽ tiết nhiều nước bọt.
+胃酸[いさん] | n | VỊ TOAN | axit dạ dày | - | - | 胃酸[いさん]が逆流[ぎゃくりゅう]して胸[むね]が痛[いた]い。 | Axit dạ dày trào ngược làm tôi đau ngực.
+胆汁[たんじゅう] | n | ĐẢM TRẤP | mật | - | - | 胆汁[たんじゅう]は脂肪[しぼう]の消化[しょうか]を助[たす]ける。 | Mật giúp tiêu hóa chất béo.
+胆[たん]のう | n | ĐẢM | túi mật | - | - | 胆[たん]のうに石[いし]ができて手術[しゅじゅつ]した。 | Bị sỏi túi mật nên tôi đã phẫu thuật.
+膵臓[すいぞう] | n | TỤY TẠNG | tuyến tụy | - | - | 膵臓[すいぞう]からインスリンが分泌[ぶんぴつ]される。 | Insulin được tiết ra từ tuyến tụy.
+脾臓[ひぞう] | n | TỲ TẠNG | lá lách | - | - | 事故[じこ]で脾臓[ひぞう]を損傷[そんしょう]した。 | Bị tổn thương lá lách do tai nạn.
+大腸[だいちょう] | n | ĐẠI TRÀNG | ruột già | {大腸} がん | ung thư đại tràng | 大腸[だいちょう]の検査[けんさ]を受[う]けた。 | Tôi đi kiểm tra đại tràng.
+小腸[しょうちょう] | n | TIỂU TRÀNG | ruột non | - | - | 栄養[えいよう]の多[おお]くは小腸[しょうちょう]で吸収[きゅうしゅう]される。 | Phần lớn chất dinh dưỡng được hấp thụ ở ruột non.
+十二指腸[じゅうにしちょう] | n | THẬP NHỊ CHỈ TRÀNG | tá tràng | - | - | ストレスで十二[じゅうに]指[し]腸[ちょう]潰瘍[かいよう]になった。 | Căng thẳng khiến tôi bị loét tá tràng.
+食道[しょくどう] | n | THỰC ĐẠO | thực quản | - | - | 熱[あつ]いものを飲[の]みすぎると食道[しょくどう]を傷[いた]める。 | Uống đồ quá nóng sẽ làm tổn thương thực quản.
+気管[きかん] | n | KHÍ QUẢN | khí quản | - | - | 食[た]べ物[もの]が気管[きかん]に入[はい]ってむせた。 | Thức ăn vào khí quản làm tôi sặc.
+気管支[きかんし] | n | KHÍ QUẢN CHI | phế quản | {気管支} 炎[えん] | viêm phế quản | 風邪[かぜ]をこじらせて気管[きかん]支[し]炎[えん]になった。 | Cảm nặng thêm thành viêm phế quản.
+声帯[せいたい] | n | THANH ĐỚI | dây thanh | - | - | 歌手[かしゅ]が声帯[せいたい]の手術[しゅじゅつ]を受[う]けた。 | Ca sĩ đã phẫu thuật dây thanh.
+扁桃腺[へんとうせん] | n | BIỂN ĐÀO TUYẾN | amidan | - | - | 扁桃腺[へんとうせん]が腫[は]れて熱[ねつ]が出[で]た。 | Amidan sưng lên và bị sốt.
+甲状腺[こうじょうせん] | n | GIÁP TRẠNG TUYẾN | tuyến giáp | - | - | 甲状腺[こうじょうせん]の病気[びょうき]で疲[つか]れやすくなる。 | Bệnh tuyến giáp khiến người dễ mệt.
+脊髄[せきずい] | n | TÍCH TỦY | tủy sống | - | - | 事故[じこ]で脊髄[せきずい]を損傷[そんしょう]した。 | Bị tổn thương tủy sống do tai nạn.
+脊椎[せきつい] | n | TÍCH CHÙY | cột sống | {脊椎} 動物[どうぶつ] | động vật có xương sống | 魚[さかな]も鳥[とり]も脊椎[せきつい]動物[どうぶつ]だ。 | Cá và chim đều là động vật có xương sống.
+背骨[せぼね] | n | BỐI CỐT | xương sống | - | - | 姿勢[しせい]が悪[わる]いと背骨[せぼね]が曲[ま]がる。 | Tư thế xấu sẽ làm cong xương sống.
+骨格[こっかく] | n | CỐT CÁCH | bộ xương, khung | - | - | 恐竜[きょうりゅう]の骨格[こっかく]標本[ひょうほん]が展示[てんじ]されている。 | Mẫu bộ xương khủng long đang được trưng bày.
+肋骨[ろっこつ] | n | LẶC CỐT | xương sườn | - | - | 転[ころ]んで肋骨[ろっこつ]にひびが入[はい]った。 | Ngã làm xương sườn bị rạn.
+鎖骨[さこつ] | n | TỎA CỐT | xương đòn | - | - | 自転車[じてんしゃ]で転倒[てんとう]して鎖骨[さこつ]を折[お]った。 | Ngã xe đạp nên bị gãy xương đòn.
+頭蓋骨[ずがいこつ] | n | ĐẦU CÁI CỐT | hộp sọ | - | - | 遺跡[いせき]から古代[こだい]人[じん]の頭蓋骨[ずがいこつ]が発見[はっけん]された。 | Hộp sọ người cổ đại được tìm thấy ở di chỉ.
+骨盤[こつばん] | n | CỐT BÀN | xương chậu | - | - | 出産[しゅっさん]後[ご]は骨盤[こつばん]がゆがみやすい。 | Sau sinh xương chậu dễ bị lệch.
+靭帯[じんたい] | n | NHẪN ĐỚI | dây chằng | - | - | サッカーの試合[しあい]中[ちゅう]に膝[ひざ]の靭帯[じんたい]を痛[いた]めた。 | Tôi bị đau dây chằng đầu gối khi đá bóng.
+腱[けん] | n | KIỆN | gân | アキレス {腱} | gân Achilles | 走[はし]っているときにアキレス腱[けん]を切[き]った。 | Tôi bị đứt gân Achilles khi đang chạy.
+大脳[だいのう] | n | ĐẠI NÃO | đại não | - | - | 大脳[だいのう]は思考[しこう]や記憶[きおく]をつかさどる。 | Đại não điều khiển tư duy và trí nhớ.
+小脳[しょうのう] | n | TIỂU NÃO | tiểu não | - | - | 小脳[しょうのう]は体[からだ]のバランスを保[たも]つ役割[やくわり]がある。 | Tiểu não có vai trò giữ thăng bằng cơ thể.
+脳波[のうは] | n | NÃO BA | sóng não | - | - | 睡眠[すいみん]中[ちゅう]の脳波[のうは]を測定[そくてい]した。 | Đo sóng não khi đang ngủ.
+神経[しんけい]細胞[さいぼう] | n | THẦN KINH TẾ BÀO | tế bào thần kinh | - | - | 脳[のう]には数[すう]百[ひゃく]億[おく]の神経[しんけい]細胞[さいぼう]がある。 | Não có hàng chục tỷ tế bào thần kinh.
+自律[じりつ]神経[しんけい] | n | TỰ LUẬT THẦN KINH | thần kinh tự chủ | - | - | 不規則[ふきそく]な生活[せいかつ]で自律[じりつ]神経[しんけい]が乱[みだ]れた。 | Sinh hoạt thất thường làm rối loạn thần kinh tự chủ.
+鼓膜[こまく] | n | CỔ MẠC | màng nhĩ | - | - | 大[おお]きな音[おと]で鼓膜[こまく]が破[やぶ]れることがある。 | Âm thanh lớn có thể làm thủng màng nhĩ.
+網膜[もうまく] | n | VÕNG MẠC | võng mạc | - | - | 網膜[もうまく]がはがれて緊急[きんきゅう]手術[しゅじゅつ]を受[う]けた。 | Bị bong võng mạc nên phải phẫu thuật khẩn cấp.
+角膜[かくまく] | n | GIÁC MẠC | giác mạc | - | - | コンタクトレンズで角膜[かくまく]に傷[きず]がついた。 | Kính áp tròng làm xước giác mạc.
+瞳孔[どうこう] | n | ĐỒNG KHỔNG | đồng tử | - | - | 暗[くら]いところでは瞳孔[どうこう]が開[ひら]く。 | Ở chỗ tối, đồng tử giãn ra.
+視線[しせん] | n | THỊ TUYẾN | ánh nhìn | {視線} を 感[かん]じる | cảm thấy ánh nhìn | 背後[はいご]から誰[だれ]かの視線[しせん]を感[かん]じた。 | Tôi cảm thấy ánh mắt của ai đó sau lưng.
+顔[かお]つき | n | NHAN | nét mặt, vẻ mặt | 真剣[しんけん] な {顔つき} | vẻ mặt nghiêm túc | 彼[かれ]は急[きゅう]に真剣[しんけん]な顔[かお]つきになった。 | Anh ấy bỗng có vẻ mặt nghiêm túc.
+嗅覚[きゅうかく] | n | KHỨU GIÁC | khứu giác | - | - | 犬[いぬ]の嗅覚[きゅうかく]は人間[にんげん]よりはるかに鋭[するど]い。 | Khứu giác của chó nhạy hơn người rất nhiều.
+触覚[しょっかく] | n | XÚC GIÁC | xúc giác | - | - | 目[め]の不自由[ふじゆう]な人[ひと]は触覚[しょっかく]で点字[てんじ]を読[よ]む。 | Người khiếm thị đọc chữ nổi bằng xúc giác.
+五感[ごかん] | n | NGŨ CẢM | năm giác quan | {五感} を 使[つか]う | dùng năm giác quan | 五感[ごかん]を使[つか]って自然[しぜん]を楽[たの]しもう。 | Hãy tận hưởng thiên nhiên bằng cả năm giác quan.
+毛穴[けあな] | n | MAO HUYỆT | lỗ chân lông | - | - | 毛穴[けあな]の汚[よご]れをきれいに落[お]とす。 | Làm sạch bụi bẩn trong lỗ chân lông.
+皮下[ひか]脂肪[しぼう] | n | BÌ HẠ CHI PHƯƠNG | mỡ dưới da | - | - | 女性[じょせい]は皮下[ひか]脂肪[しぼう]がつきやすい。 | Phụ nữ dễ tích mỡ dưới da.
+内臓[ないぞう]脂肪[しぼう] | n | NỘI TẠNG CHI PHƯƠNG | mỡ nội tạng | - | - | 内臓[ないぞう]脂肪[しぼう]は生活[せいかつ]習慣[しゅうかん]病[びょう]の原因[げんいん]になる。 | Mỡ nội tạng là nguyên nhân gây bệnh lối sống.
+体脂肪[たいしぼう] | n | THỂ CHI PHƯƠNG | mỡ cơ thể | {体脂肪} 率[りつ] | tỷ lệ mỡ | 体[たい]脂肪[しぼう]率[りつ]を毎朝[まいあさ]測[はか]っている。 | Mỗi sáng tôi đo tỷ lệ mỡ cơ thể.
+メタボ | n | - | hội chứng chuyển hóa | - | - | 父[ちち]は健康[けんこう]診断[しんだん]でメタボと言[い]われた。 | Bố tôi bị bảo mắc hội chứng chuyển hóa khi khám sức khỏe.
+体格[たいかく] | n | THỂ CÁCH | vóc dáng, thể hình | {体格} が いい | vóc dáng to khỏe | 彼[かれ]は体格[たいかく]がいいので柔道[じゅうどう]に向[む]いている。 | Cậu ấy vóc dáng to khỏe nên hợp với judo.
+病弱[びょうじゃく] | adj-na | BỆNH NHƯỢC | ốm yếu | - | - | 子供[こども]のころは病弱[びょうじゃく]で学校[がっこう]をよく休[やす]んだ。 | Hồi nhỏ tôi ốm yếu nên hay nghỉ học.
+難病[なんびょう] | n | NAN BỆNH | bệnh nan y | - | - | 難病[なんびょう]の患者[かんじゃ]を支援[しえん]する制度[せいど]がある。 | Có chế độ hỗ trợ bệnh nhân mắc bệnh nan y.
+不治[ふじ] | n | BẤT TRỊ | không chữa được | {不治} の 病[やまい] | bệnh không thể chữa | かつて結核[けっかく]は不治[ふじ]の病[やまい]と言[い]われた。 | Lao phổi từng được gọi là bệnh không thể chữa.
+疫病[えきびょう] | n | DỊCH BỆNH | dịch bệnh | - | - | 昔[むかし]の人[ひと]は疫病[えきびょう]を恐[おそ]れて祭[まつ]りを行[おこな]った。 | Người xưa sợ dịch bệnh nên tổ chức lễ hội.
+伝染病[でんせんびょう] | n | TRUYỀN NHIỄM BỆNH | bệnh truyền nhiễm | - | - | 伝染[でんせん]病[びょう]の流行[りゅうこう]を防[ふせ]ぐ。 | Ngăn chặn bệnh truyền nhiễm lây lan.
+疫学[えきがく] | n | DỊCH HỌC | dịch tễ học | {疫学} 調査[ちょうさ] | điều tra dịch tễ | 保健所[ほけんじょ]が疫学[えきがく]調査[ちょうさ]を行[おこな]っている。 | Trung tâm y tế đang điều tra dịch tễ.
+公衆[こうしゅう]衛生[えいせい] | n | CÔNG CHÚNG VỆ SINH | y tế công cộng | - | - | 上下水道[じょうげすいどう]の整備[せいび]で公衆[こうしゅう]衛生[えいせい]が向上[こうじょう]した。 | Hệ thống cấp thoát nước giúp y tế công cộng được cải thiện.
+病原体[びょうげんたい] | n | BỆNH NGUYÊN THỂ | mầm bệnh | - | - | 病原[びょうげん]体[たい]の正体[しょうたい]はまだ分[わ]かっていない。 | Bản chất của mầm bệnh vẫn chưa được làm rõ.
+抗原[こうげん] | n | KHÁNG NGUYÊN | kháng nguyên | {抗原} 検査[けんさ] | xét nghiệm kháng nguyên | 抗原[こうげん]検査[けんさ]の結果[けっか]は陰性[いんせい]だった。 | Kết quả xét nghiệm kháng nguyên là âm tính.
+感染者[かんせんしゃ] | n | CẢM NHIỄM GIẢ | người nhiễm bệnh | - | - | 新[あら]たな感染[かんせん]者[しゃ]は百[ひゃく]人[にん]を超[こ]えた。 | Số ca nhiễm mới vượt một trăm người.
+濃厚[のうこう]接触者[せっしょくしゃ] | n | NỒNG HẬU TIẾP XÚC GIẢ | người tiếp xúc gần | - | - | 濃厚[のうこう]接触[せっしょく]者[しゃ]は自宅[じたく]待機[たいき]となった。 | Người tiếp xúc gần phải chờ ở nhà.
+感染[かんせん]経路[けいろ] | n | CẢM NHIỄM KINH LỘ | con đường lây nhiễm | - | - | 感染[かんせん]経路[けいろ]が不明[ふめい]な患者[かんじゃ]が増[ふ]えている。 | Số bệnh nhân không rõ đường lây nhiễm đang tăng.
+飛沫[ひまつ] | n | PHI MẠT | giọt bắn | {飛沫} 感染[かんせん] | lây qua giọt bắn | マスクは飛沫[ひまつ]を防[ふせ]ぐのに効果[こうか]がある。 | Khẩu trang hiệu quả trong việc ngăn giọt bắn.
+院内[いんない]感染[かんせん] | n | VIỆN NỘI CẢM NHIỄM | lây nhiễm trong bệnh viện | - | - | 病院[びょういん]で院内[いんない]感染[かんせん]が発生[はっせい]した。 | Đã xảy ra lây nhiễm trong bệnh viện.
+パンデミック | n | - | đại dịch | - | - | パンデミックで世界[せかい]中[じゅう]の人々[ひとびと]の生活[せいかつ]が変[か]わった。 | Đại dịch làm thay đổi cuộc sống của mọi người khắp thế giới.
+終息[しゅうそく] | n,v3 | CHUNG TỨC | chấm dứt hẳn | - | - | 感染[かんせん]症[しょう]の終息[しゅうそく]にはまだ時間[じかん]がかかる。 | Dịch bệnh còn lâu mới chấm dứt hẳn.
+収束[しゅうそく] | n,v3 | THU THÚC | lắng xuống, được kiểm soát | 事態[じたい] が {収束} する | tình hình lắng xuống | 混乱[こんらん]はようやく収束[しゅうそく]に向[む]かった。 | Sự hỗn loạn cuối cùng đã dần lắng xuống.
+滅菌[めっきん] | n,v3 | DIỆT KHUẨN | tiệt trùng | - | - | 手術[しゅじゅつ]器具[きぐ]は使用[しよう]前[まえ]に滅菌[めっきん]される。 | Dụng cụ phẫu thuật được tiệt trùng trước khi dùng.
+抗菌[こうきん] | n | KHÁNG KHUẨN | kháng khuẩn | {抗菌} 加工[かこう] | xử lý kháng khuẩn | 抗菌[こうきん]加工[かこう]のまな板[いた]を買[か]った。 | Tôi mua thớt được xử lý kháng khuẩn.
+自覚[じかく]症状[しょうじょう] | n | TỰ GIÁC CHỨNG TRẠNG | triệu chứng tự nhận biết | - | - | この病気[びょうき]は初期[しょき]には自覚[じかく]症状[しょうじょう]がほとんどない。 | Bệnh này giai đoạn đầu hầu như không có triệu chứng tự nhận biết.
+動脈[どうみゃく] | n | ĐỘNG MẠCH | động mạch | - | - | 心臓[しんぞう]から送[おく]り出[だ]された血液[けつえき]は動脈[どうみゃく]を流[なが]れる。 | Máu được tim bơm ra chảy qua động mạch.
+静脈[じょうみゃく] | n | TĨNH MẠCH | tĩnh mạch | - | - | 腕[うで]の静脈[じょうみゃく]から採血[さいけつ]する。 | Lấy máu từ tĩnh mạch ở cánh tay.
+毛細[もうさい]血管[けっかん] | n | MAO TẾ HUYẾT QUẢN | mao mạch | - | - | 毛細[もうさい]血管[けっかん]は体[からだ]の隅々[すみずみ]まで広[ひろ]がっている。 | Mao mạch trải rộng đến mọi ngóc ngách cơ thể.
+動脈[どうみゃく]硬化[こうか] | n | ĐỘNG MẠCH NGẠNH HÓA | xơ vữa động mạch | - | - | 喫煙[きつえん]は動脈[どうみゃく]硬化[こうか]を進[すす]める。 | Hút thuốc thúc đẩy xơ vữa động mạch.
+血栓[けっせん] | n | HUYẾT XUYÊN | cục máu đông | - | - | 長時間[ちょうじかん]座[すわ]っていると血栓[けっせん]ができやすい。 | Ngồi lâu dễ hình thành cục máu đông.
+脳梗塞[のうこうそく] | n | NÃO NGẠNH TẮC | nhồi máu não | - | - | 祖父[そふ]は脳梗塞[のうこうそく]で倒[たお]れた。 | Ông tôi bị nhồi máu não và ngã quỵ.
+血小板[けっしょうばん] | n | HUYẾT TIỂU BẢN | tiểu cầu | - | - | 血小板[けっしょうばん]は出血[しゅっけつ]を止[と]める働[はたら]きをする。 | Tiểu cầu có chức năng cầm máu.
+赤血球[せっけっきゅう] | n | XÍCH HUYẾT CẦU | hồng cầu | - | - | 赤血球[せっけっきゅう]が少[すく]ないと貧血[ひんけつ]になる。 | Hồng cầu ít sẽ bị thiếu máu.
+白血球[はっけっきゅう] | n | BẠCH HUYẾT CẦU | bạch cầu | - | - | 白血球[はっけっきゅう]は細菌[さいきん]と戦[たたか]う。 | Bạch cầu chiến đấu với vi khuẩn.
+白血病[はっけつびょう] | n | BẠCH HUYẾT BỆNH | bệnh bạch cầu | - | - | 白血[はっけつ]病[びょう]の治療[ちりょう]には骨髄[こつずい]移植[いしょく]が有効[ゆうこう]だ。 | Ghép tủy xương có hiệu quả trong điều trị bệnh bạch cầu.
+血行[けっこう] | n | HUYẾT HÀNH | tuần hoàn máu | {血行} が よく なる | máu lưu thông tốt | お風呂[ふろ]に入[はい]ると血行[けっこう]がよくなる。 | Tắm bồn giúp máu lưu thông tốt hơn.
+血流[けつりゅう] | n | HUYẾT LƯU | dòng máu | - | - | マッサージで血流[けつりゅう]を改善[かいぜん]する。 | Cải thiện lưu lượng máu bằng mát-xa.
+血色[けっしょく] | n | HUYẾT SẮC | sắc mặt hồng hào | {血色} が いい | sắc mặt hồng hào | 退院[たいいん]した祖母[そぼ]は血色[けっしょく]がよくなった。 | Bà tôi ra viện, sắc mặt hồng hào hơn.
+呼吸器[こきゅうき] | n | HÔ HẤP KHÍ | cơ quan hô hấp | - | - | 大気[たいき]汚染[おせん]は呼吸[こきゅう]器[き]の病気[びょうき]を引[ひ]き起[お]こす。 | Ô nhiễm không khí gây bệnh đường hô hấp.
+循環器[じゅんかんき] | n | TUẦN HOÀN KHÍ | hệ tuần hoàn | {循環器} 内科[ないか] | khoa tim mạch | 循環[じゅんかん]器[き]内科[ないか]で心臓[しんぞう]の検査[けんさ]を受[う]けた。 | Tôi khám tim ở khoa nội tim mạch.
+消化器[しょうかき] | n | TIÊU HÓA KHÍ | cơ quan tiêu hóa | - | - | 消化[しょうか]器[き]の専門[せんもん]医[い]に診[み]てもらった。 | Tôi được bác sĩ chuyên khoa tiêu hóa khám.
+泌尿器[ひにょうき] | n | BÍ NIỆU KHÍ | hệ tiết niệu | {泌尿器} 科[か] | khoa tiết niệu | 泌尿[ひにょう]器[き]科[か]で腎臓[じんぞう]の石[いし]が見[み]つかった。 | Khoa tiết niệu phát hiện sỏi thận.
+生殖[せいしょく] | n,v3 | SINH THỰC | sinh sản | {生殖} 機能[きのう] | chức năng sinh sản | 生物[せいぶつ]は生殖[せいしょく]によって子孫[しそん]を残[のこ]す。 | Sinh vật để lại con cháu nhờ sinh sản.
+受精[じゅせい] | n,v3 | THỤ TINH | thụ tinh | {受精} 卵[らん] | trứng đã thụ tinh | 受精[じゅせい]卵[らん]が子宮[しきゅう]に着床[ちゃくしょう]する。 | Trứng đã thụ tinh làm tổ trong tử cung.
+胎児[たいじ] | n | THAI NHI | thai nhi | - | - | 超音波[ちょうおんぱ]で胎児[たいじ]の様子[ようす]を確認[かくにん]した。 | Kiểm tra tình trạng thai nhi bằng siêu âm.
+羊水[ようすい] | n | DƯƠNG THỦY | nước ối | - | - | 胎児[たいじ]は羊水[ようすい]の中[なか]で育[そだ]つ。 | Thai nhi lớn lên trong nước ối.
+つわり | n | - | ốm nghén | - | - | 妊娠[にんしん]初期[しょき]はつわりがひどかった。 | Đầu thai kỳ tôi ốm nghén nặng.
+陣痛[じんつう] | n | TRẬN THỐNG | cơn đau đẻ | - | - | 夜中[よなか]に陣痛[じんつう]が始[はじ]まって病院[びょういん]へ向[む]かった。 | Nửa đêm bắt đầu đau đẻ nên tôi tới bệnh viện.
+分娩[ぶんべん] | n,v3 | PHÂN MIỄN | sinh nở | {分娩} 室[しつ] | phòng sinh | 夫[おっと]は分娩[ぶんべん]に立[た]ち会[あ]った。 | Người chồng có mặt lúc vợ sinh.
+帝王[ていおう]切開[せっかい] | n | ĐẾ VƯƠNG THIẾT KHAI | sinh mổ | - | - | 逆子[さかご]だったので帝王[ていおう]切開[せっかい]で出産[しゅっさん]した。 | Do ngôi ngược nên tôi sinh mổ.
+産後[さんご] | n | SẢN HẬU | sau sinh | - | - | 産後[さんご]は無理[むり]をせず体[からだ]を休[やす]めてください。 | Sau sinh đừng gắng sức, hãy nghỉ ngơi.
+不妊[ふにん] | n | BẤT NHÂM | vô sinh | - | - | 不妊[ふにん]に悩[なや]む夫婦[ふうふ]は少[すく]なくない。 | Không ít cặp vợ chồng phiền muộn vì vô sinh.
+不妊[ふにん]治療[ちりょう] | n | BẤT NHÂM TRỊ LIỆU | điều trị vô sinh | - | - | 五[ご]年[ねん]間[かん]の不妊[ふにん]治療[ちりょう]の末[すえ]、子供[こども]を授[さず]かった。 | Sau năm năm điều trị vô sinh, họ đã có con.
+流産[りゅうざん] | n,v3 | LƯU SẢN | sảy thai | - | - | 無理[むり]をすると流産[りゅうざん]の危険[きけん]がある。 | Gắng sức quá có nguy cơ sảy thai.
+早産[そうざん] | n,v3 | TẢO SẢN | sinh non | - | - | 早産[そうざん]で生[う]まれた赤[あか]ちゃんは保育器[ほいくき]に入[い]れられた。 | Em bé sinh non được đưa vào lồng ấp.
+新生児[しんせいじ] | n | TÂN SINH NHI | trẻ sơ sinh | - | - | 新生[しんせい]児[じ]は一日[いちにち]の大半[たいはん]を眠[ねむ]って過[す]ごす。 | Trẻ sơ sinh ngủ hầu hết thời gian trong ngày.
+乳児[にゅうじ] | n | NHŨ NHI | trẻ còn bú | - | - | 乳児[にゅうじ]にははちみつを与[あた]えてはいけない。 | Không được cho trẻ còn bú ăn mật ong.
+授乳[じゅにゅう] | n,v3 | THỤ NHŨ | cho bú | {授乳} 室[しつ] | phòng cho con bú | デパートには授乳[じゅにゅう]室[しつ]がある。 | Trung tâm thương mại có phòng cho con bú.
+母乳[ぼにゅう] | n | MẪU NHŨ | sữa mẹ | - | - | 母乳[ぼにゅう]には赤[あか]ちゃんを守[まも]る成分[せいぶん]が含[ふく]まれている。 | Sữa mẹ chứa thành phần bảo vệ em bé.
+生理[せいり] | n | SINH LÝ | sinh lý; kinh nguyệt | {生理} 現象[げんしょう] | hiện tượng sinh lý | あくびは生理[せいり]現象[げんしょう]だから仕方[しかた]がない。 | Ngáp là hiện tượng sinh lý nên không tránh được.
+生理的[せいりてき] | adj-na | SINH LÝ ĐÍCH | mang tính sinh lý, bản năng | {生理的} に 受[う]け付[つ]けない | không chịu nổi theo bản năng | どうしてもその匂[にお]いは生理[せいり]的[てき]に受[う]け付[つ]けない。 | Mùi đó tôi theo bản năng không chịu nổi.
+月経[げっけい] | n | NGUYỆT KINH | kinh nguyệt | - | - | 月経[げっけい]痛[つう]がひどいので婦人科[ふじんか]に行[い]った。 | Đau bụng kinh nặng nên tôi đi khám phụ khoa.
+問診[もんしん] | n,v3 | VẤN CHẨN | hỏi bệnh | {問診} 票[ひょう] | phiếu hỏi bệnh | 受付[うけつけ]で問診[もんしん]票[ひょう]に記入[きにゅう]してください。 | Vui lòng điền phiếu hỏi bệnh ở quầy tiếp nhận.
+触診[しょくしん] | n,v3 | XÚC CHẨN | khám bằng tay | - | - | 医師[いし]は触診[しょくしん]でしこりを見[み]つけた。 | Bác sĩ phát hiện khối u nhờ khám bằng tay.
+聴診[ちょうしん] | n,v3 | THÍNH CHẨN | nghe chẩn | {聴診} 器[き] | ống nghe | 医者[いしゃ]は聴診[ちょうしん]器[き]を胸[むね]に当[あ]てた。 | Bác sĩ đặt ống nghe lên ngực.
+内視鏡[ないしきょう] | n | NỘI THỊ KÍNH | nội soi | {内視鏡} 検査[けんさ] | nội soi | 内視[ないし]鏡[きょう]で胃[い]の中[なか]を調[しら]べた。 | Kiểm tra bên trong dạ dày bằng nội soi.
+超音波[ちょうおんぱ] | n | SIÊU ÂM BA | sóng siêu âm | {超音波} 検査[けんさ] | siêu âm | 超音波[ちょうおんぱ]検査[けんさ]で肝臓[かんぞう]に異常[いじょう]が見[み]つかった。 | Siêu âm phát hiện bất thường ở gan.
+MRI | n | - | chụp cộng hưởng từ | - | - | 頭[あたま]のMRI検査[けんさ]を受[う]けた。 | Tôi đã chụp cộng hưởng từ đầu.
+血液[けつえき]検査[けんさ] | n | HUYẾT DỊCH KIỂM TRA | xét nghiệm máu | - | - | 血液[けつえき]検査[けんさ]の結果[けっか]は一週間[いっしゅうかん]後[ご]に出[で]る。 | Kết quả xét nghiệm máu có sau một tuần.
+生検[せいけん] | n | SINH KIỂM | sinh thiết | - | - | 腫瘍[しゅよう]が悪性[あくせい]かどうか生検[せいけん]で調[しら]べる。 | Sinh thiết để xem khối u ác tính hay không.
+悪性[あくせい] | n | ÁC TÍNH | ác tính | {悪性} 腫瘍[しゅよう] | khối u ác tính | 検査[けんさ]の結果[けっか]、悪性[あくせい]ではなかった。 | Kết quả kiểm tra không phải ác tính.
+良性[りょうせい] | n | LƯƠNG TÍNH | lành tính | - | - | 見[み]つかったのは良性[りょうせい]のポリープだった。 | Thứ được phát hiện là polyp lành tính.
+転移[てんい] | n,v3 | CHUYỂN DI | di căn | - | - | がんが肺[はい]に転移[てんい]していた。 | Ung thư đã di căn sang phổi.
+早期[そうき]発見[はっけん] | n | TẢO KỲ PHÁT KIẾN | phát hiện sớm | - | - | がんは早期[そうき]発見[はっけん]が何[なに]より大切[たいせつ]だ。 | Với ung thư, phát hiện sớm quan trọng hơn hết.
+予後[よご] | n | DỰ HẬU | tiên lượng, sau điều trị | - | - | この病気[びょうき]は早[はや]く治療[ちりょう]すれば予後[よご]がいい。 | Bệnh này nếu điều trị sớm thì tiên lượng tốt.
+経過[けいか]観察[かんさつ] | n | KINH QUÁ QUAN SÁT | theo dõi diễn biến | - | - | 手術[しゅじゅつ]はせず、しばらく経過[けいか]観察[かんさつ]することになった。 | Không mổ, sẽ theo dõi diễn biến một thời gian.
+投与[とうよ] | n,v3 | ĐẦU DỮ | dùng thuốc, cho thuốc | 薬[くすり] を {投与} する | cho dùng thuốc | 患者[かんじゃ]に新[あたら]しい薬[くすり]が投与[とうよ]された。 | Bệnh nhân được cho dùng thuốc mới.
+全身[ぜんしん]麻酔[ますい] | n | TOÀN THÂN MA TÚY | gây mê toàn thân | - | - | 手術[しゅじゅつ]は全身[ぜんしん]麻酔[ますい]で行[おこな]われた。 | Ca mổ được tiến hành dưới gây mê toàn thân.
+局所[きょくしょ]麻酔[ますい] | n | CỤC SỞ MA TÚY | gây tê cục bộ | - | - | 歯[は]を抜[ぬ]くときに局所[きょくしょ]麻酔[ますい]をした。 | Khi nhổ răng tôi được gây tê cục bộ.
+執刀[しっとう] | n,v3 | CHẤP ĐAO | cầm dao mổ | {執刀} 医[い] | bác sĩ mổ chính | 手術[しゅじゅつ]はベテランの医師[いし]が執刀[しっとう]した。 | Ca mổ do bác sĩ kỳ cựu cầm dao.
+切開[せっかい] | n,v3 | THIẾT KHAI | rạch, mổ | - | - | 腹部[ふくぶ]を小[ちい]さく切開[せっかい]して手術[しゅじゅつ]する。 | Rạch một đường nhỏ ở bụng để mổ.
+縫合[ほうごう] | n,v3 | PHÙNG HỢP | khâu vết thương | - | - | 傷口[きずぐち]を五[ご]針[はり]縫合[ほうごう]した。 | Vết thương được khâu năm mũi.
+療法[りょうほう] | n | LIỆU PHÁP | liệu pháp | 食事[しょくじ] {療法} | liệu pháp ăn uống | 糖尿[とうにょう]病[びょう]は食事[しょくじ]療法[りょうほう]が基本[きほん]だ。 | Với tiểu đường, liệu pháp ăn uống là cơ bản.
+化学[かがく]療法[りょうほう] | n | HÓA HỌC LIỆU PHÁP | hóa trị | - | - | 化学[かがく]療法[りょうほう]の副作用[ふくさよう]で髪[かみ]が抜[ぬ]けた。 | Do tác dụng phụ của hóa trị, tóc bị rụng.
+放射線[ほうしゃせん]治療[ちりょう] | n | PHÓNG XẠ TUYẾN TRỊ LIỆU | xạ trị | - | - | 手術[しゅじゅつ]の後[あと]、放射[ほうしゃ]線[せん]治療[ちりょう]を受[う]けた。 | Sau phẫu thuật tôi được xạ trị.
+理学[りがく]療法[りょうほう] | n | LÝ HỌC LIỆU PHÁP | vật lý trị liệu | {理学療法} 士[し] | chuyên viên vật lý trị liệu | 理学[りがく]療法[りょうほう]士[し]の指導[しどう]で歩[ある]く練習[れんしゅう]をしている。 | Tôi tập đi theo hướng dẫn của chuyên viên vật lý trị liệu.
+臓器[ぞうき]移植[いしょく] | n | TẠNG KHÍ DI THỰC | ghép tạng | - | - | 臓器[ぞうき]移植[いしょく]を待[ま]つ患者[かんじゃ]は多[おお]い。 | Rất nhiều bệnh nhân đang chờ ghép tạng.
+ドナー | n | - | người hiến tặng | {ドナー} カード | thẻ hiến tạng | 骨髄[こつずい]バンクにドナー登録[とうろく]をした。 | Tôi đã đăng ký làm người hiến tủy.
+集中[しゅうちゅう]治療室[ちりょうしつ] | n | TẬP TRUNG TRỊ LIỆU THẤT | phòng chăm sóc đặc biệt | - | - | 事故[じこ]の後[あと]、集中[しゅうちゅう]治療[ちりょう]室[しつ]に運[はこ]ばれた。 | Sau tai nạn, anh được đưa vào phòng chăm sóc đặc biệt.
+救命[きゅうめい]救急[きゅうきゅう] | n | CỨU MỆNH CỨU CẤP | cấp cứu hồi sức | {救命救急} センター | trung tâm cấp cứu | 救命[きゅうめい]救急[きゅうきゅう]センターに患者[かんじゃ]が次々[つぎつぎ]と運[はこ]ばれてくる。 | Bệnh nhân liên tục được đưa đến trung tâm cấp cứu.
+心肺[しんぱい]蘇生[そせい] | n | TÂM PHẾ TÔ SINH | hồi sức tim phổi | - | - | 救急[きゅうきゅう]隊[たい]が到着[とうちゃく]するまで心肺[しんぱい]蘇生[そせい]を続[つづ]けた。 | Tiếp tục hồi sức tim phổi cho đến khi cứu thương tới.
+AED | n | - | máy khử rung tim tự động | - | - | 駅[えき]や学校[がっこう]にはAEDが設置[せっち]されている。 | Máy khử rung tim được đặt ở nhà ga và trường học.
+昏睡[こんすい] | n,v3 | HÔN THỤY | hôn mê | {昏睡} 状態[じょうたい] | tình trạng hôn mê | 彼[かれ]は事故[じこ]の後[あと]、三日[みっか]間[かん]昏睡[こんすい]状態[じょうたい]だった。 | Sau tai nạn anh ấy hôn mê ba ngày.
+植物[しょくぶつ]状態[じょうたい] | n | THỰC VẬT TRẠNG THÁI | trạng thái thực vật | - | - | 患者[かんじゃ]は植物[しょくぶつ]状態[じょうたい]が続[つづ]いている。 | Bệnh nhân vẫn ở trạng thái thực vật.
+脳死[のうし] | n | NÃO TỬ | chết não | - | - | 脳死[のうし]と判定[はんてい]された患者[かんじゃ]から臓器[ぞうき]が提供[ていきょう]された。 | Nội tạng được hiến từ bệnh nhân được xác định chết não.
+尊厳死[そんげんし] | n | TÔN NGHIÊM TỬ | cái chết nhân phẩm | - | - | 尊厳[そんげん]死[し]を望[のぞ]む人[ひと]が増[ふ]えている。 | Ngày càng nhiều người mong muốn được ra đi có nhân phẩm.
+延命[えんめい]治療[ちりょう] | n | DIÊN MỆNH TRỊ LIỆU | điều trị kéo dài sự sống | - | - | 父[ちち]は延命[えんめい]治療[ちりょう]を望[のぞ]まなかった。 | Bố tôi không muốn điều trị kéo dài sự sống.
+終末期[しゅうまつき] | n | CHUNG MẠT KỲ | giai đoạn cuối đời | {終末期} 医療[いりょう] | y tế giai đoạn cuối | 終末[しゅうまつ]期[き]の患者[かんじゃ]には心[こころ]のケアも必要[ひつよう]だ。 | Bệnh nhân giai đoạn cuối cũng cần chăm sóc tinh thần.
+緩和[かんわ]ケア | n | HOÃN HÒA | chăm sóc giảm nhẹ | - | - | 緩和[かんわ]ケアで痛[いた]みを和[やわ]らげる。 | Làm dịu cơn đau bằng chăm sóc giảm nhẹ.
+ホスピス | n | - | nhà chăm sóc cuối đời | - | - | 祖母[そぼ]は最期[さいご]をホスピスで過[す]ごした。 | Bà tôi trải qua những ngày cuối ở nhà chăm sóc cuối đời.
+看取[みと]り | n | KHÁN THỦ | chăm sóc lúc lâm chung | - | - | 自宅[じたく]での看取[みと]りを選[えら]ぶ家族[かぞく]もいる。 | Có gia đình chọn chăm người thân lúc lâm chung tại nhà.
+余命[よめい] | n | DƯ MỆNH | thời gian sống còn lại | {余命} 半年[はんとし] | còn sống nửa năm | 医者[いしゃ]から余命[よめい]一[いち]年[ねん]と告[つ]げられた。 | Bác sĩ báo chỉ còn sống được một năm.
+インフォームドコンセント | n | - | sự đồng ý sau khi được giải thích | - | - | 治療[ちりょう]前[まえ]にインフォームドコンセントを得[え]る必要[ひつよう]がある。 | Trước khi điều trị cần có sự đồng ý sau khi được giải thích.
+臨床[りんしょう] | n | LÂM SÀNG | lâm sàng | {臨床} 医[い] | bác sĩ lâm sàng | 彼[かれ]は研究[けんきゅう]より臨床[りんしょう]の現場[げんば]を選[えら]んだ。 | Ông chọn công việc lâm sàng thay vì nghiên cứu.
+臨床[りんしょう]試験[しけん] | n | LÂM SÀNG THÍ NGHIỆM | thử nghiệm lâm sàng | - | - | 新薬[しんやく]の臨床[りんしょう]試験[しけん]が始[はじ]まった。 | Thử nghiệm lâm sàng thuốc mới đã bắt đầu.
+治験[ちけん] | n | TRỊ NGHIỆM | thử nghiệm thuốc trên người | - | - | 治験[ちけん]に参加[さんか]するボランティアを募集[ぼしゅう]している。 | Đang tuyển tình nguyện viên tham gia thử nghiệm thuốc.
+新薬[しんやく] | n | TÂN DƯỢC | thuốc mới | - | - | 新薬[しんやく]の開発[かいはつ]には十[じゅう]年[ねん]以上[いじょう]かかる。 | Phát triển thuốc mới mất trên mười năm.
+創薬[そうやく] | n | SÁNG DƯỢC | nghiên cứu phát triển thuốc | - | - | AIを使[つか]った創薬[そうやく]が注目[ちゅうもく]されている。 | Phát triển thuốc bằng AI đang được chú ý.
+漢方薬[かんぽうやく] | n | HÁN PHƯƠNG DƯỢC | thuốc Đông y | - | - | 体質[たいしつ]改善[かいぜん]のために漢方[かんぽう]薬[やく]を飲[の]んでいる。 | Tôi uống thuốc Đông y để cải thiện thể trạng.
+西洋[せいよう]医学[いがく] | n | TÂY DƯƠNG Y HỌC | Tây y | - | - | 西洋[せいよう]医学[いがく]と東洋[とうよう]医学[いがく]を組[く]み合[あ]わせた治療[ちりょう]を行[おこな]う。 | Áp dụng điều trị kết hợp Tây y và Đông y.
+東洋[とうよう]医学[いがく] | n | ĐÔNG DƯƠNG Y HỌC | Đông y | - | - | 鍼灸[しんきゅう]は東洋[とうよう]医学[いがく]の一[ひと]つだ。 | Châm cứu là một phần của Đông y.
+医療[いりょう]過誤[かご] | n | Y LIỆU QUÁ NGỘ | sai sót y khoa | - | - | 医療[いりょう]過誤[かご]で病院[びょういん]が訴[うった]えられた。 | Bệnh viện bị kiện vì sai sót y khoa.
+開業医[かいぎょうい] | n | KHAI NGHIỆP Y | bác sĩ mở phòng khám tư | - | - | 父[ちち]は町[まち]の開業[かいぎょう]医[い]として働[はたら]いている。 | Bố tôi làm bác sĩ mở phòng khám trong thị trấn.
+勤務医[きんむい] | n | CẦN VỤ Y | bác sĩ làm cho bệnh viện | - | - | 勤務[きんむ]医[い]の長時間[ちょうじかん]労働[ろうどう]が問題[もんだい]になっている。 | Thời gian làm việc dài của bác sĩ bệnh viện đang là vấn đề.
+専門医[せんもんい] | n | CHUYÊN MÔN Y | bác sĩ chuyên khoa | - | - | 心臓[しんぞう]の専門[せんもん]医[い]を紹介[しょうかい]してもらった。 | Tôi được giới thiệu bác sĩ chuyên khoa tim.
+研修医[けんしゅうい] | n | NGHIÊN TU Y | bác sĩ nội trú | - | - | 研修[けんしゅう]医[い]は先輩[せんぱい]医師[いし]について学[まな]ぶ。 | Bác sĩ nội trú học tập theo các bác sĩ đàn anh.
+車[くるま]いす | n | XA | xe lăn | - | - | 駅[えき]には車[くるま]いすで利用[りよう]できるエレベーターがある。 | Nhà ga có thang máy dùng được cho xe lăn.
+松葉[まつば]づえ | n | TÙNG DIỆP | nạng | - | - | 骨折[こっせつ]して一[いっ]か月[げつ]松葉[まつば]づえで生活[せいかつ]した。 | Bị gãy xương, tôi phải chống nạng một tháng.
+義足[ぎそく] | n | NGHĨA TÚC | chân giả | - | - | 彼[かれ]は義足[ぎそく]でパラリンピックに出場[しゅつじょう]した。 | Anh ấy thi đấu Paralympic bằng chân giả.
+義手[ぎしゅ] | n | NGHĨA THỦ | tay giả | - | - | 最新[さいしん]の義手[ぎしゅ]は指[ゆび]を細[こま]かく動[うご]かせる。 | Tay giả mới nhất có thể cử động ngón tay chi tiết.
+補聴器[ほちょうき] | n | BỔ THÍNH KHÍ | máy trợ thính | - | - | 祖父[そふ]は補聴[ほちょう]器[き]をつけるようになった。 | Ông tôi bắt đầu đeo máy trợ thính.
+床[とこ]ずれ | n | SÀNG | loét do nằm lâu | - | - | 寝[ね]たきりの人[ひと]は床[とこ]ずれに注意[ちゅうい]が必要[ひつよう]だ。 | Người nằm liệt giường cần chú ý loét do nằm lâu.
+嚥下[えんげ] | n,v3 | YẾN HẠ | nuốt | {嚥下} 障害[しょうがい] | rối loạn nuốt | 高齢[こうれい]になると嚥下[えんげ]機能[きのう]が低下[ていか]する。 | Khi cao tuổi, chức năng nuốt suy giảm.
+誤嚥[ごえん] | n,v3 | NGỘ YẾN | hít sặc | {誤嚥} 性[せい] 肺炎[はいえん] | viêm phổi do hít sặc | 高齢者[こうれいしゃ]は誤嚥[ごえん]性[せい]肺炎[はいえん]になりやすい。 | Người cao tuổi dễ bị viêm phổi do hít sặc.
+咀嚼[そしゃく] | n,v3 | TRỚ TƯỚC | nhai; nghiền ngẫm | - | - | よく咀嚼[そしゃく]すると消化[しょうか]がよくなる。 | Nhai kỹ giúp tiêu hóa tốt hơn.
+かゆみ | n | - | ngứa | - | - | 虫[むし]に刺[さ]されたところにかゆみがある。 | Chỗ bị côn trùng đốt bị ngứa.
+発疹[ほっしん] | n | PHÁT CHẨN | phát ban | - | - | 薬[くすり]を飲[の]んだら全身[ぜんしん]に発疹[ほっしん]が出[で]た。 | Uống thuốc xong thì nổi ban khắp người.
+湿疹[しっしん] | n | THẤP CHẨN | chàm, eczema | - | - | 乾燥[かんそう]で手[て]に湿疹[しっしん]ができた。 | Do khô da nên tay bị chàm.
+じんましん | n | - | mề đay | - | - | エビを食[た]べるとじんましんが出[で]る。 | Ăn tôm là tôi nổi mề đay.
+アトピー | n | - | viêm da cơ địa | - | - | 子供[こども]のアトピーに悩[なや]む親[おや]は多[おお]い。 | Nhiều cha mẹ khổ tâm vì con bị viêm da cơ địa.
+水虫[みずむし] | n | THỦY TRÙNG | nấm chân | - | - | 夏[なつ]になると水虫[みずむし]が悪化[あっか]する。 | Mùa hè nấm chân trở nặng.
+歯周病[ししゅうびょう] | n | XỈ CHU BỆNH | bệnh nha chu | - | - | 歯周[ししゅう]病[びょう]は大人[おとな]が歯[は]を失[うしな]う最大[さいだい]の原因[げんいん]だ。 | Bệnh nha chu là nguyên nhân lớn nhất khiến người lớn mất răng.
+口内炎[こうないえん] | n | KHẨU NỘI VIÊM | nhiệt miệng | - | - | 疲[つか]れがたまると口内[こうない]炎[えん]ができる。 | Mệt mỏi tích tụ là tôi bị nhiệt miệng.
+ぜんそく | n | - | hen suyễn | - | - | 子供[こども]のころからぜんそくの持病[じびょう]がある。 | Tôi bị hen suyễn từ nhỏ.
+痰[たん] | n | ĐÀM | đờm | - | - | 風邪[かぜ]で痰[たん]が絡[から]んで声[こえ]が出[で]にくい。 | Cảm làm đờm vướng nên khó cất tiếng.
+息切[いきぎ]れ | n,v3 | TỨC THIẾT | hụt hơi | - | - | 階段[かいだん]を上[のぼ]ると息切[いきぎ]れがする。 | Leo cầu thang là tôi hụt hơi.
+動悸[どうき] | n | ĐỘNG QUÝ | tim đập nhanh, hồi hộp | - | - | 急[きゅう]に動悸[どうき]がして不安[ふあん]になった。 | Tim đột nhiên đập nhanh khiến tôi bất an.
+胸焼[むねや]け | n,v3 | HUNG THIÊU | ợ nóng | - | - | 脂[あぶら]っこいものを食[た]べると胸焼[むねや]けがする。 | Ăn đồ nhiều dầu mỡ là tôi bị ợ nóng.
+むくみ | n | - | phù nề | - | - | 立[た]ち仕事[しごと]で足[あし]にむくみが出[で]る。 | Đứng làm việc lâu nên chân bị phù.
+腫[は]れ | n | THŨNG | sưng | - | - | 冷[ひ]やしたら腫[は]れが引[ひ]いた。 | Chườm lạnh xong vết sưng đã giảm.
+内出血[ないしゅっけつ] | n,v3 | NỘI XUẤT HUYẾT | xuất huyết trong, bầm tím | - | - | ぶつけたところが内出血[ないしゅっけつ]して青[あお]くなった。 | Chỗ bị va bị bầm tím xanh.
+脱臼[だっきゅう] | n,v3 | THOÁT CỮU | trật khớp | - | - | 転[ころ]んで肩[かた]を脱臼[だっきゅう]した。 | Ngã bị trật khớp vai.
+凍傷[とうしょう] | n | ĐỐNG THƯƠNG | tê cóng | - | - | 冬山[ふゆやま]で手足[てあし]が凍傷[とうしょう]になった。 | Tay chân bị tê cóng trên núi mùa đông.
+脱水[だっすい]症状[しょうじょう] | n | THOÁT THỦY CHỨNG TRẠNG | triệu chứng mất nước | - | - | 下痢[げり]が続[つづ]いて脱水[だっすい]症状[しょうじょう]を起[お]こした。 | Tiêu chảy kéo dài gây mất nước.
+嘔吐[おうと] | n,v3 | ẨU THỔ | nôn mửa | - | - | 食中毒[しょくちゅうどく]で激[はげ]しい嘔吐[おうと]が続[つづ]いた。 | Bị ngộ độc thực phẩm, nôn mửa dữ dội liên tục.
+偏頭痛[へんずつう] | n | THIÊN ĐẦU THỐNG | đau nửa đầu | - | - | 天気[てんき]が悪[わる]いと偏[へん]頭痛[ずつう]がする。 | Thời tiết xấu là tôi bị đau nửa đầu.
+しびれ | n | - | tê | - | - | 長[なが]く正座[せいざ]して足[あし]にしびれがきた。 | Ngồi quỳ lâu nên chân bị tê.
+けいれん | n,v3 | - | co giật | - | - | 高熱[こうねつ]で子供[こども]がけいれんを起[お]こした。 | Đứa trẻ sốt cao bị co giật.
+麻痺[まひ] | n,v3 | MA TÝ | tê liệt | 交通[こうつう] が {麻痺} する | giao thông tê liệt | 大雪[おおゆき]で交通[こうつう]が麻痺[まひ]した。 | Tuyết lớn làm giao thông tê liệt.
+失神[しっしん] | n,v3 | THẤT THẦN | ngất xỉu | - | - | 暑[あつ]さで失神[しっしん]して倒[たお]れた。 | Vì nóng mà ngất xỉu ngã xuống.
+気絶[きぜつ] | n,v3 | KHÍ TUYỆT | bất tỉnh | - | - | 驚[おどろ]きのあまり気絶[きぜつ]しそうになった。 | Ngạc nhiên đến suýt bất tỉnh.
+不眠[ふみん] | n | BẤT MIÊN | mất ngủ | {不眠} 不休[ふきゅう] | không ngủ không nghỉ | 不眠[ふみん]不休[ふきゅう]で救助[きゅうじょ]活動[かつどう]が続[つづ]けられた。 | Công tác cứu hộ được tiếp tục không ngủ không nghỉ.
+睡眠[すいみん]障害[しょうがい] | n | THỤY MIÊN CHƯỚNG HẠI | rối loạn giấc ngủ | - | - | 夜勤[やきん]が続[つづ]いて睡眠[すいみん]障害[しょうがい]になった。 | Làm ca đêm liên tục khiến tôi bị rối loạn giấc ngủ.
+精神[せいしん]疾患[しっかん] | n | TINH THẦN TẬT HOẠN | bệnh tâm thần | - | - | 精神[せいしん]疾患[しっかん]への偏見[へんけん]をなくしたい。 | Tôi muốn xóa bỏ định kiến đối với bệnh tâm thần.
+染色体[せんしょくたい] | n | NHIỄM SẮC THỂ | nhiễm sắc thể | - | - | 人間[にんげん]の染色[せんしょく]体[たい]は四十六[よんじゅうろく]本[ほん]ある。 | Con người có bốn mươi sáu nhiễm sắc thể.
+DNA | n | - | ADN | {DNA} 鑑定[かんてい] | giám định ADN | DNA鑑定[かんてい]で親子[おやこ]関係[かんけい]が証明[しょうめい]された。 | Quan hệ cha con được chứng minh bằng giám định ADN.
+農耕[のうこう] | n | NÔNG CANH | canh tác nông nghiệp | {農耕}民族[みんぞく] | dân tộc nông canh | 日本[にほん]は農耕[のうこう]民族[みんぞく]だと言[い]われる。 | Người ta nói Nhật Bản là dân tộc nông canh.
+水耕[すいこう] | n | THỦY CANH | thủy canh | {水耕}栽培[さいばい] | trồng thủy canh | 水耕[すいこう]栽培[さいばい]で野菜[やさい]を育[そだ]てる。 | Trồng rau bằng phương pháp thủy canh.
+牧畜[ぼくちく] | n | MỤC SÚC | chăn nuôi | {牧畜}業[ぎょう] | ngành chăn nuôi | 北海道[ほっかいどう]は牧畜[ぼくちく]が盛[さか]んだ。 | Hokkaido phát triển mạnh về chăn nuôi.
+下草[したくさ] | n | HẠ THẢO | cỏ dưới tán rừng | {下草}を刈[か]る | cắt cỏ dưới tán | 森[もり]の下草[したくさ]を刈[か]って手入[てい]れする。 | Cắt cỏ dưới tán rừng để chăm sóc.
+播種[はしゅ] | n | BÁ CHỦNG | gieo hạt | {播種}する | gieo hạt | 春[はる]に播種[はしゅ]して秋[あき]に収穫[しゅうかく]する。 | Gieo hạt vào mùa xuân, thu hoạch mùa thu.
+飢饉[ききん] | n | CƠ CẨN | nạn đói | {飢饉}が起[お]きる | xảy ra nạn đói | 天明[てんめい]の飢饉[ききん]で多[おお]くの人[ひと]が亡[な]くなった。 | Nhiều người chết vì nạn đói Tenmei.
+冷害[れいがい] | n | LÃNH HẠI | thiệt hại do lạnh | {冷害}を受[う]ける | bị thiệt hại do lạnh | 冷害[れいがい]で稲[いね]が不作[ふさく]になった。 | Lúa mất mùa do thiệt hại vì lạnh.
+霜害[そうがい] | n | SƯƠNG HẠI | thiệt hại do sương giá | {霜害}を防[ふせ]ぐ | phòng chống sương giá | 果樹園[かじゅえん]で霜害[そうがい]対策[たいさく]をする。 | Thực hiện biện pháp phòng chống sương giá ở vườn cây ăn quả.
+風水害[ふうすいがい] | n | PHONG THỦY HẠI | thiệt hại do bão lũ | {風水害}に備[そな]える | phòng bị bão lũ | 風水害[ふうすいがい]の保険[ほけん]に加入[かにゅう]した。 | Đã mua bảo hiểm bão lũ.
+暴風[ぼうふう] | n | BẠO PHONG | bão tố | {暴風}警報[けいほう] | cảnh báo bão | 暴風[ぼうふう]警報[けいほう]が発令[はつれい]された。 | Cảnh báo bão được phát ra.
+雷鳴[らいめい] | n | LÔI MINH | sấm | {雷鳴}が轟[とどろ]く | sấm vang | 遠[とお]くで雷鳴[らいめい]が轟[とどろ]いている。 | Sấm vang ở xa.
+稲光[いなびかり] | n | ĐẠO QUANG | chớp | {稲光}が走[はし]る | chớp lóe | 夜空[よぞら]に稲光[いなびかり]が走[はし]った。 | Chớp lóe trên bầu trời đêm.
+酷暑[こくしょ] | n | KHỐC THỬ | nóng khắc nghiệt | {酷暑}が続[つづ]く | nóng khắc nghiệt kéo dài | 酷暑[こくしょ]で熱中症[ねっちゅうしょう]患者[かんじゃ]が増[ふ]えた。 | Bệnh nhân say nắng tăng do nắng nóng khắc nghiệt.
+残暑[ざんしょ] | n | TÀN THỬ | hơi nóng cuối hè | {残暑}が厳[きび]しい | hơi nóng cuối hè khắc nghiệt | 残暑[ざんしょ]が厳[きび]しいのでご自愛[じあい]ください。 | Hơi nóng cuối hè khắc nghiệt, xin hãy giữ gìn sức khỏe.
+厳寒[げんかん] | n | NGHIÊM HÀN | giá rét khắc nghiệt | {厳寒}の地[ち] | vùng giá rét | 厳寒[げんかん]の中[なか]で訓練[くんれん]が行[おこな]われた。 | Huấn luyện diễn ra trong giá rét khắc nghiệt.
+極寒[ごっかん] | n | CỰC HÀN | cực lạnh | {極寒}の大地[だいち] | đại địa cực lạnh | 極寒[ごっかん]のシベリアで生活[せいかつ]する。 | Sinh sống ở Siberia cực lạnh.
+時化[しけ] | n | THỜI HÓA | biển động | {時化}で出港[しゅっこう]できない | không thể ra khơi vì biển động | 時化[しけ]が続[つづ]いて漁[りょう]に出[で]られない。 | Không thể đi đánh cá vì biển động kéo dài.
+凪[なぎ] | n | PHONG | biển lặng | {凪}の海[うみ] | biển lặng | 凪[なぎ]の海[うみ]に夕日[ゆうひ]が映[うつ]っていた。 | Hoàng hôn phản chiếu trên mặt biển lặng.
+鍛造[たんぞう] | n | ĐẬP TẠO | rèn | {鍛造}する | rèn | 日本刀[にほんとう]は鍛造[たんぞう]で作[つく]られる。 | Kiếm Nhật được chế tác bằng rèn.
+鋳造[ちゅうぞう] | n | CHÚ TẠO | đúc | {鋳造}する | đúc | 銅[どう]を鋳造[ちゅうぞう]して仏像[ぶつぞう]を作[つく]った。 | Đúc đồng chế tác tượng Phật.
+研磨[けんま] | n | NGHIÊN MA | mài, đánh bóng | {研磨}する | mài bóng | レンズを精密[せいみつ]に研磨[けんま]する。 | Mài bóng ống kính với độ chính xác cao.
+塗装[とそう] | n | ĐỒ TRANG | sơn | {塗装}する | sơn | 車体[しゃたい]を塗装[とそう]し直[なお]した。 | Sơn lại thân xe.
+溶接[ようせつ] | n | DUNG TIẾP | hàn | {溶接}する | hàn | 鉄骨[てっこつ]を溶接[ようせつ]して組[く]み立[た]てる。 | Hàn khung thép rồi lắp ráp.
+接合[せつごう] | n | TIẾP HỢP | nối, ghép | {接合}する | nối ghép | 二[ふた]つの部品[ぶひん]を接合[せつごう]する。 | Nối ghép hai bộ phận.
+圧延[あつえん] | n | ÁP DIÊN | cán (kim loại) | {圧延}する | cán | 鋼板[こうはん]を圧延[あつえん]して薄[うす]くする。 | Cán tấm thép cho mỏng.
+切削[せっさく] | n | THIẾT TƯỚC | cắt gọt | {切削}加工[かこう] | gia công cắt gọt | 金属[きんぞく]を切削[せっさく]加工[かこう]する。 | Gia công cắt gọt kim loại.
+旋盤[せんばん] | n | TOÀN BÀN | máy tiện | {旋盤}で削[けず]る | tiện bằng máy tiện | 旋盤[せんばん]で部品[ぶひん]を精密[せいみつ]に加工[かこう]する。 | Gia công chính xác bộ phận bằng máy tiện.
+鋳型[いがた] | n | CHÚ HÌNH | khuôn đúc | {鋳型}に流[なが]し込[こ]む | đổ vào khuôn đúc | 溶[と]けた金属[きんぞく]を鋳型[いがた]に流[なが]し込[こ]む。 | Đổ kim loại nóng chảy vào khuôn đúc.
+金型[かながた] | n | KIM HÌNH | khuôn kim loại | {金型}を製作[せいさく]する | chế tạo khuôn kim loại | 金型[かながた]を使[つか]ってプラスチック製品[せいひん]を成形[せいけい]する。 | Dùng khuôn kim loại tạo hình sản phẩm nhựa.
+治具[じぐ] | n | TRỊ CỤ | đồ gá | {治具}を設計[せっけい]する | thiết kế đồ gá | 専用[せんよう]の治具[じぐ]で部品[ぶひん]を固定[こてい]する。 | Cố định bộ phận bằng đồ gá chuyên dụng.
+冶金[やきん] | n | DÃ KIM | luyện kim | {冶金}学[がく] | luyện kim học | 冶金[やきん]技術[ぎじゅつ]の発展[はってん]が工業化[こうぎょうか]を支[ささ]えた。 | Sự phát triển kỹ thuật luyện kim hỗ trợ công nghiệp hóa.
+精錬[せいれん] | n | TINH LUYỆN | tinh luyện | {精錬}する | tinh luyện | 銅[どう]鉱石[こうせき]から銅[どう]を精錬[せいれん]する。 | Tinh luyện đồng từ quặng đồng.
+製錬[せいれん] | n | CHẾ LUYỆN | chế luyện | {製錬}する | chế luyện | アルミニウムの製錬[せいれん]には大量[たいりょう]の電力[でんりょく]が要[い]る。 | Chế luyện nhôm cần lượng điện lớn.
+電解[でんかい] | n | ĐIỆN GIẢI | điện phân | {電解}する | điện phân | 水[みず]を電解[でんかい]して水素[すいそ]を取[と]り出[だ]す。 | Điện phân nước để lấy hydro.
+濾過[ろか] | n | LỰ QUÁ | lọc | {濾過}する | lọc | 不純物[ふじゅんぶつ]を濾過[ろか]して取[と]り除[のぞ]く。 | Lọc để loại bỏ tạp chất.
+遠心[えんしん] | n | VIỄN TÂM | ly tâm | {遠心}分離[ぶんり] | ly tâm phân ly | 遠心[えんしん]分離[ぶんり]機[き]で血液[けつえき]を分[わ]ける。 | Phân tách máu bằng máy ly tâm.
+撹拌[かくはん] | n | GIẢO BẠN | khuấy trộn | {撹拌}する | khuấy trộn | 溶液[ようえき]をよく撹拌[かくはん]する。 | Khuấy trộn đều dung dịch.
+粉砕[ふんさい] | n | PHẤN TOÁI | nghiền nát | {粉砕}する | nghiền nát | 原料[げんりょう]を粉砕[ふんさい]して粉[こな]にする。 | Nghiền nát nguyên liệu thành bột.
+浸漬[しんし] | n | PHẨM TÍ | ngâm | {浸漬}する | ngâm | 薬品[やくひん]に浸漬[しんし]して処理[しょり]する。 | Ngâm trong hóa chất để xử lý.
+融解[ゆうかい] | n | DUNG GIẢI | tan chảy | {融解}する | tan chảy | 氷[こおり]が融解[ゆうかい]して水[みず]になる。 | Nước đá tan chảy thành nước.
+凝縮[ぎょうしゅく] | n | NGƯNG SÚC | ngưng tụ | {凝縮}する | ngưng tụ | 水蒸気[すいじょうき]が凝縮[ぎょうしゅく]して水滴[すいてき]になる。 | Hơi nước ngưng tụ thành giọt nước.
+昇華[しょうか] | n | THĂNG HOA | thăng hoa | {昇華}する | thăng hoa | 苦[くる]しみを芸術[げいじゅつ]に昇華[しょうか]させた。 | Thăng hoa nỗi đau thành nghệ thuật.
+摩耗[まもう] | n | MA HAO | mài mòn | {摩耗}する | mài mòn | タイヤが摩耗[まもう]して交換[こうかん]が必要[ひつよう]だ。 | Lốp xe bị mài mòn cần thay thế.
+老朽[ろうきゅう] | n | LÃO HỦ | cũ nát | {老朽}化[か]する | xuống cấp | 老朽[ろうきゅう]化[か]した橋[はし]を架[か]け替[か]える。 | Xây lại cầu đã xuống cấp.
+揮発[きはつ] | n | HUY PHÁT | bay hơi | {揮発}する | bay hơi | アルコールは揮発[きはつ]しやすい。 | Cồn dễ bay hơi.
+可燃[かねん] | n | KHẢ NHIÊN | dễ cháy | {可燃}物[ぶつ] | chất dễ cháy | 可燃[かねん]物[ぶつ]を火[ひ]の近[ちか]くに置[お]かないでください。 | Đừng để chất dễ cháy gần lửa.
+難燃[なんねん] | n | NAN NHIÊN | khó cháy | {難燃}性[せい] | tính khó cháy | 難燃[なんねん]性[せい]の素材[そざい]を使用[しよう]する。 | Sử dụng vật liệu khó cháy.
+免震[めんしん] | n | MIỄN CHẤN | chống rung | {免震}構造[こうぞう] | kết cấu chống rung | 免震[めんしん]構造[こうぞう]のビルは地震[じしん]に強[つよ]い。 | Tòa nhà kết cấu chống rung chịu được động đất tốt.
+制震[せいしん] | n | CHẾ CHẤN | giảm chấn | {制震}装置[そうち] | thiết bị giảm chấn | 制震[せいしん]装置[そうち]で揺[ゆ]れを軽減[けいげん]する。 | Giảm rung lắc bằng thiết bị giảm chấn.
+遮断[しゃだん] | n | GIÀ ĐOẠN | ngắt, cách ly | {遮断}する | ngắt | 電源[でんげん]を遮断[しゃだん]して安全[あんぜん]を確保[かくほ]する。 | Ngắt nguồn điện để đảm bảo an toàn.
+封印[ふういん] | n | PHONG ẤN | niêm phong | {封印}する | niêm phong | 証拠品[しょうこひん]を封印[ふういん]して保管[ほかん]する。 | Niêm phong và bảo quản vật chứng.
+密封[みっぷう] | n | MẬT PHONG | dán kín | {密封}する | dán kín | 食品[しょくひん]を密封[みっぷう]して保存[ほぞん]する。 | Dán kín thực phẩm để bảo quản.
+開封[かいふう] | n | KHAI PHONG | mở ra | {開封}する | mở ra | 手紙[てがみ]を開封[かいふう]して中身[なかみ]を確認[かくにん]した。 | Mở thư ra xác nhận nội dung.

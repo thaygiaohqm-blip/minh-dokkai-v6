@@ -1,0 +1,190 @@
+@topic t19
+@ja 思考[しこう]・抽象概念[ちゅうしょうがいねん]
+@vi Tư duy và khái niệm trừu tượng
+@desc Lập luận, so sánh, nguyên nhân kết quả, kế hoạch và đánh giá, cùng các liên từ và phó từ dùng khi trình bày ý kiến trong bài đọc, bài luận.
+概念[がいねん] | n | KHÁI NIỆM | khái niệm | {概念} を 理解[りかい]する | hiểu khái niệm | 「時間[じかん]」という概念[がいねん]を説明[せつめい]するのは難[むずか]しい。 | Giải thích khái niệm "thời gian" thật khó.
+定義[ていぎ] | n,v3 | ĐỊNH NGHĨA | định nghĩa | 言葉[ことば] を {定義} する | định nghĩa từ ngữ | 「幸[しあわ]せ」の定義[ていぎ]は人[ひと]によって違[ちが]う。 | Định nghĩa "hạnh phúc" khác nhau ở mỗi người.
+体系[たいけい] | n | THỂ HỆ | hệ thống | {体系} 的[てき]に 学[まな]ぶ | học có hệ thống | 文法[ぶんぽう]を体系[たいけい]的[てき]に学[まな]び直[なお]した。 | Tôi học lại ngữ pháp một cách có hệ thống.
+要因[よういん] | n | YẾU NHÂN | nhân tố chính | 成功[せいこう] の {要因} | yếu tố thành công | 売[う]り上[あ]げが落[お]ちた要因[よういん]を分析[ぶんせき]した。 | Đã phân tích các nhân tố khiến doanh số giảm.
+根拠[こんきょ] | n | CĂN CỨ | căn cứ | {根拠} の ない 話[はなし] | chuyện vô căn cứ | その意見[いけん]の根拠[こんきょ]を示[しめ]してください。 | Hãy đưa ra căn cứ cho ý kiến đó.
+主張[しゅちょう] | n,v3 | CHỦ TRƯƠNG | chủ trương, khẳng định | 権利[けんり] を {主張} する | đòi quyền lợi | 彼[かれ]は自分[じぶん]の無実[むじつ]を主張[しゅちょう]している。 | Anh ta khẳng định mình vô tội.
+反論[はんろん] | n,v3 | PHẢN LUẬN | phản bác | - | - | 部長[ぶちょう]の意見[いけん]に誰[だれ]も反論[はんろん]できなかった。 | Không ai phản bác được ý kiến của trưởng phòng.
+論点[ろんてん] | n | LUẬN ĐIỂM | luận điểm | {論点} を 整理[せいり]する | sắp xếp các luận điểm | 議論[ぎろん]の論点[ろんてん]がずれている。 | Luận điểm của cuộc tranh luận bị lệch.
+見解[けんかい] | n | KIẾN GIẢI | quan điểm | {見解} を 示[しめ]す | đưa ra quan điểm | 専門家[せんもんか]の間[あいだ]でも見解[けんかい]が分[わ]かれている。 | Ngay giữa các chuyên gia quan điểm cũng chia rẽ.
+因果[いんが]関係[かんけい] | n | NHÂN QUẢ QUAN HỆ | quan hệ nhân quả | - | - | 喫煙[きつえん]と病気[びょうき]の因果[いんが]関係[かんけい]が証明[しょうめい]された。 | Quan hệ nhân quả giữa hút thuốc và bệnh tật đã được chứng minh.
+目的[もくてき] | n | MỤC ĐÍCH | mục đích | {目的} を 果[は]たす | đạt mục đích | 留学[りゅうがく]の目的[もくてき]をはっきりさせよう。 | Hãy làm rõ mục đích du học.
+方法[ほうほう] | n | PHƯƠNG PHÁP | phương pháp | - | - | もっと効率[こうりつ]のいい方法[ほうほう]はないだろうか。 | Không có cách nào hiệu quả hơn sao?
+方策[ほうさく] | n | PHƯƠNG SÁCH | phương sách | - | - | 赤字[あかじ]を減[へ]らす方策[ほうさく]を考[かんが]えている。 | Đang nghĩ phương sách giảm thâm hụt.
+原則[げんそく] | n | NGUYÊN TẮC | nguyên tắc | {原則} として | về nguyên tắc | 原則[げんそく]として、遅刻[ちこく]は認[みと]めません。 | Về nguyên tắc không chấp nhận đến muộn.
+法則[ほうそく] | n | PHÁP TẮC | định luật, quy luật | - | - | 自然[しぜん]の法則[ほうそく]には逆[さか]らえない。 | Không thể chống lại quy luật tự nhiên.
+前提[ぜんてい] | n | TIỀN ĐỀ | tiền đề | 結婚[けっこん] を {前提} に | lấy hôn nhân làm tiền đề | 参加[さんか]は全員[ぜんいん]の同意[どうい]が前提[ぜんてい]だ。 | Việc tham gia lấy sự đồng ý của mọi người làm tiền đề.
+仮定[かてい] | n,v3 | GIẢ ĐỊNH | giả định | - | - | 明日[あした]雨[あめ]が降[ふ]ると仮定[かてい]して計画[けいかく]を立[た]てる。 | Lập kế hoạch với giả định mai trời mưa.
+推論[すいろん] | n,v3 | THÔI LUẬN | suy luận | - | - | 少[すく]ないデータから推論[すいろん]するのは危険[きけん]だ。 | Suy luận từ ít dữ liệu là nguy hiểm.
+推理[すいり] | n,v3 | THÔI LÝ | suy lý, trinh thám | {推理} 小説[しょうせつ] | tiểu thuyết trinh thám | 探偵[たんてい]は小[ちい]さな手[て]がかりから犯人[はんにん]を推理[すいり]した。 | Thám tử suy luận ra hung thủ từ manh mối nhỏ.
+想定[そうてい] | n,v3 | TƯỞNG ĐỊNH | dự tính, giả định | {想定} 外[がい] | ngoài dự tính | 地震[じしん]を想定[そうてい]した訓練[くんれん]を行[おこな]った。 | Đã diễn tập với giả định có động đất.
+予想[よそう] | n,v3 | DỰ TƯỞNG | dự đoán | {予想} が 当[あ]たる | dự đoán trúng | 試合[しあい]は予想[よそう]どおりの結果[けっか]になった。 | Trận đấu kết thúc đúng như dự đoán.
+予想外[よそうがい] | adj-na | DỰ TƯỞNG NGOẠI | ngoài dự đoán | - | - | 予想外[よそうがい]の質問[しつもん]にあわてた。 | Tôi luống cuống trước câu hỏi ngoài dự đoán.
+判断力[はんだんりょく] | n | PHÁN ĐOÁN LỰC | khả năng phán đoán | - | - | 疲[つか]れていると判断力[はんだんりょく]が鈍[にぶ]る。 | Khi mệt, khả năng phán đoán bị chậm lại.
+決断[けつだん] | n,v3 | QUYẾT ĐOÁN | quyết đoán, quyết định dứt khoát | {決断} を 下[くだ]す | đưa ra quyết định | 転職[てんしょく]するという大[おお]きな決断[けつだん]をした。 | Tôi đã đưa ra quyết định lớn là chuyển việc.
+比較[ひかく] | n,v3 | TỶ GIẢO | so sánh | - | - | 二[ふた]つの商品[しょうひん]を比較[ひかく]してから買[か]う。 | So sánh hai sản phẩm rồi mới mua.
+対比[たいひ] | n,v3 | ĐỐI TỶ | đối chiếu, tương phản | - | - | 東京[とうきょう]と大阪[おおさか]の文化[ぶんか]を対比[たいひ]した。 | Đối chiếu văn hóa Tokyo và Osaka.
+対照[たいしょう] | n,v3 | ĐỐI CHIẾU | tương phản; đối chứng | {対照} 的[てき] | trái ngược | 二人[ふたり]の性格[せいかく]は対照[たいしょう]的[てき]だ。 | Tính cách hai người trái ngược nhau.
+区分[くぶん] | n,v3 | KHU PHÂN | phân chia, phân loại | - | - | 年齢[ねんれい]で料金[りょうきん]が区分[くぶん]されている。 | Giá vé được phân chia theo độ tuổi.
+分類[ぶんるい] | n,v3 | PHÂN LOẠI | phân loại | - | - | 集[あつ]めた資料[しりょう]をテーマごとに分類[ぶんるい]した。 | Phân loại tài liệu đã thu thập theo chủ đề.
+区別[くべつ] | n,v3 | KHU BIỆT | phân biệt | 公私[こうし] の {区別} | phân biệt công tư | 双子[ふたご]なので、どちらがどちらか区別[くべつ]がつかない。 | Là sinh đôi nên không phân biệt được ai là ai.
+区切[くぎ]る | v1 | KHU THIẾT | ngăn ra, ngắt | 言葉[ことば] を {区切る} | ngắt từng chữ | 部屋[へや]をカーテンで二[ふた]つに区切[くぎ]った。 | Tôi ngăn căn phòng làm hai bằng rèm.
+総合[そうごう] | n,v3 | TỔNG HỢP | tổng hợp | {総合} 的[てき]に 判断[はんだん]する | phán đoán tổng thể | いろいろな意見[いけん]を総合[そうごう]して決[き]めた。 | Đã tổng hợp nhiều ý kiến rồi quyết định.
+要素[ようそ] | n | YẾU TỐ | yếu tố | - | - | 運[うん]も成功[せいこう]の要素[ようそ]の一[ひと]つだ。 | May mắn cũng là một trong các yếu tố thành công.
+構成[こうせい] | n,v3 | CẤU THÀNH | cấu thành, bố cục | 文章[ぶんしょう] の {構成} | bố cục bài viết | このチームは十[じゅう]人[にん]で構成[こうせい]されている。 | Đội này gồm mười người.
+特性[とくせい] | n | ĐẶC TÍNH | đặc tính | - | - | 素材[そざい]の特性[とくせい]を生[い]かした製品[せいひん]だ。 | Sản phẩm tận dụng đặc tính của chất liệu.
+情勢[じょうせい] | n | TÌNH THẾ | tình hình | 国際[こくさい] {情勢} | tình hình quốc tế | 世界[せかい]の情勢[じょうせい]が大[おお]きく変[か]わった。 | Tình hình thế giới đã thay đổi lớn.
+局面[きょくめん] | n | CỤC DIỆN | cục diện | 新[あら]たな {局面} | cục diện mới | 交渉[こうしょう]は新[あら]たな局面[きょくめん]を迎[むか]えた。 | Cuộc đàm phán bước vào cục diện mới.
+段階[だんかい] | n | ĐOẠN GIAI | giai đoạn | 準備[じゅんび] {段階} | giai đoạn chuẩn bị | 計画[けいかく]はまだ準備[じゅんび]の段階[だんかい]だ。 | Kế hoạch vẫn ở giai đoạn chuẩn bị.
+過程[かてい] | n | QUÁ TRÌNH | quá trình | - | - | 結果[けっか]だけでなく過程[かてい]も大切[たいせつ]だ。 | Không chỉ kết quả mà quá trình cũng quan trọng.
+経過[けいか] | n,v3 | KINH QUÁ | diễn biến; trôi qua | 手術[しゅじゅつ] 後[ご] の {経過} | diễn biến sau mổ | 事故[じこ]から一年[いちねん]が経過[けいか]した。 | Một năm đã trôi qua kể từ vụ tai nạn.
+順序[じゅんじょ] | n | THUẬN TỰ | thứ tự | {順序} を 守[まも]る | theo đúng thứ tự | 説明[せつめい]は順序[じゅんじょ]よく話[はな]してください。 | Hãy giải thích theo trình tự.
+優先[ゆうせん]順位[じゅんい] | n | ƯU TIÊN THUẬN VỊ | thứ tự ưu tiên | {優先順位} を つける | xếp thứ tự ưu tiên | 仕事[しごと]に優先[ゆうせん]順位[じゅんい]をつけて進[すす]める。 | Sắp xếp thứ tự ưu tiên công việc rồi làm.
+重点[じゅうてん] | n | TRỌNG ĐIỂM | trọng điểm | {重点} を 置[お]く | đặt trọng tâm | 今年[ことし]は安全[あんぜん]対策[たいさく]に重点[じゅうてん]を置[お]く。 | Năm nay đặt trọng tâm vào biện pháp an toàn.
+重視[じゅうし] | n,v3 | TRỌNG THỊ | coi trọng | 経験[けいけん] を {重視} する | coi trọng kinh nghiệm | この会社[かいしゃ]は学歴[がくれき]より人柄[ひとがら]を重視[じゅうし]する。 | Công ty này coi trọng tính cách hơn bằng cấp.
+考慮[こうりょ] | n,v3 | KHẢO LỰ | cân nhắc, tính đến | 事情[じじょう] を {考慮} する | tính đến hoàn cảnh | 年齢[ねんれい]を考慮[こうりょ]して仕事[しごと]を決[き]める。 | Quyết định công việc có tính đến tuổi tác.
+核心[かくしん] | n | HẠCH TÂM | cốt lõi | {核心} に 触[ふ]れる | chạm đến cốt lõi | 彼[かれ]の質問[しつもん]は問題[もんだい]の核心[かくしん]を突[つ]いていた。 | Câu hỏi của anh ấy đánh trúng cốt lõi vấn đề.
+本質[ほんしつ] | n | BẢN CHẤT | bản chất | {本質} 的[てき]な 問題[もんだい] | vấn đề bản chất | 問題[もんだい]の本質[ほんしつ]を見[み]極[きわ]める必要[ひつよう]がある。 | Cần nhìn ra bản chất của vấn đề.
+本題[ほんだい] | n | BẢN ĐỀ | vấn đề chính | {本題} に 入[はい]る | vào vấn đề chính | 挨拶[あいさつ]はこのくらいにして本題[ほんだい]に入[はい]ります。 | Chào hỏi đến đây thôi, tôi xin vào vấn đề chính.
+主旨[しゅし] | n | CHỦ CHỈ | ý chính | - | - | 発言[はつげん]の主旨[しゅし]がよく分[わ]からなかった。 | Tôi không hiểu rõ ý chính của phát biểu.
+趣旨[しゅし] | n | THÚ CHỈ | mục đích, tôn chỉ | 会[かい] の {趣旨} | mục đích của hội | 活動[かつどう]の趣旨[しゅし]に賛同[さんどう]して参加[さんか]した。 | Tán đồng với tôn chỉ hoạt động nên tôi tham gia.
+意図[いと] | n,v3 | Ý ĐỒ | ý đồ, chủ ý | {意図} 的[てき]に | có chủ ý | 質問[しつもん]の意図[いと]が分[わ]からない。 | Không hiểu ý đồ của câu hỏi.
+狙[ねら]い | n | THƯ | mục tiêu nhắm tới | - | - | この広告[こうこく]の狙[ねら]いは若[わか]い女性[じょせい]だ。 | Đối tượng nhắm tới của quảng cáo này là phụ nữ trẻ.
+意義[いぎ] | n | Ý NGHĨA | ý nghĩa | {意義} の ある 仕事[しごと] | công việc ý nghĩa | ボランティアは意義[いぎ]のある活動[かつどう]だ。 | Tình nguyện là hoạt động có ý nghĩa.
+観点[かんてん] | n | QUAN ĐIỂM | góc độ | 安全[あんぜん] の {観点} から | từ góc độ an toàn | 環境[かんきょう]の観点[かんてん]から車[くるま]の使用[しよう]を減[へ]らそう。 | Từ góc độ môi trường, hãy giảm dùng ô tô.
+視点[してん] | n | THỊ ĐIỂM | góc nhìn | {視点} を 変[か]える | đổi góc nhìn | 視点[してん]を変[か]えると新[あたら]しいアイデアが出[で]る。 | Đổi góc nhìn sẽ nảy ra ý tưởng mới.
+見方[みかた] | n | KIẾN PHƯƠNG | cách nhìn | - | - | 物[もの]の見方[みかた]は人[ひと]それぞれだ。 | Cách nhìn sự vật mỗi người mỗi khác.
+考[かんが]え方[かた] | n | KHẢO PHƯƠNG | cách suy nghĩ | - | - | 留学[りゅうがく]して考[かんが]え方[かた]が変[か]わった。 | Du học xong cách suy nghĩ của tôi đã thay đổi.
+構想[こうそう] | n,v3 | CẤU TƯỞNG | ý tưởng, phác thảo | {構想} を 練[ね]る | ấp ủ ý tưởng | 新[あたら]しい小説[しょうせつ]の構想[こうそう]を練[ね]っている。 | Tôi đang ấp ủ ý tưởng cho tiểu thuyết mới.
+案[あん] | n | ÁN | phương án, đề án | {案} を 出[だ]す | đưa ra phương án | いい案[あん]が浮[う]かばない。 | Chưa nghĩ ra phương án hay.
+代案[だいあん] | n | ĐẠI ÁN | phương án thay thế | - | - | 反対[はんたい]するなら代案[だいあん]を出[だ]してください。 | Nếu phản đối thì hãy đưa ra phương án thay thế.
+改善策[かいぜんさく] | n | CẢI THIỆN SÁCH | biện pháp cải thiện | - | - | 顧客[こきゃく]の声[こえ]をもとに改善策[かいぜんさく]をまとめた。 | Tổng hợp biện pháp cải thiện dựa trên ý kiến khách hàng.
+解決策[かいけつさく] | n | GIẢI QUYẾT SÁCH | giải pháp | - | - | みんなで話[はな]し合[あ]って解決策[かいけつさく]を見[み]つけた。 | Mọi người bàn bạc và tìm ra giải pháp.
+問題点[もんだいてん] | n | VẤN ĐỀ ĐIỂM | điểm có vấn đề | {問題点} を 洗[あら]い出[だ]す | rà soát vấn đề | 計画[けいかく]の問題点[もんだいてん]を指摘[してき]された。 | Tôi bị chỉ ra những điểm có vấn đề trong kế hoạch.
+利点[りてん] | n | LỢI ĐIỂM | ưu điểm | - | - | 在宅[ざいたく]勤務[きんむ]の利点[りてん]は通勤[つうきん]がないことだ。 | Ưu điểm của làm việc tại nhà là không phải đi lại.
+弱点[じゃくてん] | n | NHƯỢC ĐIỂM | điểm yếu | {弱点} を 克服[こくふく]する | khắc phục điểm yếu | 自分[じぶん]の弱点[じゃくてん]を知[し]ることが大切[たいせつ]だ。 | Biết điểm yếu của mình là điều quan trọng.
+強[つよ]み | n | CƯỜNG | điểm mạnh | {強み} を 生[い]かす | phát huy điểm mạnh | 語学[ごがく]力[りょく]が彼女[かのじょ]の強[つよ]みだ。 | Khả năng ngoại ngữ là điểm mạnh của cô ấy.
+弱[よわ]み | n | NHƯỢC | điểm yếu, nhược điểm | {弱み} を 握[にぎ]る | nắm thóp | 人[ひと]に弱[よわ]みを見[み]せたくない。 | Tôi không muốn để lộ điểm yếu với người khác.
+有利[ゆうり] | adj-na | HỮU LỢI | có lợi | {有利} な 条件[じょうけん] | điều kiện có lợi | 資格[しかく]があると就職[しゅうしょく]に有利[ゆうり]だ。 | Có chứng chỉ thì có lợi khi xin việc.
+不利[ふり] | adj-na | BẤT LỢI | bất lợi | {不利} な 立場[たちば] | vị thế bất lợi | 雨[あめ]の試合[しあい]は私[わたし]たちに不利[ふり]だ。 | Trận đấu dưới mưa bất lợi cho chúng tôi.
+利害[りがい] | n | LỢI HẠI | lợi ích và thiệt hại | {利害} が 一致[いっち]する | lợi ích trùng nhau | 両社[りょうしゃ]の利害[りがい]が一致[いっち]して提携[ていけい]が決[き]まった。 | Lợi ích hai công ty trùng nhau nên đã quyết định hợp tác.
+損得[そんとく] | n | TỔN ĐẮC | lợi hại, được mất | {損得} 勘定[かんじょう] | tính toán thiệt hơn | 損得[そんとく]を考[かんが]えずに人[ひと]を助[たす]ける。 | Giúp người mà không tính toán thiệt hơn.
+メリット | n | - | ưu điểm | - | - | この方法[ほうほう]のメリットは費用[ひよう]が安[やす]いことだ。 | Ưu điểm của cách này là chi phí rẻ.
+デメリット | n | - | nhược điểm | - | - | メリットとデメリットを比[くら]べて決[き]める。 | So sánh ưu nhược điểm rồi quyết định.
+作用[さよう] | n,v3 | TÁC DỤNG | tác dụng | - | - | この薬[くすり]には眠[ねむ]くなる作用[さよう]がある。 | Thuốc này có tác dụng gây buồn ngủ.
+反作用[はんさよう] | n | PHẢN TÁC DỤNG | phản tác dụng (vật lý) | - | - | 作用[さよう]と反作用[はんさよう]の法則[ほうそく]を習[なら]った。 | Tôi đã học định luật tác dụng và phản tác dụng.
+矛盾[むじゅん] | n,v3 | MÂU THUẪN | mâu thuẫn | {矛盾} が ある | có mâu thuẫn | 彼[かれ]の話[はなし]には矛盾[むじゅん]が多[おお]い。 | Lời kể của anh ta có nhiều chỗ mâu thuẫn.
+一致[いっち] | n,v3 | NHẤT TRÍ | nhất trí, khớp | 意見[いけん] が {一致} する | ý kiến thống nhất | 指紋[しもん]が容疑者[ようぎしゃ]のものと一致[いっち]した。 | Dấu vân tay khớp với của nghi phạm.
+共通点[きょうつうてん] | n | CỘNG THÔNG ĐIỂM | điểm chung | - | - | 二人[ふたり]には音楽[おんがく]が好[す]きという共通点[きょうつうてん]がある。 | Hai người có điểm chung là thích âm nhạc.
+相違[そうい] | n,v3 | TƯƠNG VI | khác biệt | 意見[いけん] の {相違} | bất đồng ý kiến | 事実[じじつ]と相違[そうい]する点[てん]がある。 | Có điểm khác với sự thật.
+相違点[そういてん] | n | TƯƠNG VI ĐIỂM | điểm khác nhau | - | - | 二[ふた]つの案[あん]の相違点[そういてん]を表[ひょう]にまとめた。 | Tôi tóm tắt điểm khác nhau của hai phương án thành bảng.
+差異[さい] | n | SAI DỊ | sự sai khác | - | - | 男女[だんじょ]の賃金[ちんぎん]の差異[さい]が問題[もんだい]になっている。 | Sự chênh lệch lương nam nữ đang là vấn đề.
+類似[るいじ] | n,v3 | LOẠI TỰ | tương tự | {類似} 品[ひん] | hàng nhái | 有名[ゆうめい]なブランドに類似[るいじ]した商品[しょうひん]が出回[でまわ]っている。 | Hàng nhái thương hiệu nổi tiếng đang tràn lan.
+類似点[るいじてん] | n | LOẠI TỰ ĐIỂM | điểm tương đồng | - | - | 日本語[にほんご]とベトナム語[ご]には類似点[るいじてん]がある。 | Tiếng Nhật và tiếng Việt có những điểm tương đồng.
+例外[れいがい] | n | LỆ NGOẠI | ngoại lệ | {例外} を 認[みと]める | chấp nhận ngoại lệ | どんな規則[きそく]にも例外[れいがい]はある。 | Quy tắc nào cũng có ngoại lệ.
+具体[ぐたい] | n | CỤ THỂ | cụ thể | {具体} 化[か] | cụ thể hóa | アイデアを具体[ぐたい]化[か]するのは簡単[かんたん]ではない。 | Cụ thể hóa ý tưởng không đơn giản.
+具体例[ぐたいれい] | n | CỤ THỂ LỆ | ví dụ cụ thể | {具体例} を 挙[あ]げる | đưa ví dụ cụ thể | 具体例[ぐたいれい]を挙[あ]げて説明[せつめい]してください。 | Hãy giải thích bằng ví dụ cụ thể.
+抽象[ちゅうしょう] | n | TRỪU TƯỢNG | trừu tượng | {抽象} 画[が] | tranh trừu tượng | 抽象[ちゅうしょう]画[が]は見[み]る人[ひと]によって感[かん]じ方[かた]が違[ちが]う。 | Tranh trừu tượng mỗi người cảm nhận một khác.
+抽象的[ちゅうしょうてき] | adj-na | TRỪU TƯỢNG ĐÍCH | trừu tượng | {抽象的} な 説明[せつめい] | giải thích trừu tượng | 抽象[ちゅうしょう]的[てき]な話[はなし]ばかりで分[わ]かりにくい。 | Toàn nói chuyện trừu tượng nên khó hiểu.
+一般[いっぱん] | n | NHẤT BAN | nói chung, phổ thông | {一般} の 人[ひと] | người bình thường | この施設[しせつ]は一般[いっぱん]にも公開[こうかい]されている。 | Cơ sở này cũng mở cửa cho người dân.
+一般的[いっぱんてき] | adj-na | NHẤT BAN ĐÍCH | phổ biến, thông thường | - | - | 日本[にほん]では靴[くつ]を脱[ぬ]いで家[いえ]に入[はい]るのが一般[いっぱん]的[てき]だ。 | Ở Nhật, cởi giày khi vào nhà là chuyện thông thường.
+普遍[ふへん] | n | PHỔ BIẾN | phổ quát | - | - | 親[おや]が子[こ]を思[おも]う気持[きも]ちは普遍[ふへん]のものだ。 | Tình cha mẹ thương con là điều phổ quát.
+普遍的[ふへんてき] | adj-na | PHỔ BIẾN ĐÍCH | mang tính phổ quát | {普遍的} な テーマ | chủ đề muôn thuở | 愛[あい]は文学[ぶんがく]の普遍[ふへん]的[てき]なテーマだ。 | Tình yêu là chủ đề muôn thuở của văn học.
+個別[こべつ] | n | CÁ BIỆT | riêng lẻ | {個別} に 対応[たいおう]する | xử lý riêng từng trường hợp | 質問[しつもん]には個別[こべつ]にお答[こた]えします。 | Câu hỏi sẽ được trả lời riêng từng người.
+全般[ぜんぱん] | n | TOÀN BÀN | toàn bộ, nói chung | 生活[せいかつ] {全般} | đời sống nói chung | 彼[かれ]はスポーツ全般[ぜんぱん]が得意[とくい]だ。 | Anh ấy giỏi thể thao nói chung.
+限度[げんど] | n | HẠN ĐỘ | giới hạn | {限度} を 超[こ]える | vượt giới hạn | 我慢[がまん]にも限度[げんど]がある。 | Chịu đựng cũng có giới hạn.
+水準[すいじゅん] | n | THỦY CHUẨN | mức, tiêu chuẩn | 生活[せいかつ] {水準} | mức sống | この国[くに]の教育[きょういく]水準[すいじゅん]は高[たか]い。 | Trình độ giáo dục của nước này cao.
+制約[せいやく] | n,v3 | CHẾ ƯỚC | ràng buộc, hạn chế | 時間[じかん] の {制約} | giới hạn thời gian | 予算[よさん]の制約[せいやく]があって、計画[けいかく]を縮小[しゅくしょう]した。 | Có hạn chế ngân sách nên đã thu nhỏ kế hoạch.
+前例[ぜんれい] | n | TIỀN LỆ | tiền lệ | {前例} が ない | chưa có tiền lệ | 前例[ぜんれい]のない試[こころ]みに挑戦[ちょうせん]した。 | Tôi thử thách với nỗ lực chưa từng có tiền lệ.
+事例[じれい] | n | SỰ LỆ | trường hợp, ví dụ thực tế | 成功[せいこう] {事例} | trường hợp thành công | ほかの会社[かいしゃ]の事例[じれい]を参考[さんこう]にした。 | Tôi tham khảo các trường hợp của công ty khác.
+実例[じつれい] | n | THỰC LỆ | ví dụ thực tế | - | - | 実例[じつれい]を見[み]せると理解[りかい]が早[はや]い。 | Cho xem ví dụ thực tế thì hiểu nhanh hơn.
+例示[れいじ] | n,v3 | LỆ THỊ | đưa ví dụ minh họa | - | - | 書[か]き方[かた]を例示[れいじ]した資料[しりょう]を配[くば]った。 | Đã phát tài liệu có ví dụ minh họa cách viết.
+根本[こんぽん] | n | CĂN BẢN | gốc rễ | {根本} から 見直[みなお]す | xem lại từ gốc | 問題[もんだい]を根本[こんぽん]から解決[かいけつ]したい。 | Tôi muốn giải quyết vấn đề từ gốc rễ.
+根本的[こんぽんてき] | adj-na | CĂN BẢN ĐÍCH | căn bản | - | - | 根本[こんぽん]的[てき]な考[かんが]え方[かた]が違[ちが]う。 | Cách suy nghĩ căn bản khác nhau.
+基本[きほん] | n | CƠ BẢN | cơ bản | {基本} を 守[まも]る | giữ những điều cơ bản | 挨拶[あいさつ]は社会人[しゃかいじん]の基本[きほん]だ。 | Chào hỏi là điều cơ bản của người đi làm.
+基礎[きそ] | n | CƠ SỞ | nền tảng | {基礎} を 固[かた]める | củng cố nền tảng | まずは文法[ぶんぽう]の基礎[きそ]を固[かた]めよう。 | Trước hết hãy củng cố nền tảng ngữ pháp.
+基盤[きばん] | n | CƠ BÀN | nền móng | 生活[せいかつ] の {基盤} | nền tảng cuộc sống | 地元[じもと]で生活[せいかつ]の基盤[きばん]を築[きず]いた。 | Tôi đã xây dựng nền tảng cuộc sống ở quê.
+土台[どだい] | n | THỔ ĐÀI | móng nhà; nền tảng | - | - | 家[いえ]の土台[どだい]がしっかりしている。 | Móng nhà rất vững chắc.
+頂点[ちょうてん] | n | ĐỈNH ĐIỂM | đỉnh cao | {頂点} に 立[た]つ | đứng trên đỉnh | 彼[かれ]は若[わか]くして業界[ぎょうかい]の頂点[ちょうてん]に立[た]った。 | Anh ấy còn trẻ đã đứng trên đỉnh cao của ngành.
+分布[ぶんぷ] | n,v3 | PHÂN BỐ | phân bố | {分布} 図[ず] | bản đồ phân bố | この植物[しょくぶつ]は日本[にほん]全国[ぜんこく]に分布[ぶんぷ]している。 | Loài cây này phân bố khắp nước Nhật.
+徹底[てってい] | n,v3 | TRIỆT ĐỂ | triệt để | {徹底} 的[てき]に 調[しら]べる | điều tra triệt để | 衛生[えいせい]管理[かんり]を徹底[てってい]している。 | Quản lý vệ sinh được thực hiện triệt để.
+管理[かんり] | n,v3 | QUẢN LÝ | quản lý | 健康[けんこう] {管理} | quản lý sức khỏe | このマンションは管理[かんり]が行[ゆ]き届[とど]いている。 | Khu chung cư này được quản lý chu đáo.
+面[めん] | n | DIỆN | mặt, phương diện | 経済[けいざい] {面} | phương diện kinh tế | 新[あたら]しい制度[せいど]にはいい面[めん]も悪[わる]い面[めん]もある。 | Chế độ mới có cả mặt tốt lẫn mặt xấu.
+筋[すじ] | n | CÂN | mạch, lý lẽ; cốt truyện | {筋} が 通[とお]る | hợp lý | 彼[かれ]の話[はなし]は筋[すじ]が通[とお]っている。 | Lời anh ấy nói rất có lý.
+気配[けはい] | n | KHÍ PHỐI | dấu hiệu, cảm giác có gì đó | 人[ひと] の {気配} | dấu hiệu có người | 部屋[へや]に誰[だれ]かがいる気配[けはい]がした。 | Tôi có cảm giác có ai đó trong phòng.
+きっかけ | n | - | cơ hội, nguyên cớ | - | - | 旅行[りょこう]をきっかけに日本語[にほんご]を勉強[べんきょう]し始[はじ]めた。 | Nhân chuyến du lịch mà tôi bắt đầu học tiếng Nhật.
+主[おも] | adj-na | CHỦ | chủ yếu | {主} な 原因[げんいん] | nguyên nhân chính | 事故[じこ]の主[おも]な原因[げんいん]はスピードの出[だ]しすぎだ。 | Nguyên nhân chính của tai nạn là chạy quá tốc độ.
+主要[しゅよう] | adj-na | CHỦ YẾU | chủ yếu, chính | {主要} 都市[とし] | thành phố lớn | 世界[せかい]の主要[しゅよう]な都市[とし]に支店[してん]がある。 | Có chi nhánh ở các thành phố lớn trên thế giới.
+明[あき]らか | adj-na | MINH | rõ ràng | {明らか} に する | làm rõ | 調査[ちょうさ]で事故[じこ]の原因[げんいん]が明[あき]らかになった。 | Qua điều tra, nguyên nhân tai nạn đã được làm rõ.
+追加[ついか] | n,v3 | TRUY GIA | bổ sung | {追加} 料金[りょうきん] | phụ phí | ビールを一本[いっぽん]追加[ついか]で注文[ちゅうもん]した。 | Tôi gọi thêm một chai bia.
+配布[はいふ] | n,v3 | PHỐI BỐ | phân phát | 資料[しりょう] を {配布} する | phát tài liệu | 会議[かいぎ]の資料[しりょう]を事前[じぜん]に配布[はいふ]した。 | Tài liệu cuộc họp đã được phát trước.
+実現[じつげん] | n,v3 | THỰC HIỆN | hiện thực hóa | 夢[ゆめ] を {実現} する | biến ước mơ thành thật | 長年[ながねん]の夢[ゆめ]がついに実現[じつげん]した。 | Ước mơ bao năm cuối cùng đã thành hiện thực.
+実施[じっし] | n,v3 | THỰC THI | tiến hành, thi hành | 調査[ちょうさ] を {実施} する | tiến hành khảo sát | 来月[らいげつ]、全[ぜん]社員[しゃいん]に健康[けんこう]診断[しんだん]を実施[じっし]する。 | Tháng sau sẽ tiến hành khám sức khỏe cho toàn bộ nhân viên.
+超過[ちょうか] | n,v3 | SIÊU QUÁ | vượt quá | 時間[じかん] を {超過} する | quá giờ | 荷物[にもつ]の重量[じゅうりょう]が超過[ちょうか]して料金[りょうきん]を払[はら]った。 | Hành lý quá cân nên tôi phải trả thêm tiền.
+工夫[くふう] | n,v3 | CÔNG PHU | công phu, tìm tòi cách làm | {工夫} を 凝[こ]らす | dày công tìm tòi | 狭[せま]い部屋[へや]を広[ひろ]く使[つか]う工夫[くふう]をした。 | Tôi tìm cách sử dụng căn phòng hẹp cho rộng rãi.
+持続[じぞく] | n,v3 | TRÌ TỤC | duy trì, bền vững | {持続} 可能[かのう] | bền vững | やる気[き]を持続[じぞく]させるのは難[むずか]しい。 | Duy trì động lực thật khó.
+中断[ちゅうだん] | n,v3 | TRUNG ĐOẠN | gián đoạn | 試合[しあい] が {中断} する | trận đấu tạm dừng | 雨[あめ]で試合[しあい]が一時[いちじ]中断[ちゅうだん]された。 | Trận đấu tạm gián đoạn vì mưa.
+ビジネス | n | - | kinh doanh | {ビジネス} マナー | phép lịch sự công sở | ビジネスの場[ば]では敬語[けいご]が欠[か]かせない。 | Trong môi trường kinh doanh không thể thiếu kính ngữ.
+フリー | adj-na | - | tự do; miễn phí | - | - | 会社[かいしゃ]を辞[や]めてフリーで働[はたら]いている。 | Tôi nghỉ việc và làm tự do.
+用[もち]いる | v2 | DỤNG | sử dụng | 方法[ほうほう] を {用いる} | dùng phương pháp | この実験[じっけん]には新[あたら]しい方法[ほうほう]を用[もち]いた。 | Thí nghiệm này sử dụng phương pháp mới.
+たとえる | v2 | - | ví von, so sánh | 人生[じんせい] を 旅[たび] に {たとえる} | ví đời người như chuyến đi | 人生[じんせい]はよくマラソンにたとえられる。 | Đời người thường được ví như cuộc chạy marathon.
+当[あ]てはまる | v1 | ĐƯƠNG | phù hợp, đúng với | 条件[じょうけん] に {当てはまる} | thỏa điều kiện | 次[つぎ]の条件[じょうけん]に当[あ]てはまる人[ひと]は申[もう]し込[こ]めます。 | Ai thỏa các điều kiện sau có thể đăng ký.
+適[てき]する | v3 | THÍCH | thích hợp | 仕事[しごと] に {適する} | phù hợp với công việc | この土地[とち]は米作[こめづく]りに適[てき]している。 | Vùng đất này thích hợp trồng lúa.
+相当[そうとう]する | v3 | TƯƠNG ĐƯƠNG | tương đương | - | - | 一[いち]ドルは約[やく]百五十[ひゃくごじゅう]円[えん]に相当[そうとう]する。 | Một đô la tương đương khoảng một trăm năm mươi yên.
+兼[か]ねる | v2 | KIÊM | kiêm; khó mà | 趣味[しゅみ] と 実益[じつえき] を {兼ねる} | vừa là sở thích vừa có lợi | 散歩[さんぽ]を兼[か]ねて買[か]い物[もの]に行[い]った。 | Tôi đi mua sắm kết hợp đi dạo.
+伴[ともな]う | v1 | BẠN | đi kèm theo | 危険[きけん] を {伴う} | kèm theo nguy hiểm | 成長[せいちょう]には痛[いた]みが伴[ともな]う。 | Sự trưởng thành luôn đi kèm đau đớn.
+次[つ]ぐ | v1 | THỨ | xếp sau, tiếp theo | - | - | 大阪[おおさか]は東京[とうきょう]に次[つ]ぐ大都市[だいとし]だ。 | Osaka là đô thị lớn chỉ sau Tokyo.
+生[しょう]じる | v2 | SINH | phát sinh | 問題[もんだい] が {生じる} | phát sinh vấn đề | 計画[けいかく]に変更[へんこう]が生[しょう]じた。 | Đã phát sinh thay đổi trong kế hoạch.
+及[およ]ぶ | v1 | CẬP | lan đến, đạt tới | 被害[ひがい] が {及ぶ} | thiệt hại lan tới | 会議[かいぎ]は五[ご]時間[じかん]に及[およ]んだ。 | Cuộc họp kéo dài tới năm tiếng.
+及[およ]ぼす | v1 | CẬP | gây ra (ảnh hưởng) | 影響[えいきょう] を {及ぼす} | gây ảnh hưởng | 睡眠[すいみん]不足[ぶそく]は健康[けんこう]に悪[わる]い影響[えいきょう]を及[およ]ぼす。 | Thiếu ngủ gây ảnh hưởng xấu tới sức khỏe.
+達[たっ]する | v3 | ĐẠT | đạt tới | 目標[もくひょう] に {達する} | đạt mục tiêu | 参加者[さんかしゃ]は千[せん]人[にん]に達[たっ]した。 | Số người tham gia đã đạt một nghìn.
+占[し]める | v2 | CHIẾM | chiếm | 過半数[かはんすう] を {占める} | chiếm quá bán | 女性[じょせい]が社員[しゃいん]の六[ろく]割[わり]を占[し]めている。 | Nữ chiếm sáu mươi phần trăm nhân viên.
+収[おさ]める | v2 | THU | thu được, đạt được | 成功[せいこう] を {収める} | đạt thành công | 新[あたら]しい商品[しょうひん]は大[おお]きな成功[せいこう]を収[おさ]めた。 | Sản phẩm mới đạt được thành công lớn.
+収[おさ]まる | v1 | THU | được thu xếp, nằm gọn | - | - | 荷物[にもつ]が全部[ぜんぶ]箱[はこ]に収[おさ]まった。 | Đồ đạc đã nằm gọn hết trong thùng.
+改[あらた]まる | v1 | CẢI | được đổi mới; trang trọng | - | - | 年[とし]が改[あらた]まり、新[あたら]しい目標[もくひょう]を立[た]てた。 | Năm mới sang, tôi đặt mục tiêu mới.
+添[そ]える | v2 | THIÊM | đính kèm, thêm vào | 手紙[てがみ] を {添える} | kèm lá thư | プレゼントにカードを添[そ]えて渡[わた]した。 | Tôi tặng quà kèm theo tấm thiệp.
+負[お]う | v1 | PHỤ | gánh; mang | 責任[せきにん] を {負う} | gánh trách nhiệm | 事故[じこ]の責任[せきにん]は会社[かいしゃ]が負[お]う。 | Công ty gánh trách nhiệm về vụ tai nạn.
+果[は]たす | v1 | QUẢ | hoàn thành, thực hiện | 役割[やくわり] を {果たす} | làm tròn vai trò | 彼[かれ]はリーダーとしての役割[やくわり]を果[は]たした。 | Anh ấy đã làm tròn vai trò trưởng nhóm.
+欠[か]かす | v1 | KHIẾM | thiếu, bỏ (thói quen) | - | - | 毎朝[まいあさ]の散歩[さんぽ]を欠[か]かしたことがない。 | Tôi chưa từng bỏ buổi đi dạo mỗi sáng.
+目指[めざ]す | v1 | MỤC CHỈ | nhắm tới | 優勝[ゆうしょう] を {目指す} | nhắm chức vô địch | 医者[いしゃ]を目指[めざ]して勉強[べんきょう]している。 | Tôi đang học để trở thành bác sĩ.
+努[つと]める | v2 | NỖ | nỗ lực | - | - | 毎日[まいにち]健康[けんこう]の維持[いじ]に努[つと]めている。 | Ngày ngày tôi cố gắng giữ gìn sức khỏe.
+務[つと]まる | v1 | VỤ | đảm đương được | - | - | 私[わたし]に部長[ぶちょう]の仕事[しごと]が務[つと]まるだろうか。 | Không biết tôi có đảm đương được công việc trưởng phòng không.
+取[と]り入[い]れる | v2 | THỦ NHẬP | tiếp thu, áp dụng | 意見[いけん] を {取り入れる} | tiếp thu ý kiến | 若[わか]い人[ひと]の意見[いけん]を取[と]り入[い]れた商品[しょうひん]だ。 | Đây là sản phẩm tiếp thu ý kiến người trẻ.
+加[くわ]える | v2 | GIA | thêm vào | 説明[せつめい] を {加える} | bổ sung giải thích | 新[あたら]しいメンバーをチームに加[くわ]えた。 | Đã thêm thành viên mới vào đội.
+加[くわ]わる | v1 | GIA | tham gia, được thêm | - | - | 新[あたら]しい仲間[なかま]がチームに加[くわ]わった。 | Một đồng đội mới đã gia nhập đội.
+補[おぎな]う | v1 | BỔ | bù đắp | 不足[ふそく] を {補う} | bù chỗ thiếu | 経験[けいけん]の不足[ふそく]を努力[どりょく]で補[おぎな]う。 | Bù đắp sự thiếu kinh nghiệm bằng nỗ lực.
+除[のぞ]く | v1 | TRỪ | loại trừ, trừ ra | - | - | 日曜日[にちようび]を除[のぞ]いて毎日[まいにち]営業[えいぎょう]しています。 | Mở cửa hàng ngày trừ chủ nhật.
+省[はぶ]く | v1 | TỈNH | lược bỏ | 手間[てま] を {省く} | bớt công sức | 無駄[むだ]な説明[せつめい]を省[はぶ]いて話[はな]した。 | Tôi lược bỏ phần giải thích thừa khi nói.
+誤[あやま]る | v1 | NGỘ | sai lầm | 判断[はんだん] を {誤る} | phán đoán sai | 道[みち]を誤[あやま]って遠回[とおまわ]りした。 | Đi nhầm đường nên phải đi vòng.
+立[た]ち上[あ]げる | v2 | LẬP THƯỢNG | khởi động, thành lập | 会社[かいしゃ] を {立ち上げる} | thành lập công ty | 友人[ゆうじん]と新[あたら]しい会社[かいしゃ]を立[た]ち上[あ]げた。 | Tôi cùng bạn thành lập công ty mới.
+切[き]り上[あ]げる | v2 | THIẾT THƯỢNG | kết thúc sớm; làm tròn lên | 仕事[しごと] を {切り上げる} | kết thúc công việc | 今日[きょう]は早[はや]めに仕事[しごと]を切[き]り上[あ]げた。 | Hôm nay tôi kết thúc công việc sớm.
+繰[く]り上[あ]げる | v2 | SÀO THƯỢNG | đẩy sớm lên | 予定[よてい] を {繰り上げる} | dời lịch sớm hơn | 会議[かいぎ]が一[いち]時間[じかん]繰[く]り上[あ]げられた。 | Cuộc họp được dời sớm lên một tiếng.
+育[そだ]て上[あ]げる | v2 | DỤC THƯỢNG | nuôi dạy khôn lớn | - | - | 母[はは]は一人[ひとり]で三人[さんにん]の子供[こども]を育[そだ]て上[あ]げた。 | Mẹ một mình nuôi ba đứa con khôn lớn.
+数[かぞ]え上[あ]げる | v2 | SỐ THƯỢNG | kể ra, liệt kê | - | - | 彼[かれ]の長所[ちょうしょ]は数[かぞ]え上[あ]げたらきりがない。 | Ưu điểm của anh ấy kể ra thì không hết.
+重[かさ]ね合[あ]わせる | v2 | TRÙNG HỢP | chồng lên; liên tưởng | 自分[じぶん] を {重ね合わせる} | thấy mình trong đó | 主人公[しゅじんこう]に自分[じぶん]を重[かさ]ね合[あ]わせて読[よ]んだ。 | Tôi đọc và thấy hình bóng mình trong nhân vật chính.
+持[も]ち合[あ]わせる | v2 | TRÌ HỢP | có sẵn trong người | - | - | あいにく今[いま]、現金[げんきん]を持[も]ち合[あ]わせていない。 | Tiếc là giờ tôi không mang theo tiền mặt.
+聞[き]き直[なお]す | v1 | VĂN TRỰC | hỏi lại | - | - | よく聞[き]こえなかったので聞[き]き直[なお]した。 | Nghe không rõ nên tôi hỏi lại.
+やり直[なお]す | v1 | TRỰC | làm lại | - | - | 計算[けいさん]を間違[まちが]えて最初[さいしょ]からやり直[なお]した。 | Tính sai nên tôi làm lại từ đầu.
+かけ直[なお]す | v1 | TRỰC | gọi lại | 電話[でんわ] を {かけ直す} | gọi điện lại | 後[あと]でこちらからかけ直[なお]します。 | Lát nữa tôi sẽ gọi lại.
+したがって | conj | - | do đó | - | - | 雨[あめ]が強[つよ]い。したがって、試合[しあい]は中止[ちゅうし]する。 | Mưa to. Do đó trận đấu bị hủy.
+だが | conj | - | nhưng | - | - | 努力[どりょく]した。だが、結果[けっか]は出[で]なかった。 | Đã nỗ lực. Nhưng không có kết quả.
+しかも | conj | - | hơn nữa | - | - | この店[みせ]は安[やす]くて、しかもおいしい。 | Quán này rẻ, hơn nữa lại ngon.
+要[よう]するに | adv | YẾU | tóm lại | - | - | 要[よう]するに、お金[かね]が足[た]りないということだ。 | Tóm lại là thiếu tiền.
+すなわち | conj | - | tức là | - | - | 日本[にほん]の首都[しゅと]、すなわち東京[とうきょう]は人口[じんこう]が多[おお]い。 | Thủ đô Nhật Bản, tức là Tokyo, có dân số đông.
+あるいは | conj | - | hoặc là | - | - | 電話[でんわ]あるいはメールでご連絡[れんらく]ください。 | Xin liên lạc qua điện thoại hoặc email.
+ただ | conj,adv | - | có điều; chỉ | - | - | いい部屋[へや]だ。ただ、駅[えき]から少[すこ]し遠[とお]い。 | Phòng tốt. Có điều hơi xa ga.
+本来[ほんらい] | n,adv | BẢN LAI | vốn dĩ | - | - | 本来[ほんらい]なら社長[しゃちょう]が挨拶[あいさつ]するべきだ。 | Lẽ ra giám đốc phải phát biểu chào hỏi.
+元々[もともと] | adv | NGUYÊN | vốn dĩ, ban đầu | - | - | この建物[たてもの]は元々[もともと]学校[がっこう]だった。 | Tòa nhà này vốn là trường học.
+必[かなら]ずしも | adv | TẤT | không hẳn (đi với phủ định) | - | - | 高[たか]い物[もの]が必[かなら]ずしもいいとは限[かぎ]らない。 | Đồ đắt chưa chắc đã tốt.
+単[たん]に | adv | ĐƠN | đơn thuần | - | - | 単[たん]に知識[ちしき]を覚[おぼ]えるだけでは意味[いみ]がない。 | Chỉ đơn thuần nhớ kiến thức thì vô nghĩa.
+むしろ | adv | - | ngược lại, đúng hơn là | - | - | 彼[かれ]は冷[つめ]たいのではなく、むしろ照[て]れ屋[や]なのだ。 | Anh ấy không lạnh lùng, đúng hơn là hay ngượng.
+かえって | adv | - | trái lại | - | - | 薬[くすり]を飲[の]んだら、かえって具合[ぐあい]が悪[わる]くなった。 | Uống thuốc vào trái lại còn mệt hơn.
+果[は]たして | adv | QUẢ | liệu có thật | - | - | 果[は]たして彼[かれ]は約束[やくそく]を守[まも]るだろうか。 | Liệu anh ta có giữ lời hứa không?
+恐[おそ]らく | adv | KHỦNG | có lẽ | - | - | 恐[おそ]らく明日[あした]は雨[あめ]だろう。 | Có lẽ mai trời mưa.
+いわゆる | adj-na | - | cái gọi là | - | - | 彼[かれ]はいわゆる天才[てんさい]だ。 | Anh ấy là cái gọi là thiên tài.
+あらゆる | adj-na | - | mọi, tất cả | {あらゆる} 方法[ほうほう] | mọi cách | あらゆる方法[ほうほう]を試[ため]したがだめだった。 | Đã thử mọi cách nhưng không được.
+一方[いっぽう] | n,conj | NHẤT PHƯƠNG | một mặt; mặt khác | - | - | 都会[とかい]は便利[べんり]だ。一方[いっぽう]、家賃[やちん]が高[たか]い。 | Thành phố tiện lợi. Mặt khác, tiền thuê nhà đắt.

@@ -1,0 +1,84 @@
+@topic t04
+@ja 家[いえ]と身[み]の回[まわ]り
+@vi Nhà cửa và đồ dùng
+@desc Các phòng trong nhà, đồ đạc, vật dụng cá nhân và những thao tác đóng mở, bật tắt hằng ngày.
+家[いえ] | n | GIA | nhà | 家[いえ] を 建[た]てる | xây nhà | 両親[りょうしん]は田舎[いなか]に家[いえ]を建[た]てました。 | Bố mẹ tôi đã xây nhà ở quê.
+うち | n | - | nhà (của mình) | - | - | 今日[きょう]はうちで晩[ばん]ご飯[はん]を食[た]べます。 | Hôm nay tôi ăn tối ở nhà.
+部屋[へや] | n | BỘ ỐC | căn phòng | 部屋[へや] を 片付[かたづ]ける | dọn phòng | 週末[しゅうまつ]に部屋[へや]を片付[かたづ]けました。 | Cuối tuần tôi đã dọn phòng.
+玄関[げんかん] | n | HUYỀN QUAN | lối vào nhà, sảnh | - | - | 日本[にほん]では玄関[げんかん]で靴[くつ]を脱[ぬ]ぎます。 | Ở Nhật người ta cởi giày ở lối vào.
+お風呂[ふろ] | n | PHONG LỮ | bồn tắm; việc tắm | お風呂[ふろ] に 入[はい]る | tắm bồn | 毎晩[まいばん]お風呂[ふろ]に入[はい]ります。 | Tối nào tôi cũng tắm bồn.
+シャワー | n | - | vòi hoa sen | シャワー を 浴[あ]びる | tắm vòi sen | 朝[あさ]、シャワーを浴[あ]びてから出[で]かけます。 | Buổi sáng tôi tắm rồi mới ra ngoài.
+トイレ | n | - | nhà vệ sinh | - | - | すみません、トイレはどこですか。 | Xin lỗi, nhà vệ sinh ở đâu ạ?
+お手洗[てあら]い | n | THỦ TẨY | nhà vệ sinh (lịch sự) | - | - | お手洗[てあら]いをお借[か]りしてもいいですか。 | Tôi dùng nhờ nhà vệ sinh được không ạ?
+窓[まど] | n | SONG | cửa sổ | 窓[まど] を 開[あ]ける | mở cửa sổ | 暑[あつ]いので、窓[まど]を開[あ]けてもいいですか。 | Nóng quá, tôi mở cửa sổ được không?
+ドア | n | - | cửa (cánh cửa) | - | - | ドアの前[まえ]に荷物[にもつ]がありました。 | Trước cửa có một kiện hàng.
+戸[と] | n | HỘ | cửa (kiểu Nhật, cửa trượt) | - | - | 寒[さむ]いので戸[と]を閉[し]めてください。 | Lạnh quá, hãy đóng cửa lại.
+門[もん] | n | MÔN | cổng | - | - | 学校[がっこう]の門[もん]は八[はち]時[じ]に開[あ]きます。 | Cổng trường mở lúc tám giờ.
+庭[にわ] | n | ĐÌNH | vườn | - | - | 庭[にわ]にきれいな花[はな]が咲[さ]いています。 | Trong vườn có hoa nở rất đẹp.
+階段[かいだん] | n | GIAI ĐOẠN | cầu thang | 階段[かいだん] を 上[のぼ]る | leo cầu thang | エレベーターがないので、階段[かいだん]を上[のぼ]ります。 | Không có thang máy nên tôi leo cầu thang.
+廊下[ろうか] | n | LANG HẠ | hành lang | - | - | 廊下[ろうか]を走[はし]らないでください。 | Đừng chạy ngoài hành lang.
+壁[かべ] | n | BÍCH | bức tường | - | - | 壁[かべ]にカレンダーが掛[か]かっています。 | Trên tường có treo lịch.
+アパート | n | - | căn hộ, nhà trọ | - | - | 駅[えき]の近[ちか]くのアパートに住[す]んでいます。 | Tôi sống ở căn hộ gần ga.
+建物[たてもの] | n | KIẾN VẬT | tòa nhà | - | - | あの高[たか]い建物[たてもの]は病院[びょういん]です。 | Tòa nhà cao kia là bệnh viện.
+机[つくえ] | n | KỶ | bàn học, bàn làm việc | - | - | 机[つくえ]の上[うえ]に本[ほん]があります。 | Trên bàn có quyển sách.
+椅子[いす] | n | Y TỬ | ghế | 椅子[いす] に 座[すわ]る | ngồi lên ghế | どうぞ、この椅子[いす]に座[すわ]ってください。 | Mời anh ngồi vào ghế này.
+テーブル | n | - | bàn (ăn) | - | - | テーブルの上[うえ]に料理[りょうり]を並[なら]べました。 | Tôi đã bày đồ ăn lên bàn.
+ベッド | n | - | giường | - | - | このホテルのベッドは大[おお]きいです。 | Giường ở khách sạn này to.
+布団[ふとん] | n | BỐ ĐOÀN | chăn đệm kiểu Nhật | 布団[ふとん] を 敷[し]く | trải đệm | 夜[よる]、畳[たたみ]の上[うえ]に布団[ふとん]を敷[し]きます。 | Buổi tối tôi trải đệm lên chiếu tatami.
+本棚[ほんだな] | n | BẢN BẰNG | giá sách | - | - | 本棚[ほんだな]に日本語[にほんご]の本[ほん]がたくさんあります。 | Trên giá có nhiều sách tiếng Nhật.
+引[ひ]き出[だ]し | n | DẪN XUẤT | ngăn kéo | - | - | はさみは机[つくえ]の引[ひ]き出[だ]しの中[なか]です。 | Cái kéo ở trong ngăn kéo bàn.
+鏡[かがみ] | n | KÍNH | gương | 鏡[かがみ] を 見[み]る | soi gương | 出[で]かける前[まえ]に鏡[かがみ]を見[み]ます。 | Tôi soi gương trước khi ra ngoài.
+カーテン | n | - | rèm cửa | - | - | 朝[あさ]起[お]きたら、カーテンを開[あ]けます。 | Sáng thức dậy tôi kéo rèm ra.
+テレビ | n | - | ti vi | テレビ を 見[み]る | xem ti vi | 夜[よる]は家族[かぞく]とテレビを見[み]ます。 | Buổi tối tôi xem ti vi cùng gia đình.
+ラジオ | n | - | đài, radio | ラジオ を 聞[き]く | nghe đài | 車[くるま]の中[なか]でラジオを聞[き]きます。 | Tôi nghe đài trong xe.
+電話[でんわ] | n,v3 | ĐIỆN THOẠI | điện thoại; gọi điện | 電話[でんわ] を かける | gọi điện thoại | 夜[よる]、友達[ともだち]に電話[でんわ]をかけました。 | Buổi tối tôi đã gọi điện cho bạn.
+電気[でんき] | n | ĐIỆN KHÍ | điện; đèn điện | 電気[でんき] を 消[け]す | tắt đèn | 寝[ね]る前[まえ]に電気[でんき]を消[け]してください。 | Hãy tắt đèn trước khi ngủ.
+冷蔵庫[れいぞうこ] | n | LÃNH TÀNG KHỐ | tủ lạnh | - | - | 牛乳[ぎゅうにゅう]は冷蔵庫[れいぞうこ]に入[い]れてください。 | Hãy cho sữa vào tủ lạnh.
+エアコン | n | - | máy điều hòa | エアコン を つける | bật điều hòa | 暑[あつ]いので、エアコンをつけましょう。 | Nóng quá, bật điều hòa lên nào.
+ストーブ | n | - | lò sưởi | - | - | 冬[ふゆ]はストーブの前[まえ]が一番[いちばん]暖[あたた]かいです。 | Mùa đông chỗ trước lò sưởi là ấm nhất.
+パソコン | n | - | máy tính cá nhân | パソコン が 壊[こわ]れる | máy tính bị hỏng | パソコンが壊[こわ]れて、仕事[しごと]ができません。 | Máy tính hỏng nên tôi không làm việc được.
+洗濯[せんたく] | n,v3 | TẨY TRẠC | giặt giũ | 洗濯[せんたく] が たまる | đồ giặt bị dồn lại | 忙[いそが]しくて、洗濯[せんたく]がたまっています。 | Bận quá nên đồ giặt dồn lại.
+掃除[そうじ] | n,v3 | TẢO TRỪ | dọn dẹp, quét dọn | 部屋[へや] を {掃除[そうじ]} する | dọn phòng | 毎週[まいしゅう]日曜日[にちようび]に部屋[へや]を掃除[そうじ]します。 | Chủ nhật hằng tuần tôi dọn phòng.
+時計[とけい] | n | THỜI KẾ | đồng hồ | 時計[とけい] が 遅[おく]れる | đồng hồ chạy chậm | この時計[とけい]は五[ご]分[ふん]遅[おく]れています。 | Đồng hồ này chậm năm phút.
+鍵[かぎ] | n | KIỆN | chìa khóa; ổ khóa | 鍵[かぎ] を かける | khóa cửa | 出[で]かける時[とき]は必[かなら]ず鍵[かぎ]をかけてください。 | Khi ra ngoài nhất định phải khóa cửa.
+箱[はこ] | n | TƯƠNG | cái hộp | - | - | この箱[はこ]の中[なか]に何[なに]がありますか。 | Trong hộp này có gì?
+かばん | n | - | cặp, túi xách | - | - | かばんの中[なか]に財布[さいふ]が入[はい]っています。 | Trong cặp có ví.
+傘[かさ] | n | TẢN | ô, dù | 傘[かさ] を さす | che ô | 雨[あめ]なので、傘[かさ]をさして歩[ある]きました。 | Trời mưa nên tôi che ô đi bộ.
+財布[さいふ] | n | TÀI BỐ | ví tiền | 財布[さいふ] を 落[お]とす | đánh rơi ví | 駅[えき]で財布[さいふ]を落[お]としてしまいました。 | Tôi lỡ đánh rơi ví ở nhà ga.
+眼鏡[めがね] | n | NHÃN KÍNH | kính mắt | 眼鏡[めがね] を かける | đeo kính | 本[ほん]を読[よ]む時[とき]は眼鏡[めがね]をかけます。 | Khi đọc sách tôi đeo kính.
+写真[しゃしん] | n | TẢ CHÂN | bức ảnh | 写真[しゃしん] を 撮[と]る | chụp ảnh | ここで写真[しゃしん]を撮[と]ってもいいですか。 | Tôi chụp ảnh ở đây được không?
+カメラ | n | - | máy ảnh | - | - | 新[あたら]しいカメラを買[か]いました。 | Tôi đã mua máy ảnh mới.
+新聞[しんぶん] | n | TÂN VĂN | báo | 新聞[しんぶん] を 読[よ]む | đọc báo | 父[ちち]は毎朝[まいあさ]新聞[しんぶん]を読[よ]みます。 | Sáng nào bố tôi cũng đọc báo.
+雑誌[ざっし] | n | TẠP CHÍ | tạp chí | - | - | 電車[でんしゃ]の中[なか]で雑誌[ざっし]を読[よ]みました。 | Tôi đọc tạp chí trên tàu.
+手紙[てがみ] | n | THỦ CHỈ | thư | 手紙[てがみ] を 出[だ]す | gửi thư | 国[くに]の母[はは]に手紙[てがみ]を出[だ]しました。 | Tôi đã gửi thư cho mẹ ở quê.
+はがき | n | - | bưu thiếp | - | - | 旅行先[りょこうさき]から友達[ともだち]にはがきを送[おく]りました。 | Tôi gửi bưu thiếp cho bạn từ nơi du lịch.
+切手[きって] | n | THIẾT THỦ | tem | 切手[きって] を 貼[は]る | dán tem | 封筒[ふうとう]に切手[きって]を貼[は]ってください。 | Hãy dán tem lên phong bì.
+封筒[ふうとう] | n | PHONG ĐỒNG | phong bì | - | - | 書類[しょるい]を封筒[ふうとう]に入[い]れました。 | Tôi đã cho tài liệu vào phong bì.
+物[もの] | n | VẬT | đồ vật, thứ | - | - | 大切[たいせつ]な物[もの]はかばんに入[い]れてください。 | Đồ quan trọng hãy cho vào cặp.
+荷物[にもつ] | n | HÀ VẬT | hành lý; đồ đạc | 荷物[にもつ] を 預[あず]ける | gửi hành lý | ホテルに荷物[にもつ]を預[あず]けて、観光[かんこう]に行[い]きました。 | Tôi gửi hành lý ở khách sạn rồi đi tham quan.
+ごみ | n | - | rác | ごみ を 出[だ]す | đổ rác | 燃[も]えるごみは火曜日[かようび]に出[だ]してください。 | Rác cháy được hãy đổ vào thứ Ba.
+花瓶[かびん] | n | HOA BÌNH | bình hoa | - | - | 花瓶[かびん]に花[はな]を入[い]れました。 | Tôi cắm hoa vào bình.
+石鹸[せっけん] | n | THẠCH KIỀM | xà phòng | - | - | 石鹸[せっけん]でよく手[て]を洗[あら]ってください。 | Hãy rửa tay kỹ bằng xà phòng.
+タオル | n | - | khăn | - | - | お風呂[ふろ]の後[あと]、タオルで体[からだ]を拭[ふ]きます。 | Sau khi tắm tôi lau người bằng khăn.
+歯[は]ブラシ | n | XỈ | bàn chải đánh răng | - | - | 旅行[りょこう]に歯[は]ブラシを持[も]っていくのを忘[わす]れました。 | Tôi quên mang bàn chải khi đi du lịch.
+紙[かみ] | n | CHỈ | giấy | - | - | この紙[かみ]に答[こた]えを書[か]いてください。 | Hãy viết câu trả lời lên tờ giấy này.
+灰皿[はいざら] | n | HÔI MÃNH | gạt tàn | - | - | すみません、灰皿[はいざら]はありますか。 | Xin lỗi, có gạt tàn không ạ?
+ボタン | n | - | nút bấm; khuy áo | ボタン が 取[と]れる | khuy áo bị bung | シャツのボタンが取[と]れてしまいました。 | Khuy áo sơ mi bị bung mất rồi.
+ポケット | n | - | túi áo, túi quần | - | - | 鍵[かぎ]はポケットの中[なか]にあります。 | Chìa khóa ở trong túi.
+住所[じゅうしょ] | n | TRÚ SỞ | địa chỉ | 住所[じゅうしょ] が 変[か]わる | đổi địa chỉ | 引[ひ]っ越[こ]して住所[じゅうしょ]が変[か]わりました。 | Tôi chuyển nhà nên địa chỉ đã thay đổi.
+番号[ばんごう] | n | PHIÊN HIỆU | số (số thứ tự) | 電話[でんわ] {番号[ばんごう]} | số điện thoại | 電話[でんわ]番号[ばんごう]を教[おし]えてください。 | Hãy cho tôi số điện thoại.
+隣[となり] | n | LÂN | bên cạnh; nhà bên | 隣[となり] の 人[ひと] | người bên cạnh, hàng xóm | 隣[となり]の人[ひと]にあいさつしました。 | Tôi đã chào người hàng xóm.
+近所[きんじょ] | n | CẬN SỞ | hàng xóm, quanh nhà | 近所[きんじょ] の スーパー | siêu thị gần nhà | 近所[きんじょ]のスーパーは夜[よる]十[じゅう]時[じ]まで開[あ]いています。 | Siêu thị gần nhà mở đến mười giờ tối.
+広[ひろ]い | adj-i | QUẢNG | rộng | 広[ひろ]い 部屋[へや] | căn phòng rộng | もっと広[ひろ]い部屋[へや]に住[す]みたいです。 | Tôi muốn sống ở căn phòng rộng hơn.
+狭[せま]い | adj-i | HIỆP | chật, hẹp | 道[みち] が 狭[せま]い | đường hẹp | この辺[へん]は道[みち]が狭[せま]いので、気[き]をつけてください。 | Khu này đường hẹp, hãy cẩn thận.
+明[あか]るい | adj-i | MINH | sáng sủa; vui vẻ | 明[あか]るい 部屋[へや] | căn phòng sáng sủa | 南向[みなみむ]きの明[あか]るい部屋[へや]がいいです。 | Tôi thích phòng hướng nam sáng sủa.
+暗[くら]い | adj-i | ÁM | tối | 外[そと] が 暗[くら]い | bên ngoài trời tối | 冬[ふゆ]は五[ご]時[じ]になると外[そと]が暗[くら]くなります。 | Mùa đông cứ năm giờ là bên ngoài tối.
+開[あ]ける | v2 | KHAI | mở (cái gì) | ドア を 開[あ]ける | mở cửa | ドアを開[あ]けて、中[なか]に入[はい]ってください。 | Hãy mở cửa và đi vào trong.
+閉[し]める | v2 | BẾ | đóng (cái gì) | 窓[まど] を 閉[し]める | đóng cửa sổ | 雨[あめ]が降[ふ]ってきたので、窓[まど]を閉[し]めました。 | Trời đổ mưa nên tôi đã đóng cửa sổ.
+開[あ]く | v1 | KHAI | (cái gì) mở ra | 店[みせ] が 開[あ]く | cửa hàng mở cửa | この店[みせ]は十[じゅう]時[じ]に開[あ]きます。 | Cửa hàng này mở lúc mười giờ.
+閉[し]まる | v1 | BẾ | (cái gì) đóng lại | 銀行[ぎんこう] が 閉[し]まる | ngân hàng đóng cửa | 銀行[ぎんこう]は午後[ごご]三[さん]時[じ]に閉[し]まります。 | Ngân hàng đóng cửa lúc ba giờ chiều.
+つける | v2 | - | bật (đèn, máy) | 電気[でんき] を つける | bật đèn | 暗[くら]いので電気[でんき]をつけてください。 | Tối quá, hãy bật đèn lên.
+消[け]す | v1 | TIÊU | tắt; xóa | テレビ を 消[け]す | tắt ti vi | 勉強[べんきょう]するので、テレビを消[け]してください。 | Tôi học bài, hãy tắt ti vi đi.
+置[お]く | v1 | TRÍ | đặt, để | 荷物[にもつ] を 置[お]く | đặt hành lý | 荷物[にもつ]はここに置[お]いてください。 | Hãy để hành lý ở đây.
+並[なら]べる | v2 | TỊNH | xếp, bày | 椅子[いす] を 並[なら]べる | xếp ghế | 会議[かいぎ]の前[まえ]に椅子[いす]を並[なら]べます。 | Trước cuộc họp tôi xếp ghế.
+押[お]す | v1 | ÁP | ấn, đẩy | ボタン を 押[お]す | ấn nút | 降[お]りる時[とき]はこのボタンを押[お]してください。 | Khi xuống xe hãy ấn nút này.

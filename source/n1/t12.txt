@@ -1,0 +1,211 @@
+@topic t12
+@ja 心理[しんり]・感情[かんじょう]・人間関係[にんげんかんけい]
+@vi Tâm lý, cảm xúc và quan hệ con người
+@desc Những trạng thái tâm lý tinh tế, cảm xúc phức tạp và cách cư xử trong quan hệ giữa người với người.
+胸[むね]の内[うち] | n | HUNG NỘI | nỗi lòng | {胸の内} を 明[あ]かす | giãi bày nỗi lòng | 彼女[かのじょ]は初[はじ]めて胸[むね]の内[うち]を明[あ]かした。 | Lần đầu tiên cô ấy giãi bày nỗi lòng.
+心中[しんちゅう] | n | TÂM TRUNG | trong lòng, tâm tư | {心中} 察[さっ]する | thấu hiểu nỗi lòng | ご心中[しんちゅう]お察[さっ]しいたします。 | Tôi xin chia sẻ nỗi lòng của anh chị.
+情念[じょうねん] | n | TÌNH NIỆM | tình cảm mãnh liệt | - | - | その小説[しょうせつ]は女性[じょせい]の激[はげ]しい情念[じょうねん]を描[えが]いている。 | Tiểu thuyết miêu tả tình cảm mãnh liệt của người phụ nữ.
+意気込[いきご]み | n | Ý KHÍ VÀO | sự hăng hái, quyết tâm | - | - | 新[しん]年度[ねんど]の意気込[いきご]みを語[かた]ってください。 | Hãy nói về quyết tâm cho năm mới.
+意気込[いきご]む | v1 | Ý KHÍ VÀO | hăng hái, hừng hực | - | - | 今度[こんど]こそ優勝[ゆうしょう]すると選手[せんしゅ]たちは意気込[いきご]んでいる。 | Các tuyển thủ hừng hực quyết tâm lần này sẽ vô địch.
+気概[きがい] | n | KHÍ KHÁI | khí khái | - | - | 若者[わかもの]には困難[こんなん]に立[た]ち向[む]かう気概[きがい]がほしい。 | Tôi mong người trẻ có khí khái đương đầu với khó khăn.
+気迫[きはく] | n | KHÍ BÁCH | khí thế | - | - | 選手[せんしゅ]たちの気迫[きはく]に相手[あいて]は押[お]されていた。 | Đối phương bị lấn át bởi khí thế của các tuyển thủ.
+執念[しゅうねん] | n | CHẤP NIỆM | sự cố chấp, quyết tâm dai dẳng | {執念} を 燃[も]やす | dốc hết quyết tâm | 刑事[けいじ]は執念[しゅうねん]で犯人[はんにん]を追[お]い続[つづ]けた。 | Viên thám tử bền bỉ truy đuổi hung thủ.
+執着[しゅうちゃく] | n,v3 | CHẤP TRƯỚC | bám víu, chấp niệm | - | - | 過去[かこ]に執着[しゅうちゃく]せず前[まえ]を向[む]こう。 | Đừng bám víu quá khứ, hãy nhìn về phía trước.
+悔恨[かいこん] | n | HỐI HẬN | hối hận | - | - | 彼[かれ]の手記[しゅき]には深[ふか]い悔恨[かいこん]がつづられていた。 | Hồi ký của ông chất chứa nỗi hối hận sâu sắc.
+自責[じせき]の念[ねん] | n | TỰ TRÁCH NIỆM | cảm giác tự trách | - | - | 事故[じこ]の後[あと]、彼[かれ]は自責[じせき]の念[ねん]にかられた。 | Sau tai nạn, anh bị dằn vặt bởi cảm giác tự trách.
+念[ねん] | n | NIỆM | ý niệm, tâm niệm; sự cẩn thận | {念} の ため | để cho chắc | 念[ねん]のため、もう一度[いちど]確認[かくにん]してください。 | Để cho chắc, hãy kiểm tra lại một lần nữa.
+屈辱[くつじょく] | n | KHUẤT NHỤC | khuất nhục | - | - | 大差[たいさ]で負[ま]けたのは屈辱[くつじょく]だった。 | Thua đậm là một nỗi nhục.
+挫折[ざせつ] | n,v3 | TỎA CHIẾT | vấp ngã, thất bại | - | - | 彼[かれ]は何度[なんど]も挫折[ざせつ]を味[あじ]わいながら夢[ゆめ]を実現[じつげん]した。 | Anh hiện thực hóa ước mơ sau nhiều lần vấp ngã.
+挫折感[ざせつかん] | n | TỎA CHIẾT CẢM | cảm giác thất bại | - | - | 受験[じゅけん]に失敗[しっぱい]して強[つよ]い挫折[ざせつ]感[かん]を味[あじ]わった。 | Trượt thi khiến tôi nếm trải cảm giác thất bại nặng nề.
+落胆[らくたん] | n,v3 | LẠC ĐẢM | thất vọng, nản lòng | - | - | 結果[けっか]を聞[き]いて彼[かれ]はひどく落胆[らくたん]した。 | Nghe kết quả, anh ấy vô cùng thất vọng.
+失意[しつい] | n | THẤT Ý | thất ý, chán chường | {失意} の どん底[ぞこ] | đáy sâu tuyệt vọng | 失意[しつい]のどん底[ぞこ]から彼[かれ]は立[た]ち上[あ]がった。 | Anh đứng dậy từ đáy sâu tuyệt vọng.
+悲嘆[ひたん] | n,v3 | BI THÁN | bi thương, than khóc | {悲嘆} に 暮[く]れる | chìm trong đau buồn | 息子[むすこ]を失[うしな]った母親[ははおや]は悲嘆[ひたん]に暮[く]れた。 | Người mẹ mất con chìm trong đau buồn.
+哀愁[あいしゅう] | n | AI SẦU | nỗi buồn man mác | - | - | 秋[あき]の夕暮[ゆうぐ]れにはどこか哀愁[あいしゅう]が漂[ただよ]う。 | Chiều thu phảng phất nỗi buồn man mác.
+郷愁[きょうしゅう] | n | HƯƠNG SẦU | nỗi nhớ quê | - | - | 古[ふる]い歌[うた]を聞[き]くと郷愁[きょうしゅう]を覚[おぼ]える。 | Nghe bài hát xưa lại thấy nhớ quê.
+ノスタルジー | n | - | hoài niệm | - | - | 昭和[しょうわ]の町並[まちな]みにノスタルジーを感[かん]じる。 | Tôi cảm thấy hoài niệm với phố xá thời Showa.
+疎外感[そがいかん] | n | SƠ NGOẠI CẢM | cảm giác bị gạt ra | - | - | 新[あたら]しい職場[しょくば]でしばらく疎外[そがい]感[かん]を感[かん]じた。 | Ở nơi làm mới, một thời gian tôi cảm thấy bị gạt ra ngoài.
+虚無感[きょむかん] | n | HƯ VÔ CẢM | cảm giác trống rỗng | - | - | 目標[もくひょう]を達成[たっせい]した後[あと]、なぜか虚無[きょむ]感[かん]に襲[おそ]われた。 | Đạt được mục tiêu rồi không hiểu sao lại thấy trống rỗng.
+空虚[くうきょ] | n,adj-na | KHÔNG HƯ | trống rỗng | - | - | 彼[かれ]の言葉[ことば]は空虚[くうきょ]に響[ひび]いた。 | Lời anh ta nghe trống rỗng.
+喪失感[そうしつかん] | n | TANG THẤT CẢM | cảm giác mất mát | - | - | ペットが死[し]んで大[おお]きな喪失[そうしつ]感[かん]を抱[かか]えている。 | Thú cưng chết, tôi mang cảm giác mất mát lớn.
+満足感[まんぞくかん] | n | MÃN TÚC CẢM | cảm giác thỏa mãn | - | - | 山頂[さんちょう]に着[つ]いたときの満足[まんぞく]感[かん]は格別[かくべつ]だ。 | Cảm giác thỏa mãn khi lên tới đỉnh thật đặc biệt.
+幸福感[こうふくかん] | n | HẠNH PHÚC CẢM | cảm giác hạnh phúc | - | - | おいしいものを食[た]べると幸福[こうふく]感[かん]に包[つつ]まれる。 | Ăn món ngon là cảm thấy hạnh phúc.
+焦燥[しょうそう] | n | TIÊU TÁO | sốt ruột, bồn chồn | {焦燥} 感[かん] | cảm giác bồn chồn | 締[し]め切[き]りが迫[せま]り、焦燥[しょうそう]感[かん]が募[つの]った。 | Hạn chót đến gần, cảm giác bồn chồn càng lớn.
+苛立[いらだ]ち | n | HÀ LẬP | sự bực bội | - | - | 渋滞[じゅうたい]が続[つづ]き、運転手[うんてんしゅ]は苛立[いらだ]ちを隠[かく]せなかった。 | Tắc đường kéo dài, tài xế không giấu được bực bội.
+憤[いきどお]り | n | PHẪN | phẫn nộ | {憤り} を 感[かん]じる | thấy phẫn nộ | 不正[ふせい]に対[たい]して強[つよ]い憤[いきどお]りを感[かん]じる。 | Tôi cảm thấy phẫn nộ mạnh mẽ trước sự bất chính.
+立腹[りっぷく] | n,v3 | LẬP PHÚC | nổi giận | - | - | 客[きゃく]は店[みせ]の対応[たいおう]にご立腹[りっぷく]だった。 | Khách nổi giận với cách xử lý của cửa hàng.
+ねたみ | n | - | sự đố kỵ | - | - | 彼[かれ]の成功[せいこう]は周囲[しゅうい]のねたみを買[か]った。 | Thành công của anh gây ra sự đố kỵ của những người xung quanh.
+羨望[せんぼう] | n,v3 | TIỆN VỌNG | ngưỡng mộ, thèm muốn | {羨望} の まなざし | ánh mắt ghen tị | 彼女[かのじょ]は周[まわ]りから羨望[せんぼう]のまなざしで見[み]られた。 | Cô ấy được mọi người nhìn bằng ánh mắt ngưỡng mộ.
+妬[ねた]ましい | adj-i | ĐỐ | đáng ghen tị | - | - | 何[なん]でもできる兄[あに]が妬[ねた]ましかった。 | Tôi ghen tị với người anh làm gì cũng giỏi.
+好感[こうかん] | n | HẢO CẢM | thiện cảm | {好感} を 持[も]つ | có thiện cảm | 彼[かれ]の誠実[せいじつ]な態度[たいど]に好感[こうかん]を持[も]った。 | Tôi có thiện cảm với thái độ chân thành của anh ấy.
+反感[はんかん] | n | PHẢN CẢM | ác cảm | {反感} を 買[か]う | chuốc ác cảm | 偉[えら]そうな態度[たいど]が周囲[しゅうい]の反感[はんかん]を買[か]った。 | Thái độ kẻ cả đã chuốc lấy ác cảm của mọi người.
+嫌悪感[けんおかん] | n | HIỀM ÁC CẢM | cảm giác ghê tởm | - | - | 暴力[ぼうりょく]的[てき]な映像[えいぞう]に嫌悪[けんお]感[かん]を覚[おぼ]えた。 | Tôi thấy ghê tởm trước hình ảnh bạo lực.
+侮蔑[ぶべつ] | n,v3 | VŨ MIỆT | khinh miệt | - | - | 彼[かれ]は侮蔑[ぶべつ]の目[め]で私[わたし]を見[み]た。 | Hắn nhìn tôi bằng ánh mắt khinh miệt.
+侮[あなど]る | v1 | VŨ | coi thường | 相手[あいて] を {侮る} | coi thường đối thủ | 相手[あいて]を侮[あなど]ってはいけない。 | Không được coi thường đối thủ.
+蔑[さげす]む | v1 | MIỆT | khinh bỉ | - | - | 人[ひと]を職業[しょくぎょう]で蔑[さげす]むべきではない。 | Không nên khinh bỉ người khác vì nghề nghiệp.
+見[み]くびる | v1 | KIẾN | xem nhẹ, đánh giá thấp | - | - | 若[わか]いからといって見[み]くびらないでほしい。 | Đừng vì tôi trẻ mà xem nhẹ.
+畏敬[いけい] | n,v3 | ÚY KÍNH | kính sợ | {畏敬} の 念[ねん] | lòng kính sợ | 大自然[だいしぜん]に畏敬[いけい]の念[ねん]を抱[いだ]く。 | Tôi mang lòng kính sợ trước thiên nhiên hùng vĩ.
+畏怖[いふ] | n,v3 | ÚY BỐ | kính sợ, khiếp sợ | - | - | 人々[ひとびと]は火山[かざん]を神[かみ]として畏怖[いふ]してきた。 | Con người kính sợ núi lửa như thần linh.
+感嘆[かんたん] | n,v3 | CẢM THÁN | thán phục | - | - | 職人[しょくにん]の見事[みごと]な技[わざ]に誰[だれ]もが感嘆[かんたん]した。 | Ai cũng thán phục tay nghề tuyệt vời của người thợ.
+感涙[かんるい] | n | CẢM LỆ | nước mắt xúc động | {感涙} に むせぶ | nghẹn ngào xúc động | 優勝[ゆうしょう]の瞬間[しゅんかん]、監督[かんとく]は感涙[かんるい]にむせんだ。 | Khoảnh khắc vô địch, HLV nghẹn ngào rơi lệ.
+哀[あわ]れみ | n | AI | lòng thương hại | - | - | 哀[あわ]れみの目[め]で見[み]られるのは嫌[いや]だ。 | Tôi ghét bị nhìn bằng ánh mắt thương hại.
+慈[いつく]しみ | n | TỪ | lòng thương yêu | - | - | 母親[ははおや]は慈[いつく]しみ深[ぶか]く子[こ]を育[そだ]てた。 | Người mẹ nuôi con bằng tình thương yêu sâu sắc.
+情[なさ]け | n | TÌNH | lòng thương, tình người | {情け} を かける | rủ lòng thương | 「情[なさ]けは人[ひと]のためならず」ということわざがある。 | Có câu tục ngữ "thương người là thương mình".
+親近感[しんきんかん] | n | THÂN CẬN CẢM | cảm giác gần gũi | {親近感} を 覚[おぼ]える | thấy gần gũi | 同[おな]じ出身[しゅっしん]地[ち]だと知[し]って親近[しんきん]感[かん]を覚[おぼ]えた。 | Biết cùng quê, tôi thấy gần gũi hơn.
+不信[ふしん] | n | BẤT TÍN | mất lòng tin | 政治[せいじ] {不信} | mất lòng tin vào chính trị | 相次[あいつ]ぐ不祥事[ふしょうじ]で国民[こくみん]の政治[せいじ]不信[ふしん]が高[たか]まった。 | Bê bối liên tiếp khiến người dân càng mất lòng tin vào chính trị.
+不信感[ふしんかん] | n | BẤT TÍN CẢM | cảm giác nghi ngờ | {不信感} を 抱[いだ]く | nảy sinh nghi ngờ | 説明[せつめい]が二転三転[にてんさんてん]し、不信[ふしん]感[かん]を抱[いだ]いた。 | Lời giải thích thay đổi xoành xoạch khiến tôi nảy sinh nghi ngờ.
+疑念[ぎねん] | n | NGHI NIỆM | mối nghi | {疑念} を 抱[いだ]く | ôm mối nghi | 調査[ちょうさ]結果[けっか]に疑念[ぎねん]を抱[いだ]く専門家[せんもんか]もいる。 | Có chuyên gia ôm mối nghi về kết quả điều tra.
+猜疑心[さいぎしん] | n | SAI NGHI TÂM | lòng đa nghi | - | - | 何度[なんど]もだまされて猜疑[さいぎ]心[しん]が強[つよ]くなった。 | Bị lừa nhiều lần nên tôi trở nên đa nghi.
+警戒心[けいかいしん] | n | CẢNH GIỚI TÂM | sự cảnh giác | - | - | 野良猫[のらねこ]は警戒[けいかい]心[しん]が強[つよ]い。 | Mèo hoang rất cảnh giác.
+恐怖心[きょうふしん] | n | KHỦNG BỐ TÂM | nỗi sợ | - | - | 事故[じこ]以来[いらい]、車[くるま]に乗[の]ることに恐怖[きょうふ]心[しん]がある。 | Từ sau tai nạn, tôi sợ ngồi xe hơi.
+怖[お]じ気[け]づく | v1 | BỐ KHÍ | chùn bước, nhát sợ | - | - | 本番[ほんばん]直前[ちょくぜん]になって怖[お]じ気[け]づいてしまった。 | Ngay trước giờ diễn tôi lại chùn bước.
+ひるむ | v1 | - | nao núng | - | - | 彼[かれ]は相手[あいて]の大声[おおごえ]にもひるまなかった。 | Anh ấy không nao núng trước tiếng quát của đối phương.
+たじろぐ | v1 | - | chùn lại, lùi bước | - | - | 鋭[するど]い質問[しつもん]に彼[かれ]は一瞬[いっしゅん]たじろいだ。 | Trước câu hỏi sắc bén, anh ta thoáng chùn lại.
+動[どう]じる | v2 | ĐỘNG | dao động, bối rối | - | - | 彼女[かのじょ]は何[なに]があっても動[どう]じない。 | Cô ấy không hề dao động dù có chuyện gì.
+狼狽[ろうばい] | n,v3 | LANG BỐI | hoảng hốt, bối rối | - | - | 突然[とつぜん]の質問[しつもん]に彼[かれ]は狼狽[ろうばい]した。 | Anh ta hoảng hốt trước câu hỏi bất ngờ.
+ぎょっとする | v3 | - | giật mình kinh hãi | - | - | 暗[くら]がりから人[ひと]が出[で]てきてぎょっとした。 | Có người từ chỗ tối bước ra khiến tôi giật bắn mình.
+葛藤[かっとう] | n,v3 | CÁT ĐẰNG | giằng xé nội tâm | - | - | 仕事[しごと]と家庭[かてい]の間[あいだ]で葛藤[かっとう]している。 | Tôi đang giằng xé giữa công việc và gia đình.
+ジレンマ | n | - | thế lưỡng nan | - | - | 正直[しょうじき]に言[い]うべきか黙[だま]るべきか、ジレンマに陥[おちい]った。 | Tôi rơi vào thế lưỡng nan: nói thật hay im lặng.
+迷[まよ]い | n | MÊ | sự do dự, băn khoăn | - | - | 彼[かれ]の言葉[ことば]で迷[まよ]いが吹[ふ]っ切[き]れた。 | Nhờ lời anh ấy mà tôi hết băn khoăn.
+躊躇[ちゅうちょ] | n,v3 | TRÙ TRỪ | do dự | - | - | 困[こま]ったときは躊躇[ちゅうちょ]なく相談[そうだん]してください。 | Khi gặp khó, đừng do dự mà hãy hỏi ý.
+ためらい | n | - | sự ngập ngừng | - | - | 彼女[かのじょ]はためらいがちに口[くち]を開[ひら]いた。 | Cô ấy ngập ngừng mở lời.
+覚悟[かくご] | n,v3 | GIÁC NGỘ | sẵn sàng chấp nhận, quyết tâm | {覚悟} を 決[き]める | quyết tâm | 失敗[しっぱい]は覚悟[かくご]の上[うえ]で挑戦[ちょうせん]した。 | Tôi thử thách mình, đã sẵn sàng chấp nhận thất bại.
+決意[けつい] | n,v3 | QUYẾT Ý | quyết ý, quyết tâm | {決意} を 新[あら]たにする | quyết tâm lại | 新年[しんねん]に決意[けつい]を新[あら]たにした。 | Năm mới tôi củng cố lại quyết tâm.
+断念[だんねん] | n,v3 | ĐOẠN NIỆM | từ bỏ (ý định) | - | - | けがのため出場[しゅつじょう]を断念[だんねん]した。 | Vì chấn thương nên đành từ bỏ việc thi đấu.
+諦[あきら]め | n | ĐẾ | sự cam chịu, từ bỏ | {諦め} が つく | chấp nhận được | 全力[ぜんりょく]を尽[つ]くしたので諦[あきら]めがついた。 | Đã dốc hết sức nên tôi cũng cam lòng.
+欲望[よくぼう] | n | DỤC VỌNG | dục vọng | - | - | 人間[にんげん]の欲望[よくぼう]には限[かぎ]りがない。 | Dục vọng con người là vô hạn.
+欲求[よっきゅう] | n | DỤC CẦU | nhu cầu, ham muốn | {欲求} 不満[ふまん] | thiếu thỏa mãn | 人[ひと]には認[みと]められたいという欲求[よっきゅう]がある。 | Con người có nhu cầu được công nhận.
+願望[がんぼう] | n | NGUYỆN VỌNG | mong muốn | - | - | 誰[だれ]にでも変身[へんしん]願望[がんぼう]はある。 | Ai cũng có mong muốn lột xác.
+切望[せつぼう] | n,v3 | THIẾT VỌNG | khao khát | - | - | 住民[じゅうみん]は駅[えき]の建設[けんせつ]を切望[せつぼう]している。 | Cư dân khao khát nhà ga được xây dựng.
+渇望[かつぼう] | n,v3 | KHÁT VỌNG | khát khao | - | - | 戦後[せんご]の人々[ひとびと]は平和[へいわ]を渇望[かつぼう]していた。 | Người dân sau chiến tranh khát khao hòa bình.
+熱望[ねつぼう] | n,v3 | NHIỆT VỌNG | tha thiết mong mỏi | - | - | ファンは再結成[さいけっせい]を熱望[ねつぼう]している。 | Người hâm mộ tha thiết mong ban nhạc tái hợp.
+野望[やぼう] | n | DÃ VỌNG | tham vọng | - | - | 彼[かれ]は世界[せかい]一[いち]になるという野望[やぼう]を抱[いだ]いている。 | Anh ôm tham vọng trở thành số một thế giới.
+野心[やしん] | n | DÃ TÂM | dã tâm, tham vọng | {野心} 家[か] | người nhiều tham vọng | 彼[かれ]は野心[やしん]家[か]で、いつも上[うえ]を目指[めざ]している。 | Anh ta là người đầy tham vọng, luôn nhắm lên cao.
+志[こころざし] | n | CHÍ | chí hướng | {志} を 立[た]てる | lập chí | 彼[かれ]は医者[いしゃ]になる志[こころざし]を立[た]てた。 | Anh lập chí trở thành bác sĩ.
+抱負[ほうふ] | n | BÃO PHỤ | hoài bão, dự định | 新年[しんねん] の {抱負} | dự định năm mới | 新年[しんねん]の抱負[ほうふ]を書[か]いてみよう。 | Hãy thử viết ra dự định năm mới.
+信念[しんねん] | n | TÍN NIỆM | niềm tin, tín niệm | {信念} を 貫[つらぬ]く | giữ vững niềm tin | 彼[かれ]は最後[さいご]まで自分[じぶん]の信念[しんねん]を貫[つらぬ]いた。 | Ông giữ vững niềm tin của mình đến cùng.
+心構[こころがま]え | n | TÂM CẤU | sự chuẩn bị tinh thần | - | - | 社会[しゃかい]人[じん]としての心構[こころがま]えを教[おそ]わった。 | Tôi được dạy về sự chuẩn bị tinh thần của người đi làm.
+自覚[じかく] | n,v3 | TỰ GIÁC | tự nhận thức | {自覚} が 足[た]りない | thiếu ý thức | 親[おや]になった自覚[じかく]が生[う]まれた。 | Tôi đã có ý thức về việc mình làm cha mẹ.
+誘惑[ゆうわく] | n,v3 | DỤ HOẶC | cám dỗ | {誘惑} に 負[ま]ける | thua cám dỗ | ダイエット中[ちゅう]なのに甘[あま]い物[もの]の誘惑[ゆうわく]に負[ま]けた。 | Đang ăn kiêng mà vẫn thua cám dỗ đồ ngọt.
+油断[ゆだん] | n,v3 | DU ĐOẠN | lơ là, chủ quan | {油断} 大敵[たいてき] | chủ quan là kẻ thù | 最後[さいご]まで油断[ゆだん]してはいけない。 | Không được chủ quan cho tới phút cuối.
+衝動[しょうどう] | n | XUNG ĐỘNG | sự thôi thúc | {衝動} 買[が]い | mua sắm bốc đồng | 逃[に]げ出[だ]したい衝動[しょうどう]に駆[か]られた。 | Tôi bị thôi thúc muốn bỏ trốn.
+包容力[ほうようりょく] | n | BAO DUNG LỰC | sự bao dung | - | - | 彼[かれ]は包容[ほうよう]力[りょく]のある人[ひと]で、誰[だれ]からも慕[した]われている。 | Anh ấy bao dung nên được mọi người quý mến.
+苦心[くしん] | n,v3 | KHỔ TÂM | khổ công | - | - | 苦心[くしん]の末[すえ]、新[あたら]しい料理[りょうり]を完成[かんせい]させた。 | Sau bao khổ công, anh hoàn thành món ăn mới.
+痛感[つうかん] | n,v3 | THỐNG CẢM | thấm thía | - | - | 自分[じぶん]の力不足[ちからぶそく]を痛感[つうかん]した。 | Tôi thấm thía sự kém cỏi của bản thân.
+先入観[せんにゅうかん] | n | TIÊN NHẬP QUAN | định kiến, thành kiến | - | - | 先入[せんにゅう]観[かん]を持[も]たずに人[ひと]と接[せっ]したい。 | Tôi muốn tiếp xúc với người khác không định kiến.
+過[あやま]ち | n | QUÁ | lỗi lầm | {過ち} を 犯[おか]す | phạm lỗi | 若[わか]いころの過[あやま]ちを今[いま]も悔[く]やんでいる。 | Đến giờ tôi vẫn hối hận lỗi lầm thời trẻ.
+恥[はじ] | n | SỈ | sự xấu hổ | {恥} を かく | bị bẽ mặt | 人前[ひとまえ]で間違[まちが]えて恥[はじ]をかいた。 | Tôi làm sai trước mọi người nên bị bẽ mặt.
+赤面[せきめん] | n,v3 | XÍCH DIỆN | đỏ mặt | - | - | 若[わか]いころの日記[にっき]を読[よ]み返[かえ]して赤面[せきめん]した。 | Đọc lại nhật ký thời trẻ mà đỏ cả mặt.
+錯覚[さっかく] | n,v3 | THÁC GIÁC | ảo giác, ngộ nhận | {錯覚} に 陥[おちい]る | rơi vào ngộ nhận | 一瞬[いっしゅん]、時間[じかん]が止[と]まったような錯覚[さっかく]を覚[おぼ]えた。 | Thoáng chốc tôi có ảo giác như thời gian ngừng lại.
+妄想[もうそう] | n,v3 | VỌNG TƯỞNG | hoang tưởng | - | - | 彼[かれ]の話[はなし]はただの妄想[もうそう]だ。 | Chuyện của hắn chỉ là hoang tưởng.
+幻想[げんそう] | n | HUYỄN TƯỞNG | ảo tưởng | {幻想} を 抱[いだ]く | ôm ảo tưởng | 都会[とかい]の生活[せいかつ]に幻想[げんそう]を抱[いだ]いていた。 | Tôi từng ôm ảo tưởng về cuộc sống thành phố.
+幻覚[げんかく] | n | HUYỄN GIÁC | ảo giác | - | - | 高熱[こうねつ]で幻覚[げんかく]を見[み]た。 | Sốt cao làm tôi bị ảo giác.
+直感[ちょっかん] | n,v3 | TRỰC CẢM | trực giác | {直感} で 選[えら]ぶ | chọn theo trực giác | 彼[かれ]が犯人[はんにん]だと直感[ちょっかん]した。 | Trực giác mách bảo hắn là hung thủ.
+虫[むし]の知[し]らせ | exp | TRÙNG TRI | linh cảm | - | - | 虫[むし]の知[し]らせか、その日[ひ]は朝[あさ]から胸騒[むなさわ]ぎがした。 | Có lẽ là linh cảm, hôm đó từ sáng tôi đã thấy bồn chồn.
+第六感[だいろっかん] | n | ĐỆ LỤC CẢM | giác quan thứ sáu | - | - | 第[だい]六[ろっ]感[かん]が働[はたら]いて事故[じこ]を避[さ]けられた。 | Giác quan thứ sáu giúp tôi tránh được tai nạn.
+上機嫌[じょうきげん] | n,adj-na | THƯỢNG CƠ HIỀM | vui vẻ, phấn khởi | - | - | 試合[しあい]に勝[か]って父[ちち]は上[じょう]機嫌[きげん]だ。 | Trận đấu thắng, bố tôi vui vẻ hẳn.
+有頂天[うちょうてん] | n,adj-na | HỮU ĐỈNH THIÊN | sướng mê ly | - | - | 合格[ごうかく]の知[し]らせに彼[かれ]は有頂天[うちょうてん]になった。 | Nghe tin đỗ, anh ấy sướng mê ly.
+得意[とくい]げ | adj-na | ĐẮC Ý | vẻ đắc ý | - | - | 弟[おとうと]は満点[まんてん]のテストを得意[とくい]げに見[み]せた。 | Em trai đắc ý khoe bài kiểm tra điểm tuyệt đối.
+得意満面[とくいまんめん] | n | ĐẮC Ý MÃN DIỆN | mặt mày hớn hở đắc ý | - | - | 優勝[ゆうしょう]した彼[かれ]は得意[とくい]満面[まんめん]だった。 | Vô địch xong, anh ấy mặt mày hớn hở.
+憂[うれ]い | n | ƯU | nỗi lo, buồn rầu | {憂い} を 帯[お]びる | phảng phất nỗi buồn | 彼女[かのじょ]の横顔[よこがお]はどこか憂[うれ]いを帯[お]びていた。 | Gương mặt nghiêng của cô phảng phất nỗi buồn.
+気恥[きは]ずかしい | adj-i | KHÍ SỈ | ngượng ngùng | - | - | 人前[ひとまえ]で褒[ほ]められると気恥[きは]ずかしい。 | Được khen trước mọi người tôi thấy ngượng.
+後[うし]ろめたい | adj-i | HẬU | áy náy, cắn rứt | - | - | 友達[ともだち]に嘘[うそ]をついて後[うし]ろめたい気持[きも]ちだ。 | Nói dối bạn nên tôi thấy áy náy.
+やましい | adj-i | - | cắn rứt lương tâm | - | - | やましいことは何[なに]もしていない。 | Tôi không làm gì để phải cắn rứt cả.
+心苦[こころぐる]しい | adj-i | TÂM KHỔ | áy náy, khó lòng | - | - | 何度[なんど]もお願[ねが]いするのは心苦[こころぐる]しい。 | Nhờ vả nhiều lần tôi thấy áy náy.
+歯[は]がゆい | adj-i | XỈ | sốt ruột, bực bội | - | - | 実力[じつりょく]を出[だ]し切[き]れない後輩[こうはい]を見[み]ていて歯[は]がゆい。 | Nhìn đàn em không phát huy được thực lực mà sốt ruột.
+もどかしい | adj-i | - | bứt rứt, sốt ruột | - | - | 言[い]いたいことがうまく言葉[ことば]にできず、もどかしい。 | Không diễn đạt được điều muốn nói, thật bứt rứt.
+やるせない | adj-i | - | buồn khôn nguôi | - | - | 友[とも]を失[うしな]ったやるせない思[おも]いを歌[うた]にした。 | Tôi viết thành bài hát nỗi buồn khôn nguôi vì mất bạn.
+わびしい | adj-i | - | cô quạnh, hiu hắt | - | - | 一人[ひとり]で食[た]べる夕食[ゆうしょく]はわびしい。 | Ăn tối một mình thật hiu hắt.
+うっとうしい | adj-i | - | khó chịu, u ám | - | - | 梅雨[つゆ]の時期[じき]はうっとうしい天気[てんき]が続[つづ]く。 | Mùa mưa thời tiết u ám kéo dài.
+疎[うと]ましい | adj-i | SƠ | đáng ghét, muốn tránh xa | - | - | 何[なに]かと口出[くちだ]ししてくる親戚[しんせき]が疎[うと]ましい。 | Họ hàng hay xen vào chuyện mình thật đáng ghét.
+恨[うら]めしい | adj-i | HẬN | đáng hận, oán trách | - | - | 旅行[りょこう]の日[ひ]に限[かぎ]って降[ふ]る雨[あめ]が恨[うら]めしい。 | Trời mưa đúng ngày đi du lịch thật đáng hận.
+いたたまれない | adj-i | - | không chịu nổi (muốn bỏ đi) | - | - | 二人[ふたり]の口論[こうろん]を見[み]ていていたたまれなくなった。 | Nhìn hai người cãi nhau, tôi không chịu nổi.
+悩[なや]ましい | adj-i | NÃO | đau đầu, khó nghĩ | {悩ましい} 問題[もんだい] | vấn đề nan giải | どちらを選[えら]ぶか悩[なや]ましいところだ。 | Chọn bên nào thật khó nghĩ.
+なれなれしい | adj-i | - | suồng sã | - | - | 初対面[しょたいめん]なのになれなれしい態度[たいど]をとられた。 | Mới gặp lần đầu mà anh ta tỏ thái độ suồng sã.
+ぼやく | v1 | - | cằn nhằn | - | - | 父[ちち]は給料[きゅうりょう]が安[やす]いとぼやいている。 | Bố tôi cằn nhằn lương thấp.
+愚痴[ぐち]る | v1 | NGU SI | than vãn | - | - | 仕事[しごと]のことを友人[ゆうじん]に愚痴[ぐち]った。 | Tôi than vãn với bạn về công việc.
+すねる | v2 | - | dỗi | - | - | 弟[おとうと]はお菓子[かし]をもらえなくてすねている。 | Em trai dỗi vì không được cho bánh kẹo.
+ひがむ | v1 | - | tủi thân, ganh tị | - | - | 兄[あに]ばかり褒[ほ]められて弟[おとうと]はひがんでいる。 | Chỉ anh được khen, em trai thấy tủi thân.
+いじける | v2 | - | tự ti, co mình lại | - | - | 叱[しか]られてばかりいると子供[こども]はいじけてしまう。 | Cứ bị mắng mãi, trẻ sẽ tự ti co mình.
+めげる | v2 | - | nản chí | - | - | 何度[なんど]断[ことわ]られてもめげずに挑戦[ちょうせん]した。 | Bị từ chối bao lần vẫn không nản, tiếp tục thử.
+くじける | v2 | - | nản lòng, gục ngã | - | - | 一度[いちど]の失敗[しっぱい]でくじけてはいけない。 | Đừng gục ngã chỉ vì một lần thất bại.
+奮[ふる]い立[た]つ | v1 | PHẤN LẬP | phấn chấn, vùng dậy | - | - | 仲間[なかま]の声援[せいえん]で奮[ふる]い立[た]った。 | Tiếng cổ vũ của đồng đội khiến tôi phấn chấn vùng dậy.
+甘[あま]んじる | v2 | CAM | cam chịu | - | - | 現状[げんじょう]に甘[あま]んじることなく努力[どりょく]を続[つづ]ける。 | Tiếp tục nỗ lực, không cam chịu hiện trạng.
+癒[いや]す | v1 | DŨ | chữa lành, xoa dịu | 心[こころ] を {癒す} | xoa dịu tâm hồn | 温泉[おんせん]で旅[たび]の疲[つか]れを癒[いや]した。 | Ngâm suối nóng xua tan mệt mỏi chuyến đi.
+癒[い]える | v2 | DŨ | lành lại | - | - | 時間[じかん]がたっても心[こころ]の傷[きず]は癒[い]えない。 | Dù thời gian trôi, vết thương lòng vẫn chưa lành.
+労[ねぎら]う | v1 | LAO | tỏ lòng cảm ơn công sức | - | - | 社長[しゃちょう]は社員[しゃいん]の苦労[くろう]を労[ねぎら]った。 | Giám đốc tri ân công sức của nhân viên.
+寄[よ]り添[そ]う | v1 | KÝ THIÊM | sát cánh, đồng cảm | 患者[かんじゃ] に {寄り添う} | đồng hành cùng bệnh nhân | 看護[かんご]師[し]は患者[かんじゃ]の気持[きも]ちに寄[よ]り添[そ]う。 | Y tá thấu cảm với tâm trạng bệnh nhân.
+はにかむ | v1 | - | e thẹn | - | - | 少女[しょうじょ]ははにかみながら花束[はなたば]を渡[わた]した。 | Cô bé e thẹn trao bó hoa.
+恥[は]じらう | v1 | SỈ | ngượng ngùng | - | - | 花嫁[はなよめ]は恥[は]じらうように微笑[ほほえ]んだ。 | Cô dâu mỉm cười ngượng ngùng.
+懐[なつ]く | v1 | HOÀI | quấn quýt, thân thiết | - | - | 子犬[こいぬ]はすぐ私[わたし]に懐[なつ]いた。 | Chú chó con nhanh chóng quấn quýt với tôi.
+構[かま]う | v1 | CẤU | để ý, bận tâm; chăm sóc | - | - | 私[わたし]のことは構[かま]わないで先[さき]に行[い]ってください。 | Đừng bận tâm đến tôi, cứ đi trước đi.
+ねだる | v1 | - | vòi vĩnh | - | - | 子供[こども]にゲームを買[か]ってとねだられた。 | Con vòi mua cho nó trò chơi.
+いたわる | v1 | - | quan tâm, chăm sóc | 体[からだ] を {いたわる} | giữ gìn sức khỏe | お年寄[としよ]りをいたわる気持[きも]ちを大切[たいせつ]にしたい。 | Tôi muốn trân trọng tấm lòng quan tâm người già.
+触[ふ]れ合[あ]う | v1 | XÚC HỢP | giao lưu, tiếp xúc | 自然[しぜん] と {触れ合う} | gần gũi thiên nhiên | 子供[こども]たちは動物[どうぶつ]と触[ふ]れ合[あ]って楽[たの]しんだ。 | Bọn trẻ vui vẻ tiếp xúc với động vật.
+とぼける | v2 | - | giả ngây giả ngô | - | - | 彼[かれ]は知[し]っているくせにとぼけている。 | Biết rõ mà anh ta vẫn giả ngây.
+ごまかす | v1 | - | lừa, che giấu, lấp liếm | - | - | 失敗[しっぱい]を笑[わら]ってごまかした。 | Tôi cười để lấp liếm thất bại.
+慎[つつし]む | v1 | THẬN | thận trọng, kiêng | 言葉[ことば] を {慎む} | giữ lời ăn tiếng nói | 人前[ひとまえ]では発言[はつげん]を慎[つつし]むべきだ。 | Trước mặt người khác nên thận trọng lời nói.
+わきまえる | v2 | - | biết điều, hiểu rõ | 立場[たちば] を {わきまえる} | biết thân phận | 自分[じぶん]の立場[たちば]をわきまえて発言[はつげん]しなさい。 | Hãy phát ngôn cho đúng vị trí của mình.
+惜[お]しむ | v1 | TÍCH | tiếc, quý | 別[わか]れ を {惜しむ} | lưu luyến chia tay | 彼[かれ]は努力[どりょく]を惜[お]しまない人[ひと]だ。 | Anh ấy là người không tiếc công sức.
+はばかる | v1 | - | e ngại, kiêng dè | 人目[ひとめ] を {はばかる} | e ngại người ngoài | 人目[ひとめ]をはばかって小声[こごえ]で話[はな]した。 | E ngại người xung quanh nên nói nhỏ.
+懲[こ]りる | v2 | TRỪNG | chừa, sợ không dám | - | - | 一度[いちど]失敗[しっぱい]して懲[こ]りたので、二度[にど]とやらない。 | Thất bại một lần là chừa rồi, không làm lại nữa.
+とがめる | v2 | - | trách cứ; cắn rứt | 気[き] が {とがめる} | cắn rứt | 嘘[うそ]をついたことに気[き]がとがめる。 | Tôi cắn rứt vì đã nói dối.
+おだてる | v2 | - | tâng bốc | - | - | おだてられて、つい引[ひ]き受[う]けてしまった。 | Được tâng bốc nên tôi lỡ nhận lời.
+ちやほやする | v3 | - | nuông chiều, tâng bốc | - | - | 一人[ひとり]っ子[こ]なので皆[みな]にちやほやされて育[そだ]った。 | Là con một nên tôi được mọi người nuông chiều.
+けなす | v1 | - | chê bai | - | - | 人[ひと]の作品[さくひん]をけなすのは簡単[かんたん]だ。 | Chê bai tác phẩm người khác thì dễ.
+うぬぼれる | v2 | - | tự mãn | - | - | 少[すこ]し褒[ほ]められたくらいでうぬぼれてはいけない。 | Mới được khen chút không được tự mãn.
+嘆[なげ]く | v1 | THÁN | than thở | - | - | 祖父[そふ]は最近[さいきん]の若者[わかもの]の礼儀[れいぎ]のなさを嘆[なげ]いた。 | Ông tôi than thở thanh niên bây giờ thiếu lễ phép.
+悔[く]いる | v2 | HỐI | hối hận, ân hận | - | - | 悔[く]いのないように全力[ぜんりょく]を尽[つ]くそう。 | Hãy dốc hết sức để khỏi phải hối hận.
+案[あん]じる | v2 | ÁN | lo lắng | 身[み] を {案じる} | lo cho an nguy | 母[はは]は遠[とお]くに住[す]む息子[むすこ]の身[み]を案[あん]じている。 | Người mẹ lo cho con trai sống ở xa.
+省[かえり]みる | v2 | TỈNH | tự xét lại | 自[みずか]ら を {省みる} | tự kiểm điểm | 失敗[しっぱい]したときこそ自分[じぶん]を省[かえり]みるべきだ。 | Chính lúc thất bại càng nên tự xét lại mình.
+顧[かえり]みる | v2 | CỐ | nhìn lại, đoái hoài | - | - | 彼[かれ]は危険[きけん]を顧[かえり]みず子供[こども]を助[たす]けた。 | Anh cứu đứa trẻ, không đoái hoài đến nguy hiểm.
+用心[ようじん] | n,v3 | DỤNG TÂM | đề phòng | {用心} 深[ぶか]い | thận trọng | 火[ひ]の用心[ようじん]を呼[よ]びかける。 | Kêu gọi đề phòng hỏa hoạn.
+専念[せんねん] | n,v3 | CHUYÊN NIỆM | chuyên tâm | - | - | 引退[いんたい]後[ご]は子育[こそだ]てに専念[せんねん]したい。 | Sau khi giải nghệ, tôi muốn chuyên tâm nuôi con.
+激励[げきれい] | n,v3 | KHÍCH LỆ | khích lệ, động viên | - | - | 監督[かんとく]は選手[せんしゅ]たちを激励[げきれい]した。 | HLV động viên các tuyển thủ.
+青春[せいしゅん] | n | THANH XUÂN | tuổi thanh xuân | - | - | 部活[ぶかつ]に打[う]ち込[こ]んだ日々[ひび]は私[わたし]の青春[せいしゅん]だった。 | Những ngày miệt mài câu lạc bộ là thanh xuân của tôi.
+晩年[ばんねん] | n | VÃN NIÊN | những năm cuối đời | - | - | 画家[がか]は晩年[ばんねん]を故郷[こきょう]で過[す]ごした。 | Họa sĩ sống những năm cuối đời ở quê.
+交友[こうゆう] | n | GIAO HỮU | giao du bạn bè | - | - | 彼[かれ]は交友[こうゆう]範囲[はんい]が広[ひろ]い。 | Anh ấy giao du rộng.
+交友[こうゆう]関係[かんけい] | n | GIAO HỮU QUAN HỆ | các mối quan hệ bạn bè | - | - | 親[おや]は子供[こども]の交友[こうゆう]関係[かんけい]が気[き]になる。 | Cha mẹ lo lắng về các mối quan hệ bạn bè của con.
+親交[しんこう] | n | THÂN GIAO | tình thân, giao hảo | {親交} を 深[ふか]める | thắt chặt tình thân | 留学[りゅうがく]中[ちゅう]に現地[げんち]の人々[ひとびと]と親交[しんこう]を深[ふか]めた。 | Trong thời gian du học tôi thắt chặt tình thân với người bản xứ.
+旧交[きゅうこう] | n | CỰU GIAO | tình bạn cũ | {旧交} を 温[あたた]める | hàn huyên chuyện xưa | 同窓[どうそう]会[かい]で旧友[きゅうゆう]と旧交[きゅうこう]を温[あたた]めた。 | Tôi hàn huyên với bạn cũ tại buổi họp lớp.
+確執[かくしつ] | n | XÁC CHẤP | mâu thuẫn, xích mích | - | - | 父[ちち]と兄[あに]の間[あいだ]には長年[ながねん]の確執[かくしつ]がある。 | Giữa bố và anh tôi có mâu thuẫn nhiều năm.
+不和[ふわ] | n | BẤT HÒA | bất hòa | 家庭[かてい] {不和} | gia đình bất hòa | 社内[しゃない]の不和[ふわ]が業績[ぎょうせき]に影響[えいきょう]した。 | Bất hòa nội bộ công ty ảnh hưởng tới kết quả kinh doanh.
+軋轢[あつれき] | n | YẾT LỊCH | va chạm, xung đột | {軋轢} を 生[う]む | gây xích mích | 急[きゅう]な改革[かいかく]は社員[しゃいん]との軋轢[あつれき]を生[う]んだ。 | Cải cách đột ngột gây xích mích với nhân viên.
+わだかまり | n | - | khúc mắc trong lòng | - | - | 話[はな]し合[あ]って二人[ふたり]のわだかまりが解[と]けた。 | Nói chuyện với nhau, khúc mắc giữa hai người đã được gỡ.
+信頼[しんらい]関係[かんけい] | n | TÍN LẠI QUAN HỆ | quan hệ tin cậy | - | - | 患者[かんじゃ]との信頼[しんらい]関係[かんけい]を築[きず]くことが大切[たいせつ]だ。 | Xây dựng quan hệ tin cậy với bệnh nhân là quan trọng.
+共依存[きょういぞん] | n | CỘNG Y TỒN | lệ thuộc lẫn nhau | - | - | 二人[ふたり]は共依存[きょういぞん]の関係[かんけい]に陥[おちい]っていた。 | Hai người rơi vào mối quan hệ lệ thuộc lẫn nhau.
+甘[あま]え | n | CAM | sự ỷ lại, nũng nịu | - | - | 「できない」というのは甘[あま]えだと叱[しか]られた。 | Tôi bị mắng rằng nói "không làm được" là ỷ lại.
+引[ひ]け目[め] | n | DẪN MỤC | mặc cảm | {引け目} を 感[かん]じる | thấy mặc cảm | 学歴[がくれき]のことで引[ひ]け目[め]を感[かん]じている。 | Tôi thấy mặc cảm về học vấn.
+負[お]い目[め] | n | PHỤ MỤC | món nợ ân tình, áy náy | - | - | 彼[かれ]には昔[むかし]助[たす]けてもらった負[お]い目[め]がある。 | Tôi mang món nợ ân tình vì anh ấy từng giúp mình.
+恩義[おんぎ] | n | ÂN NGHĨA | ân nghĩa | - | - | 育[そだ]ててくれた祖父母[そふぼ]への恩義[おんぎ]は忘[わす]れない。 | Tôi không quên ân nghĩa với ông bà đã nuôi mình.
+義理[ぎり]人情[にんじょう] | n | NGHĨA LÝ NHÂN TÌNH | nghĩa lý và tình người | - | - | 下町[したまち]には義理[ぎり]人情[にんじょう]に厚[あつ]い人[ひと]が多[おお]い。 | Khu phố cổ có nhiều người trọng nghĩa tình.
+祝詞[のりと] | n | CHÚC TỪ | bài chúc tụng (thần đạo) | {祝詞}を奏[そう]する | đọc bài chúc tụng | 神主[かんぬし]が祝詞[のりと]を奏[そう]上[じょう]した。 | Thần chủ tấu bài chúc tụng.
+神楽[かぐら] | n | THẦN LẠC | nhạc và múa thần đạo | {神楽}を舞[ま]う | múa kagura | 秋[あき]祭[まつ]りで神楽[かぐら]が奉納[ほうのう]された。 | Múa kagura được dâng lên trong lễ hội mùa thu.
+氏子[うじこ] | n | THỊ TỬ | con dân thần xã | {氏子}として | với tư cách con dân thần xã | 氏子[うじこ]が神社[じんじゃ]の祭[まつ]りを支[ささ]えている。 | Con dân thần xã đóng góp cho lễ hội đền.
+賽銭[さいせん] | n | TÁI TIỀN | tiền cúng | {賽銭}を入[い]れる | bỏ tiền cúng | 賽銭[さいせん]を入[い]れて手[て]を合[あ]わせた。 | Bỏ tiền cúng rồi chắp tay cầu nguyện.
+朱印[しゅいん] | n | CHU ẤN | ấn son | {朱印}を押[お]す | đóng ấn son | 寺社[じしゃ]で朱印[しゅいん]をいただいた。 | Nhận ấn son ở đền chùa.
+御朱印[ごしゅいん] | n | NGỰ CHU ẤN | ấn son (kính ngữ) | {御朱印}帳[ちょう] | sổ sưu tầm ấn son | 御朱印[ごしゅいん]帳[ちょう]を持[も]って神社[じんじゃ]巡[めぐ]りをする。 | Mang sổ ấn son đi thăm các đền.
+鏡餅[かがみもち] | n | KÍNH BÍNH | bánh gạo trang trí năm mới | {鏡餅}を飾[かざ]る | trang trí kagami mochi | 正月[しょうがつ]に鏡餅[かがみもち]を神棚[かみだな]に供[そな]える。 | Đặt kagami mochi lên bàn thờ vào dịp Tết.
+屠蘇[とそ] | n | ĐỒ TÔ | rượu năm mới | {屠蘇}を飲[の]む | uống rượu toso | 元旦[がんたん]に家族[かぞく]で屠蘇[とそ]を飲[の]む。 | Gia đình cùng uống rượu toso vào mùng một Tết.
+年賀[ねんが] | n | NIÊN HẠ | chúc mừng năm mới | {年賀}状[じょう] | thiệp chúc Tết | 年賀[ねんが]状[じょう]を書[か]いて送[おく]る。 | Viết và gửi thiệp chúc Tết.
+新年[しんねん] | n | TÂN NIÊN | năm mới | {新年}を迎[むか]える | đón năm mới | 新年[しんねん]を迎[むか]えて初詣[はつもうで]に行[い]く。 | Đón năm mới rồi đi viếng đền đầu năm.
+暦[こよみ] | n | LỊCH | lịch | 旧[きゅう]{暦} | lịch âm | 暦[こよみ]の上[うえ]ではもう春[はる]だ。 | Theo lịch thì đã là mùa xuân.
+旧暦[きゅうれき] | n | CỰU LỊCH | lịch âm | {旧暦}の正月[しょうがつ] | Tết âm lịch | 中国[ちゅうごく]では旧暦[きゅうれき]の正月[しょうがつ]を祝[いわ]う。 | Trung Quốc ăn mừng Tết âm lịch.
+二十四節気[にじゅうしせっき] | n | NHỊ THẬP TỨ TIẾT KHÍ | nhị thập tứ tiết khí | {二十四節気}の一[ひと]つ | một trong nhị thập tứ tiết khí | 二十四[にじゅうし]節気[せっき]の立春[りっしゅん]は春[はる]の始[はじ]まりだ。 | Lập Xuân trong nhị thập tứ tiết khí là khởi đầu mùa xuân.
+盂蘭盆[うらぼん] | n | VU LAN BỒN | lễ Vu Lan | {盂蘭盆}会[え] | lễ hội Vu Lan | 盂蘭盆[うらぼん]会[え]に先祖[せんぞ]の霊[れい]を迎[むか]える。 | Đón linh hồn tổ tiên trong lễ Vu Lan.
+精進[しょうじん] | n | TINH TẤN | tu hành, ăn chay | {精進}料理[りょうり] | ẩm thực chay | 寺[てら]で精進[しょうじん]料理[りょうり]をいただいた。 | Được ăn ẩm thực chay ở chùa.
+忌[き]明[あ]け | n | KỴ MINH | hết tang | {忌[き]明[あ]け}を迎[むか]える | hết thời kỳ tang | 四十九[しじゅうく]日[にち]で忌明[きあ]けとなる。 | Hết tang sau bốn mươi chín ngày.
+弔問[ちょうもん] | n | ĐIẾU VẤN | phúng viếng | {弔問}する | phúng viếng | 故人[こじん]の自宅[じたく]に弔問[ちょうもん]に伺[うかが]った。 | Đến phúng viếng tại nhà người quá cố.
+献花[けんか] | n | HIẾN HOA | dâng hoa | {献花}する | dâng hoa | 慰霊碑[いれいひ]に献花[けんか]した。 | Dâng hoa tại bia tưởng niệm.
+焼香[しょうこう] | n | THIÊU HƯƠNG | thắp hương | {焼香}する | thắp hương | 一人[ひとり]ずつ順番[じゅんばん]に焼香[しょうこう]した。 | Lần lượt từng người thắp hương.
+告別[こくべつ] | n | CÁO BIỆT | từ biệt, tang lễ | {告別}式[しき] | lễ tang | 告別[こくべつ]式[しき]で弔辞[ちょうじ]を述[の]べた。 | Đọc điếu văn tại lễ tang.
+施主[せしゅ] | n | THÍ CHỦ | thí chủ, người cúng dường | {施主}として | với tư cách thí chủ | 施主[せしゅ]が法要[ほうよう]の費用[ひよう]を負担[ふたん]する。 | Thí chủ chịu chi phí buổi lễ.
+喪主[もしゅ] | n | TANG CHỦ | tang chủ | {喪主}を務[つと]める | làm tang chủ | 長男[ちょうなん]が喪主[もしゅ]を務[つと]めた。 | Con trai trưởng làm tang chủ.
+忌中[きちゅう] | n | KỴ TRUNG | đang trong kỳ tang | {忌中}の札[ふだ] | biển "đang tang" | 忌中[きちゅう]は祝[いわ]い事[ごと]を控[ひか]える。 | Trong kỳ tang kiêng chuyện vui mừng.
+数珠[じゅず] | n | SỐ CHÂU | chuỗi hạt | {数珠}を持[も]つ | cầm chuỗi hạt | 法事[ほうじ]には数珠[じゅず]を持参[じさん]する。 | Mang theo chuỗi hạt khi đi lễ.
+位牌[いはい] | n | VỊ BÀI | bài vị | {位牌}を祀[まつ]る | thờ bài vị | 仏壇[ぶつだん]に位牌[いはい]を祀[まつ]っている。 | Thờ bài vị trên bàn thờ Phật.
+追善[ついぜん] | n | TRUY THIỆN | cầu siêu | {追善}供養[くよう] | cầu siêu cho người đã khuất | 追善[ついぜん]供養[くよう]の法要[ほうよう]を営[いとな]んだ。 | Tổ chức buổi lễ cầu siêu cho người đã khuất.
+慰安[いあん] | n | ỦY AN | an ủi, giải trí | {慰安}旅行[りょこう] | du lịch giải trí | 社員[しゃいん]の慰安[いあん]旅行[りょこう]が企画[きかく]された。 | Chuyến du lịch giải trí cho nhân viên được lên kế hoạch.
+慰問[いもん] | n | ỦY VẤN | thăm hỏi | {慰問}する | thăm hỏi | 被災者[ひさいしゃ]を慰問[いもん]するために訪[おとず]れた。 | Đến thăm hỏi nạn nhân thiên tai.
+快挙[かいきょ] | n | KHOÁI CỬ | kỳ tích | {快挙}を成[な]し遂[と]げる | đạt được kỳ tích | オリンピックで金[きん]メダルという快挙[かいきょ]を成[な]し遂[と]げた。 | Đạt được kỳ tích huy chương vàng Olympic.
+壮挙[そうきょ] | n | TRÁNG CỬ | kỳ công | {壮挙}を讃[たた]える | ca ngợi kỳ công | 単独[たんどく]での世界[せかい]一周[いっしゅう]という壮挙[そうきょ]だ。 | Kỳ công một mình đi vòng quanh thế giới.
+義挙[ぎきょ] | n | NGHĨA CỬ | nghĩa cử | {義挙}に立[た]ち上[あ]がる | đứng lên vì nghĩa | 民衆[みんしゅう]が義挙[ぎきょ]に立[た]ち上[あ]がった。 | Dân chúng đứng lên vì nghĩa.

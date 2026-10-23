@@ -1,0 +1,104 @@
+@topic t03
+@ja 住[す]まい・生活[せいかつ]
+@vi Nhà ở và sinh hoạt
+@desc Thuê nhà, chuyển nhà, việc nhà, tiền điện nước, rác thải và các thủ tục ở khu phố khi sống tại Nhật.
+引[ひ]っ越[こ]す | v1 | DẪN VIỆT | chuyển nhà | 新[あたら]しい 部屋[へや] に 引[ひ]っ越[こ]す | chuyển sang phòng mới | 来月[らいげつ]、会社[かいしゃ]の近[ちか]くに引[ひ]っ越[こ]します。 | Tháng sau tôi chuyển đến gần công ty.
+引[ひ]っ越[こ]し | n | DẪN VIỆT | việc chuyển nhà | 引[ひ]っ越[こ]し を 手伝[てつだ]う | giúp chuyển nhà | 友達[ともだち]が引[ひ]っ越[こ]しを手伝[てつだ]ってくれました。 | Bạn bè đã giúp tôi chuyển nhà.
+家賃[やちん] | n | GIA NHẪM | tiền thuê nhà | 家賃[やちん] を 払[はら]う | trả tiền nhà | 毎月[まいつき]二十五日[にじゅうごにち]に家賃[やちん]を払[はら]います。 | Ngày 25 hằng tháng tôi trả tiền nhà.
+大家[おおや] | n | ĐẠI GIA | chủ nhà | - | - | 大家[おおや]さんに鍵[かぎ]を返[かえ]しました。 | Tôi đã trả chìa khóa cho chủ nhà.
+不動産屋[ふどうさんや] | n | BẤT ĐỘNG SẢN ỐC | công ty môi giới nhà đất | - | - | 不動産屋[ふどうさんや]で部屋[へや]を紹介[しょうかい]してもらいました。 | Tôi được bên môi giới giới thiệu phòng.
+契約[けいやく] | n,v3 | KHẾ ƯỚC | hợp đồng; ký hợp đồng | 契約[けいやく] を 結[むす]ぶ | ký kết hợp đồng | 二[に]年[ねん]の契約[けいやく]を結[むす]びました。 | Tôi đã ký hợp đồng hai năm.
+間取[まど]り | n | GIAN THỦ | sơ đồ bố trí phòng | - | - | この部屋[へや]の間取[まど]りは使[つか]いやすいです。 | Bố trí của căn phòng này rất tiện dùng.
+畳[たたみ] | n | ĐIỆP | chiếu tatami | - | - | 六[ろく]畳[じょう]の和室[わしつ]に住[す]んでいます。 | Tôi sống trong căn phòng kiểu Nhật sáu chiếu.
+和室[わしつ] | n | HÒA THẤT | phòng kiểu Nhật | - | - | 和室[わしつ]では畳[たたみ]の上[うえ]に座[すわ]ります。 | Ở phòng kiểu Nhật người ta ngồi trên chiếu tatami.
+押[お]し入[い]れ | n | ÁP NHẬP | tủ âm tường | 押[お]し入[い]れ に しまう | cất vào tủ âm tường | 布団[ふとん]を押[お]し入[い]れにしまいました。 | Tôi cất chăn đệm vào tủ âm tường.
+ベランダ | n | - | ban công | - | - | ベランダで花[はな]を育[そだ]てています。 | Tôi trồng hoa ở ban công.
+屋根[やね] | n | ỐC CĂN | mái nhà | - | - | 屋根[やね]の上[うえ]に雪[ゆき]が積[つ]もっています。 | Tuyết phủ dày trên mái nhà.
+床[ゆか] | n | SÀNG | sàn nhà | 床[ゆか] を 拭[ふ]く | lau sàn | 雑巾[ぞうきん]で床[ゆか]を拭[ふ]きました。 | Tôi lau sàn bằng giẻ.
+天井[てんじょう] | n | THIÊN TỈNH | trần nhà | 天井[てんじょう] が 高[たか]い | trần nhà cao | この部屋[へや]は天井[てんじょう]が高[たか]くて広[ひろ]く感[かん]じます。 | Phòng này trần cao nên cảm giác rộng.
+電球[でんきゅう] | n | ĐIỆN CẦU | bóng đèn | 電球[でんきゅう] が 切[き]れる | bóng đèn bị cháy | トイレの電球[でんきゅう]が切[き]れました。 | Bóng đèn nhà vệ sinh bị cháy rồi.
+スイッチ | n | - | công tắc | スイッチ を 入[い]れる | bật công tắc | 電源[でんげん]のスイッチを入[い]れてください。 | Hãy bật công tắc nguồn.
+コンセント | n | - | ổ cắm điện | - | - | コンセントにプラグを差[さ]し込[こ]んでください。 | Hãy cắm phích vào ổ điện.
+電池[でんち] | n | ĐIỆN TRÌ | pin | 電池[でんち] が 切[き]れる | hết pin | リモコンの電池[でんち]が切[き]れました。 | Điều khiển hết pin rồi.
+ガス | n | - | ga, khí đốt | ガス を 止[と]める | khóa ga | 長[なが]い旅行[りょこう]の前[まえ]にガスを止[と]めました。 | Trước chuyến đi dài tôi đã khóa ga.
+水道[すいどう] | n | THỦY ĐẠO | nước máy | 水道[すいどう] の 水[みず] | nước máy | 日本[にほん]では水道[すいどう]の水[みず]が飲[の]めます。 | Ở Nhật có thể uống nước máy.
+電気代[でんきだい] | n | ĐIỆN KHÍ ĐẠI | tiền điện | 電気代[でんきだい] が かかる | tốn tiền điện | 夏[なつ]はエアコンで電気代[でんきだい]がかかります。 | Mùa hè dùng điều hòa nên tốn tiền điện.
+光熱費[こうねつひ] | n | QUANG NHIỆT PHÍ | tiền điện ga nước | - | - | 冬[ふゆ]は光熱費[こうねつひ]が高[たか]くなります。 | Mùa đông tiền điện ga nước tăng lên.
+生活費[せいかつひ] | n | SINH HOẠT PHÍ | sinh hoạt phí | 生活費[せいかつひ] を 稼[かせ]ぐ | kiếm tiền sinh hoạt | アルバイトで生活費[せいかつひ]を稼[かせ]いでいます。 | Tôi làm thêm để kiếm tiền sinh hoạt.
+節約[せつやく] | n,v3 | TIẾT ƯỚC | tiết kiệm | 電気[でんき] を {節約[せつやく]} する | tiết kiệm điện | 使[つか]わない部屋[へや]の電気[でんき]を消[け]して節約[せつやく]しています。 | Tôi tắt đèn phòng không dùng để tiết kiệm.
+貯金[ちょきん] | n,v3 | TRỮ KIM | tiền tiết kiệm; để dành | 貯金[ちょきん] を 下[お]ろす | rút tiền tiết kiệm | 車[くるま]を買[か]うために貯金[ちょきん]を下[お]ろしました。 | Tôi rút tiền tiết kiệm để mua ô tô.
+家事[かじ] | n | GIA SỰ | việc nhà | 家事[かじ] を 分担[ぶんたん] する | chia việc nhà | 夫婦[ふうふ]で家事[かじ]を分担[ぶんたん]しています。 | Hai vợ chồng chia nhau việc nhà.
+洗濯機[せんたくき] | n | TẨY TRẠC CƠ | máy giặt | 洗濯機[せんたくき] を 回[まわ]す | cho máy giặt chạy | 夜[よる]遅[おそ]くに洗濯機[せんたくき]を回[まわ]さないでください。 | Đừng cho máy giặt chạy vào đêm khuya.
+洗濯物[せんたくもの] | n | TẨY TRẠC VẬT | đồ giặt | 洗濯物[せんたくもの] を 干[ほ]す | phơi đồ | 晴[は]れたので、ベランダに洗濯物[せんたくもの]を干[ほ]しました。 | Trời nắng nên tôi phơi đồ ngoài ban công.
+干[ほ]す | v1 | CAN | phơi | 布団[ふとん] を 干[ほ]す | phơi chăn đệm | 天気[てんき]がいい日[ひ]は布団[ふとん]を干[ほ]します。 | Ngày đẹp trời tôi phơi chăn đệm.
+乾[かわ]く | v1 | CAN | khô | 洗濯物[せんたくもの] が 乾[かわ]く | đồ phơi khô | 雨[あめ]の日[ひ]は洗濯物[せんたくもの]がなかなか乾[かわ]きません。 | Ngày mưa đồ phơi mãi không khô.
+乾[かわ]かす | v1 | CAN | làm khô | 髪[かみ] を 乾[かわ]かす | sấy tóc | ドライヤーで髪[かみ]を乾[かわ]かします。 | Tôi sấy khô tóc bằng máy sấy.
+畳[たた]む | v1 | ĐIỆP | gấp (quần áo) | 洗濯物[せんたくもの] を 畳[たた]む | gấp quần áo | 子供[こども]が洗濯物[せんたくもの]を畳[たた]むのを手伝[てつだ]ってくれます。 | Con tôi giúp gấp quần áo.
+アイロン | n | - | bàn là | アイロン を かける | là quần áo | シャツにアイロンをかけました。 | Tôi đã là chiếc áo sơ mi.
+掃除機[そうじき] | n | TẢO TRỪ CƠ | máy hút bụi | 掃除機[そうじき] を かける | hút bụi | 週末[しゅうまつ]に部屋[へや]に掃除機[そうじき]をかけます。 | Cuối tuần tôi hút bụi phòng.
+片付[かたづ]ける | v2 | PHIẾN PHÓ | dọn dẹp, cất gọn | 机[つくえ] の 上[うえ] を 片付[かたづ]ける | dọn bàn | 仕事[しごと]の後[あと]は机[つくえ]の上[うえ]を片付[かたづ]けましょう。 | Sau giờ làm hãy dọn gọn mặt bàn.
+散[ち]らかる | v1 | TÁN | bừa bộn | 部屋[へや] が 散[ち]らかる | phòng bừa bộn | 部屋[へや]が散[ち]らかっていて、すみません。 | Xin lỗi, phòng tôi bừa bộn quá.
+汚[よご]れる | v2 | Ô | bị bẩn | 服[ふく] が 汚[よご]れる | quần áo bị bẩn | 雨[あめ]で靴[くつ]が汚[よご]れてしまいました。 | Mưa làm bẩn giày mất rồi.
+汚[よご]す | v1 | Ô | làm bẩn | - | - | 借[か]りた本[ほん]を汚[よご]さないように気[き]をつけます。 | Tôi cẩn thận để không làm bẩn sách mượn.
+拭[ふ]く | v1 | THỨC | lau | テーブル を 拭[ふ]く | lau bàn | 食事[しょくじ]の後[あと]、テーブルを拭[ふ]きます。 | Ăn xong tôi lau bàn.
+磨[みが]く | v1 | MA | đánh bóng; đánh (răng) | 靴[くつ] を 磨[みが]く | đánh giày | 面接[めんせつ]の前[まえ]に靴[くつ]を磨[みが]きました。 | Tôi đánh giày trước buổi phỏng vấn.
+捨[す]てる | v2 | XẢ | vứt | ごみ を 捨[す]てる | vứt rác | ごみは決[き]められた日[ひ]に捨[す]ててください。 | Hãy vứt rác vào đúng ngày quy định.
+拾[ひろ]う | v1 | THẬP | nhặt | ごみ を 拾[ひろ]う | nhặt rác | 公園[こうえん]でごみを拾[ひろ]うボランティアに参加[さんか]しました。 | Tôi tham gia hoạt động tình nguyện nhặt rác ở công viên.
+分別[ぶんべつ] | n,v3 | PHÂN BIỆT | phân loại (rác) | ごみ を {分別[ぶんべつ]} する | phân loại rác | 日本[にほん]ではごみを細[こま]かく分別[ぶんべつ]します。 | Ở Nhật rác được phân loại rất kỹ.
+燃[も]える | v2 | NHIÊN | cháy | 燃[も]える ごみ | rác cháy được | 燃[も]えるごみは月曜日[げつようび]と木曜日[もくようび]です。 | Rác cháy được thì đổ thứ Hai và thứ Năm.
+燃[も]やす | v1 | NHIÊN | đốt | - | - | 庭[にわ]でごみを燃[も]やしてはいけません。 | Không được đốt rác trong vườn.
+資源[しげん]ごみ | n | TƯ NGUYÊN | rác tái chế | - | - | 空[あ]き缶[かん]は資源[しげん]ごみの日[ひ]に出[だ]します。 | Vỏ lon thì đổ vào ngày rác tái chế.
+リサイクル | n,v3 | - | tái chế | - | - | ペットボトルはリサイクルできます。 | Chai nhựa có thể tái chế.
+壊[こわ]れる | v2 | HOẠI | hỏng, vỡ | 冷蔵庫[れいぞうこ] が 壊[こわ]れる | tủ lạnh hỏng | 冷蔵庫[れいぞうこ]が壊[こわ]れて、食[た]べ物[もの]が全部[ぜんぶ]だめになりました。 | Tủ lạnh hỏng nên đồ ăn hỏng hết.
+壊[こわ]す | v1 | HOẠI | làm hỏng, làm vỡ | お腹[なか] を 壊[こわ]す | đau bụng (rối loạn tiêu hóa) | 冷[つめ]たい物[もの]を飲[の]みすぎてお腹[なか]を壊[こわ]しました。 | Uống nhiều đồ lạnh nên tôi bị đau bụng.
+故障[こしょう] | n,v3 | CỐ CHƯỚNG | hư hỏng (máy) | エアコン が {故障[こしょう]} する | điều hòa bị hỏng | エアコンが故障[こしょう]して、部屋[へや]が暑[あつ]いです。 | Điều hòa hỏng nên phòng nóng quá.
+修理[しゅうり] | n,v3 | TU LÝ | sửa chữa | 修理[しゅうり] に 出[だ]す | mang đi sửa | 時計[とけい]を修理[しゅうり]に出[だ]しました。 | Tôi đã mang đồng hồ đi sửa.
+直[なお]る | v1 | TRỰC | được sửa xong | パソコン が 直[なお]る | máy tính sửa xong | パソコンがやっと直[なお]りました。 | Cuối cùng máy tính cũng sửa xong.
+家具[かぐ] | n | GIA CỤ | đồ nội thất | 家具[かぐ] を 運[はこ]ぶ | khuân đồ đạc | 引[ひ]っ越[こ]し屋[や]さんが家具[かぐ]を運[はこ]んでくれました。 | Bên chuyển nhà đã khuân đồ nội thất giúp tôi.
+棚[たな] | n | BẰNG | kệ, giá | 棚[たな] に 並[なら]べる | bày lên kệ | 本[ほん]を棚[たな]に並[なら]べました。 | Tôi đã xếp sách lên kệ.
+ソファー | n | - | ghế sô pha | - | - | ソファーに座[すわ]ってテレビを見[み]ます。 | Tôi ngồi sô pha xem ti vi.
+暖房[だんぼう] | n | NOÃN PHÒNG | máy sưởi | 暖房[だんぼう] を つける | bật sưởi | 寒[さむ]いので暖房[だんぼう]をつけましょう。 | Lạnh quá, bật sưởi lên đi.
+冷房[れいぼう] | n | LÃNH PHÒNG | điều hòa làm lạnh | 冷房[れいぼう] が 効[き]く | điều hòa mát | 電車[でんしゃ]の中[なか]は冷房[れいぼう]がよく効[き]いています。 | Trên tàu điều hòa rất mát.
+扇風機[せんぷうき] | n | PHIẾN PHONG CƠ | quạt máy | - | - | 扇風機[せんぷうき]の風[かぜ]が気持[きも]ちいいです。 | Gió quạt máy thật dễ chịu.
+留守[るす] | n | LƯU THỦ | vắng nhà | 家[いえ] を {留守[るす]} に する | đi vắng | 一[いっ]週間[しゅうかん]家[いえ]を留守[るす]にします。 | Tôi sẽ vắng nhà một tuần.
+留守番[るすばん] | n,v3 | LƯU THỦ PHIÊN | trông nhà | 留守番[るすばん] を 頼[たの]む | nhờ trông nhà | 子供[こども]に留守番[るすばん]を頼[たの]みました。 | Tôi nhờ con trông nhà.
+戸締[とじ]まり | n,v3 | HỘ ĐẾ | khóa cửa nẻo | 戸締[とじ]まり を 確認[かくにん] する | kiểm tra khóa cửa | 寝[ね]る前[まえ]に戸締[とじ]まりを確認[かくにん]します。 | Trước khi ngủ tôi kiểm tra khóa cửa.
+泥棒[どろぼう] | n | NÊ BỔNG | kẻ trộm | 泥棒[どろぼう] に 入[はい]られる | bị trộm vào nhà | 隣[となり]の家[いえ]が泥棒[どろぼう]に入[はい]られました。 | Nhà bên cạnh bị trộm vào.
+火事[かじ] | n | HỎA SỰ | hỏa hoạn | 火事[かじ] が 起[お]きる | xảy ra hỏa hoạn | 近所[きんじょ]で火事[かじ]が起[お]きました。 | Gần nhà đã xảy ra hỏa hoạn.
+消防車[しょうぼうしゃ] | n | TIÊU PHÒNG XA | xe cứu hỏa | - | - | 消防車[しょうぼうしゃ]がサイレンを鳴[な]らして走[はし]っていきました。 | Xe cứu hỏa hú còi chạy qua.
+避難[ひなん] | n,v3 | TỴ NẠN | sơ tán | 避難[ひなん] {訓練[くんれん]} | diễn tập sơ tán | 会社[かいしゃ]で避難[ひなん]訓練[くんれん]がありました。 | Ở công ty có buổi diễn tập sơ tán.
+非常口[ひじょうぐち] | n | PHI THƯỜNG KHẨU | lối thoát hiểm | - | - | 非常口[ひじょうぐち]の場所[ばしょ]を確認[かくにん]しておきましょう。 | Hãy xác nhận trước vị trí lối thoát hiểm.
+隣人[りんじん] | n | LÂN NHÂN | người hàng xóm | - | - | 隣人[りんじん]とはいい関係[かんけい]を作[つく]りたいです。 | Tôi muốn có quan hệ tốt với hàng xóm.
+騒音[そうおん] | n | TAO ÂM | tiếng ồn | 騒音[そうおん] に 悩[なや]む | khổ vì tiếng ồn | 工事[こうじ]の騒音[そうおん]に悩[なや]まされています。 | Tôi đang khổ vì tiếng ồn công trình.
+騒[さわ]ぐ | v1 | TAO | làm ồn | 夜中[よなか] に 騒[さわ]ぐ | làm ồn ban đêm | 夜中[よなか]に騒[さわ]がないでください。 | Xin đừng làm ồn vào ban đêm.
+市役所[しやくしょ] | n | THỊ DỊCH SỞ | tòa thị chính | - | - | 引[ひ]っ越[こ]したら、市役所[しやくしょ]で手続[てつづ]きをします。 | Chuyển nhà xong thì làm thủ tục ở tòa thị chính.
+区役所[くやくしょ] | n | KHU DỊCH SỞ | ủy ban quận | - | - | 区役所[くやくしょ]で住民票[じゅうみんひょう]をもらいました。 | Tôi xin phiếu cư trú ở ủy ban quận.
+手続[てつづ]き | n,v3 | THỦ TỤC | thủ tục | 手続[てつづ]き を する | làm thủ tục | 銀行[ぎんこう]口座[こうざ]を開[ひら]く手続[てつづ]きをしました。 | Tôi đã làm thủ tục mở tài khoản ngân hàng.
+住民票[じゅうみんひょう] | n | TRÚ DÂN PHIẾU | phiếu cư trú | - | - | 住民票[じゅうみんひょう]は市役所[しやくしょ]で取[と]れます。 | Phiếu cư trú có thể lấy ở tòa thị chính.
+在留[ざいりゅう]カード | n | TẠI LƯU | thẻ cư trú | - | - | 在留[ざいりゅう]カードはいつも持[も]っていてください。 | Hãy luôn mang theo thẻ cư trú.
+印鑑[いんかん] | n | ẤN GIÁM | con dấu cá nhân | 印鑑[いんかん] を 押[お]す | đóng dấu | 書類[しょるい]に印鑑[いんかん]を押[お]してください。 | Hãy đóng dấu lên giấy tờ.
+届[とど]く | v1 | GIỚI | được gửi tới | 荷物[にもつ] が 届[とど]く | hàng được giao tới | 注文[ちゅうもん]した荷物[にもつ]が届[とど]きました。 | Món hàng tôi đặt đã được giao tới.
+届[とど]ける | v2 | GIỚI | giao, mang đến | 落[お]とし物[もの] を 届[とど]ける | nộp đồ nhặt được | 落[お]とし物[もの]を交番[こうばん]に届[とど]けました。 | Tôi đã nộp đồ nhặt được cho đồn cảnh sát.
+宅配便[たくはいびん] | n | TRẠCH PHỐI TIỆN | dịch vụ chuyển phát | 宅配便[たくはいびん] で 送[おく]る | gửi chuyển phát | 実家[じっか]に宅配便[たくはいびん]で荷物[にもつ]を送[おく]りました。 | Tôi gửi đồ về nhà bố mẹ bằng chuyển phát.
+不在[ふざい] | n | BẤT TẠI | vắng mặt | - | - | 不在[ふざい]だったので、荷物[にもつ]を再配達[さいはいたつ]してもらいます。 | Lúc đó vắng nhà nên tôi nhờ giao lại hàng.
+実家[じっか] | n | THỰC GIA | nhà bố mẹ đẻ | 実家[じっか] に 帰[かえ]る | về nhà bố mẹ | お盆[ぼん]に実家[じっか]に帰[かえ]ります。 | Dịp lễ Obon tôi về nhà bố mẹ.
+田舎[いなか] | n | ĐIỀN XÁ | quê, nông thôn | - | - | 田舎[いなか]の生活[せいかつ]はのんびりしています。 | Cuộc sống ở quê rất thong thả.
+都会[とかい] | n | ĐÔ HỘI | thành thị | - | - | 都会[とかい]は便利[べんり]ですが、物価[ぶっか]が高[たか]いです。 | Thành phố thì tiện nhưng vật giá đắt.
+物価[ぶっか] | n | VẬT GIÁ | vật giá | 物価[ぶっか] が 上[あ]がる | vật giá tăng | 最近[さいきん]、物価[ぶっか]が上[あ]がって大変[たいへん]です。 | Dạo này vật giá tăng, vất vả lắm.
+日用品[にちようひん] | n | NHẬT DỤNG PHẨM | đồ dùng hằng ngày | - | - | 日用品[にちようひん]はドラッグストアで買[か]います。 | Đồ dùng hằng ngày tôi mua ở hiệu thuốc.
+洗剤[せんざい] | n | TẨY TỄ | chất tẩy rửa | - | - | 食器用[しょっきよう]の洗剤[せんざい]がなくなりました。 | Nước rửa bát hết rồi.
+ハンガー | n | - | móc áo | ハンガー に 掛[か]ける | treo lên móc | 上着[うわぎ]をハンガーに掛[か]けてください。 | Hãy treo áo khoác lên móc.
+掛[か]ける | v2 | QUẢI | treo; ngồi (ghế) | 壁[かべ] に 絵[え] を 掛[か]ける | treo tranh lên tường | リビングの壁[かべ]に家族[かぞく]の写真[しゃしん]を掛[か]けました。 | Tôi treo ảnh gia đình lên tường phòng khách.
+しまう | v1 | - | cất đi | 冬服[ふゆふく] を しまう | cất quần áo mùa đông | 暖[あたた]かくなったので、冬服[ふゆふく]をしまいました。 | Trời ấm rồi nên tôi cất đồ mùa đông.
+沸[わ]かす | v1 | PHÍ | đun sôi | お風呂[ふろ] を 沸[わ]かす | đun nước tắm | 帰[かえ]る前[まえ]にお風呂[ふろ]を沸[わ]かしておきます。 | Tôi đun nước tắm sẵn trước khi về.
+沸[わ]く | v1 | PHÍ | sôi | お湯[ゆ] が 沸[わ]く | nước sôi | お湯[ゆ]が沸[わ]いたら、火[ひ]を止[と]めてください。 | Nước sôi thì hãy tắt bếp.
+鳴[な]る | v1 | MINH | reo, kêu | ベル が 鳴[な]る | chuông reo | 玄関[げんかん]のベルが鳴[な]りました。 | Chuông cửa đã reo.
+鳴[な]らす | v1 | MINH | làm kêu, bấm (còi, chuông) | クラクション を 鳴[な]らす | bấm còi xe | 住宅地[じゅうたくち]でクラクションを鳴[な]らさないでください。 | Đừng bấm còi trong khu dân cư.
+暮[く]らし | n | MỘ | cuộc sống | 日本[にほん] の 暮[く]らし | cuộc sống ở Nhật | 日本[にほん]の暮[く]らしにもう慣[な]れましたか。 | Bạn đã quen với cuộc sống ở Nhật chưa?
+習慣[しゅうかん] | n | TẬP QUÁN | thói quen; phong tục | 習慣[しゅうかん] を 身[み] に つける | tạo thói quen | 早起[はやお]きの習慣[しゅうかん]を身[み]につけたいです。 | Tôi muốn tập thói quen dậy sớm.
+規則[きそく] | n | QUY TẮC | quy tắc | 規則[きそく] を 守[まも]る | tuân thủ quy tắc | 寮[りょう]の規則[きそく]を守[まも]ってください。 | Hãy tuân thủ quy tắc của ký túc xá.
+寮[りょう] | n | LIÊU | ký túc xá | 寮[りょう] に 住[す]む | sống ở ký túc xá | 会社[かいしゃ]の寮[りょう]に住[す]んでいます。 | Tôi sống ở ký túc xá công ty.
+共同[きょうどう] | n | CỘNG ĐỒNG | chung, cùng nhau | {共同[きょうどう]} トイレ | nhà vệ sinh chung | この寮[りょう]はお風呂[ふろ]とトイレが共同[きょうどう]です。 | Ký túc xá này dùng chung nhà tắm và vệ sinh.
+自由[じゆう] | n,adj-na | TỰ DO | tự do | 自由[じゆう] に 使[つか]う | dùng tự do | 台所[だいどころ]は自由[じゆう]に使[つか]ってもいいです。 | Bạn được tự do dùng bếp.
+不便[ふべん] | adj-na | BẤT TIỆN | bất tiện | - | - | 車[くるま]がないと、田舎[いなか]は不便[ふべん]です。 | Không có ô tô thì ở quê rất bất tiện.
+快適[かいてき] | adj-na | KHOÁI THÍCH | dễ chịu, tiện nghi | 快適[かいてき] な 部屋[へや] | căn phòng tiện nghi | 新[あたら]しいアパートはとても快適[かいてき]です。 | Căn hộ mới rất tiện nghi.

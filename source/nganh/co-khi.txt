@@ -1,0 +1,196 @@
+@topic co-khi
+@ja 機械[きかい]・金属[きんぞく]
+@vi Cơ khí, gia công kim loại
+@desc Máy tiện, phay, hàn, dập, vật liệu kim loại, đo lường, dung sai, kiểm tra sản phẩm và quy tắc 5S trong xưởng.
+機械加工[きかいかこう] | n | CƠ GIỚI GIA CÔNG | gia công cơ khí | - | - | 私[わたし]は機械加工[きかいかこう]の工場[こうじょう]で働[はたら]いています。 | Tôi làm ở xưởng gia công cơ khí.
+加工[かこう] | n,v3 | GIA CÔNG | gia công | 金属[きんぞく] を {加工[かこう]} する | gia công kim loại | 図面[ずめん]通[どお]りに金属[きんぞく]を加工[かこう]します。 | Gia công kim loại theo đúng bản vẽ.
+金属[きんぞく] | n | KIM THUỘC | kim loại | - | - | 金属[きんぞく]は熱[ねつ]で膨張[ぼうちょう]します。 | Kim loại nở ra khi gặp nhiệt.
+旋盤[せんばん] | n | TOÀN BÀN | máy tiện | 旋盤[せんばん] で 削[けず]る | tiện bằng máy tiện | 丸[まる]い棒[ぼう]を旋盤[せんばん]で削[けず]ります。 | Tiện thanh tròn bằng máy tiện.
+フライス盤[ばん] | n | BÀN | máy phay | - | - | フライス盤[ばん]で溝[みぞ]を加工[かこう]します。 | Gia công rãnh bằng máy phay.
+ボール盤[ばん] | n | BÀN | máy khoan đứng | - | - | ボール盤[ばん]で穴[あな]を開[あ]けます。 | Khoan lỗ bằng máy khoan đứng.
+マシニングセンタ | n | - | trung tâm gia công CNC | - | - | マシニングセンタのプログラムを確認[かくにん]します。 | Kiểm tra chương trình của máy gia công CNC.
+プログラム | n | - | chương trình | - | - | 加工[かこう]のプログラムを入力[にゅうりょく]します。 | Nhập chương trình gia công.
+入力[にゅうりょく] | n,v3 | NHẬP LỰC | nhập (dữ liệu) | 数値[すうち] を {入力[にゅうりょく]} する | nhập số liệu | 画面[がめん]に数値[すうち]を入力[にゅうりょく]してください。 | Hãy nhập số liệu vào màn hình.
+数値[すうち] | n | SỐ TRỊ | trị số | - | - | 数値[すうち]を間違[まちが]えると不良品[ふりょうひん]になります。 | Nhập sai trị số sẽ ra hàng lỗi.
+削[けず]る | v1 | TƯỚC | cắt gọt, mài | - | - | 表面[ひょうめん]を〇[れい]・五[ご]ミリ削[けず]ります。 | Gọt bề mặt 0,5 ly.
+切削[せっさく] | n,v3 | THIẾT TƯỚC | cắt gọt | {切削[せっさく]} 油[ゆ] | dầu cắt gọt | 切削[せっさく]油[ゆ]が少[すく]なくなったら補充[ほじゅう]します。 | Dầu cắt gọt ít thì bổ sung.
+補充[ほじゅう] | n,v3 | BỔ SUNG | bổ sung | - | - | 部品[ぶひん]が少[すく]なくなったら補充[ほじゅう]してください。 | Linh kiện ít thì hãy bổ sung.
+切[き]り粉[こ] | n | THIẾT PHẤN | phoi | 切[き]り粉[こ] を 取[と]り除[のぞ]く | dọn phoi | 機械[きかい]の中[なか]の切[き]り粉[こ]を取[と]り除[のぞ]きます。 | Dọn phoi trong máy.
+研削[けんさく] | n,v3 | NGHIÊN TƯỚC | mài | - | - | 研削[けんさく]で寸法[すんぽう]を仕上[しあ]げます。 | Hoàn thiện kích thước bằng mài.
+研磨[けんま] | n,v3 | NGHIÊN MA | đánh bóng | - | - | 表面[ひょうめん]をきれいに研磨[けんま]します。 | Đánh bóng bề mặt cho đẹp.
+溶接[ようせつ] | n,v3 | DUNG TIẾP | hàn | {溶接[ようせつ]} 作業[さぎょう] | công việc hàn | 溶接[ようせつ]作業[さぎょう]では遮光[しゃこう]面[めん]をつけます。 | Khi hàn phải đeo mặt nạ chống chói.
+遮光面[しゃこうめん] | n | GIÀ QUANG DIỆN | mặt nạ hàn | - | - | 遮光面[しゃこうめん]をしないと目[め]を傷[いた]めます。 | Không đeo mặt nạ hàn sẽ hại mắt.
+溶接棒[ようせつぼう] | n | DUNG TIẾP BỔNG | que hàn | - | - | 溶接棒[ようせつぼう]を交換[こうかん]します。 | Thay que hàn.
+アーク溶接[ようせつ] | n | DUNG TIẾP | hàn hồ quang | - | - | アーク溶接[ようせつ]の資格[しかく]を取[と]りました。 | Tôi đã lấy chứng chỉ hàn hồ quang.
+溶[と]ける | v2 | DUNG | nóng chảy | - | - | 高温[こうおん]で金属[きんぞく]が溶[と]けます。 | Kim loại nóng chảy ở nhiệt độ cao.
+プレス | n,v3 | - | dập | {プレス} 機[き] | máy dập | プレス機[き]に手[て]を入[い]れないでください。 | Đừng đưa tay vào máy dập.
+板金[ばんきん] | n | BẢN KIM | gò hàn tấm kim loại | - | - | 板金[ばんきん]の仕事[しごと]をしています。 | Tôi làm công việc gò tấm kim loại.
+曲[ま]げる | v2 | KHÚC | uốn, bẻ | 鉄板[てっぱん] を 曲[ま]げる | uốn tấm thép | 機械[きかい]で鉄板[てっぱん]を九十[きゅうじゅう]度[ど]に曲[ま]げます。 | Uốn tấm thép 90 độ bằng máy.
+切断[せつだん] | n,v3 | THIẾT ĐOẠN | cắt đứt | - | - | パイプを決[き]まった長[なが]さに切断[せつだん]します。 | Cắt ống theo chiều dài quy định.
+穴[あな]あけ | n | HUYỆT | khoan lỗ | - | - | 次[つぎ]の工程[こうてい]は穴[あな]あけです。 | Công đoạn tiếp theo là khoan lỗ.
+タップ | n | - | ta-rô (cắt ren lỗ) | - | - | 穴[あな]にタップでねじを切[き]ります。 | Cắt ren lỗ bằng ta-rô.
+チャック | n | - | mâm cặp | チャック に 取[と]り付[つ]ける | gá vào mâm cặp | 材料[ざいりょう]をチャックにしっかり取[と]り付[つ]けます。 | Gá phôi chắc vào mâm cặp.
+治具[じぐ] | n | TRỊ CỤ | đồ gá | - | - | 治具[じぐ]を使[つか]うと同[おな]じ位置[いち]で加工[かこう]できます。 | Dùng đồ gá thì gia công đúng một vị trí.
+金型[かながた] | n | KIM HÌNH | khuôn kim loại | 金型[かながた] を 交換[こうかん] する | thay khuôn | 製品[せいひん]が変[か]わるので金型[かながた]を交換[こうかん]します。 | Đổi sản phẩm nên thay khuôn.
+鋳造[ちゅうぞう] | n,v3 | CHÚ TẠO | đúc | - | - | 鋳造[ちゅうぞう]工場[こうじょう]は暑[あつ]いです。 | Xưởng đúc rất nóng.
+鍛造[たんぞう] | n,v3 | ĐOÀN TẠO | rèn | - | - | 鍛造[たんぞう]で強[つよ]い部品[ぶひん]を作[つく]ります。 | Làm linh kiện bền bằng phương pháp rèn.
+熱処理[ねつしょり] | n,v3 | NHIỆT XỬ LÝ | nhiệt luyện | - | - | 熱処理[ねつしょり]で金属[きんぞく]を硬[かた]くします。 | Nhiệt luyện để làm cứng kim loại.
+焼[や]き入[い]れ | n | THIÊU NHẬP | tôi (thép) | - | - | 焼[や]き入[い]れをすると鉄[てつ]が硬[かた]くなります。 | Tôi thép thì sắt cứng lên.
+材質[ざいしつ] | n | TÀI CHẤT | chất liệu | 材質[ざいしつ] を 確認[かくにん] する | kiểm tra chất liệu | 加工[かこう]前[まえ]に材質[ざいしつ]を確認[かくにん]します。 | Kiểm tra chất liệu trước khi gia công.
+鋼[はがね] | n | CƯƠNG | thép | - | - | この刃物[はもの]は鋼[はがね]でできています。 | Con dao này làm bằng thép.
+ステンレス | n | - | thép không gỉ | - | - | ステンレスはさびにくいです。 | Thép không gỉ khó bị gỉ.
+アルミ | n | - | nhôm | - | - | アルミは軽[かる]くて加工[かこう]しやすいです。 | Nhôm nhẹ và dễ gia công.
+銅[どう] | n | ĐỒNG | đồng | - | - | 電線[でんせん]には銅[どう]が使[つか]われます。 | Dây điện dùng đồng.
+材料[ざいりょう] | n | TÀI LIỆU | phôi, vật liệu | 材料[ざいりょう] を セット する | đặt phôi | 機械[きかい]に材料[ざいりょう]をセットします。 | Đặt phôi vào máy.
+寸法[すんぽう] | n | THỐN PHÁP | kích thước | 寸法[すんぽう] を 測[はか]る | đo kích thước | 加工[かこう]が終[お]わったら寸法[すんぽう]を測[はか]ります。 | Gia công xong thì đo kích thước.
+公差[こうさ] | n | CÔNG SAI | dung sai | 公差[こうさ] 内[ない] | trong dung sai | 寸法[すんぽう]が公差[こうさ]内[ない]か確認[かくにん]します。 | Kiểm tra kích thước có nằm trong dung sai không.
+精度[せいど] | n | TINH ĐỘ | độ chính xác | 精度[せいど] が 高[たか]い | độ chính xác cao | この部品[ぶひん]は高[たか]い精度[せいど]が必要[ひつよう]です。 | Linh kiện này cần độ chính xác cao.
+測定[そくてい] | n,v3 | TRẮC ĐỊNH | đo lường | - | - | 製品[せいひん]を三[みっ]つ取[と]って測定[そくてい]します。 | Lấy ba sản phẩm ra đo.
+ノギス | n | - | thước kẹp | ノギス で 測[はか]る | đo bằng thước kẹp | 外径[がいけい]をノギスで測[はか]ります。 | Đo đường kính ngoài bằng thước kẹp.
+マイクロメーター | n | - | panme | - | - | 細[こま]かい寸法[すんぽう]はマイクロメーターで測[はか]ります。 | Kích thước nhỏ đo bằng panme.
+ゲージ | n | - | dưỡng đo | - | - | ゲージを使[つか]って穴[あな]の大[おお]きさを確認[かくにん]します。 | Dùng dưỡng để kiểm tra kích thước lỗ.
+外径[がいけい] | n | NGOẠI KÍNH | đường kính ngoài | - | - | 外径[がいけい]は二十[にじゅう]ミリです。 | Đường kính ngoài là 20 ly.
+内径[ないけい] | n | NỘI KÍNH | đường kính trong | - | - | 内径[ないけい]が少[すこ]し小[ちい]さいです。 | Đường kính trong hơi nhỏ.
+深[ふか]さ | n | THÂM | độ sâu | - | - | 穴[あな]の深[ふか]さを測[はか]ってください。 | Hãy đo độ sâu của lỗ.
+面取[めんと]り | n,v3 | DIỆN THỦ | vát mép | - | - | 角[かど]に〇[れい]・五[ご]ミリの面取[めんと]りをします。 | Vát mép góc 0,5 ly.
+バリ | n | - | ba via | バリ を 取[と]る | làm sạch ba via | 切断[せつだん]した後[あと]はバリを取[と]ります。 | Cắt xong thì làm sạch ba via.
+表面[ひょうめん] | n | BIỂU DIỆN | bề mặt | 表面[ひょうめん] に 傷[きず] が ある | bề mặt có vết xước | 表面[ひょうめん]に傷[きず]がある製品[せいひん]はNGです。 | Sản phẩm có vết xước trên bề mặt là hàng lỗi.
+錆[さび] | n | THƯƠNG | gỉ sét | 錆[さび] が 出[で]る | bị gỉ | 部品[ぶひん]に錆[さび]が出[で]ないように油[あぶら]を塗[ぬ]ります。 | Bôi dầu để linh kiện không bị gỉ.
+防錆[ぼうせい] | n | PHÒNG THƯƠNG | chống gỉ | - | - | 出荷[しゅっか]前[まえ]に防錆[ぼうせい]油[ゆ]を塗[ぬ]ります。 | Trước khi xuất hàng thì bôi dầu chống gỉ.
+グリス | n | - | mỡ bôi trơn | グリス を 塗[ぬ]る | bôi mỡ | 動[うご]く部分[ぶぶん]にグリスを塗[ぬ]ります。 | Bôi mỡ vào phần chuyển động.
+注油[ちゅうゆ] | n,v3 | CHÚ DU | tra dầu | - | - | 毎朝[まいあさ]機械[きかい]に注油[ちゅうゆ]します。 | Mỗi sáng tra dầu cho máy.
+回転数[かいてんすう] | n | HỒI CHUYỂN SỐ | tốc độ quay | 回転数[かいてんすう] を 上[あ]げる | tăng tốc độ quay | 材質[ざいしつ]によって回転数[かいてんすう]を変[か]えます。 | Thay đổi tốc độ quay tùy chất liệu.
+回[まわ]る | v1 | HỒI | quay | - | - | 機械[きかい]が回[まわ]っている時[とき]は手[て]を近[ちか]づけないでください。 | Khi máy đang quay đừng đưa tay lại gần.
+摩耗[まもう] | n,v3 | MA HAO | mài mòn | 刃[は] が {摩耗[まもう]} する | lưỡi cắt bị mòn | 刃[は]が摩耗[まもう]したら交換[こうかん]します。 | Lưỡi cắt mòn thì thay.
+欠[か]ける | v2 | KHIẾM | mẻ, sứt | - | - | 刃[は]が欠[か]けていないか確認[かくにん]します。 | Kiểm tra lưỡi cắt có bị mẻ không.
+良品[りょうひん] | n | LƯƠNG PHẨM | hàng đạt | - | - | 良品[りょうひん]と不良品[ふりょうひん]を分[わ]けて置[お]きます。 | Để riêng hàng đạt và hàng lỗi.
+不良[ふりょう] | n | BẤT LƯƠNG | lỗi, không đạt | 不良[ふりょう] を 出[だ]す | làm ra hàng lỗi | 不良[ふりょう]を出[だ]さないように丁寧[ていねい]に作業[さぎょう]します。 | Làm việc cẩn thận để không làm ra hàng lỗi.
+抜[ぬ]き取[と]り検査[けんさ] | n | BẠT THỦ KIỂM TRA | kiểm tra xác suất | - | - | 一時間[いちじかん]ごとに抜[ぬ]き取[と]り検査[けんさ]をします。 | Mỗi giờ kiểm tra xác suất một lần.
+全数[ぜんすう]検査[けんさ] | n | TOÀN SỐ KIỂM TRA | kiểm tra toàn bộ | - | - | この部品[ぶひん]は全数[ぜんすう]検査[けんさ]です。 | Linh kiện này phải kiểm tra toàn bộ.
+部品[ぶひん] | n | BỘ PHẨM | linh kiện | 部品[ぶひん] を 組[く]み立[た]てる | lắp ráp linh kiện | 小[ちい]さな部品[ぶひん]を組[く]み立[た]てます。 | Lắp ráp các linh kiện nhỏ.
+組[く]み立[た]て | n | TỔ LẬP | lắp ráp | {組[く]み立[た]て} ライン | dây chuyền lắp ráp | 組[く]み立[た]てラインで働[はたら]いています。 | Tôi làm ở dây chuyền lắp ráp.
+前工程[まえこうてい] | n | TIỀN CÔNG TRÌNH | công đoạn trước | - | - | 前工程[まえこうてい]から部品[ぶひん]が届[とど]きました。 | Linh kiện từ công đoạn trước đã tới.
+後工程[あとこうてい] | n | HẬU CÔNG TRÌNH | công đoạn sau | - | - | 後工程[あとこうてい]はお客様[きゃくさま]だと思[おも]って仕事[しごと]をします。 | Làm việc với tinh thần coi công đoạn sau là khách hàng.
+生産計画[せいさんけいかく] | n | SINH SẢN KẾ HOẠCH | kế hoạch sản xuất | - | - | 生産計画[せいさんけいかく]に合[あ]わせて作業[さぎょう]します。 | Làm việc theo kế hoạch sản xuất.
+段取[だんど]り | n,v3 | ĐOẠN THỦ | chuẩn bị máy (setup) | 段取[だんど]り を 替[か]える | chuyển đổi setup | 製品[せいひん]が変[か]わるので段取[だんど]りを替[か]えます。 | Đổi sản phẩm nên chuyển đổi setup máy.
+加工条件[かこうじょうけん] | n | GIA CÔNG ĐIỀU KIỆN | điều kiện gia công | - | - | 加工条件[かこうじょうけん]は勝手[かって]に変[か]えないでください。 | Đừng tự ý thay đổi điều kiện gia công.
+勝手[かって]に | adv | THẮNG THỦ | tự ý | - | - | 勝手[かって]に機械[きかい]の設定[せってい]を変[か]えてはいけません。 | Không được tự ý thay đổi cài đặt máy.
+設定[せってい] | n,v3 | THIẾT ĐỊNH | cài đặt | - | - | 温度[おんど]の設定[せってい]を確認[かくにん]してください。 | Hãy kiểm tra cài đặt nhiệt độ.
+刃具[はぐ] | n | NHẬN CỤ | dao cắt (gia công) | 刃具[はぐ] を 交換[こうかん] する | thay dao cắt | 千[せん]個[こ]加工[かこう]したら刃具[はぐ]を交換[こうかん]します。 | Gia công xong một nghìn cái thì thay dao.
+保護具[ほごぐ] | n | BẢO HỘ CỤ | đồ bảo hộ | 保護具[ほごぐ] を 着用[ちゃくよう] する | mặc đồ bảo hộ | 作業[さぎょう]中[ちゅう]は保護具[ほごぐ]を着用[ちゃくよう]してください。 | Trong lúc làm việc hãy mặc đồ bảo hộ.
+着用[ちゃくよう] | n,v3 | TRƯỚC DỤNG | mặc, đeo | - | - | 安全靴[あんぜんぐつ]の着用[ちゃくよう]は義務[ぎむ]です。 | Đi giày bảo hộ là bắt buộc.
+保護[ほご]メガネ | n | BẢO HỘ | kính bảo hộ | - | - | 切[き]り粉[こ]が飛[と]ぶので保護[ほご]メガネをかけます。 | Phoi bắn ra nên đeo kính bảo hộ.
+手袋[てぶくろ]禁止[きんし] | n | THỦ ĐẠI CẤM CHỈ | cấm đeo găng tay | - | - | 回転[かいてん]する機械[きかい]は手袋[てぶくろ]禁止[きんし]です。 | Máy quay thì cấm đeo găng tay.
+巻[ま]き込[こ]まれ | n | QUYỂN VÀO | bị cuốn vào | - | - | 巻[ま]き込[こ]まれ事故[じこ]に十分[じゅうぶん]注意[ちゅうい]してください。 | Hãy hết sức chú ý tai nạn bị cuốn vào máy.
+挟[はさ]まれ | n | HIỆP | bị kẹp | - | - | プレス作業[さぎょう]では挟[はさ]まれ事故[じこ]が多[おお]いです。 | Công việc dập hay có tai nạn bị kẹp.
+フォークリフト | n | - | xe nâng | フォークリフト を 運転[うんてん] する | lái xe nâng | フォークリフトを運転[うんてん]するには資格[しかく]が必要[ひつよう]です。 | Lái xe nâng cần có chứng chỉ.
+パレット | n | - | pallet | パレット に 積[つ]む | xếp lên pallet | 完成品[かんせいひん]をパレットに積[つ]みます。 | Xếp thành phẩm lên pallet.
+5S[ごエス] | n | - | 5S (sàng lọc, sắp xếp, sạch sẽ, săn sóc, sẵn sàng) | - | - | 工場[こうじょう]では5S[ごエス]を大切[たいせつ]にしています。 | Nhà máy rất coi trọng 5S.
+整理[せいり] | n,v3 | CHỈNH LÝ | sàng lọc, sắp xếp | - | - | いらない物[もの]は捨[す]てて整理[せいり]します。 | Bỏ đồ không cần để sàng lọc.
+整頓[せいとん] | n,v3 | CHỈNH ĐỐN | sắp đặt ngăn nắp | - | - | 工具[こうぐ]を使[つか]いやすいように整頓[せいとん]します。 | Sắp đặt dụng cụ cho dễ dùng.
+清掃[せいそう] | n,v3 | THANH TẢO | quét dọn | - | - | 機械[きかい]の周[まわ]りを清掃[せいそう]します。 | Quét dọn xung quanh máy.
+しつけ | n | - | kỷ luật, nề nếp | - | - | 決[き]まりを守[まも]る「しつけ」も5S[ごエス]の一[ひと]つです。 | "Kỷ luật" tuân thủ quy định cũng là một trong 5S.
+改善[かいぜん] | n,v3 | CẢI THIỆN | cải tiến | {改善[かいぜん]} 提案[ていあん] | đề xuất cải tiến | 毎月[まいつき]一[ひと]つ改善[かいぜん]提案[ていあん]を出[だ]します。 | Mỗi tháng nộp một đề xuất cải tiến.
+提案[ていあん] | n,v3 | ĐỀ ÁN | đề xuất | - | - | 作業[さぎょう]を楽[らく]にする方法[ほうほう]を提案[ていあん]しました。 | Tôi đã đề xuất cách làm việc nhẹ nhàng hơn.
+効率[こうりつ] | n | HIỆU SUẤT | hiệu suất | 効率[こうりつ] を 上[あ]げる | nâng cao hiệu suất | 道具[どうぐ]の置[お]き場所[ばしょ]を変[か]えて効率[こうりつ]を上[あ]げました。 | Đổi chỗ để dụng cụ để nâng cao hiệu suất.
+無駄[むだ] | n,adj-na | VÔ ĐÀ | lãng phí | 無駄[むだ] を なくす | loại bỏ lãng phí | 動[うご]きの無駄[むだ]をなくしましょう。 | Hãy loại bỏ lãng phí trong thao tác.
+生産性[せいさんせい] | n | SINH SẢN TÍNH | năng suất | - | - | 新[あたら]しい機械[きかい]で生産性[せいさんせい]が上[あ]がりました。 | Nhờ máy mới mà năng suất tăng.
+作業標準[さぎょうひょうじゅん] | n | TÁC NGHIỆP TIÊU CHUẨN | tiêu chuẩn thao tác | - | - | 作業標準[さぎょうひょうじゅん]を守[まも]って作業[さぎょう]します。 | Làm việc theo tiêu chuẩn thao tác.
+日常点検[にちじょうてんけん] | n | NHẬT THƯỜNG ĐIỂM KIỂM | kiểm tra hằng ngày | - | - | 始業[しぎょう]前[まえ]に日常点検[にちじょうてんけん]を行[おこな]います。 | Kiểm tra hằng ngày trước giờ làm.
+異音[いおん] | n | DỊ ÂM | tiếng kêu lạ | 異音[いおん] が する | có tiếng lạ | 機械[きかい]から異音[いおん]がしたら止[と]めてください。 | Máy có tiếng kêu lạ thì dừng lại.
+振動[しんどう] | n,v3 | CHẤN ĐỘNG | rung | - | - | いつもより振動[しんどう]が大[おお]きいです。 | Rung mạnh hơn mọi khi.
+油漏[あぶらも]れ | n | DU LẬU | rò rỉ dầu | - | - | 機械[きかい]の下[した]に油漏[あぶらも]れがあります。 | Dưới máy có rò rỉ dầu.
+エア | n | - | khí nén | エア を 吹[ふ]く | thổi khí | エアで切[き]り粉[こ]を吹[ふ]き飛[と]ばします。 | Thổi khí để bay phoi đi.
+圧力[あつりょく] | n | ÁP LỰC | áp suất | 圧力[あつりょく] が 下[さ]がる | áp suất giảm | エアの圧力[あつりょく]が下[さ]がっています。 | Áp suất khí nén đang giảm.
+電圧[でんあつ] | n | ĐIỆN ÁP | điện áp | - | - | この機械[きかい]の電圧[でんあつ]は二百[にひゃく]ボルトです。 | Điện áp của máy này là 200 vôn.
+ねじ | n | - | ốc vít | ねじ を 締[し]める | siết vít | ねじをトルクレンチで締[し]めます。 | Siết vít bằng cờ lê lực.
+トルク | n | - | mô-men xoắn | - | - | 決[き]められたトルクで締[し]めてください。 | Hãy siết với mô-men quy định.
+六角[ろっかく]レンチ | n | LỤC GIÁC | cờ lê lục giác | - | - | 六角[ろっかく]レンチでボルトを外[はず]します。 | Tháo bu lông bằng cờ lê lục giác.
+ハンマー | n | - | búa | ハンマー で たたく | gõ bằng búa | ハンマーで軽[かる]くたたいて位置[いち]を合[あ]わせます。 | Gõ nhẹ bằng búa để căn vị trí.
+やすり | n | - | cái giũa | やすり を かける | giũa | 角[かど]にやすりをかけて滑[なめ]らかにします。 | Giũa góc cho nhẵn.
+滑[なめ]らか | adj-na | HOẠT | trơn nhẵn | - | - | 表面[ひょうめん]が滑[なめ]らかになるまで磨[みが]きます。 | Đánh bóng cho đến khi bề mặt nhẵn.
+傷[きず] | n | THƯƠNG | vết xước | 傷[きず] を つける | làm xước | 製品[せいひん]に傷[きず]をつけないように置[お]いてください。 | Hãy đặt sản phẩm để không bị xước.
+へこみ | n | - | vết lõm | - | - | 箱[はこ]を落[お]として部品[ぶひん]にへこみができました。 | Làm rơi thùng nên linh kiện bị lõm.
+変形[へんけい] | n,v3 | BIẾN HÌNH | biến dạng | - | - | 熱[ねつ]で部品[ぶひん]が変形[へんけい]しました。 | Linh kiện bị biến dạng do nhiệt.
+ずれる | v2 | - | lệch | 位置[いち] が ずれる | lệch vị trí | 穴[あな]の位置[いち]がずれています。 | Vị trí lỗ bị lệch.
+寸法[すんぽう]不良[ふりょう] | n | THỐN PHÁP BẤT LƯƠNG | lỗi kích thước | - | - | 寸法[すんぽう]不良[ふりょう]が三[みっ]つ見[み]つかりました。 | Phát hiện ba lỗi kích thước.
+識別[しきべつ] | n,v3 | THỨC BIỆT | phân biệt | - | - | 不良品[ふりょうひん]は赤[あか]い箱[はこ]に入[い]れて識別[しきべつ]します。 | Cho hàng lỗi vào thùng đỏ để phân biệt.
+表示札[ひょうじふだ] | n | BIỂU THỊ TRÁT | thẻ nhận diện | - | - | 箱[はこ]に表示札[ひょうじふだ]をつけてください。 | Hãy gắn thẻ nhận diện lên thùng.
+作業指示書[さぎょうしじしょ] | n | TÁC NGHIỆP CHỈ THỊ THƯ | phiếu chỉ thị công việc | - | - | 作業指示書[さぎょうしじしょ]を見[み]てから始[はじ]めます。 | Xem phiếu chỉ thị công việc rồi mới bắt đầu.
+品番[ひんばん] | n | PHẨM PHIÊN | mã sản phẩm | 品番[ひんばん] を 確認[かくにん] する | kiểm tra mã hàng | 部品[ぶひん]の品番[ひんばん]を確認[かくにん]してください。 | Hãy kiểm tra mã linh kiện.
+個数[こすう] | n | CÁ SỐ | số cái | - | - | 箱[はこ]の中[なか]の個数[こすう]を数[かぞ]えます。 | Đếm số cái trong thùng.
+納期[のうき] | n | NẠP KỲ | thời hạn giao hàng | 納期[のうき] に 間[ま]に合[あ]う | kịp hạn giao | 納期[のうき]に間[ま]に合[あ]うように残業[ざんぎょう]します。 | Tăng ca để kịp hạn giao hàng.
+溝[みぞ] | n | CẤU | rãnh | 溝[みぞ] を 掘[ほ]る | tạo rãnh | 部品[ぶひん]に幅[はば]五[ご]ミリの溝[みぞ]を加工[かこう]します。 | Gia công rãnh rộng 5 ly lên linh kiện.
+ねじ山[やま] | n | SƠN | ren | - | - | ねじ山[やま]がつぶれていないか確認[かくにん]します。 | Kiểm tra ren có bị dập không.
+硬[かた]さ | n | NGẠNH | độ cứng | - | - | 熱処理[ねつしょり]の後[あと]で硬[かた]さを測[はか]ります。 | Đo độ cứng sau khi nhiệt luyện.
+膨張[ぼうちょう] | n,v3 | BÀNH TRƯƠNG | giãn nở | - | - | 夏[なつ]は熱[ねつ]で材料[ざいりょう]が膨張[ぼうちょう]します。 | Mùa hè vật liệu giãn nở do nhiệt.
+冷[ひ]やす | v1 | LÃNH | làm nguội | 水[みず] で 冷[ひ]やす | làm nguội bằng nước | 溶接[ようせつ]した部分[ぶぶん]を水[みず]で冷[ひ]やします。 | Làm nguội phần đã hàn bằng nước.
+高温[こうおん] | n | CAO ÔN | nhiệt độ cao | - | - | 高温[こうおん]の部品[ぶひん]に素手[すで]で触[さわ]らないでください。 | Đừng chạm tay trần vào linh kiện nóng.
+素手[すで] | n | TỐ THỦ | tay không | - | - | 素手[すで]で刃物[はもの]を触[さわ]ると危険[きけん]です。 | Chạm tay không vào dao cắt rất nguy hiểm.
+組[く]み付[つ]ける | v2 | TỔ PHÓ | lắp vào | - | - | 部品[ぶひん]を本体[ほんたい]に組[く]み付[つ]けます。 | Lắp linh kiện vào thân máy.
+本体[ほんたい] | n | BẢN THỂ | thân máy | - | - | 本体[ほんたい]の傷[きず]をチェックします。 | Kiểm tra vết xước trên thân máy.
+差[さ]し込[こ]む | v1 | SAI VÀO | cắm vào | - | - | ピンを穴[あな]に差[さ]し込[こ]みます。 | Cắm chốt vào lỗ.
+はめる | v2 | - | lắp khít vào | - | - | ベアリングを軸[じく]にはめます。 | Lắp vòng bi vào trục.
+軸[じく] | n | TRỤC | trục | - | - | 軸[じく]が曲[ま]がっていないか確認[かくにん]します。 | Kiểm tra trục có bị cong không.
+ダイヤルゲージ | n | - | đồng hồ so | - | - | ダイヤルゲージで振[ふ]れを測[はか]ります。 | Đo độ đảo bằng đồng hồ so.
+定盤[じょうばん] | n | ĐỊNH BÀN | bàn máp | - | - | 部品[ぶひん]を定盤[じょうばん]の上[うえ]に置[お]いて測定[そくてい]します。 | Đặt linh kiện lên bàn máp rồi đo.
+直尺[ちょくじゃく] | n | TRỰC XÍCH | thước lá | - | - | 直尺[ちょくじゃく]で長[なが]さを測[はか]ります。 | Đo chiều dài bằng thước lá.
+モーター | n | - | động cơ | モーター が 回[まわ]る | động cơ quay | モーターが回[まわ]らなくなりました。 | Động cơ không quay nữa.
+歯車[はぐるま] | n | XỈ XA | bánh răng | 歯車[はぐるま] が かみ合[あ]う | bánh răng ăn khớp | 歯車[はぐるま]がうまくかみ合[あ]っていません。 | Bánh răng ăn khớp không tốt.
+ベアリング | n | - | vòng bi | - | - | ベアリングから音[おと]がしたら交換[こうかん]します。 | Vòng bi kêu thì thay.
+ばね | n | - | lò xo | - | - | ばねが伸[の]びてしまいました。 | Lò xo bị giãn mất rồi.
+ピン | n | - | chốt | - | - | ピンを差[さ]し込[こ]んで固定[こてい]します。 | Cắm chốt để cố định.
+ワッシャー | n | - | vòng đệm | - | - | ボルトにワッシャーを入[い]れてから締[し]めます。 | Lắp vòng đệm vào bu lông rồi siết.
+カバー | n | - | nắp che | カバー を 外[はず]す | tháo nắp che | 運転[うんてん]中[ちゅう]は安全[あんぜん]カバーを外[はず]さないでください。 | Khi máy chạy đừng tháo nắp an toàn.
+センサー | n | - | cảm biến | センサー が 反応[はんのう] する | cảm biến phản ứng | センサーが反応[はんのう]すると機械[きかい]が止[と]まります。 | Cảm biến phản ứng thì máy dừng.
+反応[はんのう] | n,v3 | PHẢN ỨNG | phản ứng | - | - | ボタンを押[お]しても反応[はんのう]しません。 | Ấn nút cũng không có phản ứng.
+配線[はいせん] | n,v3 | PHỐI TUYẾN | đi dây điện | - | - | 配線[はいせん]が切[き]れていないか確認[かくにん]します。 | Kiểm tra dây điện có bị đứt không.
+ケーブル | n | - | cáp | - | - | ケーブルに足[あし]を引[ひ]っかけないでください。 | Đừng vấp chân vào dây cáp.
+表示灯[ひょうじとう] | n | BIỂU THỊ ĐĂNG | đèn báo | 表示灯[ひょうじとう] が 点灯[てんとう] する | đèn báo sáng | 赤[あか]い表示灯[ひょうじとう]が点灯[てんとう]したら異常[いじょう]です。 | Đèn báo đỏ sáng là có bất thường.
+点灯[てんとう] | n,v3 | ĐIỂM ĐĂNG | đèn sáng | - | - | 緑[みどり]のランプが点灯[てんとう]しています。 | Đèn xanh đang sáng.
+点滅[てんめつ] | n,v3 | ĐIỂM DIỆT | nhấp nháy | - | - | 黄色[きいろ]のランプが点滅[てんめつ]しています。 | Đèn vàng đang nhấp nháy.
+警報[けいほう] | n | CẢNH BÁO | cảnh báo, báo động | 警報[けいほう] が 鳴[な]る | chuông báo động kêu | 警報[けいほう]が鳴[な]ったら班長[はんちょう]を呼[よ]んでください。 | Chuông báo động kêu thì hãy gọi tổ trưởng.
+ブザー | n | - | còi báo | - | - | 材料[ざいりょう]がなくなるとブザーが鳴[な]ります。 | Hết phôi thì còi báo kêu.
+棒材[ぼうざい] | n | BỔNG TÀI | thanh vật liệu | - | - | 棒材[ぼうざい]を百[ひゃく]ミリの長[なが]さに切[き]ります。 | Cắt thanh vật liệu dài 100 ly.
+板材[いたざい] | n | BẢN TÀI | tấm vật liệu | - | - | 板材[いたざい]をレーザーで切断[せつだん]します。 | Cắt tấm vật liệu bằng laser.
+樹脂[じゅし] | n | THỤ CHI | nhựa | {樹脂[じゅし]} 部品[ぶひん] | linh kiện nhựa | 樹脂[じゅし]部品[ぶひん]は熱[ねつ]に弱[よわ]いです。 | Linh kiện nhựa chịu nhiệt kém.
+めっき | n,v3 | - | mạ | - | - | 部品[ぶひん]にめっきをして錆[さび]を防[ふせ]ぎます。 | Mạ linh kiện để chống gỉ.
+着手[ちゃくしゅ] | n,v3 | TRƯỚC THỦ | bắt tay vào làm | - | - | 次[つぎ]の作業[さぎょう]に着手[ちゃくしゅ]します。 | Bắt tay vào công việc tiếp theo.
+完了[かんりょう] | n,v3 | HOÀN LIỄU | hoàn tất | - | - | 作業[さぎょう]が完了[かんりょう]したら報告[ほうこく]してください。 | Hoàn tất công việc thì hãy báo cáo.
+引[ひ]き継[つ]ぎ | n,v3 | DẪN KẾ | bàn giao | 引[ひ]き継[つ]ぎ を する | bàn giao | 交代[こうたい]の時[とき]に引[ひ]き継[つ]ぎをします。 | Khi đổi ca thì bàn giao.
+作業日報[さぎょうにっぽう] | n | TÁC NGHIỆP NHẬT BÁO | báo cáo công việc ngày | - | - | 作業日報[さぎょうにっぽう]に生産数[せいさんすう]を書[か]きます。 | Ghi số lượng sản xuất vào báo cáo ngày.
+稼働率[かどうりつ] | n | GIÁ ĐỘNG SUẤT | tỉ lệ vận hành | - | - | 機械[きかい]の稼働率[かどうりつ]を上[あ]げたいです。 | Muốn nâng tỉ lệ vận hành của máy.
+保全[ほぜん] | n,v3 | BẢO TOÀN | bảo trì | {保全[ほぜん]} 担当[たんとう] | người phụ trách bảo trì | 機械[きかい]が故障[こしょう]したら保全[ほぜん]担当[たんとう]を呼[よ]びます。 | Máy hỏng thì gọi người phụ trách bảo trì.
+メンテナンス | n,v3 | - | bảo dưỡng | - | - | 毎月[まいつき]機械[きかい]のメンテナンスをします。 | Mỗi tháng bảo dưỡng máy.
+消耗品[しょうもうひん] | n | TIÊU HAO PHẨM | vật tư tiêu hao | - | - | 消耗品[しょうもうひん]は早[はや]めに注文[ちゅうもん]します。 | Đặt mua vật tư tiêu hao sớm.
+予備[よび] | n | DỰ BỊ | dự phòng | {予備[よび]} 部品[ぶひん] | linh kiện dự phòng | 予備[よび]部品[ぶひん]を棚[たな]に置[お]いておきます。 | Để sẵn linh kiện dự phòng trên kệ.
+発注[はっちゅう] | n,v3 | PHÁT CHÚ | đặt hàng (nhà cung cấp) | - | - | 材料[ざいりょう]が足[た]りないので発注[はっちゅう]しました。 | Thiếu phôi nên đã đặt hàng.
+棚卸[たなおろ]し | n,v3 | BẰNG HẠ | kiểm kê | - | - | 月末[げつまつ]に棚卸[たなおろ]しをします。 | Cuối tháng kiểm kê hàng.
+在庫管理[ざいこかんり] | n | TẠI KHỐ QUẢN LÝ | quản lý tồn kho | - | - | 在庫管理[ざいこかんり]をパソコンでしています。 | Quản lý tồn kho bằng máy tính.
+危険箇所[きけんかしょ] | n | NGUY HIỂM CÁ SỞ | chỗ nguy hiểm | - | - | 危険箇所[きけんかしょ]には黄色[きいろ]いテープが貼[は]ってあります。 | Chỗ nguy hiểm có dán băng vàng.
+指差呼称[ゆびさしこしょう] | n | CHỈ SAI HÔ XƯNG | chỉ tay hô to | - | - | 指差呼称[ゆびさしこしょう]で「スイッチ、ヨシ！」と確認[かくにん]します。 | Chỉ tay hô "Công tắc, OK!" để xác nhận.
+防[ぼう]じんマスク | n | PHÒNG TRẦN | khẩu trang chống bụi | - | - | 研磨[けんま]作業[さぎょう]では防[ぼう]じんマスクをします。 | Khi đánh bóng thì đeo khẩu trang chống bụi.
+応急手当[おうきゅうてあて] | n | ỨNG CẤP THỦ ĐƯƠNG | sơ cứu | - | - | 怪我[けが]をしたら、すぐに応急手当[おうきゅうてあて]をします。 | Bị thương thì sơ cứu ngay.
+品質[ひんしつ] | n | PHẨM CHẤT | chất lượng | 品質[ひんしつ] を 守[まも]る | giữ chất lượng | お客様[きゃくさま]のために品質[ひんしつ]を守[まも]ります。 | Giữ chất lượng vì khách hàng.
+クレーム | n | - | khiếu nại | クレーム が 来[く]る | bị khiếu nại | お客様[きゃくさま]からクレームが来[き]ました。 | Có khiếu nại từ khách hàng.
+原因[げんいん] | n | NGUYÊN NHÂN | nguyên nhân | 原因[げんいん] を 調[しら]べる | điều tra nguyên nhân | 不良[ふりょう]の原因[げんいん]を調[しら]べます。 | Điều tra nguyên nhân hàng lỗi.
+再発防止[さいはつぼうし] | n | TÁI PHÁT PHÒNG CHỈ | phòng ngừa tái phát | {再発防止[さいはつぼうし]} 策[さく] | biện pháp phòng tái phát | 再発防止[さいはつぼうし]策[さく]を考[かんが]えます。 | Suy nghĩ biện pháp phòng ngừa tái phát.
+不具合[ふぐあい] | n | BẤT CỤ HỢP | trục trặc, lỗi | 不具合[ふぐあい] が 見[み]つかる | phát hiện trục trặc | 検査[けんさ]で不具合[ふぐあい]が見[み]つかりました。 | Phát hiện trục trặc khi kiểm tra.
+手直[てなお]し | n,v3 | THỦ TRỰC | sửa lại (bằng tay) | - | - | 傷[きず]がある製品[せいひん]を手直[てなお]しします。 | Sửa lại những sản phẩm bị xước.
+歩留[ぶど]まり | n | BỘ LƯU | tỉ lệ thành phẩm đạt | 歩留[ぶど]まり が いい | tỉ lệ đạt cao | 新[あたら]しい方法[ほうほう]で歩留[ぶど]まりがよくなりました。 | Nhờ cách làm mới mà tỉ lệ đạt tốt hơn.
+報[ほう]・連[れん]・相[そう] | n | BÁO LIÊN TƯƠNG | báo cáo, liên lạc, trao đổi | - | - | 日本[にほん]の職場[しょくば]では報[ほう]・連[れん]・相[そう]が大切[たいせつ]です。 | Ở nơi làm việc Nhật, báo cáo, liên lạc, trao đổi rất quan trọng.
+溶接[ようせつ]ビード | n | DUNG TIẾP | đường hàn | - | - | 溶接[ようせつ]ビードがきれいか確認[かくにん]します。 | Kiểm tra đường hàn có đẹp không.
+スパッタ | n | - | xỉ hàn bắn | - | - | スパッタが飛[と]ぶので、周[まわ]りに注意[ちゅうい]します。 | Xỉ hàn bắn ra nên chú ý xung quanh.
+仮付[かりづ]け | n,v3 | GIẢ PHÓ | hàn đính | - | - | 本[ほん]溶接[ようせつ]の前[まえ]に仮付[かりづ]けをします。 | Hàn đính trước khi hàn chính.
+母材[ぼざい] | n | MẪU TÀI | vật liệu cơ bản (hàn) | - | - | 母材[ぼざい]の汚[よご]れを落[お]としてから溶接[ようせつ]します。 | Làm sạch vật liệu cơ bản rồi mới hàn.
+ガス | n | - | khí (hàn) | ガス の 流量[りゅうりょう] | lưu lượng khí | ガスの流量[りゅうりょう]を確認[かくにん]してください。 | Hãy kiểm tra lưu lượng khí.
+ボンベ | n | - | bình khí | - | - | ボンベは倒[たお]れないように固定[こてい]します。 | Cố định bình khí để không bị đổ.
+レーザー | n | - | laser | - | - | レーザーで細[こま]かい形[かたち]に切断[せつだん]します。 | Cắt hình chi tiết bằng laser.
+形[かたち] | n | HÌNH | hình dạng | - | - | 図面[ずめん]と形[かたち]が同[おな]じか確認[かくにん]します。 | Kiểm tra hình dạng có giống bản vẽ không.
+角[かど] | n | GIÁC | góc, cạnh | 角[かど] が 鋭[するど]い | cạnh sắc | 角[かど]が鋭[するど]いので、手袋[てぶくろ]をしてください。 | Cạnh sắc nên hãy đeo găng tay.
+鋭[するど]い | adj-i | NHUỆ | sắc bén | - | - | 切[き]ったばかりの鉄板[てっぱん]は端[はし]が鋭[するど]いです。 | Tấm thép vừa cắt có mép rất sắc.
+端[はし] | n | ĐOAN | mép, đầu | - | - | 板[いた]の端[はし]を持[も]って運[はこ]びます。 | Cầm mép tấm mà khuân.
+裏[うら] | n | LÝ | mặt sau | - | - | 部品[ぶひん]の裏[うら]にも傷[きず]がないか見[み]ます。 | Xem cả mặt sau linh kiện có xước không.
+表[おもて] | n | BIỂU | mặt trước | - | - | 表[おもて]と裏[うら]を間違[まちが]えないでください。 | Đừng nhầm mặt trước và mặt sau.
+向[む]き | n | HƯỚNG | hướng, chiều | 向[む]き を そろえる | xếp cùng chiều | 部品[ぶひん]の向[む]きをそろえて箱[はこ]に入[い]れます。 | Xếp linh kiện cùng chiều vào thùng.
+逆[ぎゃく] | n,adj-na | NGHỊCH | ngược | - | - | 部品[ぶひん]が逆[ぎゃく]に付[つ]いています。 | Linh kiện bị lắp ngược.

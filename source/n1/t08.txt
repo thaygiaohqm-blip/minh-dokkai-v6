@@ -1,0 +1,203 @@
+@topic t08
+@ja 社会[しゃかい]・人口[じんこう]・暮[く]らし
+@vi Xã hội, dân số và đời sống
+@desc Dân số, gia đình, bất bình đẳng, cộng đồng, phong tục hiếu hỷ và nếp sống thường ngày của người Nhật.
+少子[しょうし]高齢化[こうれいか] | n | THIẾU TỬ CAO LINH HÓA | ít con và già hóa | - | - | 少子[しょうし]高齢[こうれい]化[か]で社会[しゃかい]保障[ほしょう]費[ひ]が増[ふ]え続[つづ]けている。 | Do ít con và già hóa, chi phí an sinh xã hội liên tục tăng.
+超[ちょう]高齢[こうれい]社会[しゃかい] | n | SIÊU CAO LINH XÃ HỘI | xã hội siêu già | - | - | 日本[にほん]は世界[せかい]で最初[さいしょ]に超[ちょう]高齢[こうれい]社会[しゃかい]を迎[むか]えた。 | Nhật Bản là nước đầu tiên bước vào xã hội siêu già.
+人口[じんこう]減少[げんしょう] | n | NHÂN KHẨU GIẢM THIỂU | suy giảm dân số | - | - | 人口[じんこう]減少[げんしょう]が地方[ちほう]経済[けいざい]に深刻[しんこく]な影響[えいきょう]を与[あた]えている。 | Suy giảm dân số ảnh hưởng nghiêm trọng đến kinh tế địa phương.
+人口[じんこう]密度[みつど] | n | NHÂN KHẨU MẬT ĐỘ | mật độ dân số | - | - | 東京[とうきょう]は人口[じんこう]密度[みつど]が非常[ひじょう]に高[たか]い。 | Tokyo có mật độ dân số rất cao.
+人口[じんこう]動態[どうたい] | n | NHÂN KHẨU ĐỘNG THÁI | biến động dân số | - | - | 人口[じんこう]動態[どうたい]統計[とうけい]によると出生[しゅっしょう]数[すう]は過去[かこ]最少[さいしょう]だった。 | Theo thống kê biến động dân số, số trẻ sinh ra thấp nhất từ trước đến nay.
+出生率[しゅっしょうりつ] | n | XUẤT SINH SUẤT | tỷ lệ sinh | - | - | 出生[しゅっしょう]率[りつ]の低下[ていか]に歯止[はど]めがかからない。 | Không ngăn được đà giảm tỷ lệ sinh.
+合計[ごうけい]特殊[とくしゅ]出生率[しゅっしょうりつ] | n | HỢP KẾ ĐẶC THÙ XUẤT SINH SUẤT | tổng tỷ suất sinh | - | - | 合計[ごうけい]特殊[とくしゅ]出生[しゅっしょう]率[りつ]は一[いち]・二[に]まで下[さ]がった。 | Tổng tỷ suất sinh đã giảm xuống 1,2.
+死亡率[しぼうりつ] | n | TỬ VONG SUẤT | tỷ lệ tử vong | - | - | 医療[いりょう]の進歩[しんぽ]で乳児[にゅうじ]の死亡[しぼう]率[りつ]が下[さ]がった。 | Nhờ tiến bộ y tế, tỷ lệ tử vong trẻ sơ sinh giảm.
+平均[へいきん]余命[よめい] | n | BÌNH QUÂN DƯ MỆNH | tuổi thọ bình quân còn lại | - | - | 六十五[ろくじゅうご]歳[さい]の平均[へいきん]余命[よめい]は二十[にじゅう]年[ねん]以上[いじょう]ある。 | Người sáu mươi lăm tuổi còn sống bình quân hơn hai mươi năm.
+後期[こうき]高齢者[こうれいしゃ] | n | HẬU KỲ CAO LINH GIẢ | người cao tuổi từ 75 trở lên | - | - | 後期[こうき]高齢[こうれい]者[しゃ]の医療[いりょう]費[ひ]負担[ふたん]が見直[みなお]された。 | Gánh nặng chi phí y tế của người từ 75 tuổi được xem xét lại.
+長寿[ちょうじゅ] | n | TRƯỜNG THỌ | trường thọ | {長寿} 社会[しゃかい] | xã hội trường thọ | 祖母[そぼ]の長寿[ちょうじゅ]を家族[かぞく]みんなで祝[いわ]った。 | Cả nhà cùng mừng bà sống thọ.
+還暦[かんれき] | n | HOÀN LỊCH | tuổi sáu mươi | - | - | 父[ちち]の還暦[かんれき]に赤[あか]いちゃんちゃんこを贈[おく]った。 | Tôi tặng bố chiếc áo khoác đỏ nhân tuổi sáu mươi.
+古希[こき] | n | CỔ HY | tuổi bảy mươi | - | - | 母[はは]の古希[こき]のお祝[いわ]いに家族[かぞく]旅行[りょこう]をした。 | Cả nhà đi du lịch mừng mẹ bảy mươi tuổi.
+米寿[べいじゅ] | n | MỄ THỌ | tuổi tám mươi tám | - | - | 祖父[そふ]は今年[ことし]米寿[べいじゅ]を迎[むか]えた。 | Năm nay ông tôi tròn tám mươi tám tuổi.
+単身[たんしん]世帯[せたい] | n | ĐƠN THÂN THẾ ĐỚI | hộ một người | - | - | 都市[とし]部[ぶ]では単身[たんしん]世帯[せたい]が全体[ぜんたい]の半分[はんぶん]近[ちか]くを占[し]める。 | Ở đô thị, hộ một người chiếm gần một nửa.
+核家族[かくかぞく] | n | HẠCH GIA TỘC | gia đình hạt nhân | - | - | 戦後[せんご]、核[かく]家族[かぞく]化[か]が急速[きゅうそく]に進[すす]んだ。 | Sau chiến tranh, xu hướng gia đình hạt nhân tiến triển nhanh.
+大家族[だいかぞく] | n | ĐẠI GIA TỘC | đại gia đình | - | - | 昔[むかし]は三[さん]世代[せだい]が一緒[いっしょ]に暮[く]らす大[だい]家族[かぞく]が多[おお]かった。 | Ngày xưa nhiều đại gia đình ba thế hệ sống chung.
+二世帯[にせたい]住宅[じゅうたく] | n | NHỊ THẾ ĐỚI TRÚ TRẠCH | nhà cho hai thế hệ | - | - | 両親[りょうしん]と二[に]世帯[せたい]住宅[じゅうたく]で暮[く]らしている。 | Tôi sống cùng bố mẹ trong ngôi nhà hai thế hệ.
+独[ひと]り暮[ぐ]らし | n | ĐỘC MỘ | sống một mình | - | - | 大学[だいがく]に入[はい]ってから独[ひと]り暮[ぐ]らしを始[はじ]めた。 | Vào đại học tôi bắt đầu sống một mình.
+専業[せんぎょう]主婦[しゅふ] | n | CHUYÊN NGHIỆP CHỦ PHỤ | nội trợ toàn thời gian | - | - | 母[はは]は結婚[けっこん]してからずっと専業[せんぎょう]主婦[しゅふ]だ。 | Mẹ tôi làm nội trợ toàn thời gian từ khi kết hôn.
+主夫[しゅふ] | n | CHỦ PHU | ông chồng nội trợ | - | - | 妻[つま]が働[はたら]き、夫[おっと]が主夫[しゅふ]として家事[かじ]をする家庭[かてい]もある。 | Có gia đình vợ đi làm, chồng ở nhà lo việc nhà.
+晩婚化[ばんこんか] | n | VÃN HÔN HÓA | xu hướng kết hôn muộn | - | - | 晩婚[ばんこん]化[か]が少子[しょうし]化[か]の一因[いちいん]とされる。 | Kết hôn muộn được coi là một nguyên nhân của tỷ lệ sinh thấp.
+未婚[みこん] | n | VỊ HÔN | chưa kết hôn | {未婚} 率[りつ] | tỷ lệ chưa kết hôn | 三十代[さんじゅうだい]の未婚[みこん]率[りつ]が上昇[じょうしょう]している。 | Tỷ lệ chưa kết hôn ở tuổi ba mươi đang tăng.
+非婚[ひこん] | n | PHI HÔN | không kết hôn (chủ động) | - | - | 非婚[ひこん]を選[えら]ぶ若者[わかもの]も増[ふ]えている。 | Ngày càng nhiều người trẻ chọn không kết hôn.
+婚活[こんかつ] | n,v3 | HÔN HOẠT | hoạt động tìm bạn đời | - | - | 友人[ゆうじん]は婚活[こんかつ]パーティーで今[いま]の夫[おっと]と出会[であ]った。 | Bạn tôi gặp chồng hiện tại ở tiệc kết đôi.
+見合[みあ]い | n,v3 | KIẾN HỢP | xem mắt | {見合い} 結婚[けっこん] | kết hôn qua mai mối | 両親[りょうしん]は見合[みあ]い結婚[けっこん]だった。 | Bố mẹ tôi kết hôn qua xem mắt.
+縁談[えんだん] | n | DUYÊN ĐÀM | chuyện mai mối | - | - | 娘[むすめ]に縁談[えんだん]が持[も]ち込[こ]まれた。 | Có người đến mai mối cho con gái.
+事実婚[じじつこん] | n | SỰ THỰC HÔN | hôn nhân thực tế (không đăng ký) | - | - | 二人[ふたり]は籍[せき]を入[い]れず事実[じじつ]婚[こん]を選[えら]んだ。 | Hai người không đăng ký mà chọn sống như vợ chồng.
+再婚[さいこん] | n,v3 | TÁI HÔN | tái hôn | - | - | 母[はは]は五十[ごじゅう]歳[さい]で再婚[さいこん]した。 | Mẹ tôi tái hôn ở tuổi năm mươi.
+離婚率[りこんりつ] | n | LY HÔN SUẤT | tỷ lệ ly hôn | - | - | 熟年[じゅくねん]離婚[りこん]が増[ふ]え、離婚[りこん]率[りつ]が上[あ]がった。 | Ly hôn ở tuổi trung niên tăng khiến tỷ lệ ly hôn tăng.
+シングルマザー | n | - | mẹ đơn thân | - | - | シングルマザーとして二人[ふたり]の子[こ]を育[そだ]てている。 | Chị nuôi hai con với tư cách mẹ đơn thân.
+ひとり親[おや] | n | THÂN | cha/mẹ đơn thân | {ひとり親} 家庭[かてい] | gia đình đơn thân | ひとり親[おや]家庭[かてい]への支援[しえん]を充実[じゅうじつ]させる。 | Tăng cường hỗ trợ gia đình đơn thân.
+母子[ぼし]家庭[かてい] | n | MẪU TỬ GIA ĐÌNH | gia đình chỉ có mẹ và con | - | - | 母子[ぼし]家庭[かてい]の貧困[ひんこん]が社会[しゃかい]問題[もんだい]になっている。 | Nghèo đói ở gia đình mẹ đơn thân đang là vấn đề xã hội.
+父子[ふし]家庭[かてい] | n | PHỤ TỬ GIA ĐÌNH | gia đình chỉ có cha và con | - | - | 父子[ふし]家庭[かてい]で育[そだ]ったので料理[りょうり]は得意[とくい]だ。 | Lớn lên trong gia đình chỉ có bố nên tôi nấu ăn giỏi.
+学童[がくどう]保育[ほいく] | n | HỌC ĐỒNG BẢO DỤC | trông trẻ sau giờ học | - | - | 共働[ともばたら]きなので子供[こども]を学童[がくどう]保育[ほいく]に預[あず]けている。 | Hai vợ chồng cùng đi làm nên gửi con ở lớp trông trẻ sau giờ học.
+子育[こそだ]て支援[しえん] | n | TỬ DỤC CHI VIỆN | hỗ trợ nuôi con | - | - | 市[し]の子育[こそだ]て支援[しえん]センターを利用[りよう]している。 | Tôi sử dụng trung tâm hỗ trợ nuôi con của thành phố.
+児童[じどう]手当[てあて] | n | NHI ĐỒNG THỦ ĐƯƠNG | trợ cấp nuôi con | - | - | 児童[じどう]手当[てあて]の支給[しきゅう]額[がく]が増[ふ]えた。 | Mức chi trả trợ cấp nuôi con đã tăng.
+年金[ねんきん]受給者[じゅきゅうしゃ] | n | NIÊN KIM THỤ CẤP GIẢ | người nhận lương hưu | - | - | 年金[ねんきん]受給[じゅきゅう]者[しゃ]の数[かず]は年々[ねんねん]増[ふ]えている。 | Số người nhận lương hưu tăng qua từng năm.
+老後[ろうご] | n | LÃO HẬU | tuổi già | {老後} の 資金[しきん] | tiền cho tuổi già | 老後[ろうご]の生活[せいかつ]に不安[ふあん]を感[かん]じる人[ひと]が多[おお]い。 | Nhiều người lo lắng cho cuộc sống tuổi già.
+余生[よせい] | n | DƯ SINH | quãng đời còn lại | - | - | 退職[たいしょく]後[ご]は田舎[いなか]で静[しず]かに余生[よせい]を送[おく]りたい。 | Sau khi nghỉ hưu tôi muốn sống yên bình nốt quãng đời còn lại ở quê.
+第二[だいに]の人生[じんせい] | exp | ĐỆ NHỊ NHÂN SINH | cuộc đời thứ hai | - | - | 定年[ていねん]後[ご]、第[だい]二[に]の人生[じんせい]として農業[のうぎょう]を始[はじ]めた。 | Sau khi nghỉ hưu, ông bắt đầu làm nông như một cuộc đời thứ hai.
+隠居[いんきょ] | n,v3 | ẨN CƯ | về hưu ở ẩn | - | - | 祖父[そふ]は店[みせ]を息子[むすこ]に譲[ゆず]って隠居[いんきょ]した。 | Ông tôi giao cửa hàng cho con trai rồi về ở ẩn.
+終活[しゅうかつ] | n,v3 | CHUNG HOẠT | chuẩn bị cho cuối đời | - | - | 母[はは]は元気[げんき]なうちにと終活[しゅうかつ]を始[はじ]めた。 | Mẹ tôi bắt đầu chuẩn bị cho cuối đời khi còn khỏe.
+老老[ろうろう]介護[かいご] | n | LÃO LÃO GIỚI HỘ | người già chăm người già | - | - | 八十[はちじゅう]代[だい]の夫[おっと]が妻[つま]を介護[かいご]する老老[ろうろう]介護[かいご]が増[ふ]えている。 | Cảnh người chồng tám mươi tuổi chăm vợ, người già chăm người già, đang tăng.
+ヤングケアラー | n | - | người trẻ chăm sóc gia đình | - | - | 家族[かぞく]の介護[かいご]を担[にな]うヤングケアラーへの支援[しえん]が必要[ひつよう]だ。 | Cần hỗ trợ những người trẻ gánh việc chăm sóc gia đình.
+介護職[かいごしょく] | n | GIỚI HỘ CHỨC | nghề chăm sóc | - | - | 介護[かいご]職[しょく]の人手[ひとで]不足[ぶそく]が深刻[しんこく]だ。 | Thiếu nhân lực ngành chăm sóc rất nghiêm trọng.
+ケアマネジャー | n | - | chuyên viên quản lý chăm sóc | - | - | ケアマネジャーに介護[かいご]サービスの計画[けいかく]を立[た]ててもらった。 | Chuyên viên quản lý chăm sóc lập kế hoạch dịch vụ cho tôi.
+相対的[そうたいてき]貧困[ひんこん] | n | TƯƠNG ĐỐI ĐÍCH BẦN KHỐN | nghèo tương đối | - | - | 子[こ]どもの七[なな]人[にん]に一人[ひとり]が相対[そうたい]的[てき]貧困[ひんこん]の状態[じょうたい]にある。 | Cứ bảy trẻ em có một em ở tình trạng nghèo tương đối.
+格差[かくさ]社会[しゃかい] | n | CÁCH SAI XÃ HỘI | xã hội chênh lệch | - | - | 格差[かくさ]社会[しゃかい]の是正[ぜせい]が政治[せいじ]の課題[かだい]だ。 | Thu hẹp xã hội chênh lệch là nhiệm vụ của chính trị.
+所得[しょとく]格差[かくさ] | n | SỞ ĐẮC CÁCH SAI | chênh lệch thu nhập | - | - | 都市[とし]と地方[ちほう]の所得[しょとく]格差[かくさ]が広[ひろ]がっている。 | Chênh lệch thu nhập giữa đô thị và địa phương đang nới rộng.
+ワーキングプア | n | - | người nghèo dù có việc làm | - | - | 働[はたら]いても生活[せいかつ]が苦[くる]しいワーキングプアが増[ふ]えた。 | Số người có việc mà vẫn khổ cực tăng lên.
+低所得[ていしょとく] | n | ĐÊ SỞ ĐẮC | thu nhập thấp | {低所得} 世帯[せたい] | hộ thu nhập thấp | 低[てい]所得[しょとく]世帯[せたい]に給付[きゅうふ]金[きん]が支給[しきゅう]された。 | Tiền trợ cấp được phát cho hộ thu nhập thấp.
+中間層[ちゅうかんそう] | n | TRUNG GIAN TẦNG | tầng lớp trung lưu | - | - | 中間[ちゅうかん]層[そう]が薄[うす]くなっていると言[い]われる。 | Người ta nói tầng lớp trung lưu đang mỏng dần.
+富裕層[ふゆうそう] | n | PHÚ DỤ TẦNG | giới giàu có | - | - | 富裕[ふゆう]層[そう]向[む]けの高級[こうきゅう]マンションが建[た]った。 | Chung cư cao cấp dành cho giới giàu đã được xây.
+貧困層[ひんこんそう] | n | BẦN KHỐN TẦNG | tầng lớp nghèo | - | - | 物価[ぶっか]高[だか]は貧困[ひんこん]層[そう]に最[もっと]も大[おお]きな打撃[だげき]を与[あた]える。 | Giá cả tăng gây đòn nặng nhất cho tầng lớp nghèo.
+ニート | n | - | thanh niên không học không làm | - | - | 卒業[そつぎょう]後[ご]しばらくニートだったが、今[いま]は働[はたら]いている。 | Sau tốt nghiệp tôi từng ở không một thời gian, giờ đã đi làm.
+生活[せいかつ]水準[すいじゅん] | n | SINH HOẠT THỦY CHUẨN | mức sống | - | - | 経済[けいざい]成長[せいちょう]で国民[こくみん]の生活[せいかつ]水準[すいじゅん]が上[あ]がった。 | Tăng trưởng kinh tế giúp nâng cao mức sống người dân.
+衣食住[いしょくじゅう] | n | Y THỰC TRÚ | ăn mặc ở | - | - | 衣食[いしょく]住[じゅう]に困[こま]らない生活[せいかつ]が送[おく]れることに感謝[かんしゃ]している。 | Tôi biết ơn vì có cuộc sống không lo ăn mặc ở.
+消費[しょうひ]生活[せいかつ] | n | TIÊU PHÍ SINH HOẠT | đời sống tiêu dùng | {消費生活} センター | trung tâm người tiêu dùng | 契約[けいやく]のトラブルは消費[しょうひ]生活[せいかつ]センターに相談[そうだん]した。 | Tôi tư vấn trung tâm người tiêu dùng về rắc rối hợp đồng.
+消費[しょうひ]行動[こうどう] | n | TIÊU PHÍ HÀNH ĐỘNG | hành vi tiêu dùng | - | - | 感染[かんせん]症[しょう]で人々[ひとびと]の消費[しょうひ]行動[こうどう]が変[か]わった。 | Dịch bệnh làm hành vi tiêu dùng của mọi người thay đổi.
+散財[さんざい] | n,v3 | TÁN TÀI | tiêu xài hoang phí | - | - | 旅行[りょこう]先[さき]でつい散財[さんざい]してしまった。 | Đến nơi du lịch tôi lỡ tiêu xài hoang phí.
+中食[なかしょく] | n | TRUNG THỰC | đồ ăn mua về nhà | - | - | 共働[ともばたら]きの家庭[かてい]では中食[なかしょく]の利用[りよう]が増[ふ]えている。 | Gia đình hai vợ chồng đi làm ngày càng mua đồ ăn sẵn về nhà.
+内食[うちしょく] | n | NỘI THỰC | ăn cơm nhà tự nấu | - | - | 節約[せつやく]のため外食[がいしょく]を減[へ]らして内食[うちしょく]を増[ふ]やした。 | Để tiết kiệm, tôi giảm ăn ngoài, tăng nấu ăn ở nhà.
+孤食[こしょく] | n | CÔ THỰC | ăn một mình | - | - | 子供[こども]の孤食[こしょく]が心配[しんぱい]されている。 | Việc trẻ phải ăn một mình đang gây lo ngại.
+団[だん]らん | n,v3 | ĐOÀN | quây quần sum họp | 一家[いっか] {団らん} | gia đình quây quần | 夕食[ゆうしょく]の時間[じかん]は家族[かぞく]の大切[たいせつ]な団[だん]らんのひとときだ。 | Bữa tối là khoảnh khắc sum họp quý giá của gia đình.
+相席[あいせき] | n,v3 | TƯƠNG TỊCH | ngồi chung bàn | - | - | 昼休[ひるやす]みの食堂[しょくどう]は混[こ]んでいて、知[し]らない人[ひと]と相席[あいせき]になった。 | Nhà ăn giờ trưa đông nên tôi phải ngồi chung bàn với người lạ.
+ライフスタイル | n | - | lối sống | - | - | 在宅[ざいたく]勤務[きんむ]でライフスタイルが変[か]わった。 | Làm việc tại nhà làm lối sống thay đổi.
+住宅[じゅうたく]事情[じじょう] | n | TRÚ TRẠCH SỰ TÌNH | tình hình nhà ở | - | - | 都会[とかい]の住宅[じゅうたく]事情[じじょう]は厳[きび]しい。 | Tình hình nhà ở thành phố rất khó khăn.
+持[も]ち家[いえ] | n | TRÌ GIA | nhà riêng sở hữu | - | - | 持[も]ち家[いえ]と賃貸[ちんたい]、どちらが得[とく]か議論[ぎろん]になる。 | Mua nhà hay thuê nhà, cái nào lợi hơn luôn gây tranh cãi.
+住宅[じゅうたく]ローン | n | TRÚ TRẠCH | khoản vay mua nhà | - | - | 三十五[さんじゅうご]年[ねん]の住宅[じゅうたく]ローンを組[く]んだ。 | Tôi vay mua nhà kỳ hạn ba mươi lăm năm.
+公団[こうだん] | n | CÔNG ĐOÀN | công ty công (nhà ở) | {公団} 住宅[じゅうたく] | nhà ở công | 子供[こども]のころは公団[こうだん]住宅[じゅうたく]に住[す]んでいた。 | Hồi nhỏ tôi sống ở khu nhà ở công.
+空[あ]き家[や] | n | KHÔNG GIA | nhà bỏ trống | - | - | 地方[ちほう]では空[あ]き家[や]が増[ふ]え、治安[ちあん]が心配[しんぱい]されている。 | Ở địa phương, nhà bỏ trống tăng gây lo ngại an ninh.
+限界[げんかい]集落[しゅうらく] | n | HẠN GIỚI TẬP LẠC | làng có nguy cơ biến mất | - | - | 住民[じゅうみん]の半数[はんすう]以上[いじょう]が高齢[こうれい]者[しゃ]の限界[げんかい]集落[しゅうらく]が増[ふ]えている。 | Số làng có hơn nửa dân là người già, nguy cơ biến mất, đang tăng.
+シャッター街[がい] | n | NHAI | khu phố cửa đóng then cài | - | - | 駅前[えきまえ]の商店[しょうてん]街[がい]がシャッター街[がい]になってしまった。 | Phố buôn bán trước ga đã thành khu phố cửa hàng đóng cửa.
+ニュータウン | n | - | khu đô thị mới | - | - | 1970年代[ねんだい]に作[つく]られたニュータウンで高齢[こうれい]化[か]が進[すす]んでいる。 | Khu đô thị mới xây thập niên 1970 đang già hóa.
+ベッドタウン | n | - | khu ngủ (ngoại ô) | - | - | この市[し]は東京[とうきょう]のベッドタウンとして発展[はってん]した。 | Thành phố này phát triển thành khu ngủ của Tokyo.
+通勤圏[つうきんけん] | n | THÔNG CẦN QUYỂN | phạm vi đi làm hằng ngày | - | - | 都心[としん]への通勤[つうきん]圏[けん]で家[いえ]を探[さが]している。 | Tôi tìm nhà trong phạm vi đi làm vào trung tâm.
+過密[かみつ] | n,adj-na | QUÁ MẬT | quá dày đặc | 都市[とし] の {過密} | đô thị quá tải | 過密[かみつ]なスケジュールで体調[たいちょう]を崩[くず]した。 | Lịch trình dày đặc làm tôi đổ bệnh.
+東京[とうきょう]一極[いっきょく]集中[しゅうちゅう] | n | ĐÔNG KINH NHẤT CỰC TẬP TRUNG | tập trung mọi thứ vào Tokyo | - | - | 東京[とうきょう]一極[いっきょく]集中[しゅうちゅう]の是正[ぜせい]が叫[さけ]ばれている。 | Lời kêu gọi khắc phục tình trạng dồn hết vào Tokyo vang lên.
+移住[いじゅう] | n,v3 | DI TRÚ | di cư, chuyển đến sống | - | - | 都会[とかい]から地方[ちほう]へ移住[いじゅう]する若者[わかもの]が増[ふ]えている。 | Người trẻ chuyển từ thành phố về địa phương ngày càng nhiều.
+Uターン | n,v3 | - | quay đầu; trở về quê | {Uターン} 就職[しゅうしょく] | về quê làm việc | 大学[だいがく]卒業[そつぎょう]後[ご]、地元[じもと]にUターン就職[しゅうしょく]した。 | Tốt nghiệp đại học, tôi về quê làm việc.
+Iターン | n,v3 | - | người thành phố về sống ở quê lạ | - | - | 東京[とうきょう]出身[しゅっしん]の彼[かれ]はIターンで島[しま]に移[うつ]り住[す]んだ。 | Anh người Tokyo chuyển đến sống trên đảo.
+二拠点[にきょてん]生活[せいかつ] | n | NHỊ CỨ ĐIỂM SINH HOẠT | sống ở hai nơi | - | - | 平日[へいじつ]は都会[とかい]、週末[しゅうまつ]は山[やま]の家[いえ]という二[に]拠点[きょてん]生活[せいかつ]をしている。 | Tôi sống hai nơi: ngày thường ở thành phố, cuối tuần ở nhà trên núi.
+田舎[いなか]暮[ぐ]らし | n | ĐIỀN XÁ MỘ | cuộc sống thôn quê | - | - | 田舎[いなか]暮[ぐ]らしに憧[あこが]れる都会[とかい]の人[ひと]は多[おお]い。 | Nhiều người thành phố khao khát cuộc sống thôn quê.
+都会[とかい]暮[ぐ]らし | n | ĐÔ HỘI MỘ | cuộc sống thành thị | - | - | 都会[とかい]暮[ぐ]らしは便利[べんり]だが、ストレスも多[おお]い。 | Sống ở thành phố tiện nhưng cũng nhiều căng thẳng.
+心地[ここち] | n | TÂM ĐỊA | cảm giác | {心地} よい | dễ chịu | 窓[まど]から入[はい]る風[かぜ]が心地[ここち]よい。 | Làn gió lùa qua cửa sổ thật dễ chịu.
+居心地[いごこち] | n | CƯ TÂM ĐỊA | cảm giác khi ở | {居心地} が いい | dễ chịu, thoải mái | この喫茶店[きっさてん]は居心地[いごこち]がよくて長居[ながい]してしまう。 | Quán cà phê này dễ chịu nên tôi hay ngồi lâu.
+地域[ちいき]社会[しゃかい] | n | ĐỊA VỰC XÃ HỘI | cộng đồng địa phương | - | - | 学校[がっこう]と地域[ちいき]社会[しゃかい]が協力[きょうりょく]して子供[こども]を見守[みまも]る。 | Nhà trường và cộng đồng địa phương phối hợp trông chừng trẻ em.
+地域[ちいき]住民[じゅうみん] | n | ĐỊA VỰC TRÚ DÂN | cư dân địa phương | - | - | 地域[ちいき]住民[じゅうみん]の意見[いけん]を聞[き]いて計画[けいかく]を立[た]てる。 | Lập kế hoạch sau khi nghe ý kiến cư dân địa phương.
+共同体[きょうどうたい] | n | CỘNG ĐỒNG THỂ | cộng đồng | 運命[うんめい] {共同体} | cộng đồng chung vận mệnh | 村[むら]は一[ひと]つの共同[きょうどう]体[たい]として助[たす]け合[あ]ってきた。 | Ngôi làng tương trợ nhau như một cộng đồng.
+コミュニティー | n | - | cộng đồng | - | - | ネット上[じょう]のコミュニティーで情報[じょうほう]を交換[こうかん]する。 | Trao đổi thông tin trong cộng đồng trên mạng.
+社会[しゃかい]貢献[こうけん] | n | XÃ HỘI CỐNG HIẾN | đóng góp cho xã hội | - | - | 企業[きぎょう]にも社会[しゃかい]貢献[こうけん]が求[もと]められている。 | Doanh nghiệp cũng được yêu cầu đóng góp cho xã hội.
+慈善[じぜん] | n | TỪ THIỆN | từ thiện | {慈善} 事業[じぎょう] | hoạt động từ thiện | 歌手[かしゅ]が慈善[じぜん]コンサートを開[ひら]いた。 | Ca sĩ tổ chức buổi hòa nhạc từ thiện.
+公衆[こうしゅう] | n | CÔNG CHÚNG | công chúng | {公衆} の 面前[めんぜん] | trước mặt mọi người | 公衆[こうしゅう]の面前[めんぜん]で恥[はじ]をかかされた。 | Tôi bị làm bẽ mặt trước mặt mọi người.
+公衆[こうしゅう]電話[でんわ] | n | CÔNG CHÚNG ĐIỆN THOẠI | điện thoại công cộng | - | - | 最近[さいきん]は公衆[こうしゅう]電話[でんわ]をほとんど見[み]かけない。 | Gần đây hầu như không thấy điện thoại công cộng.
+延[の]べ | n | DIÊN | tổng cộng (tính lượt) | {延べ} 人数[にんずう] | tổng lượt người | イベントには延[の]べ一万[いちまん]人[にん]が参加[さんか]した。 | Tổng cộng mười nghìn lượt người tham gia sự kiện.
+めいめい | n | - | mỗi người, từng người | - | - | 弁当[べんとう]はめいめいで持[も]ってきてください。 | Mỗi người hãy tự mang cơm hộp.
+差[さ]し入[い]れ | n,v3 | SAI NHẬP | đồ tiếp tế, quà động viên | - | - | 残業[ざんぎょう]中[ちゅう]の部下[ぶか]にお菓子[かし]を差[さ]し入[い]れした。 | Tôi mang bánh kẹo đến động viên cấp dưới đang làm thêm.
+褒美[ほうび] | n | BAO MỸ | phần thưởng | ご {褒美} | phần thưởng | テストを頑張[がんば]ったご褒美[ほうび]にケーキを買[か]った。 | Mua bánh làm phần thưởng vì đã cố gắng thi tốt.
+台無[だいな]し | n,adj-na | ĐÀI VÔ | hỏng hết, đổ sông đổ biển | - | - | 雨[あめ]で楽[たの]しみにしていた旅行[りょこう]が台無[だいな]しになった。 | Cơn mưa làm hỏng hết chuyến đi mong đợi.
+野次[やじ] | n | DÃ THỨ | lời la ó | {野次} を 飛[と]ばす | la ó | 演説[えんぜつ]中[ちゅう]に観衆[かんしゅう]から野次[やじ]が飛[と]んだ。 | Khán giả la ó trong lúc diễn thuyết.
+恒例[こうれい] | n | HẰNG LỆ | thường lệ | 毎年[まいとし] {恒例} | thường lệ hằng năm | 夏祭[なつまつ]りは町[まち]の恒例[こうれい]行事[ぎょうじ]だ。 | Lễ hội mùa hè là sự kiện thường lệ của thị trấn.
+帰省[きせい]ラッシュ | n | QUY TỈNH | cao điểm về quê | - | - | お盆[ぼん]の帰省[きせい]ラッシュで高速道路[こうそくどうろ]が渋滞[じゅうたい]した。 | Cao điểm về quê dịp Obon khiến cao tốc tắc đường.
+行楽地[こうらくち] | n | HÀNH LẠC ĐỊA | điểm vui chơi | - | - | 連休[れんきゅう]の行楽[こうらく]地[ち]はどこも人[ひと]でいっぱいだった。 | Điểm vui chơi dịp nghỉ dài ngày nơi nào cũng đông nghịt.
+七五三[しちごさん] | n | THẤT NGŨ TAM | lễ trẻ em 3-5-7 tuổi | - | - | 七五三[しちごさん]のお祝[いわ]いに神社[じんじゃ]へお参[まい]りした。 | Đi lễ đền mừng lễ trẻ em 3-5-7 tuổi.
+挙式[きょしき] | n,v3 | CỬ THỨC | cử hành hôn lễ | - | - | 二人[ふたり]はハワイで挙式[きょしき]した。 | Hai người cử hành hôn lễ ở Hawaii.
+祝儀[しゅうぎ] | n | CHÚC NGHI | tiền mừng | ご {祝儀} | tiền mừng | 結婚[けっこん]式[しき]のご祝儀[しゅうぎ]は三万[さんまん]円[えん]が相場[そうば]だ。 | Tiền mừng đám cưới thường là ba mươi nghìn yên.
+引[ひ]き出物[でもの] | n | DẪN XUẤT VẬT | quà đáp lễ cho khách cưới | - | - | 引[ひ]き出物[でもの]に食器[しょっき]のセットをもらった。 | Tôi nhận bộ chén đĩa làm quà đáp lễ.
+告別式[こくべつしき] | n | CÁO BIỆT THỨC | lễ tiễn biệt | - | - | 恩師[おんし]の告別[こくべつ]式[しき]に参列[さんれつ]した。 | Tôi dự lễ tiễn biệt người thầy cũ.
+法要[ほうよう] | n | PHÁP YẾU | lễ cầu siêu | - | - | 祖父[そふ]の三[さん]回忌[かいき]の法要[ほうよう]が営[いとな]まれた。 | Lễ cầu siêu giỗ ba năm của ông đã được cử hành.
+喪中[もちゅう] | n | TANG TRUNG | đang để tang | - | - | 喪中[もちゅう]なので年賀状[ねんがじょう]を控[ひか]えます。 | Vì đang để tang nên tôi xin không gửi thiệp năm mới.
+墓参[はかまい]り | n,v3 | MỘ THAM | đi tảo mộ | - | - | お盆[ぼん]には家族[かぞく]で墓参[はかまい]りに行[い]く。 | Dịp Obon, cả nhà đi tảo mộ.
+霊園[れいえん] | n | LINH VIÊN | nghĩa trang công viên | - | - | 郊外[こうがい]の霊園[れいえん]にお墓[はか]を建[た]てた。 | Xây mộ ở nghĩa trang công viên ngoại ô.
+遺品[いひん] | n | DI PHẨM | di vật | - | - | 父[ちち]の遺品[いひん]から古[ふる]い日記[にっき]が出[で]てきた。 | Một cuốn nhật ký cũ hiện ra từ di vật của bố.
+遺品[いひん]整理[せいり] | n | DI PHẨM CHỈNH LÝ | dọn dẹp di vật | - | - | 母[はは]の遺品[いひん]整理[せいり]には半年[はんとし]かかった。 | Dọn dẹp di vật của mẹ mất nửa năm.
+相続人[そうぞくにん] | n | TƯƠNG TỤC NHÂN | người thừa kế | - | - | 相続[そうぞく]人[にん]全員[ぜんいん]で遺産[いさん]の分[わ]け方[かた]を話[はな]し合[あ]った。 | Toàn bộ người thừa kế bàn cách chia di sản.
+親族[しんぞく] | n | THÂN TỘC | họ hàng | - | - | 法事[ほうじ]に親族[しんぞく]が集[あつ]まった。 | Họ hàng tụ họp trong buổi giỗ.
+血縁[けつえん] | n | HUYẾT DUYÊN | quan hệ huyết thống | - | - | 血縁[けつえん]はなくても、彼[かれ]は本当[ほんとう]の家族[かぞく]だ。 | Dù không cùng huyết thống, anh ấy là gia đình thật sự.
+血筋[ちすじ] | n | HUYẾT CÂN | dòng máu, dòng dõi | - | - | 音楽[おんがく]の才能[さいのう]は血筋[ちすじ]かもしれない。 | Tài năng âm nhạc có lẽ là do dòng máu.
+家系[かけい] | n | GIA HỆ | dòng họ | {家系} 図[ず] | gia phả | 医者[いしゃ]の家系[かけい]に生[う]まれた。 | Tôi sinh ra trong dòng họ làm bác sĩ.
+家柄[いえがら] | n | GIA BÍNH | gia thế | - | - | 昔[むかし]は家柄[いえがら]で結婚[けっこん]相手[あいて]が決[き]められた。 | Ngày xưa, người kết hôn được quyết định theo gia thế.
+一族[いちぞく] | n | NHẤT TỘC | cả dòng họ | - | - | 正月[しょうがつ]には一族[いちぞく]が本家[ほんけ]に集[あつ]まる。 | Ngày Tết cả dòng họ tụ về nhà trưởng tộc.
+本家[ほんけ] | n | BẢN GIA | nhà trưởng tộc; chính gốc | - | - | この料理[りょうり]の本家[ほんけ]はイタリアだ。 | Món ăn này có gốc ở Ý.
+分家[ぶんけ] | n,v3 | PHÂN GIA | nhà thứ, chi nhánh dòng họ | - | - | 祖父[そふ]の代[だい]に本家[ほんけ]から分家[ぶんけ]した。 | Đến đời ông thì tách khỏi nhà trưởng tộc thành chi thứ.
+跡継[あとつ]ぎ | n | TÍCH KẾ | người nối dõi | - | - | 店[みせ]の跡継[あとつ]ぎがいなくて困[こま]っている。 | Cửa hàng không có người nối nghiệp nên đang gặp khó.
+跡取[あとと]り | n | TÍCH THỦ | người thừa kế | - | - | 長男[ちょうなん]は家[いえ]の跡取[あとと]りとして育[そだ]てられた。 | Con trai trưởng được nuôi dạy làm người thừa kế gia đình.
+嫁[よめ] | n | GIÁ | con dâu; cô dâu | - | - | 息子[むすこ]の嫁[よめ]とは仲[なか]がいい。 | Tôi hòa thuận với con dâu.
+婿[むこ] | n | TẾ | con rể; chú rể | {婿} 養子[ようし] | con rể ở rể | 彼[かれ]は婿[むこ]養子[ようし]として妻[つま]の家[いえ]に入[はい]った。 | Anh ấy về ở rể nhà vợ.
+姑[しゅうとめ] | n | CÔ | mẹ chồng | - | - | 姑[しゅうとめ]から料理[りょうり]を教[おそ]わった。 | Tôi được mẹ chồng dạy nấu ăn.
+舅[しゅうと] | n | CỮU | bố chồng | - | - | 舅[しゅうと]は無口[むくち]だが優[やさ]しい人[ひと]だ。 | Bố chồng ít nói nhưng hiền.
+義父[ぎふ] | n | NGHĨA PHỤ | bố vợ/bố chồng | - | - | 義父[ぎふ]と一緒[いっしょ]に釣[つ]りに出[で]かけた。 | Tôi đi câu cùng bố vợ.
+義母[ぎぼ] | n | NGHĨA MẪU | mẹ vợ/mẹ chồng | - | - | 義母[ぎぼ]が孫[まご]の世話[せわ]を手伝[てつだ]ってくれる。 | Mẹ chồng giúp tôi chăm cháu.
+嫁姑[よめしゅうとめ] | n | GIÁ CÔ | mẹ chồng nàng dâu | {嫁姑} 問題[もんだい] | chuyện mẹ chồng nàng dâu | 嫁姑[よめしゅうとめ]の関係[かんけい]はドラマのよくあるテーマだ。 | Quan hệ mẹ chồng nàng dâu là đề tài thường gặp trong phim.
+縁故[えんこ] | n | DUYÊN CỐ | quen biết, quan hệ thân quen | {縁故} 採用[さいよう] | tuyển dụng nhờ quen biết | 縁故[えんこ]採用[さいよう]は不公平[ふこうへい]だと批判[ひはん]される。 | Tuyển dụng nhờ quen biết bị chỉ trích là bất công.
+体裁[ていさい] | n | THỂ TÀI | hình thức, thể diện | {体裁} を 気[き]にする | lo thể diện | 体裁[ていさい]を気[き]にして本当[ほんとう]のことが言[い]えない。 | Vì lo thể diện mà không nói được sự thật.
+人目[ひとめ] | n | NHÂN MỤC | con mắt người đời | {人目} を 気[き]にする | để ý người khác nhìn | 人目[ひとめ]を気[き]にせず好[す]きな服[ふく]を着[き]たい。 | Tôi muốn mặc đồ mình thích, không để ý ánh mắt người khác.
+人望[じんぼう] | n | NHÂN VỌNG | uy tín, được lòng người | {人望} が 厚[あつ]い | được nhiều người tin mến | 彼[かれ]は人望[じんぼう]が厚[あつ]く、リーダーに選[えら]ばれた。 | Anh ấy được nhiều người tin mến nên được chọn làm trưởng nhóm.
+社交[しゃこう] | n | XÃ GIAO | giao tiếp xã hội | {社交} 的[てき] | hòa đồng | 彼女[かのじょ]は社交[しゃこう]的[てき]で友達[ともだち]が多[おお]い。 | Cô ấy hòa đồng nên có nhiều bạn.
+たしなみ | n | - | sự hiểu biết, phép lịch sự | - | - | 茶道[さどう]は昔[むかし]、女性[じょせい]のたしなみとされた。 | Trà đạo xưa được coi là sự hiểu biết nên có của phụ nữ.
+習[なら]わし | n | TẬP | tập quán | - | - | 正月[しょうがつ]にお雑煮[ぞうに]を食[た]べるのがこの地方[ちほう]の習[なら]わしだ。 | Ăn canh zoni dịp Tết là tập quán của vùng này.
+ジェンダー | n | - | giới tính (xã hội) | {ジェンダー} 平等[びょうどう] | bình đẳng giới | ジェンダー平等[びょうどう]の実現[じつげん]を目指[めざ]す。 | Hướng đến hiện thực hóa bình đẳng giới.
+ダイバーシティ | n | - | sự đa dạng | - | - | 会社[かいしゃ]はダイバーシティを重視[じゅうし]している。 | Công ty coi trọng sự đa dạng.
+男女[だんじょ]平等[びょうどう] | n | NAM NỮ BÌNH ĐẲNG | bình đẳng nam nữ | - | - | 男女[だんじょ]平等[びょうどう]はまだ十分[じゅうぶん]に実現[じつげん]していない。 | Bình đẳng nam nữ vẫn chưa được thực hiện đầy đủ.
+男女[だんじょ]共同[きょうどう]参画[さんかく] | n | NAM NỮ CỘNG ĐỒNG THAM HOẠCH | nam nữ cùng tham gia | - | - | 男女[だんじょ]共同[きょうどう]参画[さんかく]社会[しゃかい]の実現[じつげん]が目標[もくひょう]だ。 | Mục tiêu là xã hội nam nữ cùng tham gia.
+女性[じょせい]活躍[かつやく] | n | NỮ TÍNH HOẠT DƯỢC | phụ nữ phát huy vai trò | - | - | 女性[じょせい]活躍[かつやく]を推進[すいしん]する法律[ほうりつ]ができた。 | Luật thúc đẩy phụ nữ phát huy vai trò đã được ban hành.
+性差別[せいさべつ] | n | TÍNH SAI BIỆT | phân biệt giới tính | - | - | 職場[しょくば]での性[せい]差別[さべつ]をなくす。 | Xóa bỏ phân biệt giới tính nơi làm việc.
+人種[じんしゅ]差別[さべつ] | n | NHÂN CHỦNG SAI BIỆT | phân biệt chủng tộc | - | - | 人種[じんしゅ]差別[さべつ]に反対[はんたい]するデモが行[おこな]われた。 | Cuộc biểu tình phản đối phân biệt chủng tộc đã diễn ra.
+LGBT | n | - | cộng đồng LGBT | - | - | LGBTへの理解[りかい]が少[すこ]しずつ広[ひろ]がっている。 | Sự thấu hiểu đối với cộng đồng LGBT đang dần lan rộng.
+同性婚[どうせいこん] | n | ĐỒNG TÍNH HÔN | hôn nhân đồng giới | - | - | 同性[どうせい]婚[こん]を認[みと]める国[くに]が増[ふ]えている。 | Ngày càng nhiều nước công nhận hôn nhân đồng giới.
+少数[しょうすう]民族[みんぞく] | n | THIỂU SỐ DÂN TỘC | dân tộc thiểu số | - | - | 少数[しょうすう]民族[みんぞく]の言語[げんご]を守[まも]る取[と]り組[く]みがある。 | Có những nỗ lực bảo vệ ngôn ngữ dân tộc thiểu số.
+先住民[せんじゅうみん] | n | TIÊN TRÚ DÂN | người bản địa | - | - | アイヌは北海道[ほっかいどう]の先住[せんじゅう]民[みん]族[ぞく]だ。 | Người Ainu là dân tộc bản địa của Hokkaido.
+排他[はいた] | n | BÀI THA | bài xích | {排他} 的[てき] | mang tính bài xích | 排他[はいた]的[てき]な村[むら]で、よそ者[もの]はなかなか受[う]け入[い]れられない。 | Ngôi làng mang tính bài xích, người ngoài khó được chấp nhận.
+排外[はいがい]主義[しゅぎ] | n | BÀI NGOẠI CHỦ NGHĨA | chủ nghĩa bài ngoại | - | - | 経済[けいざい]不安[ふあん]が排外[はいがい]主義[しゅぎ]を強[つよ]めている。 | Bất ổn kinh tế làm chủ nghĩa bài ngoại gia tăng.
+世代間[せだいかん] | n | THẾ ĐẠI GIAN | giữa các thế hệ | {世代間} 格差[かくさ] | chênh lệch giữa thế hệ | 年金[ねんきん]制度[せいど]には世代[せだい]間[かん]の不公平[ふこうへい]がある。 | Chế độ lương hưu có sự bất công giữa các thế hệ.
+若年層[じゃくねんそう] | n | NHƯỢC NIÊN TẦNG | tầng lớp trẻ | - | - | 若年[じゃくねん]層[そう]の投票[とうひょう]率[りつ]が低[ひく]い。 | Tỷ lệ đi bầu của giới trẻ thấp.
+団塊[だんかい]の世代[せだい] | n | ĐOÀN KHỐI THẾ ĐẠI | thế hệ bùng nổ dân số | - | - | 団塊[だんかい]の世代[せだい]が七十五[ななじゅうご]歳[さい]以上[いじょう]になった。 | Thế hệ bùng nổ dân số đã ở tuổi bảy mươi lăm trở lên.
+ゆとり世代[せだい] | n | THẾ ĐẠI | thế hệ "giáo dục thoải mái" | - | - | ゆとり世代[せだい]というレッテルを貼[は]られるのは嫌[いや]だ。 | Tôi ghét bị dán nhãn "thế hệ giáo dục thoải mái".
+Z世代[せだい] | n | THẾ ĐẠI | thế hệ Z | - | - | Z世代[せだい]は生[う]まれたときからスマホがある世代[せだい]だ。 | Thế hệ Z là thế hệ có điện thoại thông minh từ khi sinh ra.
+世代[せだい]交代[こうたい] | n,v3 | THẾ ĐẠI GIAO ĐẠI | thay thế hệ | - | - | 経営[けいえい]陣[じん]の世代[せだい]交代[こうたい]が進[すす]んだ。 | Ban lãnh đạo đã được thay thế hệ.
+世相[せそう] | n | THẾ TƯỚNG | thế thái nhân tình, thời thế | - | - | 流行語[りゅうこうご]はその年[とし]の世相[せそう]を表[あらわ]している。 | Từ ngữ thịnh hành phản ánh thời thế của năm đó.
+時流[じりゅう] | n | THỜI LƯU | trào lưu thời đại | {時流} に 乗[の]る | theo kịp thời thế | 彼[かれ]は時流[じりゅう]に乗[の]ってビジネスを成功[せいこう]させた。 | Ông nắm bắt thời thế và làm ăn thành công.
+社会[しゃかい]現象[げんしょう] | n | XÃ HỘI HIỆN TƯỢNG | hiện tượng xã hội | - | - | そのアニメは社会[しゃかい]現象[げんしょう]になるほどのヒットだった。 | Bộ anime đó ăn khách đến mức thành hiện tượng xã hội.
+社会[しゃかい]問題[もんだい] | n | XÃ HỘI VẤN ĐỀ | vấn đề xã hội | - | - | 若者[わかもの]の孤立[こりつ]が新[あら]たな社会[しゃかい]問題[もんだい]になっている。 | Sự cô lập của người trẻ đang thành vấn đề xã hội mới.
+懐柔[かいじゅう] | n | HOÀI NHU | dỗ dành, lôi kéo | {懐柔}する | lôi kéo | 反対[はんたい]派[は]を懐柔[かいじゅう]しようとした。 | Cố gắng lôi kéo phe phản đối.
+慟哭[どうこく] | n | ĐỖNG KHỐC | gào khóc | {慟哭}する | gào khóc | 遺族[いぞく]が棺[ひつぎ]の前[まえ]で慟哭[どうこく]した。 | Người thân gào khóc trước quan tài.
+嗚咽[おえつ] | n | Ô YẾT | nức nở | {嗚咽}する | nức nở | 彼女[かのじょ]は声[こえ]を殺[ころ]して嗚咽[おえつ]した。 | Cô ấy cố nén tiếng nức nở.
+惻隠[そくいん] | n | TRẮC ẨN | trắc ẩn | {惻隠}の情[じょう] | lòng trắc ẩn | 惻隠[そくいん]の情[じょう]に駆[か]られて助[たす]けた。 | Giúp đỡ vì lòng trắc ẩn.
+情操[じょうそう] | n | TÌNH THAO | tình cảm thẩm mỹ | {情操}教育[きょういく] | giáo dục tình cảm | 音楽[おんがく]は情操[じょうそう]教育[きょういく]に役立[やくだ]つ。 | Âm nhạc có ích cho giáo dục tình cảm.
+倦怠[けんたい] | n | QUYỆN ĐÃI | mệt mỏi, chán nản | {倦怠}感[かん] | cảm giác mệt mỏi | 倦怠[けんたい]感[かん]が抜[ぬ]けない。 | Không hết cảm giác mệt mỏi.
+恍惚[こうこつ] | n | HOẢNG HỐT | ngây ngất, mê man | {恍惚}とする | ngây ngất | 美[うつく]しい音楽[おんがく]に恍惚[こうこつ]とした。 | Ngây ngất trước âm nhạc tuyệt đẹp.
+逡巡[しゅんじゅん] | n | THUÂN TUẦN | do dự, lưỡng lự | {逡巡}する | do dự | 決断[けつだん]を前[まえ]に逡巡[しゅんじゅん]している。 | Đang do dự trước quyết định.
+煩悶[はんもん] | n | PHIỀN MUỘN | phiền muộn | {煩悶}する | phiền muộn | 答[こた]えの出[で]ない問題[もんだい]に煩悶[はんもん]した。 | Phiền muộn vì vấn đề không có lời giải.
+昂揚[こうよう] | n | NGANG DƯƠNG | phấn chấn | 気分[きぶん]が{昂揚}する | tinh thần phấn chấn | 応援[おうえん]で士気[しき]が昂揚[こうよう]した。 | Sĩ khí phấn chấn nhờ cổ vũ.
+陶酔[とうすい] | n | ĐÀO TÚY | say mê, đắm chìm | {陶酔}する | say mê | 自分[じぶん]の成功[せいこう]に陶酔[とうすい]している。 | Đang say mê với thành công của mình.
+憧憬[しょうけい] | n | ĐỒNG CẢNH | ngưỡng mộ, khao khát | {憧憬}の的[まと] | đối tượng ngưỡng mộ | 都会[とかい]の生活[せいかつ]に憧憬[しょうけい]を抱[いだ]く。 | Khao khát cuộc sống thành thị.
+唾棄[だき] | n | THÓA KHÍ | khinh bỉ, nhổ bỏ | {唾棄}すべき行為[こうい] | hành vi đáng khinh bỉ | 唾棄[だき]すべき卑劣[ひれつ]な行為[こうい]だ。 | Là hành vi hèn hạ đáng khinh bỉ.
+妄執[もうしゅう] | n | VỌNG CHẤP | cố chấp, ám ảnh | {妄執}にとらわれる | bị ám ảnh | 過去[かこ]への妄執[もうしゅう]を捨[す]てるべきだ。 | Nên buông bỏ cố chấp với quá khứ.
+妄念[もうねん] | n | VỌNG NIỆM | vọng tưởng | {妄念}を払[はら]う | xua vọng tưởng | 妄念[もうねん]を払[はら]って心[こころ]を静[しず]める。 | Xua vọng tưởng để an tĩnh tâm hồn.
+虚脱[きょだつ] | n | HƯ THOÁT | kiệt sức, trống rỗng | {虚脱}状態[じょうたい] | trạng thái kiệt sức | 試合[しあい]の後[あと]、虚脱[きょだつ]状態[じょうたい]になった。 | Sau trận đấu rơi vào trạng thái kiệt sức.
+喪失[そうしつ] | n | TANG THẤT | mất mát, đánh mất | 記憶[きおく]{喪失} | mất trí nhớ | ショックで一時的[いちじてき]に記憶[きおく]を喪失[そうしつ]した。 | Mất trí nhớ tạm thời vì sốc.
+激昂[げきこう] | n | KÍCH NGANG | giận dữ, kích động | {激昂}する | giận dữ | 不正[ふせい]を知[し]って激昂[げきこう]した。 | Giận dữ khi biết chuyện gian lận.
+慄然[りつぜん] | adj-na | LẬT NHIÊN | rùng mình kinh hãi | {慄然}とする | rùng mình kinh hãi | 事故[じこ]現場[げんば]を見[み]て慄然[りつぜん]とした。 | Rùng mình kinh hãi khi nhìn hiện trường tai nạn.
+愕然[がくぜん] | adj-na | NGẠC NHIÊN | sửng sốt | {愕然}とする | sửng sốt | 突然[とつぜん]の訃報[ふほう]に愕然[がくぜん]とした。 | Sửng sốt trước tin buồn đột ngột.
+呆然[ぼうぜん] | adj-na | NGỐC NHIÊN | ngẩn ngơ, sững sờ | {呆然}とする | sững sờ | 信[しん]じられない光景[こうけい]に呆然[ぼうぜん]とした。 | Sững sờ trước cảnh tượng không thể tin được.
+茫然[ぼうぜん] | adj-na | MANG NHIÊN | ngẩn ngơ, mông lung | {茫然}自失[じしつ] | ngẩn ngơ mất hồn | 震災[しんさい]で家[いえ]を失[うしな]い茫然[ぼうぜん]自失[じしつ]した。 | Ngẩn ngơ mất hồn khi mất nhà vì động đất.
+怯[おび]え | n | KHIẾP | sợ hãi | {怯[おび]え}が消[き]えない | nỗi sợ không tan | 暗闇[くらやみ]への怯[おび]えが消[き]えない。 | Nỗi sợ bóng tối không tan.
+怨念[おんねん] | n | OÁN NIỆM | oán hận | {怨念}がこもる | đầy oán hận | 怨念[おんねん]のこもった目[め]で睨[にら]んだ。 | Nhìn trừng trừng bằng đôi mắt đầy oán hận.
+遺恨[いこん] | n | DI HẬN | mối hận còn lại | {遺恨}を残[のこ]す | để lại mối hận | 両家[りょうけ]の間[あいだ]に遺恨[いこん]が残[のこ]った。 | Mối hận còn lại giữa hai gia đình.
+怨恨[えんこん] | n | OÁN HẬN | oán hận | {怨恨}を抱[いだ]く | nuôi oán hận | 怨恨[えんこん]が犯行[はんこう]の動機[どうき]だった。 | Oán hận là động cơ phạm tội.
+憔悴[しょうすい] | n | TIỀU TỤY | tiều tụy | {憔悴}する | tiều tụy | 心労[しんろう]で憔悴[しょうすい]しきっていた。 | Tiều tụy hết sức vì lo lắng.
+邂逅[かいこう] | n | GIẢI CẤU | gặp gỡ bất ngờ | {邂逅}する | gặp gỡ bất ngờ | 異国[いこく]の地[ち]で旧友[きゅうゆう]と邂逅[かいこう]した。 | Gặp lại bạn cũ bất ngờ ở đất khách.
+離別[りべつ] | n | LY BIỆT | ly biệt | {離別}する | ly biệt | 戦争[せんそう]で家族[かぞく]と離別[りべつ]した。 | Ly biệt gia đình vì chiến tranh.
+惜別[せきべつ] | n | TÍCH BIỆT | tiếc nuối khi chia tay | {惜別}の念[ねん] | niềm tiếc nuối chia tay | 惜別[せきべつ]の念[ねん]を込[こ]めて見送[みおく]った。 | Tiễn biệt với niềm tiếc nuối.
+訣別[けつべつ] | n | QUYẾT BIỆT | vĩnh biệt | {訣別}する | vĩnh biệt | 過去[かこ]の自分[じぶん]と訣別[けつべつ]する決意[けつい]をした。 | Quyết tâm vĩnh biệt con người cũ của mình.
+洞察[どうさつ] | n | ĐỖNG SÁT | thấu hiểu, sáng suốt | {洞察}する | thấu hiểu | 人間[にんげん]の本質[ほんしつ]を洞察[どうさつ]する力[ちから]。 | Khả năng thấu hiểu bản chất con người.
+省察[せいさつ] | n | TỈNH SÁT | tự xét | {省察}する | tự xét | 自[みずか]らの行動[こうどう]を省察[せいさつ]する。 | Tự xét hành động của mình.
+内省[ないせい] | n | NỘI TỈNH | nội tỉnh, tự vấn | {内省}する | tự vấn | 内省[ないせい]を通[とお]じて成長[せいちょう]する。 | Trưởng thành thông qua tự vấn.
+覚醒[かくせい] | n | GIÁC TỈNH | giác tỉnh, thức tỉnh | {覚醒}する | thức tỉnh | 真実[しんじつ]を知[し]って覚醒[かくせい]した。 | Biết sự thật mà thức tỉnh.
+達観[たっかん] | n | ĐẠT QUAN | đạt quan, thấu suốt | {達観}する | đạt quan | 人生[じんせい]を達観[たっかん]して穏[おだ]やかに暮[く]らす。 | Thấu suốt cuộc đời mà sống bình an.

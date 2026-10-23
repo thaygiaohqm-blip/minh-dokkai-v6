@@ -1,0 +1,129 @@
+@topic t02
+@ja 住[す]まいと地域[ちいき]
+@vi Nhà ở và khu vực
+@desc Thuê nhà, tìm phòng, tiện nghi trong nhà, khu phố, cơ sở công cộng và quan hệ với cộng đồng nơi mình sống.
+住[す]まい | n | TRÚ | chỗ ở | - | - | 駅[えき]の近[ちか]くに住[す]まいを探[さが]しています。 | Tôi đang tìm chỗ ở gần ga.
+住宅[じゅうたく] | n | TRÚ TRẠCH | nhà ở | 住宅[じゅうたく] ローン | khoản vay mua nhà | 住宅[じゅうたく]ローンを組[く]んで家[いえ]を買[か]いました。 | Tôi vay mua nhà để mua căn nhà.
+住居[じゅうきょ] | n | TRÚ CƯ | nơi cư trú | - | - | 新[あたら]しい住居[じゅうきょ]が決[き]まりました。 | Nơi cư trú mới đã được quyết định.
+物件[ぶっけん] | n | VẬT KIỆN | bất động sản (căn cho thuê/bán) | 物件[ぶっけん] を 探[さが]す | tìm nhà | 不動産屋[ふどうさんや]で物件[ぶっけん]を探[さが]しました。 | Tôi đã tìm nhà ở văn phòng bất động sản.
+敷金[しききん] | n | PHU KIM | tiền đặt cọc | - | - | 敷金[しききん]は退去[たいきょ]の時[とき]に返[かえ]ってきます。 | Tiền cọc được trả lại khi trả phòng.
+礼金[れいきん] | n | LỄ KIM | tiền lễ (cho chủ nhà) | - | - | この部屋[へや]は礼金[れいきん]がいりません。 | Phòng này không cần tiền lễ.
+管理費[かんりひ] | n | QUẢN LÝ PHÍ | phí quản lý | - | - | 家賃[やちん]とは別[べつ]に管理費[かんりひ]がかかります。 | Ngoài tiền nhà còn mất phí quản lý.
+管理人[かんりにん] | n | QUẢN LÝ NHÂN | người quản lý tòa nhà | - | - | 鍵[かぎ]をなくしたら管理人[かんりにん]に連絡[れんらく]してください。 | Nếu mất chìa khóa hãy liên lạc người quản lý.
+入居[にゅうきょ] | n,v3 | NHẬP CƯ | dọn vào ở | - | - | 来月[らいげつ]から新[あたら]しいアパートに入居[にゅうきょ]します。 | Từ tháng sau tôi dọn vào căn hộ mới.
+退去[たいきょ] | n,v3 | THOÁI KHỨ | dọn đi, trả phòng | - | - | 退去[たいきょ]する一[いっ]か月[げつ]前[まえ]に連絡[れんらく]が必要[ひつよう]です。 | Cần báo trước một tháng khi trả phòng.
+更新[こうしん] | n,v3 | CANH TÂN | gia hạn, cập nhật | 契約[けいやく] を 更新[こうしん]する | gia hạn hợp đồng | 二[に]年[ねん]ごとに契約[けいやく]を更新[こうしん]します。 | Cứ hai năm tôi gia hạn hợp đồng một lần.
+保証人[ほしょうにん] | n | BẢO CHỨNG NHÂN | người bảo lãnh | - | - | 部屋[へや]を借[か]りるには保証人[ほしょうにん]が必要[ひつよう]です。 | Thuê phòng cần người bảo lãnh.
+審査[しんさ] | n,v3 | THẨM TRA | thẩm định, xét duyệt | 審査[しんさ] に 通[とお]る | được duyệt | 入居[にゅうきょ]の審査[しんさ]に通[とお]りました。 | Tôi đã được duyệt cho vào ở.
+一戸建[いっこだ]て | n | NHẤT HỘ KIẾN | nhà riêng | - | - | 将来[しょうらい]は一戸建[いっこだ]てに住[す]みたいです。 | Sau này tôi muốn sống trong nhà riêng.
+マンション | n | - | chung cư | - | - | 十[じゅう]階建[かいだ]てのマンションに住[す]んでいます。 | Tôi sống ở chung cư mười tầng.
+団地[だんち] | n | ĐOÀN ĐỊA | khu nhà tập thể | - | - | 子供[こども]の頃[ころ]は団地[だんち]に住[す]んでいました。 | Hồi nhỏ tôi sống ở khu tập thể.
+新築[しんちく] | n,v3 | TÂN TRÚC | mới xây | - | - | 新築[しんちく]のアパートは家賃[やちん]が高[たか]いです。 | Căn hộ mới xây thì tiền thuê cao.
+築[ちく] | suf | TRÚC | (số năm) đã xây | {築[ちく]} 十年[じゅうねん] | xây được mười năm | このアパートは築[ちく]二十年[にじゅうねん]です。 | Căn hộ này đã xây hai mươi năm.
+日当[ひあ]たり | n | NHẬT ĐƯƠNG | độ đón nắng | 日当[ひあ]たり が いい | nhiều nắng | 南向[みなみむ]きで日当[ひあ]たりがいい部屋[へや]です。 | Phòng hướng nam, nhiều nắng.
+風通[かぜとお]し | n | PHONG THÔNG | độ thông gió | 風通[かぜとお]し が いい | thoáng gió | 窓[まど]が多[おお]くて風通[かぜとお]しがいいです。 | Nhiều cửa sổ nên thoáng gió.
+南向[みなみむ]き | n | NAM HƯỚNG | hướng nam | - | - | 南向[みなみむ]きの部屋[へや]は冬[ふゆ]でも暖[あたた]かいです。 | Phòng hướng nam mùa đông cũng ấm.
+設備[せつび] | n | THIẾT BỊ | trang thiết bị | 設備[せつび] が 整[ととの]う | trang bị đầy đủ | このマンションは設備[せつび]が整[ととの]っています。 | Chung cư này trang thiết bị đầy đủ.
+整[ととの]う | v1 | CHỈNH | được chuẩn bị đầy đủ | - | - | 準備[じゅんび]が整[ととの]いました。 | Mọi thứ đã sẵn sàng.
+収納[しゅうのう] | n,v3 | THU NẠP | chỗ cất đồ | - | - | この部屋[へや]は収納[しゅうのう]が少[すく]ないです。 | Phòng này ít chỗ cất đồ.
+物置[ものおき] | n | VẬT TRÍ | nhà kho nhỏ | - | - | 古[ふる]い自転車[じてんしゃ]を物置[ものおき]に入[い]れました。 | Tôi để xe đạp cũ vào kho.
+車庫[しゃこ] | n | XA KHỐ | nhà để xe | - | - | 車[くるま]を車庫[しゃこ]に入[い]れてください。 | Hãy cho xe vào nhà để xe.
+塀[へい] | n | BIỀN | tường rào | - | - | 猫[ねこ]が塀[へい]の上[うえ]を歩[ある]いています。 | Con mèo đang đi trên tường rào.
+芝生[しばふ] | n | CHI SINH | bãi cỏ | - | - | 芝生[しばふ]に入[はい]らないでください。 | Xin đừng đi vào bãi cỏ.
+花壇[かだん] | n | HOA ĐÀN | bồn hoa | - | - | 花壇[かだん]にチューリップを植[う]えました。 | Tôi trồng tulip ở bồn hoa.
+照明[しょうめい] | n | CHIẾU MINH | đèn chiếu sáng | - | - | 部屋[へや]の照明[しょうめい]を明[あか]るいものに変[か]えました。 | Tôi đổi đèn phòng sang loại sáng hơn.
+家電[かでん] | n | GIA ĐIỆN | đồ điện gia dụng | - | - | 引[ひ]っ越[こ]しの時[とき]に家電[かでん]を買[か]い替[か]えました。 | Lúc chuyển nhà tôi đã mua đồ điện mới.
+買[か]い替[か]える | v2 | MÃI THẾ | mua cái mới thay | - | - | 古[ふる]い冷蔵庫[れいぞうこ]を買[か]い替[か]えたいです。 | Tôi muốn mua tủ lạnh mới thay cái cũ.
+リフォーム | n,v3 | - | sửa sang nhà | - | - | 台所[だいどころ]をリフォームしました。 | Tôi đã sửa sang lại nhà bếp.
+修繕[しゅうぜん] | n,v3 | TU THIỆN | tu sửa | - | - | 屋根[やね]の修繕[しゅうぜん]に百[ひゃく]万円[まんえん]かかりました。 | Sửa mái nhà mất một triệu yên.
+雨漏[あまも]り | n,v3 | VŨ LẬU | dột mưa | - | - | 古[ふる]い家[いえ]なので雨漏[あまも]りがします。 | Nhà cũ nên bị dột.
+カビ | n | - | nấm mốc | カビ が 生[は]える | bị mốc | 湿気[しっけ]で壁[かべ]にカビが生[は]えました。 | Do ẩm nên tường bị mốc.
+生[は]える | v2 | SINH | mọc | - | - | 庭[にわ]に草[くさ]がたくさん生[は]えています。 | Trong vườn cỏ mọc đầy.
+防音[ぼうおん] | n | PHÒNG ÂM | cách âm | - | - | この部屋[へや]は防音[ぼうおん]なので、ピアノが弾[ひ]けます。 | Phòng này cách âm nên chơi piano được.
+合[あい]鍵[かぎ] | n | HỢP KIỆN | chìa khóa phụ | 合[あい]鍵[かぎ] を 作[つく]る | làm chìa phụ | 家族[かぞく]のために合[あい]鍵[かぎ]を作[つく]りました。 | Tôi làm chìa phụ cho gia đình.
+オートロック | n | - | khóa tự động | - | - | オートロックのマンションは安心[あんしん]です。 | Chung cư có khóa tự động thì yên tâm.
+防犯[ぼうはん] | n | PHÒNG PHẠM | phòng chống tội phạm | 防犯[ぼうはん] カメラ | camera an ninh | 入口[いりぐち]に防犯[ぼうはん]カメラがあります。 | Ở lối vào có camera an ninh.
+治安[ちあん] | n | TRỊ AN | an ninh trật tự | 治安[ちあん] が いい | an ninh tốt | この町[まち]は治安[ちあん]がいいです。 | Thị trấn này an ninh tốt.
+住[す]み心地[ごこち] | n | TRÚ TÂM ĐỊA | cảm giác khi ở | - | - | 新[あたら]しい部屋[へや]の住[す]み心地[ごこち]はどうですか。 | Ở phòng mới thấy thế nào?
+住[す]みやすい | adj-i | TRÚ | dễ sống | - | - | この町[まち]は静[しず]かで住[す]みやすいです。 | Thị trấn này yên tĩnh, dễ sống.
+地域[ちいき] | n | ĐỊA VỰC | khu vực | 地域[ちいき] 社会[しゃかい] | cộng đồng địa phương | 地域[ちいき]社会[しゃかい]の活動[かつどう]に参加[さんか]しています。 | Tôi tham gia hoạt động của cộng đồng địa phương.
+地元[じもと] | n | ĐỊA NGUYÊN | địa phương, quê nhà | 地元[じもと] の 人[ひと] | người địa phương | 地元[じもと]の人[ひと]におすすめの店[みせ]を聞[き]きました。 | Tôi hỏi người địa phương quán nên đến.
+住民[じゅうみん] | n | TRÚ DÂN | cư dân | - | - | 住民[じゅうみん]が協力[きょうりょく]して町[まち]を掃除[そうじ]しました。 | Cư dân đã cùng nhau dọn dẹp thị trấn.
+地区[ちく] | n | ĐỊA KHU | khu vực, quận | - | - | この地区[ちく]は月曜日[げつようび]にごみを出[だ]します。 | Khu này đổ rác vào thứ Hai.
+周辺[しゅうへん] | n | CHU BIÊN | vùng xung quanh | 駅[えき] {周辺[しゅうへん]} | quanh nhà ga | 駅[えき]周辺[しゅうへん]には店[みせ]が多[おお]いです。 | Quanh nhà ga có nhiều cửa hàng.
+付近[ふきん] | n | PHÓ CẬN | vùng lân cận | - | - | この付近[ふきん]に薬局[やっきょく]はありますか。 | Gần đây có hiệu thuốc không?
+辺[あた]り | n | BIÊN | vùng quanh, khoảng | - | - | この辺[あた]りは夜[よる]になると静[しず]かです。 | Vùng này về đêm yên tĩnh.
+郊外[こうがい] | n | GIAO NGOẠI | ngoại ô | - | - | 郊外[こうがい]に家[いえ]を建[た]てました。 | Tôi xây nhà ở ngoại ô.
+市内[しない] | n | THỊ NỘI | trong thành phố | - | - | 市内[しない]ならバスで行[い]けます。 | Trong thành phố thì đi xe buýt được.
+中心[ちゅうしん] | n | TRUNG TÂM | trung tâm | 町[まち] の 中心[ちゅうしん] | trung tâm thị trấn | 市役所[しやくしょ]は町[まち]の中心[ちゅうしん]にあります。 | Tòa thị chính ở trung tâm thị trấn.
+商店街[しょうてんがい] | n | THƯƠNG ĐIẾM NHAI | phố mua sắm | - | - | 駅前[えきまえ]の商店街[しょうてんがい]はいつも賑[にぎ]やかです。 | Phố mua sắm trước ga lúc nào cũng nhộn nhịp.
+駅前[えきまえ] | n | DỊCH TIỀN | trước nhà ga | - | - | 駅前[えきまえ]で待[ま]っています。 | Tôi đang đợi trước nhà ga.
+通[とお]り | n | THÔNG | con đường, phố | 大通[おおどお]り | đại lộ | 大通[おおどお]りを渡[わた]ると銀行[ぎんこう]があります。 | Qua đại lộ là ngân hàng.
+路地[ろじ] | n | LỘ ĐỊA | ngõ hẻm | - | - | 細[ほそ]い路地[ろじ]の奥[おく]に小[ちい]さな店[みせ]があります。 | Trong cuối ngõ hẹp có một quán nhỏ.
+突[つ]き当[あ]たり | n | ĐỘT ĐƯƠNG | cuối đường (cụt) | - | - | 廊下[ろうか]の突[つ]き当[あ]たりがトイレです。 | Cuối hành lang là nhà vệ sinh.
+手前[てまえ] | n | THỦ TIỀN | phía trước, gần mình hơn | - | - | 駅[えき]の手前[てまえ]で降[お]ろしてください。 | Cho tôi xuống trước ga một chút.
+奥[おく] | n | ÁO | phía trong cùng | - | - | 店[みせ]の奥[おく]に席[せき]があります。 | Phía trong cửa hàng có chỗ ngồi.
+向[む]かい | n | HƯỚNG | phía đối diện | - | - | 郵便局[ゆうびんきょく]の向[む]かいにパン屋[や]があります。 | Đối diện bưu điện có tiệm bánh mì.
+隅[すみ] | n | NGUNG | góc | - | - | 部屋[へや]の隅[すみ]に机[つくえ]を置[お]きました。 | Tôi đặt bàn ở góc phòng.
+公共[こうきょう] | n | CÔNG CỘNG | công cộng | 公共[こうきょう] 施設[しせつ] | cơ sở công cộng | 公共[こうきょう]施設[しせつ]ではマナーを守[まも]りましょう。 | Ở cơ sở công cộng hãy giữ phép lịch sự.
+施設[しせつ] | n | THI THIẾT | cơ sở, công trình | - | - | この町[まち]にはスポーツ施設[しせつ]が多[おお]いです。 | Thị trấn này có nhiều cơ sở thể thao.
+公民館[こうみんかん] | n | CÔNG DÂN QUÁN | nhà văn hóa | - | - | 公民館[こうみんかん]で日本語[にほんご]教室[きょうしつ]があります。 | Ở nhà văn hóa có lớp tiếng Nhật.
+体育館[たいいくかん] | n | THỂ DỤC QUÁN | nhà thi đấu | - | - | 雨[あめ]の日[ひ]は体育館[たいいくかん]で練習[れんしゅう]します。 | Ngày mưa tập ở nhà thi đấu.
+保育園[ほいくえん] | n | BẢO DỤC VIÊN | nhà trẻ | 保育園[ほいくえん] に 預[あず]ける | gửi nhà trẻ | 子供[こども]を保育園[ほいくえん]に預[あず]けて働[はたら]いています。 | Tôi gửi con ở nhà trẻ để đi làm.
+幼稚園[ようちえん] | n | ẤU TRĨ VIÊN | trường mẫu giáo | - | - | 娘[むすめ]は来年[らいねん]幼稚園[ようちえん]に入[はい]ります。 | Năm sau con gái tôi vào mẫu giáo.
+広場[ひろば] | n | QUẢNG TRƯỜNG | quảng trường | - | - | 駅前[えきまえ]の広場[ひろば]でお祭[まつ]りがあります。 | Có lễ hội ở quảng trường trước ga.
+駐輪場[ちゅうりんじょう] | n | TRÚ LUÂN TRƯỜNG | bãi để xe đạp | - | - | 自転車[じてんしゃ]は駐輪場[ちゅうりんじょう]に止[と]めてください。 | Hãy để xe đạp ở bãi xe.
+歩道橋[ほどうきょう] | n | BỘ ĐẠO KIỀU | cầu vượt đi bộ | - | - | 歩道橋[ほどうきょう]を渡[わた]って学校[がっこう]に行[い]きます。 | Tôi đi qua cầu vượt để đến trường.
+街灯[がいとう] | n | NHAI ĐĂNG | đèn đường | - | - | この道[みち]は街灯[がいとう]が少[すく]なくて暗[くら]いです。 | Con đường này ít đèn nên tối.
+掲示板[けいじばん] | n | YẾT THỊ BẢN | bảng thông báo | 掲示板[けいじばん] に 貼[は]る | dán lên bảng tin | お知[し]らせを掲示板[けいじばん]に貼[は]りました。 | Tôi đã dán thông báo lên bảng tin.
+貼[は]る | v1 | THIẾP | dán | - | - | 封筒[ふうとう]に切手[きって]を貼[は]ります。 | Dán tem lên phong bì.
+粗大[そだい]ごみ | n | THÔ ĐẠI | rác cồng kềnh | - | - | 古[ふる]いソファーを粗大[そだい]ごみに出[だ]しました。 | Tôi bỏ sofa cũ vào rác cồng kềnh.
+可燃[かねん]ごみ | n | KHẢ NHIÊN | rác cháy được | - | - | 可燃[かねん]ごみは火曜日[かようび]と金曜日[きんようび]です。 | Rác cháy được đổ vào thứ Ba và thứ Sáu.
+不燃[ふねん]ごみ | n | BẤT NHIÊN | rác không cháy | - | - | 電池[でんち]は不燃[ふねん]ごみではありません。 | Pin không phải rác không cháy.
+収集[しゅうしゅう] | n,v3 | THU TẬP | thu gom | ごみ {収集[しゅうしゅう]} | thu gom rác | ごみ収集[しゅうしゅう]の日[ひ]を確認[かくにん]してください。 | Hãy xác nhận ngày thu gom rác.
+守[まも]る | v1 | THỦ | giữ, tuân thủ | 約束[やくそく] を 守[まも]る | giữ lời hứa | 彼[かれ]はいつも約束[やくそく]を守[まも]ります。 | Anh ấy luôn giữ lời hứa.
+苦情[くじょう] | n | KHỔ TÌNH | lời phàn nàn | 苦情[くじょう] を 言[い]う | phàn nàn | 隣[となり]の人[ひと]から騒音[そうおん]の苦情[くじょう]を言[い]われました。 | Tôi bị hàng xóm phàn nàn về tiếng ồn.
+転入[てんにゅう] | n,v3 | CHUYỂN NHẬP | chuyển đến (đăng ký cư trú) | 転入[てんにゅう] 届[とどけ] | đơn chuyển đến | 引[ひ]っ越[こ]したら市役所[しやくしょ]に転入[てんにゅう]届[とどけ]を出[だ]します。 | Chuyển nhà xong thì nộp đơn chuyển đến ở tòa thị chính.
+転出[てんしゅつ] | n,v3 | CHUYỂN XUẤT | chuyển đi (đăng ký) | - | - | 引[ひ]っ越[こ]す前[まえ]に転出[てんしゅつ]の手続[てつづ]きをします。 | Trước khi chuyển nhà tôi làm thủ tục chuyển đi.
+届[とど]け出[で] | n | GIỚI XUẤT | khai báo | - | - | 住所[じゅうしょ]が変[か]わったら届[とど]け出[で]が必要[ひつよう]です。 | Đổi địa chỉ thì cần khai báo.
+郵便番号[ゆうびんばんごう] | n | BƯU TIỆN PHIÊN HIỆU | mã bưu điện | - | - | 住所[じゅうしょ]と郵便番号[ゆうびんばんごう]を書[か]いてください。 | Hãy ghi địa chỉ và mã bưu điện.
+番地[ばんち] | n | PHIÊN ĐỊA | số nhà | - | - | 番地[ばんち]まで正確[せいかく]に書[か]いてください。 | Hãy ghi chính xác đến số nhà.
+県[けん] | n | HUYỆN | tỉnh | - | - | 私[わたし]は静岡県[しずおかけん]の出身[しゅっしん]です。 | Tôi đến từ tỉnh Shizuoka.
+都道府県[とどうふけん] | n | ĐÔ ĐẠO PHỦ HUYỆN | các đơn vị hành chính cấp tỉnh | - | - | 日本[にほん]には四十七[よんじゅうなな]の都道府県[とどうふけん]があります。 | Nhật Bản có 47 tỉnh thành.
+出身[しゅっしん] | n | XUẤT THÂN | xuất thân, quê | 出身[しゅっしん] 地[ち] | nơi xuất thân | 出身[しゅっしん]地[ち]はどちらですか。 | Quê bạn ở đâu?
+故郷[ふるさと] | n | CỐ HƯƠNG | quê hương | - | - | 夏休[なつやす]みに故郷[ふるさと]へ帰[かえ]ります。 | Kỳ nghỉ hè tôi về quê.
+地方[ちほう] | n | ĐỊA PHƯƠNG | vùng, địa phương | - | - | 地方[ちほう]によって言葉[ことば]が違[ちが]います。 | Tùy vùng mà ngôn ngữ khác nhau.
+都市[とし] | n | ĐÔ THỊ | đô thị | 大都市[だいとし] | thành phố lớn | 大都市[だいとし]は家賃[やちん]が高[たか]いです。 | Thành phố lớn thì tiền nhà cao.
+人口[じんこう] | n | NHÂN KHẨU | dân số | 人口[じんこう] が 減[へ]る | dân số giảm | この村[むら]は人口[じんこう]が減[へ]っています。 | Dân số làng này đang giảm.
+村[むら] | n | THÔN | làng | - | - | 山[やま]の中[なか]の小[ちい]さな村[むら]で育[そだ]ちました。 | Tôi lớn lên ở một ngôi làng nhỏ trong núi.
+町並[まちな]み | n | ĐINH TỊNH | dãy phố | - | - | 京都[きょうと]の古[ふる]い町並[まちな]みが好[す]きです。 | Tôi thích những dãy phố cổ ở Kyoto.
+街[まち] | n | NHAI | phố phường | 街[まち] を 歩[ある]く | dạo phố | 休日[きゅうじつ]は街[まち]を歩[ある]くのが好[す]きです。 | Ngày nghỉ tôi thích dạo phố.
+繁華街[はんかがい] | n | PHỒN HOA NHAI | khu phố sầm uất | - | - | 夜[よる]の繁華街[はんかがい]は人[ひと]でいっぱいです。 | Khu phố sầm uất về đêm đầy người.
+住宅街[じゅうたくがい] | n | TRÚ TRẠCH NHAI | khu dân cư | - | - | 静[しず]かな住宅街[じゅうたくがい]に住[す]んでいます。 | Tôi sống ở khu dân cư yên tĩnh.
+坂道[さかみち] | n | PHẢN ĐẠO | đường dốc | - | - | 家[いえ]まで長[なが]い坂道[さかみち]を登[のぼ]ります。 | Về nhà phải leo một con dốc dài.
+近[ちか]づく | v1 | CẬN | đến gần | - | - | 台風[たいふう]が近[ちか]づいています。 | Bão đang đến gần.
+離[はな]れる | v2 | LY | rời xa, cách | 家[いえ] を 離[はな]れる | xa nhà | 大学[だいがく]に入[はい]って家[いえ]を離[はな]れました。 | Vào đại học tôi rời xa nhà.
+徒歩[とほ] | n | ĐỒ BỘ | đi bộ | {徒歩[とほ]} 五分[ごふん] | đi bộ năm phút | 駅[えき]から徒歩[とほ]五分[ごふん]の部屋[へや]です。 | Phòng cách ga năm phút đi bộ.
+最寄[もよ]り | n | TỐI KÝ | gần nhất | {最寄[もよ]り} 駅[えき] | ga gần nhất | 最寄[もよ]り駅[えき]はどこですか。 | Ga gần nhất là ga nào?
+立地[りっち] | n | LẬP ĐỊA | vị trí (địa điểm) | 立地[りっち] が いい | vị trí đẹp | このマンションは立地[りっち]がいいです。 | Chung cư này vị trí đẹp.
+子育[こそだ]て | n,v3 | TỬ DỤC | nuôi dạy con | - | - | 子育[こそだ]てしながら働[はたら]いています。 | Tôi vừa nuôi con vừa đi làm.
+静[しず]けさ | n | TĨNH | sự yên tĩnh | - | - | 田舎[いなか]の静[しず]けさが好[す]きです。 | Tôi thích sự yên tĩnh của làng quê.
+建[た]てる | v2 | KIẾN | xây dựng | 家[いえ] を 建[た]てる | xây nhà | 両親[りょうしん]が田舎[いなか]に家[いえ]を建[た]てました。 | Bố mẹ tôi đã xây nhà ở quê.
+建[た]つ | v1 | KIẾN | được xây | - | - | 駅前[えきまえ]に新[あたら]しいビルが建[た]ちました。 | Trước ga đã mọc lên tòa nhà mới.
+ビル | n | - | tòa nhà | - | - | 会社[かいしゃ]は駅前[えきまえ]のビルの五階[ごかい]です。 | Công ty ở tầng năm tòa nhà trước ga.
+階建[かいだ]て | suf | GIAI KIẾN | (số) tầng | 二[に] {階建[かいだ]て} | nhà hai tầng | 二[に]階建[かいだ]ての家[いえ]に住[す]んでいます。 | Tôi sống trong ngôi nhà hai tầng.
+工事[こうじ] | n,v3 | CÔNG SỰ | thi công | 工事[こうじ] 中[ちゅう] | đang thi công | この道[みち]は工事[こうじ]中[ちゅう]で通[とお]れません。 | Đường này đang thi công nên không đi được.
+騒々[そうぞう]しい | adj-i | TAO | ồn ào | - | - | 工事[こうじ]の音[おと]で騒々[そうぞう]しいです。 | Ồn ào vì tiếng thi công.
+住[す]み慣[な]れる | v2 | TRÚ QUÁN | quen sống ở | 住[す]み慣[な]れた 町[まち] | nơi đã quen sống | 住[す]み慣[な]れた町[まち]を離[はな]れるのは寂[さび]しいです。 | Rời nơi đã quen sống thật buồn.
+移[うつ]る | v1 | DI | chuyển đến | - | - | 来月[らいげつ]大阪[おおさか]に移[うつ]ります。 | Tháng sau tôi chuyển đến Osaka.
+移[うつ]す | v1 | DI | dời, chuyển | - | - | 机[つくえ]を窓[まど]のそばに移[うつ]しました。 | Tôi dời bàn ra gần cửa sổ.
+引[ひ]っ越[こ]し先[さき] | n | DẪN VIỆT TIÊN | nơi chuyển đến | - | - | 引[ひ]っ越[こ]し先[さき]の住所[じゅうしょ]を教[おし]えてください。 | Cho tôi địa chỉ nơi bạn chuyển đến.
+荷造[にづく]り | n,v3 | HÀ TẠO | đóng gói đồ | - | - | 引[ひ]っ越[こ]しの荷造[にづく]りをしています。 | Tôi đang đóng gói đồ để chuyển nhà.
+段[だん]ボール | n | ĐOẠN | thùng các-tông | - | - | 本[ほん]を段[だん]ボールに詰[つ]めました。 | Tôi xếp sách vào thùng các-tông.
+詰[つ]める | v2 | CẬT | nhồi, xếp vào | - | - | かばんに服[ふく]を詰[つ]めます。 | Tôi xếp quần áo vào va-li.
+ご近所[きんじょ] | n | CẬN SỞ | hàng xóm (lịch sự) | - | - | ご近所[きんじょ]にタオルを持[も]って挨拶[あいさつ]に行[い]きました。 | Tôi mang khăn đi chào hàng xóm.
+バス停[てい] | n | ĐÌNH | bến xe buýt | - | - | バス停[てい]まで歩[ある]いて三[さん]分[ぷん]です。 | Đi bộ ba phút đến bến xe buýt.
+自治会[じちかい] | n | TỰ TRỊ HỘI | hội tự quản | 自治会[じちかい] に 入[はい]る | vào hội tự quản | マンションの自治会[じちかい]に入[はい]りました。 | Tôi đã vào hội tự quản của chung cư.
+行事[ぎょうじ] | n | HÀNH SỰ | sự kiện, lễ hội | 地域[ちいき] の {行事[ぎょうじ]} | sự kiện địa phương | 地域[ちいき]の行事[ぎょうじ]に家族[かぞく]で参加[さんか]しました。 | Cả nhà tôi đã tham gia sự kiện địa phương.
+清掃[せいそう] | n,v3 | THANH TẢO | dọn vệ sinh | - | - | 毎月[まいつき]公園[こうえん]の清掃[せいそう]があります。 | Hằng tháng có buổi dọn vệ sinh công viên.
+防災[ぼうさい]訓練[くんれん] | n | PHÒNG TAI HUẤN LUYỆN | diễn tập phòng chống thiên tai | - | - | 九月[くがつ]に防災[ぼうさい]訓練[くんれん]が行[おこな]われます。 | Tháng chín sẽ tổ chức diễn tập phòng chống thiên tai.

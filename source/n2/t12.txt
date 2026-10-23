@@ -1,0 +1,182 @@
+@topic t12
+@ja 人間関係[にんげんかんけい]・コミュニケーション
+@vi Quan hệ con người và giao tiếp
+@desc Các mối quan hệ, phép lịch sự, nhờ vả và từ chối, khen chê, thuyết phục, cách nói chuyện và những động từ ghép chỉ hành động cùng nhau.
+人間[にんげん] | n | NHÂN GIAN | con người | {人間} 関係[かんけい] | quan hệ giữa người với người | 職場[しょくば]の人間[にんげん]関係[かんけい]に悩[なや]んでいる。 | Tôi đang phiền não về quan hệ ở chỗ làm.
+祖先[そせん] | n | TỔ TIÊN | tổ tiên | - | - | 人類[じんるい]の祖先[そせん]はアフリカで生[う]まれたと言[い]われる。 | Người ta nói tổ tiên loài người ra đời ở châu Phi.
+主人[しゅじん] | n | CHỦ NHÂN | chồng (tôi); chủ nhà | - | - | 主人[しゅじん]は今[いま]、出張[しゅっちょう]中[ちゅう]です。 | Chồng tôi hiện đang đi công tác.
+人物[じんぶつ] | n | NHÂN VẬT | nhân vật, con người | 重要[じゅうよう] {人物} | nhân vật quan trọng | 彼[かれ]は信頼[しんらい]できる人物[じんぶつ]だ。 | Anh ấy là người có thể tin cậy.
+者[もの] | n | GIẢ | người (khiêm nhường) | - | - | 受付[うけつけ]の者[もの]がご案内[あんない]します。 | Nhân viên lễ tân sẽ hướng dẫn quý khách.
+各自[かくじ] | n | CÁC TỰ | mỗi người | - | - | 昼食[ちゅうしょく]は各自[かくじ]で用意[ようい]してください。 | Bữa trưa mỗi người tự chuẩn bị.
+間柄[あいだがら] | n | GIAN BÍNH | mối quan hệ | 親[した]しい {間柄} | quan hệ thân thiết | 彼[かれ]とは冗談[じょうだん]を言[い]い合[あ]える間柄[あいだがら]だ。 | Tôi với anh ấy là quan hệ có thể đùa nhau.
+身近[みぢか] | adj-na | THÂN CẬN | gần gũi, quanh mình | {身近} な 人[ひと] | người gần gũi | 環境[かんきょう]問題[もんだい]を身近[みぢか]なところから考[かんが]えよう。 | Hãy nghĩ về vấn đề môi trường từ những điều gần gũi.
+親[した]しむ | v1 | THÂN | gần gũi, làm quen | 自然[しぜん] に {親しむ} | gần gũi thiên nhiên | 子供[こども]のころから音楽[おんがく]に親[した]しんできた。 | Từ nhỏ tôi đã gần gũi với âm nhạc.
+馴染[なじ]み | n | TUẦN NHIỄM | quen thuộc | {馴染み} の 店[みせ] | quán quen | 駅前[えきまえ]の喫茶店[きっさてん]は私[わたし]の馴染[なじ]みの店[みせ]だ。 | Quán cà phê trước ga là quán quen của tôi.
+面識[めんしき] | n | DIỆN THỨC | quen biết mặt | {面識} が ない | chưa từng gặp | その人[ひと]とは面識[めんしき]がありません。 | Tôi chưa từng gặp người đó.
+対面[たいめん] | n,v3 | ĐỐI DIỆN | gặp mặt trực tiếp | {対面} で 話[はな]す | nói chuyện trực tiếp | オンラインではなく対面[たいめん]で会議[かいぎ]をした。 | Chúng tôi họp trực tiếp chứ không trực tuyến.
+対話[たいわ] | n,v3 | ĐỐI THOẠI | đối thoại | {対話} を 重[かさ]ねる | đối thoại nhiều lần | 問題[もんだい]の解決[かいけつ]には対話[たいわ]が必要[ひつよう]だ。 | Để giải quyết vấn đề cần có đối thoại.
+交際[こうさい] | n,v3 | GIAO TẾ | giao du; hẹn hò | {交際} 費[ひ] | chi phí giao tế | 二人[ふたり]は三[さん]年[ねん]の交際[こうさい]を経[へ]て結婚[けっこん]した。 | Hai người kết hôn sau ba năm hẹn hò.
+親睦[しんぼく] | n | THÂN MỤC | thân thiện, gắn bó | {親睦} 会[かい] | buổi giao lưu | 新入[しんにゅう]社員[しゃいん]の親睦[しんぼく]会[かい]が開[ひら]かれた。 | Buổi giao lưu cho nhân viên mới đã được tổ chức.
+人脈[じんみゃく] | n | NHÂN MẠCH | mạng lưới quan hệ | {人脈} を 広[ひろ]げる | mở rộng quan hệ | 仕事[しごと]を通[つう]じて人脈[じんみゃく]を広[ひろ]げた。 | Tôi mở rộng quan hệ thông qua công việc.
+人情[にんじょう] | n | NHÂN TÌNH | tình người | {人情} が 厚[あつ]い | giàu tình người | この町[まち]の人[ひと]は人情[にんじょう]が厚[あつ]い。 | Người ở thị trấn này rất giàu tình người.
+歓談[かんだん] | n,v3 | HOAN ĐÀM | trò chuyện vui vẻ | - | - | 食事[しょくじ]をしながらしばらくご歓談[かんだん]ください。 | Xin mời mọi người vừa dùng bữa vừa trò chuyện.
+談笑[だんしょう] | n,v3 | ĐÀM TIẾU | nói cười vui vẻ | - | - | 休憩[きゅうけい]室[しつ]で同僚[どうりょう]と談笑[だんしょう]した。 | Tôi nói cười cùng đồng nghiệp trong phòng nghỉ.
+雑談[ざつだん] | n,v3 | TẠP ĐÀM | tán gẫu | - | - | 会議[かいぎ]の前[まえ]に少[すこ]し雑談[ざつだん]をした。 | Trước cuộc họp chúng tôi tán gẫu một chút.
+世間話[せけんばなし] | n | THẾ GIAN THOẠI | chuyện phiếm | - | - | 隣[となり]の人[ひと]と世間話[せけんばなし]をした。 | Tôi nói chuyện phiếm với người hàng xóm.
+噂話[うわさばなし] | n | ĐỒN THOẠI | chuyện bàn tán | - | - | 人[ひと]の噂話[うわさばなし]ばかりするのはやめよう。 | Thôi đừng suốt ngày bàn tán chuyện người khác.
+陰口[かげぐち] | n | ÂM KHẨU | nói xấu sau lưng | {陰口} を 言[い]う | nói xấu sau lưng | 同僚[どうりょう]の陰口[かげぐち]を言[い]うのはよくない。 | Nói xấu đồng nghiệp sau lưng là không tốt.
+からかう | v1 | - | trêu chọc | 弟[おとうと] を {からかう} | trêu em trai | 背[せ]が低[ひく]いことをからかわれて悲[かな]しかった。 | Tôi buồn vì bị trêu là thấp.
+冷[ひ]やかす | v1 | LÃNH | chọc ghẹo; xem hàng không mua | - | - | 二人[ふたり]で歩[ある]いていたら友達[ともだち]に冷[ひ]やかされた。 | Hai đứa đang đi cùng nhau thì bị bạn chọc ghẹo.
+ふざける | v2 | - | đùa giỡn | - | - | 授業[じゅぎょう]中[ちゅう]にふざけて先生[せんせい]に叱[しか]られた。 | Đùa giỡn trong giờ học nên bị thầy mắng.
+怒鳴[どな]る | v1 | NỘ MINH | quát tháo | 大声[おおごえ] で {怒鳴る} | quát to | 父[ちち]は近所[きんじょ]に聞[き]こえるほど怒鳴[どな]った。 | Bố quát to đến mức hàng xóm cũng nghe thấy.
+口論[こうろん] | n,v3 | KHẨU LUẬN | cãi vã | - | - | 駅[えき]で客[きゃく]と駅員[えきいん]が口論[こうろん]していた。 | Ở nhà ga, khách và nhân viên đang cãi vã.
+口[くち]げんか | n,v3 | KHẨU | cãi nhau bằng lời | - | - | 姉[あね]とつまらないことで口[くち]げんかした。 | Tôi cãi nhau với chị vì chuyện vặt.
+仲違[なかたが]い | n,v3 | TRỌNG VI | bất hòa | - | - | ささいなことで親友[しんゆう]と仲違[なかたが]いした。 | Tôi bất hòa với bạn thân vì chuyện nhỏ nhặt.
+絶交[ぜっこう] | n,v3 | TUYỆT GIAO | cắt đứt quan hệ | - | - | うそをつかれて、彼[かれ]とは絶交[ぜっこう]した。 | Bị lừa dối nên tôi đã cắt đứt quan hệ với anh ta.
+疎遠[そえん] | n,adj-na | SƠ VIỄN | xa cách | {疎遠} に なる | trở nên xa cách | 卒業[そつぎょう]後[ご]、同級生[どうきゅうせい]とは疎遠[そえん]になった。 | Sau khi tốt nghiệp, tôi xa cách dần với bạn cùng lớp.
+縁[えん]を切[き]る | exp | DUYÊN THIẾT | cắt đứt quan hệ | - | - | 親[おや]と縁[えん]を切[き]るなんて考[かんが]えられない。 | Không thể tưởng tượng chuyện cắt đứt quan hệ với cha mẹ.
+再会[さいかい] | n,v3 | TÁI HỘI | gặp lại | {再会} を 喜[よろこ]ぶ | vui mừng gặp lại | 十[じゅう]年[ねん]ぶりに恩師[おんし]と再会[さいかい]した。 | Tôi gặp lại thầy cũ sau mười năm.
+別[わか]れ | n | BIỆT | chia tay, ly biệt | {別れ} を 告[つ]げる | nói lời chia tay | 駅[えき]で友人[ゆうじん]に別[わか]れを告[つ]げた。 | Tôi nói lời chia tay bạn ở nhà ga.
+恋愛[れんあい] | n,v3 | LUYẾN ÁI | tình yêu đôi lứa | {恋愛} 結婚[けっこん] | kết hôn vì yêu | 今[いま]は仕事[しごと]より恋愛[れんあい]に興味[きょうみ]がある。 | Giờ tôi quan tâm chuyện yêu đương hơn công việc.
+両思[りょうおも]い | n | LƯỠNG TƯ | yêu nhau từ hai phía | - | - | 片思[かたおも]いだと思[おも]っていたら両思[りょうおも]いだった。 | Tưởng là yêu đơn phương, hóa ra cả hai cùng thích nhau.
+振[ふ]られる | v2 | CHẤN | bị đá, bị từ chối | 恋人[こいびと] に {振られる} | bị người yêu đá | 告白[こくはく]したけど、あっさり振[ふ]られた。 | Tôi tỏ tình nhưng bị từ chối thẳng thừng.
+慕[した]う | v1 | MỘ | quý mến, kính mến | 先輩[せんぱい] を {慕う} | kính mến đàn anh | 彼[かれ]は後輩[こうはい]からとても慕[した]われている。 | Anh ấy rất được đàn em quý mến.
+憧[あこが]れ | n | SUNG | sự ngưỡng mộ, mơ ước | {憧れ} の 人[ひと] | người mình ngưỡng mộ | 先輩[せんぱい]は私[わたし]の憧[あこが]れの人[ひと]です。 | Đàn chị là người tôi ngưỡng mộ.
+敬[うやま]う | v1 | KÍNH | tôn kính | 年長者[ねんちょうしゃ] を {敬う} | kính trọng người lớn tuổi | お年寄[としよ]りを敬[うやま]う気持[きも]ちを大切[たいせつ]にしたい。 | Tôi muốn giữ gìn lòng kính trọng người cao tuổi.
+尊[とうと]ぶ | v1 | TÔN | coi trọng, tôn trọng | - | - | 日本[にほん]の社会[しゃかい]では和[わ]を尊[とうと]ぶ。 | Xã hội Nhật coi trọng sự hòa thuận.
+敬意[けいい] | n | KÍNH Ý | lòng kính trọng | {敬意} を 払[はら]う | bày tỏ lòng kính trọng | 長年[ながねん]の功績[こうせき]に敬意[けいい]を払[はら]う。 | Bày tỏ lòng kính trọng với những công lao nhiều năm.
+敬服[けいふく] | n,v3 | KÍNH PHỤC | kính phục | - | - | 彼[かれ]の努力[どりょく]には敬服[けいふく]する。 | Tôi kính phục sự nỗ lực của anh ấy.
+感服[かんぷく] | n,v3 | CẢM PHỤC | cảm phục | - | - | 先生[せんせい]の知識[ちしき]の深[ふか]さに感服[かんぷく]した。 | Tôi cảm phục độ uyên bác của thầy.
+称賛[しょうさん] | n,v3 | XƯNG TÁN | khen ngợi | {称賛} を 浴[あ]びる | được tán dương | 少年[しょうねん]の勇気[ゆうき]ある行動[こうどう]が称賛[しょうさん]を浴[あ]びた。 | Hành động dũng cảm của cậu bé được tán dương.
+見習[みなら]う | v1 | KIẾN TẬP | noi gương, học theo | 先輩[せんぱい] を {見習う} | noi gương đàn anh | 兄[あに]の勤勉[きんべん]さを見習[みなら]いたい。 | Tôi muốn học theo sự chăm chỉ của anh trai.
+軽蔑[けいべつ] | n,v3 | KHINH MIỆT | khinh miệt | - | - | 弱[よわ]い者[もの]をいじめる人[ひと]を軽蔑[けいべつ]する。 | Tôi khinh những kẻ bắt nạt người yếu.
+見下[みくだ]す | v1 | KIẾN HẠ | coi thường | 人[ひと] を {見下す} | coi thường người khác | 彼[かれ]はいつも人[ひと]を見下[みくだ]したような話[はな]し方[かた]をする。 | Anh ta luôn nói chuyện như coi thường người khác.
+傲慢[ごうまん] | n,adj-na | NGẠO MẠN | ngạo mạn | {傲慢} な 態度[たいど] | thái độ ngạo mạn | 成功[せいこう]してから彼[かれ]は傲慢[ごうまん]になった。 | Từ khi thành công, anh ta trở nên ngạo mạn.
+横柄[おうへい] | adj-na | HOÀNH BÍNH | hống hách | {横柄} な 口[くち]の利[き]き方[かた] | cách nói hống hách | 店員[てんいん]に横柄[おうへい]な態度[たいど]をとる客[きゃく]がいる。 | Có những vị khách cư xử hống hách với nhân viên.
+偉[えら]そう | adj-na | VĨ | ra vẻ ta đây | {偉そう} に 言[い]う | nói giọng ta đây | 何[なに]もしないくせに偉[えら]そうなことを言[い]うな。 | Chẳng làm gì mà cứ nói giọng ta đây.
+気取[きど]る | v1 | KHÍ THỦ | làm bộ, làm dáng | - | - | 彼女[かのじょ]は気取[きど]らない性格[せいかく]で話[はな]しやすい。 | Cô ấy tính không làm bộ nên dễ nói chuyện.
+無礼[ぶれい] | n,adj-na | VÔ LỄ | vô lễ | {無礼} な 態度[たいど] | thái độ vô lễ | 年上[としうえ]の人[ひと]に無礼[ぶれい]なことを言[い]ってしまった。 | Tôi lỡ nói điều vô lễ với người lớn tuổi hơn.
+礼[れい] | n | LỄ | lễ; lời cảm ơn; cúi chào | {礼} を 言[い]う | nói lời cảm ơn | 手伝[てつだ]ってくれた友達[ともだち]に礼[れい]を言[い]った。 | Tôi cảm ơn người bạn đã giúp đỡ.
+礼儀[れいぎ]正[ただ]しい | adj-i | LỄ NGHI CHÍNH | lễ phép | - | - | あの学生[がくせい]はいつも礼儀[れいぎ]正[ただ]しい。 | Cậu sinh viên ấy lúc nào cũng lễ phép.
+謙遜[けんそん] | n,v3 | KHIÊM TỐN | khiêm tốn | - | - | 褒[ほ]められると、日本人[にほんじん]はよく謙遜[けんそん]する。 | Khi được khen, người Nhật thường khiêm tốn.
+恐縮[きょうしゅく] | n,v3 | KHỦNG SÚC | ngại ngùng, áy náy (lịch sự) | - | - | お忙[いそが]しいところ恐縮[きょうしゅく]ですが、ご確認[かくにん]ください。 | Xin lỗi làm phiền lúc anh bận, mong anh kiểm tra giúp.
+恐[おそ]れ入[い]る | v1 | KHỦNG NHẬP | xin lỗi, cảm kích (kính ngữ) | - | - | 恐[おそ]れ入[い]りますが、お名前[なまえ]を伺[うかが]えますか。 | Xin lỗi, cho tôi hỏi quý danh được không ạ?
+恥[は]じる | v2 | SỈ | hổ thẹn | - | - | 自分[じぶん]の行動[こうどう]を恥[は]じている。 | Tôi hổ thẹn về hành động của mình.
+照[て]れくさい | adj-i | CHIẾU | ngượng ngùng | - | - | 人前[ひとまえ]で褒[ほ]められるのは照[て]れくさい。 | Được khen trước đám đông thấy ngượng.
+気兼[きが]ね | n,v3 | KHÍ KIÊM | e ngại, ngại ngùng | {気兼ね} なく | không ngại ngần | 何[なん]でも気兼[きが]ねなく相談[そうだん]してください。 | Có gì cứ thoải mái hỏi ý kiến, đừng ngại.
+心遣[こころづか]い | n | TÂM KHIỂN | sự quan tâm chu đáo | - | - | 温[あたた]かいお心遣[こころづか]いに感謝[かんしゃ]いたします。 | Xin cảm ơn sự quan tâm chu đáo của quý vị.
+気配[きくば]り | n,v3 | KHÍ PHỐI | để ý chăm sóc | {気配り} が できる | biết để ý người khác | 彼女[かのじょ]は周[まわ]りへの気配[きくば]りができる人[ひと]だ。 | Cô ấy là người biết để ý chăm sóc người xung quanh.
+配慮[はいりょ] | n,v3 | PHỐI LỰ | quan tâm, cân nhắc | {配慮} に 欠[か]ける | thiếu tế nhị | 高齢者[こうれいしゃ]に配慮[はいりょ]して階段[かいだん]に手[て]すりを付[つ]けた。 | Lắp tay vịn cầu thang để quan tâm đến người cao tuổi.
+好意[こうい] | n | HẢO Ý | thiện cảm; lòng tốt | {好意} を 持[も]つ | có thiện cảm | 彼女[かのじょ]は彼[かれ]に好意[こうい]を持[も]っているようだ。 | Hình như cô ấy có cảm tình với anh ta.
+厚意[こうい] | n | HẬU Ý | lòng tốt | ご {厚意} に 甘[あま]える | nhận lòng tốt của ai | ご厚意[こうい]に甘[あま]えて、車[くるま]で送[おく]っていただいた。 | Tôi nhận lòng tốt của anh ấy và được chở về bằng xe.
+恩返[おんがえ]し | n,v3 | ÂN PHẢN | báo ơn | - | - | 育[そだ]ててくれた両親[りょうしん]に恩返[おんがえ]しがしたい。 | Tôi muốn báo ơn bố mẹ đã nuôi nấng mình.
+お詫[わ]び | n,v3 | SÁ | lời xin lỗi | {お詫び} 申[もう]し上[あ]げます | xin chân thành xin lỗi | ご迷惑[めいわく]をおかけしたことをお詫[わ]び申[もう]し上[あ]げます。 | Chúng tôi xin lỗi vì đã gây phiền phức.
+詫[わ]びる | v2 | SÁ | xin lỗi | 遅刻[ちこく] を {詫びる} | xin lỗi vì đến muộn | 彼[かれ]は深[ふか]く頭[あたま]を下[さ]げて詫[わ]びた。 | Anh ấy cúi đầu thật sâu để xin lỗi.
+言[い]い訳[わけ] | n,v3 | NGÔN DỊCH | lời bào chữa | {言い訳} を する | viện cớ | 遅刻[ちこく]の言[い]い訳[わけ]はもう聞[き]きたくない。 | Tôi không muốn nghe lời bào chữa cho việc đến muộn nữa.
+弁解[べんかい] | n,v3 | BIỆN GIẢI | biện bạch | - | - | 彼[かれ]は弁解[べんかい]もせずに黙[だま]っていた。 | Anh ta im lặng mà chẳng biện bạch gì.
+口実[こうじつ] | n | KHẨU THỰC | cái cớ | {口実} を 作[つく]る | kiếm cớ | 頭痛[ずつう]を口実[こうじつ]に飲[の]み会[かい]を断[ことわ]った。 | Tôi lấy cớ đau đầu để từ chối buổi nhậu.
+嘘[うそ]つき | n | HƯ | kẻ nói dối | - | - | 嘘[うそ]つきは信用[しんよう]されなくなる。 | Kẻ nói dối sẽ không còn được tin.
+裏切[うらぎ]り | n | LÍ THIẾT | sự phản bội | - | - | 親友[しんゆう]の裏切[うらぎ]りが一番[いちばん]つらかった。 | Sự phản bội của bạn thân là điều đau đớn nhất.
+見捨[みす]てる | v2 | KIẾN XẢ | bỏ rơi | 仲間[なかま] を {見捨てる} | bỏ rơi đồng đội | 困[こま]っている友達[ともだち]を見捨[みす]てることはできない。 | Không thể bỏ rơi người bạn đang gặp khó khăn.
+見放[みはな]す | v1 | KIẾN PHÓNG | bỏ mặc, buông bỏ | - | - | 医者[いしゃ]に見放[みはな]された患者[かんじゃ]が奇跡[きせき]的[てき]に回復[かいふく]した。 | Bệnh nhân bị bác sĩ bó tay đã hồi phục kỳ diệu.
+突[つ]き放[はな]す | v1 | ĐỘT PHÓNG | đẩy ra, lạnh lùng gạt đi | - | - | 相談[そうだん]したのに冷[つめ]たく突[つ]き放[はな]された。 | Tôi đến hỏi ý kiến mà bị gạt đi lạnh lùng.
+頼[たよ]り | n | LẠI | chỗ dựa | {頼り} に なる | đáng tin cậy | 困[こま]ったときは兄[あに]が一番[いちばん]頼[たよ]りになる。 | Khi khó khăn, anh trai là chỗ dựa đáng tin nhất.
+頼[たよ]りない | adj-i | LẠI | không đáng tin cậy | - | - | 新[あたら]しいリーダーは少[すこ]し頼[たよ]りない。 | Người trưởng nhóm mới hơi không đáng tin cậy.
+心強[こころづよ]い | adj-i | TÂM CƯỜNG | vững dạ | - | - | 先輩[せんぱい]が一緒[いっしょ]だと心強[こころづよ]い。 | Có đàn anh đi cùng thấy vững dạ.
+当[あ]て | n | ĐƯƠNG | chỗ trông cậy; mục đích | {当て} に する | trông cậy vào | 親[おや]のお金[かね]を当[あ]てにしてはいけない。 | Không được trông cậy vào tiền của bố mẹ.
+支[ささ]え合[あ]う | v1 | CHI HỢP | nương tựa lẫn nhau | - | - | 家族[かぞく]で支[ささ]え合[あ]って困難[こんなん]を乗[の]り越[こ]えた。 | Gia đình nương tựa nhau vượt qua khó khăn.
+協調[きょうちょう] | n,v3 | HIỆP ĐIỀU | hợp tác, hòa hợp | {協調} 性[せい] | tính hòa đồng | 彼[かれ]は協調[きょうちょう]性[せい]があってチームに向[む]いている。 | Anh ấy hòa đồng, hợp với làm việc nhóm.
+連携[れんけい] | n,v3 | LIÊN HUỀ | phối hợp | {連携} を 取[と]る | phối hợp với nhau | 病院[びょういん]と学校[がっこう]が連携[れんけい]して子供[こども]を支援[しえん]する。 | Bệnh viện và trường học phối hợp hỗ trợ trẻ em.
+連帯[れんたい] | n,v3 | LIÊN ĐỚI | liên đới, đoàn kết | {連帯} 責任[せきにん] | trách nhiệm liên đới | チームのミスは連帯[れんたい]責任[せきにん]だ。 | Lỗi của đội là trách nhiệm chung.
+結束[けっそく] | n,v3 | KẾT THÚC | đoàn kết | {結束} を 固[かた]める | thắt chặt đoàn kết | 試合[しあい]に負[ま]けて、チームの結束[けっそく]がかえって強[つよ]くなった。 | Thua trận lại khiến tinh thần đoàn kết của đội mạnh hơn.
+団結[だんけつ] | n,v3 | ĐOÀN KẾT | đoàn kết | - | - | クラス全員[ぜんいん]が団結[だんけつ]して合唱[がっしょう]を成功[せいこう]させた。 | Cả lớp đoàn kết làm nên màn hợp xướng thành công.
+一体感[いったいかん] | n | NHẤT THỂ CẢM | cảm giác gắn kết | - | - | 応援[おうえん]で会場[かいじょう]に一体感[いったいかん]が生[う]まれた。 | Tiếng cổ vũ tạo nên cảm giác gắn kết trong hội trường.
+仲介[ちゅうかい] | n,v3 | TRỌNG GIỚI | môi giới, làm trung gian | {仲介} 手数料[てすうりょう] | phí môi giới | 不動産[ふどうさん]会社[がいしゃ]が売買[ばいばい]を仲介[ちゅうかい]した。 | Công ty bất động sản làm trung gian mua bán.
+取[と]り次[つ]ぎ | n | THỦ THỨ | chuyển lời, nối máy | 電話[でんわ] の {取り次ぎ} | chuyển máy | 受付[うけつけ]で社長[しゃちょう]への取[と]り次[つ]ぎを頼[たの]んだ。 | Tôi nhờ lễ tân chuyển lời tới giám đốc.
+言付[ことづ]け | n | NGÔN PHÓ | lời nhắn gửi | - | - | 部長[ぶちょう]から言付[ことづ]けを預[あず]かっています。 | Tôi đang giữ lời nhắn của trưởng phòng.
+申[もう]し出[で]る | v2 | THÂN XUẤT | đề nghị, trình báo | 協力[きょうりょく] を {申し出る} | đề nghị giúp sức | 何[なに]かあれば係員[かかりいん]に申[もう]し出[で]てください。 | Có việc gì xin báo với nhân viên phụ trách.
+申[もう]し出[で] | n | THÂN XUẤT | lời đề nghị | {申し出} を 断[ことわ]る | từ chối lời đề nghị | 彼[かれ]の親切[しんせつ]な申[もう]し出[で]をありがたく受[う]けた。 | Tôi biết ơn đón nhận lời đề nghị tử tế của anh ấy.
+申[もう]し入[い]れ | n | THÂN NHẬP | đề xuất chính thức | - | - | 相手[あいて]の会社[かいしゃ]から提携[ていけい]の申[もう]し入[い]れがあった。 | Công ty bên kia gửi đề xuất hợp tác.
+依頼[いらい] | n,v3 | Y LẠI | nhờ, yêu cầu | {依頼} を 受[う]ける | nhận yêu cầu | 翻訳[ほんやく]の依頼[いらい]を受[う]けた。 | Tôi nhận được yêu cầu dịch thuật.
+要請[ようせい] | n,v3 | YẾU THỈNH | yêu cầu (chính thức) | 協力[きょうりょく] を {要請} する | yêu cầu hợp tác | 市[し]は住民[じゅうみん]に節水[せっすい]を要請[ようせい]した。 | Thành phố yêu cầu người dân tiết kiệm nước.
+懇願[こんがん] | n,v3 | KHẨN NGUYỆN | khẩn cầu | - | - | 彼[かれ]はもう一度[いちど]チャンスをくれと懇願[こんがん]した。 | Anh ta khẩn cầu cho thêm một cơ hội nữa.
+頼[たの]み事[ごと] | n | LẠI SỰ | việc nhờ vả | - | - | 実[じつ]はちょっと頼[たの]み事[ごと]があるんだけど。 | Thật ra tôi có chút việc muốn nhờ.
+頼[たの]み込[こ]む | v1 | LẠI NHẬP | năn nỉ nhờ | - | - | 店長[てんちょう]に頼[たの]み込[こ]んでシフトを変[か]えてもらった。 | Tôi năn nỉ quản lý đổi ca cho.
+拒否[きょひ] | n,v3 | CỰ PHỦ | từ chối, khước từ | {拒否} 反応[はんのう] | phản ứng bài xích | 彼[かれ]は取材[しゅざい]を拒否[きょひ]した。 | Anh ta từ chối phỏng vấn.
+拒[こば]む | v1 | CỰ | khước từ | 要求[ようきゅう] を {拒む} | khước từ yêu cầu | 彼女[かのじょ]は説明[せつめい]を拒[こば]んだ。 | Cô ấy khước từ giải thích.
+了承[りょうしょう] | n,v3 | LIỄU THỪA | chấp thuận | ご {了承} ください | mong quý khách thông cảm | 都合[つごう]により内容[ないよう]が変[か]わることがございます。ご了承[りょうしょう]ください。 | Nội dung có thể thay đổi vì lý do riêng, mong quý khách thông cảm.
+賛同[さんどう] | n,v3 | TÁN ĐỒNG | tán đồng | - | - | 多[おお]くの企業[きぎょう]が計画[けいかく]に賛同[さんどう]した。 | Nhiều doanh nghiệp tán đồng kế hoạch.
+同感[どうかん] | n,v3 | ĐỒNG CẢM | đồng ý, cùng suy nghĩ | - | - | あなたの意見[いけん]に同感[どうかん]です。 | Tôi đồng tình với ý kiến của bạn.
+共感[きょうかん] | n,v3 | CỘNG CẢM | đồng cảm | {共感} を 呼[よ]ぶ | gây đồng cảm | 彼女[かのじょ]の歌詞[かし]は若者[わかもの]の共感[きょうかん]を呼[よ]んでいる。 | Lời bài hát của cô ấy gây đồng cảm nơi giới trẻ.
+説得[せっとく] | n,v3 | THUYẾT ĐẮC | thuyết phục | 親[おや] を {説得} する | thuyết phục bố mẹ | 両親[りょうしん]を説得[せっとく]して留学[りゅうがく]を認[みと]めてもらった。 | Tôi thuyết phục bố mẹ đồng ý cho đi du học.
+納得[なっとく] | n,v3 | NẠP ĐẮC | chấp nhận, thấy hợp lý | {納得} が いく | thấy thỏa đáng | 説明[せつめい]を聞[き]いて、やっと納得[なっとく]した。 | Nghe giải thích xong tôi mới thấy thông.
+なだめる | v2 | - | dỗ dành, xoa dịu | 子供[こども] を {なだめる} | dỗ trẻ | 泣[な]いている子供[こども]をなだめた。 | Tôi dỗ đứa trẻ đang khóc.
+励[はげ]まし | n | LỆ | sự khích lệ | {励まし} の 言葉[ことば] | lời động viên | 先生[せんせい]の励[はげ]ましの言葉[ことば]で頑張[がんば]れた。 | Nhờ lời động viên của thầy mà tôi cố gắng được.
+慰[なぐさ]め | n | ÚY | sự an ủi | - | - | 何[なん]と言[い]っても慰[なぐさ]めにはならないだろう。 | Nói gì đi nữa chắc cũng không an ủi được.
+忠告[ちゅうこく] | n,v3 | TRUNG CÁO | lời khuyên | {忠告} に 従[したが]う | nghe lời khuyên | 先輩[せんぱい]の忠告[ちゅうこく]を聞[き]いておけばよかった。 | Giá mà tôi nghe lời khuyên của đàn anh.
+アドバイス | n,v3 | - | lời khuyên | - | - | 面接[めんせつ]の前[まえ]に先輩[せんぱい]からアドバイスをもらった。 | Trước buổi phỏng vấn tôi được đàn anh cho lời khuyên.
+打[う]ち明[あ]ける | v2 | ĐẢ MINH | thổ lộ | 悩[なや]み を {打ち明ける} | thổ lộ nỗi lòng | 親友[しんゆう]に悩[なや]みを打[う]ち明[あ]けた。 | Tôi thổ lộ nỗi phiền muộn với bạn thân.
+機嫌[きげん]を取[と]る | exp | CƠ HIỀM THỦ | lấy lòng | - | - | 部長[ぶちょう]の機嫌[きげん]を取[と]るのは疲[つか]れる。 | Lấy lòng trưởng phòng thật mệt.
+顔色[かおいろ] | n | NHAN SẮC | sắc mặt | {顔色} を うかがう | nhìn sắc mặt | 上司[じょうし]の顔色[かおいろ]ばかりうかがっている。 | Lúc nào cũng nhìn sắc mặt cấp trên.
+顔[かお]を立[た]てる | exp | NHAN LẬP | giữ thể diện cho ai | - | - | 先輩[せんぱい]の顔[かお]を立[た]てて、黙[だま]っていた。 | Tôi im lặng để giữ thể diện cho đàn anh.
+面子[メンツ] | n | DIỆN TỬ | thể diện | {面子} を つぶす | làm mất mặt | 人前[ひとまえ]で注意[ちゅうい]されて面子[メンツ]がつぶれた。 | Bị nhắc nhở trước mặt mọi người nên mất mặt.
+遠回[とおまわ]し | n,adj-na | VIỄN HỒI | nói vòng vo | {遠回し} に 断[ことわ]る | từ chối khéo | 誘[さそ]いを遠回[とおまわ]しに断[ことわ]られた。 | Lời mời của tôi bị từ chối khéo.
+ありのまま | n,adj-na | - | như vốn có | {ありのまま} に 話[はな]す | kể đúng sự thật | 見[み]たことをありのままに話[はな]してください。 | Hãy kể đúng những gì đã thấy.
+相[あい]づち | n | TƯƠNG | lời đệm, tiếng ừ hử | {相づち} を 打[う]つ | gật gù đáp lời | 日本人[にほんじん]は話[はなし]を聞[き]くとき、よく相[あい]づちを打[う]つ。 | Người Nhật khi nghe chuyện hay đệm lời gật gù.
+うなずく | v1 | - | gật đầu | 黙[だま]って {うなずく} | lặng lẽ gật đầu | 彼[かれ]は私[わたし]の話[はなし]に何度[なんど]もうなずいた。 | Anh ấy gật đầu nhiều lần khi nghe tôi nói.
+首[くび]を振[ふ]る | exp | THỦ CHẤN | lắc đầu | - | - | 「行[い]く?」と聞[き]くと、彼女[かのじょ]は首[くび]を振[ふ]った。 | Tôi hỏi "Đi không?", cô ấy lắc đầu.
+黙[だま]る | v1 | MẶC | im lặng | - | - | 叱[しか]られて、彼[かれ]はずっと黙[だま]っていた。 | Bị mắng, anh ấy im lặng suốt.
+黙[だま]り込[こ]む | v1 | MẶC NHẬP | im bặt | - | - | 痛[いた]いところを突[つ]かれて黙[だま]り込[こ]んだ。 | Bị nói trúng chỗ đau nên im bặt.
+沈黙[ちんもく] | n,v3 | TRẦM MẶC | sự im lặng | {沈黙} を 破[やぶ]る | phá vỡ im lặng | 長[なが]い沈黙[ちんもく]の後[あと]、彼[かれ]が口[くち]を開[ひら]いた。 | Sau sự im lặng kéo dài, anh ấy lên tiếng.
+口[くち]を挟[はさ]む | exp | KHẨU HIỆP | chen ngang | - | - | 人[ひと]の話[はなし]に口[くち]を挟[はさ]まないで。 | Đừng chen ngang khi người khác đang nói.
+口出[くちだ]し | n,v3 | KHẨU XUẤT | xen vào chuyện người khác | - | - | 他人[たにん]の家庭[かてい]のことに口出[くちだ]しするべきではない。 | Không nên xen vào chuyện gia đình người khác.
+口答[くちごた]え | n,v3 | KHẨU ĐÁP | cãi lại | 親[おや] に {口答え} する | cãi lại bố mẹ | 子供[こども]のころはよく母[はは]に口答[くちごた]えした。 | Hồi nhỏ tôi hay cãi lại mẹ.
+言[い]い返[かえ]す | v1 | NGÔN PHẢN | đáp trả | - | - | 悪口[わるぐち]を言[い]われて、思[おも]わず言[い]い返[かえ]した。 | Bị nói xấu, tôi buột miệng đáp trả.
+反発[はんぱつ] | n,v3 | PHẢN PHÁT | phản kháng, phản ứng lại | {反発} を 招[まね]く | gây phản ứng | 一方的[いっぽうてき]な決定[けってい]は社員[しゃいん]の反発[はんぱつ]を招[まね]いた。 | Quyết định đơn phương gây phản ứng trong nhân viên.
+対抗[たいこう] | n,v3 | ĐỐI KHÁNG | đối đầu, cạnh tranh | {対抗} 意識[いしき] | ý thức cạnh tranh | 大手[おおて]に対抗[たいこう]して値段[ねだん]を下[さ]げた。 | Hạ giá để cạnh tranh với các hãng lớn.
+張[は]り合[あ]う | v1 | TRƯƠNG HỢP | ganh đua | - | - | 二人[ふたり]はいつも成績[せいせき]を張[は]り合[あ]っている。 | Hai người lúc nào cũng ganh đua thành tích.
+ライバル | n | - | đối thủ | - | - | 彼[かれ]とは子供[こども]のころからのライバルだ。 | Anh ấy là đối thủ của tôi từ thuở nhỏ.
+競[きそ]う | v1 | CẠNH | thi đua | 腕[うで] を {競う} | đọ tài | 全国[ぜんこく]の料理人[りょうりにん]が腕[うで]を競[きそ]った。 | Đầu bếp toàn quốc đọ tài với nhau.
+妬[ねた]む | v1 | ĐỐ | ghen tị | 人[ひと] の 成功[せいこう] を {妬む} | ghen tị với thành công của người khác | 人[ひと]の成功[せいこう]を妬[ねた]んでも仕方[しかた]がない。 | Ghen tị với thành công của người khác cũng chẳng được gì.
+やきもち | n | - | ghen (trong tình cảm) | {やきもち} を 焼[や]く | ghen tuông | 彼女[かのじょ]はすぐにやきもちを焼[や]く。 | Cô ấy hay ghen.
+かわいがる | v1 | - | cưng chiều, yêu thương | 孫[まご] を {かわいがる} | cưng cháu | 祖父[そふ]は孫[まご]をとてもかわいがっている。 | Ông rất cưng cháu.
+見舞[みま]う | v1 | KIẾN VŨ | thăm người ốm; (tai họa) ập đến | 入院[にゅういん]中[ちゅう]の 友人[ゆうじん] を {見舞う} | thăm bạn nằm viện | 入院[にゅういん]している祖母[そぼ]を見舞[みま]った。 | Tôi đi thăm bà đang nằm viện.
+歓迎[かんげい] | n,v3 | HOAN NGHÊNH | hoan nghênh, chào đón | {歓迎} 会[かい] | tiệc chào mừng | 新入[しんにゅう]社員[しゃいん]の歓迎[かんげい]会[かい]が開[ひら]かれた。 | Tiệc chào mừng nhân viên mới đã được tổ chức.
+送別[そうべつ] | n | TỐNG BIỆT | tiễn biệt | {送別} 会[かい] | tiệc chia tay | 転勤[てんきん]する先輩[せんぱい]の送別[そうべつ]会[かい]をした。 | Chúng tôi làm tiệc chia tay đàn anh chuyển công tác.
+出迎[でむか]える | v2 | XUẤT NGHÊNH | ra đón | 空港[くうこう] で {出迎える} | ra sân bay đón | 父[ちち]が駅[えき]まで出迎[でむか]えてくれた。 | Bố ra tận ga đón tôi.
+もてなす | v1 | - | tiếp đãi | 客[きゃく] を {もてなす} | tiếp đãi khách | 手料理[てりょうり]で友人[ゆうじん]をもてなした。 | Tôi tiếp đãi bạn bè bằng món tự nấu.
+もてなし | n | - | sự tiếp đãi | 心[こころ] の こもった {もてなし} | sự tiếp đãi chân thành | 旅館[りょかん]の温[あたた]かいもてなしに感動[かんどう]した。 | Tôi cảm động trước sự tiếp đãi ấm áp của lữ quán.
+会釈[えしゃく] | n,v3 | HỘI THÍCH | cúi chào nhẹ | 軽[かる]く {会釈} する | khẽ cúi chào | 廊下[ろうか]で社長[しゃちょう]に会釈[えしゃく]した。 | Tôi khẽ cúi chào giám đốc ở hành lang.
+頂戴[ちょうだい]する | v3 | ĐỈNH ĐÁI | nhận (khiêm nhường) | - | - | 先日[せんじつ]は素敵[すてき]なお品[しな]を頂戴[ちょうだい]し、ありがとうございました。 | Cảm ơn anh đã tặng món quà đẹp hôm trước.
+承[うけたまわ]る | v1 | THỪA | tiếp nhận, nghe (khiêm nhường) | ご 注文[ちゅうもん] を {承る} | nhận đơn đặt hàng | ご予約[よやく]は電話[でんわ]でも承[うけたまわ]っております。 | Chúng tôi cũng nhận đặt chỗ qua điện thoại.
+誓[ちか]う | v1 | THỆ | thề | 愛[あい] を {誓う} | thề nguyện yêu thương | 二人[ふたり]は神[かみ]の前[まえ]で愛[あい]を誓[ちか]った。 | Hai người thề nguyện yêu thương trước Chúa.
+関[かか]わる | v1 | QUAN | liên quan, dính líu | 命[いのち] に {関わる} | ảnh hưởng tới tính mạng | 彼[かれ]とはあまり関[かか]わりたくない。 | Tôi không muốn dính líu nhiều tới anh ta.
+接[せっ]する | v3 | TIẾP | tiếp xúc, đối xử | 客[きゃく] に {接する} | tiếp khách | お年寄[としよ]りにはやさしく接[せっ]してください。 | Hãy đối xử dịu dàng với người cao tuổi.
+属[ぞく]する | v3 | THUỘC | thuộc về | サークル に {属する} | thuộc câu lạc bộ | 私[わたし]は大学[だいがく]で山岳部[さんがくぶ]に属[ぞく]していた。 | Hồi đại học tôi thuộc câu lạc bộ leo núi.
+立場[たちば] | n | LẬP TRƯỜNG | lập trường, vị trí | 相手[あいて] の {立場} に 立[た]つ | đặt mình vào vị trí người khác | 相手[あいて]の立場[たちば]に立[た]って考[かんが]えてみよう。 | Hãy thử đặt mình vào vị trí của đối phương.
+代理[だいり] | n | ĐẠI LÝ | thay mặt, người thay thế | 社長[しゃちょう] の {代理} | thay mặt giám đốc | 部長[ぶちょう]の代理[だいり]で会議[かいぎ]に出席[しゅっせき]した。 | Tôi dự họp thay mặt trưởng phòng.
+語[かた]り合[あ]う | v1 | NGỮ HỢP | tâm sự cùng nhau | 夢[ゆめ] を {語り合う} | cùng nhau kể về ước mơ | 朝[あさ]まで友達[ともだち]と夢[ゆめ]を語[かた]り合[あ]った。 | Tôi cùng bạn bè tâm sự về ước mơ đến sáng.
+話[はな]し込[こ]む | v1 | THOẠI NHẬP | mải trò chuyện | - | - | 久[ひさ]しぶりに会[あ]って、つい話[はな]し込[こ]んでしまった。 | Lâu ngày gặp lại nên mải trò chuyện quên giờ.
+見[み]つめ合[あ]う | v1 | KIẾN HỢP | nhìn nhau | - | - | 二人[ふたり]は黙[だま]って見[み]つめ合[あ]った。 | Hai người lặng lẽ nhìn nhau.
+向[む]かい合[あ]う | v1 | HƯỚNG HỢP | đối diện nhau | - | - | 父[ちち]と向[む]かい合[あ]って座[すわ]った。 | Tôi ngồi đối diện với bố.
+分[わ]け合[あ]う | v1 | PHÂN HỢP | chia nhau | 喜[よろこ]び を {分け合う} | chia sẻ niềm vui | 一[ひと]つのパンを兄弟[きょうだい]で分[わ]け合[あ]った。 | Anh em chia nhau một chiếc bánh mì.
+申[もう]し合[あ]わせる | v2 | THÂN HỢP | thỏa thuận với nhau | - | - | 会議[かいぎ]では携帯[けいたい]を切[き]ることを申[もう]し合[あ]わせた。 | Chúng tôi thỏa thuận tắt điện thoại trong cuộc họp.
+誘[さそ]い合[あ]わせる | v2 | DỤ HỢP | rủ nhau | - | - | 近所[きんじょ]の人[ひと]と誘[さそ]い合[あ]わせて祭[まつ]りに行[い]った。 | Tôi rủ hàng xóm cùng đi lễ hội.
+居合[いあ]わせる | v2 | CƯ HỢP | tình cờ có mặt | 現場[げんば] に {居合わせる} | tình cờ có mặt tại hiện trường | 事故[じこ]の現場[げんば]にたまたま居合[いあ]わせた。 | Tôi tình cờ có mặt ở hiện trường vụ tai nạn.
+乗[の]り合[あ]わせる | v2 | THỪA HỢP | tình cờ đi cùng xe | - | - | 同[おな]じバスに昔[むかし]の同級生[どうきゅうせい]が乗[の]り合[あ]わせていた。 | Bạn học cũ tình cờ đi cùng chuyến xe buýt.
+隣[となり]合[あ]わせる | v2 | LÂN HỢP | ngồi cạnh nhau | - | - | 新幹線[しんかんせん]で隣[となり]合[あ]わせた人[ひと]と話[はなし]が弾[はず]んだ。 | Tôi nói chuyện rôm rả với người ngồi cạnh trên tàu cao tốc.
+呼[よ]び出[だ]す | v1 | HÔ XUẤT | gọi ra, triệu tập | 職員室[しょくいんしつ] に {呼び出す} | gọi lên phòng giáo viên | 息子[むすこ]のことで学校[がっこう]に呼[よ]び出[だ]された。 | Tôi bị nhà trường gọi lên vì chuyện con trai.
+連[つ]れ出[だ]す | v1 | LIÊN XUẤT | dẫn ra ngoài | - | - | 家[いえ]にこもっていた弟[おとうと]を散歩[さんぽ]に連[つ]れ出[だ]した。 | Tôi dẫn em trai suốt ngày ru rú ở nhà ra ngoài đi dạo.
+呼[よ]び込[こ]む | v1 | HÔ NHẬP | mời gọi vào | 客[きゃく] を {呼び込む} | mời khách vào | 店員[てんいん]が大[おお]きな声[こえ]で客[きゃく]を呼[よ]び込[こ]んでいる。 | Nhân viên lớn tiếng mời khách vào quán.
+教[おし]え込[こ]む | v1 | GIÁO NHẬP | dạy cho thuộc lòng | - | - | 犬[いぬ]に「待[ま]て」を教[おし]え込[こ]んだ。 | Tôi dạy con chó thuộc lệnh "đợi".
+相互[そうご]に | adv | TƯƠNG HỖ | lẫn nhau | - | - | 両国[りょうこく]は相互[そうご]に協力[きょうりょく]することで合意[ごうい]した。 | Hai nước đồng ý hợp tác lẫn nhau.
+共[とも]に | adv | CỘNG | cùng nhau | 苦労[くろう] を {共に} する | cùng nhau chịu khổ | 共[とも]に働[はたら]いた仲間[なかま]を忘[わす]れない。 | Tôi không quên những đồng đội từng làm việc cùng nhau.
+どうか | adv | - | xin hãy | - | - | どうかよろしくお願[ねが]いいたします。 | Xin được quý vị giúp đỡ.
+できれば | adv | - | nếu có thể | - | - | できれば今日[きょう]中[じゅう]に返事[へんじ]をください。 | Nếu có thể thì hãy trả lời trong hôm nay.
+あいにく | adv,adj-na | - | không may, tiếc là | - | - | あいにく部長[ぶちょう]は外出[がいしゅつ]しております。 | Rất tiếc trưởng phòng đang ra ngoài.
+せっかく | adv | - | mất công; hiếm có dịp | {せっかく} の 休[やす]み | kỳ nghỉ hiếm hoi | せっかく来[き]てくれたのに、留守[るす]にしていてごめん。 | Bạn mất công đến mà tôi lại vắng nhà, xin lỗi nhé.
+わざわざ | adv | - | cất công | - | - | 雨[あめ]の中[なか]、わざわざ来[き]てくださってありがとうございます。 | Cảm ơn anh đã cất công đến giữa trời mưa.
+そう言[い]えば | conj | NGÔN | nhân tiện nói đến | - | - | そう言[い]えば、田中[たなか]さんは元気[げんき]かな。 | Nhân tiện, không biết anh Tanaka có khỏe không nhỉ.
+だって | conj | - | bởi vì (khẩu ngữ) | - | - | 「なんで食[た]べないの?」「だって、辛[から]いんだもん。」 | "Sao không ăn?" "Vì cay mà."
+さて | conj | - | nào, và bây giờ | - | - | さて、次[つぎ]の議題[ぎだい]に移[うつ]りましょう。 | Nào, chúng ta chuyển sang vấn đề tiếp theo.
+では | conj | - | vậy thì | - | - | では、会議[かいぎ]を始[はじ]めます。 | Vậy thì chúng ta bắt đầu cuộc họp.

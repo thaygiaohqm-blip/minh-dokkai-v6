@@ -1,0 +1,245 @@
+@topic t03
+@ja 政治[せいじ]・行政[ぎょうせい]・外交[がいこう]
+@vi Chính trị, hành chính và ngoại giao
+@desc Bầu cử, đảng phái, nội các, quan hệ quốc tế, an ninh và biến động chính trường trên báo chí.
+党員[とういん] | n | ĐẢNG VIÊN | đảng viên | - | - | 党員[とういん]による投票[とうひょう]で新[あたら]しい代表[だいひょう]が選[えら]ばれた。 | Người đứng đầu mới được chọn qua bỏ phiếu của đảng viên.
+総裁[そうさい] | n | TỔNG TÀI | chủ tịch (đảng, ngân hàng trung ương) | {総裁} 選[せん] | bầu chủ tịch đảng | 日銀[にちぎん]総裁[そうさい]が金利[きんり]について発言[はつげん]した。 | Thống đốc Ngân hàng Nhật Bản phát biểu về lãi suất.
+組閣[そかく] | n,v3 | TỔ CÁC | thành lập nội các | - | - | 新首相[しんしゅしょう]は就任[しゅうにん]直後[ちょくご]に組閣[そかく]を行[おこな]った。 | Tân thủ tướng thành lập nội các ngay sau khi nhậm chức.
+改造[かいぞう] | n,v3 | CẢI TẠO | cải tổ, cải tạo | 内閣[ないかく] {改造} | cải tổ nội các | 支持率[しじりつ]回復[かいふく]のため内閣[ないかく]改造[かいぞう]が行[おこな]われた。 | Nội các được cải tổ để khôi phục tỷ lệ ủng hộ.
+入閣[にゅうかく] | n,v3 | NHẬP CÁC | tham gia nội các | - | - | 彼女[かのじょ]は初[はじ]めて大臣[だいじん]として入閣[にゅうかく]した。 | Bà lần đầu tham gia nội các với tư cách bộ trưởng.
+閣議[かくぎ] | n | CÁC NGHỊ | phiên họp nội các | - | - | 毎週[まいしゅう]火曜日[かようび]と金曜日[きんようび]に閣議[かくぎ]が開[ひら]かれる。 | Phiên họp nội các được tổ chức vào thứ ba và thứ sáu hằng tuần.
+閣議[かくぎ]決定[けってい] | n,v3 | CÁC NGHỊ QUYẾT ĐỊNH | quyết định của nội các | - | - | 予算案[よさんあん]が閣議[かくぎ]決定[けってい]された。 | Dự toán ngân sách đã được nội các quyết định.
+官邸[かんてい] | n | QUAN ĐỂ | dinh thự công vụ | - | - | 記者[きしゃ]たちが官邸[かんてい]の前[まえ]で首相[しゅしょう]を待[ま]っていた。 | Phóng viên chờ thủ tướng trước dinh thự.
+元首[げんしゅ] | n | NGUYÊN THỦ | nguyên thủ | - | - | 各国[かっこく]の元首[げんしゅ]が式典[しきてん]に出席[しゅっせき]した。 | Nguyên thủ các nước đã dự lễ.
+国家[こっか]元首[げんしゅ] | n | QUỐC GIA NGUYÊN THỦ | nguyên thủ quốc gia | - | - | 国家[こっか]元首[げんしゅ]を迎[むか]えて晩餐[ばんさん]会[かい]が開[ひら]かれた。 | Tiệc tối được tổ chức để đón nguyên thủ quốc gia.
+書記長[しょきちょう] | n | THƯ KÝ TRƯỞNG | tổng bí thư | - | - | 党[とう]の書記長[しょきちょう]が記者[きしゃ]会見[かいけん]を開[ひら]いた。 | Tổng bí thư đảng đã mở họp báo.
+政界[せいかい] | n | CHÍNH GIỚI | chính giới | {政界} を 引退[いんたい]する | rút khỏi chính trường | 彼[かれ]は四十[よんじゅう]年[ねん]務[つと]めた政界[せいかい]を引退[いんたい]した。 | Ông đã rút khỏi chính trường sau bốn mươi năm.
+財界[ざいかい] | n | TÀI GIỚI | giới tài chính, giới doanh nghiệp | - | - | 財界[ざいかい]の代表[だいひょう]が政府[せいふ]に要望[ようぼう]を伝[つた]えた。 | Đại diện giới doanh nghiệp chuyển nguyện vọng tới chính phủ.
+官界[かんかい] | n | QUAN GIỚI | giới quan chức | - | - | 彼[かれ]は官界[かんかい]から政界[せいかい]に転身[てんしん]した。 | Ông chuyển từ giới quan chức sang chính trường.
+政財界[せいざいかい] | n | CHÍNH TÀI GIỚI | giới chính trị và kinh tế | - | - | 式[しき]には政財界[せいざいかい]の大物[おおもの]が集[あつ]まった。 | Buổi lễ quy tụ những nhân vật tầm cỡ của chính giới và giới kinh tế.
+与野党[よやとう] | n | DỮ DÃ ĐẢNG | đảng cầm quyền và đối lập | - | - | 法案[ほうあん]をめぐって与野党[よやとう]が激[はげ]しく対立[たいりつ]した。 | Đảng cầm quyền và đối lập đối đầu gay gắt về dự luật.
+政治[せいじ]生命[せいめい] | n | CHÍNH TRỊ SINH MỆNH | sự nghiệp chính trị | - | - | 不正[ふせい]献金[けんきん]は彼[かれ]の政治[せいじ]生命[せいめい]を奪[うば]った。 | Khoản tiền quyên góp bất chính đã chấm dứt sự nghiệp chính trị của ông.
+票[ひょう] | n | PHIẾU | phiếu bầu | {票} を 集[あつ]める | thu phiếu | 若者[わかもの]の票[ひょう]を集[あつ]めるのは難[むずか]しい。 | Thu hút phiếu của giới trẻ rất khó.
+得票[とくひょう] | n,v3 | ĐẮC PHIẾU | số phiếu giành được | {得票} 数[すう] | số phiếu | 彼[かれ]は前回[ぜんかい]を上回[うわまわ]る得票[とくひょう]で当選[とうせん]した。 | Ông đắc cử với số phiếu vượt lần trước.
+白票[はくひょう] | n | BẠCH PHIẾU | phiếu trắng | - | - | 抗議[こうぎ]の意味[いみ]で白票[はくひょう]を投[とう]じた人[ひと]もいた。 | Có người bỏ phiếu trắng để phản đối.
+浮動票[ふどうひょう] | n | PHÙ ĐỘNG PHIẾU | phiếu dao động | - | - | 選挙[せんきょ]の行方[ゆくえ]は浮動[ふどう]票[ひょう]が握[にぎ]っている。 | Kết cục cuộc bầu cử nằm trong tay những lá phiếu dao động.
+組織票[そしきひょう] | n | TỔ CHỨC PHIẾU | phiếu có tổ chức | - | - | 業界[ぎょうかい]団体[だんたい]の組織[そしき]票[ひょう]が当落[とうらく]を分[わ]けた。 | Phiếu có tổ chức của hiệp hội ngành quyết định thắng thua.
+票田[ひょうでん] | n | PHIẾU ĐIỀN | khu vực nhiều phiếu, "mỏ phiếu" | - | - | 農村[のうそん]は長年[ながねん]、保守[ほしゅ]政党[せいとう]の票田[ひょうでん]だった。 | Nông thôn lâu nay là "mỏ phiếu" của đảng bảo thủ.
+無党派層[むとうはそう] | n | VÔ ĐẢNG PHÁI TẦNG | tầng lớp không theo đảng | - | - | 無党派[むとうは]層[そう]の動向[どうこう]が注目[ちゅうもく]される。 | Xu hướng của cử tri không theo đảng được chú ý.
+民意[みんい] | n | DÂN Ý | ý dân | {民意} を 問[と]う | hỏi ý dân | 選挙[せんきょ]で示[しめ]された民意[みんい]を尊重[そんちょう]すべきだ。 | Cần tôn trọng ý dân thể hiện qua bầu cử.
+遊説[ゆうぜい] | n,v3 | DU THUYẾT | đi vận động tranh cử | - | - | 候補者[こうほしゃ]は全国[ぜんこく]を遊説[ゆうぜい]して回[まわ]った。 | Ứng viên đi vận động khắp cả nước.
+出馬[しゅつば] | n,v3 | XUẤT MÃ | ra tranh cử | 知事[ちじ] 選[せん] に {出馬} する | ra tranh cử thống đốc | 彼[かれ]は次[つぎ]の知事[ちじ]選[せん]に出馬[しゅつば]を表明[ひょうめい]した。 | Ông tuyên bố ra tranh cử thống đốc kỳ tới.
+擁立[ようりつ] | n,v3 | ỦNG LẬP | đưa ra làm ứng viên | 候補[こうほ] を {擁立} する | đưa ra ứng viên | 野党[やとう]は統一[とういつ]候補[こうほ]を擁立[ようりつ]した。 | Phe đối lập đưa ra một ứng viên chung.
+担[かつ]ぎ出[だ]す | v1 | ĐẢM XUẤT | khiêng ra; tôn lên (làm ứng viên) | - | - | 地元[じもと]の有力者[ゆうりょくしゃ]たちが彼[かれ]を市長[しちょう]候補[こうほ]に担[かつ]ぎ出[だ]した。 | Những người có thế lực ở địa phương tôn ông ra làm ứng viên thị trưởng.
+推挙[すいきょ] | n,v3 | THÔI CỬ | tiến cử | - | - | 恩師[おんし]の推挙[すいきょ]で研究所[けんきゅうじょ]に入[はい]った。 | Tôi vào viện nghiên cứu nhờ thầy tiến cử.
+公認[こうにん] | n,v3 | CÔNG NHẬN | công nhận chính thức; được đảng đề cử | {公認} 候補[こうほ] | ứng viên chính thức của đảng | 彼[かれ]は党[とう]の公認[こうにん]を得[え]られなかった。 | Ông không được đảng chính thức đề cử.
+無所属[むしょぞく] | n | VÔ SỞ THUỘC | không đảng phái | - | - | 無所属[むしょぞく]で立候補[りっこうほ]して当選[とうせん]した。 | Ông ra tranh cử độc lập và đã đắc cử.
+現職[げんしょく] | n | HIỆN CHỨC | đương nhiệm | - | - | 現職[げんしょく]の市長[しちょう]が三選[さんせん]を果[は]たした。 | Thị trưởng đương nhiệm tái đắc cử lần thứ ba.
+現役[げんえき] | n | HIỆN DỊCH | đang tại chức, còn hoạt động | {現役} 選手[せんしゅ] | vận động viên đang thi đấu | 祖父[そふ]は八十[はちじゅう]歳[さい]の今[いま]も現役[げんえき]の医者[いしゃ]だ。 | Ông tôi tám mươi tuổi vẫn đang hành nghề bác sĩ.
+比例[ひれい]代表[だいひょう] | n | TỈ LỆ ĐẠI BIỂU | đại biểu theo tỷ lệ | - | - | 比例[ひれい]代表[だいひょう]で復活[ふっかつ]当選[とうせん]した。 | Ông được vớt đắc cử nhờ cơ chế tỷ lệ.
+小選挙区[しょうせんきょく] | n | TIỂU TUYỂN CỬ KHU | khu vực bầu cử đơn danh | - | - | 小選挙[しょうせんきょ]区[く]では一人[ひとり]しか当選[とうせん]しない。 | Ở khu vực bầu cử đơn danh, chỉ một người đắc cử.
+定数[ていすう] | n | ĐỊNH SỐ | số lượng định sẵn | 議員[ぎいん] {定数} | số ghế nghị sĩ | 議員[ぎいん]定数[ていすう]の削減[さくげん]が議論[ぎろん]されている。 | Việc cắt giảm số ghế nghị sĩ đang được bàn luận.
+改選[かいせん] | n,v3 | CẢI TUYỂN | bầu lại | - | - | 参議院[さんぎいん]は三[さん]年[ねん]ごとに半数[はんすう]が改選[かいせん]される。 | Cứ ba năm, một nửa số ghế Thượng viện được bầu lại.
+補欠[ほけつ]選挙[せんきょ] | n | BỔ KHUYẾT TUYỂN CỬ | bầu cử bổ sung | - | - | 議員[ぎいん]の辞職[じしょく]に伴[ともな]い補欠[ほけつ]選挙[せんきょ]が行[おこな]われる。 | Bầu cử bổ sung sẽ được tổ chức do nghị sĩ từ chức.
+地盤[じばん] | n | ĐỊA BÀN | nền đất; địa bàn ủng hộ | {地盤} を 固[かた]める | củng cố địa bàn | 彼[かれ]は父親[ちちおや]の地盤[じばん]を受[う]け継[つ]いだ。 | Ông kế thừa địa bàn ủng hộ của cha.
+世襲[せしゅう] | n,v3 | THẾ TẬP | cha truyền con nối | {世襲} 議員[ぎいん] | nghị sĩ thế tập | 世襲[せしゅう]議員[ぎいん]の多[おお]さが批判[ひはん]されている。 | Số nghị sĩ cha truyền con nối quá nhiều đang bị chỉ trích.
+後継者[こうけいしゃ] | n | HẬU KẾ GIẢ | người kế nhiệm | - | - | 社長[しゃちょう]は息子[むすこ]を後継者[こうけいしゃ]に指名[しめい]した。 | Giám đốc chỉ định con trai làm người kế nhiệm.
+続投[ぞくとう] | n,v3 | TỤC ĐẦU | tiếp tục tại vị | - | - | 首相[しゅしょう]は批判[ひはん]を受[う]けながらも続投[ぞくとう]を表明[ひょうめい]した。 | Dù bị chỉ trích, thủ tướng vẫn tuyên bố tiếp tục tại vị.
+進退[しんたい] | n | TIẾN THOÁI | đi hay ở, tiến thoái | {進退} を 問[と]われる | bị đặt vấn đề từ chức | 大臣[だいじん]は自[みずか]らの進退[しんたい]について明言[めいげん]を避[さ]けた。 | Bộ trưởng tránh nói rõ về chuyện đi hay ở của mình.
+去就[きょしゅう] | n | KHỨ TỰU | quyết định ra đi hay ở lại | - | - | 監督[かんとく]の去就[きょしゅう]に注目[ちゅうもく]が集[あつ]まっている。 | Mọi chú ý dồn vào việc HLV đi hay ở.
+長期[ちょうき]政権[せいけん] | n | TRƯỜNG KỲ CHÍNH QUYỀN | chính quyền lâu dài | - | - | 長期[ちょうき]政権[せいけん]にはおごりが生[う]まれやすい。 | Chính quyền tồn tại lâu dễ sinh ra kiêu ngạo.
+求心力[きゅうしんりょく] | n | CẦU TÂM LỰC | sức hút, khả năng quy tụ | {求心力} を 失[うしな]う | mất khả năng quy tụ | 不祥事[ふしょうじ]が続[つづ]き、首相[しゅしょう]の求心[きゅうしん]力[りょく]が低下[ていか]した。 | Bê bối liên tiếp khiến uy tín quy tụ của thủ tướng giảm.
+失政[しっせい] | n | THẤT CHÍNH | chính sách sai lầm | - | - | 物価[ぶっか]高[だか]は政府[せいふ]の失政[しっせい]だと野党[やとう]は批判[ひはん]した。 | Phe đối lập chỉ trích giá cả tăng là do chính sách sai lầm của chính phủ.
+悪政[あくせい] | n | ÁC CHÍNH | chính sách tồi, cai trị tàn tệ | - | - | 長[なが]い悪政[あくせい]に民衆[みんしゅう]が立[た]ち上[あ]がった。 | Dân chúng vùng lên chống lại sự cai trị tàn tệ kéo dài.
+善政[ぜんせい] | n | THIỆN CHÍNH | chính sự tốt | - | - | その王[おう]は善政[ぜんせい]を敷[し]いたことで知[し]られる。 | Vị vua ấy nổi tiếng vì thi hành chính sự tốt.
+圧政[あっせい] | n | ÁP CHÍNH | chính quyền áp bức | - | - | 人々[ひとびと]は圧政[あっせい]から逃[のが]れて国外[こくがい]へ出[で]た。 | Người dân bỏ ra nước ngoài để thoát khỏi chính quyền áp bức.
+専制[せんせい] | n | CHUYÊN CHẾ | chuyên chế | {専制} 政治[せいじ] | chính trị chuyên chế | 専制[せんせい]君主[くんしゅ]が国[くに]を支配[しはい]していた。 | Một vị quân chủ chuyên chế cai trị đất nước.
+独裁者[どくさいしゃ] | n | ĐỘC TÀI GIẢ | kẻ độc tài | - | - | 独裁[どくさい]者[しゃ]は反対派[はんたいは]を厳[きび]しく弾圧[だんあつ]した。 | Kẻ độc tài đàn áp phe phản đối khốc liệt.
+傀儡[かいらい] | n | KHÔI LỖI | bù nhìn | {傀儡} 政権[せいけん] | chính quyền bù nhìn | 外国[がいこく]の支援[しえん]で傀儡[かいらい]政権[せいけん]が作[つく]られた。 | Chính quyền bù nhìn được dựng lên nhờ nước ngoài hậu thuẫn.
+共和制[きょうわせい] | n | CỘNG HÒA CHẾ | chế độ cộng hòa | - | - | 革命[かくめい]後[ご]、王政[おうせい]から共和[きょうわ]制[せい]に移行[いこう]した。 | Sau cách mạng, đất nước chuyển từ quân chủ sang cộng hòa.
+王室[おうしつ] | n | VƯƠNG THẤT | hoàng gia | - | - | イギリス王室[おうしつ]のニュースは世界[せかい]中[じゅう]で報道[ほうどう]される。 | Tin tức hoàng gia Anh được đưa khắp thế giới.
+支配[しはい] | n,v3 | CHI PHỐI | cai trị, chi phối | {支配} 下[か] | dưới sự cai trị | その地域[ちいき]は長[なが]く外国[がいこく]の支配[しはい]下[か]にあった。 | Khu vực đó nằm dưới ách cai trị nước ngoài trong thời gian dài.
+君臨[くんりん] | n,v3 | QUÂN LÂM | ngự trị, thống trị | - | - | 彼[かれ]は十[じゅう]年[ねん]間[かん]業界[ぎょうかい]のトップに君臨[くんりん]した。 | Ông ngự trị ở vị trí số một trong ngành suốt mười năm.
+執政[しっせい] | n | CHẤP CHÍNH | chấp chính, cầm quyền | - | - | 執政[しっせい]官[かん]は古代[こだい]ローマの最高[さいこう]官職[かんしょく]だった。 | Quan chấp chính là chức vụ cao nhất ở La Mã cổ đại.
+掌握[しょうあく] | n,v3 | CHƯỞNG ÁC | nắm trong tay | 権力[けんりょく] を {掌握} する | nắm quyền lực | 軍[ぐん]が政権[せいけん]を掌握[しょうあく]した。 | Quân đội đã nắm chính quyền.
+権力[けんりょく] | n | QUYỀN LỰC | quyền lực | {権力} を 握[にぎ]る | nắm quyền lực | 権力[けんりょく]は必[かなら]ず腐敗[ふはい]すると言[い]われる。 | Người ta nói quyền lực tất yếu dẫn đến tha hóa.
+公権力[こうけんりょく] | n | CÔNG QUYỀN LỰC | quyền lực công | - | - | 公権[こうけん]力[りょく]の行使[こうし]には慎重[しんちょう]さが求[もと]められる。 | Việc thực thi quyền lực công cần thận trọng.
+勢力[せいりょく] | n | THẾ LỰC | thế lực | {勢力} を 拡大[かくだい]する | mở rộng thế lực | 新[あら]たな勢力[せいりょく]が地域[ちいき]で影響[えいきょう]力[りょく]を強[つよ]めている。 | Một thế lực mới đang tăng ảnh hưởng trong khu vực.
+台頭[たいとう] | n,v3 | ĐÀI ĐẦU | trỗi dậy | 新興[しんこう] 国[こく] の {台頭} | sự trỗi dậy của nước mới nổi | 新興[しんこう]国[こく]の台頭[たいとう]で世界[せかい]の勢力[せいりょく]図[ず]が変[か]わった。 | Sự trỗi dậy của các nước mới nổi làm thay đổi cục diện thế giới.
+形勢[けいせい] | n | HÌNH THẾ | thế trận, cục diện | {形勢} が 逆転[ぎゃくてん]する | cục diện đảo ngược | 後半[こうはん]に入[はい]って形勢[けいせい]が逆転[ぎゃくてん]した。 | Sang hiệp hai, cục diện đảo ngược.
+政変[せいへん] | n | CHÍNH BIẾN | chính biến | - | - | 政変[せいへん]により大統領[だいとうりょう]は国外[こくがい]に逃[に]げた。 | Do chính biến, tổng thống đã trốn ra nước ngoài.
+クーデター | n | - | đảo chính | - | - | 軍部[ぐんぶ]がクーデターを起[お]こして政権[せいけん]を奪[うば]った。 | Quân đội làm đảo chính và cướp chính quyền.
+失脚[しっきゃく] | n,v3 | THẤT CƯỚC | thất thế, mất chức | - | - | 汚職[おしょく]事件[じけん]で有力[ゆうりょく]政治家[せいじか]が失脚[しっきゃく]した。 | Chính trị gia có thế lực thất thế vì vụ tham nhũng.
+失墜[しっつい] | n,v3 | THẤT TRỤY | sụp đổ (uy tín) | 信用[しんよう] の {失墜} | mất uy tín | 一連[いちれん]の不祥事[ふしょうじ]で政府[せいふ]の権威[けんい]は失墜[しっつい]した。 | Chuỗi bê bối khiến uy quyền của chính phủ sụp đổ.
+粛清[しゅくせい] | n,v3 | TÚC THANH | thanh trừng | - | - | 独裁者[どくさいしゃ]は多[おお]くの政敵[せいてき]を粛清[しゅくせい]した。 | Kẻ độc tài đã thanh trừng nhiều đối thủ chính trị.
+内乱[ないらん] | n | NỘI LOẠN | nội loạn | - | - | 内乱[ないらん]で国土[こくど]は荒[あ]れ果[は]てた。 | Nội loạn khiến đất nước tan hoang.
+反乱[はんらん] | n,v3 | PHẢN LOẠN | nổi loạn | {反乱} 軍[ぐん] | quân nổi loạn | 地方[ちほう]で農民[のうみん]の反乱[はんらん]が起[お]きた。 | Nông dân nổi loạn ở địa phương.
+蜂起[ほうき] | n,v3 | PHONG KHỞI | khởi nghĩa | - | - | 圧政[あっせい]に耐[た]えかねた民衆[みんしゅう]が蜂起[ほうき]した。 | Không chịu nổi áp bức, dân chúng đã khởi nghĩa.
+一揆[いっき] | n | NHẤT QUỸ | cuộc nổi dậy (nông dân thời phong kiến) | - | - | 江戸[えど]時代[じだい]には各地[かくち]で一揆[いっき]が起[お]きた。 | Thời Edo, các cuộc nổi dậy nổ ra khắp nơi.
+反逆[はんぎゃく] | n,v3 | PHẢN NGHỊCH | phản nghịch | - | - | 王[おう]に反逆[はんぎゃく]した罪[つみ]で処刑[しょけい]された。 | Bị xử tử vì tội phản nghịch nhà vua.
+暗殺[あんさつ] | n,v3 | ÁM SÁT | ám sát | - | - | 大統領[だいとうりょう]が暗殺[あんさつ]されるという衝撃[しょうげき]的[てき]な事件[じけん]が起[お]きた。 | Đã xảy ra vụ việc gây chấn động: tổng thống bị ám sát.
+殉職[じゅんしょく] | n,v3 | TUẪN CHỨC | hy sinh khi làm nhiệm vụ | - | - | 救助[きゅうじょ]活動[かつどう]中[ちゅう]に消防士[しょうぼうし]が殉職[じゅんしょく]した。 | Một lính cứu hỏa hy sinh trong lúc cứu hộ.
+右翼[うよく] | n | HỮU DỰC | cánh hữu | - | - | 右翼[うよく]団体[だんたい]の街宣[がいせん]車[しゃ]が走[はし]っていた。 | Xe tuyên truyền của nhóm cánh hữu chạy ngoài phố.
+左翼[さよく] | n | TẢ DỰC | cánh tả | - | - | 学生[がくせい]時代[じだい]、彼[かれ]は左翼[さよく]運動[うんどう]に参加[さんか]していた。 | Thời sinh viên ông từng tham gia phong trào cánh tả.
+中道[ちゅうどう] | n | TRUNG ĐẠO | trung dung, trung tả/trung hữu | {中道} 政党[せいとう] | đảng trung dung | 中道[ちゅうどう]路線[ろせん]で幅広[はばひろ]い支持[しじ]を集[あつ]めた。 | Theo đường lối trung dung, đảng thu hút sự ủng hộ rộng rãi.
+リベラル | adj-na | - | tự do, cấp tiến | - | - | 彼[かれ]はリベラルな考[かんが]え方[かた]の持[も]ち主[ぬし]だ。 | Ông là người có tư tưởng tự do.
+急進[きゅうしん] | n | CẤP TIẾN | cấp tiến | {急進} 派[は] | phái cấp tiến | 急進[きゅうしん]的[てき]な改革[かいかく]には反発[はんぱつ]も多[おお]い。 | Cải cách cấp tiến cũng gặp nhiều phản đối.
+穏健[おんけん] | adj-na | ỔN KIỆN | ôn hòa | - | - | 彼[かれ]は党[とう]内[ない]でも穏健[おんけん]な意見[いけん]の持[も]ち主[ぬし]だ。 | Ông là người có quan điểm ôn hòa ngay trong đảng.
+穏健派[おんけんは] | n | ỔN KIỆN PHÁI | phái ôn hòa | - | - | 穏健[おんけん]派[は]が強硬[きょうこう]派[は]を説得[せっとく]した。 | Phái ôn hòa đã thuyết phục phái cứng rắn.
+強硬[きょうこう] | adj-na | CƯỜNG NGẠNH | cứng rắn | {強硬} な 態度[たいど] | thái độ cứng rắn | 政府[せいふ]は交渉[こうしょう]で強硬[きょうこう]な姿勢[しせい]を崩[くず]さなかった。 | Chính phủ không từ bỏ lập trường cứng rắn trong đàm phán.
+強硬派[きょうこうは] | n | CƯỜNG NGẠNH PHÁI | phái cứng rắn | - | - | 軍[ぐん]内部[ないぶ]の強硬[きょうこう]派[は]が停戦[ていせん]に反対[はんたい]した。 | Phái cứng rắn trong quân đội phản đối ngừng bắn.
+改革派[かいかくは] | n | CẢI CÁCH PHÁI | phái cải cách | - | - | 改革[かいかく]派[は]の若手[わかて]議員[ぎいん]が新党[しんとう]を作[つく]った。 | Các nghị sĩ trẻ phái cải cách đã lập đảng mới.
+反対派[はんたいは] | n | PHẢN ĐỐI PHÁI | phe phản đối | - | - | 反対[はんたい]派[は]の住民[じゅうみん]が説明[せつめい]会[かい]に詰[つ]めかけた。 | Cư dân phe phản đối kéo đến buổi giải trình.
+賛成派[さんせいは] | n | TÁN THÀNH PHÁI | phe tán thành | - | - | 賛成[さんせい]派[は]と反対[はんたい]派[は]の意見[いけん]がぶつかった。 | Ý kiến phe tán thành và phản đối va chạm nhau.
+主流派[しゅりゅうは] | n | CHỦ LƯU PHÁI | phái chủ lưu | - | - | 党[とう]の主流[しゅりゅう]派[は]が人事[じんじ]を握[にぎ]っている。 | Phái chủ lưu trong đảng nắm quyền nhân sự.
+是非[ぜひ] | n | THỊ PHI | đúng sai, nên hay không | {是非} を 問[と]う | đặt vấn đề nên hay không | 原発[げんぱつ]再[さい]稼働[かどう]の是非[ぜひ]が問[と]われている。 | Câu hỏi có nên khởi động lại nhà máy hạt nhân đang được đặt ra.
+施策[しさく] | n | THI SÁCH | biện pháp, chính sách thực thi | - | - | 政府[せいふ]は少子化[しょうしか]対策[たいさく]として様々[さまざま]な施策[しさく]を打[う]ち出[だ]した。 | Chính phủ đưa ra nhiều biện pháp đối phó tỷ lệ sinh giảm.
+国策[こくさく] | n | QUỐC SÁCH | quốc sách | - | - | 観光[かんこう]振興[しんこう]は国策[こくさく]として進[すす]められている。 | Phát triển du lịch được thúc đẩy như một quốc sách.
+国是[こくぜ] | n | QUỐC THỊ | quốc thị, phương châm quốc gia | - | - | 平和[へいわ]主義[しゅぎ]はこの国[くに]の国是[こくぜ]だ。 | Chủ nghĩa hòa bình là phương châm quốc gia của nước này.
+推進[すいしん] | n,v3 | THÔI TIẾN | xúc tiến, thúc đẩy | 改革[かいかく] を {推進} する | thúc đẩy cải cách | 政府[せいふ]はデジタル化[か]を強力[きょうりょく]に推進[すいしん]している。 | Chính phủ đang mạnh mẽ thúc đẩy số hóa.
+措置[そち] | n | THỐ TRÍ | biện pháp | {措置} を 講[こう]じる | áp dụng biện pháp | 政府[せいふ]は緊急[きんきゅう]の措置[そち]を講[こう]じた。 | Chính phủ đã áp dụng biện pháp khẩn cấp.
+是正[ぜせい] | n,v3 | THỊ CHÍNH | điều chỉnh, sửa sai | 格差[かくさ] の {是正} | thu hẹp chênh lệch | 地域[ちいき]間[かん]の格差[かくさ]を是正[ぜせい]する必要[ひつよう]がある。 | Cần thu hẹp chênh lệch giữa các vùng.
+緩和[かんわ] | n,v3 | HOÃN HÒA | nới lỏng, làm dịu | 規制[きせい] を {緩和} する | nới lỏng quy định | 入国[にゅうこく]制限[せいげん]が段階[だんかい]的[てき]に緩和[かんわ]された。 | Hạn chế nhập cảnh được nới lỏng từng bước.
+解除[かいじょ] | n,v3 | GIẢI TRỪ | dỡ bỏ, hủy bỏ | 警報[けいほう] が {解除} される | cảnh báo được dỡ bỏ | 大雨[おおあめ]警報[けいほう]が解除[かいじょ]された。 | Cảnh báo mưa lớn đã được dỡ bỏ.
+強制[きょうせい] | n,v3 | CƯỠNG CHẾ | cưỡng ép | {強制} 的[てき] | mang tính cưỡng chế | 参加[さんか]は自由[じゆう]で、強制[きょうせい]ではありません。 | Việc tham gia là tự do, không bắt buộc.
+意向[いこう] | n | Ý HƯỚNG | ý định, ý hướng | {意向} を 示[しめ]す | thể hiện ý định | 社長[しゃちょう]は来年[らいねん]退任[たいにん]する意向[いこう]を示[しめ]した。 | Giám đốc bày tỏ ý định rời chức vào năm sau.
+介入[かいにゅう] | n,v3 | GIỚI NHẬP | can thiệp | 軍事[ぐんじ] {介入} | can thiệp quân sự | 政府[せいふ]は為替[かわせ]市場[しじょう]に介入[かいにゅう]した。 | Chính phủ đã can thiệp vào thị trường ngoại hối.
+干渉[かんしょう] | n,v3 | CAN THIỆP | can thiệp, xen vào | - | - | 親[おや]に進路[しんろ]のことであれこれ干渉[かんしょう]されたくない。 | Tôi không muốn bố mẹ xen vào chuyện định hướng của mình.
+内政[ないせい]干渉[かんしょう] | n | NỘI CHÍNH CAN THIỆP | can thiệp nội bộ | - | - | 相手[あいて]国[こく]はその発言[はつげん]を内政[ないせい]干渉[かんしょう]だと非難[ひなん]した。 | Nước kia chỉ trích phát ngôn đó là can thiệp công việc nội bộ.
+侵害[しんがい] | n,v3 | XÂM HẠI | xâm phạm | 人権[じんけん] {侵害} | xâm phạm nhân quyền | 他人[たにん]のプライバシーを侵害[しんがい]してはならない。 | Không được xâm phạm quyền riêng tư của người khác.
+外圧[がいあつ] | n | NGOẠI ÁP | áp lực từ bên ngoài | - | - | 外圧[がいあつ]によって市場[しじょう]開放[かいほう]が進[すす]んだ。 | Thị trường được mở cửa do áp lực bên ngoài.
+外相[がいしょう] | n | NGOẠI TƯỚNG | bộ trưởng ngoại giao | {外相} 会談[かいだん] | hội đàm ngoại trưởng | 両国[りょうこく]の外相[がいしょう]が電話[でんわ]で会談[かいだん]した。 | Ngoại trưởng hai nước điện đàm với nhau.
+領事館[りょうじかん] | n | LÃNH SỰ QUÁN | lãnh sự quán | - | - | 大阪[おおさか]の総[そう]領事[りょうじ]館[かん]でビザを申請[しんせい]した。 | Tôi xin thị thực ở tổng lãnh sự quán tại Osaka.
+首脳[しゅのう]会談[かいだん] | n | THỦ NÃO HỘI ĐÀM | hội đàm thượng đỉnh | - | - | 首脳[しゅのう]会談[かいだん]で経済[けいざい]協力[きょうりょく]が合意[ごうい]された。 | Hội đàm thượng đỉnh đạt thỏa thuận hợp tác kinh tế.
+樹立[じゅりつ] | n,v3 | THỤ LẬP | thiết lập | 国交[こっこう] を {樹立} する | thiết lập quan hệ ngoại giao | 両国[りょうこく]は五十[ごじゅう]年[ねん]前[まえ]に国交[こっこう]を樹立[じゅりつ]した。 | Hai nước thiết lập quan hệ ngoại giao năm mươi năm trước.
+断交[だんこう] | n,v3 | ĐOẠN GIAO | cắt đứt quan hệ | - | - | 事件[じけん]をきっかけに両国[りょうこく]は断交[だんこう]した。 | Nhân vụ việc đó, hai nước cắt đứt quan hệ.
+同盟国[どうめいこく] | n | ĐỒNG MINH QUỐC | nước đồng minh | - | - | 同盟[どうめい]国[こく]と緊密[きんみつ]に連携[れんけい]する。 | Phối hợp chặt chẽ với các nước đồng minh.
+経済[けいざい]制裁[せいさい] | n | KINH TẾ CHẾ TÀI | trừng phạt kinh tế | - | - | 国際[こくさい]社会[しゃかい]はその国[くに]に経済[けいざい]制裁[せいさい]を科[か]した。 | Cộng đồng quốc tế áp đặt trừng phạt kinh tế lên nước đó.
+平和[へいわ]条約[じょうやく] | n | BÌNH HÒA ĐIỀU ƯỚC | hiệp ước hòa bình | - | - | 戦争[せんそう]終結[しゅうけつ]後[ご]に平和[へいわ]条約[じょうやく]が結[むす]ばれた。 | Hiệp ước hòa bình được ký sau khi chiến tranh kết thúc.
+覇権[はけん] | n | BÁ QUYỀN | bá quyền | {覇権} 争[あらそ]い | tranh giành bá quyền | 大国[たいこく]同士[どうし]が覇権[はけん]を争[あらそ]っている。 | Các cường quốc đang tranh giành bá quyền.
+冷戦[れいせん] | n | LÃNH CHIẾN | chiến tranh lạnh | - | - | 冷戦[れいせん]の終結[しゅうけつ]で世界[せかい]の構図[こうず]が変[か]わった。 | Chiến tranh lạnh kết thúc làm thay đổi cục diện thế giới.
+牽制[けんせい] | n,v3 | KHIÊN CHẾ | kiềm chế, cảnh cáo | 相手[あいて] を {牽制} する | kiềm chế đối phương | 軍事[ぐんじ]演習[えんしゅう]で周辺[しゅうへん]国[こく]を牽制[けんせい]した。 | Tập trận quân sự để kiềm chế các nước xung quanh.
+抑止[よくし] | n,v3 | ỨC CHỈ | răn đe, ngăn chặn | - | - | 犯罪[はんざい]を抑止[よくし]するために防犯[ぼうはん]カメラを設置[せっち]した。 | Lắp camera an ninh để ngăn chặn tội phạm.
+抑止力[よくしりょく] | n | ỨC CHỈ LỰC | sức răn đe | - | - | 核[かく]兵器[へいき]を抑止[よくし]力[りょく]とする考[かんが]え方[かた]には批判[ひはん]もある。 | Quan điểm coi vũ khí hạt nhân là sức răn đe cũng bị chỉ trích.
+威嚇[いかく] | n,v3 | UY HÁCH | đe dọa, uy hiếp | {威嚇} 射撃[しゃげき] | bắn cảnh cáo | 犬[いぬ]が歯[は]をむいて威嚇[いかく]してきた。 | Con chó nhe răng đe dọa.
+挑発[ちょうはつ] | n,v3 | KHIÊU PHÁT | khiêu khích | {挑発} に 乗[の]る | mắc khiêu khích | 相手[あいて]の挑発[ちょうはつ]に乗[の]ってはいけない。 | Không được mắc bẫy khiêu khích của đối phương.
+侵攻[しんこう] | n,v3 | XÂM CÔNG | xâm lược, tiến công | - | - | 隣国[りんごく]への侵攻[しんこう]は国際[こくさい]的[てき]な非難[ひなん]を浴[あ]びた。 | Cuộc tiến công vào nước láng giềng bị quốc tế lên án.
+併合[へいごう] | n,v3 | TÍNH HỢP | sáp nhập (lãnh thổ) | - | - | その地域[ちいき]は一方[いっぽう]的[てき]に併合[へいごう]された。 | Khu vực ấy bị sáp nhập một cách đơn phương.
+派兵[はへい] | n,v3 | PHÁI BINH | điều quân | - | - | 海外[かいがい]への派兵[はへい]をめぐって議論[ぎろん]が起[お]きた。 | Tranh luận nổ ra về việc điều quân ra nước ngoài.
+撤兵[てっぺい] | n,v3 | TRIỆT BINH | rút quân | - | - | 停戦[ていせん]合意[ごうい]を受[う]けて撤兵[てっぺい]が始[はじ]まった。 | Việc rút quân bắt đầu sau thỏa thuận ngừng bắn.
+駐留[ちゅうりゅう] | n,v3 | TRÚ LƯU | đồn trú | {駐留} 軍[ぐん] | quân đồn trú | その国[くに]には多[おお]くの外国[がいこく]軍[ぐん]が駐留[ちゅうりゅう]している。 | Nhiều quân đội nước ngoài đang đồn trú ở nước đó.
+兵[へい] | n | BINH | binh lính | {兵} を 挙[あ]げる | dấy binh | 敵[てき]は国境[こっきょう]付近[ふきん]に兵[へい]を集[あつ]めた。 | Quân địch tập trung binh lính gần biên giới.
+基地[きち] | n | CƠ ĐỊA | căn cứ | 軍事[ぐんじ] {基地} | căn cứ quân sự | 基地[きち]の移転[いてん]問題[もんだい]が長年[ながねん]続[つづ]いている。 | Vấn đề di dời căn cứ kéo dài nhiều năm.
+軍備[ぐんび] | n | QUÂN BỊ | quân bị | {軍備} 拡張[かくちょう] | mở rộng quân bị | 各国[かっこく]が軍備[ぐんび]を増強[ぞうきょう]している。 | Các nước đang tăng cường quân bị.
+軍縮[ぐんしゅく] | n,v3 | QUÂN SÚC | giải trừ quân bị | - | - | 軍縮[ぐんしゅく]会議[かいぎ]が国連[こくれん]で開[ひら]かれた。 | Hội nghị giải trừ quân bị được tổ chức tại Liên Hợp Quốc.
+国防[こくぼう] | n | QUỐC PHÒNG | quốc phòng | - | - | 国防[こくぼう]予算[よさん]が過去[かこ]最大[さいだい]になった。 | Ngân sách quốc phòng lớn nhất từ trước đến nay.
+有事[ゆうじ] | n | HỮU SỰ | khi có biến | - | - | 有事[ゆうじ]に備[そな]えて食料[しょくりょう]を備蓄[びちく]する。 | Dự trữ lương thực phòng khi có biến.
+非常[ひじょう]事態[じたい] | n | PHI THƯỜNG SỰ THÁI | tình trạng khẩn cấp | - | - | 大地震[おおじしん]を受[う]けて非常[ひじょう]事態[じたい]が宣言[せんげん]された。 | Sau trận động đất lớn, tình trạng khẩn cấp đã được ban bố.
+緊急[きんきゅう]事態[じたい] | n | KHẨN CẤP SỰ THÁI | tình trạng khẩn cấp | {緊急事態} 宣言[せんげん] | tuyên bố tình trạng khẩn cấp | 感染[かんせん]拡大[かくだい]で緊急[きんきゅう]事態[じたい]宣言[せんげん]が出[だ]された。 | Do dịch lây lan, tuyên bố tình trạng khẩn cấp đã được ban hành.
+戒厳令[かいげんれい] | n | GIỚI NGHIÊM LỆNH | lệnh thiết quân luật | - | - | 首都[しゅと]に戒厳[かいげん]令[れい]が敷[し]かれた。 | Lệnh thiết quân luật được ban hành tại thủ đô.
+発令[はつれい] | n,v3 | PHÁT LỆNH | ban hành (lệnh) | - | - | 津波[つなみ]警報[けいほう]が発令[はつれい]された。 | Cảnh báo sóng thần đã được ban hành.
+布告[ふこく] | n,v3 | BỐ CÁO | tuyên bố, bố cáo | 宣戦[せんせん] {布告} | tuyên chiến | 両国[りょうこく]の間[あいだ]で宣戦[せんせん]布告[ふこく]がなされた。 | Hai nước đã tuyên chiến với nhau.
+省令[しょうれい] | n | TỈNH LỆNH | thông tư của bộ | - | - | 詳[くわ]しい手続[てつづ]きは省令[しょうれい]で定[さだ]められている。 | Thủ tục chi tiết được quy định trong thông tư của bộ.
+領有権[りょうゆうけん] | n | LÃNH HỮU QUYỀN | chủ quyền lãnh thổ | - | - | 島[しま]の領有[りょうゆう]権[けん]をめぐって対立[たいりつ]が続[つづ]いている。 | Đối đầu về chủ quyền hòn đảo vẫn tiếp diễn.
+拉致[らち] | n,v3 | LẠP TRÍ | bắt cóc | {拉致} 問題[もんだい] | vấn đề bắt cóc | 拉致[らち]被害[ひがい]者[しゃ]の帰国[きこく]を家族[かぞく]が待[ま]ち続[つづ]けている。 | Gia đình vẫn chờ đợi nạn nhân bị bắt cóc trở về.
+捕虜[ほりょ] | n | BỘ LỖ | tù binh | - | - | 戦争[せんそう]が終[お]わり、捕虜[ほりょ]が解放[かいほう]された。 | Chiến tranh kết thúc, tù binh được trả tự do.
+戦犯[せんぱん] | n | CHIẾN PHẠM | tội phạm chiến tranh | - | - | 戦後[せんご]、多[おお]くの戦犯[せんぱん]が裁判[さいばん]にかけられた。 | Sau chiến tranh, nhiều tội phạm chiến tranh bị đưa ra xét xử.
+終戦[しゅうせん] | n | CHUNG CHIẾN | kết thúc chiến tranh | - | - | 祖母[そぼ]は終戦[しゅうせん]の日[ひ]のことをよく覚[おぼ]えている。 | Bà tôi nhớ rõ ngày chiến tranh kết thúc.
+敗戦[はいせん] | n,v3 | BẠI CHIẾN | bại trận | {敗戦} 国[こく] | nước bại trận | 敗戦[はいせん]後[ご]の混乱[こんらん]の中[なか]で人々[ひとびと]は懸命[けんめい]に生[い]きた。 | Giữa hỗn loạn sau bại trận, người dân sống hết mình.
+戦後[せんご] | n | CHIẾN HẬU | sau chiến tranh | - | - | 戦後[せんご]の日本[にほん]は急速[きゅうそく]に経済[けいざい]成長[せいちょう]した。 | Nhật Bản sau chiến tranh tăng trưởng kinh tế nhanh chóng.
+歴史[れきし]認識[にんしき] | n | LỊCH SỬ NHẬN THỨC | nhận thức lịch sử | - | - | 歴史[れきし]認識[にんしき]の違[ちが]いが両国[りょうこく]関係[かんけい]に影[かげ]を落[お]としている。 | Khác biệt nhận thức lịch sử phủ bóng lên quan hệ hai nước.
+民衆[みんしゅう] | n | DÂN CHÚNG | dân chúng | - | - | 民衆[みんしゅう]の怒[いか]りが政権[せいけん]を倒[たお]した。 | Cơn giận của dân chúng đã lật đổ chính quyền.
+大衆[たいしゅう] | n | ĐẠI CHÚNG | quần chúng, đại chúng | {大衆} 文化[ぶんか] | văn hóa đại chúng | テレビは大衆[たいしゅう]に大[おお]きな影響[えいきょう]を与[あた]えた。 | Truyền hình có ảnh hưởng lớn đến đại chúng.
+群衆[ぐんしゅう] | n | QUẦN CHÚNG | đám đông | - | - | 広場[ひろば]を埋[う]め尽[つ]くす群衆[ぐんしゅう]が歓声[かんせい]を上[あ]げた。 | Đám đông chật kín quảng trường reo hò.
+庶民[しょみん] | n | THỨ DÂN | dân thường | {庶民} 的[てき] | bình dân | 物価[ぶっか]の上昇[じょうしょう]が庶民[しょみん]の生活[せいかつ]を苦[くる]しめている。 | Giá cả tăng làm khổ đời sống dân thường.
+市民[しみん]運動[うんどう] | n | THỊ DÂN VẬN ĐỘNG | phong trào công dân | - | - | 市民[しみん]運動[うんどう]がきっかけで計画[けいかく]は中止[ちゅうし]された。 | Kế hoạch bị hủy nhờ phong trào công dân.
+草[くさ]の根[ね] | n | THẢO CĂN | cơ sở, quần chúng cơ sở | {草の根} 運動[うんどう] | phong trào từ cơ sở | 草[くさ]の根[ね]の活動[かつどう]が社会[しゃかい]を変[か]えることもある。 | Hoạt động từ cơ sở đôi khi thay đổi cả xã hội.
+署名[しょめい]活動[かつどう] | n | THỰ DANH HOẠT ĐỘNG | vận động ký tên | - | - | 駅前[えきまえ]で署名[しょめい]活動[かつどう]が行[おこな]われていた。 | Trước ga đang có hoạt động vận động ký tên.
+嘆願[たんがん] | n,v3 | THÁN NGUYỆN | khẩn cầu, thỉnh nguyện | {嘆願} 書[しょ] | đơn thỉnh nguyện | 住民[じゅうみん]は計画[けいかく]の見直[みなお]しを嘆願[たんがん]した。 | Cư dân khẩn cầu xem xét lại kế hoạch.
+扇動[せんどう] | n,v3 | PHIẾN ĐỘNG | kích động | - | - | 一部[いちぶ]の人間[にんげん]が群衆[ぐんしゅう]を扇動[せんどう]して暴動[ぼうどう]になった。 | Một số kẻ kích động đám đông dẫn tới bạo loạn.
+煽[あお]る | v1 | PHIẾN | kích động, thổi bùng | 不安[ふあん] を {煽る} | gieo rắc bất an | 過激[かげき]な報道[ほうどう]が人々[ひとびと]の不安[ふあん]を煽[あお]った。 | Tin tức giật gân thổi bùng nỗi bất an của mọi người.
+情報[じょうほう]操作[そうさ] | n | TÌNH BÁO THAO TÁC | thao túng thông tin | - | - | 政府[せいふ]による情報[じょうほう]操作[そうさ]が疑[うたが]われた。 | Người ta nghi ngờ chính phủ thao túng thông tin.
+失態[しったい] | n | THẤT THÁI | hành động sai lầm, bẽ mặt | {失態} を 演[えん]じる | phạm sai lầm đáng xấu hổ | 大事[だいじ]な会議[かいぎ]で居眠[いねむ]りする失態[しったい]を演[えん]じた。 | Tôi phạm sai lầm đáng xấu hổ là ngủ gật trong cuộc họp quan trọng.
+醜聞[しゅうぶん] | n | XÚ VĂN | scandal, tai tiếng | - | - | 政治家[せいじか]の醜聞[しゅうぶん]が週刊誌[しゅうかんし]に載[の]った。 | Tai tiếng của chính trị gia được đăng trên tuần san.
+スキャンダル | n | - | vụ bê bối | - | - | スキャンダルで俳優[はいゆう]は番組[ばんぐみ]を降板[こうばん]した。 | Vì bê bối, nam diễn viên rời chương trình.
+糾弾[きゅうだん] | n,v3 | CỦ ĐÀN | lên án, buộc tội | - | - | 市民[しみん]団体[だんたい]は企業[きぎょう]の責任[せきにん]を糾弾[きゅうだん]した。 | Tổ chức công dân lên án trách nhiệm của doanh nghiệp.
+弾劾[だんがい] | n,v3 | ĐÀN HẶC | luận tội | {弾劾} 裁判[さいばん] | phiên tòa luận tội | 大統領[だいとうりょう]の弾劾[だんがい]が議会[ぎかい]で可決[かけつ]された。 | Quốc hội đã thông qua việc luận tội tổng thống.
+弁明[べんめい] | n,v3 | BIỆN MINH | biện minh | - | - | 彼[かれ]は記者[きしゃ]の前[まえ]で弁明[べんめい]に追[お]われた。 | Ông ta phải chật vật biện minh trước phóng viên.
+釈明[しゃくめい] | n,v3 | THÍCH MINH | giải thích, thanh minh | {釈明} 会見[かいけん] | họp báo giải trình | 大臣[だいじん]は疑惑[ぎわく]について国会[こっかい]で釈明[しゃくめい]した。 | Bộ trưởng giải trình về nghi vấn tại Quốc hội.
+陳謝[ちんしゃ] | n,v3 | TRẦN TẠ | xin lỗi chính thức | - | - | 会社[かいしゃ]は不手際[ふてぎわ]を陳謝[ちんしゃ]した。 | Công ty chính thức xin lỗi về sơ suất.
+政争[せいそう] | n | CHÍNH TRANH | tranh giành chính trị | - | - | 政争[せいそう]に明[あ]け暮[く]れて改革[かいかく]が進[すす]まない。 | Mải tranh giành chính trị nên cải cách không tiến triển.
+利権[りけん] | n | LỢI QUYỀN | quyền lợi đặc biệt, đặc quyền | - | - | 公共[こうきょう]事業[じぎょう]をめぐる利権[りけん]が問題[もんだい]になった。 | Đặc quyền quanh các dự án công đã thành vấn đề.
+圧力[あつりょく]団体[だんたい] | n | ÁP LỰC ĐOÀN THỂ | nhóm lợi ích, nhóm áp lực | - | - | 圧力[あつりょく]団体[だんたい]が政策[せいさく]に影響[えいきょう]を与[あた]えている。 | Các nhóm áp lực đang ảnh hưởng đến chính sách.
+ロビー活動[かつどう] | n | HOẠT ĐỘNG | vận động hành lang | - | - | 業界[ぎょうかい]は議員[ぎいん]へのロビー活動[かつどう]を強[つよ]めた。 | Ngành công nghiệp tăng cường vận động hành lang với nghị sĩ.
+審議会[しんぎかい] | n | THẨM NGHỊ HỘI | hội đồng thẩm định | - | - | 審議[しんぎ]会[かい]の答申[とうしん]を受[う]けて法律[ほうりつ]が改正[かいせい]された。 | Luật được sửa đổi sau khi có báo cáo của hội đồng thẩm định.
+官民[かんみん] | n | QUAN DÂN | nhà nước và tư nhân | {官民} 一体[いったい] | nhà nước và tư nhân chung sức | 官民[かんみん]一体[いったい]となって観光[かんこう]客[きゃく]を呼[よ]び込[こ]む。 | Nhà nước và tư nhân chung sức thu hút khách du lịch.
+公営[こうえい] | n | CÔNG DOANH | công lập, do nhà nước quản lý | {公営} 住宅[じゅうたく] | nhà ở công | 公営[こうえい]住宅[じゅうたく]に申[もう]し込[こ]んだ。 | Tôi đăng ký nhà ở công.
+国有[こくゆう] | n | QUỐC HỮU | quốc hữu | {国有} 地[ち] | đất quốc hữu | 国有[こくゆう]地[ち]の売却[ばいきゃく]をめぐる疑惑[ぎわく]が浮上[ふじょう]した。 | Nổi lên nghi vấn về việc bán đất quốc hữu.
+国営[こくえい] | n | QUỐC DOANH | quốc doanh | - | - | かつて鉄道[てつどう]は国営[こくえい]だった。 | Trước đây đường sắt là quốc doanh.
+中央[ちゅうおう]集権[しゅうけん] | n | TRUNG ƯƠNG TẬP QUYỀN | tập quyền trung ương | - | - | 中央[ちゅうおう]集権[しゅうけん]から地方[ちほう]分権[ぶんけん]への転換[てんかん]が求[もと]められている。 | Cần chuyển từ tập quyền trung ương sang phân quyền địa phương.
+行政[ぎょうせい]改革[かいかく] | n | HÀNH CHÍNH CẢI CÁCH | cải cách hành chính | - | - | 行政[ぎょうせい]改革[かいかく]で役所[やくしょ]の手続[てつづ]きが簡単[かんたん]になった。 | Nhờ cải cách hành chính, thủ tục ở cơ quan công quyền đơn giản hơn.
+財政[ざいせい]再建[さいけん] | n | TÀI CHÍNH TÁI KIẾN | tái thiết tài chính | - | - | 財政[ざいせい]再建[さいけん]のために歳出[さいしゅつ]を削減[さくげん]する。 | Cắt giảm chi ngân sách để tái thiết tài chính.
+構造[こうぞう]改革[かいかく] | n | CẤU TẠO CẢI CÁCH | cải cách cơ cấu | - | - | 構造[こうぞう]改革[かいかく]なくして成長[せいちょう]なしと首相[しゅしょう]は訴[うった]えた。 | Thủ tướng kêu gọi: không cải cách cơ cấu thì không có tăng trưởng.
+縦割[たてわ]り | n | TÚNG CÁT | phân chia theo chiều dọc, cát cứ | {縦割り} 行政[ぎょうせい] | hành chính cát cứ | 縦割[たてわ]り行政[ぎょうせい]の弊害[へいがい]が指摘[してき]されている。 | Tác hại của bộ máy hành chính cát cứ đang được chỉ ra.
+官僚[かんりょう]主義[しゅぎ] | n | QUAN LIÊU CHỦ NGHĨA | chủ nghĩa quan liêu | - | - | 官僚[かんりょう]主義[しゅぎ]が改革[かいかく]の妨[さまた]げになっている。 | Chủ nghĩa quan liêu đang cản trở cải cách.
+お役所[やくしょ]仕事[しごと] | n | DỊCH SỞ SĨ SỰ | lối làm việc quan liêu | - | - | お役所[やくしょ]仕事[しごと]で手続[てつづ]きに一[いっ]か月[げつ]もかかった。 | Vì lối làm việc quan liêu mà thủ tục mất tới một tháng.
+認可[にんか] | n,v3 | NHẬN KHẢ | cấp phép, phê chuẩn | {認可} 保育所[ほいくしょ] | nhà trẻ được cấp phép | 新[あたら]しい薬[くすり]の製造[せいぞう]が国[くに]に認可[にんか]された。 | Việc sản xuất thuốc mới đã được nhà nước cấp phép.
+登記[とうき] | n,v3 | ĐĂNG KÝ | đăng ký (bất động sản, công ty) | - | - | 家[いえ]を買[か]ったので登記[とうき]の手続[てつづ]きをした。 | Mua nhà xong nên tôi làm thủ tục đăng ký.
+入国[にゅうこく]管理[かんり] | n | NHẬP QUỐC QUẢN LÝ | quản lý xuất nhập cảnh | - | - | 入国[にゅうこく]管理[かんり]局[きょく]で在留[ざいりゅう]カードを受[う]け取[と]った。 | Tôi nhận thẻ cư trú ở cục quản lý xuất nhập cảnh.
+外国人[がいこくじん]労働者[ろうどうしゃ] | n | NGOẠI QUỐC NHÂN LAO ĐỘNG GIẢ | lao động nước ngoài | - | - | 外国[がいこく]人[じん]労働[ろうどう]者[しゃ]の受[う]け入[い]れが拡大[かくだい]している。 | Việc tiếp nhận lao động nước ngoài đang được mở rộng.
+多文化[たぶんか]共生[きょうせい] | n | ĐA VĂN HÓA CỘNG SINH | chung sống đa văn hóa | - | - | 地域[ちいき]で多文化[たぶんか]共生[きょうせい]を進[すす]める取[と]り組[く]みが行[おこな]われている。 | Địa phương đang có các nỗ lực thúc đẩy chung sống đa văn hóa.
+福祉[ふくし]国家[こっか] | n | PHÚC CHỈ QUỐC GIA | nhà nước phúc lợi | - | - | 北欧[ほくおう]は福祉[ふくし]国家[こっか]として知[し]られている。 | Bắc Âu được biết đến là các nhà nước phúc lợi.
+公安[こうあん] | n | CÔNG AN | an ninh công cộng | - | - | 公安[こうあん]警察[けいさつ]がテロ組織[そしき]を監視[かんし]している。 | Cảnh sát an ninh đang theo dõi tổ chức khủng bố.
+警備[けいび] | n,v3 | CẢNH BỊ | bảo vệ, canh gác | {警備} 員[いん] | nhân viên bảo vệ | 首脳[しゅのう]会議[かいぎ]の会場[かいじょう]周辺[しゅうへん]は厳重[げんじゅう]に警備[けいび]されている。 | Khu vực quanh hội nghị thượng đỉnh được canh gác nghiêm ngặt.
+機動隊[きどうたい] | n | CƠ ĐỘNG ĐỘI | cảnh sát cơ động | - | - | デモ隊[たい]と機動[きどう]隊[たい]がにらみ合[あ]った。 | Đoàn biểu tình và cảnh sát cơ động gườm nhau.
+抗議[こうぎ]デモ | n | KHÁNG NGHỊ | biểu tình phản đối | - | - | 増税[ぞうぜい]に反対[はんたい]する抗議[こうぎ]デモが行[おこな]われた。 | Đã diễn ra cuộc biểu tình phản đối tăng thuế.
+改憲[かいけん] | n | CẢI HIẾN | sửa đổi hiến pháp | - | - | 改憲[かいけん]をめぐって世論[よろん]は二[ふた]つに分[わ]かれた。 | Dư luận chia làm hai về việc sửa hiến pháp.
+護憲[ごけん] | n | HỘ HIẾN | bảo vệ hiến pháp | - | - | 護憲[ごけん]派[は]の集会[しゅうかい]が開[ひら]かれた。 | Phe bảo vệ hiến pháp mở cuộc mít tinh.
+参政権[さんせいけん] | n | THAM CHÍNH QUYỀN | quyền tham chính | - | - | 女性[じょせい]が参政[さんせい]権[けん]を得[え]たのは戦後[せんご]のことだ。 | Phụ nữ có quyền tham chính là chuyện sau chiến tranh.
+国民[こくみん]投票[とうひょう] | n | QUỐC DÂN ĐẦU PHIẾU | trưng cầu dân ý | - | - | 憲法[けんぽう]改正[かいせい]には国民[こくみん]投票[とうひょう]が必要[ひつよう]だ。 | Sửa hiến pháp cần trưng cầu dân ý.
+住民[じゅうみん]投票[とうひょう] | n | TRÚ DÂN ĐẦU PHIẾU | trưng cầu ý kiến cư dân | - | - | 合併[がっぺい]の是非[ぜひ]を住民[じゅうみん]投票[とうひょう]で決[き]めた。 | Việc có sáp nhập hay không được quyết bằng trưng cầu ý kiến cư dân.
+過疎[かそ] | n | QUÁ SƠ | thưa dân | {過疎} 化[か] | suy giảm dân số | 過疎[かそ]化[か]が進[すす]む村[むら]で学校[がっこう]が閉[と]じられた。 | Ngôi trường ở ngôi làng ngày càng thưa dân đã đóng cửa.
+遷都[せんと] | n,v3 | THIÊN ĐÔ | dời đô | - | - | 七九四[ななひゃくきゅうじゅうよ]年[ねん]に京都[きょうと]へ遷都[せんと]された。 | Năm 794 kinh đô được dời về Kyoto.
+引退[いんたい] | n,v3 | DẪN THOÁI | giải nghệ, rút lui | {引退} 試合[じあい] | trận giải nghệ | 彼[かれ]は今季[こんき]限[かぎ]りでの引退[いんたい]を発表[はっぴょう]した。 | Anh tuyên bố giải nghệ sau mùa giải này.
+擁護[ようご] | n,v3 | ỦNG HỘ | bảo vệ, bênh vực | 人権[じんけん] {擁護} | bảo vệ nhân quyền | 彼[かれ]は批判[ひはん]される友人[ゆうじん]を最後[さいご]まで擁護[ようご]した。 | Anh bênh vực người bạn bị chỉ trích đến cùng.
+施政[しせい] | n | THI CHÍNH | thi hành chính sách | {施政}方針[ほうしん] | phương châm thi chính | 首相[しゅしょう]が施政[しせい]方針[ほうしん]演説[えんぜつ]を行[おこな]った。 | Thủ tướng đọc diễn văn phương châm thi chính.
+政務[せいむ] | n | CHÍNH VỤ | chính vụ | {政務}官[かん] | quan chức chính vụ | 大臣[だいじん]が政務[せいむ]に追[お]われている。 | Bộ trưởng bận rộn với chính vụ.
+公務[こうむ] | n | CÔNG VỤ | công vụ | {公務}員[いん] | công chức | 公務[こうむ]で出張[しゅっちょう]することになった。 | Phải đi công tác vì công vụ.
+三権[さんけん] | n | TAM QUYỀN | tam quyền | {三権}分立[ぶんりつ] | tam quyền phân lập | 三権[さんけん]分立[ぶんりつ]は民主[みんしゅ]主義[しゅぎ]の基本[きほん]だ。 | Tam quyền phân lập là nền tảng dân chủ.
+分立[ぶんりつ] | n | PHÂN LẬP | phân lập | {分立}する | phân lập | 権力[けんりょく]が三[みっ]つに分立[ぶんりつ]している。 | Quyền lực được phân lập thành ba.
+採択[さいたく] | n | THẢI TRẠCH | thông qua, chấp thuận | 決議[けつぎ]を{採択}する | thông qua nghị quyết | 国連[こくれん]総会[そうかい]で決議[けつぎ]が採択[さいたく]された。 | Nghị quyết được thông qua tại Đại hội đồng LHQ.
+発布[はっぷ] | n | PHÁT BỐ | ban bố | 憲法[けんぽう]を{発布}する | ban bố hiến pháp | 明治[めいじ]憲法[けんぽう]が発布[はっぷ]された。 | Hiến pháp Minh Trị được ban bố.
+公示[こうじ] | n | CÔNG THỊ | công bố | {公示}する | công bố | 選挙[せんきょ]の公示[こうじ]が行[おこな]われた。 | Công bố cuộc bầu cử.
+告示[こくじ] | n | CÁO THỊ | thông cáo | {告示}を出[だ]す | ra thông cáo | 役所[やくしょ]が告示[こくじ]を掲示[けいじ]した。 | Cơ quan hành chính niêm yết thông cáo.
+内示[ないじ] | n | NỘI THỊ | thông báo nội bộ | {内示}を受[う]ける | nhận thông báo nội bộ | 異動[いどう]の内示[ないじ]を受[う]けた。 | Nhận thông báo nội bộ về điều chuyển.
+通牒[つうちょう] | n | THÔNG ĐIỆP | tối hậu thư, thông điệp | 最後[さいご]{通牒} | tối hậu thư | 最後[さいご]通牒[つうちょう]を突[つ]きつけられた。 | Bị đưa ra tối hậu thư.
+勅令[ちょくれい] | n | SẮC LỆNH | sắc lệnh hoàng đế | {勅令}を発[はっ]する | ban hành sắc lệnh | 天皇[てんのう]が勅令[ちょくれい]を発[はっ]した。 | Thiên hoàng ban hành sắc lệnh.
+行幸[ぎょうこう] | n | HÀNH HẠNH | ngự giá, vua đi thăm | {行幸}される | ngự giá | 天皇[てんのう]陛下[へいか]が被災[ひさい]地[ち]に行幸[ぎょうこう]された。 | Thiên hoàng ngự giá thăm vùng thiên tai.
+叙勲[じょくん] | n | TỰ HUÂN | tặng huân chương | {叙勲}を受[う]ける | được tặng huân chương | 長年[ながねん]の功績[こうせき]で叙勲[じょくん]を受[う]けた。 | Được tặng huân chương nhờ công trạng nhiều năm.
+栄典[えいてん] | n | VINH ĐIỂN | vinh dự, vinh danh | {栄典}を授[さず]ける | trao vinh dự | 国家[こっか]に貢献[こうけん]した人[ひと]に栄典[えいてん]が授[さず]けられる。 | Vinh dự được trao cho người cống hiến cho quốc gia.
+勲章[くんしょう] | n | HUÂN CHƯƠNG | huân chương | {勲章}を授与[じゅよ]する | trao huân chương | 勲章[くんしょう]を胸[むね]に着[つ]けて式典[しきてん]に出[で]た。 | Đeo huân chương trên ngực dự lễ.
+褒章[ほうしょう] | n | BAO CHƯƠNG | bằng khen | {褒章}を受[う]ける | nhận bằng khen | 社会[しゃかい]貢献[こうけん]で褒章[ほうしょう]を受[う]けた。 | Nhận bằng khen vì đóng góp xã hội.
+叙位[じょい] | n | TỰ VỊ | phong tước | {叙位}される | được phong tước | 没後[ぼつご]に叙位[じょい]叙勲[じょくん]された。 | Được phong tước và tặng huân chương sau khi mất.
+追贈[ついぞう] | n | TRUY TẶNG | truy tặng | {追贈}する | truy tặng | 殉職[じゅんしょく]した警官[けいかん]に勲章[くんしょう]が追贈[ついぞう]された。 | Truy tặng huân chương cho cảnh sát hy sinh.
+追悼[ついとう] | n | TRUY ĐIỆU | truy điệu | {追悼}式[しき] | lễ truy điệu | 犠牲者[ぎせいしゃ]の追悼[ついとう]式[しき]が行[おこな]われた。 | Lễ truy điệu các nạn nhân được tổ chức.
+哀悼[あいとう] | n | AI ĐIỆU | ai điệu, thương tiếc | {哀悼}の意[い] | lời chia buồn | 哀悼[あいとう]の意[い]を表[ひょう]する。 | Bày tỏ lời chia buồn.
+顕彰[けんしょう] | n | HIỂN CHƯƠNG | tôn vinh | {顕彰}する | tôn vinh | 偉人[いじん]の功績[こうせき]を顕彰[けんしょう]する記念碑[きねんひ]だ。 | Là bia tưởng niệm tôn vinh công trạng vĩ nhân.
+受章[じゅしょう] | n | THỤ CHƯƠNG | nhận huân chương | {受章}する | nhận huân chương | 文化[ぶんか]勲章[くんしょう]を受章[じゅしょう]した。 | Đã nhận Huân chương Văn hóa.
+受勲[じゅくん] | n | THỤ HUÂN | nhận huân chương | {受勲}する | nhận huân chương | 春[はる]の叙勲[じょくん]で受勲[じゅくん]した。 | Nhận huân chương trong đợt trao huân chương mùa xuân.
+勲功[くんこう] | n | HUÂN CÔNG | huân công | {勲功}を立[た]てる | lập huân công | 戦場[せんじょう]で勲功[くんこう]を立[た]てた。 | Lập huân công trên chiến trường.
+功労[こうろう] | n | CÔNG LAO | công lao | {功労}者[しゃ] | người có công | 功労[こうろう]者[しゃ]として感謝状[かんしゃじょう]を贈[おく]られた。 | Được tặng giấy cảm ơn với tư cách người có công.
+廃立[はいりつ] | n | PHẾ LẬP | phế lập | {廃立}する | phế lập | 権臣[けんしん]が王[おう]を廃立[はいりつ]した。 | Quyền thần phế lập vua.
+践祚[せんそ] | n | TIỄN TỘ | lên ngôi | {践祚}する | lên ngôi | 新[あたら]しい天皇[てんのう]が践祚[せんそ]された。 | Thiên Hoàng mới lên ngôi.
+即位[そくい] | n | TỨC VỊ | đăng quang | {即位}する | đăng quang | 即位[そくい]の礼[れい]が執[と]り行[おこな]われた。 | Lễ đăng quang được tổ chức.
+退位[たいい] | n | THOÁI VỊ | thoái vị | {退位}する | thoái vị | 天皇[てんのう]が退位[たいい]を表明[ひょうめい]された。 | Thiên Hoàng bày tỏ ý thoái vị.
+譲位[じょうい] | n | NHƯỢNG VỊ | nhường ngôi | {譲位}する | nhường ngôi | 父[ちち]から子[こ]へ譲位[じょうい]した。 | Nhường ngôi từ cha sang con.
+篡奪[さんだつ] | n | SOÁN ĐOẠT | soán đoạt | 王位[おうい]を{篡奪}する | soán đoạt vương vị | 将軍[しょうぐん]が王位[おうい]を篡奪[さんだつ]した。 | Tướng quân soán đoạt vương vị.
+制覇[せいは] | n | CHẾ BÁ | bá chủ, chinh phục | {制覇}する | bá chủ | 全国[ぜんこく]大会[たいかい]を制覇[せいは]した。 | Chinh phục giải toàn quốc.
+征服[せいふく] | n | CHINH PHỤC | chinh phục | {征服}する | chinh phục | モンゴル帝国[ていこく]はユーラシアを征服[せいふく]した。 | Đế quốc Mông Cổ chinh phục Á-Âu.
+進攻[しんこう] | n | TIẾN CÔNG | tiến công | {進攻}する | tiến công | 敵陣[てきじん]に進攻[しんこう]を開始[かいし]した。 | Bắt đầu tiến công trận địa đối phương.
+制圧[せいあつ] | n | CHẾ ÁP | trấn áp | {制圧}する | trấn áp | 反乱[はんらん]軍[ぐん]を制圧[せいあつ]した。 | Trấn áp quân nổi loạn.
+鎮圧[ちんあつ] | n | TRẤN ÁP | đàn áp | {鎮圧}する | đàn áp | 暴動[ぼうどう]を鎮圧[ちんあつ]するために軍[ぐん]が出動[しゅつどう]した。 | Quân đội xuất động để đàn áp bạo động.
+暴政[ぼうせい] | n | BẠO CHÍNH | bạo chính | {暴政}を敷[し]く | áp đặt bạo chính | 暴政[ぼうせい]に苦[くる]しむ民衆[みんしゅう]が立[た]ち上[あ]がった。 | Dân chúng khổ sở dưới bạo chính đứng lên.
+仁政[じんせい] | n | NHÂN CHÍNH | nhân chính | {仁政}を行[おこな]う | thi hành nhân chính | 仁政[じんせい]を行[おこな]って民[たみ]を安[やす]んじた。 | Thi hành nhân chính để an dân.
+徳政[とくせい] | n | ĐỨC CHÍNH | đức chính | {徳政}令[れい] | lệnh đức chính | 徳政[とくせい]令[れい]で借金[しゃっきん]が帳消[ちょうけ]しになった。 | Nợ được xóa bỏ nhờ lệnh đức chính.
+威光[いこう] | n | UY QUANG | uy quang | {威光}を放[はな]つ | tỏa uy quang | 将軍[しょうぐん]の威光[いこう]は全国[ぜんこく]に及[およ]んだ。 | Uy quang của Tướng quân lan tỏa khắp cả nước.

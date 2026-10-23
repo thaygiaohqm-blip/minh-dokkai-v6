@@ -1,0 +1,197 @@
+@topic thuc-pham
+@ja 食品製造[しょくひんせいぞう]
+@vi Chế biến thực phẩm
+@desc Vệ sinh an toàn, trang phục, dây chuyền, nhiệt độ, kiểm tra chất lượng và các thao tác chế biến trong nhà máy thực phẩm.
+食品[しょくひん] | n | THỰC PHẨM | thực phẩm | {食品[しょくひん]} 工場[こうじょう] | nhà máy thực phẩm | 私[わたし]は食品[しょくひん]工場[こうじょう]で働[はたら]いています。 | Tôi làm việc ở nhà máy thực phẩm.
+製造[せいぞう] | n,v3 | CHẾ TẠO | sản xuất, chế tạo | {製造[せいぞう]} ライン | dây chuyền sản xuất | 製造[せいぞう]ラインは朝[あさ]八[はち]時[じ]に動[うご]き始[はじ]めます。 | Dây chuyền sản xuất bắt đầu chạy lúc tám giờ sáng.
+ライン | n | - | dây chuyền | ライン を 止[と]める | dừng dây chuyền | 異常[いじょう]があったら、すぐラインを止[と]めてください。 | Có bất thường thì dừng dây chuyền ngay.
+衛生[えいせい] | n | VỆ SINH | vệ sinh | {衛生[えいせい]} 管理[かんり] | quản lý vệ sinh | 食品[しょくひん]工場[こうじょう]では衛生[えいせい]管理[かんり]が一番[いちばん]大切[たいせつ]です。 | Ở nhà máy thực phẩm, quản lý vệ sinh là quan trọng nhất.
+管理[かんり] | n,v3 | QUẢN LÝ | quản lý | 温度[おんど] を {管理[かんり]} する | quản lý nhiệt độ | 冷蔵庫[れいぞうこ]の温度[おんど]を毎日[まいにち]管理[かんり]します。 | Nhiệt độ tủ lạnh được quản lý hằng ngày.
+手洗[てあら]い | n | THỦ TẨY | rửa tay | 手洗[てあら]い を 徹底[てってい] する | rửa tay triệt để | 作業[さぎょう]の前[まえ]に手洗[てあら]いを徹底[てってい]してください。 | Trước khi làm việc phải rửa tay triệt để.
+徹底[てってい] | n,v3 | TRIỆT ĐỂ | triệt để | - | - | ルールを全員[ぜんいん]に徹底[てってい]させます。 | Bắt mọi người thực hiện quy tắc triệt để.
+消毒[しょうどく] | n,v3 | TIÊU ĐỘC | khử trùng | 手[て] を {消毒[しょうどく]} する | khử trùng tay | 入室[にゅうしつ]前[まえ]にアルコールで手[て]を消毒[しょうどく]します。 | Trước khi vào phòng khử trùng tay bằng cồn.
+アルコール | n | - | cồn | アルコール を 吹[ふ]き付[つ]ける | xịt cồn | 台[だい]の上[うえ]にアルコールを吹[ふ]き付[つ]けて拭[ふ]きます。 | Xịt cồn lên mặt bàn rồi lau.
+除菌[じょきん] | n,v3 | TRỪ KHUẨN | diệt khuẩn | - | - | 包丁[ほうちょう]とまな板[いた]は使用[しよう]後[ご]に除菌[じょきん]します。 | Dao và thớt được diệt khuẩn sau khi dùng.
+殺菌[さっきん] | n,v3 | SÁT KHUẨN | sát trùng, tiệt trùng | 熱湯[ねっとう] で {殺菌[さっきん]} する | tiệt trùng bằng nước sôi | 容器[ようき]を熱湯[ねっとう]で殺菌[さっきん]します。 | Tiệt trùng hộp đựng bằng nước sôi.
+細菌[さいきん] | n | TẾ KHUẨN | vi khuẩn | 細菌[さいきん] が 増[ふ]える | vi khuẩn sinh sôi | 温度[おんど]が高[たか]いと細菌[さいきん]が増[ふ]えます。 | Nhiệt độ cao thì vi khuẩn sinh sôi.
+食中毒[しょくちゅうどく] | n | THỰC TRÚNG ĐỘC | ngộ độc thực phẩm | 食中毒[しょくちゅうどく] を 防[ふせ]ぐ | phòng ngộ độc thực phẩm | 食中毒[しょくちゅうどく]を防[ふせ]ぐために、加熱[かねつ]を十分[じゅうぶん]にします。 | Để phòng ngộ độc, phải gia nhiệt đầy đủ.
+防[ふせ]ぐ | v1 | PHÒNG | phòng ngừa, ngăn | 事故[じこ] を 防[ふせ]ぐ | phòng tai nạn | ルールを守[まも]って事故[じこ]を防[ふせ]ぎましょう。 | Hãy tuân thủ quy tắc để phòng tai nạn.
+作業着[さぎょうぎ] | n | TÁC NGHIỆP TRƯỚC | quần áo bảo hộ | 作業着[さぎょうぎ] に 着替[きが]える | thay đồ bảo hộ | 更衣室[こういしつ]で作業着[さぎょうぎ]に着替[きが]えます。 | Thay đồ bảo hộ ở phòng thay đồ.
+白衣[はくい] | n | BẠCH Y | áo blouse trắng | - | - | 工場[こうじょう]に入[はい]る前[まえ]に白衣[はくい]を着[き]ます。 | Mặc áo blouse trắng trước khi vào nhà máy.
+更衣室[こういしつ] | n | CANH Y THẤT | phòng thay đồ | - | - | 私物[しぶつ]は更衣室[こういしつ]のロッカーに入[い]れてください。 | Đồ cá nhân hãy để trong tủ ở phòng thay đồ.
+エプロン | n | - | tạp dề | - | - | 盛[も]り付[つ]けの時[とき]はエプロンをつけます。 | Khi bày đồ ăn thì đeo tạp dề.
+手袋[てぶくろ] | n | THỦ ĐẠI | găng tay | 手袋[てぶくろ] を はめる | đeo găng tay | 食品[しょくひん]に触[さわ]る時[とき]は手袋[てぶくろ]をはめます。 | Khi chạm vào thực phẩm phải đeo găng tay.
+長靴[ながぐつ] | n | TRƯỜNG NGOA | ủng | - | - | 床[ゆか]が濡[ぬ]れているので、長靴[ながぐつ]を履[は]きます。 | Sàn ướt nên phải đi ủng.
+髪[かみ]の毛[け] | n | PHÁT MAO | sợi tóc | 髪[かみ]の毛[け] が 入[はい]る | tóc lẫn vào | 製品[せいひん]に髪[かみ]の毛[け]が入[はい]らないように注意[ちゅうい]します。 | Chú ý để tóc không lẫn vào sản phẩm.
+ローラー | n | - | con lăn bụi | ローラー を かける | lăn bụi | 入室[にゅうしつ]前[まえ]に全身[ぜんしん]にローラーをかけます。 | Lăn bụi toàn thân trước khi vào phòng.
+エアシャワー | n | - | buồng thổi khí | エアシャワー を 浴[あ]びる | qua buồng thổi khí | エアシャワーを浴[あ]びてから作業場[さぎょうば]に入[はい]ります。 | Qua buồng thổi khí rồi mới vào xưởng.
+作業場[さぎょうば] | n | TÁC NGHIỆP TRƯỜNG | khu làm việc, xưởng | - | - | 作業場[さぎょうば]では私語[しご]をしないでください。 | Trong xưởng không nói chuyện riêng.
+異物[いぶつ] | n | DỊ VẬT | dị vật | {異物[いぶつ]} 混入[こんにゅう] | lẫn dị vật | 異物[いぶつ]混入[こんにゅう]は大[おお]きな問題[もんだい]になります。 | Lẫn dị vật là vấn đề nghiêm trọng.
+混入[こんにゅう] | n,v3 | HỖN NHẬP | lẫn vào | - | - | プラスチックの破片[はへん]が混入[こんにゅう]していました。 | Đã có mảnh nhựa lẫn vào.
+金属探知機[きんぞくたんちき] | n | KIM THUỘC THÁM TRI CƠ | máy dò kim loại | 金属探知機[きんぞくたんちき] に 通[とお]す | cho qua máy dò kim loại | 全部[ぜんぶ]の製品[せいひん]を金属探知機[きんぞくたんちき]に通[とお]します。 | Mọi sản phẩm đều cho qua máy dò kim loại.
+検品[けんぴん] | n,v3 | KIỂM PHẨM | kiểm hàng | - | - | 出荷[しゅっか]前[まえ]に検品[けんぴん]をします。 | Kiểm hàng trước khi xuất.
+出荷[しゅっか] | n,v3 | XUẤT HÀ | xuất hàng | - | - | 今日[きょう]は三[さん]時[じ]までに出荷[しゅっか]しなければなりません。 | Hôm nay phải xuất hàng trước ba giờ.
+入荷[にゅうか] | n,v3 | NHẬP HÀ | nhập hàng | - | - | 朝[あさ]、原料[げんりょう]が入荷[にゅうか]します。 | Buổi sáng nguyên liệu được nhập về.
+原料[げんりょう] | n | NGUYÊN LIỆU | nguyên liệu thô | - | - | 原料[げんりょう]の産地[さんち]を確認[かくにん]します。 | Kiểm tra nơi sản xuất của nguyên liệu.
+原材料[げんざいりょう] | n | NGUYÊN TÀI LIỆU | nguyên vật liệu | - | - | ラベルに原材料[げんざいりょう]が書[か]いてあります。 | Trên nhãn có ghi nguyên vật liệu.
+添加物[てんかぶつ] | n | THIÊM GIA VẬT | chất phụ gia | - | - | この商品[しょうひん]は添加物[てんかぶつ]を使[つか]っていません。 | Sản phẩm này không dùng chất phụ gia.
+アレルゲン | n | - | chất gây dị ứng | - | - | アレルゲンの表示[ひょうじ]を必[かなら]ず確認[かくにん]してください。 | Nhất định phải kiểm tra phần ghi chất gây dị ứng.
+表示[ひょうじ] | n,v3 | BIỂU THỊ | ghi nhãn, hiển thị | 表示[ひょうじ] を 確認[かくにん] する | kiểm tra nhãn | 箱[はこ]の表示[ひょうじ]が正[ただ]しいか確認[かくにん]します。 | Kiểm tra nhãn trên hộp có đúng không.
+ラベル | n | - | nhãn | ラベル を 貼[は]る | dán nhãn | 袋[ふくろ]にラベルを貼[は]ってください。 | Hãy dán nhãn lên túi.
+貼[は]る | v1 | THIẾP | dán | - | - | シールはまっすぐに貼[は]ってください。 | Hãy dán tem cho thẳng.
+消費期限[しょうひきげん] | n | TIÊU PHÍ KỲ HẠN | hạn sử dụng (an toàn) | - | - | お弁当[べんとう]には消費期限[しょうひきげん]が表示[ひょうじ]されています。 | Trên cơm hộp có ghi hạn sử dụng.
+製造日[せいぞうび] | n | CHẾ TẠO NHẬT | ngày sản xuất | - | - | 製造日[せいぞうび]の印字[いんじ]がかすれていないか見[み]ます。 | Xem chữ in ngày sản xuất có bị mờ không.
+印字[いんじ] | n,v3 | ẤN TỰ | in chữ | - | - | 印字[いんじ]がずれていたら、機械[きかい]を止[と]めてください。 | Nếu chữ in bị lệch thì dừng máy.
+ロット | n | - | lô hàng | ロット 番号[ばんごう] | số lô | 不良[ふりょう]が出[で]たロット番号[ばんごう]を記録[きろく]します。 | Ghi lại số lô xuất hiện hàng lỗi.
+計量[けいりょう] | n,v3 | KẾ LƯỢNG | cân đo | - | - | 材料[ざいりょう]を正確[せいかく]に計量[けいりょう]します。 | Cân nguyên liệu chính xác.
+計[はか]る | v1 | KẾ | đo, cân | 重[おも]さ を 計[はか]る | cân trọng lượng | 一[ひと]つずつ重[おも]さを計[はか]ってください。 | Hãy cân từng cái một.
+はかり | n | - | cái cân | はかり に のせる | đặt lên cân | 肉[にく]をはかりにのせてください。 | Hãy đặt thịt lên cân.
+グラム | ctr | - | gam | - | - | 一[ひと]つのおにぎりは百[ひゃく]グラムです。 | Mỗi nắm cơm nặng một trăm gam.
+重量[じゅうりょう] | n | TRỌNG LƯỢNG | trọng lượng | 重量[じゅうりょう] が 足[た]りない | thiếu trọng lượng | 重量[じゅうりょう]が足[た]りない製品[せいひん]は取[と]り除[のぞ]きます。 | Sản phẩm thiếu trọng lượng thì loại ra.
+取[と]り除[のぞ]く | v1 | THỦ TRỪ | loại bỏ | 不良品[ふりょうひん] を 取[と]り除[のぞ]く | loại bỏ hàng lỗi | ラインから不良品[ふりょうひん]を取[と]り除[のぞ]きます。 | Loại bỏ hàng lỗi khỏi dây chuyền.
+不良品[ふりょうひん] | n | BẤT LƯƠNG PHẨM | hàng lỗi | 不良品[ふりょうひん] が 出[で]る | xuất hiện hàng lỗi | 不良品[ふりょうひん]が出[で]たら、班長[はんちょう]に報告[ほうこく]します。 | Có hàng lỗi thì báo cho tổ trưởng.
+班長[はんちょう] | n | BAN TRƯỞNG | tổ trưởng | - | - | 分[わ]からないことは班長[はんちょう]に聞[き]いてください。 | Điều gì chưa rõ hãy hỏi tổ trưởng.
+品質管理[ひんしつかんり] | n | PHẨM CHẤT QUẢN LÝ | quản lý chất lượng | - | - | 品質管理[ひんしつかんり]の担当者[たんとうしゃ]が毎日[まいにち]チェックします。 | Người phụ trách quản lý chất lượng kiểm tra mỗi ngày.
+規格[きかく] | n | QUY CÁCH | tiêu chuẩn, quy cách | 規格[きかく] に 合[あ]う | đạt tiêu chuẩn | 規格[きかく]に合[あ]わない商品[しょうひん]は出荷[しゅっか]できません。 | Hàng không đạt tiêu chuẩn thì không được xuất.
+基準[きじゅん] | n | CƠ CHUẨN | tiêu chuẩn, mức chuẩn | 基準[きじゅん] を 満[み]たす | đáp ứng tiêu chuẩn | 温度[おんど]が基準[きじゅん]を満[み]たしているか確認[かくにん]します。 | Kiểm tra nhiệt độ có đạt mức chuẩn không.
+加熱[かねつ] | n,v3 | GIA NHIỆT | gia nhiệt, nấu chín | 十分[じゅうぶん] に {加熱[かねつ]} する | nấu chín kỹ | 鶏肉[とりにく]は中[なか]まで十分[じゅうぶん]に加熱[かねつ]してください。 | Thịt gà phải nấu chín kỹ đến bên trong.
+中心温度[ちゅうしんおんど] | n | TRUNG TÂM ÔN ĐỘ | nhiệt độ tâm sản phẩm | 中心温度[ちゅうしんおんど] を 測[はか]る | đo nhiệt độ tâm | 揚[あ]げた後[あと]、中心温度[ちゅうしんおんど]を測[はか]って記録[きろく]します。 | Sau khi chiên, đo nhiệt độ tâm và ghi lại.
+冷却[れいきゃく] | n,v3 | LÃNH KHƯỚC | làm lạnh | 急速[きゅうそく] {冷却[れいきゃく]} | làm lạnh nhanh | 加熱[かねつ]後[ご]はすぐに急速[きゅうそく]冷却[れいきゃく]します。 | Sau khi gia nhiệt thì làm lạnh nhanh ngay.
+冷[さ]ます | v1 | LÃNH | để nguội | - | - | ご飯[はん]を少[すこ]し冷[さ]ましてから詰[つ]めます。 | Để cơm nguội bớt rồi mới đóng hộp.
+冷蔵[れいぞう] | n,v3 | LÃNH TÀNG | bảo quản lạnh | {冷蔵[れいぞう]} 保存[ほぞん] | bảo quản lạnh | この商品[しょうひん]は冷蔵[れいぞう]保存[ほぞん]です。 | Sản phẩm này bảo quản lạnh.
+保存[ほぞん] | n,v3 | BẢO TỒN | bảo quản, lưu giữ | - | - | 開封[かいふう]後[ご]は冷蔵庫[れいぞうこ]で保存[ほぞん]してください。 | Sau khi mở hãy bảo quản trong tủ lạnh.
+保管[ほかん] | n,v3 | BẢO QUẢN | cất giữ | 倉庫[そうこ] に {保管[ほかん]} する | cất trong kho | 原料[げんりょう]は決[き]められた倉庫[そうこ]に保管[ほかん]します。 | Nguyên liệu được cất ở kho quy định.
+常温[じょうおん] | n | THƯỜNG ÔN | nhiệt độ thường | - | - | この調味料[ちょうみりょう]は常温[じょうおん]で保存[ほぞん]できます。 | Gia vị này bảo quản được ở nhiệt độ thường.
+解凍[かいとう] | n,v3 | GIẢI ĐÔNG | rã đông | - | - | 冷凍[れいとう]の肉[にく]を冷蔵庫[れいぞうこ]で解凍[かいとう]します。 | Rã đông thịt đông lạnh trong tủ mát.
+鮮度[せんど] | n | TIÊN ĐỘ | độ tươi | 鮮度[せんど] が 落[お]ちる | giảm độ tươi | 魚[さかな]は時間[じかん]がたつと鮮度[せんど]が落[お]ちます。 | Cá để lâu thì giảm độ tươi.
+傷[いた]む | v1 | THƯƠNG | bị dập, hư | 野菜[やさい] が 傷[いた]む | rau bị dập | 傷[いた]んだ野菜[やさい]は使[つか]わないでください。 | Đừng dùng rau bị dập hỏng.
+変色[へんしょく] | n,v3 | BIẾN SẮC | đổi màu | - | - | 変色[へんしょく]した部分[ぶぶん]は取[と]り除[のぞ]きます。 | Phần bị đổi màu thì loại bỏ.
+臭[にお]い | n | XÚ | mùi (khó chịu) | 変[へん] な 臭[にお]い | mùi lạ | 変[へん]な臭[にお]いがしたら、すぐ報告[ほうこく]してください。 | Nếu có mùi lạ hãy báo ngay.
+点検[てんけん] | n,v3 | ĐIỂM KIỂM | kiểm tra (định kỳ) | 機械[きかい] を {点検[てんけん]} する | kiểm tra máy | 始業[しぎょう]前[まえ]に機械[きかい]を点検[てんけん]します。 | Kiểm tra máy trước giờ làm.
+清掃[せいそう] | n,v3 | THANH TẢO | vệ sinh, quét dọn | - | - | 作業[さぎょう]が終[お]わったら、ラインを清掃[せいそう]します。 | Làm xong thì vệ sinh dây chuyền.
+洗浄[せんじょう] | n,v3 | TẨY TỊNH | rửa sạch | 器具[きぐ] を {洗浄[せんじょう]} する | rửa dụng cụ | 使[つか]った器具[きぐ]は洗剤[せんざい]で洗浄[せんじょう]します。 | Dụng cụ đã dùng được rửa bằng chất tẩy.
+すすぐ | v1 | - | tráng (nước) | 水[みず] で すすぐ | tráng nước | 洗剤[せんざい]で洗[あら]った後[あと]、水[みず]でよくすすぎます。 | Rửa bằng chất tẩy xong thì tráng nước kỹ.
+器具[きぐ] | n | KHÍ CỤ | dụng cụ | - | - | 器具[きぐ]は決[き]められた場所[ばしょ]に戻[もど]してください。 | Hãy trả dụng cụ về đúng chỗ.
+容器[ようき] | n | DUNG KHÍ | hộp đựng | 容器[ようき] に 詰[つ]める | cho vào hộp | サラダを容器[ようき]に詰[つ]めます。 | Cho salad vào hộp.
+詰[つ]める | v2 | CẬT | nhồi, xếp vào | 箱[はこ] に 詰[つ]める | xếp vào thùng | 製品[せいひん]を一箱[ひとはこ]に二十[にじゅう]個[こ]詰[つ]めます。 | Xếp hai mươi sản phẩm vào mỗi thùng.
+蓋[ふた] | n | CÁI | nắp | 蓋[ふた] を 閉[し]める | đóng nắp | 容器[ようき]の蓋[ふた]をしっかり閉[し]めてください。 | Hãy đóng chặt nắp hộp.
+トレー | n | - | khay | トレー に 並[なら]べる | xếp lên khay | 切[き]った肉[にく]をトレーに並[なら]べます。 | Xếp thịt đã thái lên khay.
+ボウル | n | - | âu, bát trộn | - | - | 材料[ざいりょう]をボウルに入[い]れて混[ま]ぜます。 | Cho nguyên liệu vào âu rồi trộn.
+盛[も]り付[つ]け | n,v3 | THỊNH PHÓ | bày món | - | - | 盛[も]り付[つ]けは見本[みほん]と同[おな]じようにしてください。 | Hãy bày món giống như mẫu.
+見本[みほん] | n | KIẾN BẢN | hàng mẫu | 見本[みほん] を 見[み]る | xem mẫu | 見本[みほん]を見[み]ながら作業[さぎょう]してください。 | Vừa xem mẫu vừa làm.
+手順[てじゅん] | n | THỦ THUẬN | trình tự, quy trình | 手順[てじゅん] を 守[まも]る | làm đúng quy trình | 手順[てじゅん]を守[まも]らないと、事故[じこ]が起[お]きます。 | Không làm đúng quy trình thì sẽ có tai nạn.
+マニュアル | n | - | sổ tay hướng dẫn | - | - | わからない時[とき]はマニュアルを見[み]てください。 | Khi không biết hãy xem sổ tay hướng dẫn.
+投入[とうにゅう] | n,v3 | ĐẦU NHẬP | cho vào (máy) | 材料[ざいりょう] を {投入[とうにゅう]} する | cho nguyên liệu vào | 機械[きかい]に材料[ざいりょう]を投入[とうにゅう]します。 | Cho nguyên liệu vào máy.
+ベルトコンベア | n | - | băng chuyền | - | - | ベルトコンベアに手[て]を近[ちか]づけないでください。 | Đừng đưa tay lại gần băng chuyền.
+設備[せつび] | n | THIẾT BỊ | thiết bị | - | - | 新[あたら]しい設備[せつび]の使[つか]い方[かた]を習[なら]いました。 | Tôi đã học cách dùng thiết bị mới.
+包装機[ほうそうき] | n | BAO TRANG CƠ | máy đóng gói | - | - | 包装機[ほうそうき]にフィルムをセットします。 | Lắp màng bọc vào máy đóng gói.
+真空[しんくう] | n | CHÂN KHÔNG | chân không | {真空[しんくう]} パック | đóng gói chân không | 肉[にく]を真空[しんくう]パックにします。 | Đóng gói chân không thịt.
+袋詰[ふくろづ]め | n,v3 | ĐẠI CẬT | đóng túi | - | - | パンを一[ひと]つずつ袋詰[ふくろづ]めします。 | Đóng túi từng chiếc bánh mì.
+箱詰[はこづ]め | n,v3 | TƯƠNG CẬT | đóng thùng | - | - | 箱詰[はこづ]めが終[お]わったら、テープで閉[と]じます。 | Đóng thùng xong thì dán băng keo.
+梱包[こんぽう] | n,v3 | KHỔN BAO | đóng gói hàng | - | - | 割[わ]れないように丁寧[ていねい]に梱包[こんぽう]します。 | Đóng gói cẩn thận để không bị vỡ.
+生地[きじ] | n | SINH ĐỊA | bột nhào; vải | 生地[きじ] を こねる | nhào bột | パンの生地[きじ]を十[じゅう]分[ぷん]こねます。 | Nhào bột bánh mì mười phút.
+こねる | v2 | - | nhào | - | - | 手[て]でよくこねてください。 | Hãy nhào kỹ bằng tay.
+発酵[はっこう] | n,v3 | PHÁT DIẾU | lên men | - | - | 生地[きじ]を一[いち]時間[じかん]発酵[はっこう]させます。 | Ủ bột lên men một tiếng.
+成形[せいけい] | n,v3 | THÀNH HÌNH | tạo hình | - | - | 生地[きじ]を丸[まる]く成形[せいけい]します。 | Tạo hình bột thành viên tròn.
+惣菜[そうざい] | n | TỔNG THÁI | món ăn sẵn | - | - | スーパーで売[う]る惣菜[そうざい]を作[つく]っています。 | Tôi làm các món ăn sẵn bán ở siêu thị.
+下処理[したしょり] | n,v3 | HẠ XỬ LÝ | sơ chế | 野菜[やさい] の {下処理[したしょり]} | sơ chế rau | 朝[あさ]は野菜[やさい]の下処理[したしょり]から始[はじ]めます。 | Buổi sáng bắt đầu từ việc sơ chế rau.
+切[き]り身[み] | n | THIẾT THÂN | lát cá, khúc cá | - | - | 魚[さかな]を同[おな]じ大[おお]きさの切[き]り身[み]にします。 | Cắt cá thành các khúc bằng nhau.
+骨抜[ほねぬ]き | n,v3 | CỐT BẠT | rút xương | - | - | ピンセットで骨抜[ほねぬ]きをします。 | Rút xương bằng nhíp.
+内臓[ないぞう] | n | NỘI TẠNG | nội tạng | 内臓[ないぞう] を 取[と]る | bỏ nội tạng | 魚[さかな]の内臓[ないぞう]を取[と]ってから洗[あら]います。 | Bỏ nội tạng cá rồi mới rửa.
+鱗[うろこ] | n | LÂN | vảy cá | - | - | 包丁[ほうちょう]の背[せ]で鱗[うろこ]を取[と]ります。 | Dùng sống dao đánh vảy cá.
+精肉[せいにく] | n | TINH NHỤC | thịt đã sơ chế | - | - | 精肉[せいにく]の部署[ぶしょ]で働[はたら]いています。 | Tôi làm ở bộ phận thịt.
+脂[あぶら] | n | CHI | mỡ | 脂[あぶら] を 取[と]り除[のぞ]く | lọc bỏ mỡ | 余分[よぶん]な脂[あぶら]を取[と]り除[のぞ]きます。 | Lọc bỏ phần mỡ thừa.
+筋[すじ] | n | CÂN | gân | 筋[すじ] を 切[き]る | cắt gân | 肉[にく]が硬[かた]くならないように筋[すじ]を切[き]ります。 | Cắt gân để thịt không bị dai.
+解体[かいたい] | n,v3 | GIẢI THỂ | xẻ thịt; tháo dỡ | - | - | 大[おお]きな魚[さかな]を解体[かいたい]します。 | Xẻ con cá lớn.
+揚[あ]げ物[もの] | n | DƯƠNG VẬT | đồ chiên | - | - | 揚[あ]げ物[もの]のラインは油[あぶら]がはねるので注意[ちゅうい]してください。 | Dây chuyền đồ chiên dầu bắn nên cần chú ý.
+はねる | v2 | - | bắn tung (dầu, nước) | 油[あぶら] が はねる | dầu bắn | 水[みず]が入[はい]ると油[あぶら]がはねます。 | Nước lọt vào thì dầu bắn.
+焼[や]き色[いろ] | n | THIÊU SẮC | màu nướng | 焼[や]き色[いろ] を つける | nướng cho vàng | 表面[ひょうめん]に焼[や]き色[いろ]をつけます。 | Nướng cho bề mặt vàng.
+焦[こ]げ | n | TIÊU | phần cháy | - | - | 焦[こ]げがある製品[せいひん]は取[と]り除[のぞ]きます。 | Sản phẩm bị cháy thì loại ra.
+タイマー | n | - | đồng hồ hẹn giờ | タイマー を セット する | cài hẹn giờ | 揚[あ]げる時間[じかん]をタイマーでセットします。 | Cài hẹn giờ thời gian chiên.
+温度計[おんどけい] | n | ÔN ĐỘ KẾ | nhiệt kế | - | - | 温度計[おんどけい]を差[さ]して温度[おんど]を確認[かくにん]します。 | Cắm nhiệt kế để kiểm tra nhiệt độ.
+チェック表[ひょう] | n | BIỂU | bảng kiểm tra | - | - | チェック表[ひょう]にサインしてください。 | Hãy ký vào bảng kiểm tra.
+日報[にっぽう] | n | NHẬT BÁO | báo cáo ngày | 日報[にっぽう] を 書[か]く | viết báo cáo ngày | 仕事[しごと]の終[お]わりに日報[にっぽう]を書[か]きます。 | Cuối giờ làm viết báo cáo ngày.
+始業[しぎょう] | n,v3 | THỦY NGHIỆP | bắt đầu ca làm | {始業[しぎょう]} 前[まえ] | trước giờ làm | 始業[しぎょう]前[まえ]に健康[けんこう]チェックをします。 | Kiểm tra sức khỏe trước giờ làm.
+終業[しゅうぎょう] | n,v3 | CHUNG NGHIỆP | kết thúc ca làm | - | - | 終業[しゅうぎょう]後[ご]は全員[ぜんいん]で清掃[せいそう]します。 | Hết ca thì mọi người cùng dọn vệ sinh.
+朝礼[ちょうれい] | n | TRIỀU LỄ | họp đầu buổi sáng | 朝礼[ちょうれい] に 出[で]る | dự buổi họp sáng | 毎朝[まいあさ]八[はち]時[じ]から朝礼[ちょうれい]があります。 | Mỗi sáng có buổi họp lúc tám giờ.
+健康[けんこう]チェック | n | KIỆN KHANG | kiểm tra sức khỏe | - | - | 熱[ねつ]や下痢[げり]がないか、健康[けんこう]チェックをします。 | Kiểm tra sức khỏe xem có sốt hay tiêu chảy không.
+体調不良[たいちょうふりょう] | n | THỂ ĐIỀU BẤT LƯƠNG | không khỏe | - | - | 体調不良[たいちょうふりょう]の時[とき]は作業[さぎょう]に入[はい]らないでください。 | Khi không khỏe thì đừng vào làm.
+下痢[げり] | n,v3 | HẠ LỴ | tiêu chảy | - | - | 下痢[げり]をしている人[ひと]は食品[しょくひん]に触[さわ]れません。 | Người bị tiêu chảy không được chạm vào thực phẩm.
+嘔吐[おうと] | n,v3 | ẨU THỔ | nôn mửa | - | - | 嘔吐[おうと]した時[とき]はすぐに上司[じょうし]に連絡[れんらく]してください。 | Khi bị nôn hãy liên lạc ngay với cấp trên.
+検便[けんべん] | n | KIỂM TIỆN | xét nghiệm phân | - | - | 毎月[まいつき]検便[けんべん]を提出[ていしゅつ]します。 | Mỗi tháng phải nộp mẫu xét nghiệm phân.
+私物[しぶつ] | n | TƯ VẬT | đồ cá nhân | {私物[しぶつ]} 持[も]ち込[こ]み 禁止[きんし] | cấm mang đồ cá nhân vào | 作業場[さぎょうば]は私物[しぶつ]持[も]ち込[こ]み禁止[きんし]です。 | Xưởng cấm mang đồ cá nhân vào.
+持[も]ち込[こ]む | v1 | TRÌ VÀO | mang vào | - | - | 携帯[けいたい]を作業場[さぎょうば]に持[も]ち込[こ]まないでください。 | Đừng mang điện thoại vào xưởng.
+爪[つめ] | n | TRẢO | móng tay | 爪[つめ] を 切[き]る | cắt móng tay | 爪[つめ]は短[みじか]く切[き]っておいてください。 | Hãy cắt móng tay ngắn.
+指輪[ゆびわ] | n | CHỈ LUÂN | nhẫn | 指輪[ゆびわ] を 外[はず]す | tháo nhẫn | 作業[さぎょう]中[ちゅう]は指輪[ゆびわ]を外[はず]してください。 | Khi làm việc hãy tháo nhẫn ra.
+外[はず]す | v1 | NGOẠI | tháo ra | - | - | 腕時計[うでどけい]も外[はず]してください。 | Đồng hồ đeo tay cũng hãy tháo ra.
+化粧[けしょう] | n,v3 | HÓA TRANG | trang điểm | - | - | 濃[こ]い化粧[けしょう]や香水[こうすい]は禁止[きんし]です。 | Cấm trang điểm đậm và dùng nước hoa.
+異常[いじょう] | n,adj-na | DỊ THƯỜNG | bất thường | 異常[いじょう] が ある | có bất thường | 機械[きかい]に異常[いじょう]があれば、すぐ止[と]めてください。 | Máy có bất thường thì dừng ngay.
+停止[ていし] | n,v3 | ĐÌNH CHỈ | dừng | - | - | ラインが停止[ていし]したら、班長[はんちょう]を呼[よ]んでください。 | Dây chuyền dừng thì gọi tổ trưởng.
+再開[さいかい] | n,v3 | TÁI KHAI | khởi động lại, tiếp tục | 作業[さぎょう] を {再開[さいかい]} する | làm tiếp | 点検[てんけん]が終[お]わってから作業[さぎょう]を再開[さいかい]します。 | Kiểm tra xong mới làm tiếp.
+稼働[かどう] | n,v3 | GIÁ ĐỘNG | vận hành (máy) | - | - | この機械[きかい]は二十四[にじゅうよ]時間[じかん]稼働[かどう]しています。 | Máy này vận hành 24 giờ.
+電源[でんげん] | n | ĐIỆN NGUYÊN | nguồn điện | 電源[でんげん] を 切[き]る | ngắt nguồn | 掃除[そうじ]の前[まえ]に必[かなら]ず電源[でんげん]を切[き]ってください。 | Trước khi vệ sinh nhất định phải ngắt nguồn.
+非常停止[ひじょうていし]ボタン | n | PHI THƯỜNG ĐÌNH CHỈ | nút dừng khẩn cấp | - | - | 危[あぶ]ない時[とき]は非常停止[ひじょうていし]ボタンを押[お]してください。 | Lúc nguy hiểm hãy nhấn nút dừng khẩn cấp.
+挟[はさ]まれる | v2 | HIỆP | bị kẹp | 指[ゆび] が 挟[はさ]まれる | bị kẹp ngón tay | 機械[きかい]に指[ゆび]が挟[はさ]まれないよう注意[ちゅうい]してください。 | Cẩn thận không để ngón tay bị kẹp vào máy.
+巻[ま]き込[こ]まれる | v2 | QUYỂN VÀO | bị cuốn vào | - | - | 袖[そで]が機械[きかい]に巻[ま]き込[こ]まれると危険[きけん]です。 | Tay áo bị cuốn vào máy thì rất nguy hiểm.
+滑[すべ]る | v1 | HOẠT | trơn trượt | 床[ゆか] が 滑[すべ]る | sàn trơn | 床[ゆか]が滑[すべ]るので、走[はし]らないでください。 | Sàn trơn nên đừng chạy.
+転倒[てんとう] | n,v3 | CHUYỂN ĐẢO | té ngã | - | - | 濡[ぬ]れた床[ゆか]で転倒[てんとう]しないように注意[ちゅうい]しましょう。 | Cẩn thận để không té ngã trên sàn ướt.
+切[き]り傷[きず] | n | THIẾT THƯƠNG | vết đứt | - | - | 包丁[ほうちょう]で切[き]り傷[きず]を作[つく]ってしまいました。 | Tôi lỡ bị dao cắt đứt tay.
+救急箱[きゅうきゅうばこ] | n | CỨU CẤP TƯƠNG | hộp sơ cứu | - | - | 救急箱[きゅうきゅうばこ]は事務所[じむしょ]にあります。 | Hộp sơ cứu ở văn phòng.
+応急処置[おうきゅうしょち] | n | ỨNG CẤP XỬ TRÍ | sơ cứu | - | - | 火傷[やけど]をしたら、すぐ水[みず]で冷[ひ]やす応急処置[おうきゅうしょち]をします。 | Bị bỏng thì sơ cứu ngay bằng cách làm mát với nước.
+刃物[はもの] | n | NHẬN VẬT | đồ có lưỡi sắc | - | - | 刃物[はもの]を持[も]って歩[ある]く時[とき]は刃[は]を下[した]に向[む]けます。 | Khi cầm dao đi lại thì hướng lưỡi xuống dưới.
+刃[は] | n | NHẬN | lưỡi dao | - | - | スライサーの刃[は]に触[さわ]らないでください。 | Đừng chạm vào lưỡi máy thái.
+スライサー | n | - | máy thái | - | - | ハムをスライサーで薄[うす]く切[き]ります。 | Thái mỏng giăm bông bằng máy thái.
+皮[かわ]むき | n | BÌ | gọt vỏ | - | - | じゃがいもの皮[かわ]むきを機械[きかい]でします。 | Gọt vỏ khoai tây bằng máy.
+みじん切[ぎ]り | n | THIẾT | băm nhuyễn | - | - | 玉[たま]ねぎをみじん切[ぎ]りにしてください。 | Hãy băm nhuyễn hành tây.
+千切[せんぎ]り | n | THIÊN THIẾT | thái sợi | - | - | キャベツを千切[せんぎ]りにします。 | Thái sợi bắp cải.
+輪切[わぎ]り | n | LUÂN THIẾT | thái lát tròn | - | - | 人参[にんじん]を一[いっ]センチの輪切[わぎ]りにします。 | Thái cà rốt thành lát tròn dày một phân.
+角切[かくぎ]り | n | GIÁC THIẾT | thái hạt lựu | - | - | 大根[だいこん]を二[に]センチの角切[かくぎ]りにします。 | Thái củ cải hạt lựu hai phân.
+薄切[うすぎ]り | n | BẠC THIẾT | thái mỏng | - | - | 豚肉[ぶたにく]の薄切[うすぎ]りを使[つか]います。 | Dùng thịt lợn thái mỏng.
+挽[ひ]く | v1 | VÃN | xay (thịt, cà phê) | 肉[にく] を 挽[ひ]く | xay thịt | 機械[きかい]で肉[にく]を挽[ひ]いてミンチにします。 | Xay thịt bằng máy thành thịt băm.
+漬[つ]ける | v2 | TÍ | ngâm, ướp | タレ に 漬[つ]ける | ướp sốt | 肉[にく]をタレに一晩[ひとばん]漬[つ]けます。 | Ướp thịt trong nước sốt một đêm.
+和[あ]える | v2 | HÒA | trộn (gỏi) | - | - | 茹[ゆ]でたほうれん草[そう]をごまで和[あ]えます。 | Trộn rau chân vịt luộc với vừng.
+煮込[にこ]む | v1 | CHỬ VÀO | hầm kỹ | - | - | 弱火[よわび]で二[に]時間[じかん]煮込[にこ]みます。 | Hầm lửa nhỏ hai tiếng.
+火加減[ひかげん] | n | HỎA GIA GIẢM | điều chỉnh lửa | 火加減[ひかげん] を 見[み]る | canh lửa | 焦[こ]げないように火加減[ひかげん]を見[み]てください。 | Hãy canh lửa để không bị cháy.
+強火[つよび] | n | CƯỜNG HỎA | lửa lớn | - | - | 強火[つよび]で一気[いっき]に炒[いた]めます。 | Xào nhanh trên lửa lớn.
+弱火[よわび] | n | NHƯỢC HỎA | lửa nhỏ | - | - | 沸騰[ふっとう]したら弱火[よわび]にします。 | Sôi rồi thì vặn nhỏ lửa.
+沸騰[ふっとう] | n,v3 | PHÍ ĐẰNG | sôi | - | - | お湯[ゆ]が沸騰[ふっとう]したら麺[めん]を入[い]れます。 | Nước sôi thì cho mì vào.
+蒸気[じょうき] | n | CHƯNG KHÍ | hơi nước | - | - | 蒸気[じょうき]で火傷[やけど]をしないように気[き]をつけてください。 | Cẩn thận để không bị bỏng hơi nước.
+塩分[えんぶん] | n | DIÊM PHÂN | lượng muối | 塩分[えんぶん] を 控[ひか]える | giảm muối | この商品[しょうひん]は塩分[えんぶん]を控[ひか]えています。 | Sản phẩm này đã giảm lượng muối.
+配合[はいごう] | n,v3 | PHỐI HỢP | phối trộn | - | - | 配合[はいごう]を間違[まちが]えると味[あじ]が変[か]わります。 | Phối trộn sai thì vị sẽ thay đổi.
+割合[わりあい] | n | CÁT HỢP | tỉ lệ | - | - | 醤油[しょうゆ]と砂糖[さとう]の割合[わりあい]は二対一[にたいいち]です。 | Tỉ lệ xì dầu và đường là hai trên một.
+仕込[しこ]み | n,v3 | SĨ VÀO | chuẩn bị nguyên liệu trước | - | - | 朝[あさ]五[ご]時[じ]から仕込[しこ]みを始[はじ]めます。 | Bắt đầu chuẩn bị nguyên liệu từ năm giờ sáng.
+下[した]ごしらえ | n,v3 | HẠ | sơ chế | - | - | 魚[さかな]の下[した]ごしらえをします。 | Sơ chế cá.
+仕上[しあ]げ | n | SĨ THƯỢNG | khâu hoàn thiện | - | - | 仕上[しあ]げにごまをかけます。 | Khâu cuối thì rắc vừng.
+完成品[かんせいひん] | n | HOÀN THÀNH PHẨM | thành phẩm | - | - | 完成品[かんせいひん]は冷蔵庫[れいぞうこ]に運[はこ]んでください。 | Thành phẩm hãy mang vào kho lạnh.
+半製品[はんせいひん] | n | BÁN CHẾ PHẨM | bán thành phẩm | - | - | 半製品[はんせいひん]にラベルを貼[は]って保管[ほかん]します。 | Dán nhãn bán thành phẩm rồi cất giữ.
+先入[さきい]れ先出[さきだ]し | n | TIÊN NHẬP TIÊN XUẤT | nhập trước xuất trước | - | - | 在庫[ざいこ]は先入[さきい]れ先出[さきだ]しで使[つか]います。 | Hàng tồn được dùng theo nguyên tắc nhập trước xuất trước.
+期限切[きげんぎ]れ | n | KỲ HẠN THIẾT | quá hạn | - | - | 期限切[きげんぎ]れの原料[げんりょう]は使[つか]えません。 | Nguyên liệu quá hạn không được dùng.
+廃棄[はいき] | n,v3 | PHẾ KHÍ | hủy bỏ, vứt bỏ | - | - | 床[ゆか]に落[お]ちた食品[しょくひん]は廃棄[はいき]します。 | Thực phẩm rơi xuống sàn thì hủy bỏ.
+生[なま]ごみ | n | SINH | rác thải thực phẩm | - | - | 生[なま]ごみは専用[せんよう]の容器[ようき]に捨[す]ててください。 | Rác thực phẩm hãy vứt vào thùng chuyên dụng.
+排水[はいすい] | n,v3 | BÀI THỦY | thoát nước | {排水[はいすい]} 口[こう] | miệng thoát nước | 排水[はいすい]口[こう]のごみを毎日[まいにち]取[と]ります。 | Mỗi ngày lấy rác ở miệng thoát nước.
+水切[みずき]り | n,v3 | THỦY THIẾT | để ráo nước | - | - | 洗[あら]った野菜[やさい]をよく水切[みずき]りします。 | Để rau đã rửa ráo nước kỹ.
+拭[ふ]き取[と]る | v1 | THỨC THỦ | lau sạch | 汚[よご]れ を 拭[ふ]き取[と]る | lau sạch vết bẩn | 台[だい]の汚[よご]れをきれいに拭[ふ]き取[と]ります。 | Lau sạch vết bẩn trên bàn.
+汚[よご]れ | n | Ô | vết bẩn | 汚[よご]れ が 落[お]ちる | sạch vết bẩn | この洗剤[せんざい]を使[つか]うと汚[よご]れがよく落[お]ちます。 | Dùng chất tẩy này vết bẩn sạch rất nhanh.
+防虫[ぼうちゅう] | n | PHÒNG TRÙNG | phòng côn trùng | {防虫[ぼうちゅう]} 対策[たいさく] | biện pháp chống côn trùng | 工場[こうじょう]では防虫[ぼうちゅう]対策[たいさく]をしています。 | Nhà máy có biện pháp chống côn trùng.
+対策[たいさく] | n | ĐỐI SÁCH | biện pháp | 対策[たいさく] を 立[た]てる | đề ra biện pháp | 同[おな]じミスが起[お]きないように対策[たいさく]を立[た]てます。 | Đề ra biện pháp để lỗi tương tự không xảy ra.
+ネズミ | n | - | con chuột | - | - | ネズミが入[はい]らないように扉[とびら]を閉[し]めます。 | Đóng cửa để chuột không vào.
+扉[とびら] | n | PHI | cửa | 扉[とびら] を 閉[し]める | đóng cửa | 冷蔵庫[れいぞうこ]の扉[とびら]は開[あ]けたままにしないでください。 | Đừng để cửa kho lạnh mở.
+開[あ]けっ放[ぱな]し | n | KHAI PHÓNG | để mở toang | - | - | 扉[とびら]を開[あ]けっ放[ぱな]しにすると温度[おんど]が上[あ]がります。 | Để cửa mở toang thì nhiệt độ tăng.
+温度[おんど]管理[かんり] | n | ÔN ĐỘ QUẢN LÝ | quản lý nhiệt độ | - | - | 冷蔵庫[れいぞうこ]の温度[おんど]管理[かんり]は一日[いちにち]三[さん]回[かい]です。 | Kiểm soát nhiệt độ kho lạnh ba lần một ngày.
+記録[きろく]する | v3 | KÝ LỤC | ghi chép | - | - | 測[はか]った温度[おんど]を記録[きろく]してください。 | Hãy ghi lại nhiệt độ đã đo.
+報告[ほうこく] | n,v3 | BÁO CÁO | báo cáo | すぐ {報告[ほうこく]} する | báo cáo ngay | 異物[いぶつ]を見[み]つけたら、すぐ報告[ほうこく]してください。 | Thấy dị vật thì báo cáo ngay.
+連絡[れんらく] | n,v3 | LIÊN LẠC | liên lạc, báo | - | - | 休[やす]む時[とき]は朝[あさ]七[しち]時[じ]までに連絡[れんらく]してください。 | Khi nghỉ hãy báo trước bảy giờ sáng.
+相談[そうだん] | n,v3 | TƯƠNG ĐÀM | trao đổi, hỏi ý | - | - | 困[こま]ったことは何[なん]でも相談[そうだん]してください。 | Có gì khó khăn cứ trao đổi.
+確認[かくにん] | n,v3 | XÁC NHẬN | xác nhận, kiểm tra | 二人[ふたり] で {確認[かくにん]} する | hai người cùng kiểm tra | 重要[じゅうよう]な数字[すうじ]は二人[ふたり]で確認[かくにん]します。 | Số liệu quan trọng thì hai người cùng kiểm tra.
+指差[ゆびさ]し確認[かくにん] | n | CHỈ SAI XÁC NHẬN | chỉ tay xác nhận | - | - | 機械[きかい]を動[うご]かす前[まえ]に指差[ゆびさ]し確認[かくにん]をします。 | Trước khi chạy máy thì chỉ tay xác nhận.
+休憩室[きゅうけいしつ] | n | HƯU KHẾ THẤT | phòng nghỉ | - | - | 食事[しょくじ]は休憩室[きゅうけいしつ]でとってください。 | Hãy ăn ở phòng nghỉ.
+交代[こうたい] | n,v3 | GIAO ĐẠI | thay ca | - | - | 十二[じゅうに]時[じ]に次[つぎ]の人[ひと]と交代[こうたい]します。 | Mười hai giờ tôi thay ca với người tiếp theo.
+残業[ざんぎょう] | n,v3 | TÀN NGHIỆP | tăng ca | 残業[ざんぎょう] を 頼[たの]まれる | được nhờ tăng ca | 注文[ちゅうもん]が多[おお]くて残業[ざんぎょう]を頼[たの]まれました。 | Đơn hàng nhiều nên tôi được nhờ tăng ca.
+目標[もくひょう]数[すう] | n | MỤC TIÊU SỐ | số lượng mục tiêu | - | - | 今日[きょう]の目標[もくひょう]数[すう]は三千[さんぜん]個[こ]です。 | Mục tiêu hôm nay là ba nghìn cái.
+数[かぞ]える | v2 | SỐ | đếm | 数[かず] を 数[かぞ]える | đếm số lượng | 箱[はこ]の数[かず]を数[かぞ]えてください。 | Hãy đếm số thùng.
+数[かず] | n | SỐ | số lượng | 数[かず] が 合[あ]う | khớp số lượng | 伝票[でんぴょう]と数[かず]が合[あ]っているか確認[かくにん]します。 | Kiểm tra số lượng có khớp với phiếu không.
+伝票[でんぴょう] | n | TRUYỀN PHIẾU | phiếu (giao, xuất) | - | - | 伝票[でんぴょう]に数量[すうりょう]を書[か]きます。 | Ghi số lượng vào phiếu.
+数量[すうりょう] | n | SỐ LƯỢNG | số lượng | - | - | 数量[すうりょう]を間違[まちが]えないようにしてください。 | Hãy cẩn thận để không nhầm số lượng.
+台車[だいしゃ] | n | ĐÀI XA | xe đẩy hàng | 台車[だいしゃ] で 運[はこ]ぶ | chở bằng xe đẩy | 重[おも]い箱[はこ]は台車[だいしゃ]で運[はこ]んでください。 | Thùng nặng hãy chở bằng xe đẩy.
+冷凍庫[れいとうこ] | n | LÃNH ĐÔNG KHỐ | kho cấp đông | - | - | 冷凍庫[れいとうこ]の中[なか]はマイナス二十[にじゅう]度[ど]です。 | Trong kho cấp đông là âm hai mươi độ.
+防寒着[ぼうかんぎ] | n | PHÒNG HÀN TRƯỚC | áo chống lạnh | - | - | 冷凍庫[れいとうこ]に入[はい]る時[とき]は防寒着[ぼうかんぎ]を着[き]ます。 | Khi vào kho cấp đông thì mặc áo chống lạnh.

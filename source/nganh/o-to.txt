@@ -1,0 +1,191 @@
+@topic o-to
+@ja 自動車[じどうしゃ]
+@vi Ô tô (bảo dưỡng, lắp ráp)
+@desc Bộ phận xe, dụng cụ sửa chữa, đăng kiểm, kiểm tra định kỳ, thay dầu lốp, chẩn đoán lỗi và dây chuyền lắp ráp ô tô.
+自動車[じどうしゃ]整備[せいび] | n | TỰ ĐỘNG XA CHỈNH BỊ | bảo dưỡng ô tô | - | - | 自動車[じどうしゃ]整備[せいび]の仕事[しごと]をしています。 | Tôi làm công việc bảo dưỡng ô tô.
+整備[せいび] | n,v3 | CHỈNH BỊ | bảo dưỡng, sửa sang | 車[くるま] を {整備[せいび]} する | bảo dưỡng xe | お客様[きゃくさま]の車[くるま]を整備[せいび]します。 | Bảo dưỡng xe của khách.
+整備士[せいびし] | n | CHỈNH BỊ SĨ | thợ bảo dưỡng | - | - | 将来[しょうらい]は一級[いっきゅう]整備士[せいびし]になりたいです。 | Sau này tôi muốn trở thành thợ bảo dưỡng hạng nhất.
+整備工場[せいびこうじょう] | n | CHỈNH BỊ CÔNG TRƯỜNG | xưởng sửa chữa | - | - | 整備工場[せいびこうじょう]には車[くるま]が五[ご]台[だい]入[はい]っています。 | Xưởng sửa chữa đang có năm chiếc xe.
+車検[しゃけん] | n | XA KIỂM | đăng kiểm xe | 車検[しゃけん] を 受[う]ける | đi đăng kiểm | 二[に]年[ねん]に一度[いちど]車検[しゃけん]を受[う]けます。 | Hai năm đăng kiểm một lần.
+定期点検[ていきてんけん] | n | ĐỊNH KỲ ĐIỂM KIỂM | kiểm tra định kỳ | - | - | 一[いち]年[ねん]ごとに定期点検[ていきてんけん]をします。 | Mỗi năm kiểm tra định kỳ.
+点検[てんけん] | n,v3 | ĐIỂM KIỂM | kiểm tra | ブレーキ を {点検[てんけん]} する | kiểm tra phanh | ブレーキを点検[てんけん]してから試運転[しうんてん]します。 | Kiểm tra phanh rồi chạy thử.
+試運転[しうんてん] | n,v3 | THÍ VẬN CHUYỂN | chạy thử | - | - | 修理[しゅうり]が終[お]わったら試運転[しうんてん]をします。 | Sửa xong thì chạy thử.
+修理[しゅうり] | n,v3 | TU LÝ | sửa chữa | - | - | ドアの修理[しゅうり]に二日[ふつか]かかります。 | Sửa cửa xe mất hai ngày.
+交換[こうかん] | n,v3 | GIAO HOÁN | thay thế | 部品[ぶひん] を {交換[こうかん]} する | thay linh kiện | 古[ふる]くなった部品[ぶひん]を交換[こうかん]します。 | Thay linh kiện đã cũ.
+エンジン | n | - | động cơ | エンジン を かける | khởi động máy | エンジンをかけて音[おと]を確認[かくにん]します。 | Khởi động máy để kiểm tra tiếng.
+エンジンオイル | n | - | dầu động cơ | - | - | エンジンオイルの量[りょう]を確認[かくにん]します。 | Kiểm tra lượng dầu động cơ.
+オイル交換[こうかん] | n | GIAO HOÁN | thay dầu | - | - | 五千[ごせん]キロごとにオイル交換[こうかん]をします。 | Cứ năm nghìn cây số thì thay dầu.
+オイルフィルター | n | - | lọc dầu | - | - | オイルと一緒[いっしょ]にオイルフィルターも交換[こうかん]します。 | Thay lọc dầu cùng với dầu.
+抜[ぬ]く | v1 | BẠT | rút ra, xả ra | オイル を 抜[ぬ]く | xả dầu | 古[ふる]いオイルを抜[ぬ]きます。 | Xả dầu cũ ra.
+注[そそ]ぐ | v1 | CHÚ | đổ vào | - | - | 新[あたら]しいオイルを注[そそ]ぎます。 | Đổ dầu mới vào.
+ブレーキ | n | - | phanh | ブレーキ が 効[き]く | phanh ăn | ブレーキがよく効[き]くか確[たし]かめます。 | Kiểm tra xem phanh có ăn không.
+ブレーキパッド | n | - | má phanh | - | - | ブレーキパッドがすり減[へ]っています。 | Má phanh bị mòn.
+すり減[へ]る | v1 | MA GIẢM | mòn | - | - | タイヤがすり減[へ]ったら交換[こうかん]します。 | Lốp mòn thì thay.
+タイヤ | n | - | lốp xe | タイヤ を 交換[こうかん] する | thay lốp | 冬[ふゆ]の前[まえ]にスタッドレスタイヤに交換[こうかん]します。 | Trước mùa đông thay sang lốp đi tuyết.
+空気圧[くうきあつ] | n | KHÔNG KHÍ ÁP | áp suất lốp | 空気圧[くうきあつ] を 測[はか]る | đo áp suất lốp | タイヤの空気圧[くうきあつ]を測[はか]ります。 | Đo áp suất lốp.
+パンク | n,v3 | - | thủng lốp | - | - | タイヤがパンクしたので修理[しゅうり]します。 | Lốp bị thủng nên sửa.
+ホイール | n | - | mâm xe | - | - | ホイールに傷[きず]をつけないように外[はず]します。 | Tháo mâm xe cẩn thận để không xước.
+ジャッキ | n | - | con đội | ジャッキ で 上[あ]げる | kích lên bằng con đội | ジャッキで車[くるま]を持[も]ち上[あ]げます。 | Kích xe lên bằng con đội.
+リフト | n | - | cầu nâng | リフト を 上[あ]げる | nâng cầu | リフトを上[あ]げる前[まえ]に周[まわ]りを確認[かくにん]します。 | Trước khi nâng cầu thì kiểm tra xung quanh.
+バッテリー | n | - | ắc quy | バッテリー が 上[あ]がる | ắc quy hết điện | ライトをつけたままでバッテリーが上[あ]がりました。 | Để đèn sáng nên ắc quy hết điện.
+充電[じゅうでん] | n,v3 | SUNG ĐIỆN | sạc điện | - | - | バッテリーを充電[じゅうでん]します。 | Sạc ắc quy.
+ヘッドライト | n | - | đèn pha | - | - | ヘッドライトの向[む]きを調整[ちょうせい]します。 | Chỉnh hướng đèn pha.
+調整[ちょうせい] | n,v3 | ĐIỀU CHỈNH | điều chỉnh | - | - | ブレーキの効[き]きを調整[ちょうせい]しました。 | Đã điều chỉnh độ ăn của phanh.
+ウインカー | n | - | đèn xi nhan | - | - | ウインカーがつくか確認[かくにん]します。 | Kiểm tra đèn xi nhan có sáng không.
+ブレーキランプ | n | - | đèn phanh | - | - | ブレーキランプが切[き]れています。 | Đèn phanh bị cháy.
+ワイパー | n | - | cần gạt nước | - | - | ワイパーのゴムを交換[こうかん]します。 | Thay cao su cần gạt nước.
+フロントガラス | n | - | kính chắn gió | - | - | フロントガラスにひびが入[はい]っています。 | Kính chắn gió bị nứt.
+ボンネット | n | - | nắp ca-pô | ボンネット を 開[あ]ける | mở ca-pô | ボンネットを開[あ]けてエンジンを見[み]ます。 | Mở ca-pô để xem động cơ.
+トランク | n | - | cốp xe | - | - | トランクに工具[こうぐ]が入[はい]っています。 | Trong cốp xe có dụng cụ.
+ハンドル | n | - | vô lăng | - | - | ハンドルが重[おも]いという相談[そうだん]がありました。 | Có khách phản ánh vô lăng nặng.
+アクセル | n | - | chân ga | アクセル を 踏[ふ]む | đạp ga | アクセルを踏[ふ]んでエンジンの回転[かいてん]を上[あ]げます。 | Đạp ga để tăng vòng quay động cơ.
+踏[ふ]む | v1 | ĐẠP | đạp | ブレーキ を 踏[ふ]む | đạp phanh | 急[きゅう]にブレーキを踏[ふ]まないでください。 | Đừng đạp phanh gấp.
+ギア | n | - | số (hộp số); bánh răng | - | - | ギアをニュートラルに入[い]れます。 | Về số không.
+ラジエーター | n | - | két nước | - | - | ラジエーターの水漏[みずも]れを修理[しゅうり]します。 | Sửa chỗ rò nước ở két nước.
+冷却水[れいきゃくすい] | n | LÃNH KHƯỚC THỦY | nước làm mát | 冷却水[れいきゃくすい] を 補充[ほじゅう] する | bổ sung nước làm mát | 冷却水[れいきゃくすい]が少[すく]ないので補充[ほじゅう]します。 | Nước làm mát ít nên bổ sung.
+ファンベルト | n | - | dây curoa quạt | - | - | ファンベルトがゆるんでいます。 | Dây curoa quạt bị chùng.
+ゆるむ | v1 | - | lỏng ra | ねじ が ゆるむ | ốc lỏng | 振動[しんどう]でねじがゆるむことがあります。 | Rung động có thể làm ốc lỏng ra.
+プラグ | n | - | bugi | - | - | プラグを新[あたら]しいものに替[か]えます。 | Thay bugi mới.
+マフラー | n | - | ống xả | - | - | マフラーから大[おお]きな音[おと]がします。 | Ống xả kêu to.
+排気[はいき]ガス | n | BÀI KHÍ | khí thải | - | - | 排気[はいき]ガスの検査[けんさ]をします。 | Kiểm tra khí thải.
+サスペンション | n | - | hệ thống treo | - | - | サスペンションから異音[いおん]がします。 | Hệ thống treo có tiếng kêu lạ.
+車体[しゃたい] | n | XA THỂ | thân xe | - | - | 車体[しゃたい]の下[した]に錆[さび]が出[で]ています。 | Gầm thân xe bị gỉ.
+ボディ | n | - | thân vỏ xe | - | - | ボディのへこみを直[なお]します。 | Sửa vết lõm trên vỏ xe.
+塗装[とそう] | n,v3 | ĐỒ TRANG | sơn | - | - | 傷[きず]の部分[ぶぶん]を塗装[とそう]し直[なお]します。 | Sơn lại phần bị xước.
+洗車[せんしゃ] | n,v3 | TẨY XA | rửa xe | - | - | 納車[のうしゃ]の前[まえ]に洗車[せんしゃ]します。 | Rửa xe trước khi giao xe.
+納車[のうしゃ] | n,v3 | NẠP XA | giao xe | - | - | 明日[あした]の午後[ごご]に納車[のうしゃ]の予定[よてい]です。 | Dự kiến giao xe chiều mai.
+代車[だいしゃ] | n | ĐẠI XA | xe thay thế | - | - | 修理[しゅうり]の間[あいだ]、お客様[きゃくさま]に代車[だいしゃ]を貸[か]します。 | Trong thời gian sửa cho khách mượn xe thay thế.
+見積[みつ]もり | n | KIẾN TÍCH | báo giá | 見積[みつ]もり を 出[だ]す | đưa báo giá | 修理[しゅうり]の見積[みつ]もりを出[だ]します。 | Đưa báo giá sửa chữa.
+診断[しんだん] | n,v3 | CHẨN ĐOÁN | chẩn đoán | {故障[こしょう]} 診断[しんだん] | chẩn đoán lỗi | テスターで故障[こしょう]診断[しんだん]をします。 | Chẩn đoán lỗi bằng máy test.
+テスター | n | - | máy đo, máy test | - | - | テスターを車[くるま]につなぎます。 | Nối máy test vào xe.
+つなぐ | v1 | - | nối | - | - | ケーブルをバッテリーにつなぎます。 | Nối cáp vào ắc quy.
+警告灯[けいこくとう] | n | CẢNH CÁO ĐĂNG | đèn cảnh báo | 警告灯[けいこくとう] が つく | đèn cảnh báo sáng | エンジンの警告灯[けいこくとう]がついています。 | Đèn cảnh báo động cơ đang sáng.
+漏[も]れ | n | LẬU | sự rò rỉ | - | - | オイル漏[も]れがないか下[した]から見[み]ます。 | Nhìn từ dưới xem có rò dầu không.
+漏[も]れる | v2 | LẬU | rò rỉ | - | - | ガソリンが漏[も]れていたら大変[たいへん]危険[きけん]です。 | Rò xăng thì vô cùng nguy hiểm.
+走行距離[そうこうきょり] | n | TẨU HÀNH CỰ LY | quãng đường đã chạy | - | - | この車[くるま]の走行距離[そうこうきょり]は五万[ごまん]キロです。 | Xe này đã chạy năm vạn cây số.
+メーター | n | - | đồng hồ đo | - | - | メーターの数字[すうじ]を記録[きろく]します。 | Ghi lại số trên đồng hồ.
+燃費[ねんぴ] | n | NHIÊN PHÍ | mức tiêu hao nhiên liệu | 燃費[ねんぴ] が いい | tiết kiệm xăng | ハイブリッド車[しゃ]は燃費[ねんぴ]がいいです。 | Xe hybrid tiết kiệm xăng.
+電気自動車[でんきじどうしゃ] | n | ĐIỆN KHÍ TỰ ĐỘNG XA | xe điện | - | - | 電気自動車[でんきじどうしゃ]の整備[せいび]は高電圧[こうでんあつ]に注意[ちゅうい]します。 | Bảo dưỡng xe điện phải chú ý điện cao áp.
+組立[くみたて]ライン | n | TỔ LẬP | dây chuyền lắp ráp | - | - | 組立[くみたて]ラインで座席[ざせき]を取[と]り付[つ]けています。 | Tôi lắp ghế ngồi ở dây chuyền lắp ráp.
+座席[ざせき] | n | TỌA TỊCH | ghế ngồi | - | - | 座席[ざせき]をボルトで固定[こてい]します。 | Cố định ghế bằng bu lông.
+インパクトレンチ | n | - | súng bắn ốc | - | - | インパクトレンチでナットを外[はず]します。 | Tháo đai ốc bằng súng bắn ốc.
+トルクレンチ | n | - | cờ lê lực | - | - | 最後[さいご]はトルクレンチで締[し]めます。 | Cuối cùng siết bằng cờ lê lực.
+ソケット | n | - | đầu tuýp | - | - | 十七[じゅうなな]ミリのソケットを使[つか]います。 | Dùng đầu tuýp 17 ly.
+締[し]め付[つ]け | n | ĐẾ PHÓ | siết chặt | 締[し]め付[つ]け が 足[た]りない | siết chưa đủ chặt | 締[し]め付[つ]けが足[た]りないと事故[じこ]になります。 | Siết không đủ chặt sẽ gây tai nạn.
+部品番号[ぶひんばんごう] | n | BỘ PHẨM PHIÊN HIỆU | mã linh kiện | - | - | 部品番号[ぶひんばんごう]を調[しら]べて注文[ちゅうもん]します。 | Tra mã linh kiện rồi đặt hàng.
+純正[じゅんせい] | n | THUẦN CHÍNH | chính hãng | {純正[じゅんせい]} 部品[ぶひん] | linh kiện chính hãng | 純正[じゅんせい]部品[ぶひん]を使[つか]って修理[しゅうり]します。 | Sửa bằng linh kiện chính hãng.
+リコール | n | - | triệu hồi sản phẩm | - | - | リコールの対象[たいしょう]車[しゃ]を修理[しゅうり]します。 | Sửa các xe thuộc diện triệu hồi.
+対象[たいしょう] | n | ĐỐI TƯỢNG | đối tượng | - | - | この車[くるま]は点検[てんけん]の対象[たいしょう]です。 | Xe này thuộc đối tượng kiểm tra.
+異音[いおん] | n | DỊ ÂM | tiếng kêu lạ | - | - | 走[はし]ると前[まえ]のほうから異音[いおん]がします。 | Khi chạy có tiếng lạ từ phía trước.
+ガタつき | n | - | lỏng lẻo, lục cục | - | - | ハンドルにガタつきがあります。 | Vô lăng bị lục cục.
+クラッチ | n | - | côn (ly hợp) | - | - | クラッチの調子[ちょうし]が悪[わる]いです。 | Côn có vấn đề.
+ミッション | n | - | hộp số | - | - | ミッションオイルを交換[こうかん]します。 | Thay dầu hộp số.
+シフトレバー | n | - | cần số | - | - | シフトレバーをパーキングに入[い]れてください。 | Hãy về cần số P.
+サイドブレーキ | n | - | phanh tay | サイドブレーキ を 引[ひ]く | kéo phanh tay | 車[くるま]を止[と]めたらサイドブレーキを引[ひ]きます。 | Dừng xe thì kéo phanh tay.
+エアコンフィルター | n | - | lọc gió điều hòa | - | - | エアコンフィルターが汚[よご]れています。 | Lọc gió điều hòa bị bẩn.
+エアフィルター | n | - | lọc gió động cơ | - | - | エアフィルターを掃除[そうじ]します。 | Vệ sinh lọc gió động cơ.
+ブレーキオイル | n | - | dầu phanh | - | - | ブレーキオイルを二[に]年[ねん]ごとに交換[こうかん]します。 | Thay dầu phanh hai năm một lần.
+ブレーキディスク | n | - | đĩa phanh | - | - | ブレーキディスクに傷[きず]があります。 | Đĩa phanh có vết xước.
+ショックアブソーバー | n | - | giảm xóc | - | - | ショックアブソーバーから油[あぶら]が漏[も]れています。 | Giảm xóc bị rò dầu.
+ドライブシャフト | n | - | trục láp | - | - | ドライブシャフトのブーツが破[やぶ]れています。 | Cao su trục láp bị rách.
+破[やぶ]れる | v2 | PHÁ | bị rách | - | - | ゴムが古[ふる]くなって破[やぶ]れました。 | Cao su cũ nên bị rách.
+ゴム | n | - | cao su | - | - | ゴムの部品[ぶひん]は時間[じかん]がたつと硬[かた]くなります。 | Linh kiện cao su để lâu thì cứng lại.
+ホース | n | - | ống mềm | - | - | ラジエーターのホースにひびがあります。 | Ống két nước có vết nứt.
+ヒューズ | n | - | cầu chì | ヒューズ が 切[き]れる | cầu chì đứt | ヒューズが切[き]れてライトがつきません。 | Cầu chì đứt nên đèn không sáng.
+配線図[はいせんず] | n | PHỐI TUYẾN ĐỒ | sơ đồ điện | - | - | 配線図[はいせんず]を見[み]て原因[げんいん]を探[さが]します。 | Xem sơ đồ điện để tìm nguyên nhân.
+電装品[でんそうひん] | n | ĐIỆN TRANG PHẨM | thiết bị điện trên xe | - | - | ナビなどの電装品[でんそうひん]を取[と]り付[つ]けます。 | Lắp các thiết bị điện như định vị.
+カーナビ | n | - | định vị trên xe | - | - | カーナビの地図[ちず]を更新[こうしん]します。 | Cập nhật bản đồ định vị.
+更新[こうしん] | n,v3 | CANH TÂN | cập nhật, gia hạn | - | - | ソフトウェアを更新[こうしん]しました。 | Đã cập nhật phần mềm.
+板金[ばんきん] | n | BẢN KIM | gò sửa thân xe | - | - | 事故[じこ]車[しゃ]の板金[ばんきん]をします。 | Gò sửa thân xe bị tai nạn.
+へこみ | n | - | vết lõm | へこみ を 直[なお]す | sửa vết lõm | ドアのへこみを直[なお]します。 | Sửa vết lõm trên cửa.
+磨[みが]く | v1 | MA | đánh bóng | - | - | 塗装[とそう]の後[あと]、車体[しゃたい]を磨[みが]きます。 | Sơn xong thì đánh bóng thân xe.
+マスキング | n,v3 | - | che dán (trước khi sơn) | - | - | 塗[ぬ]らない部分[ぶぶん]をマスキングします。 | Dán che các phần không sơn.
+下地[したじ] | n | HẠ ĐỊA | lớp nền | - | - | 塗装[とそう]の前[まえ]に下地[したじ]を整[ととの]えます。 | Xử lý lớp nền trước khi sơn.
+乾燥[かんそう] | n,v3 | CAN TÁO | sấy khô | - | - | 塗装[とそう]ブースで乾燥[かんそう]させます。 | Sấy khô trong buồng sơn.
+洗浄[せんじょう] | n,v3 | TẨY TỊNH | rửa sạch | - | - | 部品[ぶひん]を洗浄[せんじょう]してから組[く]み付[つ]けます。 | Rửa sạch linh kiện rồi mới lắp.
+分解[ぶんかい] | n,v3 | PHÂN GIẢI | tháo rời | - | - | エンジンを分解[ぶんかい]して中[なか]を調[しら]べます。 | Tháo rời động cơ để kiểm tra bên trong.
+組[く]み立[た]てる | v2 | TỔ LẬP | lắp ráp | - | - | 分解[ぶんかい]した部品[ぶひん]を元通[もとどお]りに組[く]み立[た]てます。 | Lắp lại linh kiện đã tháo như cũ.
+元通[もとどお]り | n,adv | NGUYÊN THÔNG | như cũ | - | - | 外[はず]したカバーを元通[もとどお]りに付[つ]けてください。 | Hãy lắp lại nắp đã tháo như cũ.
+順番[じゅんばん] | n | THUẬN PHIÊN | thứ tự | 順番[じゅんばん] を 守[まも]る | theo đúng thứ tự | ボルトは決[き]められた順番[じゅんばん]で締[し]めます。 | Siết bu lông theo đúng thứ tự quy định.
+対角[たいかく] | n | ĐỐI GIÁC | đường chéo | - | - | ホイールナットは対角[たいかく]に締[し]めます。 | Siết đai ốc mâm theo đường chéo.
+仮締[かりじ]め | n,v3 | GIẢ ĐẾ | siết tạm | - | - | 手[て]で仮締[かりじ]めしてから本締[ほんじ]めします。 | Siết tạm bằng tay rồi siết chính.
+本締[ほんじ]め | n,v3 | BẢN ĐẾ | siết chặt chính thức | - | - | 本締[ほんじ]めはトルクレンチを使[つか]います。 | Siết chính thức dùng cờ lê lực.
+規定値[きていち] | n | QUY ĐỊNH TRỊ | giá trị quy định | - | - | 空気圧[くうきあつ]を規定値[きていち]に合[あ]わせます。 | Chỉnh áp suất lốp theo giá trị quy định.
+目視[もくし] | n,v3 | MỤC THỊ | kiểm tra bằng mắt | {目視[もくし]} 点検[てんけん] | kiểm tra bằng mắt | 目視[もくし]点検[てんけん]で傷[きず]を探[さが]します。 | Tìm vết xước bằng cách kiểm tra bằng mắt.
+チェックシート | n | - | phiếu kiểm tra | - | - | 点検[てんけん]が終[お]わったらチェックシートに記入[きにゅう]します。 | Kiểm tra xong thì ghi vào phiếu.
+作業[さぎょう]指示書[しじしょ] | n | TÁC NGHIỆP CHỈ THỊ THƯ | phiếu yêu cầu công việc | - | - | 作業[さぎょう]指示書[しじしょ]を見[み]て整備[せいび]します。 | Xem phiếu yêu cầu công việc để bảo dưỡng.
+シートカバー | n | - | áo ghế bảo vệ | - | - | 汚[よご]さないようにシートカバーをかけます。 | Phủ áo ghế để không làm bẩn.
+フェンダーカバー | n | - | tấm che chắn bùn khi sửa | - | - | ボンネットを開[あ]けたらフェンダーカバーをかけます。 | Mở ca-pô thì phủ tấm che chắn bùn.
+引[ひ]き取[と]り | n,v3 | DẪN THỦ | nhận xe về | - | - | お客様[きゃくさま]の家[いえ]まで車[くるま]の引[ひ]き取[と]りに行[い]きます。 | Đến nhà khách để nhận xe về.
+受付[うけつけ] | n,v3 | THỤ PHÓ | tiếp nhận | - | - | 修理[しゅうり]の受付[うけつけ]は九[く]時[じ]からです。 | Tiếp nhận sửa chữa từ chín giờ.
+保証[ほしょう] | n,v3 | BẢO CHỨNG | bảo hành | {保証[ほしょう]} 期間[きかん] | thời hạn bảo hành | まだ保証[ほしょう]期間[きかん]内[ない]なので無料[むりょう]です。 | Vẫn còn trong thời hạn bảo hành nên miễn phí.
+説明[せつめい] | n,v3 | THUYẾT MINH | giải thích | - | - | 修理[しゅうり]の内容[ないよう]をお客様[きゃくさま]に説明[せつめい]します。 | Giải thích nội dung sửa chữa cho khách.
+溶接[ようせつ]ロボット | n | DUNG TIẾP | robot hàn | - | - | ラインでは溶接[ようせつ]ロボットが動[うご]いています。 | Trên dây chuyền có robot hàn đang chạy.
+塗装[とそう]ライン | n | ĐỒ TRANG | dây chuyền sơn | - | - | 塗装[とそう]ラインはほこりに注意[ちゅうい]します。 | Dây chuyền sơn phải chú ý bụi.
+検査[けんさ]ライン | n | KIỂM TRA | dây chuyền kiểm tra | - | - | 完成[かんせい]した車[くるま]は検査[けんさ]ラインを通[とお]ります。 | Xe hoàn thiện đi qua dây chuyền kiểm tra.
+タクトタイム | n | - | thời gian nhịp (takt time) | - | - | タクトタイム内[ない]に作業[さぎょう]を終[お]わらせます。 | Hoàn thành công việc trong thời gian nhịp.
+取[と]り付[つ]け | n,v3 | THỦ PHÓ | lắp đặt | - | - | ドアの取[と]り付[つ]けを担当[たんとう]しています。 | Tôi phụ trách lắp cửa xe.
+内装[ないそう] | n | NỘI TRANG | nội thất xe | - | - | 内装[ないそう]の部品[ぶひん]を取[と]り付[つ]けます。 | Lắp các linh kiện nội thất.
+外装[がいそう] | n | NGOẠI TRANG | ngoại thất xe | - | - | 外装[がいそう]に傷[きず]がないか確認[かくにん]します。 | Kiểm tra ngoại thất xe có vết xước không.
+コネクター | n | - | giắc nối | コネクター を 差[さ]し込[こ]む | cắm giắc | コネクターを「カチッ」と音[おと]がするまで差[さ]し込[こ]みます。 | Cắm giắc cho đến khi nghe tiếng tách.
+カチッ | adv | - | tách (tiếng khớp) | - | - | カチッと音[おと]がしたら大丈夫[だいじょうぶ]です。 | Nghe tiếng tách là được.
+挿入[そうにゅう] | n,v3 | SÁP NHẬP | lắp vào, chèn vào | - | - | クリップを穴[あな]に挿入[そうにゅう]します。 | Chèn kẹp vào lỗ.
+クリップ | n | - | kẹp | - | - | クリップが外[はず]れていないか確認[かくにん]します。 | Kiểm tra kẹp có bị bung không.
+抜[ぬ]け | n | BẠT | sót (bước, linh kiện) | - | - | 部品[ぶひん]の付[つ]け忘[わす]れや抜[ぬ]けがないか確認[かくにん]します。 | Kiểm tra có quên lắp hay sót linh kiện không.
+付[つ]け忘[わす]れ | n | PHÓ VONG | quên lắp | - | - | ボルトの付[つ]け忘[わす]れは大[おお]きな事故[じこ]につながります。 | Quên lắp bu lông có thể dẫn đến tai nạn lớn.
+つながる | v1 | - | dẫn đến; được nối | - | - | 小[ちい]さなミスが事故[じこ]につながります。 | Lỗi nhỏ có thể dẫn đến tai nạn.
+安全第一[あんぜんだいいち] | n | AN TOÀN ĐỆ NHẤT | an toàn là trên hết | - | - | 工場[こうじょう]では安全第一[あんぜんだいいち]です。 | Ở nhà máy an toàn là trên hết.
+車止[くるまど]め | n | XA CHỈ | chèn bánh xe | 車止[くるまど]め を する | chèn bánh | ジャッキを使[つか]う前[まえ]に車止[くるまど]めをします。 | Chèn bánh xe trước khi dùng con đội.
+下回[したまわ]り | n | HẠ HỒI | gầm xe | - | - | リフトで上[あ]げて下回[したまわ]りを点検[てんけん]します。 | Nâng xe lên để kiểm tra gầm.
+廃油[はいゆ] | n | PHẾ DU | dầu thải | - | - | 廃油[はいゆ]は専用[せんよう]のタンクに入[い]れます。 | Dầu thải cho vào bồn chuyên dụng.
+ウエス | n | - | giẻ lau | ウエス で 拭[ふ]く | lau bằng giẻ | 手[て]についた油[あぶら]をウエスで拭[ふ]きます。 | Lau dầu dính tay bằng giẻ.
+油[あぶら]まみれ | n | DU | dính đầy dầu | - | - | 作業着[さぎょうぎ]が油[あぶら]まみれになりました。 | Quần áo bảo hộ dính đầy dầu.
+ガソリン | n | - | xăng | ガソリン を 入[い]れる | đổ xăng | 納車[のうしゃ]前[まえ]にガソリンを入[い]れておきます。 | Đổ xăng sẵn trước khi giao xe.
+軽油[けいゆ] | n | KHINH DU | dầu diesel | - | - | ディーゼル車[しゃ]には軽油[けいゆ]を入[い]れます。 | Xe máy dầu thì đổ dầu diesel.
+燃料[ねんりょう] | n | NHIÊN LIỆU | nhiên liệu | - | - | 燃料[ねんりょう]の残量[ざんりょう]を確認[かくにん]します。 | Kiểm tra lượng nhiên liệu còn lại.
+残量[ざんりょう] | n | TÀN LƯỢNG | lượng còn lại | - | - | バッテリーの残量[ざんりょう]が少[すく]ないです。 | Lượng điện còn lại của ắc quy ít.
+ハイブリッド | n | - | hybrid | - | - | ハイブリッド車[しゃ]の点検[てんけん]は専門[せんもん]の知識[ちしき]が必要[ひつよう]です。 | Kiểm tra xe hybrid cần kiến thức chuyên môn.
+高電圧[こうでんあつ] | n | CAO ĐIỆN ÁP | điện cao áp | - | - | 高電圧[こうでんあつ]の部品[ぶひん]には触[さわ]らないでください。 | Đừng chạm vào linh kiện điện cao áp.
+絶縁[ぜつえん] | n,v3 | TUYỆT DUYÊN | cách điện | {絶縁[ぜつえん]} 手袋[てぶくろ] | găng tay cách điện | 電気自動車[でんきじどうしゃ]の作業[さぎょう]では絶縁[ぜつえん]手袋[てぶくろ]をします。 | Khi làm xe điện thì đeo găng tay cách điện.
+感電[かんでん] | n,v3 | CẢM ĐIỆN | điện giật | - | - | 感電[かんでん]しないように電源[でんげん]を切[き]ります。 | Ngắt nguồn để không bị điện giật.
+車種[しゃしゅ] | n | XA CHỦNG | loại xe | - | - | 車種[しゃしゅ]によって部品[ぶひん]が違[ちが]います。 | Linh kiện khác nhau tùy loại xe.
+年式[ねんしき] | n | NIÊN THỨC | đời xe | - | - | 車[くるま]の年式[ねんしき]を確認[かくにん]してから部品[ぶひん]を注文[ちゅうもん]します。 | Xác nhận đời xe rồi mới đặt linh kiện.
+ナンバープレート | n | - | biển số xe | - | - | ナンバープレートの番号[ばんごう]を控[ひか]えます。 | Ghi lại số biển xe.
+控[ひか]える | v2 | KHỐNG | ghi lại; hạn chế | - | - | お客様[きゃくさま]の電話[でんわ]番号[ばんごう]を控[ひか]えてください。 | Hãy ghi lại số điện thoại của khách.
+車内[しゃない] | n | XA NỘI | trong xe | - | - | 車内[しゃない]の掃除[そうじ]もサービスでします。 | Vệ sinh trong xe cũng làm miễn phí.
+足回[あしまわ]り | n | TÚC HỒI | hệ thống gầm (bánh, phanh, treo) | - | - | 足回[あしまわ]りを点検[てんけん]します。 | Kiểm tra hệ thống gầm.
+アライメント | n | - | độ chụm bánh xe | - | - | タイヤ交換[こうかん]の後[あと]にアライメントを調整[ちょうせい]します。 | Thay lốp xong thì chỉnh độ chụm.
+バランス | n | - | cân bằng | - | - | タイヤのバランスを取[と]ります。 | Cân bằng lốp.
+ローテーション | n | - | đảo lốp | - | - | 一万[いちまん]キロごとにタイヤのローテーションをします。 | Mỗi một vạn cây số đảo lốp một lần.
+溝[みぞ] | n | CẤU | rãnh (lốp) | 溝[みぞ] が 浅[あさ]い | rãnh lốp nông | タイヤの溝[みぞ]が浅[あさ]くなっています。 | Rãnh lốp đã nông.
+浅[あさ]い | adj-i | THIỂN | nông | - | - | 溝[みぞ]が浅[あさ]いと雨[あめ]の日[ひ]に滑[すべ]りやすいです。 | Rãnh nông thì ngày mưa dễ trượt.
+ひび割[わ]れ | n | CÁT | nứt nẻ | - | - | タイヤの横[よこ]にひび割[わ]れがあります。 | Hông lốp bị nứt nẻ.
+コンプレッサー | n | - | máy nén khí | - | - | コンプレッサーでタイヤに空気[くうき]を入[い]れます。 | Bơm hơi lốp bằng máy nén khí.
+潤滑[じゅんかつ] | n | NHUẬN HOẠT | bôi trơn | - | - | 潤滑[じゅんかつ]が足[た]りないと部品[ぶひん]がすり減[へ]ります。 | Bôi trơn không đủ thì linh kiện bị mòn.
+オイルゲージ | n | - | que thăm dầu | - | - | オイルゲージで量[りょう]を確認[かくにん]します。 | Kiểm tra lượng dầu bằng que thăm.
+上限[じょうげん] | n | THƯỢNG HẠN | mức trên | - | - | オイルは上限[じょうげん]と下限[かげん]の間[あいだ]に入[い]れます。 | Đổ dầu trong khoảng giữa mức trên và mức dưới.
+下限[かげん] | n | HẠ HẠN | mức dưới | - | - | 冷却水[れいきゃくすい]が下限[かげん]より少[すく]ないです。 | Nước làm mát ít hơn mức dưới.
+タンク | n | - | bình chứa | - | - | ウォッシャー液[えき]のタンクに補充[ほじゅう]します。 | Bổ sung vào bình nước rửa kính.
+ウォッシャー液[えき] | n | DỊCH | nước rửa kính | - | - | ウォッシャー液[えき]が出[で]ません。 | Nước rửa kính không phun ra.
+ランプ | n | - | đèn | ランプ が 切[き]れる | đèn cháy | 右[みぎ]のランプが切[き]れています。 | Đèn bên phải bị cháy.
+電球[でんきゅう] | n | ĐIỆN CẦU | bóng đèn | - | - | 電球[でんきゅう]を交換[こうかん]するだけで直[なお]ります。 | Chỉ cần thay bóng đèn là xong.
+動作確認[どうさかくにん] | n | ĐỘNG TÁC XÁC NHẬN | kiểm tra hoạt động | - | - | 修理[しゅうり]の後[あと]で動作確認[どうさかくにん]をします。 | Sau khi sửa thì kiểm tra hoạt động.
+エンジンルーム | n | - | khoang động cơ | - | - | エンジンルームの中[なか]を掃除[そうじ]します。 | Vệ sinh khoang động cơ.
+エンスト | n,v3 | - | chết máy | - | - | 信号[しんごう]で止[と]まるとエンストすると相談[そうだん]されました。 | Khách phản ánh xe chết máy khi dừng đèn đỏ.
+アイドリング | n,v3 | - | nổ máy không tải | - | - | アイドリングが不安定[ふあんてい]です。 | Nổ máy không tải không ổn định.
+不安定[ふあんてい] | adj-na | BẤT AN ĐỊNH | không ổn định | - | - | エンジンの回転[かいてん]が不安定[ふあんてい]です。 | Vòng quay động cơ không ổn định.
+かかりにくい | adj-i | - | khó nổ máy | - | - | 寒[さむ]い朝[あさ]はエンジンがかかりにくいです。 | Sáng lạnh động cơ khó nổ.
+白煙[はくえん] | n | BẠCH YÊN | khói trắng | - | - | マフラーから白煙[はくえん]が出[で]ています。 | Ống xả ra khói trắng.
+焦[こ]げ臭[くさ]い | adj-i | TIÊU XÚ | mùi khét | - | - | 車内[しゃない]が焦[こ]げ臭[くさ]いです。 | Trong xe có mùi khét.
+オーバーヒート | n,v3 | - | quá nhiệt | - | - | 冷却水[れいきゃくすい]が少[すく]なくてオーバーヒートしました。 | Nước làm mát ít nên động cơ bị quá nhiệt.
+レッカー | n | - | xe cứu hộ | レッカー で 運[はこ]ぶ | kéo bằng xe cứu hộ | 動[うご]かない車[くるま]をレッカーで運[はこ]びます。 | Chở xe không chạy được bằng xe cứu hộ.
+事故車[じこしゃ] | n | SỰ CỐ XA | xe tai nạn | - | - | 事故車[じこしゃ]の修理[しゅうり]には時間[じかん]がかかります。 | Sửa xe tai nạn mất nhiều thời gian.
+保険[ほけん] | n | BẢO HIỂM | bảo hiểm | - | - | 修理[しゅうり]代[だい]は保険[ほけん]で払[はら]われます。 | Tiền sửa được bảo hiểm chi trả.
+請求書[せいきゅうしょ] | n | THỈNH CẦU THƯ | hóa đơn thanh toán | - | - | お客様[きゃくさま]に請求書[せいきゅうしょ]を渡[わた]します。 | Đưa hóa đơn thanh toán cho khách.
+部品代[ぶひんだい] | n | BỘ PHẨM ĐẠI | tiền linh kiện | - | - | 部品代[ぶひんだい]と工賃[こうちん]を合[あ]わせて三万[さんまん]円[えん]です。 | Tiền linh kiện và tiền công tổng cộng ba vạn yên.
+工賃[こうちん] | n | CÔNG NHẪM | tiền công | - | - | タイヤ交換[こうかん]の工賃[こうちん]は四千[よんせん]円[えん]です。 | Tiền công thay lốp là bốn nghìn yên.
+在庫[ざいこ] | n | TẠI KHỐ | hàng tồn | 在庫[ざいこ] が ない | hết hàng | その部品[ぶひん]は今[いま]、在庫[ざいこ]がありません。 | Linh kiện đó hiện không có hàng.
+取[と]り寄[よ]せる | v2 | THỦ KÝ | đặt mua về | - | - | 部品[ぶひん]をメーカーから取[と]り寄[よ]せます。 | Đặt mua linh kiện từ nhà sản xuất.
+メーカー | n | - | nhà sản xuất | - | - | メーカーによって工具[こうぐ]が違[ちが]います。 | Dụng cụ khác nhau tùy nhà sản xuất.
+資格[しかく] | n | TƯ CÁCH | chứng chỉ | - | - | 自動車[じどうしゃ]整備士[せいびし]の資格[しかく]を取[と]りたいです。 | Tôi muốn lấy chứng chỉ thợ bảo dưỡng ô tô.
+先輩[せんぱい] | n | TIÊN BỐI | đàn anh | - | - | 分[わ]からない時[とき]は先輩[せんぱい]に確認[かくにん]してから作業[さぎょう]します。 | Khi không rõ thì hỏi đàn anh rồi mới làm.

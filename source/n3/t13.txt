@@ -1,0 +1,129 @@
+@topic t13
+@ja 天気[てんき]・災害[さいがい]
+@vi Thời tiết và thiên tai
+@desc Hiện tượng thời tiết, dự báo, cảnh báo, các loại thiên tai, chuẩn bị phòng chống và cứu trợ, từ tượng thanh về mưa nắng.
+災害[さいがい] | n | TAI HẠI | thảm họa, thiên tai | 災害[さいがい] に 備[そな]える | phòng bị thiên tai | 日頃[ひごろ]から災害[さいがい]に備[そな]えましょう。 | Hãy luôn phòng bị thiên tai.
+備[そな]える | v2 | BỊ | chuẩn bị, phòng bị | - | - | 地震[じしん]に備[そな]えて水[みず]を買[か]っておきます。 | Mua sẵn nước để phòng động đất.
+備[そな]え | n | BỊ | sự chuẩn bị | - | - | 備[そな]えあれば憂[うれ]いなし。 | Có chuẩn bị thì không lo.
+気象[きしょう] | n | KHÍ TƯỢNG | khí tượng | {気象[きしょう]} 庁[ちょう] | Cục Khí tượng | 気象[きしょう]庁[ちょう]が大雨[おおあめ]の警報[けいほう]を出[だ]しました。 | Cục Khí tượng đã ra cảnh báo mưa lớn.
+警報[けいほう] | n | CẢNH BÁO | cảnh báo | 警報[けいほう] が 出[で]る | có cảnh báo | 大雨[おおあめ]警報[けいほう]が出[で]て学校[がっこう]が休[やす]みになりました。 | Có cảnh báo mưa lớn nên trường nghỉ.
+注意報[ちゅういほう] | n | CHÚ Ý BÁO | thông báo cần chú ý | - | - | 強風[きょうふう]注意報[ちゅういほう]が出[で]ています。 | Đang có thông báo chú ý gió mạnh.
+快晴[かいせい] | n | KHOÁI TÌNH | trời quang đãng | - | - | 今日[きょう]は雲[くも]一[ひと]つない快晴[かいせい]です。 | Hôm nay trời quang không một gợn mây.
+晴天[せいてん] | n | TÌNH THIÊN | trời nắng đẹp | - | - | 運動会[うんどうかい]は晴天[せいてん]に恵[めぐ]まれました。 | Hội thao gặp trời nắng đẹp.
+恵[めぐ]まれる | v2 | HUỆ | được ban cho, may mắn có | 天気[てんき] に 恵[めぐ]まれる | gặp thời tiết đẹp | 旅行[りょこう]中[ちゅう]は天気[てんき]に恵[めぐ]まれました。 | Trong chuyến đi gặp thời tiết đẹp.
+雨天[うてん] | n | VŨ THIÊN | trời mưa | {雨天[うてん]} 中止[ちゅうし] | hủy nếu mưa | 雨天[うてん]の場合[ばあい]、試合[しあい]は中止[ちゅうし]です。 | Trường hợp trời mưa, trận đấu hủy.
+中止[ちゅうし] | n,v3 | TRUNG CHỈ | hủy bỏ, đình chỉ | - | - | 台風[たいふう]で花火大会[はなびたいかい]が中止[ちゅうし]になりました。 | Do bão lễ hội pháo hoa bị hủy.
+小雨[こさめ] | n | TIỂU VŨ | mưa nhỏ | - | - | 小雨[こさめ]なので傘[かさ]はいりません。 | Mưa nhỏ nên không cần ô.
+豪雨[ごうう] | n | HÀO VŨ | mưa như trút | - | - | 豪雨[ごうう]で川[かわ]が溢[あふ]れました。 | Mưa như trút làm sông tràn bờ.
+溢[あふ]れる | v2 | DẬT | tràn | - | - | 涙[なみだ]が溢[あふ]れてきました。 | Nước mắt trào ra.
+夕立[ゆうだち] | n | TỊCH LẬP | mưa rào chiều hè | - | - | 夏[なつ]の午後[ごご]は夕立[ゆうだち]が多[おお]いです。 | Chiều hè hay có mưa rào.
+雨宿[あまやど]り | n,v3 | VŨ TÚC | trú mưa | - | - | 急[きゅう]に雨[あめ]が降[ふ]ってきて、店[みせ]で雨宿[あまやど]りしました。 | Mưa bất chợt nên tôi trú mưa trong cửa hàng.
+雨上[あめあ]がり | n | VŨ THƯỢNG | sau cơn mưa | - | - | 雨上[あめあ]がりの空[そら]に虹[にじ]が出[で]ました。 | Bầu trời sau mưa xuất hiện cầu vồng.
+降水確率[こうすいかくりつ] | n | GIÁNG THỦY XÁC SUẤT | xác suất mưa | - | - | 明日[あした]の降水確率[こうすいかくりつ]は八十[はちじゅう]パーセントです。 | Xác suất mưa ngày mai là 80%.
+吹雪[ふぶき] | n | XUY TUYẾT | bão tuyết | - | - | 吹雪[ふぶき]で前[まえ]が見[み]えません。 | Bão tuyết nên không thấy phía trước.
+積[つ]もる | v1 | TÍCH | chất đống | 雪[ゆき] が 積[つ]もる | tuyết phủ dày | 一晩[ひとばん]で雪[ゆき]が三十[さんじゅっ]センチ積[つ]もりました。 | Một đêm tuyết phủ dày 30 cm.
+積雪[せきせつ] | n | TÍCH TUYẾT | tuyết đọng | - | - | 今年[ことし]は積雪[せきせつ]が多[おお]いです。 | Năm nay tuyết đọng nhiều.
+雪[ゆき]かき | n,v3 | TUYẾT | xúc tuyết | - | - | 朝[あさ]から雪[ゆき]かきをしました。 | Từ sáng tôi đã xúc tuyết.
+凍結[とうけつ] | n,v3 | ĐÔNG KẾT | đóng băng | - | - | 道路[どうろ]が凍結[とうけつ]しているので注意[ちゅうい]してください。 | Đường đóng băng, hãy cẩn thận.
+霜[しも] | n | SƯƠNG | sương giá | 霜[しも] が 降[お]りる | có sương giá | 今朝[けさ]は霜[しも]が降[お]りていました。 | Sáng nay có sương giá.
+滑[すべ]る | v1 | HOẠT | trơn trượt | - | - | 雪道[ゆきみち]で滑[すべ]って転[ころ]びました。 | Tôi trượt ngã trên đường tuyết.
+気圧[きあつ] | n | KHÍ ÁP | áp suất khí quyển | 低[てい] {気圧[きあつ]} | áp thấp | 低気圧[ていきあつ]が近[ちか]づいています。 | Áp thấp đang đến gần.
+前線[ぜんせん] | n | TIỀN TUYẾN | front thời tiết; tiền tuyến | 梅雨[ばいう] {前線[ぜんせん]} | rãnh mưa mùa | 梅雨[ばいう]前線[ぜんせん]の影響[えいきょう]で雨[あめ]が続[つづ]いています。 | Do rãnh mưa mùa nên mưa kéo dài.
+影響[えいきょう] | n,v3 | ẢNH HƯỞNG | ảnh hưởng | 影響[えいきょう] を 受[う]ける | chịu ảnh hưởng | 台風[たいふう]の影響[えいきょう]を受[う]けて電車[でんしゃ]が止[と]まりました。 | Chịu ảnh hưởng bão nên tàu ngừng.
+寒波[かんぱ] | n | HÀN BA | đợt rét | - | - | 強[つよ]い寒波[かんぱ]が来[き]ています。 | Một đợt rét mạnh đang đến.
+猛暑[もうしょ] | n | MÃNH THỬ | nắng nóng gay gắt | - | - | 今年[ことし]の夏[なつ]は猛暑[もうしょ]が続[つづ]いています。 | Mùa hè năm nay nắng nóng gay gắt kéo dài.
+真夏日[まなつび] | n | CHÂN HẠ NHẬT | ngày trên 30 độ | - | - | 今日[きょう]で十日[とおか]連続[れんぞく]の真夏日[まなつび]です。 | Hôm nay là ngày thứ mười liên tiếp trên 30 độ.
+連続[れんぞく] | n,v3 | LIÊN TỤC | liên tiếp | - | - | 三日[みっか]連続[れんぞく]で雨[あめ]です。 | Mưa ba ngày liên tiếp.
+暖冬[だんとう] | n | NOÃN ĐÔNG | mùa đông ấm | - | - | 今年[ことし]は暖冬[だんとう]で雪[ゆき]が少[すく]ないです。 | Năm nay đông ấm nên ít tuyết.
+寒暖差[かんだんさ] | n | HÀN NOÃN SAI | chênh lệch nhiệt độ | - | - | 秋[あき]は朝晩[あさばん]の寒暖差[かんだんさ]が大[おお]きいです。 | Mùa thu chênh lệch nhiệt độ sáng tối lớn.
+朝晩[あさばん] | n | TRIÊU VÃN | sáng và tối | - | - | 朝晩[あさばん]は冷[ひ]えるようになりました。 | Sáng tối đã bắt đầu lạnh.
+紫外線[しがいせん] | n | TỬ NGOẠI TUYẾN | tia cực tím | 紫外線[しがいせん] が 強[つよ]い | tia UV mạnh | 夏[なつ]は紫外線[しがいせん]が強[つよ]いので帽子[ぼうし]をかぶります。 | Mùa hè tia UV mạnh nên tôi đội mũ.
+日照[ひで]り | n | NHẬT CHIẾU | hạn hán | - | - | 日照[ひで]りで野菜[やさい]が育[そだ]ちません。 | Hạn hán nên rau không lớn.
+強風[きょうふう] | n | CƯỜNG PHONG | gió mạnh | - | - | 強風[きょうふう]で木[き]が倒[たお]れました。 | Gió mạnh làm cây đổ.
+突風[とっぷう] | n | ĐỘT PHONG | gió giật | - | - | 突風[とっぷう]で傘[かさ]が壊[こわ]れました。 | Gió giật làm hỏng ô.
+竜巻[たつまき] | n | LONG QUYỂN | lốc xoáy | - | - | 竜巻[たつまき]で家[いえ]の屋根[やね]が飛[と]ばされました。 | Lốc xoáy thổi bay mái nhà.
+荒[あ]れる | v2 | HOANG | (thời tiết) xấu, động | 海[うみ] が 荒[あ]れる | biển động | 台風[たいふう]で海[うみ]が荒[あ]れています。 | Do bão biển đang động.
+天候[てんこう] | n | THIÊN HẬU | thời tiết | 天候[てんこう] が 悪[わる]い | thời tiết xấu | 天候[てんこう]が悪[わる]いので出発[しゅっぱつ]を延期[えんき]します。 | Thời tiết xấu nên hoãn xuất phát.
+延期[えんき] | n,v3 | DIÊN KỲ | hoãn lại | - | - | 会議[かいぎ]は来週[らいしゅう]に延期[えんき]されました。 | Cuộc họp được hoãn sang tuần sau.
+避難所[ひなんじょ] | n | TỴ NẠN SỞ | nơi lánh nạn | - | - | 近[ちか]くの小学校[しょうがっこう]が避難所[ひなんじょ]になっています。 | Trường tiểu học gần đây là nơi lánh nạn.
+避難勧告[ひなんかんこく] | n | TỴ NẠN KHUYẾN CÁO | khuyến cáo sơ tán | - | - | 川[かわ]の近[ちか]くの地域[ちいき]に避難勧告[ひなんかんこく]が出[で]ました。 | Khu vực gần sông có khuyến cáo sơ tán.
+非常食[ひじょうしょく] | n | PHI THƯỜNG THỰC | thực phẩm khẩn cấp | - | - | 三日分[みっかぶん]の非常食[ひじょうしょく]を用意[ようい]しています。 | Tôi chuẩn bị thực phẩm khẩn cấp cho ba ngày.
+用意[ようい] | n,v3 | DỤNG Ý | chuẩn bị | - | - | 会議[かいぎ]の資料[しりょう]を用意[ようい]しました。 | Tôi đã chuẩn bị tài liệu họp.
+懐中電灯[かいちゅうでんとう] | n | HOÀI TRUNG ĐIỆN ĐĂNG | đèn pin | - | - | 停電[ていでん]に備[そな]えて懐中電灯[かいちゅうでんとう]を置[お]いています。 | Tôi để sẵn đèn pin phòng mất điện.
+救助[きゅうじょ] | n,v3 | CỨU TRỢ | cứu hộ | - | - | 山[やま]で道[みち]に迷[まよ]った人[ひと]が救助[きゅうじょ]されました。 | Người lạc trên núi đã được cứu hộ.
+被災[ひさい] | n,v3 | BỊ TAI | bị thiên tai | {被災[ひさい]} 地[ち] | vùng bị thiên tai | 被災[ひさい]地[ち]にボランティアに行[い]きました。 | Tôi đi tình nguyện ở vùng bị thiên tai.
+被災者[ひさいしゃ] | n | BỊ TAI GIẢ | nạn nhân thiên tai | - | - | 被災者[ひさいしゃ]に毛布[もうふ]を配[くば]りました。 | Chúng tôi phát chăn cho nạn nhân thiên tai.
+配[くば]る | v1 | PHỐI | phân phát | - | - | 駅前[えきまえ]でチラシを配[くば]っています。 | Họ phát tờ rơi trước ga.
+復旧[ふっきゅう] | n,v3 | PHỤC CỰU | khôi phục | - | - | 停電[ていでん]は二時間[にじかん]後[ご]に復旧[ふっきゅう]しました。 | Điện được khôi phục sau hai tiếng.
+復興[ふっこう] | n,v3 | PHỤC HƯNG | tái thiết | - | - | 町[まち]の復興[ふっこう]には時間[じかん]がかかります。 | Tái thiết thị trấn sẽ mất thời gian.
+震度[しんど] | n | CHẤN ĐỘ | cường độ động đất | 震度[しんど] 五[ご] | cường độ 5 | 昨夜[さくや]、震度[しんど]四[よん]の地震[じしん]がありました。 | Tối qua có động đất cường độ 4.
+余震[よしん] | n | DƯ CHẤN | dư chấn | - | - | 大[おお]きな地震[じしん]の後[あと]、余震[よしん]が続[つづ]いています。 | Sau trận động đất lớn, dư chấn vẫn tiếp diễn.
+震源[しんげん] | n | CHẤN NGUYÊN | tâm chấn | - | - | 地震[じしん]の震源[しんげん]は海[うみ]の中[なか]でした。 | Tâm chấn động đất nằm dưới biển.
+土砂崩[どしゃくず]れ | n | THỔ SA BĂNG | sạt lở đất | - | - | 大雨[おおあめ]で土砂崩[どしゃくず]れが起[お]きました。 | Mưa lớn gây sạt lở đất.
+浸水[しんすい] | n,v3 | TẨM THỦY | ngập nước | - | - | 大雨[おおあめ]で家[いえ]の一階[いっかい]が浸水[しんすい]しました。 | Mưa lớn làm tầng một ngập nước.
+氾濫[はんらん] | n,v3 | PHIẾM LẠM | (sông) tràn bờ | - | - | 台風[たいふう]で川[かわ]が氾濫[はんらん]しました。 | Do bão sông đã tràn bờ.
+噴火[ふんか] | n,v3 | PHÚN HỎA | phun trào | - | - | 火山[かざん]が噴火[ふんか]して灰[はい]が降[ふ]りました。 | Núi lửa phun trào và tro rơi xuống.
+灰[はい] | n | HÔI | tro | - | - | 車[くるま]に灰[はい]が積[つ]もっています。 | Tro phủ đầy xe.
+倒壊[とうかい] | n,v3 | ĐẢO HOẠI | sụp đổ | - | - | 地震[じしん]で古[ふる]い家[いえ]が倒壊[とうかい]しました。 | Động đất làm nhà cũ sụp đổ.
+崩[くず]れる | v2 | BĂNG | sụp, đổ, (thời tiết) xấu đi | 天気[てんき] が 崩[くず]れる | thời tiết chuyển xấu | 午後[ごご]から天気[てんき]が崩[くず]れるそうです。 | Nghe nói từ chiều thời tiết chuyển xấu.
+高台[たかだい] | n | CAO ĐÀI | vùng đất cao | - | - | 津波[つなみ]の時[とき]は高台[たかだい]に逃[に]げてください。 | Khi có sóng thần hãy chạy lên chỗ cao.
+安否[あんぴ] | n | AN PHỦ | an nguy | 安否[あんぴ] を 確認[かくにん]する | xác nhận an nguy | 地震[じしん]の後[あと]、家族[かぞく]の安否[あんぴ]を確認[かくにん]しました。 | Sau động đất tôi xác nhận an nguy của gia đình.
+行方不明[ゆくえふめい] | n | HÀNH PHƯƠNG BẤT MINH | mất tích | - | - | 地震[じしん]で三人[さんにん]が行方不明[ゆくえふめい]です。 | Ba người mất tích do động đất.
+行方[ゆくえ] | n | HÀNH PHƯƠNG | tung tích | - | - | 犯人[はんにん]の行方[ゆくえ]は分[わ]かっていません。 | Tung tích thủ phạm vẫn chưa rõ.
+犠牲[ぎせい] | n | HY SINH | hy sinh, nạn nhân | 犠牲[ぎせい] に なる | trở thành nạn nhân | 多[おお]くの人[ひと]が地震[じしん]の犠牲[ぎせい]になりました。 | Nhiều người đã là nạn nhân của động đất.
+負傷者[ふしょうしゃ] | n | PHỤ THƯƠNG GIẢ | người bị thương | - | - | 事故[じこ]で十人[じゅうにん]の負傷者[ふしょうしゃ]が出[で]ました。 | Vụ tai nạn có mười người bị thương.
+支援[しえん] | n,v3 | CHI VIỆN | hỗ trợ | - | - | 被災地[ひさいち]を支援[しえん]しています。 | Chúng tôi đang hỗ trợ vùng bị thiên tai.
+物資[ぶっし] | n | VẬT TƯ | vật tư, hàng cứu trợ | {救援[きゅうえん]} 物資[ぶっし] | hàng cứu trợ | 救援[きゅうえん]物資[ぶっし]をトラックで運[はこ]びました。 | Chúng tôi chở hàng cứu trợ bằng xe tải.
+救援[きゅうえん] | n,v3 | CỨU VIỆN | cứu viện | - | - | 世界中[せかいじゅう]から救援[きゅうえん]が来[き]ました。 | Cứu viện đến từ khắp thế giới.
+ボランティア | n | - | tình nguyện viên | - | - | 週末[しゅうまつ]にボランティアに参加[さんか]しています。 | Cuối tuần tôi tham gia tình nguyện.
+炊[た]き出[だ]し | n | XUY XUẤT | nấu ăn phát cho nạn nhân | - | - | 避難所[ひなんじょ]で炊[た]き出[だ]しが行[おこな]われました。 | Ở nơi lánh nạn đã có nấu ăn phát cơm.
+仮設住宅[かせつじゅうたく] | n | GIẢ THIẾT TRÚ TRẠCH | nhà tạm | - | - | 被災者[ひさいしゃ]は仮設住宅[かせつじゅうたく]で暮[く]らしています。 | Nạn nhân thiên tai đang sống ở nhà tạm.
+非常[ひじょう] | n,adj-na | PHI THƯỜNG | khẩn cấp; vô cùng | {非常[ひじょう]} 時[じ] | lúc khẩn cấp | 非常[ひじょう]時[じ]は階段[かいだん]を使[つか]ってください。 | Lúc khẩn cấp hãy dùng cầu thang bộ.
+緊急[きんきゅう] | n,adj-na | KHẨN CẤP | khẩn cấp | {緊急[きんきゅう]} 地震[じしん] 速報[そくほう] | cảnh báo động đất khẩn | スマホに緊急[きんきゅう]地震[じしん]速報[そくほう]が届[とど]きました。 | Điện thoại nhận cảnh báo động đất khẩn.
+速報[そくほう] | n,v3 | TỐC BÁO | tin nhanh | - | - | 選挙[せんきょ]の速報[そくほう]が流[なが]れています。 | Đang đưa tin nhanh về bầu cử.
+流[なが]れる | v2 | LƯU | chảy, phát (tin) | - | - | 窓[まど]の外[そと]を川[かわ]が流[なが]れています。 | Bên ngoài cửa sổ có dòng sông chảy.
+じめじめ | adv,v3 | - | ẩm ướt khó chịu | - | - | 梅雨[つゆ]はじめじめしています。 | Mùa mưa ẩm ướt khó chịu.
+からっと | adv,v3 | - | khô ráo | - | - | 今日[きょう]はからっと晴[は]れています。 | Hôm nay trời nắng khô ráo.
+ぽかぽか | adv,v3 | - | ấm áp | - | - | 春[はる]の日差[ひざ]しがぽかぽかして気持[きも]ちいいです。 | Nắng xuân ấm áp thật dễ chịu.
+ひんやり | adv,v3 | - | mát lạnh | - | - | 洞窟[どうくつ]の中[なか]はひんやりしています。 | Trong hang mát lạnh.
+しとしと | adv | - | (mưa) lâm thâm | - | - | 朝[あさ]から雨[あめ]がしとしと降[ふ]っています。 | Từ sáng mưa lâm thâm.
+ざあざあ | adv | - | (mưa) xối xả | - | - | 雨[あめ]がざあざあ降[ふ]っています。 | Mưa đang xối xả.
+ぽつぽつ | adv | - | lác đác, lộp độp | - | - | 雨[あめ]がぽつぽつ降[ふ]り始[はじ]めました。 | Mưa bắt đầu rơi lác đác.
+ぴかっと | adv | - | lóe sáng | - | - | 空[そら]がぴかっと光[ひか]りました。 | Bầu trời lóe sáng.
+びしょ濡[ぬ]れ | adj-na | NHU | ướt sũng | - | - | 傘[かさ]を忘[わす]れてびしょ濡[ぬ]れになりました。 | Quên ô nên ướt sũng.
+吹[ふ]き飛[と]ばす | v1 | XUY PHI | thổi bay | - | - | 強[つよ]い風[かぜ]が帽子[ぼうし]を吹[ふ]き飛[と]ばしました。 | Gió mạnh thổi bay mũ.
+傾[かたむ]く | v1 | KHUYNH | nghiêng | - | - | 地震[じしん]で家[いえ]が傾[かたむ]きました。 | Động đất làm nhà nghiêng.
+晴[は]れ渡[わた]る | v1 | TÌNH ĐỘ | quang đãng khắp | - | - | 空[そら]が青[あお]く晴[は]れ渡[わた]っています。 | Bầu trời xanh quang đãng.
+曇[くも]りがち | adj-na | ĐÀM | hay âm u | - | - | 今週[こんしゅう]は曇[くも]りがちの天気[てんき]です。 | Tuần này trời hay âm u.
+がち | suf | - | hay, thường (xấu) | 遅[おく]れ {がち} | hay bị trễ | 冬[ふゆ]は風邪[かぜ]をひきがちです。 | Mùa đông hay bị cảm.
+天気図[てんきず] | n | THIÊN KHÍ ĐỒ | bản đồ thời tiết | - | - | テレビで天気図[てんきず]を見[み]ました。 | Tôi xem bản đồ thời tiết trên tivi.
+予測[よそく] | n,v3 | DỰ TRẮC | dự đoán | - | - | 地震[じしん]を予測[よそく]するのは難[むずか]しいです。 | Dự đoán động đất rất khó.
+発生[はっせい] | n,v3 | PHÁT SINH | phát sinh, hình thành | - | - | 南[みなみ]の海[うみ]で台風[たいふう]が発生[はっせい]しました。 | Bão hình thành ở biển phía nam.
+上陸[じょうりく] | n,v3 | THƯỢNG LỤC | đổ bộ | - | - | 台風[たいふう]が九州[きゅうしゅう]に上陸[じょうりく]しました。 | Bão đã đổ bộ vào Kyushu.
+雨季[うき] | n | VŨ QUÝ | mùa mưa | - | - | ベトナムの南部[なんぶ]は五月[ごがつ]から雨季[うき]です。 | Miền Nam Việt Nam vào mùa mưa từ tháng năm.
+乾季[かんき] | n | CAN QUÝ | mùa khô | - | - | 乾季[かんき]は雨[あめ]がほとんど降[ふ]りません。 | Mùa khô hầu như không mưa.
+降水量[こうすいりょう] | n | GIÁNG THỦY LƯỢNG | lượng mưa | - | - | 六月[ろくがつ]は降水量[こうすいりょう]が多[おお]いです。 | Tháng sáu lượng mưa nhiều.
+冷[ひ]え込[こ]む | v1 | LÃNH NHẬP | trở lạnh | - | - | 今夜[こんや]はかなり冷[ひ]え込[こ]むそうです。 | Nghe nói đêm nay trở lạnh đáng kể.
+稲妻[いなずま] | n | ĐẠO THÊ | tia chớp | - | - | 空[そら]に稲妻[いなずま]が走[はし]りました。 | Tia chớp lóe trên bầu trời.
+雲行[くもゆ]き | n | VÂN HÀNH | đường mây, chiều hướng | 雲行[くもゆ]き が 怪[あや]しい | trời có vẻ sắp mưa | 雲行[くもゆ]きが怪[あや]しいので早[はや]く帰[かえ]りましょう。 | Trời có vẻ sắp mưa, về sớm thôi.
+怪[あや]しい | adj-i | QUÁI | đáng ngờ | - | - | 怪[あや]しい人[ひと]がいたら連絡[れんらく]してください。 | Nếu thấy người khả nghi hãy liên lạc.
+日[ひ]の入[い]り | n | NHẬT NHẬP | mặt trời lặn | - | - | 冬[ふゆ]は日[ひ]の入[い]りが早[はや]いです。 | Mùa đông mặt trời lặn sớm.
+夜明[よあ]け | n | DẠ MINH | bình minh | - | - | 夜明[よあ]け前[まえ]に出発[しゅっぱつ]しました。 | Chúng tôi xuất phát trước bình minh.
+星空[ほしぞら] | n | TINH KHÔNG | bầu trời sao | - | - | 山[やま]の上[うえ]で美[うつく]しい星空[ほしぞら]を見[み]ました。 | Trên núi tôi ngắm bầu trời sao tuyệt đẹp.
+風向[かざむ]き | n | PHONG HƯỚNG | hướng gió | - | - | 風向[かざむ]きが変[か]わりました。 | Hướng gió đã thay đổi.
+風速[ふうそく] | n | PHONG TỐC | tốc độ gió | - | - | 最大[さいだい]風速[ふうそく]は四十[よんじゅう]メートルです。 | Tốc độ gió tối đa là 40 m/s.
+雨戸[あまど] | n | VŨ HỘ | cửa chớp chống mưa | 雨戸[あまど] を 閉[し]める | đóng cửa chớp | 台風[たいふう]が来[く]るので雨戸[あまど]を閉[し]めました。 | Bão đến nên tôi đóng cửa chớp.
+堤防[ていぼう] | n | ĐÊ PHÒNG | đê | - | - | 大雨[おおあめ]で堤防[ていぼう]が壊[こわ]れました。 | Mưa lớn làm vỡ đê.
+警戒[けいかい] | n,v3 | CẢNH GIỚI | cảnh giác, đề phòng | - | - | 土砂崩[どしゃくず]れに警戒[けいかい]してください。 | Hãy đề phòng sạt lở đất.
+耐震[たいしん] | n | NẠI CHẤN | chống động đất | - | - | このビルは耐震[たいしん]工事[こうじ]をしました。 | Tòa nhà này đã thi công chống động đất.
+備蓄[びちく] | n,v3 | BỊ SÚC | dự trữ | - | - | 水[みず]と食料[しょくりょう]を備蓄[びちく]しています。 | Tôi dự trữ nước và thức ăn.
+給水[きゅうすい] | n,v3 | CẤP THỦY | cấp nước | {給水[きゅうすい]} 車[しゃ] | xe cấp nước | 断水[だんすい]した地域[ちいき]に給水[きゅうすい]車[しゃ]が来[き]ました。 | Xe cấp nước đã đến khu vực bị cắt nước.
+避難経路[ひなんけいろ] | n | TỴ NẠN KINH LỘ | lối thoát hiểm | - | - | 避難経路[ひなんけいろ]を確認[かくにん]しておきましょう。 | Hãy xác nhận trước lối thoát hiểm.
+落雷[らくらい] | n,v3 | LẠC LÔI | sét đánh | - | - | 落雷[らくらい]で停電[ていでん]しました。 | Sét đánh nên mất điện.
+大気[たいき] | n | ĐẠI KHÍ | khí quyển, không khí | {大気[たいき]} 汚染[おせん] | ô nhiễm không khí | 大気[たいき]汚染[おせん]が問題[もんだい]になっています。 | Ô nhiễm không khí đang thành vấn đề.
+汚染[おせん] | n,v3 | Ô NHIỄM | ô nhiễm | - | - | 川[かわ]の水[みず]が汚染[おせん]されています。 | Nước sông bị ô nhiễm.
+黄砂[こうさ] | n | HOÀNG SA | bụi vàng (cát từ lục địa) | - | - | 春[はる]は黄砂[こうさ]が飛[と]んできます。 | Mùa xuân bụi vàng bay tới.
+晴[は]れ男[おとこ] | n | TÌNH NAM | người đi đâu cũng nắng | - | - | 私[わたし]は晴[は]れ男[おとこ]なので明日[あした]も晴[は]れますよ。 | Tôi là người đi đâu cũng nắng nên mai cũng nắng thôi.
+蒸発[じょうはつ] | n,v3 | CHƯNG PHÁT | bốc hơi | - | - | 暑[あつ]さで水[みず]が蒸発[じょうはつ]しました。 | Nóng quá nên nước đã bốc hơi.
+雨量[うりょう] | n | VŨ LƯỢNG | lượng mưa | - | - | 一時間[いちじかん]の雨量[うりょう]が百[ひゃく]ミリを超[こ]えました。 | Lượng mưa một giờ vượt 100 mm.
+熱帯夜[ねったいや] | n | NHIỆT ĐỚI DẠ | đêm nóng (trên 25 độ) | - | - | 熱帯夜[ねったいや]が続[つづ]いて眠[ねむ]れません。 | Đêm nóng kéo dài nên không ngủ được.

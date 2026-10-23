@@ -1,0 +1,87 @@
+@topic t02
+@ja 数[かず]と時間[じかん]
+@vi Số đếm, ngày tháng và thời gian
+@desc Đếm số, đếm đồ vật, thứ trong tuần, ngày trong tháng và các mốc thời gian dùng hằng ngày.
+一[いち] | num | NHẤT | một | - | - | 一[いち]から十[じゅう]まで数[かぞ]えてください。 | Hãy đếm từ một đến mười.
+二[に] | num | NHỊ | hai | - | - | 二[に]番[ばん]のバスに乗[の]ります。 | Tôi đi xe buýt số hai.
+三[さん] | num | TAM | ba | - | - | 三[さん]時[じ]に会議[かいぎ]があります。 | Có cuộc họp lúc ba giờ.
+四[よん] | num | TỨ | bốn | - | - | 教室[きょうしつ]は四[よん]階[かい]です。 | Lớp học ở tầng bốn.
+五[ご] | num | NGŨ | năm (số 5) | - | - | 五[ご]分[ふん]だけ待[ま]ってください。 | Xin đợi tôi năm phút thôi.
+六[ろく] | num | LỤC | sáu | - | - | 毎朝[まいあさ]六[ろく]時[じ]に起[お]きます。 | Mỗi sáng tôi dậy lúc sáu giờ.
+七[なな] | num | THẤT | bảy | - | - | 一週間[いっしゅうかん]は七日[なのか]です。 | Một tuần có bảy ngày.
+八[はち] | num | BÁT | tám | - | - | 授業[じゅぎょう]は八[はち]時[じ]半[はん]に始[はじ]まります。 | Giờ học bắt đầu lúc tám rưỡi.
+九[きゅう] | num | CỬU | chín | - | - | 店[みせ]は夜[よる]九[く]時[じ]まで開[あ]いています。 | Cửa hàng mở đến chín giờ tối.
+十[じゅう] | num | THẬP | mười | - | - | この本[ほん]は十[じゅう]ドルです。 | Cuốn sách này mười đô la.
+百[ひゃく] | num | BÁCH | một trăm | - | - | テストで百[ひゃく]点[てん]を取[と]りました。 | Tôi được một trăm điểm trong bài kiểm tra.
+千[せん] | num | THIÊN | một nghìn | - | - | このパンは千[せん]円[えん]です。 | Cái bánh mì này giá một nghìn yên.
+万[まん] | num | VẠN | mười nghìn | - | - | 一万[いちまん]円[えん]を両替[りょうがえ]しました。 | Tôi đã đổi một vạn yên.
+一[ひと]つ | num | NHẤT | một cái | - | - | りんごを一[ひと]つください。 | Cho tôi một quả táo.
+二[ふた]つ | num | NHỊ | hai cái | - | - | 卵[たまご]を二[ふた]つ買[か]いました。 | Tôi đã mua hai quả trứng.
+三[みっ]つ | num | TAM | ba cái | - | - | 箱[はこ]が三[みっ]つあります。 | Có ba cái hộp.
+四[よっ]つ | num | TỨ | bốn cái | - | - | 椅子[いす]を四[よっ]つ並[なら]べてください。 | Hãy xếp bốn cái ghế.
+五[いつ]つ | num | NGŨ | năm cái | - | - | みかんを五[いつ]つもらいました。 | Tôi được cho năm quả quýt.
+六[むっ]つ | num | LỤC | sáu cái | - | - | ケーキを六[むっ]つ注文[ちゅうもん]しました。 | Tôi đã đặt sáu cái bánh.
+七[なな]つ | num | THẤT | bảy cái | - | - | 部屋[へや]が七[なな]つある家[いえ]です。 | Đó là ngôi nhà có bảy phòng.
+八[やっ]つ | num | BÁT | tám cái | - | - | おにぎりを八[やっ]つ作[つく]りました。 | Tôi đã làm tám nắm cơm.
+九[ここの]つ | num | CỬU | chín cái | - | - | 窓[まど]が九[ここの]つあります。 | Có chín cái cửa sổ.
+十[とお] | num | THẬP | mười cái | - | - | 鉛筆[えんぴつ]を十[とお]買[か]いました。 | Tôi đã mua mười cây bút chì.
+月曜日[げつようび] | n | NGUYỆT DIỆU NHẬT | thứ Hai | - | - | 月曜日[げつようび]から仕事[しごと]が始[はじ]まります。 | Công việc bắt đầu từ thứ Hai.
+火曜日[かようび] | n | HỎA DIỆU NHẬT | thứ Ba | - | - | 火曜日[かようび]は日本語[にほんご]の授業[じゅぎょう]があります。 | Thứ Ba có giờ học tiếng Nhật.
+水曜日[すいようび] | n | THỦY DIỆU NHẬT | thứ Tư | - | - | 水曜日[すいようび]に病院[びょういん]へ行[い]きます。 | Thứ Tư tôi đi bệnh viện.
+木曜日[もくようび] | n | MỘC DIỆU NHẬT | thứ Năm | - | - | 木曜日[もくようび]はゴミを出[だ]す日[ひ]です。 | Thứ Năm là ngày đổ rác.
+金曜日[きんようび] | n | KIM DIỆU NHẬT | thứ Sáu | - | - | 金曜日[きんようび]の夜[よる]、友達[ともだち]と飲[の]みに行[い]きます。 | Tối thứ Sáu tôi đi uống với bạn.
+土曜日[どようび] | n | THỔ DIỆU NHẬT | thứ Bảy | - | - | 土曜日[どようび]は会社[かいしゃ]が休[やす]みです。 | Thứ Bảy công ty được nghỉ.
+日曜日[にちようび] | n | NHẬT DIỆU NHẬT | Chủ nhật | - | - | 日曜日[にちようび]は家[いえ]で休[やす]みます。 | Chủ nhật tôi nghỉ ở nhà.
+一日[ついたち] | n | NHẤT NHẬT | ngày mùng một | - | - | 四月[しがつ]一日[ついたち]に入社[にゅうしゃ]しました。 | Tôi vào công ty ngày mùng một tháng Tư.
+二日[ふつか] | n | NHỊ NHẬT | ngày mùng hai; hai ngày | - | - | 二日[ふつか]間[かん]、学校[がっこう]を休[やす]みました。 | Tôi đã nghỉ học hai ngày.
+三日[みっか] | n | TAM NHẬT | ngày mùng ba; ba ngày | - | - | 三月[さんがつ]三日[みっか]はひな祭[まつ]りです。 | Ngày 3 tháng 3 là lễ hội búp bê.
+四日[よっか] | n | TỨ NHẬT | ngày mùng bốn; bốn ngày | - | - | 旅行[りょこう]は四日[よっか]間[かん]です。 | Chuyến du lịch kéo dài bốn ngày.
+五日[いつか] | n | NGŨ NHẬT | ngày mùng năm; năm ngày | - | - | 五月[ごがつ]五日[いつか]は子供[こども]の日[ひ]です。 | Ngày 5 tháng 5 là ngày Thiếu nhi.
+六日[むいか] | n | LỤC NHẬT | ngày mùng sáu; sáu ngày | - | - | 六日[むいか]に国[くに]へ帰[かえ]ります。 | Ngày mùng sáu tôi về nước.
+七日[なのか] | n | THẤT NHẬT | ngày mùng bảy; bảy ngày | - | - | 七月[しちがつ]七日[なのか]は七夕[たなばた]です。 | Ngày 7 tháng 7 là lễ Thất tịch.
+八日[ようか] | n | BÁT NHẬT | ngày mùng tám; tám ngày | - | - | 八日[ようか]までにレポートを出[だ]してください。 | Hãy nộp báo cáo trước ngày mùng tám.
+九日[ここのか] | n | CỬU NHẬT | ngày mùng chín; chín ngày | - | - | 九日[ここのか]の会議[かいぎ]に出[で]ます。 | Tôi sẽ dự cuộc họp ngày mùng chín.
+十日[とおか] | n | THẬP NHẬT | ngày mùng mười; mười ngày | - | - | 十日[とおか]に給料[きゅうりょう]が出[で]ます。 | Ngày mùng mười có lương.
+二十日[はつか] | n | NHỊ THẬP NHẬT | ngày hai mươi; hai mươi ngày | - | - | 二十日[はつか]は母[はは]の誕生日[たんじょうび]です。 | Ngày hai mươi là sinh nhật mẹ tôi.
+今[いま] | n | KIM | bây giờ | - | - | 今[いま]、何[なん]時[じ]ですか。 | Bây giờ là mấy giờ?
+今日[きょう] | n | KIM NHẬT | hôm nay | - | - | 今日[きょう]はとても暑[あつ]いです。 | Hôm nay trời rất nóng.
+明日[あした] | n | MINH NHẬT | ngày mai | - | - | 明日[あした]は雨[あめ]が降[ふ]るそうです。 | Nghe nói ngày mai trời mưa.
+昨日[きのう] | n | TẠC NHẬT | hôm qua | - | - | 昨日[きのう]は早[はや]く寝[ね]ました。 | Hôm qua tôi ngủ sớm.
+一昨日[おととい] | n | NHẤT TẠC NHẬT | hôm kia | - | - | 一昨日[おととい]、日本[にほん]に着[つ]きました。 | Tôi đã đến Nhật hôm kia.
+明後日[あさって] | n | MINH HẬU NHẬT | ngày kia | - | - | 明後日[あさって]は試験[しけん]があります。 | Ngày kia có bài thi.
+朝[あさ] | n | TRIỀU | buổi sáng | - | - | 朝[あさ]はパンを食[た]べます。 | Buổi sáng tôi ăn bánh mì.
+昼[ひる] | n | TRÚ | buổi trưa; ban ngày | - | - | 昼[ひる]は会社[かいしゃ]の食堂[しょくどう]で食[た]べます。 | Buổi trưa tôi ăn ở căng tin công ty.
+晩[ばん] | n | VÃN | buổi tối | - | - | 晩[ばん]ご飯[はん]は七[しち]時[じ]ごろです。 | Bữa tối khoảng bảy giờ.
+夜[よる] | n | DẠ | ban đêm | - | - | 夜[よる]、一人[ひとり]で歩[ある]くのは危[あぶ]ないです。 | Đi bộ một mình ban đêm thì nguy hiểm.
+夕方[ゆうがた] | n | TỊCH PHƯƠNG | chiều tối | - | - | 夕方[ゆうがた]から雨[あめ]になりました。 | Từ chiều tối thì trời mưa.
+午前[ごぜん] | n | NGỌ TIỀN | buổi sáng (trước 12 giờ) | - | - | 午前[ごぜん]十[じゅう]時[じ]に駅[えき]で会[あ]いましょう。 | Mình gặp nhau ở ga lúc mười giờ sáng nhé.
+午後[ごご] | n | NGỌ HẬU | buổi chiều (sau 12 giờ) | - | - | 午後[ごご]は図書館[としょかん]で勉強[べんきょう]します。 | Buổi chiều tôi học ở thư viện.
+今朝[けさ] | n | KIM TRIỀU | sáng nay | - | - | 今朝[けさ]、地震[じしん]がありました。 | Sáng nay đã có động đất.
+今晩[こんばん] | n | KIM VÃN | tối nay | - | - | 今晩[こんばん]、一緒[いっしょ]に食事[しょくじ]しませんか。 | Tối nay mình đi ăn cùng nhau không?
+今週[こんしゅう] | n | KIM CHU | tuần này | - | - | 今週[こんしゅう]はとても忙[いそが]しいです。 | Tuần này tôi rất bận.
+来週[らいしゅう] | n | LAI CHU | tuần sau | - | - | 来週[らいしゅう]、引[ひ]っ越[こ]しをします。 | Tuần sau tôi chuyển nhà.
+先週[せんしゅう] | n | TIÊN CHU | tuần trước | - | - | 先週[せんしゅう]、京都[きょうと]へ行[い]きました。 | Tuần trước tôi đã đi Kyoto.
+今月[こんげつ] | n | KIM NGUYỆT | tháng này | - | - | 今月[こんげつ]は雨[あめ]が多[おお]いです。 | Tháng này mưa nhiều.
+来月[らいげつ] | n | LAI NGUYỆT | tháng sau | - | - | 来月[らいげつ]から新[あたら]しい仕事[しごと]を始[はじ]めます。 | Từ tháng sau tôi bắt đầu công việc mới.
+先月[せんげつ] | n | TIÊN NGUYỆT | tháng trước | - | - | 先月[せんげつ]、日本語[にほんご]の試験[しけん]を受[う]けました。 | Tháng trước tôi đã thi tiếng Nhật.
+今年[ことし] | n | KIM NIÊN | năm nay | - | - | 今年[ことし]の夏[なつ]は暑[あつ]かったです。 | Mùa hè năm nay nóng.
+来年[らいねん] | n | LAI NIÊN | năm sau | - | - | 来年[らいねん]、大学[だいがく]に入[はい]ります。 | Sang năm tôi vào đại học.
+去年[きょねん] | n | KHỨ NIÊN | năm ngoái | - | - | 去年[きょねん]、日本[にほん]に来[き]ました。 | Tôi đến Nhật năm ngoái.
+毎日[まいにち] | n | MỖI NHẬT | mỗi ngày | - | - | 毎日[まいにち]三十[さんじゅっ]分[ぷん]歩[ある]きます。 | Mỗi ngày tôi đi bộ ba mươi phút.
+毎朝[まいあさ] | n | MỖI TRIỀU | mỗi sáng | - | - | 毎朝[まいあさ]、コーヒーを飲[の]みます。 | Sáng nào tôi cũng uống cà phê.
+毎晩[まいばん] | n | MỖI VÃN | mỗi tối | - | - | 毎晩[まいばん]、日記[にっき]を書[か]きます。 | Tối nào tôi cũng viết nhật ký.
+毎週[まいしゅう] | n | MỖI CHU | mỗi tuần | - | - | 毎週[まいしゅう]土曜日[どようび]にテニスをします。 | Thứ Bảy hằng tuần tôi chơi quần vợt.
+毎月[まいつき] | n | MỖI NGUYỆT | mỗi tháng | - | - | 毎月[まいつき]、国[くに]にお金[かね]を送[おく]ります。 | Mỗi tháng tôi gửi tiền về nước.
+毎年[まいとし] | n | MỖI NIÊN | mỗi năm | - | - | 毎年[まいとし]、お正月[しょうがつ]に家族[かぞく]が集[あつ]まります。 | Mỗi năm cả nhà tụ họp vào dịp Tết.
+時間[じかん] | n | THỜI GIAN | thời gian; tiếng đồng hồ | 時間[じかん] が かかる | mất thời gian | 駅[えき]まで歩[ある]くと時間[じかん]がかかります。 | Đi bộ đến ga thì mất thời gian.
+何時[なんじ] | q | HÀ THỜI | mấy giờ | - | - | 映画[えいが]は何時[なんじ]に始[はじ]まりますか。 | Phim bắt đầu lúc mấy giờ?
+いつ | q | - | khi nào | - | - | 誕生日[たんじょうび]はいつですか。 | Sinh nhật bạn là khi nào?
+半[はん] | n | BÁN | rưỡi; một nửa | - | - | 毎晩[まいばん]十一[じゅういち]時[じ]半[はん]に寝[ね]ます。 | Tối nào tôi cũng ngủ lúc mười một rưỡi.
+誕生日[たんじょうび] | n | ĐẢN SINH NHẬT | sinh nhật | 誕生日[たんじょうび] の プレゼント | quà sinh nhật | 誕生日[たんじょうび]のプレゼントに時計[とけい]をもらいました。 | Tôi được tặng chiếc đồng hồ làm quà sinh nhật.
+分[ふん] | ctr | PHÂN | phút | - | - | 駅[えき]から歩[ある]いて十[じゅっ]分[ぷん]です。 | Đi bộ từ ga mất mười phút.
+時[じ] | ctr | THỜI | giờ (chỉ giờ) | - | - | 銀行[ぎんこう]は三[さん]時[じ]に閉[し]まります。 | Ngân hàng đóng cửa lúc ba giờ.
+歳[さい] | ctr | TUẾ | tuổi | - | - | 妹[いもうと]は八[はっ]歳[さい]です。 | Em gái tôi tám tuổi.
+人[にん] | ctr | NHÂN | người (đếm người) | - | - | このクラスには学生[がくせい]が二十[にじゅう]人[にん]います。 | Lớp này có hai mươi học sinh.
+年[ねん] | ctr | NIÊN | năm (đếm năm) | - | - | 日本[にほん]に来[き]て三[さん]年[ねん]になります。 | Tôi đến Nhật được ba năm rồi.
+週間[しゅうかん] | ctr | CHU GIAN | tuần (đếm tuần) | - | - | 夏休[なつやす]みは二[に]週間[しゅうかん]です。 | Kỳ nghỉ hè dài hai tuần.
+か月[げつ] | ctr | NGUYỆT | tháng (đếm tháng) | - | - | 一[いっ]か月[げつ]に一[いち]回[かい]、髪[かみ]を切[き]ります。 | Mỗi tháng tôi cắt tóc một lần.

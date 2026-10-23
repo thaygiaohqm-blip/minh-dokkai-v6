@@ -1,0 +1,103 @@
+@topic t02
+@ja 健康[けんこう]・病院[びょういん]
+@vi Sức khỏe và bệnh viện
+@desc Triệu chứng, bộ phận cơ thể, khám chữa bệnh, thuốc men và những thói quen giữ gìn sức khỏe.
+健康[けんこう] | n,adj-na | KIỆN KHANG | sức khỏe; khỏe mạnh | 健康[けんこう] に 気[き] を つける | chú ý giữ sức khỏe | 年[とし]を取[と]ったら、健康[けんこう]に気[き]をつけましょう。 | Có tuổi rồi thì hãy chú ý sức khỏe.
+健康診断[けんこうしんだん] | n | KIỆN KHANG CHẨN ĐOÁN | khám sức khỏe | 健康診断[けんこうしんだん] を 受[う]ける | đi khám sức khỏe | 会社[かいしゃ]で年[ねん]に一[いち]回[かい]健康診断[けんこうしんだん]を受[う]けます。 | Mỗi năm công ty cho khám sức khỏe một lần.
+看護師[かんごし] | n | KHÁN HỘ SƯ | y tá, điều dưỡng | - | - | 看護師[かんごし]さんが熱[ねつ]を測[はか]ってくれました。 | Chị y tá đã đo nhiệt độ cho tôi.
+患者[かんじゃ] | n | HOẠN GIẢ | bệnh nhân | - | - | 冬[ふゆ]は風邪[かぜ]の患者[かんじゃ]が増[ふ]えます。 | Mùa đông bệnh nhân bị cảm tăng lên.
+歯医者[はいしゃ] | n | XỈ Y GIẢ | nha sĩ | 歯医者[はいしゃ] に 行[い]く | đi nha sĩ | 歯[は]が痛[いた]いので、歯医者[はいしゃ]に行[い]きます。 | Tôi đau răng nên đi nha sĩ.
+内科[ないか] | n | NỘI KHOA | khoa nội | - | - | 熱[ねつ]がある時[とき]は内科[ないか]で診[み]てもらいます。 | Khi bị sốt thì tôi khám ở khoa nội.
+外科[げか] | n | NGOẠI KHOA | khoa ngoại | - | - | 足[あし]を怪我[けが]して外科[げか]に行[い]きました。 | Tôi bị thương ở chân nên đã đến khoa ngoại.
+診察[しんさつ] | n,v3 | CHẨN SÁT | khám bệnh | 診察[しんさつ] を 受[う]ける | được khám | 午前[ごぜん]中[ちゅう]に診察[しんさつ]を受[う]けました。 | Tôi đã được khám vào buổi sáng.
+診[み]る | v2 | CHẨN | khám (bệnh) | 医者[いしゃ] に 診[み]て もらう | nhờ bác sĩ khám | 早[はや]く医者[いしゃ]に診[み]てもらったほうがいいですよ。 | Bạn nên đi bác sĩ khám sớm đi.
+検査[けんさ] | n,v3 | KIỂM TRA | xét nghiệm, kiểm tra | 血液[けつえき] {検査[けんさ]} | xét nghiệm máu | 病院[びょういん]で血液[けつえき]検査[けんさ]をしました。 | Tôi đã xét nghiệm máu ở bệnh viện.
+治療[ちりょう] | n,v3 | TRỊ LIỆU | điều trị | 治療[ちりょう] を 受[う]ける | được điều trị | 虫歯[むしば]の治療[ちりょう]を受[う]けています。 | Tôi đang điều trị răng sâu.
+手術[しゅじゅつ] | n,v3 | THỦ THUẬT | phẫu thuật | 手術[しゅじゅつ] を 受[う]ける | được phẫu thuật | 父[ちち]は来週[らいしゅう]、胃[い]の手術[しゅじゅつ]を受[う]けます。 | Tuần sau bố tôi phẫu thuật dạ dày.
+注射[ちゅうしゃ] | n,v3 | CHÚ XẠ | tiêm | 注射[ちゅうしゃ] を 打[う]つ | tiêm thuốc | 子供[こども]は注射[ちゅうしゃ]を打[う]たれて泣[な]きました。 | Đứa bé bị tiêm nên đã khóc.
+退院[たいいん] | n,v3 | THOÁI VIỆN | ra viện | - | - | 祖母[そぼ]は来週[らいしゅう]退院[たいいん]できるそうです。 | Nghe nói tuần sau bà tôi được ra viện.
+通院[つういん] | n,v3 | THÔNG VIỆN | đi viện định kỳ | - | - | 週[しゅう]に一[いち]回[かい]、リハビリのために通院[つういん]しています。 | Mỗi tuần tôi đến viện một lần để tập phục hồi.
+症状[しょうじょう] | n | CHỨNG TRẠNG | triệu chứng | 症状[しょうじょう] が 出[で]る | xuất hiện triệu chứng | 風邪[かぜ]の症状[しょうじょう]が出[で]たら、すぐ休[やす]んでください。 | Có triệu chứng cảm thì hãy nghỉ ngay.
+具合[ぐあい] | n | CỤ HỢP | tình trạng (sức khỏe, máy móc) | 具合[ぐあい] が 悪[わる]い | không khỏe | 朝[あさ]から具合[ぐあい]が悪[わる]くて、何[なに]も食[た]べられません。 | Từ sáng tôi không khỏe, không ăn được gì.
+調子[ちょうし] | n | ĐIỀU TỬ | trạng thái, phong độ | 調子[ちょうし] が いい | phong độ tốt | 最近[さいきん]、体[からだ]の調子[ちょうし]がいいです。 | Dạo này cơ thể tôi khỏe.
+咳[せき] | n | KHÁI | ho | 咳[せき] が 出[で]る | bị ho | 一[いっ]週間[しゅうかん]前[まえ]から咳[せき]が出[で]ています。 | Tôi bị ho từ một tuần trước.
+くしゃみ | n | - | hắt hơi | くしゃみ が 出[で]る | hắt hơi | 花粉[かふん]のせいで、くしゃみが止[と]まりません。 | Vì phấn hoa mà tôi hắt hơi không ngừng.
+鼻水[はなみず] | n | TỴ THỦY | nước mũi | 鼻水[はなみず] が 出[で]る | sổ mũi | 寒[さむ]くて鼻水[はなみず]が出[で]ます。 | Lạnh quá nên tôi bị sổ mũi.
+喉[のど] | n | HẦU | cổ họng | 喉[のど] が 渇[かわ]く | khát nước | 運動[うんどう]の後[あと]は喉[のど]が渇[かわ]きます。 | Sau khi vận động thì khát nước.
+胃[い] | n | VỊ | dạ dày | 胃[い] が 痛[いた]む | đau dạ dày | 食[た]べすぎて胃[い]が痛[いた]みます。 | Ăn nhiều quá nên tôi đau dạ dày.
+心臓[しんぞう] | n | TÂM TẠNG | tim | 心臓[しんぞう] が ドキドキ する | tim đập thình thịch | 発表[はっぴょう]の前[まえ]は心臓[しんぞう]がドキドキします。 | Trước khi thuyết trình tim tôi đập thình thịch.
+骨[ほね] | n | CỐT | xương | 骨[ほね] が 折[お]れる | gãy xương | 転[ころ]んで腕[うで]の骨[ほね]が折[お]れました。 | Tôi bị ngã gãy xương tay.
+骨折[こっせつ] | n,v3 | CỐT CHIẾT | gãy xương | - | - | スキーで足[あし]を骨折[こっせつ]しました。 | Tôi bị gãy chân khi trượt tuyết.
+血[ち] | n | HUYẾT | máu | 血[ち] が 出[で]る | chảy máu | 指[ゆび]を切[き]って血[ち]が出[で]ました。 | Tôi đứt tay chảy máu.
+肌[はだ] | n | CƠ | da | 肌[はだ] が 弱[よわ]い | da nhạy cảm | 私[わたし]は肌[はだ]が弱[よわ]いので、この石鹸[せっけん]を使[つか]っています。 | Da tôi nhạy cảm nên tôi dùng loại xà phòng này.
+肩[かた] | n | KIÊN | vai | 肩[かた] が 凝[こ]る | mỏi vai | パソコンの仕事[しごと]で肩[かた]が凝[こ]ります。 | Làm việc máy tính nên tôi bị mỏi vai.
+腰[こし] | n | YÊU | hông, thắt lưng | 腰[こし] を 痛[いた]める | đau lưng | 重[おも]い荷物[にもつ]を持[も]って腰[こし]を痛[いた]めました。 | Bê đồ nặng nên tôi bị đau lưng.
+腕[うで] | n | OẢN | cánh tay | - | - | 腕[うで]を伸[の]ばしてストレッチをしましょう。 | Hãy duỗi tay ra và giãn cơ.
+膝[ひざ] | n | TẤT | đầu gối | - | - | 階段[かいだん]を下[お]りる時[とき]、膝[ひざ]が痛[いた]いです。 | Lúc xuống cầu thang tôi bị đau đầu gối.
+虫歯[むしば] | n | TRÙNG XỈ | răng sâu | - | - | 甘[あま]いものばかり食[た]べると虫歯[むしば]になりますよ。 | Toàn ăn đồ ngọt là bị sâu răng đấy.
+体温[たいおん] | n | THỂ ÔN | nhiệt độ cơ thể | 体温[たいおん] を 測[はか]る | đo nhiệt độ | 毎朝[まいあさ]体温[たいおん]を測[はか]ってください。 | Mỗi sáng hãy đo nhiệt độ.
+測[はか]る | v1 | TRẮC | đo | 血圧[けつあつ] を 測[はか]る | đo huyết áp | 薬局[やっきょく]で血圧[けつあつ]を測[はか]りました。 | Tôi đã đo huyết áp ở hiệu thuốc.
+血圧[けつあつ] | n | HUYẾT ÁP | huyết áp | 血圧[けつあつ] が 高[たか]い | huyết áp cao | 父[ちち]は血圧[けつあつ]が高[たか]いので、塩分[えんぶん]を控[ひか]えています。 | Bố tôi huyết áp cao nên hạn chế muối.
+体重[たいじゅう] | n | THỂ TRỌNG | cân nặng | 体重[たいじゅう] が 増[ふ]える | tăng cân | お正月[しょうがつ]に体重[たいじゅう]が三[さん]キロ増[ふ]えました。 | Dịp Tết tôi tăng ba cân.
+身長[しんちょう] | n | THÂN TRƯỜNG | chiều cao | 身長[しんちょう] が 伸[の]びる | cao lên | 息子[むすこ]は一年[いちねん]で身長[しんちょう]が十[じゅっ]センチ伸[の]びました。 | Con trai tôi cao thêm mười phân trong một năm.
+太[ふと]る | v1 | THÁI | béo lên | 少[すこ]し 太[ふと]る | béo lên chút | 日本[にほん]に来[き]てから少[すこ]し太[ふと]りました。 | Từ khi sang Nhật tôi béo lên một chút.
+痩[や]せる | v2 | SẤU | gầy đi | 五[ご]キロ 痩[や]せる | giảm năm cân | 毎日[まいにち]歩[ある]いて五[ご]キロ痩[や]せました。 | Đi bộ mỗi ngày nên tôi giảm được năm cân.
+ダイエット | n,v3 | - | ăn kiêng, giảm cân | ダイエット を 始[はじ]める | bắt đầu giảm cân | 夏[なつ]までにダイエットを始[はじ]めます。 | Tôi bắt đầu giảm cân trước mùa hè.
+寝不足[ねぶそく] | n | TẨM BẤT TÚC | thiếu ngủ | - | - | 寝不足[ねぶそく]で仕事[しごと]に集中[しゅうちゅう]できません。 | Thiếu ngủ nên tôi không tập trung làm việc được.
+睡眠[すいみん] | n | THỤY MIÊN | giấc ngủ | 睡眠[すいみん] を 取[と]る | ngủ (đủ giấc) | 十分[じゅうぶん]な睡眠[すいみん]を取[と]ることが大切[たいせつ]です。 | Ngủ đủ giấc là điều quan trọng.
+ストレス | n | - | căng thẳng | ストレス が たまる | bị dồn nén căng thẳng | 仕事[しごと]でストレスがたまっています。 | Công việc làm tôi căng thẳng dồn nén.
+疲[つか]れ | n | BÌ | sự mệt mỏi | 疲[つか]れ が 取[と]れる | hết mệt | お風呂[ふろ]に入[はい]ると疲[つか]れが取[と]れます。 | Tắm bồn xong là hết mệt.
+痛[いた]み | n | THỐNG | cơn đau | 痛[いた]み が 続[つづ]く | đau kéo dài | 三日[みっか]も痛[いた]みが続[つづ]いています。 | Cơn đau đã kéo dài suốt ba ngày.
+痛[いた]む | v1 | THỐNG | đau nhức | - | - | 雨[あめ]の日[ひ]は古[ふる]い傷[きず]が痛[いた]みます。 | Ngày mưa vết thương cũ lại nhức.
+かゆい | adj-i | - | ngứa | - | - | 蚊[か]に刺[さ]されて、足[あし]がかゆいです。 | Bị muỗi đốt nên chân tôi ngứa.
+だるい | adj-i | - | uể oải, mỏi mệt | 体[からだ] が だるい | người uể oải | 熱[ねつ]はないけど、体[からだ]がだるいです。 | Không sốt nhưng người uể oải.
+苦[くる]しい | adj-i | KHỔ | khó chịu, khổ sở | 息[いき] が 苦[くる]しい | khó thở | 走[はし]った後[あと]で息[いき]が苦[くる]しくなりました。 | Chạy xong tôi thấy khó thở.
+息[いき] | n | TỨC | hơi thở | 息[いき] を 吸[す]う | hít vào | 大[おお]きく息[いき]を吸[す]って、吐[は]いてください。 | Hãy hít thật sâu rồi thở ra.
+吐[は]く | v1 | THỔ | nôn; thở ra | - | - | 気分[きぶん]が悪[わる]くて、食[た]べた物[もの]を吐[は]いてしまいました。 | Khó chịu quá nên tôi đã nôn ra.
+吐[は]き気[け] | n | THỔ KHÍ | buồn nôn | 吐[は]き気[け] が する | thấy buồn nôn | 車[くるま]に酔[よ]って吐[は]き気[け]がします。 | Say xe nên tôi thấy buồn nôn.
+めまい | n | - | chóng mặt | めまい が する | bị chóng mặt | 急[きゅう]に立[た]ったら、めまいがしました。 | Đứng dậy đột ngột thì tôi bị chóng mặt.
+頭痛[ずつう] | n | ĐẦU THỐNG | đau đầu | - | - | 寝不足[ねぶそく]で頭痛[ずつう]がひどいです。 | Thiếu ngủ nên tôi đau đầu dữ dội.
+下[さ]がる | v1 | HẠ | hạ xuống, giảm | 熱[ねつ] が 下[さ]がる | hạ sốt | 薬[くすり]を飲[の]んだら、熱[ねつ]が下[さ]がりました。 | Uống thuốc xong thì hạ sốt.
+上[あ]がる | v1 | THƯỢNG | tăng lên, lên | 熱[ねつ] が 上[あ]がる | sốt cao lên | 夜[よる]になって熱[ねつ]が上[あ]がりました。 | Về đêm thì sốt cao hơn.
+倒[たお]れる | v2 | ĐẢO | ngã, đổ; gục | 過労[かろう] で 倒[たお]れる | ngã quỵ vì làm việc quá sức | 同僚[どうりょう]が過労[かろう]で倒[たお]れました。 | Đồng nghiệp tôi bị ngã quỵ vì làm việc quá sức.
+転[ころ]ぶ | v1 | CHUYỂN | ngã (vấp) | 道[みち] で 転[ころ]ぶ | ngã trên đường | 雪[ゆき]の日[ひ]に道[みち]で転[ころ]んでしまいました。 | Hôm tuyết rơi tôi bị ngã trên đường.
+折[お]れる | v2 | CHIẾT | gãy | - | - | 強[つよ]い風[かぜ]で木[き]の枝[えだ]が折[お]れました。 | Gió mạnh làm gãy cành cây.
+傷[きず] | n | THƯƠNG | vết thương, vết xước | 傷[きず] が 治[なお]る | vết thương lành | 傷[きず]が治[なお]るまで、お風呂[ふろ]は控[ひか]えてください。 | Hãy hạn chế tắm bồn cho đến khi vết thương lành.
+火傷[やけど] | n,v3 | HỎA THƯƠNG | bỏng | 手[て] に {火傷[やけど]} する | bỏng tay | 料理[りょうり]中[ちゅう]に手[て]に火傷[やけど]をしました。 | Tôi bị bỏng tay khi đang nấu ăn.
+救急車[きゅうきゅうしゃ] | n | CỨU CẤP XA | xe cấp cứu | 救急車[きゅうきゅうしゃ] を 呼[よ]ぶ | gọi xe cấp cứu | 人[ひと]が倒[たお]れたので、救急車[きゅうきゅうしゃ]を呼[よ]びました。 | Có người ngã quỵ nên tôi đã gọi xe cấp cứu.
+お見舞[みま]い | n | KIẾN VŨ | thăm người ốm | お見舞[みま]い に 行[い]く | đi thăm người ốm | 入院[にゅういん]している友達[ともだち]のお見舞[みま]いに行[い]きました。 | Tôi đi thăm người bạn đang nằm viện.
+保険証[ほけんしょう] | n | BẢO HIỂM CHỨNG | thẻ bảo hiểm | - | - | 病院[びょういん]に行[い]く時[とき]は保険証[ほけんしょう]を忘[わす]れないでください。 | Khi đi viện đừng quên thẻ bảo hiểm.
+受付[うけつけ] | n | THỤ PHÓ | quầy tiếp nhận | 受付[うけつけ] を 済[す]ませる | làm thủ tục tiếp nhận | まず受付[うけつけ]を済[す]ませてから、待合室[まちあいしつ]でお待[ま]ちください。 | Hãy làm thủ tục ở quầy tiếp nhận rồi đợi ở phòng chờ.
+薬局[やっきょく] | n | DƯỢC CỤC | hiệu thuốc | - | - | 処方箋[しょほうせん]を持[も]って薬局[やっきょく]へ行[い]きます。 | Tôi mang đơn thuốc đến hiệu thuốc.
+処方箋[しょほうせん] | n | XỬ PHƯƠNG TIÊN | đơn thuốc | 処方箋[しょほうせん] を 出[だ]す | kê đơn | 医者[いしゃ]が処方箋[しょほうせん]を出[だ]してくれました。 | Bác sĩ đã kê đơn cho tôi.
+副作用[ふくさよう] | n | PHÓ TÁC DỤNG | tác dụng phụ | 副作用[ふくさよう] が ある | có tác dụng phụ | この薬[くすり]は眠[ねむ]くなる副作用[ふくさよう]があります。 | Thuốc này có tác dụng phụ gây buồn ngủ.
+効[き]く | v1 | HIỆU | có hiệu quả (thuốc) | 薬[くすり] が 効[き]く | thuốc có tác dụng | この風邪薬[かぜぐすり]はよく効[き]きます。 | Thuốc cảm này rất công hiệu.
+塗[ぬ]る | v1 | ĐỒ | bôi, quét | 薬[くすり] を 塗[ぬ]る | bôi thuốc | 傷[きず]に薬[くすり]を塗[ぬ]ってください。 | Hãy bôi thuốc lên vết thương.
+目薬[めぐすり] | n | MỤC DƯỢC | thuốc nhỏ mắt | 目薬[めぐすり] を さす | nhỏ thuốc mắt | 目[め]が疲[つか]れたので、目薬[めぐすり]をさしました。 | Mắt mỏi nên tôi nhỏ thuốc mắt.
+アレルギー | n | - | dị ứng | - | - | 私[わたし]は卵[たまご]アレルギーがあります。 | Tôi bị dị ứng trứng.
+インフルエンザ | n | - | cúm | インフルエンザ に かかる | bị cúm | 冬[ふゆ]にインフルエンザにかかりました。 | Mùa đông tôi bị cúm.
+うつる | v1 | - | lây | 風邪[かぜ] が うつる | lây cảm | 家族[かぞく]に風邪[かぜ]がうつらないように、マスクをしています。 | Tôi đeo khẩu trang để không lây cảm cho gia đình.
+マスク | n | - | khẩu trang | マスク を する | đeo khẩu trang | 電車[でんしゃ]の中[なか]ではマスクをしています。 | Trên tàu tôi đeo khẩu trang.
+うがい | n,v3 | - | súc miệng | - | - | 帰[かえ]ったら、手洗[てあら]いとうがいをしましょう。 | Về nhà thì hãy rửa tay và súc miệng.
+予防[よぼう] | n,v3 | DỰ PHÒNG | phòng ngừa | 病気[びょうき] を {予防[よぼう]} する | phòng bệnh | 手洗[てあら]いは病気[びょうき]を予防[よぼう]する一番[いちばん]の方法[ほうほう]です。 | Rửa tay là cách tốt nhất để phòng bệnh.
+栄養[えいよう] | n | DINH DƯỠNG | dinh dưỡng | 栄養[えいよう] を 取[と]る | bổ sung dinh dưỡng | 病気[びょうき]の時[とき]こそ栄養[えいよう]を取[と]ることが大切[たいせつ]です。 | Chính lúc ốm mới cần bổ sung dinh dưỡng.
+無理[むり] | n,adj-na | VÔ LÝ | quá sức; không thể | 無理[むり] を する | làm quá sức | 体[からだ]が大切[たいせつ]だから、無理[むり]をしないでください。 | Sức khỏe là quan trọng, đừng làm quá sức.
+我慢[がまん] | n,v3 | NGÃ MẠN | chịu đựng, nhịn | 痛[いた]み を {我慢[がまん]} する | chịu đau | 痛[いた]みを我慢[がまん]しないで、病院[びょういん]へ行[い]ってください。 | Đừng cố chịu đau, hãy đến bệnh viện.
+禁煙[きんえん] | n,v3 | CẤM YÊN | cấm hút thuốc; bỏ thuốc | - | - | この建物[たてもの]の中[なか]は全部[ぜんぶ]禁煙[きんえん]です。 | Toàn bộ bên trong tòa nhà này cấm hút thuốc.
+やめる | v2 | - | bỏ, thôi | たばこ を やめる | bỏ thuốc lá | 子供[こども]が生[う]まれて、たばこをやめました。 | Có con rồi nên tôi bỏ thuốc lá.
+続[つづ]ける | v2 | TỤC | tiếp tục | 運動[うんどう] を 続[つづ]ける | duy trì vận động | 毎日[まいにち]運動[うんどう]を続[つづ]けることが大事[だいじ]です。 | Duy trì vận động mỗi ngày là điều quan trọng.
+続[つづ]く | v1 | TỤC | (cái gì) tiếp diễn | 雨[あめ] が 続[つづ]く | mưa kéo dài | 一[いっ]週間[しゅうかん]雨[あめ]が続[つづ]いています。 | Mưa đã kéo dài một tuần.
+治[なお]す | v1 | TRỊ | chữa (bệnh) | 病気[びょうき] を 治[なお]す | chữa bệnh | 早[はや]く病気[びょうき]を治[なお]して、仕事[しごと]に戻[もど]りたいです。 | Tôi muốn mau chữa khỏi bệnh để đi làm lại.
+命[いのち] | n | MỆNH | sinh mạng | 命[いのち] を 救[すく]う | cứu mạng | 医者[いしゃ]は多[おお]くの人[ひと]の命[いのち]を救[すく]います。 | Bác sĩ cứu sống rất nhiều người.
+生[い]きる | v2 | SINH | sống | - | - | 祖父[そふ]は百[ひゃく]歳[さい]まで生[い]きました。 | Ông tôi đã sống đến một trăm tuổi.
+亡[な]くなる | v1 | VONG | qua đời | - | - | 去年[きょねん]、祖母[そぼ]が亡[な]くなりました。 | Năm ngoái bà tôi qua đời.
+大事[だいじ] | adj-na | ĐẠI SỰ | quan trọng; giữ gìn | お 大事[だいじ] に | chúc mau khỏe | 「風邪[かぜ]をひきました。」「お大事[だいじ]に。」 | "Tôi bị cảm." "Chúc anh mau khỏe."
+柔[やわ]らかい | adj-i | NHU | mềm | 柔[やわ]らかい もの | đồ mềm | 歯[は]が痛[いた]いので、柔[やわ]らかいものしか食[た]べられません。 | Đau răng nên tôi chỉ ăn được đồ mềm.
+硬[かた]い | adj-i | NGẠNH | cứng | - | - | 硬[かた]いパンは苦手[にがて]です。 | Tôi không thích bánh mì cứng.
+具体的[ぐたいてき] | adj-na | CỤ THỂ ĐÍCH | cụ thể | 具体的[ぐたいてき] に 説明[せつめい] する | giải thích cụ thể | どこが痛[いた]いか、具体的[ぐたいてき]に説明[せつめい]してください。 | Hãy nói cụ thể là đau chỗ nào.
+様子[ようす] | n | DẠNG TỬ | tình hình, dáng vẻ | 様子[ようす] を 見[み]る | theo dõi tình hình | 薬[くすり]を飲[の]んで、二[に]、三日[さんにち]様子[ようす]を見[み]ましょう。 | Uống thuốc rồi theo dõi thêm hai ba ngày.
+安静[あんせい] | n,adj-na | AN TĨNH | nghỉ ngơi tĩnh dưỡng | 安静[あんせい] に する | nằm nghỉ | 熱[ねつ]が下[さ]がるまで安静[あんせい]にしてください。 | Hãy nằm nghỉ cho đến khi hạ sốt.
+酔[よ]う | v1 | TÚY | say (rượu, xe) | 車[くるま] に 酔[よ]う | say xe | バスに乗[の]るとすぐ車[くるま]に酔[よ]います。 | Hễ lên xe buýt là tôi say xe ngay.
+刺[さ]す | v1 | THÍCH | đâm; (côn trùng) đốt | 蚊[か] に 刺[さ]される | bị muỗi đốt | 公園[こうえん]で蚊[か]に刺[さ]されました。 | Tôi bị muỗi đốt ở công viên.
+冷[ひ]やす | v1 | LÃNH | làm mát, chườm lạnh | 頭[あたま] を 冷[ひ]やす | chườm lạnh đầu | 熱[ねつ]がある時[とき]は頭[あたま]を冷[ひ]やします。 | Khi sốt tôi chườm lạnh lên đầu.
+温[あたた]める | v2 | ÔN | làm ấm, hâm nóng | 体[からだ] を 温[あたた]める | làm ấm cơ thể | 生姜[しょうが]は体[からだ]を温[あたた]めてくれます。 | Gừng giúp làm ấm cơ thể.

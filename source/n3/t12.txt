@@ -1,0 +1,129 @@
+@topic t12
+@ja お金[かね]・銀行[ぎんこう]
+@vi Tiền bạc và ngân hàng
+@desc Giao dịch ngân hàng, lương và thu nhập, thuế, vay nợ, tỷ giá, đầu tư và cách nói về giàu nghèo, lời lỗ.
+預金[よきん] | n,v3 | DỰ KIM | tiền gửi | 定期[ていき] {預金[よきん]} | tiền gửi kỳ hạn | ボーナスを定期[ていき]預金[よきん]にしました。 | Tôi gửi tiền thưởng vào tài khoản kỳ hạn.
+利息[りそく] | n | LỢI TỨC | tiền lãi | 利息[りそく] が つく | sinh lãi | 預金[よきん]に利息[りそく]がつきます。 | Tiền gửi sinh lãi.
+金利[きんり] | n | KIM LỢI | lãi suất | 金利[きんり] が 上[あ]がる | lãi suất tăng | 住宅[じゅうたく]ローンの金利[きんり]が上[あ]がりました。 | Lãi suất vay mua nhà đã tăng.
+通帳[つうちょう] | n | THÔNG TRƯỚNG | sổ tài khoản | 通帳[つうちょう] に 記入[きにゅう]する | in sổ | ATMで通帳[つうちょう]に記入[きにゅう]しました。 | Tôi in sổ ở máy ATM.
+暗証番号[あんしょうばんごう] | n | ÁM CHỨNG PHIÊN HIỆU | mã PIN | - | - | 暗証番号[あんしょうばんごう]を忘[わす]れてしまいました。 | Tôi lỡ quên mã PIN.
+キャッシュカード | n | - | thẻ rút tiền | - | - | キャッシュカードでお金[かね]を下[お]ろします。 | Tôi rút tiền bằng thẻ.
+下[お]ろす | v1 | HẠ | rút (tiền) | お金[かね] を 下[お]ろす | rút tiền | 銀行[ぎんこう]でお金[かね]を下[お]ろしました。 | Tôi rút tiền ở ngân hàng.
+引[ひ]き落[お]とし | n | DẪN LẠC | trừ tự động | - | - | 電気代[でんきだい]は口座[こうざ]から引[ひ]き落[お]としです。 | Tiền điện được trừ tự động từ tài khoản.
+送金[そうきん] | n,v3 | TỐNG KIM | chuyển tiền | - | - | 毎月[まいつき]家族[かぞく]に送金[そうきん]しています。 | Hằng tháng tôi chuyển tiền cho gia đình.
+振込先[ふりこみさき] | n | CHẤN NHẬP TIÊN | tài khoản nhận chuyển khoản | - | - | 振込先[ふりこみさき]の口座[こうざ]番号[ばんごう]を確認[かくにん]してください。 | Hãy xác nhận số tài khoản nhận.
+名義[めいぎ] | n | DANH NGHĨA | đứng tên | - | - | 口座[こうざ]は本人[ほんにん]名義[めいぎ]で作[つく]ってください。 | Hãy mở tài khoản đứng tên chính mình.
+本人[ほんにん] | n | BẢN NHÂN | chính người đó | {本人[ほんにん]} 確認[かくにん] | xác minh danh tính | 本人[ほんにん]確認[かくにん]のため身分証明書[みぶんしょうめいしょ]が必要[ひつよう]です。 | Cần giấy tờ tùy thân để xác minh danh tính.
+身分証明書[みぶんしょうめいしょ] | n | THÂN PHẬN CHỨNG MINH THƯ | giấy tờ tùy thân | - | - | 身分証明書[みぶんしょうめいしょ]を見[み]せてください。 | Hãy cho xem giấy tờ tùy thân.
+開設[かいせつ] | n,v3 | KHAI THIẾT | mở, thành lập | 口座[こうざ] を {開設[かいせつ]}する | mở tài khoản | 銀行[ぎんこう]で口座[こうざ]を開設[かいせつ]しました。 | Tôi mở tài khoản ở ngân hàng.
+解約[かいやく] | n,v3 | GIẢI ƯỚC | hủy hợp đồng | - | - | 使[つか]わない口座[こうざ]を解約[かいやく]しました。 | Tôi hủy tài khoản không dùng.
+為替[かわせ] | n | VỊ THẾ | hối đoái | {為替[かわせ]} レート | tỷ giá | 毎日[まいにち]為替[かわせ]レートが変[か]わります。 | Tỷ giá thay đổi hằng ngày.
+円高[えんだか] | n | VIÊN CAO | đồng yên tăng giá | - | - | 円高[えんだか]で海外旅行[かいがいりょこう]が安[やす]くなりました。 | Đồng yên tăng giá nên du lịch nước ngoài rẻ hơn.
+円安[えんやす] | n | VIÊN AN | đồng yên giảm giá | - | - | 円安[えんやす]で輸入品[ゆにゅうひん]が高[たか]くなりました。 | Yên giảm giá nên hàng nhập khẩu đắt lên.
+外貨[がいか] | n | NGOẠI HÓA | ngoại tệ | - | - | 空港[くうこう]で外貨[がいか]に両替[りょうがえ]します。 | Tôi đổi sang ngoại tệ ở sân bay.
+借金[しゃっきん] | n,v3 | TÁ KIM | khoản nợ | 借金[しゃっきん] を 返[かえ]す | trả nợ | 三[さん]年[ねん]かけて借金[しゃっきん]を返[かえ]しました。 | Tôi mất ba năm để trả nợ.
+返済[へんさい] | n,v3 | PHẢN TẾ | hoàn trả | - | - | ローンの返済[へんさい]が終[お]わりました。 | Tôi đã trả xong khoản vay.
+ローン | n | - | khoản vay | ローン を 組[く]む | vay | 車[くるま]を買[か]うためにローンを組[く]みました。 | Tôi vay để mua xe.
+融資[ゆうし] | n,v3 | DUNG TƯ | cho vay vốn | - | - | 銀行[ぎんこう]から融資[ゆうし]を受[う]けました。 | Tôi được ngân hàng cho vay vốn.
+年金[ねんきん] | n | NIÊN KIM | lương hưu | - | - | 祖父[そふ]は年金[ねんきん]で生活[せいかつ]しています。 | Ông tôi sống bằng lương hưu.
+保険料[ほけんりょう] | n | BẢO HIỂM LIỆU | phí bảo hiểm | - | - | 毎月[まいつき]保険料[ほけんりょう]を払[はら]っています。 | Hằng tháng tôi đóng phí bảo hiểm.
+所得[しょとく] | n | SỞ ĐẮC | thu nhập (chịu thuế) | {所得[しょとく]} 税[ぜい] | thuế thu nhập | 給料[きゅうりょう]から所得[しょとく]税[ぜい]が引[ひ]かれます。 | Thuế thu nhập bị trừ từ lương.
+住民税[じゅうみんぜい] | n | TRÚ DÂN THUẾ | thuế cư trú | - | - | 六月[ろくがつ]から住民税[じゅうみんぜい]が始[はじ]まります。 | Từ tháng sáu bắt đầu đóng thuế cư trú.
+確定申告[かくていしんこく] | n,v3 | XÁC ĐỊNH THÂN CÁO | khai thuế cuối năm | - | - | 三月[さんがつ]までに確定申告[かくていしんこく]をします。 | Trước tháng ba phải khai thuế.
+申告[しんこく] | n,v3 | THÂN CÁO | khai báo | - | - | 税関[ぜいかん]で荷物[にもつ]を申告[しんこく]しました。 | Tôi khai báo hành lý ở hải quan.
+収入[しゅうにゅう] | n | THU NHẬP | thu nhập | 収入[しゅうにゅう] が 増[ふ]える | thu nhập tăng | 転職[てんしょく]して収入[しゅうにゅう]が増[ふ]えました。 | Đổi việc nên thu nhập tăng.
+年収[ねんしゅう] | n | NIÊN THU | thu nhập năm | - | - | 彼[かれ]の年収[ねんしゅう]は五百[ごひゃく]万円[まんえん]です。 | Thu nhập năm của anh ấy là năm triệu yên.
+手取[てど]り | n | THỦ THỦ | thực lĩnh | - | - | 給料[きゅうりょう]の手取[てど]りは二十[にじゅう]万円[まんえん]です。 | Lương thực lĩnh là 200 nghìn yên.
+給与明細[きゅうよめいさい] | n | CẤP DỮ MINH TẾ | bảng lương | - | - | 給与明細[きゅうよめいさい]をよく確認[かくにん]してください。 | Hãy kiểm tra kỹ bảng lương.
+支給[しきゅう] | n,v3 | CHI CẤP | cấp phát, chi trả | 交通費[こうつうひ] {支給[しきゅう]} | trợ cấp đi lại | この会社[かいしゃ]は交通費[こうつうひ]が支給[しきゅう]されます。 | Công ty này có trợ cấp đi lại.
+交通費[こうつうひ] | n | GIAO THÔNG PHÍ | chi phí đi lại | - | - | 交通費[こうつうひ]は会社[かいしゃ]が払[はら]います。 | Công ty trả chi phí đi lại.
+経費[けいひ] | n | KINH PHÍ | chi phí, kinh phí | 経費[けいひ] を 削減[さくげん]する | cắt giảm chi phí | 会社[かいしゃ]は経費[けいひ]を削減[さくげん]しています。 | Công ty đang cắt giảm chi phí.
+削減[さくげん] | n,v3 | TƯỚC GIẢM | cắt giảm | - | - | 残業[ざんぎょう]を削減[さくげん]する方針[ほうしん]です。 | Chủ trương là cắt giảm tăng ca.
+方針[ほうしん] | n | PHƯƠNG CHÂM | phương châm, chủ trương | - | - | 会社[かいしゃ]の方針[ほうしん]に従[したが]います。 | Tôi làm theo chủ trương của công ty.
+立[た]て替[か]える | v2 | LẬP THẾ | trả hộ trước | - | - | タクシー代[だい]を立[た]て替[か]えておきます。 | Tôi trả hộ tiền taxi trước nhé.
+赤字[あかじ] | n | XÍCH TỰ | thâm hụt, lỗ | 赤字[あかじ] に なる | bị lỗ | 今月[こんげつ]は家計[かけい]が赤字[あかじ]になりました。 | Tháng này chi tiêu gia đình bị thâm hụt.
+黒字[くろじ] | n | HẮC TỰ | có lãi | - | - | 会社[かいしゃ]は三[さん]年[ねん]ぶりに黒字[くろじ]になりました。 | Công ty có lãi sau ba năm.
+収支[しゅうし] | n | THU CHI | thu chi | - | - | 毎月[まいつき]の収支[しゅうし]を計算[けいさん]します。 | Tôi tính thu chi hằng tháng.
+値上[ねあ]がり | n,v3 | TRỊ THƯỢNG | tăng giá | - | - | ガソリンが値上[ねあ]がりしています。 | Xăng đang tăng giá.
+値下[ねさ]がり | n,v3 | TRỊ HẠ | giảm giá | - | - | 野菜[やさい]が値下[ねさ]がりしました。 | Rau đã giảm giá.
+景気[けいき] | n | CẢNH KHÍ | tình hình kinh tế | 景気[けいき] が いい | kinh tế tốt | 最近[さいきん]景気[けいき]がよくなってきました。 | Gần đây kinh tế đã khá lên.
+不景気[ふけいき] | n,adj-na | BẤT CẢNH KHÍ | suy thoái | - | - | 不景気[ふけいき]で仕事[しごと]が減[へ]りました。 | Vì suy thoái nên việc làm giảm.
+投資[とうし] | n,v3 | ĐẦU TƯ | đầu tư | - | - | 将来[しょうらい]のために投資[とうし]を始[はじ]めました。 | Tôi bắt đầu đầu tư cho tương lai.
+株[かぶ] | n | CHU | cổ phiếu | 株[かぶ] を 買[か]う | mua cổ phiếu | 父[ちち]は株[かぶ]を買[か]っています。 | Bố tôi mua cổ phiếu.
+株価[かぶか] | n | CHU GIÁ | giá cổ phiếu | - | - | 今日[きょう]は株価[かぶか]が大[おお]きく下[さ]がりました。 | Hôm nay giá cổ phiếu giảm mạnh.
+儲[もう]かる | v1 | TRỮ | có lời | - | - | この商売[しょうばい]は儲[もう]かります。 | Việc buôn bán này có lời.
+儲[もう]ける | v2 | TRỮ | kiếm lời | - | - | 株[かぶ]で十[じゅう]万円[まんえん]儲[もう]けました。 | Tôi kiếm lời 100 nghìn yên nhờ cổ phiếu.
+商売[しょうばい] | n,v3 | THƯƠNG MẠI | buôn bán | - | - | 祖父[そふ]は魚[さかな]の商売[しょうばい]をしていました。 | Ông tôi buôn bán cá.
+破産[はさん] | n,v3 | PHÁ SẢN | phá sản | - | - | 会社[かいしゃ]が破産[はさん]しました。 | Công ty đã phá sản.
+貧乏[びんぼう] | n,adj-na | BẦN PHẠP | nghèo | - | - | 学生[がくせい]の頃[ころ]は貧乏[びんぼう]でした。 | Hồi sinh viên tôi nghèo.
+金持[かねも]ち | n | KIM TRÌ | người giàu | - | - | 彼[かれ]は金持[かねも]ちの家[いえ]に生[う]まれました。 | Anh ấy sinh ra trong nhà giàu.
+豊[ゆた]か | adj-na | PHONG | giàu có, phong phú | 豊[ゆた]か な 生活[せいかつ] | cuộc sống sung túc | 豊[ゆた]かな生活[せいかつ]をしたいです。 | Tôi muốn sống sung túc.
+貧[まず]しい | adj-i | BẦN | nghèo khó | - | - | 貧[まず]しい家庭[かてい]で育[そだ]ちました。 | Tôi lớn lên trong gia đình nghèo.
+経済的[けいざいてき] | adj-na | KINH TẾ ĐÍCH | về kinh tế; tiết kiệm | - | - | 経済的[けいざいてき]な理由[りゆう]で進学[しんがく]を諦[あきら]めました。 | Vì lý do kinh tế tôi từ bỏ học lên.
+寄付[きふ] | n,v3 | KÝ PHÓ | quyên góp | - | - | 被災地[ひさいち]に寄付[きふ]しました。 | Tôi quyên góp cho vùng bị thiên tai.
+募金[ぼきん] | n,v3 | MỘ KIM | quyên tiền | - | - | 駅前[えきまえ]で募金[ぼきん]を呼[よ]びかけていました。 | Trước ga có người kêu gọi quyên tiền.
+呼[よ]びかける | v2 | HÔ | kêu gọi | - | - | 市[し]は節電[せつでん]を呼[よ]びかけています。 | Thành phố kêu gọi tiết kiệm điện.
+賞金[しょうきん] | n | THƯỞNG KIM | tiền thưởng (giải) | - | - | 大会[たいかい]で優勝[ゆうしょう]して賞金[しょうきん]をもらいました。 | Vô địch giải đấu tôi nhận tiền thưởng.
+宝[たから]くじ | n | BẢO | xổ số | 宝[たから]くじ が 当[あ]たる | trúng xổ số | 宝[たから]くじが当[あ]たったら家[いえ]を買[か]いたいです。 | Nếu trúng xổ số tôi muốn mua nhà.
+当[あ]たる | v1 | ĐƯƠNG | trúng | - | - | 抽選[ちゅうせん]で旅行[りょこう]が当[あ]たりました。 | Tôi bốc thăm trúng chuyến du lịch.
+抽選[ちゅうせん] | n,v3 | TRỪU TUYỂN | bốc thăm | - | - | 抽選[ちゅうせん]で十名[じゅうめい]様[さま]にプレゼントします。 | Bốc thăm tặng quà cho mười người.
+硬貨[こうか] | n | NGẠNH HÓA | đồng xu | - | - | この自動販売機[じどうはんばいき]は硬貨[こうか]しか使[つか]えません。 | Máy bán hàng này chỉ dùng được xu.
+紙幣[しへい] | n | CHỈ TỆ | tiền giấy | - | - | 新[あたら]しい紙幣[しへい]が発行[はっこう]されました。 | Tiền giấy mới đã được phát hành.
+発行[はっこう] | n,v3 | PHÁT HÀNH | phát hành, cấp | - | - | カードを再発行[さいはっこう]してもらいました。 | Tôi được cấp lại thẻ.
+札[さつ] | n | TRÁT | tờ tiền | 千円[せんえん] {札[さつ]} | tờ một nghìn yên | 千円札[せんえんさつ]を三枚[さんまい]持[も]っています。 | Tôi có ba tờ một nghìn yên.
+金額[きんがく] | n | KIM NGẠCH | số tiền | - | - | 振込[ふりこみ]の金額[きんがく]を確認[かくにん]してください。 | Hãy xác nhận số tiền chuyển khoản.
+総額[そうがく] | n | TỔNG NGẠCH | tổng số tiền | - | - | 旅行[りょこう]の費用[ひよう]は総額[そうがく]二十[にじゅう]万円[まんえん]です。 | Tổng chi phí du lịch là 200 nghìn yên.
+額[がく] | n | NGẠCH | số tiền, mức | - | - | 給料[きゅうりょう]の額[がく]は経験[けいけん]で決[き]まります。 | Mức lương được quyết định theo kinh nghiệm.
+貸[か]し借[か]り | n,v3 | THẢI TÁ | vay mượn | - | - | 友達[ともだち]とお金[かね]の貸[か]し借[か]りはしません。 | Tôi không vay mượn tiền với bạn bè.
+貴重品[きちょうひん] | n | QUÝ TRỌNG PHẨM | đồ quý giá | - | - | 貴重品[きちょうひん]はフロントに預[あず]けてください。 | Đồ quý giá hãy gửi ở lễ tân.
+金庫[きんこ] | n | KIM KHỐ | két sắt | - | - | 大事[だいじ]な書類[しょるい]は金庫[きんこ]に入[い]れています。 | Tài liệu quan trọng tôi để trong két.
+盗[ぬす]む | v1 | ĐẠO | ăn trộm | - | - | 電車[でんしゃ]で財布[さいふ]を盗[ぬす]まれました。 | Tôi bị trộm ví trên tàu.
+詐欺[さぎ] | n | TRÁ KHI | lừa đảo | 詐欺[さぎ] に 遭[あ]う | bị lừa đảo | 祖母[そぼ]が電話[でんわ]詐欺[さぎ]に遭[あ]いそうになりました。 | Bà tôi suýt bị lừa qua điện thoại.
+偽物[にせもの] | n | NGỤY VẬT | đồ giả | - | - | このバッグは偽物[にせもの]かもしれません。 | Cái túi này có thể là hàng giả.
+本物[ほんもの] | n | BẢN VẬT | đồ thật | - | - | これは本物[ほんもの]のダイヤです。 | Đây là kim cương thật.
+仕送[しおく]り | n,v3 | SĨ TỐNG | tiền gửi về/gửi lên | - | - | 親[おや]から毎月[まいつき]仕送[しおく]りをもらっています。 | Hằng tháng tôi được bố mẹ gửi tiền.
+生計[せいけい] | n | SINH KẾ | sinh kế | 生計[せいけい] を 立[た]てる | kiếm sống | 彼[かれ]は絵[え]を描[か]いて生計[せいけい]を立[た]てています。 | Anh ấy kiếm sống bằng vẽ tranh.
+物価高[ぶっかだか] | n | VẬT GIÁ CAO | vật giá cao | - | - | 物価高[ぶっかだか]で生活[せいかつ]が苦[くる]しいです。 | Vật giá cao nên cuộc sống khó khăn.
+激[はげ]しい | adj-i | KÍCH | dữ dội | - | - | 夜[よる]から激[はげ]しい雨[あめ]が降[ふ]っています。 | Từ tối mưa dữ dội.
+金銭[きんせん] | n | KIM TIỀN | tiền bạc | {金銭[きんせん]} 感覚[かんかく] | quan niệm tiền bạc | 彼[かれ]は金銭[きんせん]感覚[かんかく]がしっかりしています。 | Anh ấy có quan niệm tiền bạc chắc chắn.
+感覚[かんかく] | n | CẢM GIÁC | cảm giác, cảm quan | - | - | 寒[さむ]くて指[ゆび]の感覚[かんかく]がありません。 | Lạnh quá ngón tay mất cảm giác.
+延滞[えんたい] | n,v3 | DIÊN TRỆ | quá hạn (trả) | - | - | 家賃[やちん]を延滞[えんたい]しないようにしましょう。 | Đừng để tiền nhà quá hạn.
+滞納[たいのう] | n,v3 | TRỆ NẠP | nợ đọng (thuế, phí) | - | - | 税金[ぜいきん]を滞納[たいのう]すると大変[たいへん]です。 | Nợ đọng thuế thì rắc rối lắm.
+割高[わりだか] | adj-na | CÁT CAO | tương đối đắt | - | - | コンビニは少[すこ]し割高[わりだか]です。 | Cửa hàng tiện lợi hơi đắt hơn.
+割安[わりやす] | adj-na | CÁT AN | tương đối rẻ | - | - | まとめて買[か]うと割安[わりやす]になります。 | Mua nhiều một lần thì rẻ hơn.
+費[つい]やす | v1 | PHÍ | tiêu tốn | 時間[じかん] を 費[つい]やす | tốn thời gian | この研究[けんきゅう]に十[じゅう]年[ねん]を費[つい]やしました。 | Tôi đã tốn mười năm cho nghiên cứu này.
+使[つか]い道[みち] | n | SỬ ĐẠO | cách dùng, công dụng | - | - | ボーナスの使[つか]い道[みち]を考[かんが]えています。 | Tôi đang nghĩ cách dùng tiền thưởng.
+出[だ]し合[あ]う | v1 | XUẤT HỢP | góp chung | - | - | みんなでお金[かね]を出[だ]し合[あ]ってプレゼントを買[か]いました。 | Mọi người góp tiền mua quà.
+自己負担[じこふたん] | n | TỰ KỶ PHỤ ĐẢM | tự chi trả | - | - | 交通費[こうつうひ]は自己負担[じこふたん]です。 | Chi phí đi lại tự chi trả.
+一人当[ひとりあ]たり | n | NHẤT NHÂN ĐƯƠNG | bình quân mỗi người | - | - | 一人当[ひとりあ]たり三千円[さんぜんえん]です。 | Mỗi người ba nghìn yên.
+電卓[でんたく] | n | ĐIỆN TRÁC | máy tính bỏ túi | - | - | 電卓[でんたく]で計算[けいさん]しました。 | Tôi tính bằng máy tính bỏ túi.
+桁[けた] | n | HÀNH | chữ số, hàng | - | - | ゼロを一[ひと]つ多[おお]く書[か]いて桁[けた]を間違[まちが]えました。 | Tôi viết thừa một số không nên sai hàng.
+億[おく] | n | ỨC | trăm triệu | - | - | 宝[たから]くじで一億円[いちおくえん]当[あ]たったら何[なに]をしますか。 | Nếu trúng xổ số một trăm triệu yên bạn làm gì?
+通貨[つうか] | n | THÔNG HÓA | tiền tệ | - | - | ベトナムの通貨[つうか]はドンです。 | Tiền tệ của Việt Nam là đồng.
+金融[きんゆう] | n | KIM DUNG | tài chính | {金融[きんゆう]} 機関[きかん] | tổ chức tài chính | 銀行[ぎんこう]などの金融[きんゆう]機関[きかん]で働[はたら]いています。 | Tôi làm ở tổ chức tài chính như ngân hàng.
+銀行員[ぎんこういん] | n | NGÂN HÀNH VIÊN | nhân viên ngân hàng | - | - | 姉[あね]は銀行員[ぎんこういん]です。 | Chị tôi là nhân viên ngân hàng.
+番号札[ばんごうふだ] | n | PHIÊN HIỆU TRÁT | phiếu số thứ tự | - | - | 番号札[ばんごうふだ]を取[と]ってお待[ま]ちください。 | Xin lấy phiếu số thứ tự và chờ.
+待[ま]ち時間[じかん] | n | ĐÃI THỜI GIAN | thời gian chờ | - | - | 銀行[ぎんこう]の待[ま]ち時間[じかん]が長[なが]かったです。 | Thời gian chờ ở ngân hàng lâu.
+入金[にゅうきん] | n,v3 | NHẬP KIM | nạp tiền vào, tiền vào | - | - | 給料[きゅうりょう]が口座[こうざ]に入金[にゅうきん]されました。 | Lương đã vào tài khoản.
+出金[しゅっきん] | n,v3 | XUẤT KIM | rút tiền ra | - | - | ATMで出金[しゅっきん]すると手数料[てすうりょう]がかかります。 | Rút tiền ở ATM mất phí.
+残金[ざんきん] | n | TÀN KIM | số tiền còn lại | - | - | 残金[ざんきん]は来月[らいげつ]払[はら]います。 | Số tiền còn lại tôi trả tháng sau.
+賃金[ちんぎん] | n | NHẪM KIM | tiền công | 最低[さいてい] {賃金[ちんぎん]} | lương tối thiểu | 最低[さいてい]賃金[ちんぎん]が上[あ]がりました。 | Lương tối thiểu đã tăng.
+日給[にっきゅう] | n | NHẬT CẤP | lương ngày | - | - | このアルバイトは日給[にっきゅう]一万円[いちまんえん]です。 | Việc làm thêm này lương ngày mười nghìn yên.
+稼[かせ]ぎ | n | GIÁ | thu nhập kiếm được | - | - | 今月[こんげつ]は稼[かせ]ぎが少[すく]なかったです。 | Tháng này kiếm được ít.
+副業[ふくぎょう] | n | PHÓ NGHIỆP | nghề phụ | - | - | 週末[しゅうまつ]に副業[ふくぎょう]をしています。 | Cuối tuần tôi làm nghề phụ.
+補助金[ほじょきん] | n | BỔ TRỢ KIM | tiền trợ cấp | - | - | 市[し]から補助金[ほじょきん]が出[で]ます。 | Thành phố có cấp tiền trợ cấp.
+給付[きゅうふ] | n,v3 | CẤP PHÓ | chi trả, cấp | - | - | 国[くに]から給付[きゅうふ]金[きん]を受[う]け取[と]りました。 | Tôi nhận tiền trợ cấp từ nhà nước.
+還付[かんぷ] | n,v3 | HOÀN PHÓ | hoàn trả (thuế) | - | - | 税金[ぜいきん]が還付[かんぷ]されました。 | Tôi được hoàn thuế.
+課税[かぜい] | n,v3 | KHÓA THUẾ | đánh thuế | - | - | 収入[しゅうにゅう]に応[おう]じて課税[かぜい]されます。 | Bị đánh thuế theo thu nhập.
+応[おう]じる | v2 | ỨNG | đáp ứng, tương ứng | - | - | お客様[きゃくさま]の要望[ようぼう]に応[おう]じます。 | Đáp ứng yêu cầu của khách hàng.
+損失[そんしつ] | n | TỔN THẤT | tổn thất | 損失[そんしつ] を 出[だ]す | gây thua lỗ | 会社[かいしゃ]は大[おお]きな損失[そんしつ]を出[だ]しました。 | Công ty đã thua lỗ lớn.
+損害[そんがい] | n | TỔN HẠI | thiệt hại | - | - | 台風[たいふう]で農家[のうか]は大[おお]きな損害[そんがい]を受[う]けました。 | Bão gây thiệt hại lớn cho nông dân.
+弁償[べんしょう] | n,v3 | BIỆN THƯỜNG | bồi thường | - | - | 割[わ]ったお皿[さら]を弁償[べんしょう]しました。 | Tôi bồi thường cái đĩa đã làm vỡ.
+頭金[あたまきん] | n | ĐẦU KIM | tiền trả trước | - | - | 家[いえ]の頭金[あたまきん]を貯[た]めています。 | Tôi đang để dành tiền trả trước mua nhà.
+地価[ちか] | n | ĐỊA GIÁ | giá đất | - | - | 東京[とうきょう]の地価[ちか]は高[たか]いです。 | Giá đất ở Tokyo cao.
+不動産[ふどうさん] | n | BẤT ĐỘNG SẢN | bất động sản | - | - | 不動産[ふどうさん]に投資[とうし]しています。 | Tôi đầu tư vào bất động sản.
+財布[さいふ]の紐[ひも] | exp | TÀI BỐ NỮU | hầu bao | - | - | うちは妻[つま]が財布[さいふ]の紐[ひも]を握[にぎ]っています。 | Nhà tôi vợ giữ hầu bao.
+握[にぎ]る | v1 | ÁC | nắm | - | - | 子供[こども]の手[て]をしっかり握[にぎ]りました。 | Tôi nắm chặt tay con.
+浪費家[ろうひか] | n | LÃNG PHÍ GIA | người tiêu hoang | - | - | 彼[かれ]は浪費家[ろうひか]で、いつもお金[かね]がありません。 | Anh ta tiêu hoang nên lúc nào cũng hết tiền.
+太[ふと]っ腹[ぱら] | adj-na | THÁI PHÚC | hào phóng | - | - | 社長[しゃちょう]は太[ふと]っ腹[ぱら]で、みんなにおごってくれました。 | Giám đốc hào phóng, khao mọi người.
+おごり | n | - | sự khao | - | - | 今日[きょう]は私[わたし]のおごりです。 | Hôm nay tôi khao.

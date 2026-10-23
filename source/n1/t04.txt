@@ -1,0 +1,226 @@
+@topic t04
+@ja 法律[ほうりつ]・司法[しほう]・犯罪[はんざい]
+@vi Pháp luật, tư pháp và tội phạm
+@desc Tố tụng, phán quyết, điều tra, các loại tội danh và tranh chấp dân sự trong tin tức xã hội.
+検事[けんじ] | n | KIỂM SỰ | kiểm sát viên | - | - | 担当[たんとう]検事[けんじ]は被告[ひこく]に懲役[ちょうえき]十[じゅう]年[ねん]を求刑[きゅうけい]した。 | Kiểm sát viên phụ trách đề nghị mức án mười năm tù cho bị cáo.
+判事[はんじ] | n | PHÁN SỰ | thẩm phán | - | - | 判事[はんじ]は証拠[しょうこ]を慎重[しんちょう]に検討[けんとう]した。 | Thẩm phán xem xét chứng cứ một cách thận trọng.
+弁護人[べんごにん] | n | BIỆN HỘ NHÂN | luật sư bào chữa | - | - | 弁護[べんご]人[にん]は被告[ひこく]の無罪[むざい]を主張[しゅちょう]した。 | Luật sư bào chữa khẳng định bị cáo vô tội.
+弁護団[べんごだん] | n | BIỆN HỘ ĐOÀN | đoàn luật sư | - | - | 弁護[べんご]団[だん]は判決[はんけつ]を不服[ふふく]として控訴[こうそ]した。 | Đoàn luật sư không phục phán quyết nên đã kháng cáo.
+法曹[ほうそう] | n | PHÁP TÀO | giới luật | {法曹} 界[かい] | giới luật | 法曹[ほうそう]界[かい]を目指[めざ]して法科[ほうか]大学院[だいがくいん]に進[すす]んだ。 | Tôi vào trường luật sau đại học để theo đuổi nghề luật.
+司法[しほう]試験[しけん] | n | TƯ PHÁP THÍ NGHIỆM | kỳ thi tư pháp | - | - | 三[さん]度目[どめ]の挑戦[ちょうせん]で司法[しほう]試験[しけん]に合格[ごうかく]した。 | Tôi đỗ kỳ thi tư pháp ở lần thử thứ ba.
+司法[しほう]制度[せいど] | n | TƯ PHÁP CHẾ ĐỘ | chế độ tư pháp | - | - | 国[くに]によって司法[しほう]制度[せいど]は大[おお]きく異[こと]なる。 | Chế độ tư pháp khác nhau nhiều tùy quốc gia.
+陪審[ばいしん] | n | BỒI THẨM | bồi thẩm | {陪審} 制[せい] | chế độ bồi thẩm | アメリカでは陪審[ばいしん]制[せい]が採用[さいよう]されている。 | Ở Mỹ áp dụng chế độ bồi thẩm.
+陪審員[ばいしんいん] | n | BỒI THẨM VIÊN | bồi thẩm viên | - | - | 陪審[ばいしん]員[いん]全員[ぜんいん]が有罪[ゆうざい]と判断[はんだん]した。 | Toàn bộ bồi thẩm viên đều nhận định có tội.
+刑法[けいほう] | n | HÌNH PHÁP | luật hình sự | - | - | その行為[こうい]は刑法[けいほう]に違反[いはん]する。 | Hành vi đó vi phạm luật hình sự.
+民法[みんぽう] | n | DÂN PHÁP | luật dân sự | - | - | 民法[みんぽう]の改正[かいせい]で成人[せいじん]年齢[ねんれい]が十八[じゅうはち]歳[さい]になった。 | Do sửa luật dân sự, tuổi thành niên trở thành mười tám.
+少年法[しょうねんほう] | n | THIẾU NIÊN PHÁP | luật thiếu niên | - | - | 少年[しょうねん]法[ほう]の適用[てきよう]年齢[ねんれい]が議論[ぎろん]されている。 | Độ tuổi áp dụng luật thiếu niên đang được thảo luận.
+独占[どくせん]禁止法[きんしほう] | n | ĐỘC CHIẾM CẤM CHỈ PHÁP | luật chống độc quyền | - | - | 大手[おおて]企業[きぎょう]が独占[どくせん]禁止[きんし]法[ほう]違反[いはん]で処分[しょぶん]された。 | Doanh nghiệp lớn bị xử lý vì vi phạm luật chống độc quyền.
+起訴状[きそじょう] | n | KHỞI TỐ TRẠNG | cáo trạng | - | - | 法廷[ほうてい]で起訴[きそ]状[じょう]が読[よ]み上[あ]げられた。 | Cáo trạng được đọc tại tòa.
+訴状[そじょう] | n | TỐ TRẠNG | đơn kiện | - | - | 原告[げんこく]は裁判所[さいばんしょ]に訴状[そじょう]を提出[ていしゅつ]した。 | Nguyên đơn nộp đơn kiện lên tòa án.
+訴[うった]え | n | TỐ | đơn kiện; lời kêu gọi | {訴え} を 起[お]こす | khởi kiện | 住民[じゅうみん]の訴[うった]えが認[みと]められた。 | Đơn kiện của cư dân đã được chấp nhận.
+判決文[はんけつぶん] | n | PHÁN QUYẾT VĂN | văn bản bản án | - | - | 判決[はんけつ]文[ぶん]は百[ひゃく]ページを超[こ]えた。 | Văn bản bản án dài hơn một trăm trang.
+主文[しゅぶん] | n | CHỦ VĂN | phần quyết định của bản án | - | - | 裁判長[さいばんちょう]は判決[はんけつ]の主文[しゅぶん]を言[い]い渡[わた]した。 | Chủ tọa tuyên phần quyết định của bản án.
+棄却[ききゃく] | n,v3 | KHÍ KHƯỚC | bác bỏ (đơn) | 控訴[こうそ] を {棄却} する | bác kháng cáo | 最高裁[さいこうさい]は上告[じょうこく]を棄却[ききゃく]した。 | Tòa án tối cao bác đơn kháng nghị giám đốc thẩm.
+却下[きゃっか] | n,v3 | KHƯỚC HẠ | bác (yêu cầu) | 申請[しんせい] を {却下} する | bác đơn | 彼[かれ]の提案[ていあん]はあっさり却下[きゃっか]された。 | Đề xuất của anh ấy bị bác ngay tắp lự.
+差[さ]し戻[もど]し | n | SAI LỆ | trả hồ sơ, xử lại | - | - | 審理[しんり]は高裁[こうさい]に差[さ]し戻[もど]しとなった。 | Vụ án được trả về tòa cấp cao để xét xử lại.
+確定[かくてい] | n,v3 | XÁC ĐỊNH | được xác định, chính thức | 日程[にってい] が {確定} する | lịch được chốt | 出発[しゅっぱつ]の日[ひ]が確定[かくてい]したら連絡[れんらく]します。 | Khi ngày khởi hành được chốt tôi sẽ liên lạc.
+確定[かくてい]判決[はんけつ] | n | XÁC ĐỊNH PHÁN QUYẾT | bản án có hiệu lực | - | - | 確定[かくてい]判決[はんけつ]を覆[くつがえ]すのは容易[ようい]ではない。 | Lật lại bản án đã có hiệu lực không dễ.
+再審[さいしん] | n,v3 | TÁI THẨM | tái thẩm | - | - | 新[あら]たな証拠[しょうこ]が見[み]つかり、再審[さいしん]が決[き]まった。 | Tìm thấy chứng cứ mới nên quyết định tái thẩm.
+抗告[こうこく] | n,v3 | KHÁNG CÁO | kháng cáo (đối với quyết định) | - | - | 検察[けんさつ]は再審[さいしん]開始[かいし]決定[けってい]に抗告[こうこく]した。 | Viện kiểm sát kháng cáo quyết định mở phiên tái thẩm.
+申[もう]し立[た]て | n | THÂN LẬP | đơn đề nghị, khiếu nại | - | - | 裁判所[さいばんしょ]に破産[はさん]の申[もう]し立[た]てをした。 | Đã nộp đơn yêu cầu phá sản lên tòa án.
+異議[いぎ]申[もう]し立[た]て | n | DỊ NGHỊ THÂN LẬP | khiếu nại, phản đối chính thức | - | - | 判定[はんてい]に対[たい]して異議[いぎ]申[もう]し立[た]てを行[おこな]った。 | Đã khiếu nại đối với phán định.
+仮処分[かりしょぶん] | n | GIẢ XỬ PHÂN | biện pháp khẩn cấp tạm thời | - | - | 工事[こうじ]差[さ]し止[ど]めの仮[かり]処分[しょぶん]が認[みと]められた。 | Biện pháp tạm thời đình chỉ thi công đã được chấp thuận.
+差[さ]し止[ど]め | n | SAI CHỈ | đình chỉ, cấm | {差し止め} 請求[せいきゅう] | yêu cầu đình chỉ | 出版[しゅっぱん]の差[さ]し止[ど]めを求[もと]める訴[うった]えが起[お]こされた。 | Đơn kiện yêu cầu cấm xuất bản đã được đệ trình.
+執行[しっこう] | n,v3 | CHẤP HÀNH | thi hành | 刑[けい] の {執行} | thi hành án | 予算[よさん]の執行[しっこう]状況[じょうきょう]を確認[かくにん]する。 | Kiểm tra tình hình thực hiện ngân sách.
+強制[きょうせい]執行[しっこう] | n | CƯỠNG CHẾ CHẤP HÀNH | cưỡng chế thi hành án | - | - | 家賃[やちん]を払[はら]わず強制[きょうせい]執行[しっこう]で退去[たいきょ]させられた。 | Không trả tiền nhà nên bị cưỡng chế dọn đi.
+無期[むき]懲役[ちょうえき] | n | VÔ KỲ TRỪNG DỊCH | tù chung thân | - | - | 被告[ひこく]に無期[むき]懲役[ちょうえき]が言[い]い渡[わた]された。 | Bị cáo bị tuyên án tù chung thân.
+終身刑[しゅうしんけい] | n | CHUNG THÂN HÌNH | án chung thân không ân xá | - | - | その国[くに]では死刑[しけい]の代[か]わりに終身[しゅうしん]刑[けい]がある。 | Ở nước đó có án chung thân thay cho tử hình.
+実刑[じっけい] | n | THỰC HÌNH | án tù giam (không treo) | {実刑} 判決[はんけつ] | bản án tù giam | 執行[しっこう]猶予[ゆうよ]は付[つ]かず、実刑[じっけい]判決[はんけつ]となった。 | Không được hưởng án treo, bị cáo nhận án tù giam.
+禁錮[きんこ] | n | CẤM CỐ | phạt giam (không lao động) | - | - | 事故[じこ]を起[お]こした運転手[うんてんしゅ]に禁錮[きんこ]二[に]年[ねん]の判決[はんけつ]が出[で]た。 | Tài xế gây tai nạn bị tuyên phạt giam hai năm.
+量刑[りょうけい] | n | LƯỢNG HÌNH | lượng hình | - | - | 量刑[りょうけい]が軽[かる]すぎると遺族[いぞく]は訴[うった]えた。 | Gia đình nạn nhân cho rằng mức án quá nhẹ.
+求刑[きゅうけい] | n,v3 | CẦU HÌNH | đề nghị mức án | - | - | 検察[けんさつ]は懲役[ちょうえき]五[ご]年[ねん]を求刑[きゅうけい]した。 | Viện kiểm sát đề nghị năm năm tù.
+減刑[げんけい] | n,v3 | GIẢM HÌNH | giảm án | - | - | 反省[はんせい]の態度[たいど]が認[みと]められ減刑[げんけい]された。 | Bị cáo được giảm án vì thái độ ăn năn.
+情状[じょうじょう]酌量[しゃくりょう] | n | TÌNH TRẠNG CHƯỚC LƯỢNG | xét tình tiết giảm nhẹ | {情状酌量} の 余地[よち] | có tình tiết giảm nhẹ | 介護[かいご]疲[づか]れによる犯行[はんこう]には情状[じょうじょう]酌量[しゃくりょう]の余地[よち]がある。 | Tội phạm do kiệt sức vì chăm người thân có tình tiết giảm nhẹ.
+刑期[けいき] | n | HÌNH KỲ | thời hạn tù | {刑期} を 終[お]える | mãn hạn tù | 彼[かれ]は刑期[けいき]を終[お]えて社会[しゃかい]に戻[もど]った。 | Mãn hạn tù, anh ta trở về xã hội.
+仮釈放[かりしゃくほう] | n | GIẢ THÍCH PHÓNG | tha tù trước thời hạn | - | - | 模範[もはん]囚[しゅう]として仮[かり]釈放[しゃくほう]が認[みと]められた。 | Được tha trước hạn vì là phạm nhân gương mẫu.
+恩赦[おんしゃ] | n | ÂN XÁ | ân xá | - | - | 国家[こっか]の慶事[けいじ]に際[さい]して恩赦[おんしゃ]が行[おこな]われた。 | Nhân dịp quốc khánh trọng đại, ân xá được thực hiện.
+特赦[とくしゃ] | n | ĐẶC XÁ | đặc xá | - | - | 特赦[とくしゃ]によって多[おお]くの受刑[じゅけい]者[しゃ]が釈放[しゃくほう]された。 | Nhiều phạm nhân được thả nhờ đặc xá.
+処刑[しょけい] | n,v3 | XỬ HÌNH | xử tử | - | - | 革命[かくめい]で国王[こくおう]が処刑[しょけい]された。 | Nhà vua bị xử tử trong cuộc cách mạng.
+懲罰[ちょうばつ] | n,v3 | TRỪNG PHẠT | kỷ luật, trừng phạt | - | - | 規則[きそく]違反[いはん]の選手[せんしゅ]に懲罰[ちょうばつ]が科[か]された。 | Cầu thủ vi phạm quy định bị kỷ luật.
+収監[しゅうかん] | n,v3 | THU GIAM | tống giam | - | - | 判決[はんけつ]確定[かくてい]後[ご]、彼[かれ]は刑務所[けいむしょ]に収監[しゅうかん]された。 | Sau khi bản án có hiệu lực, hắn bị tống giam.
+拘置所[こうちしょ] | n | CÂU TRÍ SỞ | trại tạm giam | - | - | 被告[ひこく]は拘置[こうち]所[しょ]で判決[はんけつ]を待[ま]っている。 | Bị cáo đang chờ phán quyết ở trại tạm giam.
+少年院[しょうねんいん] | n | THIẾU NIÊN VIỆN | trường giáo dưỡng | - | - | 少年[しょうねん]院[いん]を出[で]た後[あと]、彼[かれ]は料理人[りょうりにん]になった。 | Sau khi ra trường giáo dưỡng, cậu trở thành đầu bếp.
+更生[こうせい]施設[しせつ] | n | CÁNH SINH THI THIẾT | cơ sở cải tạo | - | - | 出所[しゅっしょ]者[しゃ]を支[ささ]える更生[こうせい]施設[しせつ]が不足[ふそく]している。 | Thiếu cơ sở cải tạo hỗ trợ người mãn hạn tù.
+抑留[よくりゅう] | n,v3 | ỨC LƯU | giam giữ (ở nước ngoài) | - | - | 祖父[そふ]は戦後[せんご]、シベリアに抑留[よくりゅう]された。 | Sau chiến tranh, ông tôi bị giam giữ ở Siberia.
+勾留[こうりゅう] | n,v3 | CÂU LƯU | tạm giam (trước xét xử) | - | - | 容疑者[ようぎしゃ]の勾留[こうりゅう]期限[きげん]が延長[えんちょう]された。 | Thời hạn tạm giam nghi phạm được kéo dài.
+拘束[こうそく] | n,v3 | CÂU THÚC | trói buộc, giam giữ | 身柄[みがら] を {拘束} する | tạm giữ | 長時間[ちょうじかん]の会議[かいぎ]に拘束[こうそく]された。 | Tôi bị trói chân trong cuộc họp kéo dài.
+身柄[みがら] | n | THÂN BÍNH | thân thể (người bị bắt), người | {身柄} を 確保[かくほ]する | bắt giữ | 警察[けいさつ]は逃走[とうそう]中[ちゅう]の男[おとこ]の身柄[みがら]を確保[かくほ]した。 | Cảnh sát đã bắt giữ gã đàn ông đang lẩn trốn.
+保釈金[ほしゃくきん] | n | BẢO THÍCH KIM | tiền bảo lãnh | - | - | 一億[いちおく]円[えん]の保釈[ほしゃく]金[きん]を納[おさ]めて保釈[ほしゃく]された。 | Ông ta được tại ngoại sau khi nộp một trăm triệu yên tiền bảo lãnh.
+逮捕状[たいほじょう] | n | ĐÃI BỘ TRẠNG | lệnh bắt | - | - | 裁判所[さいばんしょ]が逮捕[たいほ]状[じょう]を出[だ]した。 | Tòa án ra lệnh bắt.
+令状[れいじょう] | n | LỆNH TRẠNG | lệnh (của tòa) | - | - | 警察[けいさつ]は令状[れいじょう]を持[も]って事務所[じむしょ]に入[はい]った。 | Cảnh sát mang lệnh khám vào văn phòng.
+押収[おうしゅう] | n,v3 | ÁP THU | tịch thu (vật chứng) | 証拠[しょうこ] 品[ひん] を {押収} する | thu giữ vật chứng | 捜査[そうさ]員[いん]はパソコンや書類[しょるい]を押収[おうしゅう]した。 | Điều tra viên thu giữ máy tính và giấy tờ.
+尋問[じんもん] | n,v3 | TẦM VẤN | thẩm vấn | 証人[しょうにん] {尋問} | thẩm vấn nhân chứng | 法廷[ほうてい]で証人[しょうにん]尋問[じんもん]が行[おこな]われた。 | Phiên thẩm vấn nhân chứng diễn ra tại tòa.
+供述[きょうじゅつ] | n,v3 | CUNG THUẬT | khai báo | {供述} 調書[ちょうしょ] | biên bản lời khai | 容疑者[ようぎしゃ]の供述[きょうじゅつ]には矛盾[むじゅん]があった。 | Lời khai của nghi phạm có mâu thuẫn.
+黙秘[もくひ] | n,v3 | MẶC BÍ | im lặng (không khai) | - | - | 容疑者[ようぎしゃ]は取[と]り調[しら]べに対[たい]して黙秘[もくひ]を続[つづ]けている。 | Nghi phạm tiếp tục im lặng khi bị thẩm vấn.
+黙秘権[もくひけん] | n | MẶC BÍ QUYỀN | quyền giữ im lặng | - | - | 被疑者[ひぎしゃ]には黙秘[もくひ]権[けん]が認[みと]められている。 | Người bị tình nghi có quyền giữ im lặng.
+物証[ぶっしょう] | n | VẬT CHỨNG | vật chứng | - | - | 自白[じはく]だけで物証[ぶっしょう]がない。 | Chỉ có lời thú tội mà không có vật chứng.
+指紋[しもん] | n | CHỈ VĂN | vân tay | {指紋} 認証[にんしょう] | xác thực vân tay | 現場[げんば]のコップから犯人[はんにん]の指紋[しもん]が検出[けんしゅつ]された。 | Vân tay hung thủ được phát hiện trên chiếc cốc tại hiện trường.
+鑑識[かんしき] | n | GIÁM THỨC | giám định pháp y | - | - | 鑑識[かんしき]が現場[げんば]を詳[くわ]しく調[しら]べている。 | Bộ phận giám định đang khám xét kỹ hiện trường.
+遺留品[いりゅうひん] | n | DI LƯU PHẨM | đồ vật để lại (tại hiện trường) | - | - | 現場[げんば]の遺留[いりゅう]品[ひん]から犯人[はんにん]が特定[とくてい]された。 | Hung thủ được xác định nhờ đồ vật để lại tại hiện trường.
+検視[けんし] | n,v3 | KIỂM THỊ | khám nghiệm tử thi | - | - | 警察[けいさつ]が遺体[いたい]の検視[けんし]を行[おこな]った。 | Cảnh sát tiến hành khám nghiệm tử thi.
+司法[しほう]解剖[かいぼう] | n | TƯ PHÁP GIẢI PHẪU | khám nghiệm pháp y | - | - | 死因[しいん]を調[しら]べるため司法[しほう]解剖[かいぼう]が行[おこな]われる。 | Sẽ tiến hành khám nghiệm pháp y để tìm nguyên nhân tử vong.
+死因[しいん] | n | TỬ NHÂN | nguyên nhân tử vong | - | - | 死因[しいん]は心臓[しんぞう]発作[ほっさ]と見[み]られる。 | Nguyên nhân tử vong được cho là đau tim.
+変死[へんし] | n,v3 | BIẾN TỬ | chết bất thường | - | - | 山中[さんちゅう]で男性[だんせい]の変死[へんし]体[たい]が見[み]つかった。 | Tìm thấy thi thể một người đàn ông chết bất thường trong núi.
+遺族[いぞく] | n | DI TỘC | gia quyến người mất | - | - | 遺族[いぞく]は事故[じこ]の真相[しんそう]解明[かいめい]を求[もと]めている。 | Gia quyến yêu cầu làm sáng tỏ sự thật vụ tai nạn.
+捜査員[そうさいん] | n | SƯU TRA VIÊN | điều tra viên | - | - | 百[ひゃく]人[にん]態勢[たいせい]で捜査[そうさ]員[いん]が聞[き]き込[こ]みをしている。 | Một trăm điều tra viên đang đi hỏi thông tin.
+捜査[そうさ]本部[ほんぶ] | n | SƯU TRA BẢN BỘ | ban chỉ đạo điều tra | - | - | 警察署[けいさつしょ]に捜査[そうさ]本部[ほんぶ]が設置[せっち]された。 | Ban chỉ đạo điều tra được lập tại đồn cảnh sát.
+警察庁[けいさつちょう] | n | CẢNH SÁT SẢNH | Cục Cảnh sát quốc gia | - | - | 警察[けいさつ]庁[ちょう]が犯罪[はんざい]統計[とうけい]を発表[はっぴょう]した。 | Cục Cảnh sát quốc gia công bố thống kê tội phạm.
+警視庁[けいしちょう] | n | CẢNH THỊ SẢNH | Sở Cảnh sát Tokyo | - | - | 警視[けいし]庁[ちょう]は男[おとこ]を詐欺[さぎ]の疑[うたが]いで逮捕[たいほ]した。 | Sở Cảnh sát Tokyo bắt gã đàn ông vì nghi lừa đảo.
+警察署[けいさつしょ] | n | CẢNH SÁT THỰ | đồn cảnh sát | - | - | 財布[さいふ]を拾[ひろ]って警察[けいさつ]署[しょ]に届[とど]けた。 | Nhặt được ví nên tôi mang đến đồn cảnh sát.
+警部[けいぶ] | n | CẢNH BỘ | thanh tra cảnh sát | - | - | 事件[じけん]は経験[けいけん]豊富[ほうふ]な警部[けいぶ]が担当[たんとう]した。 | Vụ án do một thanh tra giàu kinh nghiệm phụ trách.
+立件[りっけん] | n,v3 | LẬP KIỆN | lập hồ sơ khởi tố | - | - | 証拠[しょうこ]不足[ぶそく]で立件[りっけん]は見送[みおく]られた。 | Do thiếu chứng cứ nên việc lập hồ sơ khởi tố bị gác lại.
+検挙[けんきょ] | n,v3 | KIỂM CỬ | bắt giữ, phá án | {検挙} 率[りつ] | tỷ lệ phá án | 今年[ことし]は飲酒[いんしゅ]運転[うんてん]の検挙[けんきょ]数[すう]が減[へ]った。 | Năm nay số vụ bị bắt vì lái xe khi say giảm.
+送検[そうけん] | n,v3 | TỐNG KIỂM | chuyển hồ sơ sang viện kiểm sát | - | - | 逮捕[たいほ]された男[おとこ]は翌日[よくじつ]送検[そうけん]された。 | Người đàn ông bị bắt được chuyển sang viện kiểm sát hôm sau.
+書類[しょるい]送検[そうけん] | n,v3 | THƯ LOẠI TỐNG KIỂM | chuyển hồ sơ (không bắt giữ) | - | - | 運転手[うんてんしゅ]は過失[かしつ]運転[うんてん]致傷[ちしょう]の疑[うたが]いで書類[しょるい]送検[そうけん]された。 | Tài xế bị chuyển hồ sơ vì nghi gây thương tích do bất cẩn khi lái xe.
+起訴[きそ]猶予[ゆうよ] | n | KHỞI TỐ DO DỰ | tạm đình chỉ khởi tố | - | - | 初犯[しょはん]だったため起訴[きそ]猶予[ゆうよ]となった。 | Vì là lần đầu phạm tội nên được tạm đình chỉ khởi tố.
+不起訴[ふきそ]処分[しょぶん] | n | BẤT KHỞI TỐ XỬ PHÂN | quyết định không khởi tố | - | - | 検察[けんさつ]は男性[だんせい]を不起訴[ふきそ]処分[しょぶん]とした。 | Viện kiểm sát quyết định không khởi tố người đàn ông.
+嫌疑[けんぎ] | n | HIỀM NGHI | hiềm nghi | {嫌疑} を かける | nghi ngờ | 彼[かれ]には横領[おうりょう]の嫌疑[けんぎ]がかけられた。 | Anh ta bị nghi ngờ biển thủ.
+嫌疑[けんぎ]不十分[ふじゅうぶん] | n | HIỀM NGHI BẤT THẬP PHÂN | không đủ căn cứ nghi vấn | - | - | 嫌疑[けんぎ]不十分[ふじゅうぶん]で釈放[しゃくほう]された。 | Được thả vì không đủ căn cứ nghi vấn.
+容疑[ようぎ] | n | DUNG NGHI | tình nghi | {容疑} を 否認[ひにん]する | phủ nhận cáo buộc | 男[おとこ]は「やっていない」と容疑[ようぎ]を否認[ひにん]している。 | Gã đàn ông phủ nhận cáo buộc, nói "tôi không làm".
+濡[ぬ]れ衣[ぎぬ] | n | NHU Y | oan, tiếng oan | {濡れ衣} を 着[き]せられる | bị đổ oan | 彼[かれ]は盗[ぬす]みの濡[ぬ]れ衣[ぎぬ]を着[き]せられた。 | Anh ấy bị đổ oan tội ăn trộm.
+無実[むじつ] | n | VÔ THỰC | vô tội | - | - | 母[はは]は息子[むすこ]の無実[むじつ]を信[しん]じ続[つづ]けた。 | Người mẹ luôn tin con trai vô tội.
+潔白[けっぱく] | n,adj-na | KHIẾT BẠCH | trong sạch | 身[み] の {潔白} | sự trong sạch | 彼[かれ]は身[み]の潔白[けっぱく]を証明[しょうめい]しようとした。 | Ông cố chứng minh sự trong sạch của mình.
+真犯人[しんはんにん] | n | CHÂN PHẠM NHÂN | hung thủ thật sự | - | - | 二十[にじゅう]年[ねん]後[ご]に真[しん]犯人[はんにん]が見[み]つかった。 | Hai mươi năm sau, hung thủ thật mới được tìm ra.
+首謀者[しゅぼうしゃ] | n | THỦ MƯU GIẢ | kẻ chủ mưu | - | - | 事件[じけん]の首謀[しゅぼう]者[しゃ]はまだ捕[つか]まっていない。 | Kẻ chủ mưu vụ án vẫn chưa bị bắt.
+共謀[きょうぼう] | n,v3 | CỘNG MƯU | đồng mưu | - | - | 三[さん]人[にん]は共謀[きょうぼう]して現金[げんきん]を奪[うば]った。 | Ba người đồng mưu cướp tiền mặt.
+教唆[きょうさ] | n,v3 | GIÁO TOA | xúi giục | - | - | 殺人[さつじん]教唆[きょうさ]の罪[つみ]で起訴[きそ]された。 | Bị khởi tố về tội xúi giục giết người.
+幇助[ほうじょ] | n,v3 | BANG TRỢ | giúp sức (phạm tội) | - | - | 逃亡[とうぼう]を幇助[ほうじょ]した友人[ゆうじん]も逮捕[たいほ]された。 | Người bạn giúp sức bỏ trốn cũng bị bắt.
+隠匿[いんとく] | n,v3 | ẨN NẶC | tẩu tán, che giấu | - | - | 資産[しさん]を隠匿[いんとく]した疑[うたが]いが持[も]たれている。 | Có nghi vấn đã tẩu tán tài sản.
+証拠[しょうこ]隠滅[いんめつ] | n | CHỨNG CỨ ẨN DIỆT | tiêu hủy chứng cứ | - | - | 証拠[しょうこ]隠滅[いんめつ]の恐[おそ]れがあるとして勾留[こうりゅう]が続[つづ]いた。 | Việc tạm giam kéo dài vì e ngại tiêu hủy chứng cứ.
+偽証[ぎしょう] | n,v3 | NGỤY CHỨNG | khai man | {偽証} 罪[ざい] | tội khai man | 法廷[ほうてい]で偽証[ぎしょう]すると罪[つみ]に問[と]われる。 | Khai man trước tòa sẽ bị truy cứu tội.
+殺意[さつい] | n | SÁT Ý | ý định giết người | - | - | 被告[ひこく]は殺意[さつい]はなかったと主張[しゅちょう]した。 | Bị cáo khẳng định không có ý định giết người.
+衝動的[しょうどうてき] | adj-na | XUNG ĐỘNG ĐÍCH | bốc đồng | {衝動的} な 犯行[はんこう] | tội phạm bột phát | 衝動[しょうどう]的[てき]に高[たか]いバッグを買[か]ってしまった。 | Tôi đã bốc đồng mua chiếc túi đắt tiền.
+計画的[けいかくてき] | adj-na | KẾ HOẠCH ĐÍCH | có kế hoạch | - | - | 犯行[はんこう]は計画[けいかく]的[てき]に行[おこな]われた。 | Vụ án được thực hiện có kế hoạch.
+刑事[けいじ]責任[せきにん] | n | HÌNH SỰ TRÁCH NHIỆM | trách nhiệm hình sự | - | - | 会社[かいしゃ]幹部[かんぶ]の刑事[けいじ]責任[せきにん]が問[と]われた。 | Trách nhiệm hình sự của lãnh đạo công ty bị truy cứu.
+責任[せきにん]能力[のうりょく] | n | TRÁCH NHIỆM NĂNG LỰC | năng lực chịu trách nhiệm | - | - | 被告[ひこく]の責任[せきにん]能力[のうりょく]が争点[そうてん]となった。 | Năng lực chịu trách nhiệm của bị cáo trở thành điểm tranh chấp.
+心神[しんしん]喪失[そうしつ] | n | TÂM THẦN TANG THẤT | mất năng lực nhận thức | - | - | 心神[しんしん]喪失[そうしつ]と判断[はんだん]されて無罪[むざい]になった。 | Bị cáo được tuyên vô tội vì được xác định mất năng lực nhận thức.
+精神[せいしん]鑑定[かんてい] | n | TINH THẦN GIÁM ĐỊNH | giám định tâm thần | - | - | 被告[ひこく]の精神[せいしん]鑑定[かんてい]が行[おこな]われた。 | Bị cáo đã được giám định tâm thần.
+傷害[しょうがい]致死[ちし] | n | THƯƠNG HẠI TRÍ TỬ | cố ý gây thương tích dẫn đến chết người | - | - | 傷害[しょうがい]致死[ちし]の罪[つみ]で懲役[ちょうえき]八[はち]年[ねん]が言[い]い渡[わた]された。 | Bị tuyên tám năm tù vì tội cố ý gây thương tích dẫn đến chết người.
+致死[ちし] | n | TRÍ TỬ | gây chết | {致死} 量[りょう] | liều gây chết | この薬[くすり]は大量[たいりょう]に飲[の]むと致死[ちし]量[りょう]に達[たっ]する。 | Uống loại thuốc này quá nhiều sẽ đạt liều gây chết.
+過失[かしつ]致死[ちし] | n | QUÁ THẤT TRÍ TỬ | vô ý làm chết người | - | - | 運転手[うんてんしゅ]は過失[かしつ]致死[ちし]の疑[うたが]いで逮捕[たいほ]された。 | Tài xế bị bắt vì nghi vô ý làm chết người.
+業務上[ぎょうむじょう]過失[かしつ] | n | NGHIỆP VỤ THƯỢNG QUÁ THẤT | sơ suất trong công việc | - | - | 工場[こうじょう]長[ちょう]は業務[ぎょうむ]上[じょう]過失[かしつ]致傷[ちしょう]の罪[つみ]に問[と]われた。 | Quản đốc nhà máy bị truy tố tội sơ suất trong công việc gây thương tích.
+未遂[みすい] | n | VỊ TOẠI | chưa thành, bất thành | 殺人[さつじん] {未遂} | giết người bất thành | 強盗[ごうとう]は未遂[みすい]に終[お]わった。 | Vụ cướp đã bất thành.
+既遂[きすい] | n | KÝ TOẠI | đã thực hiện xong (tội) | - | - | 未遂[みすい]か既遂[きすい]かで罪[つみ]の重[おも]さが変[か]わる。 | Mức độ tội thay đổi tùy là bất thành hay đã hoàn thành.
+余罪[よざい] | n | DƯ TỘI | tội khác (chưa bị phát hiện) | {余罪} を 追及[ついきゅう]する | truy xét các tội khác | 警察[けいさつ]は男[おとこ]の余罪[よざい]を調[しら]べている。 | Cảnh sát đang điều tra các tội khác của gã đàn ông.
+罪状[ざいじょう] | n | TỘI TRẠNG | tội trạng | - | - | 裁判[さいばん]の冒頭[ぼうとう]で罪状[ざいじょう]が読[よ]み上[あ]げられた。 | Tội trạng được đọc ở đầu phiên tòa.
+前歴[ぜんれき] | n | TIỀN LỊCH | tiền sự | - | - | 容疑者[ようぎしゃ]には窃盗[せっとう]の前歴[ぜんれき]があった。 | Nghi phạm có tiền sự trộm cắp.
+常習[じょうしゅう] | n | THƯỜNG TẬP | thói quen (xấu), tái diễn | - | - | 遅刻[ちこく]の常習[じょうしゅう]者[しゃ]として注意[ちゅうい]された。 | Tôi bị nhắc nhở vì thường xuyên đi muộn.
+常習犯[じょうしゅうはん] | n | THƯỜNG TẬP PHẠM | kẻ tái phạm nhiều lần | - | - | 万引[まんび]きの常習[じょうしゅう]犯[はん]が捕[つか]まった。 | Kẻ chuyên ăn cắp vặt đã bị bắt.
+素行[そこう] | n | TỐ HÀNH | hạnh kiểm, hành vi thường ngày | - | - | 彼[かれ]は素行[そこう]が悪[わる]く、何度[なんど]も注意[ちゅうい]を受[う]けた。 | Cậu ta hạnh kiểm kém, bị nhắc nhở nhiều lần.
+非行[ひこう] | n | PHI HÀNH | hành vi sai trái (thanh thiếu niên) | {非行} 少年[しょうねん] | thiếu niên hư hỏng | 非行[ひこう]に走[はし]る子供[こども]の背景[はいけい]には家庭[かてい]の問題[もんだい]がある。 | Đằng sau trẻ hư hỏng thường là vấn đề gia đình.
+少年[しょうねん]犯罪[はんざい] | n | THIẾU NIÊN PHẠM TỘI | tội phạm vị thành niên | - | - | 少年[しょうねん]犯罪[はんざい]の件数[けんすう]は減少[げんしょう]傾向[けいこう]にある。 | Số vụ tội phạm vị thành niên có xu hướng giảm.
+補導[ほどう] | n,v3 | BỔ ĐẠO | (cảnh sát) giáo dục, tạm giữ thiếu niên | - | - | 深夜[しんや]に繁華街[はんかがい]にいた中学生[ちゅうがくせい]が補導[ほどう]された。 | Học sinh cấp hai ở khu phố giải trí lúc nửa đêm bị cảnh sát tạm giữ.
+家出[いえで] | n,v3 | GIA XUẤT | bỏ nhà đi | - | - | 親[おや]とけんかして家出[いえで]したことがある。 | Tôi từng cãi nhau với bố mẹ rồi bỏ nhà đi.
+失踪[しっそう] | n,v3 | THẤT TUNG | mất tích | - | - | 彼[かれ]は十[じゅう]年[ねん]前[まえ]に突然[とつぜん]失踪[しっそう]した。 | Anh ta đột nhiên mất tích mười năm trước.
+捜索願[そうさくねが]い | n | SƯU SÁCH NGUYỆN | đơn trình báo mất tích | - | - | 家族[かぞく]が警察[けいさつ]に捜索[そうさく]願[ねが]いを出[だ]した。 | Gia đình nộp đơn trình báo mất tích cho cảnh sát.
+身元[みもと] | n | THÂN NGUYÊN | lai lịch, danh tính | {身元} 保証[ほしょう]人[にん] | người bảo lãnh | 遺体[いたい]の身元[みもと]が判明[はんめい]した。 | Danh tính thi thể đã được xác định.
+身元[みもと]不明[ふめい] | n | THÂN NGUYÊN BẤT MINH | không rõ danh tính | - | - | 身元[みもと]不明[ふめい]の男性[だんせい]が病院[びょういん]に運[はこ]ばれた。 | Một người đàn ông không rõ danh tính được đưa vào viện.
+監禁[かんきん] | n,v3 | GIAM CẤM | giam giữ trái phép | - | - | 少女[しょうじょ]を監禁[かんきん]した疑[うたが]いで男[おとこ]が逮捕[たいほ]された。 | Một người đàn ông bị bắt vì nghi giam giữ trái phép bé gái.
+軟禁[なんきん] | n,v3 | NHUYỄN CẤM | giam lỏng | 自宅[じたく] {軟禁} | quản thúc tại gia | 野党[やとう]指導者[しどうしゃ]は自宅[じたく]に軟禁[なんきん]されている。 | Lãnh đạo phe đối lập đang bị quản thúc tại gia.
+逃走[とうそう] | n,v3 | ĐÀO TẨU | bỏ chạy, tẩu thoát | - | - | 犯人[はんにん]は車[くるま]で逃走[とうそう]した。 | Hung thủ bỏ trốn bằng xe hơi.
+逃亡[とうぼう] | n,v3 | ĐÀO VONG | đào tẩu, bỏ trốn | - | - | 容疑者[ようぎしゃ]は海外[かいがい]へ逃亡[とうぼう]した。 | Nghi phạm đã bỏ trốn ra nước ngoài.
+手配書[てはいしょ] | n | THỦ PHỐI THƯ | lệnh truy nã (văn bản) | - | - | 駅[えき]に指名[しめい]手配[てはい]書[しょ]が貼[は]られている。 | Tờ truy nã được dán ở nhà ga.
+出頭[しゅっとう] | n,v3 | XUẤT ĐẦU | trình diện | - | - | 容疑者[ようぎしゃ]が弁護士[べんごし]に付[つ]き添[そ]われて警察[けいさつ]に出頭[しゅっとう]した。 | Nghi phạm ra trình diện cảnh sát cùng luật sư.
+職務[しょくむ]質問[しつもん] | n | CHỨC VỤ CHẤT VẤN | cảnh sát chặn hỏi | - | - | 夜道[よみち]で警察官[けいさつかん]に職務[しょくむ]質問[しつもん]された。 | Tôi bị cảnh sát chặn hỏi trên đường ban đêm.
+挙動[きょどう]不審[ふしん] | n | CỬ ĐỘNG BẤT THẨM | cử chỉ khả nghi | - | - | 挙動[きょどう]不審[ふしん]な男[おとこ]が店[みせ]の前[まえ]をうろついていた。 | Một gã có cử chỉ khả nghi lảng vảng trước cửa hàng.
+不審物[ふしんぶつ] | n | BẤT THẨM VẬT | vật khả nghi | - | - | 駅[えき]で不審[ふしん]物[ぶつ]が見[み]つかり、電車[でんしゃ]が止[と]まった。 | Phát hiện vật khả nghi ở ga nên tàu phải dừng.
+尾行[びこう] | n,v3 | VĨ HÀNH | bám đuôi, theo dõi | - | - | 刑事[けいじ]は容疑者[ようぎしゃ]を尾行[びこう]した。 | Thám tử bám đuôi nghi phạm.
+張[は]り込[こ]み | n | TRƯƠNG NHẬP | phục kích, canh chừng | - | - | 刑事[けいじ]たちは一晩[ひとばん]中[じゅう]張[は]り込[こ]みを続[つづ]けた。 | Các thám tử canh chừng suốt đêm.
+盗聴[とうちょう] | n,v3 | ĐẠO THÍNH | nghe lén | {盗聴} 器[き] | máy nghe lén | 事務所[じむしょ]から盗聴[とうちょう]器[き]が見[み]つかった。 | Tìm thấy máy nghe lén trong văn phòng.
+盗撮[とうさつ] | n,v3 | ĐẠO TOÁT | quay chụp lén | - | - | 駅[えき]の階段[かいだん]で盗撮[とうさつ]した男[おとこ]が捕[つか]まった。 | Gã đàn ông chụp lén ở cầu thang nhà ga bị bắt.
+置[お]き引[び]き | n | TRÍ DẪN | lấy trộm đồ để quên | - | - | 空港[くうこう]で置[お]き引[び]きの被害[ひがい]に遭[あ]った。 | Tôi bị trộm mất đồ để ở sân bay.
+スリ | n | - | móc túi | - | - | 満員[まんいん]電車[でんしゃ]ではスリに気[き]をつけてください。 | Trên tàu đông người, hãy cẩn thận móc túi.
+侵入[しんにゅう] | n,v3 | XÂM NHẬP | xâm nhập | 不法[ふほう] {侵入} | đột nhập trái phép | 泥棒[どろぼう]は窓[まど]から侵入[しんにゅう]したらしい。 | Tên trộm có vẻ đã đột nhập qua cửa sổ.
+不法[ふほう]侵入[しんにゅう] | n | BẤT PHÁP XÂM NHẬP | đột nhập trái phép | - | - | 他人[たにん]の敷地[しきち]への不法[ふほう]侵入[しんにゅう]で注意[ちゅうい]を受[う]けた。 | Bị nhắc nhở vì xâm nhập trái phép vào đất người khác.
+発砲[はっぽう] | n,v3 | PHÁT PHÁO | nổ súng | - | - | 警官[けいかん]が威嚇[いかく]のため空[そら]に向[む]けて発砲[はっぽう]した。 | Cảnh sát bắn chỉ thiên để cảnh cáo.
+拳銃[けんじゅう] | n | QUYỀN SÚNG | súng ngắn | - | - | 日本[にほん]では拳銃[けんじゅう]の所持[しょじ]は厳[きび]しく制限[せいげん]されている。 | Ở Nhật việc sở hữu súng ngắn bị hạn chế nghiêm ngặt.
+刃物[はもの] | n | NHẬN VẬT | vật sắc, dao kéo | - | - | 男[おとこ]は刃物[はもの]を持[も]って店[みせ]に押[お]し入[い]った。 | Gã đàn ông cầm dao xông vào cửa hàng.
+爆発物[ばくはつぶつ] | n | BẠO PHÁT VẬT | chất nổ | - | - | 空港[くうこう]で爆発[ばくはつ]物[ぶつ]の検査[けんさ]が強化[きょうか]された。 | Kiểm tra chất nổ tại sân bay được tăng cường.
+暴力団[ぼうりょくだん] | n | BẠO LỰC ĐOÀN | băng đảng xã hội đen | - | - | 暴力[ぼうりょく]団[だん]の資金[しきん]源[げん]を断[た]つ対策[たいさく]が進[すす]められている。 | Biện pháp cắt nguồn tiền của các băng đảng đang được đẩy mạnh.
+反社会的[はんしゃかいてき]勢力[せいりょく] | n | PHẢN XÃ HỘI ĐÍCH THẾ LỰC | thế lực chống đối xã hội | - | - | 反社会[はんしゃかい]的[てき]勢力[せいりょく]との取引[とりひき]は禁止[きんし]されている。 | Giao dịch với thế lực chống đối xã hội bị cấm.
+組織[そしき]犯罪[はんざい] | n | TỔ CHỨC PHẠM TỘI | tội phạm có tổ chức | - | - | 国際[こくさい]的[てき]な組織[そしき]犯罪[はんざい]が増[ふ]えている。 | Tội phạm có tổ chức xuyên quốc gia đang tăng.
+凶悪[きょうあく]犯罪[はんざい] | n | HUNG ÁC PHẠM TỘI | tội phạm nghiêm trọng | - | - | 凶悪[きょうあく]犯罪[はんざい]の時効[じこう]が廃止[はいし]された。 | Thời hiệu đối với tội phạm nghiêm trọng đã bị bãi bỏ.
+治安[ちあん]悪化[あっか] | n | TRỊ AN ÁC HÓA | an ninh xấu đi | - | - | 不況[ふきょう]が続[つづ]き、治安[ちあん]悪化[あっか]が懸念[けねん]されている。 | Suy thoái kéo dài làm dấy lên lo ngại an ninh xấu đi.
+特殊[とくしゅ]詐欺[さぎ] | n | ĐẶC THÙ TRÁ KHI | lừa đảo qua điện thoại (kiểu đặc thù) | - | - | 高齢者[こうれいしゃ]を狙[ねら]った特殊[とくしゅ]詐欺[さぎ]が後[あと]を絶[た]たない。 | Lừa đảo nhắm vào người già vẫn liên tục xảy ra.
+闇[やみ]バイト | n | ÁM | việc làm thêm phi pháp | - | - | 若者[わかもの]が闇[やみ]バイトに応募[おうぼ]して犯罪[はんざい]に巻[ま]き込[こ]まれた。 | Người trẻ ứng tuyển việc làm thêm phi pháp và bị cuốn vào tội ác.
+マネーロンダリング | n | - | rửa tiền | - | - | 銀行[ぎんこう]はマネーロンダリング対策[たいさく]を強化[きょうか]している。 | Ngân hàng đang tăng cường biện pháp chống rửa tiền.
+資金[しきん]洗浄[せんじょう] | n | TƯ KIM TẨY TỊNH | rửa tiền | - | - | 犯罪[はんざい]収益[しゅうえき]の資金[しきん]洗浄[せんじょう]が摘発[てきはつ]された。 | Vụ rửa tiền thu được từ tội phạm đã bị phanh phui.
+覚[かく]せい剤[ざい] | n | GIÁC TỀ | ma túy đá | - | - | 覚[かく]せい剤[ざい]の所持[しょじ]で逮捕[たいほ]された。 | Bị bắt vì tàng trữ ma túy đá.
+違法[いほう]薬物[やくぶつ] | n | VI PHÁP DƯỢC VẬT | chất cấm | - | - | 違法[いほう]薬物[やくぶつ]の乱用[らんよう]防止[ぼうし]を呼[よ]びかける。 | Kêu gọi phòng chống lạm dụng chất cấm.
+密売[みつばい] | n,v3 | MẬT MẠI | buôn lậu, bán lén | - | - | 麻薬[まやく]を密売[みつばい]していた組織[そしき]が摘発[てきはつ]された。 | Tổ chức buôn bán ma túy đã bị phanh phui.
+児童[じどう]虐待[ぎゃくたい] | n | NHI ĐỒNG NGƯỢC ĐÃI | bạo hành trẻ em | - | - | 児童[じどう]虐待[ぎゃくたい]の相談[そうだん]件数[けんすう]が過去[かこ]最多[さいた]になった。 | Số ca tư vấn về bạo hành trẻ em cao nhất từ trước đến nay.
+家庭内[かていない]暴力[ぼうりょく] | n | GIA ĐÌNH NỘI BẠO LỰC | bạo lực gia đình | - | - | 家庭[かてい]内[ない]暴力[ぼうりょく]の被害[ひがい]者[しゃ]を保護[ほご]する施設[しせつ]がある。 | Có cơ sở bảo vệ nạn nhân bạo lực gia đình.
+侮辱[ぶじょく] | n,v3 | VŨ NHỤC | lăng mạ, sỉ nhục | {侮辱} 罪[ざい] | tội lăng mạ | 人前[ひとまえ]で侮辱[ぶじょく]されて深[ふか]く傷[きず]ついた。 | Bị sỉ nhục trước mặt mọi người, tôi tổn thương sâu sắc.
+プライバシー侵害[しんがい] | n | XÂM HẠI | xâm phạm quyền riêng tư | - | - | 無断[むだん]で写真[しゃしん]を公開[こうかい]するのはプライバシー侵害[しんがい]だ。 | Tự ý đăng ảnh là xâm phạm quyền riêng tư.
+著作権[ちょさくけん]侵害[しんがい] | n | TRỨ TÁC QUYỀN XÂM HẠI | vi phạm bản quyền | - | - | 映画[えいが]を無断[むだん]でアップロードし、著作[ちょさく]権[けん]侵害[しんがい]で逮捕[たいほ]された。 | Bị bắt vì vi phạm bản quyền do tự ý tải phim lên mạng.
+カルテル | n | - | cartel, liên minh độc quyền | - | - | 価格[かかく]カルテルを結[むす]んだ企業[きぎょう]に課徴金[かちょうきん]が科[か]された。 | Doanh nghiệp lập cartel giá bị phạt tiền.
+クーリングオフ | n | - | quyền hủy hợp đồng trong thời gian cân nhắc | - | - | 訪問[ほうもん]販売[はんばい]で買[か]った商品[しょうひん]をクーリングオフした。 | Tôi hủy hợp đồng mua hàng bán tận nhà trong thời gian cân nhắc.
+悪徳[あくとく]商法[しょうほう] | n | ÁC ĐỨC THƯƠNG PHÁP | thủ đoạn kinh doanh lừa đảo | - | - | 高齢者[こうれいしゃ]を狙[ねら]う悪徳[あくとく]商法[しょうほう]に注意[ちゅうい]しよう。 | Hãy cảnh giác thủ đoạn kinh doanh lừa đảo nhắm vào người già.
+約款[やっかん] | n | ƯỚC KHOẢN | điều khoản hợp đồng | - | - | 保険[ほけん]の約款[やっかん]をよく読[よ]んでから契約[けいやく]した。 | Tôi đọc kỹ điều khoản bảo hiểm rồi mới ký.
+責務[せきむ] | n | TRÁCH VỤ | trách nhiệm, bổn phận | - | - | 子供[こども]を守[まも]るのは大人[おとな]の責務[せきむ]だ。 | Bảo vệ trẻ em là trách nhiệm của người lớn.
+帰属[きぞく] | n,v3 | QUY THUỘC | thuộc về | {帰属} 意識[いしき] | ý thức thuộc về | 発明[はつめい]の権利[けんり]は会社[かいしゃ]に帰属[きぞく]する。 | Quyền đối với sáng chế thuộc về công ty.
+占有[せんゆう] | n,v3 | CHIẾM HỮU | chiếm hữu | - | - | 一[ひと]つの企業[きぎょう]が市場[しじょう]を占有[せんゆう]している。 | Một doanh nghiệp đang chiếm lĩnh thị trường.
+賃貸借[ちんたいしゃく] | n | NHẪM THẢI TÁ | thuê và cho thuê | {賃貸借} 契約[けいやく] | hợp đồng thuê | 賃貸[ちんたい]借[しゃく]契約[けいやく]は二[に]年[ねん]ごとに更新[こうしん]される。 | Hợp đồng thuê nhà được gia hạn mỗi hai năm.
+立[た]ち退[の]き | n | LẬP THOÁI | di dời, dọn đi | {立ち退き} を 求[もと]める | yêu cầu di dời | 再開発[さいかいはつ]で住民[じゅうみん]に立[た]ち退[の]きが求[もと]められた。 | Do tái phát triển, cư dân bị yêu cầu di dời.
+地主[じぬし] | n | ĐỊA CHỦ | chủ đất | - | - | 地主[じぬし]から土地[とち]を借[か]りて家[いえ]を建[た]てた。 | Thuê đất của chủ đất để xây nhà.
+公訴[こうそ]時効[じこう] | n | CÔNG TỐ THỜI HIỆU | thời hiệu truy tố | - | - | 事件[じけん]は公訴[こうそ]時効[じこう]を迎[むか]えた。 | Vụ án đã hết thời hiệu truy tố.
+慰謝料[いしゃりょう] | n | ÚY TẠ LIỆU | tiền bồi thường tổn thất tinh thần | - | - | 離婚[りこん]に際[さい]して慰謝[いしゃ]料[りょう]を請求[せいきゅう]した。 | Khi ly hôn, bà yêu cầu tiền bồi thường tinh thần.
+賠償金[ばいしょうきん] | n | BỒI THƯỜNG KIM | tiền bồi thường | - | - | 会社[かいしゃ]は被害[ひがい]者[しゃ]に賠償[ばいしょう]金[きん]を支払[しはら]った。 | Công ty đã trả tiền bồi thường cho nạn nhân.
+補填[ほてん] | n,v3 | BỔ ĐIỀN | bù đắp (thiếu hụt) | 損失[そんしつ] を {補填} する | bù lỗ | 赤字[あかじ]を税金[ぜいきん]で補填[ほてん]するのはおかしい。 | Dùng tiền thuế để bù lỗ là vô lý.
+親権[しんけん] | n | THÂN QUYỀN | quyền nuôi con | - | - | 離婚[りこん]後[ご]の親権[しんけん]は母親[ははおや]が持[も]つことになった。 | Sau ly hôn, người mẹ giữ quyền nuôi con.
+養育費[よういくひ] | n | DƯỠNG DỤC PHÍ | tiền cấp dưỡng nuôi con | - | - | 元夫[もとおっと]が養育[よういく]費[ひ]を払[はら]ってくれない。 | Chồng cũ không trả tiền cấp dưỡng nuôi con.
+離婚[りこん]調停[ちょうてい] | n | LY HÔN ĐIỀU ĐÌNH | hòa giải ly hôn | - | - | 家庭[かてい]裁判所[さいばんしょ]で離婚[りこん]調停[ちょうてい]が行[おこな]われた。 | Hòa giải ly hôn được tiến hành tại tòa án gia đình.
+後見人[こうけんにん] | n | HẬU KIẾN NHÂN | người giám hộ | - | - | 叔父[おじ]が私[わたし]の後見[こうけん]人[にん]になってくれた。 | Chú tôi đã làm người giám hộ cho tôi.
+成年[せいねん]後見[こうけん] | n | THÀNH NIÊN HẬU KIẾN | giám hộ người trưởng thành | {成年後見} 制度[せいど] | chế độ giám hộ | 認知症[にんちしょう]の母[はは]のために成年[せいねん]後見[こうけん]制度[せいど]を利用[りよう]した。 | Tôi dùng chế độ giám hộ cho người mẹ bị sa sút trí tuệ.
+自己[じこ]破産[はさん] | n,v3 | TỰ KỶ PHÁ SẢN | tự xin phá sản (cá nhân) | - | - | 借金[しゃっきん]が返[かえ]せず自己[じこ]破産[はさん]した。 | Không trả nổi nợ nên đã xin phá sản cá nhân.
+多重[たじゅう]債務[さいむ] | n | ĐA TRỌNG TRÁI VỤ | nợ chồng chất nhiều nơi | - | - | 多重[たじゅう]債務[さいむ]に陥[おちい]って生活[せいかつ]が破綻[はたん]した。 | Rơi vào cảnh nợ nhiều nơi, cuộc sống tan vỡ.
+消費者[しょうひしゃ]金融[きんゆう] | n | TIÊU PHÍ GIẢ KIM DUNG | tín dụng tiêu dùng | - | - | 消費[しょうひ]者[しゃ]金融[きんゆう]で安易[あんい]に借[か]りてはいけない。 | Đừng vay tín dụng tiêu dùng một cách dễ dãi.
+闇金[やみきん] | n | ÁM KIM | cho vay nặng lãi chui | - | - | 闇金[やみきん]の厳[きび]しい取[と]り立[た]てに苦[くる]しんだ。 | Khổ sở vì bị bọn cho vay chui đòi nợ gắt.
+高利貸[こうりが]し | n | CAO LỢI THẢI | cho vay nặng lãi | - | - | 昔[むかし]の小説[しょうせつ]には悪[わる]い高利[こうり]貸[が]しがよく登場[とうじょう]する。 | Kẻ cho vay nặng lãi độc ác thường xuất hiện trong tiểu thuyết xưa.
+無免許[むめんきょ] | n | VÔ MIỄN HỨA | không bằng lái | {無免許} 運転[うんてん] | lái xe không bằng | 無免許[むめんきょ]運転[うんてん]で事故[じこ]を起[お]こした。 | Gây tai nạn khi lái xe không có bằng.
+ひき逃[に]げ | n,v3 | ĐÀO | gây tai nạn rồi bỏ chạy | - | - | ひき逃[に]げの犯人[はんにん]が三日[みっか]後[ご]に逮捕[たいほ]された。 | Kẻ gây tai nạn bỏ chạy bị bắt ba ngày sau.
+当[あ]て逃[に]げ | n,v3 | ĐƯƠNG ĐÀO | va chạm rồi bỏ chạy (chỉ thiệt hại tài sản) | - | - | 駐車場[ちゅうしゃじょう]で車[くるま]を当[あ]て逃[に]げされた。 | Xe tôi bị đâm rồi bỏ chạy ở bãi đậu xe.
+速度[そくど]違反[いはん] | n | TỐC ĐỘ VI PHẢN | vượt quá tốc độ | - | - | 高速[こうそく]道路[どうろ]で速度[そくど]違反[いはん]で捕[つか]まった。 | Tôi bị bắt vì chạy quá tốc độ trên cao tốc.
+信号[しんごう]無視[むし] | n | TÍN HIỆU VÔ THỊ | vượt đèn đỏ | - | - | 信号[しんごう]無視[むし]の車[くるま]にぶつけられた。 | Tôi bị một chiếc xe vượt đèn đỏ đâm phải.
+反則金[はんそくきん] | n | PHẢN TẮC KIM | tiền phạt vi phạm giao thông | - | - | 一時[いちじ]停止[ていし]違反[いはん]で反則[はんそく]金[きん]を払[はら]った。 | Tôi nộp phạt vì không dừng xe tại vạch.
+免許[めんきょ]取[と]り消[け]し | n | MIỄN HỨA THỦ TIÊU | tước bằng lái | - | - | 飲酒[いんしゅ]運転[うんてん]で免許[めんきょ]取[と]り消[け]しになった。 | Bị tước bằng lái vì lái xe khi say.
+粉飾[ふんしょく] | n,v3 | PHẤN SỨC | tô vẽ, làm giả (sổ sách) | {粉飾} 決算[けっさん] | gian lận báo cáo tài chính | 会社[かいしゃ]は長年[ながねん]にわたり決算[けっさん]を粉飾[ふんしょく]していた。 | Công ty đã gian lận báo cáo tài chính trong nhiều năm.
+法的[ほうてき]措置[そち] | n | PHÁP ĐÍCH THỐ TRÍ | biện pháp pháp lý | - | - | 支払[しはら]いがなければ法的[ほうてき]措置[そち]をとる。 | Nếu không thanh toán, chúng tôi sẽ áp dụng biện pháp pháp lý.
+法廷[ほうてい]闘争[とうそう] | n | PHÁP ĐÌNH ĐẤU TRANH | đấu tranh tại tòa | - | - | 十[じゅう]年[ねん]に及[およ]ぶ法廷[ほうてい]闘争[とうそう]の末[すえ]、勝訴[しょうそ]した。 | Sau mười năm đấu tranh tại tòa, họ đã thắng kiện.
+適法[てきほう] | n,adj-na | THÍCH PHÁP | hợp pháp | - | - | その手続[てつづ]きは適法[てきほう]に行[おこな]われた。 | Thủ tục đó đã được tiến hành hợp pháp.
+合憲[ごうけん] | n | HỢP HIẾN | hợp hiến | - | - | 最高裁[さいこうさい]は法律[ほうりつ]を合憲[ごうけん]と判断[はんだん]した。 | Tòa án tối cao phán quyết đạo luật hợp hiến.
+法規[ほうき] | n | PHÁP QUY | luật lệ, quy định pháp luật | 交通[こうつう] {法規} | luật giao thông | 交通[こうつう]法規[ほうき]を守[まも]って運転[うんてん]しよう。 | Hãy tuân thủ luật giao thông khi lái xe.
+裁[さば]く | v1 | TÀI | xét xử, phán xử | - | - | 人[ひと]が人[ひと]を裁[さば]くのは難[むずか]しい。 | Con người phán xử con người là việc khó.
+質権[しちけん] | n | CHẤT QUYỀN | quyền cầm cố | {質権}を設定[せってい]する | thiết lập quyền cầm cố | 株式[かぶしき]に質権[しちけん]を設定[せってい]した。 | Thiết lập quyền cầm cố trên cổ phiếu.
+連帯保証[れんたいほしょう] | n | LIÊN ĐỚI BẢO CHỨNG | bảo lãnh liên đới | {連帯保証}人[にん] | người bảo lãnh liên đới | 連帯[れんたい]保証[ほしょう]人[にん]になるリスクを理解[りかい]すべきだ。 | Nên hiểu rủi ro khi trở thành người bảo lãnh liên đới.
+手付[てつけ] | n | THỦ PHÓ | tiền đặt cọc | {手付}金[きん] | tiền đặt cọc | 手付[てつけ]金[きん]を支払[しはら]って契約[けいやく]した。 | Trả tiền đặt cọc rồi ký hợp đồng.
+元金[がんきん] | n | NGUYÊN KIM | vốn gốc | {元金}を返済[へんさい]する | trả vốn gốc | 元金[がんきん]と利息[りそく]を合[あ]わせて返済[へんさい]する。 | Trả cả vốn gốc và lãi.
+弁済[べんさい] | n | BIỆN TẾ | thanh toán, hoàn trả | {弁済}する | hoàn trả | 債務[さいむ]を弁済[べんさい]する義務[ぎむ]がある。 | Có nghĩa vụ hoàn trả nợ.
+償還[しょうかん] | n | THƯỜNG HOÀN | hoàn lại, chuộc lại | {償還}する | hoàn lại | 国債[こくさい]が満期[まんき]で償還[しょうかん]された。 | Trái phiếu chính phủ được hoàn lại khi đáo hạn.
+繰[く]り上[あ]げ | n | TÀO THƯỢNG | đẩy lên trước | {繰[く]り上[あ]げ}返済[へんさい] | trả nợ trước hạn | 住宅[じゅうたく]ローンを繰[く]り上[あ]げ返済[へんさい]した。 | Trả trước hạn khoản vay nhà.
+据[す]え置[お]き | n | CỨ TRÍ | giữ nguyên | 金利[きんり]{据[す]え置[お]き} | giữ nguyên lãi suất | 金利[きんり]が据[す]え置[お]きのまま据[す]え置[お]かれた。 | Lãi suất được giữ nguyên.
+不[ふ]渡[わた]り | n | BẤT ĐỘ | không thanh toán được | {不[ふ]渡[わた]り}手形[てがた] | hối phiếu không thanh toán được | 不渡[ふわた]りを出[だ]して倒産[とうさん]した。 | Phá sản vì phát hành hối phiếu không thanh toán được.
+仮[かり]差[さし]押[おさ]え | n | GIẢ SAI ÁP | tạm giữ, phong tỏa tạm thời | {仮[かり]差[さし]押[おさ]え}をする | phong tỏa tạm thời | 裁判所[さいばんしょ]が仮差押[かりさしおさ]えを認[みと]めた。 | Tòa án chấp thuận phong tỏa tạm thời.
+供託[きょうたく] | n | CUNG THÁC | ký gửi (pháp luật) | {供託}する | ký gửi | 家賃[やちん]を法務局[ほうむきょく]に供託[きょうたく]した。 | Ký gửi tiền thuê nhà tại cục pháp vụ.
+減価[げんか] | n | GIẢM GIÁ | giảm giá trị | {減価}償却[しょうきゃく] | khấu hao | 設備[せつび]の減価[げんか]償却[しょうきゃく]を計上[けいじょう]する。 | Tính khấu hao thiết bị.
+償却[しょうきゃく] | n | THƯỜNG KHƯỚC | khấu hao, xóa sổ | {償却}する | khấu hao | 不良[ふりょう]債権[さいけん]を償却[しょうきゃく]した。 | Đã xóa sổ nợ xấu.
+簿価[ぼか] | n | BẠ GIÁ | giá trị sổ sách | {簿価}で評価[ひょうか]する | đánh giá theo giá sổ sách | 資産[しさん]を簿価[ぼか]で記録[きろく]する。 | Ghi nhận tài sản theo giá sổ sách.
+市価[しか] | n | THỊ GIÁ | giá thị trường | {市価}で売[う]る | bán theo giá thị trường | 市価[しか]より安[やす]く仕入[しい]れた。 | Mua vào rẻ hơn giá thị trường.
+暴騰[ぼうとう] | n | BẠO ĐẰNG | tăng vọt | 株価[かぶか]が{暴騰}する | giá cổ phiếu tăng vọt | 原油[げんゆ]価格[かかく]が暴騰[ぼうとう]した。 | Giá dầu thô tăng vọt.
+反騰[はんとう] | n | PHẢN ĐẰNG | phục hồi, bật lại | 株価[かぶか]が{反騰}する | giá cổ phiếu bật lại | 売[う]られすぎた銘柄[めいがら]が反騰[はんとう]した。 | Mã cổ phiếu bị bán quá mức đã bật lại.
+底値[そこね] | n | ĐỂ TRỊ | giá sàn | {底値}を打[う]つ | chạm đáy | 株価[かぶか]が底値[そこね]を打[う]って反転[はんてん]した。 | Giá cổ phiếu chạm đáy rồi đảo chiều.
+上値[うわね] | n | THƯỢNG TRỊ | giá trần | {上値}が重[おも]い | giá trần nặng | 上値[うわね]が重[おも]くなかなか上昇[じょうしょう]しない。 | Giá trần nặng nên khó tăng.
+下値[したね] | n | HẠ TRỊ | giá sàn, ngưỡng dưới | {下値}を探[さぐ]る | dò giá sàn | 市場[しじょう]は下値[したね]を探[さぐ]る展開[てんかい]だ。 | Thị trường đang dò đáy.
+利幅[りはば] | n | LỢI PHÚC | biên lợi nhuận | {利幅}が薄[うす]い | biên lợi nhuận mỏng | 利幅[りはば]が薄[うす]いので大量[たいりょう]に売[う]る必要[ひつよう]がある。 | Vì biên lợi nhuận mỏng nên cần bán số lượng lớn.
+租税[そぜい] | n | TÔ THUẾ | thuế, tô thuế | {租税}公課[こうか] | thuế và phí công | 租税[そぜい]回避[かいひ]は合法[ごうほう]だが批判[ひはん]される。 | Tránh thuế hợp pháp nhưng bị chỉ trích.
+経常[けいじょう] | n | KINH THƯỜNG | thường xuyên (kế toán) | {経常}利益[りえき] | lợi nhuận thường xuyên | 経常[けいじょう]利益[りえき]が前年[ぜんねん]比[ひ]20%増[ぞう]だった。 | Lợi nhuận thường xuyên tăng 20% so với năm trước.

@@ -1,0 +1,144 @@
+@topic t09
+@ja 情報[じょうほう]・通信[つうしん]
+@vi Thông tin và viễn thông
+@desc Mạng internet, máy tính, điện thoại, bảo mật, mạng xã hội, thư từ bưu chính và các thao tác với văn bản, dữ liệu.
+情報化[じょうほうか] | n,v3 | TÌNH BÁO HÓA | tin học hóa | {情報化} 社会[しゃかい] | xã hội thông tin | 情報化[じょうほうか]社会[しゃかい]ではスマホがないと不便[ふべん]だ。 | Trong xã hội thông tin, không có điện thoại thông minh thì bất tiện.
+情報[じょうほう]技術[ぎじゅつ] | n | TÌNH BÁO KỸ THUẬT | công nghệ thông tin | - | - | 情報[じょうほう]技術[ぎじゅつ]の発達[はったつ]で働[はたら]き方[かた]が変[か]わった。 | Sự phát triển của công nghệ thông tin đã thay đổi cách làm việc.
+情報[じょうほう]処理[しょり] | n | TÌNH BÁO XỬ LÝ | xử lý thông tin | - | - | 情報[じょうほう]処理[しょり]の資格[しかく]を取[と]った。 | Tôi lấy chứng chỉ xử lý thông tin.
+通信[つうしん]手段[しゅだん] | n | THÔNG TÍN THỦ ĐOẠN | phương tiện liên lạc | - | - | 災害[さいがい]時[じ]の通信[つうしん]手段[しゅだん]を確保[かくほ]しておく。 | Chuẩn bị sẵn phương tiện liên lạc khi có thiên tai.
+通信費[つうしんひ] | n | THÔNG TÍN PHÍ | cước viễn thông | 通信費[つうしんひ] を 節約[せつやく] する | tiết kiệm cước điện thoại | 格安[かくやす]スマホにして通信費[つうしんひ]を節約[せつやく]した。 | Chuyển sang điện thoại giá rẻ để tiết kiệm cước.
+通信[つうしん]速度[そくど] | n | THÔNG TÍN TỐC ĐỘ | tốc độ mạng | - | - | 夜[よる]になると通信[つうしん]速度[そくど]が遅[おそ]くなる。 | Buổi tối tốc độ mạng chậm đi.
+光[ひかり]回線[かいせん] | n | QUANG HỒI TUYẾN | đường truyền cáp quang | - | - | 引[ひ]っ越[こ]し先[さき]に光[ひかり]回線[かいせん]を引[ひ]いた。 | Tôi đã kéo cáp quang ở nhà mới.
+無線[むせん] | n | VÔ TUYẾN | không dây | {無線} LAN | mạng LAN không dây | 部屋[へや]で無線[むせん]LANが使[つか]える。 | Trong phòng có thể dùng mạng LAN không dây.
+有線[ゆうせん] | n | HỮU TUYẾN | có dây | - | - | 有線[ゆうせん]のほうが通信[つうしん]が安定[あんてい]している。 | Mạng có dây ổn định hơn.
+ネットワーク | n | - | mạng lưới | - | - | 会社[かいしゃ]のネットワークにつながらない。 | Không kết nối được mạng của công ty.
+ネット | n | - | mạng (internet) | ネット で 調[しら]べる | tra trên mạng | 分[わ]からない言葉[ことば]はネットで調[しら]べる。 | Từ nào không hiểu thì tôi tra trên mạng.
+ブラウザ | n | - | trình duyệt | - | - | ブラウザを最新[さいしん]版[ばん]にしてください。 | Hãy cập nhật trình duyệt lên bản mới nhất.
+検索[けんさく]エンジン | n | KIỂM SÁCH | công cụ tìm kiếm | - | - | 検索[けんさく]エンジンで店[みせ]の場所[ばしょ]を調[しら]べた。 | Tìm vị trí cửa hàng bằng công cụ tìm kiếm.
+ウェブサイト | n | - | trang web | - | - | 会社[かいしゃ]のウェブサイトを作[つく]り直[なお]した。 | Đã làm lại trang web công ty.
+アクセス数[すう] | n | SỐ | lượt truy cập | - | - | 記事[きじ]のアクセス数[すう]が急[きゅう]に増[ふ]えた。 | Lượt truy cập bài viết đột ngột tăng.
+閲覧数[えつらんすう] | n | DUYỆT LÃM SỐ | lượt xem | - | - | この動画[どうが]は閲覧数[えつらんすう]が百万[ひゃくまん]を超[こ]えた。 | Video này đã vượt một triệu lượt xem.
+再生[さいせい]回数[かいすう] | n | TÁI SINH HỒI SỐ | lượt phát (video) | - | - | 再生[さいせい]回数[かいすう]が伸[の]びない。 | Lượt phát không tăng lên được.
+誤情報[ごじょうほう] | n | NGỘ TÌNH BÁO | thông tin sai | - | - | 地震[じしん]の後[あと]、ネットで誤情報[ごじょうほう]が広[ひろ]がった。 | Sau trận động đất, thông tin sai lan truyền trên mạng.
+フェイクニュース | n | - | tin giả | - | - | フェイクニュースに騙[だま]されないように注意[ちゅうい]しよう。 | Hãy cẩn thận để không bị tin giả lừa.
+転送[てんそう] | n,v3 | CHUYỂN TỐNG | chuyển tiếp | メール を {転送} する | chuyển tiếp email | 課長[かちょう]にメールを転送[てんそう]した。 | Tôi đã chuyển tiếp email cho trưởng ban.
+添付[てんぷ]ファイル | n | THIÊM PHÓ | tệp đính kèm | 添付[てんぷ]ファイル を 開[ひら]く | mở tệp đính kèm | 知[し]らない人[ひと]からの添付[てんぷ]ファイルは開[ひら]かないでください。 | Đừng mở tệp đính kèm từ người lạ.
+アップロード | n,v3 | - | tải lên | - | - | 写真[しゃしん]をクラウドにアップロードした。 | Tôi tải ảnh lên đám mây.
+インストール | n,v3 | - | cài đặt | アプリ を {インストール} する | cài ứng dụng | 翻訳[ほんやく]アプリをインストールした。 | Tôi đã cài ứng dụng dịch.
+アンインストール | n,v3 | - | gỡ cài đặt | - | - | 使[つか]わないアプリはアンインストールした。 | Gỡ các ứng dụng không dùng.
+アップデート | n,v3 | - | cập nhật | - | - | スマホをアップデートしたら動[うご]きが速[はや]くなった。 | Cập nhật điện thoại xong máy chạy nhanh hơn.
+再起動[さいきどう] | n,v3 | TÁI KHỞI ĐỘNG | khởi động lại | - | - | パソコンが固[かた]まったので再起動[さいきどう]した。 | Máy tính bị treo nên tôi khởi động lại.
+終了[しゅうりょう] | n,v3 | CHUNG LIỄU | kết thúc | 受付[うけつけ] {終了} | hết giờ tiếp nhận | 本日[ほんじつ]の受付[うけつけ]は終了[しゅうりょう]しました。 | Hôm nay đã hết giờ tiếp nhận.
+上書[うわが]き | n,v3 | THƯỢNG THƯ | ghi đè | {上書[うわが]き} 保存[ほぞん] | lưu đè | 間違[まちが]えて上書[うわが]き保存[ほぞん]してしまった。 | Tôi lỡ lưu đè lên mất rồi.
+復元[ふくげん] | n,v3 | PHỤC NGUYÊN | khôi phục | データ を {復元} する | khôi phục dữ liệu | 消[け]したデータを復元[ふくげん]できた。 | Đã khôi phục được dữ liệu bị xóa.
+バックアップ | n,v3 | - | sao lưu | バックアップ を 取[と]る | sao lưu dữ liệu | 大切[たいせつ]なデータはバックアップを取[と]っておこう。 | Dữ liệu quan trọng thì hãy sao lưu.
+記憶[きおく]容量[ようりょう] | n | KÝ ỨC DUNG LƯỢNG | dung lượng bộ nhớ | - | - | スマホの記憶[きおく]容量[ようりょう]がいっぱいだ。 | Bộ nhớ điện thoại đã đầy.
+データベース | n | - | cơ sở dữ liệu | - | - | 顧客[こきゃく]の情報[じょうほう]をデータベースで管理[かんり]する。 | Quản lý thông tin khách hàng bằng cơ sở dữ liệu.
+サーバー | n | - | máy chủ | サーバー が ダウン する | máy chủ sập | アクセスが集中[しゅうちゅう]してサーバーがダウンした。 | Truy cập dồn dập khiến máy chủ bị sập.
+クラウド | n | - | điện toán đám mây | - | - | 写真[しゃしん]はクラウドに保存[ほぞん]している。 | Ảnh được lưu trên đám mây.
+セキュリティ | n | - | bảo mật | セキュリティ を 強化[きょうか] する | tăng cường bảo mật | 会社[かいしゃ]のセキュリティを強化[きょうか]した。 | Đã tăng cường bảo mật cho công ty.
+ウイルス対策[たいさく] | n | ĐỐI SÁCH | phòng chống virus | {ウイルス対策[たいさく]} ソフト | phần mềm diệt virus | ウイルス対策[たいさく]ソフトを入[い]れている。 | Tôi có cài phần mềm diệt virus.
+不正[ふせい]アクセス | n | BẤT CHÍNH | truy cập trái phép | - | - | 不正[ふせい]アクセスで個人[こじん]情報[じょうほう]が盗[ぬす]まれた。 | Thông tin cá nhân bị đánh cắp do truy cập trái phép.
+ハッカー | n | - | tin tặc | - | - | ハッカーにアカウントを乗[の]っ取[と]られた。 | Tài khoản bị tin tặc chiếm quyền.
+乗[の]っ取[と]り | n | THỪA THỦ | chiếm đoạt | {乗[の]っ取[と]り} 被害[ひがい] | bị chiếm tài khoản | SNSアカウントの乗[の]っ取[と]り被害[ひがい]が増[ふ]えている。 | Tình trạng bị chiếm tài khoản mạng xã hội đang tăng.
+なりすまし | n | - | mạo danh | - | - | 友人[ゆうじん]になりすましたメッセージが届[とど]いた。 | Nhận được tin nhắn mạo danh bạn tôi.
+暗号[あんごう] | n | ÁM HIỆU | mật mã | {暗号} 資産[しさん] | tài sản mã hóa | 暗号[あんごう]資産[しさん]の取引[とりひき]には注意[ちゅうい]が必要[ひつよう]だ。 | Giao dịch tài sản mã hóa cần thận trọng.
+暗号化[あんごうか] | n,v3 | ÁM HIỆU HÓA | mã hóa | - | - | 通信[つうしん]は暗号化[あんごうか]されているので安全[あんぜん]だ。 | Đường truyền đã được mã hóa nên an toàn.
+認証[にんしょう] | n,v3 | NHẬN CHỨNG | xác thực | 顔[かお] {認証} | xác thực khuôn mặt | 顔[かお]認証[にんしょう]でスマホのロックを解除[かいじょ]する。 | Mở khóa điện thoại bằng xác thực khuôn mặt.
+二段階[にだんかい]認証[にんしょう] | n | NHỊ ĐOẠN GIAI NHẬN CHỨNG | xác thực hai bước | - | - | 安全[あんぜん]のために二段階[にだんかい]認証[にんしょう]を設定[せってい]した。 | Đã cài xác thực hai bước cho an toàn.
+ログアウト | n,v3 | - | đăng xuất | - | - | 共用[きょうよう]パソコンでは必[かなら]ずログアウトしてください。 | Trên máy dùng chung nhất định phải đăng xuất.
+会員[かいいん]登録[とうろく] | n,v3 | HỘI VIÊN ĐĂNG LỤC | đăng ký thành viên | - | - | 会員[かいいん]登録[とうろく]すると送料[そうりょう]が無料[むりょう]になる。 | Đăng ký thành viên thì được miễn phí vận chuyển.
+退会[たいかい] | n,v3 | THOÁI HỘI | rút khỏi hội | - | - | 使[つか]わなくなったので退会[たいかい]した。 | Không dùng nữa nên tôi hủy tư cách thành viên.
+個人[こじん]情報[じょうほう]保護[ほご] | n | CÁ NHÂN TÌNH BÁO BẢO HỘ | bảo vệ thông tin cá nhân | - | - | 個人[こじん]情報[じょうほう]保護[ほご]のため、名前[なまえ]は公開[こうかい]しない。 | Để bảo vệ thông tin cá nhân, tên không được công khai.
+漏洩[ろうえい] | n,v3 | LẬU TIẾT | rò rỉ (thông tin) | - | - | 顧客[こきゃく]データが漏洩[ろうえい]した。 | Dữ liệu khách hàng đã bị rò rỉ.
+デジタル | n,adj-na | - | kỹ thuật số | - | - | デジタルカメラで写真[しゃしん]を撮[と]る。 | Chụp ảnh bằng máy ảnh kỹ thuật số.
+デジタル化[か] | n,v3 | HÓA | số hóa | - | - | 役所[やくしょ]の手続[てつづ]きのデジタル化[か]が進[すす]んでいる。 | Thủ tục hành chính đang được số hóa.
+アナログ | n,adj-na | - | tương tự (analog); kiểu cũ | - | - | 父[ちち]はアナログ人間[にんげん]でスマホが苦手[にがて]だ。 | Bố tôi là người kiểu cũ, không giỏi dùng điện thoại thông minh.
+電子化[でんしか] | n,v3 | ĐIỆN TỬ HÓA | điện tử hóa | - | - | 書類[しょるい]を電子化[でんしか]して保存[ほぞん]する。 | Điện tử hóa giấy tờ để lưu trữ.
+ペーパーレス | n | - | không giấy tờ | - | - | 会議[かいぎ]をペーパーレスにした。 | Cuộc họp đã chuyển sang không dùng giấy.
+オフライン | n | - | ngoại tuyến | - | - | このアプリはオフラインでも使[つか]える。 | Ứng dụng này dùng được cả khi ngoại tuyến.
+端末[たんまつ] | n | ĐOAN MẠT | thiết bị đầu cuối | - | - | 一[ひと]つのアカウントで三[みっ]つの端末[たんまつ]が使[つか]える。 | Một tài khoản dùng được trên ba thiết bị.
+タブレット | n | - | máy tính bảng | - | - | 授業[じゅぎょう]でタブレットを使[つか]っている。 | Trong giờ học sử dụng máy tính bảng.
+液晶[えきしょう] | n | DỊCH TINH | màn hình tinh thể lỏng | {液晶} 画面[がめん] | màn hình LCD | 落[お]として液晶[えきしょう]画面[がめん]が割[わ]れた。 | Đánh rơi nên màn hình bị vỡ.
+文字化[もじば]け | n,v3 | VĂN TỰ HÓA | lỗi phông chữ | - | - | メールが文字化[もじば]けして読[よ]めない。 | Email bị lỗi phông nên không đọc được.
+出力[しゅつりょく] | n,v3 | XUẤT LỰC | xuất ra; công suất | - | - | データをPDFで出力[しゅつりょく]した。 | Xuất dữ liệu ra PDF.
+誤変換[ごへんかん] | n | NGỘ BIẾN HOÁN | chuyển đổi nhầm (chữ) | - | - | メールの誤変換[ごへんかん]に気[き]づかなかった。 | Tôi không nhận ra lỗi gõ nhầm chữ trong email.
+キーボード | n | - | bàn phím | - | - | 日本語[にほんご]のキーボードに慣[な]れた。 | Tôi đã quen bàn phím tiếng Nhật.
+マウス | n | - | chuột (máy tính) | - | - | マウスの電池[でんち]が切[き]れた。 | Chuột máy tính hết pin.
+プリンター | n | - | máy in | - | - | プリンターの紙[かみ]が詰[つ]まった。 | Máy in bị kẹt giấy.
+スキャン | n,v3 | - | quét (scan) | 書類[しょるい] を {スキャン} する | quét tài liệu | 在留[ざいりゅう]カードをスキャンして送[おく]った。 | Tôi quét thẻ cư trú rồi gửi đi.
+周辺[しゅうへん]機器[きき] | n | CHU BIÊN CƠ KHÍ | thiết bị ngoại vi | - | - | パソコンの周辺[しゅうへん]機器[きき]をそろえた。 | Đã sắm đủ thiết bị ngoại vi cho máy tính.
+機種[きしゅ]変更[へんこう] | n,v3 | CƠ CHỦNG BIẾN CANH | đổi đời máy | - | - | 三[さん]年[ねん]ぶりに機種[きしゅ]変更[へんこう]した。 | Lần đầu sau ba năm tôi đổi đời máy.
+格安[かくやす]スマホ | n | CÁCH AN | điện thoại giá rẻ | - | - | 格安[かくやす]スマホに変[か]えて料金[りょうきん]が半分[はんぶん]になった。 | Đổi sang gói điện thoại giá rẻ thì cước giảm một nửa.
+通話[つうわ] | n,v3 | THÔNG THOẠI | cuộc gọi | {通話} 料[りょう] | cước gọi | 国際[こくさい]通話[つうわ]は料金[りょうきん]が高[たか]い。 | Cước gọi quốc tế đắt.
+留守番[るすばん]電話[でんわ] | n | LƯU THỦ PHIÊN ĐIỆN THOẠI | hộp thư thoại | - | - | 留守番[るすばん]電話[でんわ]にメッセージを残[のこ]した。 | Tôi để lại tin nhắn trong hộp thư thoại.
+迷惑[めいわく]電話[でんわ] | n | MÊ HOẶC ĐIỆN THOẠI | cuộc gọi làm phiền | - | - | 迷惑[めいわく]電話[でんわ]がしつこくかかってくる。 | Cuộc gọi làm phiền gọi đến liên tục.
+詐欺[さぎ]メール | n | TRÁ KHI | email lừa đảo | - | - | 銀行[ぎんこう]を名乗[なの]る詐欺[さぎ]メールが届[とど]いた。 | Nhận được email lừa đảo xưng là ngân hàng.
+架空[かくう]請求[せいきゅう] | n | GIÁ KHÔNG THỈNH CẦU | đòi tiền khống | - | - | 使[つか]っていないサイトの架空[かくう]請求[せいきゅう]が来[き]た。 | Bị đòi tiền khống từ trang web mà tôi không dùng.
+定額[ていがく] | n | ĐỊNH NGẠCH | trọn gói, số tiền cố định | {定額} 制[せい] | gói cố định | 動画[どうが]が定額[ていがく]で見[み]放題[ほうだい]だ。 | Xem video thả ga với giá trọn gói.
+プラン | n | - | gói dịch vụ; kế hoạch | プラン を 変更[へんこう] する | đổi gói | 安[やす]い料金[りょうきん]プランに変更[へんこう]した。 | Tôi đã đổi sang gói cước rẻ hơn.
+契約者[けいやくしゃ] | n | KHẾ ƯỚC GIẢ | người ký hợp đồng | - | - | 携帯[けいたい]の契約者[けいやくしゃ]は本人[ほんにん]でなければならない。 | Người đứng tên hợp đồng điện thoại phải là chính chủ.
+ユーザー | n | - | người dùng | - | - | このアプリのユーザーは若者[わかもの]が多[おお]い。 | Người dùng ứng dụng này phần đông là giới trẻ.
+普及率[ふきゅうりつ] | n | PHỔ CẬP SUẤT | tỷ lệ phổ cập | - | - | スマホの普及率[ふきゅうりつ]は九割[きゅうわり]を超[こ]えた。 | Tỷ lệ phổ cập điện thoại thông minh đã vượt 90%.
+プログラミング | n,v3 | - | lập trình | - | - | 小学校[しょうがっこう]でもプログラミングを学[まな]ぶ。 | Ngay ở tiểu học cũng học lập trình.
+プログラマー | n | - | lập trình viên | - | - | プログラマーとして日本[にほん]の会社[かいしゃ]で働[はたら]いている。 | Tôi làm lập trình viên ở một công ty Nhật.
+エンジニア | n | - | kỹ sư | - | - | 弟[おとうと]はITエンジニアだ。 | Em trai tôi là kỹ sư công nghệ thông tin.
+システム | n | - | hệ thống | システム を 導入[どうにゅう] する | đưa hệ thống vào sử dụng | 新[あたら]しい在庫[ざいこ]管理[かんり]システムを導入[どうにゅう]した。 | Đã đưa hệ thống quản lý tồn kho mới vào sử dụng.
+システム障害[しょうがい] | n | CHƯỚNG HẠI | sự cố hệ thống | - | - | システム障害[しょうがい]で銀行[ぎんこう]のATMが止[と]まった。 | Sự cố hệ thống làm ATM ngân hàng ngừng hoạt động.
+バグ | n | - | lỗi phần mềm | バグ を 直[なお]す | sửa lỗi | アプリのバグを直[なお]した。 | Đã sửa lỗi của ứng dụng.
+遠隔[えんかく] | n | VIỄN CÁCH | từ xa | {遠隔} 操作[そうさ] | điều khiển từ xa | 家[いえ]のエアコンを遠隔[えんかく]操作[そうさ]できる。 | Có thể điều khiển điều hòa ở nhà từ xa.
+位置[いち]情報[じょうほう] | n | VỊ TRÍ TÌNH BÁO | thông tin vị trí | - | - | 位置[いち]情報[じょうほう]をオンにすると地図[ちず]が使[つか]える。 | Bật thông tin vị trí thì dùng được bản đồ.
+電子[でんし]決済[けっさい] | n | ĐIỆN TỬ QUYẾT TẾ | thanh toán điện tử | - | - | 電子[でんし]決済[けっさい]で買[か]い物[もの]をする人[ひと]が増[ふ]えた。 | Người mua sắm bằng thanh toán điện tử đã tăng.
+ネットオークション | n | - | đấu giá trên mạng | - | - | 古[ふる]いカメラをネットオークションで売[う]った。 | Tôi bán máy ảnh cũ qua đấu giá trên mạng.
+フリマアプリ | n | - | ứng dụng chợ đồ cũ | - | - | 着[き]なくなった服[ふく]をフリマアプリで売[う]った。 | Bán quần áo không mặc nữa trên ứng dụng chợ đồ cũ.
+レビュー | n,v3 | - | đánh giá, bình luận | レビュー を 書[か]く | viết đánh giá | 買[か]った商品[しょうひん]のレビューを書[か]いた。 | Tôi viết đánh giá cho sản phẩm đã mua.
+インフルエンサー | n | - | người có sức ảnh hưởng | - | - | インフルエンサーが紹介[しょうかい]した商品[しょうひん]がすぐ売[う]り切[き]れた。 | Sản phẩm người có sức ảnh hưởng giới thiệu bán hết ngay.
+発信力[はっしんりょく] | n | PHÁT TÍN LỰC | sức lan tỏa thông tin | - | - | 若者[わかもの]の発信力[はっしんりょく]はとても強[つよ]い。 | Sức lan tỏa thông tin của giới trẻ rất mạnh.
+ライブ配信[はいしん] | n,v3 | PHỐI TÍN | phát trực tiếp | - | - | コンサートをライブ配信[はいしん]で見[み]た。 | Tôi xem buổi hòa nhạc qua phát trực tiếp.
+視聴[しちょう] | n,v3 | THỊ THÍNH | xem và nghe | {視聴} 率[りつ] | tỷ suất người xem | このドラマは視聴[しちょう]率[りつ]が高[たか]い。 | Bộ phim truyền hình này có tỷ suất người xem cao.
+登録者[とうろくしゃ] | n | ĐĂNG LỤC GIẢ | người đăng ký | {登録者} 数[すう] | số người đăng ký | チャンネルの登録者[とうろくしゃ]数[すう]が一万[いちまん]人[にん]を超[こ]えた。 | Số người đăng ký kênh đã vượt một vạn.
+伝達[でんたつ] | n,v3 | TRUYỀN ĐẠT | truyền đạt | 情報[じょうほう] を {伝達} する | truyền đạt thông tin | 上司[じょうし]の指示[しじ]を部下[ぶか]に伝達[でんたつ]する。 | Truyền đạt chỉ thị của cấp trên tới cấp dưới.
+連絡網[れんらくもう] | n | LIÊN LẠC VÕNG | mạng lưới liên lạc | - | - | 学校[がっこう]の連絡網[れんらくもう]で休校[きゅうこう]が伝[つた]えられた。 | Thông báo nghỉ học được truyền qua mạng lưới liên lạc của trường.
+告知[こくち] | n,v3 | CÁO TRI | thông báo | - | - | イベントの告知[こくち]をSNSで行[おこな]った。 | Thông báo sự kiện qua mạng xã hội.
+周知[しゅうち] | n,v3 | CHU TRI | phổ biến cho mọi người biết | {周知} の 事実[じじつ] | sự thật ai cũng biết | 新[あたら]しいルールを社員[しゃいん]に周知[しゅうち]した。 | Đã phổ biến quy định mới cho nhân viên.
+通達[つうたつ] | n,v3 | THÔNG ĐẠT | thông tư, chỉ thị | - | - | 本社[ほんしゃ]から残業[ざんぎょう]禁止[きんし]の通達[つうたつ]があった。 | Trụ sở chính ra thông báo cấm làm thêm giờ.
+記載[きさい] | n,v3 | KÝ TẢI | ghi chép, ghi vào | {記載} 事項[じこう] | mục cần ghi | 書類[しょるい]に住所[じゅうしょ]を記載[きさい]してください。 | Hãy ghi địa chỉ vào hồ sơ.
+非公開[ひこうかい] | n | PHI CÔNG KHAI | không công khai | - | - | このアカウントは非公開[ひこうかい]だ。 | Tài khoản này để chế độ riêng tư.
+開示[かいじ] | n,v3 | KHAI THỊ | công bố, tiết lộ | 情報[じょうほう] を {開示} する | công bố thông tin | 企業[きぎょう]は投資家[とうしか]に情報[じょうほう]を開示[かいじ]する義務[ぎむ]がある。 | Doanh nghiệp có nghĩa vụ công bố thông tin cho nhà đầu tư.
+情報[じょうほう]公開[こうかい] | n | TÌNH BÁO CÔNG KHAI | công khai thông tin | - | - | 市民[しみん]は市[し]に情報[じょうほう]公開[こうかい]を求[もと]めた。 | Người dân yêu cầu thành phố công khai thông tin.
+極秘[ごくひ] | n | CỰC BÍ | tối mật | - | - | この計画[けいかく]は極秘[ごくひ]に進[すす]められた。 | Kế hoạch này được tiến hành tối mật.
+内緒[ないしょ] | n | NỘI TỰ | bí mật (riêng tư) | {内緒} に する | giữ bí mật | このことはみんなには内緒[ないしょ]にしてね。 | Chuyện này giữ bí mật với mọi người nhé.
+照会[しょうかい] | n,v3 | CHIẾU HỘI | tra cứu, hỏi thông tin | 残高[ざんだか] {照会} | tra cứu số dư | ATMで残高[ざんだか]照会[しょうかい]をした。 | Tôi tra số dư ở cây ATM.
+回答[かいとう] | n,v3 | HỒI ĐÁP | trả lời (chính thức) | 回答[かいとう] を 得[え]る | nhận được câu trả lời | アンケートに三百[さんびゃく]人[にん]から回答[かいとう]を得[え]た。 | Nhận được câu trả lời khảo sát từ ba trăm người.
+応答[おうとう] | n,v3 | ỨNG ĐÁP | phản hồi | - | - | 何度[なんど]呼[よ]んでも応答[おうとう]がない。 | Gọi bao nhiêu lần cũng không có phản hồi.
+返答[へんとう] | n,v3 | PHẢN ĐÁP | trả lời | - | - | 質問[しつもん]に対[たい]する返答[へんとう]を待[ま]っている。 | Đang chờ câu trả lời cho câu hỏi.
+即答[そくとう] | n,v3 | TỨC ĐÁP | trả lời ngay | - | - | 大事[だいじ]なことなので即答[そくとう]はできない。 | Việc hệ trọng nên không thể trả lời ngay.
+郵便[ゆうびん] | n | BƯU TIỆN | bưu chính, thư từ | {郵便} 受[う]け | hộp thư | 郵便[ゆうびん]受[う]けにチラシがたくさん入[はい]っていた。 | Hộp thư có rất nhiều tờ rơi.
+書留[かきとめ] | n | THƯ LƯU | thư bảo đảm | - | - | 大切[たいせつ]な書類[しょるい]は書留[かきとめ]で送[おく]る。 | Giấy tờ quan trọng gửi bằng thư bảo đảm.
+速達[そくたつ] | n | TỐC ĐẠT | chuyển phát nhanh | - | - | 速達[そくたつ]なら明日[あした]届[とど]きます。 | Nếu gửi nhanh thì mai sẽ đến.
+小包[こづつみ] | n | TIỂU BAO | bưu kiện | - | - | 母[はは]から小包[こづつみ]が届[とど]いた。 | Bưu kiện của mẹ đã đến.
+差出人[さしだしにん] | n | SAI XUẤT NHÂN | người gửi | - | - | 差出人[さしだしにん]の名前[なまえ]が書[か]いていない手紙[てがみ]が来[き]た。 | Một bức thư không ghi tên người gửi đã đến.
+宛名[あてな] | n | UYỂN DANH | tên người nhận | - | - | 封筒[ふうとう]の宛名[あてな]を丁寧[ていねい]に書[か]いた。 | Tôi viết cẩn thận tên người nhận lên phong bì.
+封書[ふうしょ] | n | PHONG THƯ | thư dán kín | - | - | 合否[ごうひ]の結果[けっか]は封書[ふうしょ]で届[とど]く。 | Kết quả đỗ trượt được gửi bằng thư dán kín.
+同封[どうふう] | n,v3 | ĐỒNG PHONG | gửi kèm trong phong bì | - | - | 写真[しゃしん]を一[いち]枚[まい]同封[どうふう]します。 | Tôi gửi kèm một tấm ảnh.
+消印[けしいん] | n | TIÊU ẤN | dấu bưu điện | {消印} 有効[ゆうこう] | căn cứ theo dấu bưu điện | 応募[おうぼ]は三月[さんがつ]末日[まつじつ]の消印[けしいん]有効[ゆうこう]です。 | Hồ sơ hợp lệ nếu dấu bưu điện trước cuối tháng Ba.
+電報[でんぽう] | n | ĐIỆN BÁO | điện báo | - | - | 結婚式[けっこんしき]にお祝[いわ]いの電報[でんぽう]を送[おく]った。 | Tôi gửi điện chúc mừng đám cưới.
+文通[ぶんつう] | n,v3 | VĂN THÔNG | trao đổi thư từ | - | - | 日本[にほん]の友達[ともだち]と十[じゅう]年[ねん]文通[ぶんつう]している。 | Tôi trao đổi thư với bạn Nhật mười năm nay.
+手書[てが]き | n | THỦ THƯ | viết tay | - | - | 手書[てが]きの手紙[てがみ]をもらうと嬉[うれ]しい。 | Nhận được thư viết tay thật vui.
+筆跡[ひっせき] | n | BÚT TÍCH | nét chữ | - | - | この筆跡[ひっせき]は父[ちち]のものだ。 | Nét chữ này là của bố tôi.
+書体[しょたい] | n | THƯ THỂ | kiểu chữ | - | - | 書体[しょたい]を変[か]えると印象[いんしょう]が変[か]わる。 | Đổi kiểu chữ thì ấn tượng cũng thay đổi.
+フォント | n | - | phông chữ | - | - | 資料[しりょう]のフォントを統一[とういつ]してください。 | Hãy thống nhất phông chữ trong tài liệu.
+字数[じすう] | n | TỰ SỐ | số chữ | {字数} 制限[せいげん] | giới hạn số chữ | 作文[さくぶん]には字数[じすう]制限[せいげん]がある。 | Bài văn có giới hạn số chữ.
+改行[かいぎょう] | n,v3 | CẢI HÀNH | xuống dòng | - | - | 読[よ]みやすいように適当[てきとう]に改行[かいぎょう]する。 | Xuống dòng hợp lý cho dễ đọc.
+段落[だんらく] | n | ĐOẠN LẠC | đoạn văn | - | - | 第二[だいに]段落[だんらく]の内容[ないよう]をまとめなさい。 | Hãy tóm tắt nội dung đoạn thứ hai.
+目次[もくじ] | n | MỤC THỨ | mục lục | - | - | 目次[もくじ]を見[み]て読[よ]みたい章[しょう]を探[さが]す。 | Xem mục lục để tìm chương muốn đọc.
+索引[さくいん] | n | SÁCH DẪN | mục tra cứu | - | - | 辞書[じしょ]の索引[さくいん]で漢字[かんじ]を探[さが]す。 | Tìm chữ Hán bằng mục tra cứu trong từ điển.
+要約[ようやく] | n,v3 | YẾU ƯỚC | tóm tắt | 文章[ぶんしょう] を {要約} する | tóm tắt văn bản | 記事[きじ]を三[さん]行[ぎょう]で要約[ようやく]してください。 | Hãy tóm tắt bài báo trong ba dòng.
+要旨[ようし] | n | YẾU CHỈ | ý chính | - | - | 発表[はっぴょう]の要旨[ようし]を提出[ていしゅつ]する。 | Nộp bản tóm tắt ý chính bài thuyết trình.
+抜粋[ばっすい] | n,v3 | BẠT TÚY | trích đoạn | - | - | 会議[かいぎ]の記録[きろく]から一部[いちぶ]を抜粋[ばっすい]した。 | Đã trích một phần từ biên bản cuộc họp.
+原文[げんぶん] | n | NGUYÊN VĂN | nguyên văn | - | - | 翻訳[ほんやく]ではなく原文[げんぶん]で読[よ]みたい。 | Tôi muốn đọc nguyên văn chứ không phải bản dịch.
+訳文[やくぶん] | n | DỊCH VĂN | bản dịch | - | - | 訳文[やくぶん]が自然[しぜん]な日本語[にほんご]になっているか確認[かくにん]する。 | Kiểm tra xem bản dịch có phải tiếng Nhật tự nhiên không.
+同時[どうじ]通訳[つうやく] | n | ĐỒNG THỜI THÔNG DỊCH | phiên dịch đồng thời | - | - | 国際[こくさい]会議[かいぎ]では同時[どうじ]通訳[つうやく]が使[つか]われる。 | Hội nghị quốc tế sử dụng phiên dịch đồng thời.
+母語[ぼご] | n | MẪU NGỮ | tiếng mẹ đẻ | - | - | 私[わたし]の母語[ぼご]はベトナム語[ご]だ。 | Tiếng mẹ đẻ của tôi là tiếng Việt.
+母国語[ぼこくご] | n | MẪU QUỐC NGỮ | tiếng mẹ đẻ, quốc ngữ | - | - | 母国語[ぼこくご]で話[はな]すとほっとする。 | Nói bằng tiếng mẹ đẻ thấy nhẹ nhõm.
+多言語[たげんご] | n | ĐA NGÔN NGỮ | đa ngôn ngữ | {多言語} 対応[たいおう] | hỗ trợ nhiều ngôn ngữ | 駅[えき]の案内[あんない]は多言語[たげんご]対応[たいおう]になっている。 | Chỉ dẫn ở nhà ga hỗ trợ nhiều ngôn ngữ.

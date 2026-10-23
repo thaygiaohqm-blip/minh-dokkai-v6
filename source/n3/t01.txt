@@ -1,0 +1,129 @@
+@topic t01
+@ja 日常生活[にちじょうせいかつ]
+@vi Cuộc sống hằng ngày
+@desc Nhịp sinh hoạt từ sáng đến tối, giấc ngủ, chuẩn bị ra ngoài, việc vặt và những phó từ mô tả thói quen thường ngày.
+日常[にちじょう] | n | NHẬT THƯỜNG | thường ngày | {日常[にちじょう]} 会話[かいわ] | hội thoại thường ngày | 日常[にちじょう]会話[かいわ]なら問題[もんだい]なく話[はな]せます。 | Hội thoại thường ngày thì tôi nói được không vấn đề gì.
+普段[ふだん] | n,adv | PHỔ ĐOẠN | thường ngày, bình thường | 普段[ふだん] 通[どお]り | như thường lệ | 明日[あした]も普段[ふだん]通[どお]り八[はち]時[じ]に来[き]てください。 | Mai cũng đến lúc tám giờ như thường lệ nhé.
+目覚[めざ]まし | n | MỤC GIÁC | đồng hồ báo thức | 目覚[めざ]まし を かける | đặt báo thức | 六[ろく]時[じ]に目覚[めざ]ましをかけました。 | Tôi đã đặt báo thức lúc sáu giờ.
+目覚[めざ]める | v2 | MỤC GIÁC | thức giấc | - | - | 鳥[とり]の声[こえ]で目覚[めざ]めました。 | Tôi thức giấc vì tiếng chim.
+寝坊[ねぼう] | n,v3 | TẨM PHƯỜNG | ngủ quên, dậy muộn | - | - | 寝坊[ねぼう]して会議[かいぎ]に遅[おく]れました。 | Tôi ngủ quên nên đến họp muộn.
+早起[はやお]き | n,v3 | TẢO KHỞI | dậy sớm | - | - | 早起[はやお]きは三文[さんもん]の徳[とく]。 | Dậy sớm thì được lợi.
+夜更[よふ]かし | n,v3 | DẠ CANH | thức khuya | - | - | 夜更[よふ]かしすると次[つぎ]の日[ひ]眠[ねむ]くなります。 | Thức khuya thì hôm sau buồn ngủ.
+二度寝[にどね] | n,v3 | NHỊ ĐỘ TẨM | ngủ nướng lại | - | - | 休[やす]みの日[ひ]はつい二度寝[にどね]してしまいます。 | Ngày nghỉ tôi hay lỡ ngủ nướng lại.
+ぐっすり | adv | - | (ngủ) say | ぐっすり 眠[ねむ]る | ngủ say | 疲[つか]れていたので、ぐっすり眠[ねむ]れました。 | Mệt nên tôi đã ngủ rất say.
+眠[ねむ]る | v1 | MIÊN | ngủ | - | - | 赤[あか]ちゃんがやっと眠[ねむ]りました。 | Em bé cuối cùng đã ngủ.
+居眠[いねむ]り | n,v3 | CƯ MIÊN | ngủ gật | - | - | 授業[じゅぎょう]中[ちゅう]に居眠[いねむ]りしてしまいました。 | Tôi lỡ ngủ gật trong giờ học.
+うとうと | adv,v3 | - | lơ mơ buồn ngủ | - | - | 電車[でんしゃ]の中[なか]でうとうとしていました。 | Tôi lơ mơ ngủ trên tàu.
+あくび | n,v3 | - | ngáp | あくび が 出[で]る | ngáp | 眠[ねむ]くてあくびが出[で]ます。 | Buồn ngủ nên tôi ngáp.
+身支度[みじたく] | n,v3 | THÂN CHI ĐỘ | sửa soạn bản thân | - | - | 朝[あさ]は十五[じゅうご]分[ふん]で身支度[みじたく]をします。 | Buổi sáng tôi sửa soạn trong mười lăm phút.
+支度[したく] | n,v3 | CHI ĐỘ | chuẩn bị, sửa soạn | 出[で]かける {支度[したく]} | chuẩn bị đi ra ngoài | 早[はや]く出[で]かける支度[したく]をしなさい。 | Mau chuẩn bị đi ra ngoài đi.
+化粧[けしょう] | n,v3 | HÓA TRANG | trang điểm | 化粧[けしょう] を 落[お]とす | tẩy trang | 寝[ね]る前[まえ]に化粧[けしょう]を落[お]とします。 | Tẩy trang trước khi ngủ.
+髭[ひげ] | n | TÌ | râu | 髭[ひげ] を 剃[そ]る | cạo râu | 毎朝[まいあさ]髭[ひげ]を剃[そ]ります。 | Sáng nào tôi cũng cạo râu.
+剃[そ]る | v1 | THẾ | cạo | - | - | 頭[あたま]を剃[そ]りました。 | Tôi đã cạo đầu.
+洗面所[せんめんじょ] | n | TẨY DIỆN SỞ | chỗ rửa mặt | - | - | 洗面所[せんめんじょ]で顔[かお]を洗[あら]います。 | Rửa mặt ở chỗ rửa mặt.
+歯磨[はみが]き | n,v3 | XỈ MA | đánh răng | - | - | 食後[しょくご]の歯磨[はみが]きを忘[わす]れないでね。 | Đừng quên đánh răng sau khi ăn nhé.
+満員電車[まんいんでんしゃ] | n | MÃN VIÊN ĐIỆN XA | tàu chật kín người | 満員電車[まんいんでんしゃ] に 乗[の]る | đi tàu chật kín | 毎朝[まいあさ]満員電車[まんいんでんしゃ]に乗[の]って通勤[つうきん]しています。 | Sáng nào tôi cũng đi tàu chật kín người đi làm.
+昼休[ひるやす]み | n | TRÚ HƯU | nghỉ trưa | - | - | 昼休[ひるやす]みに同僚[どうりょう]とランチに行[い]きます。 | Giờ nghỉ trưa tôi đi ăn với đồng nghiệp.
+ランチ | n | - | bữa trưa | - | - | このお店[みせ]のランチは安[やす]くておいしいです。 | Bữa trưa ở quán này rẻ mà ngon.
+帰宅[きたく] | n,v3 | QUY TRẠCH | về nhà | - | - | 毎日[まいにち]七[しち]時[じ]ごろ帰宅[きたく]します。 | Ngày nào tôi cũng về nhà khoảng bảy giờ.
+帰[かえ]り道[みち] | n | QUY ĐẠO | đường về | - | - | 帰[かえ]り道[みち]で先生[せんせい]に会[あ]いました。 | Trên đường về tôi gặp thầy.
+寄[よ]り道[みち] | n,v3 | KÝ ĐẠO | ghé qua đâu đó | - | - | 寄[よ]り道[みち]しないで、まっすぐ帰[かえ]りなさい。 | Đừng ghé đâu, về thẳng nhà đi.
+洗[あら]い物[もの] | n | TẨY VẬT | bát đĩa cần rửa | - | - | 夕食[ゆうしょく]の後[あと]、洗[あら]い物[もの]をします。 | Sau bữa tối tôi rửa bát.
+風呂上[ふろあ]がり | n | PHONG LỮ THƯỢNG | sau khi tắm | - | - | 風呂上[ふろあ]がりの牛乳[ぎゅうにゅう]は最高[さいこう]です。 | Sữa sau khi tắm là tuyệt nhất.
+くつろぐ | v1 | - | thư giãn | - | - | 週末[しゅうまつ]は家[いえ]でくつろぎます。 | Cuối tuần tôi thư giãn ở nhà.
+ゆったり | adv,v3 | - | thoải mái, thong thả | - | - | 温泉[おんせん]でゆったり過[す]ごしました。 | Tôi đã thong thả ở suối nước nóng.
+週末[しゅうまつ] | n | CHU MẠT | cuối tuần | - | - | 週末[しゅうまつ]は何[なに]か予定[よてい]がありますか。 | Cuối tuần bạn có kế hoạch gì không?
+平日[へいじつ] | n | BÌNH NHẬT | ngày thường | - | - | 平日[へいじつ]は忙[いそが]しくて料理[りょうり]ができません。 | Ngày thường bận nên không nấu ăn được.
+祝日[しゅくじつ] | n | CHÚC NHẬT | ngày lễ | - | - | 月曜日[げつようび]は祝日[しゅくじつ]なので休[やす]みです。 | Thứ Hai là ngày lễ nên được nghỉ.
+手帳[てちょう] | n | THỦ TRƯỚNG | sổ tay | 手帳[てちょう] に 書[か]く | ghi vào sổ tay | 約束[やくそく]は手帳[てちょう]に書[か]いておきます。 | Lịch hẹn tôi ghi sẵn vào sổ tay.
+スケジュール | n | - | lịch trình | スケジュール を 立[た]てる | lên lịch | 来週[らいしゅう]のスケジュールを立[た]てます。 | Tôi lên lịch tuần sau.
+待[ま]ち合[あ]わせ | n,v3 | ĐÃI HỢP | hẹn gặp | - | - | 駅[えき]の改札[かいさつ]で待[ま]ち合[あ]わせしましょう。 | Mình hẹn gặp ở cửa soát vé nhé.
+待[ま]ち合[あ]わせる | v2 | ĐÃI HỢP | hẹn gặp nhau | - | - | 友達[ともだち]と三[さん]時[じ]に待[ま]ち合[あ]わせました。 | Tôi hẹn gặp bạn lúc ba giờ.
+うっかり | adv,v3 | - | lơ đễnh, sơ ý | - | - | うっかり財布[さいふ]を忘[わす]れてきました。 | Tôi sơ ý quên mang ví.
+ぼんやり | adv,v3 | - | lơ đãng, mơ hồ | - | - | 窓[まど]の外[そと]をぼんやり見[み]ていました。 | Tôi lơ đãng nhìn ra ngoài cửa sổ.
+すっきり | adv,v3 | - | sảng khoái, gọn gàng | - | - | 部屋[へや]を片付[かたづ]けたら、気持[きも]ちがすっきりしました。 | Dọn phòng xong thấy lòng nhẹ nhõm.
+さっぱり | adv,v3 | - | sảng khoái; (không) chút nào | - | - | シャワーを浴[あ]びてさっぱりしました。 | Tắm xong thấy sảng khoái.
+ちゃんと | adv | - | đàng hoàng, đúng cách | ちゃんと 食[た]べる | ăn uống đàng hoàng | 忙[いそが]しくてもちゃんと食[た]べてくださいね。 | Dù bận cũng hãy ăn uống đàng hoàng nhé.
+きちんと | adv | - | ngay ngắn, chỉn chu | きちんと 片付[かたづ]ける | dọn gọn gàng | 使[つか]った物[もの]はきちんと片付[かたづ]けましょう。 | Đồ đã dùng hãy cất gọn gàng.
+いつの間[ま]にか | adv | GIAN | từ lúc nào không hay | - | - | いつの間[ま]にか寝[ね]てしまいました。 | Tôi đã ngủ thiếp đi lúc nào không hay.
+繰[く]り返[かえ]す | v1 | SÀO PHẢN | lặp lại | 同[おな]じ 失敗[しっぱい] を 繰[く]り返[かえ]す | lặp lại thất bại cũ | 同[おな]じ失敗[しっぱい]を繰[く]り返[かえ]さないようにします。 | Tôi cố không lặp lại thất bại cũ.
+規則正[きそくただ]しい | adj-i | QUY TẮC CHÍNH | điều độ, nề nếp | - | - | 規則正[きそくただ]しい生活[せいかつ]は健康[けんこう]にいいです。 | Sinh hoạt điều độ tốt cho sức khỏe.
+家計[かけい] | n | GIA KẾ | chi tiêu gia đình | 家計[かけい] を 助[たす]ける | phụ giúp chi tiêu | 母[はは]はパートで家計[かけい]を助[たす]けています。 | Mẹ tôi làm bán thời gian để phụ giúp chi tiêu.
+家計簿[かけいぼ] | n | GIA KẾ BỘ | sổ chi tiêu | 家計簿[かけいぼ] を つける | ghi sổ chi tiêu | 毎日[まいにち]家計簿[かけいぼ]をつけています。 | Ngày nào tôi cũng ghi sổ chi tiêu.
+雑用[ざつよう] | n | TẠP DỤNG | việc lặt vặt | - | - | 新人[しんじん]なので雑用[ざつよう]が多[おお]いです。 | Là người mới nên nhiều việc lặt vặt.
+手間[てま] | n | THỦ GIAN | công sức, sự phiền | 手間[てま] が かかる | tốn công | この料理[りょうり]は手間[てま]がかかります。 | Món này tốn công.
+ごみ袋[ぶくろ] | n | ĐẠI | túi rác | - | - | 指定[してい]のごみ袋[ぶくろ]を使[つか]ってください。 | Hãy dùng túi rác được chỉ định.
+指定[してい] | n,v3 | CHỈ ĐỊNH | chỉ định | - | - | 指定[してい]された場所[ばしょ]にごみを出[だ]します。 | Đổ rác ở nơi được chỉ định.
+回覧板[かいらんばん] | n | HỒI LÃM BẢN | bảng thông báo luân chuyển | 回覧板[かいらんばん] を 回[まわ]す | chuyển bảng thông báo | 読[よ]んだら回覧板[かいらんばん]を隣[となり]に回[まわ]します。 | Đọc xong thì chuyển bảng thông báo sang nhà bên.
+町内会[ちょうないかい] | n | ĐINH NỘI HỘI | hội khu phố | - | - | 町内会[ちょうないかい]の掃除[そうじ]に参加[さんか]しました。 | Tôi tham gia buổi dọn dẹp của hội khu phố.
+近所付[きんじょづ]き合[あ]い | n | CẬN SỞ PHÓ HỢP | quan hệ hàng xóm | - | - | 近所付[きんじょづ]き合[あ]いを大切[たいせつ]にしています。 | Tôi trân trọng quan hệ với hàng xóm.
+日課[にっか] | n | NHẬT KHÓA | việc làm hằng ngày | - | - | 朝[あさ]の散歩[さんぽ]が父[ちち]の日課[にっか]です。 | Đi dạo buổi sáng là việc hằng ngày của bố tôi.
+整理[せいり] | n,v3 | CHỈNH LÝ | sắp xếp | 整理[せいり] 整頓[せいとん] | sắp xếp gọn gàng | 机[つくえ]の上[うえ]を整理[せいり]整頓[せいとん]しましょう。 | Hãy sắp xếp gọn gàng mặt bàn.
+散[ち]らかす | v1 | TÁN | bày bừa | - | - | おもちゃを散[ち]らかさないで。 | Đừng bày bừa đồ chơi.
+物干[ものほ]し | n | VẬT CAN | chỗ phơi đồ | - | - | ベランダの物干[ものほ]しに洗濯物[せんたくもの]をかけます。 | Phơi đồ lên giá phơi ở ban công.
+ほこり | n | - | bụi | ほこり が たまる | bụi bám đầy | 棚[たな]の上[うえ]にほこりがたまっています。 | Trên giá bụi bám đầy.
+掃[は]く | v1 | TẢO | quét | - | - | 玄関[げんかん]をほうきで掃[は]きます。 | Tôi quét lối vào bằng chổi.
+ぞうきん | n | - | giẻ lau | - | - | ぞうきんで床[ゆか]を拭[ふ]きました。 | Tôi lau sàn bằng giẻ.
+手入[てい]れ | n,v3 | THỦ NHẬP | chăm sóc, bảo dưỡng | 庭[にわ] の 手入[てい]れ | chăm sóc vườn | 休[やす]みの日[ひ]は庭[にわ]の手入[てい]れをします。 | Ngày nghỉ tôi chăm sóc vườn.
+無駄[むだ] | n,adj-na | VÔ ĐÀ | lãng phí, vô ích | 無駄[むだ] を 省[はぶ]く | cắt giảm lãng phí | 時間[じかん]の無駄[むだ]を省[はぶ]きたいです。 | Tôi muốn cắt giảm lãng phí thời gian.
+無駄遣[むだづか]い | n,v3 | VÔ ĐÀ KHIỂN | tiêu hoang | - | - | 無駄遣[むだづか]いをやめて貯金[ちょきん]します。 | Bỏ tiêu hoang để tiết kiệm.
+稼[かせ]ぐ | v1 | GIÁ | kiếm (tiền) | お金[かね] を 稼[かせ]ぐ | kiếm tiền | 学費[がくひ]のためにお金[かね]を稼[かせ]ぎます。 | Tôi kiếm tiền để trả học phí.
+作[つく]り置[お]き | n,v3 | TÁC TRÍ | nấu sẵn để dành | - | - | 日曜日[にちようび]におかずを作[つく]り置[お]きします。 | Chủ nhật tôi nấu sẵn đồ ăn để dành.
+残[のこ]り物[もの] | n | TÀN VẬT | đồ ăn thừa | - | - | 昨日[きのう]の残[のこ]り物[もの]でお昼[ひる]を済[す]ませました。 | Tôi ăn trưa tạm bằng đồ thừa hôm qua.
+済[す]ませる | v2 | TẾ | làm xong, giải quyết tạm | 用事[ようじ] を 済[す]ませる | làm xong việc | 用事[ようじ]を済[す]ませてから行[い]きます。 | Tôi làm xong việc rồi sẽ đi.
+済[す]む | v1 | TẾ | xong, kết thúc | - | - | 手続[てつづ]きはすぐに済[す]みました。 | Thủ tục xong ngay.
+逃[のが]す | v1 | ĐÀO | bỏ lỡ | - | - | このチャンスを逃[のが]したくないです。 | Tôi không muốn bỏ lỡ cơ hội này.
+ぎりぎり | adv,adj-na | - | sát nút | - | - | ぎりぎり電車[でんしゃ]に間[ま]に合[あ]いました。 | Tôi kịp tàu sát nút.
+慌[あわ]ただしい | adj-i | HOẢNG | tất bật | - | - | 年末[ねんまつ]は慌[あわ]ただしい毎日[まいにち]です。 | Cuối năm ngày nào cũng tất bật.
+だらだら | adv,v3 | - | lề mề, uể oải | - | - | 休[やす]みの日[ひ]にだらだら過[す]ごしてしまいました。 | Ngày nghỉ tôi lỡ sống uể oải.
+ごろごろ | adv,v3 | - | nằm lăn lóc | - | - | 日曜日[にちようび]は一日中[いちにちじゅう]家[いえ]でごろごろしていました。 | Chủ nhật tôi nằm lăn lóc ở nhà cả ngày.
+息抜[いきぬ]き | n,v3 | TỨC BẠT | nghỉ xả hơi | - | - | 勉強[べんきょう]の息抜[いきぬ]きにお茶[ちゃ]を飲[の]みます。 | Tôi uống trà để xả hơi giữa giờ học.
+解消[かいしょう] | n,v3 | GIẢI TIÊU | giải tỏa | ストレス {解消[かいしょう]} | giải tỏa căng thẳng | カラオケはいいストレス解消[かいしょう]になります。 | Karaoke là cách giải tỏa căng thẳng tốt.
+不足[ふそく] | n,adj-na,v3 | BẤT TÚC | thiếu | 運動[うんどう] {不足[ぶそく]} | thiếu vận động | 運動[うんどう]不足[ぶそく]なので、毎日[まいにち]歩[ある]いています。 | Thiếu vận động nên ngày nào tôi cũng đi bộ.
+昼寝[ひるね] | n,v3 | TRÚ TẨM | ngủ trưa | - | - | 食後[しょくご]に少[すこ]し昼寝[ひるね]をします。 | Ăn xong tôi ngủ trưa một chút.
+明[あ]け方[がた] | n | MINH PHƯƠNG | rạng sáng | - | - | 明[あ]け方[がた]まで仕事[しごと]をしていました。 | Tôi làm việc đến rạng sáng.
+日中[にっちゅう] | n | NHẬT TRUNG | ban ngày | - | - | 日中[にっちゅう]は暑[あつ]いですが、夜[よる]は涼[すず]しいです。 | Ban ngày nóng nhưng đêm mát.
+真夜中[まよなか] | n | CHÂN DẠ TRUNG | giữa đêm khuya | - | - | 真夜中[まよなか]に目[め]が覚[さ]めました。 | Tôi tỉnh dậy giữa đêm khuya.
+一日中[いちにちじゅう] | n,adv | NHẤT NHẬT TRUNG | suốt cả ngày | - | - | 一日中[いちにちじゅう]雨[あめ]が降[ふ]っていました。 | Mưa suốt cả ngày.
+相変[あいか]わらず | adv | TƯƠNG BIẾN | vẫn như mọi khi | - | - | 彼[かれ]は相変[あいか]わらず忙[いそが]しそうです。 | Anh ấy vẫn có vẻ bận như mọi khi.
+しょっちゅう | adv | - | thường xuyên, suốt | - | - | 彼[かれ]はしょっちゅう遅刻[ちこく]します。 | Anh ta suốt ngày đi muộn.
+めったに | adv | - | hiếm khi (đi với phủ định) | - | - | 父[ちち]はめったに怒[おこ]りません。 | Bố tôi hiếm khi giận.
+日頃[ひごろ] | n,adv | NHẬT KHOẢNH | thường ngày | - | - | 日頃[ひごろ]の努力[どりょく]が大切[たいせつ]です。 | Nỗ lực thường ngày là quan trọng.
+ついでに | adv | - | nhân tiện | - | - | 買[か]い物[もの]のついでに郵便局[ゆうびんきょく]に寄[よ]ります。 | Nhân tiện đi mua sắm tôi ghé bưu điện.
+早寝[はやね] | n,v3 | TẢO TẨM | đi ngủ sớm | - | - | 明日[あした]は早[はや]いので早寝[はやね]します。 | Mai phải dậy sớm nên tôi đi ngủ sớm.
+日常的[にちじょうてき] | adj-na | NHẬT THƯỜNG ĐÍCH | mang tính thường ngày | - | - | 日常的[にちじょうてき]に運動[うんどう]をしています。 | Tôi vận động thường xuyên hằng ngày.
+生活習慣[せいかつしゅうかん] | n | SINH HOẠT TẬP QUÁN | thói quen sinh hoạt | 生活習慣[せいかつしゅうかん] を 見直[みなお]す | xem lại thói quen sinh hoạt | 健康[けんこう]のために生活習慣[せいかつしゅうかん]を見直[みなお]しました。 | Vì sức khỏe tôi đã xem lại thói quen sinh hoạt.
+見直[みなお]す | v1 | KIẾN TRỰC | xem lại | - | - | 計画[けいかく]をもう一度[いちど]見直[みなお]します。 | Tôi xem lại kế hoạch một lần nữa.
+朝寝坊[あさねぼう] | n,v3 | TRIÊU TẨM PHƯỜNG | ngủ dậy muộn | - | - | 日曜日[にちようび]はいつも朝寝坊[あさねぼう]します。 | Chủ nhật tôi luôn ngủ dậy muộn.
+寝[ね]つき | n | TẨM | khả năng dễ ngủ | 寝[ね]つき が 悪[わる]い | khó ngủ | コーヒーを飲[の]むと寝[ね]つきが悪[わる]くなります。 | Uống cà phê thì khó ngủ.
+寝言[ねごと] | n | TẨM NGÔN | nói mớ | - | - | 弟[おとうと]は寝言[ねごと]をよく言[い]います。 | Em trai tôi hay nói mớ.
+いびき | n | - | tiếng ngáy | いびき を かく | ngáy | 父[ちち]は大[おお]きないびきをかきます。 | Bố tôi ngáy to.
+寝顔[ねがお] | n | TẨM NHAN | gương mặt lúc ngủ | - | - | 子供[こども]の寝顔[ねがお]はかわいいです。 | Gương mặt con lúc ngủ thật dễ thương.
+パジャマ | n | - | đồ ngủ | - | - | パジャマに着替[きが]えて寝[ね]ます。 | Tôi thay đồ ngủ rồi đi ngủ.
+枕[まくら] | n | CHẨM | cái gối | - | - | この枕[まくら]は高[たか]すぎて首[くび]が痛[いた]いです。 | Cái gối này cao quá nên đau cổ.
+毛布[もうふ] | n | MAO BỐ | chăn lông | - | - | 寒[さむ]いので毛布[もうふ]をもう一枚[いちまい]出[だ]しました。 | Lạnh nên tôi lấy thêm một tấm chăn.
+敷[し]く | v1 | PHU | trải | 布団[ふとん] を 敷[し]く | trải đệm | 和室[わしつ]に布団[ふとん]を敷[し]いて寝[ね]ます。 | Tôi trải đệm ngủ ở phòng kiểu Nhật.
+目覚[めざ]まし時計[どけい] | n | MỤC GIÁC THỜI KẾ | đồng hồ báo thức | - | - | 目覚[めざ]まし時計[どけい]が鳴[な]っても起[お]きられません。 | Đồng hồ báo thức reo mà tôi vẫn không dậy được.
+止[と]め忘[わす]れる | v2 | CHỈ VONG | quên tắt | - | - | アラームを止[と]め忘[わす]れて出[で]かけました。 | Tôi ra ngoài mà quên tắt báo thức.
+出[で]かけ先[さき] | n | XUẤT TIÊN | nơi đến | - | - | 出[で]かけ先[さき]で雨[あめ]に降[ふ]られました。 | Tôi bị mắc mưa ở nơi đến.
+外出[がいしゅつ] | n,v3 | NGOẠI XUẤT | ra ngoài | - | - | 雨[あめ]の日[ひ]はあまり外出[がいしゅつ]しません。 | Ngày mưa tôi ít ra ngoài.
+帰[かえ]りがけ | n | QUY | lúc trên đường về | - | - | 帰[かえ]りがけに本屋[ほんや]に寄[よ]りました。 | Trên đường về tôi ghé hiệu sách.
+出勤前[しゅっきんまえ] | n | XUẤT CẦN TIỀN | trước giờ đi làm | - | - | 出勤前[しゅっきんまえ]にジョギングをしています。 | Tôi chạy bộ trước giờ đi làm.
+通学[つうがく] | n,v3 | THÔNG HỌC | đi học | - | - | 自転車[じてんしゃ]で通学[つうがく]しています。 | Tôi đi học bằng xe đạp.
+混雑[こんざつ] | n,v3 | HỖN TẠP | đông đúc | - | - | 朝[あさ]の駅[えき]はとても混雑[こんざつ]しています。 | Nhà ga buổi sáng rất đông đúc.
+ラッシュ | n | - | giờ cao điểm | ラッシュ を 避[さ]ける | tránh giờ cao điểm | ラッシュを避[さ]けて早[はや]めに家[いえ]を出[で]ます。 | Tôi ra khỏi nhà sớm để tránh giờ cao điểm.
+避[さ]ける | v2 | TỴ | tránh | - | - | 人[ひと]の多[おお]い所[ところ]を避[さ]けています。 | Tôi tránh những nơi đông người.
+早[はや]め | n,adj-na | TẢO | sớm hơn một chút | 早[はや]め に 出[で]る | đi sớm một chút | 雪[ゆき]なので早[はや]めに出[で]ましょう。 | Tuyết rơi nên ta đi sớm một chút.
+遅[おそ]め | n,adj-na | TRÌ | muộn hơn một chút | - | - | 今日[きょう]は遅[おそ]めの昼食[ちゅうしょく]をとりました。 | Hôm nay tôi ăn trưa muộn hơn mọi khi.
+ひと休[やす]み | n,v3 | HƯU | nghỉ một lát | - | - | 疲[つか]れたので、ここでひと休[やす]みしましょう。 | Mệt rồi, nghỉ một lát ở đây đi.
+一息[ひといき] | n | NHẤT TỨC | nghỉ lấy hơi | 一息[ひといき] つく | thở phào, nghỉ chút | 仕事[しごと]が終[お]わって一息[ひといき]つきました。 | Xong việc tôi thở phào nghỉ một chút.
+長電話[ながでんわ] | n,v3 | TRƯỜNG ĐIỆN THOẠI | gọi điện lâu | - | - | 姉[あね]は毎晩[まいばん]長電話[ながでんわ]をしています。 | Chị tôi tối nào cũng nói chuyện điện thoại lâu.
+身[み]の回[まわ]り | n | THÂN HỒI | xung quanh mình | 身[み]の回[まわ]り の 物[もの] | đồ dùng cá nhân | 身[み]の回[まわ]りの物[もの]だけ持[も]って行[い]きます。 | Tôi chỉ mang theo đồ dùng cá nhân.
+持[も]ち物[もの] | n | TRÌ VẬT | đồ mang theo | - | - | 出[で]かける前[まえ]に持[も]ち物[もの]を確認[かくにん]します。 | Trước khi đi tôi kiểm tra đồ mang theo.
+忘[わす]れっぽい | adj-i | VONG | hay quên | - | - | 最近[さいきん]忘[わす]れっぽくなりました。 | Dạo này tôi trở nên hay quên.
+メモ | n,v3 | - | ghi chú | メモ を 取[と]る | ghi chép | 大事[だいじ]なことはメモを取[と]ります。 | Chuyện quan trọng tôi ghi lại.
+カレンダー | n | - | lịch | - | - | カレンダーに予定[よてい]を書[か]き込[こ]みます。 | Tôi ghi kế hoạch vào lịch.
+書[か]き込[こ]む | v1 | THƯ NHẬP | ghi vào | - | - | 手帳[てちょう]に会議[かいぎ]の時間[じかん]を書[か]き込[こ]みました。 | Tôi ghi giờ họp vào sổ tay.
+慌[あわ]ただしさ | n | HOẢNG | sự tất bật | - | - | 都会[とかい]の慌[あわ]ただしさに疲[つか]れました。 | Tôi mệt mỏi vì sự tất bật của thành phố.
+ゆとり | n | - | sự thư thả, dư dả | ゆとり の ある 生活[せいかつ] | cuộc sống thư thả | ゆとりのある生活[せいかつ]を送[おく]りたいです。 | Tôi muốn sống cuộc sống thư thả.
+余裕[よゆう] | n | DƯ DỤ | dư dả, thong thả | 時間[じかん] に 余裕[よゆう] が ある | dư thời gian | 時間[じかん]に余裕[よゆう]を持[も]って出発[しゅっぱつ]しましょう。 | Hãy xuất phát dư thời gian.

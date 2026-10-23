@@ -1,0 +1,95 @@
+@topic t10
+@ja 天気[てんき]・自然[しぜん]
+@vi Thời tiết và thiên nhiên
+@desc Dự báo thời tiết, khí hậu, địa hình, cây cỏ, côn trùng, thú vật và các loại thiên tai thường gặp ở Nhật.
+天気予報[てんきよほう] | n | THIÊN KHÍ DỰ BÁO | dự báo thời tiết | 天気予報[てんきよほう] が 当[あ]たる | dự báo đúng | 今日[きょう]は天気予報[てんきよほう]が当[あ]たって、雨[あめ]が降[ふ]りました。 | Hôm nay dự báo đúng, trời đã mưa.
+気温[きおん] | n | KHÍ ÔN | nhiệt độ không khí | 気温[きおん] が 下[さ]がる | nhiệt độ giảm | 夜[よる]になって気温[きおん]が急[きゅう]に下[さ]がりました。 | Về đêm nhiệt độ giảm đột ngột.
+温度[おんど] | n | ÔN ĐỘ | nhiệt độ | 温度[おんど] を 上[あ]げる | tăng nhiệt độ | エアコンの温度[おんど]を少[すこ]し上[あ]げてください。 | Hãy tăng nhiệt độ điều hòa lên một chút.
+湿度[しつど] | n | THẤP ĐỘ | độ ẩm | 湿度[しつど] が 高[たか]い | độ ẩm cao | 日本[にほん]の夏[なつ]は湿度[しつど]が高[たか]いです。 | Mùa hè Nhật độ ẩm cao.
+気候[きこう] | n | KHÍ HẬU | khí hậu | 気候[きこう] が 穏[おだ]やか | khí hậu ôn hòa | この地方[ちほう]は一年中[いちねんじゅう]気候[きこう]が穏[おだ]やかです。 | Vùng này khí hậu ôn hòa quanh năm.
+蒸[む]し暑[あつ]い | adj-i | CHƯNG THỬ | oi bức | - | - | 七月[しちがつ]は蒸[む]し暑[あつ]くて眠[ねむ]れません。 | Tháng Bảy oi bức nên tôi không ngủ được.
+暑[あつ]さ | n | THỬ | cái nóng | 暑[あつ]さ に 弱[よわ]い | chịu nóng kém | 私[わたし]は暑[あつ]さに弱[よわ]いです。 | Tôi chịu nóng kém.
+寒[さむ]さ | n | HÀN | cái lạnh | 寒[さむ]さ が 厳[きび]しい | rét khắc nghiệt | 北海道[ほっかいどう]の冬[ふゆ]は寒[さむ]さが厳[きび]しいです。 | Mùa đông Hokkaido rét khắc nghiệt.
+乾燥[かんそう] | n,v3 | CAN TÁO | khô hanh | 空気[くうき] が {乾燥[かんそう]} する | không khí khô | 冬[ふゆ]は空気[くうき]が乾燥[かんそう]しています。 | Mùa đông không khí khô hanh.
+湿気[しっけ] | n | THẤP KHÍ | hơi ẩm | 湿気[しっけ] が 多[おお]い | ẩm thấp | 梅雨[つゆ]の時期[じき]は湿気[しっけ]が多[おお]いです。 | Mùa mưa thì rất ẩm.
+雷[かみなり] | n | LÔI | sấm sét | 雷[かみなり] が 鳴[な]る | sấm rền | 夕方[ゆうがた]、雷[かみなり]が鳴[な]って大雨[おおあめ]になりました。 | Chiều tối sấm rền rồi mưa to.
+嵐[あらし] | n | LAM | bão, giông | - | - | 嵐[あらし]のため、船[ふね]が出[で]ません。 | Vì có bão nên tàu không chạy.
+大雨[おおあめ] | n | ĐẠI VŨ | mưa lớn | - | - | 大雨[おおあめ]で電車[でんしゃ]が止[と]まりました。 | Mưa lớn khiến tàu ngừng chạy.
+大雪[おおゆき] | n | ĐẠI TUYẾT | tuyết rơi dày | - | - | 大雪[おおゆき]で道[みち]が通[とお]れません。 | Tuyết rơi dày nên đường không đi được.
+梅雨[つゆ] | n | MAI VŨ | mùa mưa (tháng 6–7) | 梅雨[つゆ] に 入[はい]る | vào mùa mưa | 来週[らいしゅう]から梅雨[つゆ]に入[はい]るそうです。 | Nghe nói từ tuần sau sẽ vào mùa mưa.
+にわか雨[あめ] | n | VŨ | mưa rào bất chợt | - | - | にわか雨[あめ]に降[ふ]られて、びしょぬれになりました。 | Bị mưa rào bất chợt nên ướt sũng.
+霧[きり] | n | VỤ | sương mù | 霧[きり] が 出[で]る | có sương mù | 朝[あさ]、濃[こ]い霧[きり]が出[で]ていました。 | Sáng nay có sương mù dày.
+虹[にじ] | n | HỒNG | cầu vồng | 虹[にじ] が 出[で]る | xuất hiện cầu vồng | 雨[あめ]の後[あと]に虹[にじ]が出[で]ました。 | Sau mưa có cầu vồng.
+日差[ひざ]し | n | NHẬT SAI | ánh nắng | 日差[ひざ]し が 強[つよ]い | nắng gắt | 夏[なつ]は日差[ひざ]しが強[つよ]いので、帽子[ぼうし]をかぶります。 | Mùa hè nắng gắt nên tôi đội mũ.
+日光[にっこう] | n | NHẬT QUANG | ánh mặt trời | - | - | 植物[しょくぶつ]は日光[にっこう]がないと育[そだ]ちません。 | Thực vật không có ánh nắng thì không lớn được.
+日陰[ひかげ] | n | NHẬT ÂM | bóng râm | 日陰[ひかげ] で 休[やす]む | nghỉ trong bóng râm | 暑[あつ]いので日陰[ひかげ]で休[やす]みましょう。 | Nóng quá, mình nghỉ trong bóng râm đi.
+夕日[ゆうひ] | n | TỊCH NHẬT | mặt trời lặn | 夕日[ゆうひ] が 沈[しず]む | mặt trời lặn | 海[うみ]に夕日[ゆうひ]が沈[しず]むのを見[み]ました。 | Tôi đã ngắm mặt trời lặn xuống biển.
+沈[しず]む | v1 | TRẦM | chìm, lặn | - | - | 船[ふね]が嵐[あらし]で沈[しず]みました。 | Con tàu chìm vì bão.
+日[ひ]の出[で] | n | NHẬT XUẤT | bình minh | - | - | 山[やま]の上[うえ]から日[ひ]の出[で]を見[み]ました。 | Tôi ngắm bình minh từ trên núi.
+光[ひかり] | n | QUANG | ánh sáng | - | - | 窓[まど]から朝[あさ]の光[ひかり]が入[はい]ってきます。 | Ánh sáng buổi sáng chiếu vào qua cửa sổ.
+光[ひか]る | v1 | QUANG | phát sáng, lấp lánh | 星[ほし] が 光[ひか]る | sao lấp lánh | 夜空[よぞら]に星[ほし]が光[ひか]っています。 | Sao lấp lánh trên bầu trời đêm.
+環境[かんきょう] | n | HOÀN CẢNH | môi trường | 環境[かんきょう] を 守[まも]る | bảo vệ môi trường | 環境[かんきょう]を守[まも]るために、ごみを減[へ]らしましょう。 | Hãy giảm rác để bảo vệ môi trường.
+地球[ちきゅう] | n | ĐỊA CẦU | trái đất | - | - | 地球[ちきゅう]の気温[きおん]が上[あ]がっています。 | Nhiệt độ trái đất đang tăng lên.
+宇宙[うちゅう] | n | VŨ TRỤ | vũ trụ | - | - | 子供[こども]のころ、宇宙[うちゅう]に行[い]きたかったです。 | Hồi nhỏ tôi muốn bay vào vũ trụ.
+波[なみ] | n | BA | sóng | 波[なみ] が 高[たか]い | sóng cao | 今日[きょう]は波[なみ]が高[たか]いので、泳[およ]げません。 | Hôm nay sóng cao nên không bơi được.
+砂浜[すなはま] | n | SA BANH | bãi cát | - | - | 砂浜[すなはま]を裸足[はだし]で歩[ある]きました。 | Tôi đi chân trần trên bãi cát.
+砂[すな] | n | SA | cát | - | - | 靴[くつ]の中[なか]に砂[すな]が入[はい]りました。 | Cát lọt vào trong giày.
+湖[みずうみ] | n | HỒ | hồ | - | - | 湖[みずうみ]の周[まわ]りを自転車[じてんしゃ]で一周[いっしゅう]しました。 | Tôi đạp xe một vòng quanh hồ.
+滝[たき] | n | LANG | thác nước | - | - | 山[やま]の奥[おく]に大[おお]きな滝[たき]があります。 | Sâu trong núi có một thác nước lớn.
+岸[きし] | n | NGẠN | bờ (sông, biển) | - | - | 川[かわ]の向[む]こう岸[ぎし]まで泳[およ]ぎました。 | Tôi bơi sang bờ bên kia sông.
+坂[さか] | n | PHẢN | con dốc | 坂[さか] を 上[のぼ]る | leo dốc | 家[いえ]まで長[なが]い坂[さか]を上[のぼ]らなければなりません。 | Phải leo con dốc dài mới về đến nhà.
+丘[おか] | n | KHÂU | đồi | - | - | 丘[おか]の上[うえ]から町[まち]が見[み]えます。 | Từ trên đồi nhìn thấy thị trấn.
+岩[いわ] | n | NHAM | tảng đá | - | - | 大[おお]きな岩[いわ]の上[うえ]に座[すわ]って休[やす]みました。 | Tôi ngồi nghỉ trên một tảng đá lớn.
+林[はやし] | n | LÂM | rừng nhỏ, lùm cây | - | - | 家[いえ]の裏[うら]に竹[たけ]の林[はやし]があります。 | Sau nhà có một rừng tre.
+草[くさ] | n | THẢO | cỏ | 草[くさ] を 刈[か]る | cắt cỏ | 庭[にわ]の草[くさ]を刈[か]りました。 | Tôi đã cắt cỏ trong vườn.
+枝[えだ] | n | CHI | cành cây | - | - | 枝[えだ]に鳥[とり]がとまっています。 | Có con chim đậu trên cành.
+根[ね] | n | CĂN | rễ | 根[ね] を 張[は]る | bén rễ | 木[き]がしっかり根[ね]を張[は]っています。 | Cái cây đã bén rễ vững chắc.
+種[たね] | n | CHỦNG | hạt giống | 種[たね] を まく | gieo hạt | 春[はる]に花[はな]の種[たね]をまきました。 | Mùa xuân tôi gieo hạt hoa.
+実[み] | n | THỰC | quả, trái | 実[み] が なる | ra quả | 庭[にわ]の柿[かき]の木[き]に実[み]がなりました。 | Cây hồng trong vườn đã ra quả.
+植[う]える | v2 | THỰC | trồng | 木[き] を 植[う]える | trồng cây | 学校[がっこう]の庭[にわ]に桜[さくら]の木[き]を植[う]えました。 | Chúng tôi trồng cây anh đào trong sân trường.
+植物[しょくぶつ] | n | THỰC VẬT | thực vật | - | - | 部屋[へや]に植物[しょくぶつ]を置[お]くと、気持[きも]ちが落[お]ち着[つ]きます。 | Đặt cây xanh trong phòng thấy lòng nhẹ nhõm.
+紅葉[こうよう] | n,v3 | HỒNG DIỆP | lá đỏ mùa thu | 紅葉[こうよう] を 見[み]に 行[い]く | đi ngắm lá đỏ | 十一月[じゅういちがつ]に京都[きょうと]へ紅葉[こうよう]を見[み]に行[い]きました。 | Tháng Mười một tôi đi Kyoto ngắm lá đỏ.
+落[お]ち葉[ば] | n | LẠC DIỆP | lá rụng | - | - | 公園[こうえん]の落[お]ち葉[ば]を掃除[そうじ]しました。 | Tôi quét lá rụng ở công viên.
+散[ち]る | v1 | TÁN | rụng, tàn (hoa, lá) | 桜[さくら] が 散[ち]る | hoa anh đào rụng | 雨[あめ]で桜[さくら]が散[ち]ってしまいました。 | Mưa làm hoa anh đào rụng hết rồi.
+枯[か]れる | v2 | KHÔ | héo, khô héo | 花[はな] が 枯[か]れる | hoa héo | 水[みず]をやるのを忘[わす]れて、花[はな]が枯[か]れました。 | Tôi quên tưới nước nên hoa đã héo.
+生[い]き物[もの] | n | SINH VẬT | sinh vật | - | - | 海[うみ]にはたくさんの生[い]き物[もの]がいます。 | Dưới biển có rất nhiều sinh vật.
+虫[むし] | n | TRÙNG | côn trùng, sâu bọ | 虫[むし] に 刺[さ]される | bị côn trùng cắn | キャンプで虫[むし]に刺[さ]されました。 | Tôi bị côn trùng cắn khi cắm trại.
+蚊[か] | n | VĂN | con muỗi | - | - | 夏[なつ]の夜[よる]は蚊[か]が多[おお]いです。 | Đêm hè nhiều muỗi.
+蝶[ちょう] | n | ĐIỆP | con bướm | - | - | 花[はな]の周[まわ]りを蝶[ちょう]が飛[と]んでいます。 | Bướm bay quanh những bông hoa.
+蜂[はち] | n | PHONG | con ong | - | - | 蜂[はち]に刺[さ]されないように気[き]をつけてください。 | Hãy cẩn thận để không bị ong đốt.
+熊[くま] | n | HÙNG | con gấu | - | - | この山[やま]には熊[くま]が出[で]るので注意[ちゅうい]してください。 | Núi này có gấu xuất hiện, hãy cẩn thận.
+猿[さる] | n | VIÊN | con khỉ | - | - | 温泉[おんせん]に入[はい]る猿[さる]を見[み]ました。 | Tôi đã thấy khỉ ngâm suối nước nóng.
+馬[うま] | n | MÃ | con ngựa | 馬[うま] に 乗[の]る | cưỡi ngựa | 牧場[ぼくじょう]で初[はじ]めて馬[うま]に乗[の]りました。 | Lần đầu tôi cưỡi ngựa ở trang trại.
+牛[うし] | n | NGƯU | con bò | - | - | 北海道[ほっかいどう]にはたくさんの牛[うし]がいます。 | Ở Hokkaido có rất nhiều bò.
+豚[ぶた] | n | ĐỒN | con lợn | - | - | 祖父[そふ]は田舎[いなか]で豚[ぶた]を飼[か]っています。 | Ông tôi nuôi lợn ở quê.
+羊[ひつじ] | n | DƯƠNG | con cừu | - | - | 羊[ひつじ]の毛[け]でセーターを作[つく]ります。 | Người ta làm áo len từ lông cừu.
+鶏[にわとり] | n | KÊ | con gà | - | - | 朝[あさ]、鶏[にわとり]の鳴[な]き声[ごえ]で目[め]が覚[さ]めました。 | Sáng nay tôi tỉnh giấc vì tiếng gà gáy.
+毛[け] | n | MAO | lông; tóc | - | - | 猫[ねこ]の毛[け]が服[ふく]についています。 | Lông mèo dính vào quần áo.
+自然災害[しぜんさいがい] | n | TỰ NHIÊN TAI HẠI | thiên tai | - | - | 日本[にほん]は自然災害[しぜんさいがい]が多[おお]い国[くに]です。 | Nhật là nước có nhiều thiên tai.
+洪水[こうずい] | n | HỒNG THỦY | lũ lụt | 洪水[こうずい] が 起[お]きる | xảy ra lũ lụt | 大雨[おおあめ]で洪水[こうずい]が起[お]きました。 | Mưa lớn gây ra lũ lụt.
+津波[つなみ] | n | TÂN BA | sóng thần | 津波[つなみ] が 来[く]る | sóng thần ập đến | 地震[じしん]の後[あと]は津波[つなみ]に注意[ちゅうい]してください。 | Sau động đất hãy cảnh giác với sóng thần.
+火山[かざん] | n | HỎA SƠN | núi lửa | 火山[かざん] が 噴火[ふんか] する | núi lửa phun trào | 九州[きゅうしゅう]の火山[かざん]が噴火[ふんか]しました。 | Núi lửa ở Kyushu đã phun trào.
+被害[ひがい] | n | BỊ HẠI | thiệt hại | 被害[ひがい] を 受[う]ける | chịu thiệt hại | 台風[たいふう]で農作物[のうさくもつ]が被害[ひがい]を受[う]けました。 | Hoa màu bị thiệt hại do bão.
+停電[ていでん] | n,v3 | ĐÌNH ĐIỆN | mất điện | - | - | 雷[かみなり]で一[いち]時間[じかん]停電[ていでん]しました。 | Sét đánh làm mất điện một tiếng.
+断水[だんすい] | n,v3 | ĐOẠN THỦY | mất nước | - | - | 工事[こうじ]のため、明日[あした]は断水[だんすい]します。 | Do thi công nên mai mất nước.
+揺[ゆ]れ | n | DAO | sự rung lắc | 揺[ゆ]れ が 大[おお]きい | rung mạnh | 今朝[けさ]の地震[じしん]は揺[ゆ]れが大[おお]きかったです。 | Trận động đất sáng nay rung rất mạnh.
+防災[ぼうさい] | n | PHÒNG TAI | phòng chống thiên tai | {防災[ぼうさい]} グッズ | đồ dùng phòng thiên tai | 家[いえ]に防災[ぼうさい]グッズを準備[じゅんび]しています。 | Tôi chuẩn bị sẵn đồ phòng thiên tai ở nhà.
+逃[に]げる | v2 | ĐÀO | chạy trốn | 高[たか]い 所[ところ] に 逃[に]げる | chạy lên chỗ cao | 津波[つなみ]の時[とき]は高[たか]い所[ところ]に逃[に]げてください。 | Khi có sóng thần hãy chạy lên chỗ cao.
+降[ふ]り出[だ]す | v1 | GIÁNG XUẤT | bắt đầu rơi (mưa) | 雨[あめ] が 降[ふ]り出[だ]す | trời bắt đầu mưa | 家[いえ]を出[で]たとたん、雨[あめ]が降[ふ]り出[だ]しました。 | Vừa ra khỏi nhà thì trời bắt đầu mưa.
+止[や]む | v1 | CHỈ | tạnh, ngừng | 雪[ゆき] が 止[や]む | tuyết ngừng rơi | 雪[ゆき]が止[や]んだら、雪[ゆき]かきをします。 | Tuyết ngừng rơi thì tôi đi xúc tuyết.
+濡[ぬ]れる | v2 | NHU | bị ướt | 雨[あめ] に 濡[ぬ]れる | bị ướt mưa | 傘[かさ]がなくて、雨[あめ]に濡[ぬ]れてしまいました。 | Không có ô nên tôi bị ướt mưa.
+冷[ひ]える | v2 | LÃNH | lạnh đi | 体[からだ] が 冷[ひ]える | người bị lạnh | 雨[あめ]で体[からだ]が冷[ひ]えました。 | Bị mưa nên người tôi lạnh cóng.
+季節[きせつ]の変[か]わり目[め] | n | QUÝ TIẾT BIẾN MỤC | lúc giao mùa | - | - | 季節[きせつ]の変[か]わり目[め]は体調[たいちょう]を崩[くず]しやすいです。 | Lúc giao mùa dễ bị ốm.
+体調[たいちょう] | n | THỂ ĐIỀU | thể trạng | 体調[たいちょう] を 崩[くず]す | ốm, suy sức khỏe | 寒[さむ]さで体調[たいちょう]を崩[くず]しました。 | Vì lạnh nên tôi bị ốm.
+氷[こおり] | n | BĂNG | đá, băng | - | - | ジュースに氷[こおり]を入[い]れてください。 | Hãy cho đá vào nước trái cây.
+水[みず]たまり | n | THỦY | vũng nước | - | - | 雨[あめ]の後[あと]、道[みち]に水[みず]たまりができました。 | Sau mưa trên đường có những vũng nước.
+晴[は]れ間[ま] | n | TÌNH GIAN | khoảng trời quang | - | - | 雲[くも]の晴[は]れ間[ま]から日[ひ]が差[さ]しました。 | Nắng chiếu qua khoảng trời quang giữa mây.
+田[た]んぼ | n | ĐIỀN | ruộng lúa | - | - | 家[いえ]の周[まわ]りは田[た]んぼばかりです。 | Quanh nhà toàn là ruộng lúa.
+畑[はたけ] | n | (quốc tự) | ruộng (trồng rau màu) | 畑[はたけ] を 耕[たがや]す | cày ruộng | 祖父[そふ]は毎朝[まいあさ]畑[はたけ]を耕[たがや]します。 | Sáng nào ông tôi cũng cày ruộng.
+景観[けいかん] | n | CẢNH QUAN | cảnh quan | - | - | 古[ふる]い町[まち]の景観[けいかん]を守[まも]っています。 | Người ta bảo tồn cảnh quan của khu phố cổ.
+空模様[そらもよう] | n | KHÔNG MÔ DẠNG | tình hình bầu trời | 怪[あや]しい 空模様[そらもよう] | trời có vẻ sắp mưa | 怪[あや]しい空模様[そらもよう]なので、傘[かさ]を持[も]っていきます。 | Trời có vẻ sắp mưa nên tôi mang ô theo.
+最高気温[さいこうきおん] | n | TỐI CAO KHÍ ÔN | nhiệt độ cao nhất | - | - | 今日[きょう]の最高気温[さいこうきおん]は三十五[さんじゅうご]度[ど]です。 | Nhiệt độ cao nhất hôm nay là 35 độ.
+度[ど] | ctr | ĐỘ | độ; lần | - | - | 熱[ねつ]が三十八[さんじゅうはち]度[ど]あります。 | Tôi sốt 38 độ.
+昼間[ひるま] | n | TRÚ GIAN | ban ngày | - | - | 昼間[ひるま]は暖[あたた]かいですが、夜[よる]は寒[さむ]いです。 | Ban ngày ấm nhưng ban đêm lạnh.
+夜中[よなか] | n | DẠ TRUNG | nửa đêm | - | - | 夜中[よなか]に地震[じしん]で目[め]が覚[さ]めました。 | Nửa đêm tôi tỉnh giấc vì động đất.
+目[め]が覚[さ]める | exp | MỤC GIÁC | tỉnh giấc | - | - | 毎朝[まいあさ]六[ろく]時[じ]に目[め]が覚[さ]めます。 | Sáng nào tôi cũng tỉnh giấc lúc sáu giờ.

@@ -1,0 +1,129 @@
+@topic t20
+@ja 変化[へんか]・様子[ようす]
+@vi Thay đổi và trạng thái
+@desc Mô tả trạng thái, hình dáng, màu sắc, bề mặt, xu hướng tăng giảm và các từ láy diễn tả dáng vẻ sự vật.
+変化[へんか] | n,v3 | BIẾN HÓA | biến đổi | - | - | 町[まち]の様子[ようす]が大[おお]きく変化[へんか]しました。 | Diện mạo thị trấn đã thay đổi lớn.
+変[か]わる | v1 | BIẾN | thay đổi | - | - | 信号[しんごう]が青[あお]に変[か]わりました。 | Đèn đã chuyển sang xanh.
+変[か]える | v2 | BIẾN | làm thay đổi | 予定[よてい] を 変[か]える | thay đổi kế hoạch | 雨[あめ]なので予定[よてい]を変[か]えました。 | Mưa nên tôi đổi kế hoạch.
+状態[じょうたい] | n | TRẠNG THÁI | tình trạng | - | - | 車[くるま]はまだいい状態[じょうたい]です。 | Xe vẫn trong tình trạng tốt.
+状況[じょうきょう] | n | TRẠNG HUỐNG | tình hình | - | - | 今[いま]の状況[じょうきょう]を説明[せつめい]してください。 | Hãy giải thích tình hình hiện tại.
+傾向[けいこう] | n | KHUYNH HƯỚNG | khuynh hướng | - | - | 最近[さいきん]の若者[わかもの]は車[くるま]を買[か]わない傾向[けいこう]があります。 | Giới trẻ gần đây có xu hướng không mua xe.
+特徴[とくちょう] | n | ĐẶC TRƯNG | đặc trưng | - | - | この料理[りょうり]の特徴[とくちょう]は辛[から]さです。 | Đặc trưng của món này là vị cay.
+特色[とくしょく] | n | ĐẶC SẮC | nét đặc sắc | - | - | それぞれの地方[ちほう]に特色[とくしょく]があります。 | Mỗi vùng có nét đặc sắc riêng.
+形[かたち] | n | HÌNH | hình dạng | - | - | ハートの形[かたち]のクッキーを作[つく]りました。 | Tôi làm bánh quy hình trái tim.
+姿[すがた] | n | TƯ | dáng vẻ, hình bóng | - | - | 彼[かれ]の姿[すがた]が見[み]えなくなりました。 | Bóng dáng anh ấy đã khuất.
+形式[けいしき] | n | HÌNH THỨC | hình thức | - | - | 試験[しけん]の形式[けいしき]が変[か]わりました。 | Hình thức thi đã thay đổi.
+見[み]た目[め] | n | KIẾN MỤC | vẻ bề ngoài | - | - | 見[み]た目[め]より味[あじ]が大切[たいせつ]です。 | Hương vị quan trọng hơn vẻ ngoài.
+外見[がいけん] | n | NGOẠI KIẾN | ngoại hình | - | - | 人[ひと]を外見[がいけん]で判断[はんだん]してはいけません。 | Không được đánh giá người qua ngoại hình.
+表面[ひょうめん] | n | BIỂU DIỆN | bề mặt | - | - | テーブルの表面[ひょうめん]に傷[きず]がつきました。 | Mặt bàn bị trầy.
+内側[うちがわ] | n | NỘI TẮC | bên trong | - | - | 白線[はくせん]の内側[うちがわ]までお下[さ]がりください。 | Xin lùi vào phía trong vạch trắng.
+外側[そとがわ] | n | NGOẠI TẮC | bên ngoài | - | - | 箱[はこ]の外側[そとがわ]に名前[なまえ]を書[か]きます。 | Ghi tên bên ngoài hộp.
+中身[なかみ] | n | TRUNG THÂN | nội dung bên trong | - | - | 箱[はこ]の中身[なかみ]は何[なん]ですか。 | Bên trong hộp là gì?
+表[おもて] | n | BIỂU | mặt trước | - | - | 紙[かみ]の表[おもて]に名前[なまえ]を書[か]いてください。 | Hãy ghi tên ở mặt trước tờ giấy.
+裏[うら] | n | LÝ | mặt sau, phía sau | - | - | 家[いえ]の裏[うら]に小[ちい]さな庭[にわ]があります。 | Sau nhà có khu vườn nhỏ.
+縦[たて] | n | TUNG | chiều dọc | - | - | 縦[たて]に線[せん]を引[ひ]いてください。 | Hãy kẻ một đường dọc.
+斜[なな]め | n,adj-na | TÀ | nghiêng, chéo | - | - | 斜[なな]め前[まえ]の席[せき]に座[すわ]りました。 | Tôi ngồi ghế chéo phía trước.
+逆[ぎゃく] | n,adj-na | NGHỊCH | ngược lại | - | - | 地図[ちず]を逆[ぎゃく]に見[み]ていました。 | Tôi xem bản đồ ngược.
+逆[さか]さま | n,adj-na | NGHỊCH | lộn ngược | - | - | 絵[え]が逆[さか]さまに掛[か]かっています。 | Bức tranh treo ngược.
+平[たい]ら | adj-na | BÌNH | bằng phẳng | - | - | この辺[あた]りは平[たい]らな土地[とち]です。 | Vùng này đất bằng phẳng.
+土地[とち] | n | THỔ ĐỊA | đất đai | - | - | 田舎[いなか]に土地[とち]を買[か]いました。 | Tôi mua đất ở quê.
+滑[なめ]らか | adj-na | HOẠT | trơn láng, trôi chảy | - | - | 彼女[かのじょ]は滑[なめ]らかに日本語[にほんご]を話[はな]します。 | Cô ấy nói tiếng Nhật trôi chảy.
+ざらざら | adv,v3,adj-na | - | ráp, sần | - | - | 壁[かべ]の表面[ひょうめん]がざらざらしています。 | Bề mặt tường sần sùi.
+つるつる | adv,v3,adj-na | - | trơn bóng | - | - | 凍[こお]った道[みち]がつるつるです。 | Đường đóng băng trơn bóng.
+ぴかぴか | adv,v3,adj-na | - | sáng bóng | - | - | 新[あたら]しい靴[くつ]がぴかぴかです。 | Đôi giày mới sáng bóng.
+ぼろぼろ | adv,adj-na | - | rách nát | - | - | 古[ふる]い本[ほん]がぼろぼろになりました。 | Cuốn sách cũ đã rách nát.
+がらがら | adv,adj-na | - | vắng tanh | - | - | 平日[へいじつ]の映画館[えいがかん]はがらがらでした。 | Rạp phim ngày thường vắng tanh.
+ぶかぶか | adv,adj-na,v3 | - | rộng thùng thình | - | - | 兄[あに]のシャツは私[わたし]にはぶかぶかです。 | Áo của anh tôi mặc rộng thùng thình.
+きつい | adj-i | - | chật; vất vả | - | - | このズボンは少[すこ]しきついです。 | Cái quần này hơi chật.
+鋭[するど]い | adj-i | DUỆ | sắc bén | 鋭[するど]い 質問[しつもん] | câu hỏi sắc sảo | 鋭[するど]い質問[しつもん]をされて困[こま]りました。 | Bị hỏi câu sắc sảo nên tôi bối rối.
+鈍[にぶ]い | adj-i | ĐỘN | cùn, chậm | - | - | 腰[こし]に鈍[にぶ]い痛[いた]みがあります。 | Lưng đau âm ỉ.
+尖[とが]る | v1 | TIÊM | nhọn | - | - | 先[さき]が尖[とが]った鉛筆[えんぴつ]です。 | Bút chì có đầu nhọn.
+丸[まる]い | adj-i | HOÀN | tròn | - | - | 丸[まる]いテーブルを買[か]いました。 | Tôi mua cái bàn tròn.
+四角[しかく]い | adj-i | TỨ GIÁC | vuông | - | - | 四角[しかく]い箱[はこ]に入[い]れます。 | Cho vào hộp vuông.
+細長[ほそなが]い | adj-i | TẾ TRƯỜNG | dài và mảnh | - | - | 細長[ほそなが]い島[しま]です。 | Đó là hòn đảo dài và hẹp.
+深[ふか]い | adj-i | THÂM | sâu | - | - | この川[かわ]は深[ふか]いので泳[およ]がないでください。 | Sông này sâu, đừng bơi.
+浅[あさ]い | adj-i | THIỂN | nông, cạn | - | - | 子供[こども]は浅[あさ]いプールで遊[あそ]びます。 | Trẻ con chơi ở hồ bơi nông.
+鮮[あざ]やか | adj-na | TIÊN | tươi sáng, rực rỡ | - | - | 鮮[あざ]やかな色[いろ]の服[ふく]です。 | Bộ đồ màu rực rỡ.
+透明[とうめい] | adj-na | THẤU MINH | trong suốt | - | - | 透明[とうめい]な袋[ふくろ]に入[い]れてください。 | Hãy cho vào túi trong suốt.
+真[ま]っ白[しろ] | adj-na | CHÂN BẠCH | trắng tinh | - | - | 雪[ゆき]で町[まち]が真[ま]っ白[しろ]になりました。 | Tuyết phủ trắng thị trấn.
+真[ま]っ黒[くろ] | adj-na | CHÂN HẮC | đen kịt | - | - | 日焼[ひや]けして真[ま]っ黒[くろ]になりました。 | Cháy nắng đen thui.
+真[ま]っ赤[か] | adj-na | CHÂN XÍCH | đỏ rực | - | - | 恥[は]ずかしくて顔[かお]が真[ま]っ赤[か]になりました。 | Ngượng quá mặt đỏ bừng.
+真[ま]っ青[さお] | adj-na | CHÂN THANH | xanh lét; xanh thẳm | - | - | 彼[かれ]は真[ま]っ青[さお]な顔[かお]をしていました。 | Anh ấy mặt tái xanh.
+真[ま]っ暗[くら] | adj-na | CHÂN ÁM | tối om | - | - | 停電[ていでん]で部屋[へや]が真[ま]っ暗[くら]になりました。 | Mất điện nên phòng tối om.
+増加[ぞうか] | n,v3 | TĂNG GIA | gia tăng | - | - | 外国人[がいこくじん]観光客[かんこうきゃく]が増加[ぞうか]しています。 | Khách du lịch nước ngoài đang gia tăng.
+減少[げんしょう] | n,v3 | GIẢM THIỂU | giảm thiểu | - | - | 人口[じんこう]が減少[げんしょう]しています。 | Dân số đang giảm.
+拡大[かくだい] | n,v3 | KHUẾCH ĐẠI | mở rộng, phóng to | - | - | 写真[しゃしん]を拡大[かくだい]して見[み]ました。 | Tôi phóng to bức ảnh để xem.
+縮小[しゅくしょう] | n,v3 | SÚC TIỂU | thu nhỏ | - | - | 会社[かいしゃ]は事業[じぎょう]を縮小[しゅくしょう]しました。 | Công ty đã thu hẹp kinh doanh.
+事業[じぎょう] | n | SỰ NGHIỆP | sự nghiệp, kinh doanh | - | - | 父[ちち]は新[あたら]しい事業[じぎょう]を始[はじ]めました。 | Bố tôi bắt đầu công việc kinh doanh mới.
+向上[こうじょう] | n,v3 | HƯỚNG THƯỢNG | nâng cao | - | - | 日本語[にほんご]の能力[のうりょく]が向上[こうじょう]しました。 | Năng lực tiếng Nhật đã được nâng cao.
+低下[ていか] | n,v3 | ĐÊ HẠ | suy giảm | - | - | 体力[たいりょく]が低下[ていか]しています。 | Thể lực đang suy giảm.
+悪化[あっか] | n,v3 | ÁC HÓA | trở nên xấu đi | - | - | 病気[びょうき]が悪化[あっか]しました。 | Bệnh đã trở nặng.
+安定[あんてい] | n,v3 | AN ĐỊNH | ổn định | - | - | 収入[しゅうにゅう]が安定[あんてい]しています。 | Thu nhập ổn định.
+不安定[ふあんてい] | adj-na | BẤT AN ĐỊNH | bất ổn | - | - | 天気[てんき]が不安定[ふあんてい]です。 | Thời tiết thất thường.
+一定[いってい] | n,v3 | NHẤT ĐỊNH | nhất định, cố định | - | - | 部屋[へや]の温度[おんど]を一定[いってい]に保[たも]ちます。 | Giữ nhiệt độ phòng ổn định.
+変動[へんどう] | n,v3 | BIẾN ĐỘNG | biến động | - | - | 野菜[やさい]の値段[ねだん]は天気[てんき]によって変動[へんどう]します。 | Giá rau biến động theo thời tiết.
+急増[きゅうぞう] | n,v3 | CẤP TĂNG | tăng vọt | - | - | 利用者[りようしゃ]が急増[きゅうぞう]しています。 | Số người dùng đang tăng vọt.
+利用者[りようしゃ] | n | LỢI DỤNG GIẢ | người sử dụng | - | - | 図書館[としょかん]の利用者[りようしゃ]が増[ふ]えました。 | Người dùng thư viện đã tăng.
+進化[しんか] | n,v3 | TIẾN HÓA | tiến hóa | - | - | スマホは毎年[まいとし]進化[しんか]しています。 | Điện thoại thông minh tiến hóa mỗi năm.
+変色[へんしょく] | n,v3 | BIẾN SẮC | đổi màu | - | - | 日光[にっこう]で紙[かみ]が変色[へんしょく]しました。 | Giấy bị đổi màu vì ánh nắng.
+変身[へんしん] | n,v3 | BIẾN THÂN | biến hình, lột xác | - | - | 髪[かみ]を切[き]って別人[べつじん]に変身[へんしん]しました。 | Cắt tóc xong như biến thành người khác.
+別人[べつじん] | n | BIỆT NHÂN | người khác | - | - | 彼[かれ]は別人[べつじん]のように元気[げんき]になりました。 | Anh ấy khỏe hẳn như người khác.
+見違[みちが]える | v2 | KIẾN VI | nhìn không nhận ra (vì thay đổi) | - | - | 部屋[へや]が見違[みちが]えるほどきれいになりました。 | Phòng sạch đến mức không nhận ra.
+元通[もとどお]り | n,adv | NGUYÊN THÔNG | như cũ | - | - | 使[つか]った物[もの]は元通[もとどお]りにしてください。 | Đồ đã dùng hãy để lại như cũ.
+元[もと] | n | NGUYÊN | ban đầu, gốc | 元[もと] に 戻[もど]す | đặt lại chỗ cũ | 本[ほん]を元[もと]の場所[ばしょ]に戻[もど]してください。 | Hãy để sách về chỗ cũ.
+戻[もど]す | v1 | LỆ | trả lại, đưa về | - | - | 時計[とけい]を一時間[いちじかん]戻[もど]しました。 | Tôi chỉnh đồng hồ lùi một tiếng.
+新[あら]た | adj-na | TÂN | mới | 新[あら]た な 問題[もんだい] | vấn đề mới | 新[あら]たな問題[もんだい]が出[で]てきました。 | Một vấn đề mới nảy sinh.
+古[ふる]びる | v2 | CỔ | cũ kỹ đi | - | - | 古[ふる]びた写真[しゃしん]が出[で]てきました。 | Một bức ảnh cũ kỹ hiện ra.
+汚[よご]れ | n | Ô | vết bẩn | 汚[よご]れ が 落[お]ちる | sạch vết bẩn | この洗剤[せんざい]で汚[よご]れがよく落[お]ちます。 | Bột giặt này tẩy vết bẩn tốt.
+傷[きず]つける | v2 | THƯƠNG | làm tổn thương, làm trầy | - | - | 床[ゆか]を傷[きず]つけないように気[き]をつけてください。 | Hãy cẩn thận đừng làm trầy sàn.
+しわ | n | - | nếp nhăn | しわ が 寄[よ]る | nhăn | シャツにしわが寄[よ]っています。 | Áo sơ mi bị nhăn.
+曲[ま]げる | v2 | KHÚC | uốn cong | - | - | 膝[ひざ]を曲[ま]げてください。 | Hãy co gối lại.
+伸[の]ばす | v1 | THÂN | kéo dài, duỗi | 髪[かみ] を 伸[の]ばす | để tóc dài | 髪[かみ]を伸[の]ばしています。 | Tôi đang để tóc dài.
+縮[ちぢ]む | v1 | SÚC | co lại | - | - | セーターを洗[あら]ったら縮[ちぢ]みました。 | Áo len giặt xong bị co lại.
+膨[ふく]らませる | v2 | BÀNH | làm phồng | - | - | 風船[ふうせん]を膨[ふく]らませました。 | Tôi thổi phồng bóng bay.
+固[かた]まる | v1 | CỐ | đông cứng | - | - | 冷[ひ]やすとゼリーが固[かた]まります。 | Làm lạnh thì thạch đông lại.
+溶[と]ける | v2 | DUNG | tan chảy | - | - | 暑[あつ]さでアイスが溶[と]けてしまいました。 | Nóng quá kem tan mất.
+溶[と]かす | v1 | DUNG | làm tan | - | - | 砂糖[さとう]をお湯[ゆ]で溶[と]かします。 | Hòa tan đường vào nước nóng.
+混[ま]ざる | v1 | HỖN | bị lẫn, trộn lẫn | - | - | 赤[あか]と青[あお]が混[ま]ざると紫[むらさき]になります。 | Đỏ và xanh trộn lại thành tím.
+紫[むらさき] | n | TỬ | màu tím | - | - | 紫[むらさき]の花[はな]が咲[さ]いています。 | Hoa tím đang nở.
+灰色[はいいろ] | n | HÔI SẮC | màu xám | - | - | 空[そら]は灰色[はいいろ]の雲[くも]で覆[おお]われています。 | Bầu trời phủ đầy mây xám.
+覆[おお]う | v1 | PHÚC | che phủ | - | - | 雪[ゆき]が山[やま]を覆[おお]っています。 | Tuyết phủ kín núi.
+目立[めだ]たない | adj-i | MỤC LẬP | không nổi bật | - | - | 目立[めだ]たない色[いろ]の服[ふく]を選[えら]びました。 | Tôi chọn áo màu không nổi bật.
+ぼやける | v2 | - | mờ đi | - | - | 写真[しゃしん]がぼやけています。 | Ảnh bị mờ.
+くっきり | adv,v3 | - | rõ nét | - | - | 富士山[ふじさん]がくっきり見[み]えます。 | Nhìn thấy núi Phú Sĩ rõ nét.
+ずらり | adv | - | san sát thành hàng | - | - | 店[みせ]の前[まえ]に自転車[じてんしゃ]がずらりと並[なら]んでいます。 | Xe đạp xếp san sát trước cửa hàng.
+ぎざぎざ | n,adj-na | - | răng cưa | - | - | 葉[は]の縁[ふち]がぎざぎざしています。 | Mép lá có răng cưa.
+縁[ふち] | n | DUYÊN | mép, viền | - | - | コップの縁[ふち]が欠[か]けています。 | Mép cốc bị mẻ.
+欠[か]ける | v2 | KHIẾM | sứt mẻ; thiếu | - | - | お皿[さら]が欠[か]けてしまいました。 | Cái đĩa bị mẻ.
+ぴったり | adv,adj-na | - | vừa khít | - | - | この靴[くつ]はサイズがぴったりです。 | Đôi giày này vừa khít.
+ばらばら | adv,adj-na | - | rời rạc, tản mác | - | - | みんなの意見[いけん]がばらばらです。 | Ý kiến mọi người rời rạc.
+めちゃくちゃ | adj-na | - | lộn xộn; cực kỳ | - | - | 台風[たいふう]で庭[にわ]がめちゃくちゃになりました。 | Bão làm vườn tan hoang.
+ぐちゃぐちゃ | adj-na,adv | - | nhão nhoét, bừa bộn | - | - | 雨[あめ]で道[みち]がぐちゃぐちゃです。 | Mưa làm đường lầy lội.
+すかすか | adj-na,adv | - | trống trải, lỏng lẻo | - | - | 冷蔵庫[れいぞうこ]の中[なか]がすかすかです。 | Trong tủ lạnh trống trơn.
+ふさふさ | adv,v3 | - | rậm rạp (lông, tóc) | - | - | 犬[いぬ]の毛[け]がふさふさしています。 | Lông chó rậm rạp.
+ぺらぺら | adv,adj-na | - | (nói) trôi chảy; mỏng | - | - | 彼[かれ]は英語[えいご]がぺらぺらです。 | Anh ấy nói tiếng Anh trôi chảy.
+しっとり | adv,v3 | - | ẩm mượt | - | - | このクリームで肌[はだ]がしっとりします。 | Dùng kem này da ẩm mượt.
+ふっくら | adv,v3 | - | phúng phính, mềm phồng | - | - | ご飯[はん]がふっくら炊[た]けました。 | Cơm chín mềm phồng.
+がっしり | adv,v3 | - | vạm vỡ, chắc nịch | - | - | 彼[かれ]はがっしりした体[からだ]です。 | Anh ấy thân hình vạm vỡ.
+ほっそり | adv,v3 | - | mảnh mai | - | - | 彼女[かのじょ]はほっそりしています。 | Cô ấy mảnh mai.
+すらりと | adv | - | thon thả | - | - | すらりと背[せ]の高[たか]い人[ひと]です。 | Đó là người cao thon thả.
+ずっしり | adv | - | nặng trịch | - | - | このかばんはずっしり重[おも]いです。 | Chiếc túi này nặng trịch.
+目[め]に見[み]えて | adv | MỤC KIẾN | rõ rệt | - | - | 薬[くすり]を飲[の]んでから目[め]に見[み]えてよくなりました。 | Uống thuốc xong khá lên rõ rệt.
+ある程度[ていど] | exp | TRÌNH ĐỘ | ở mức độ nhất định | - | - | ある程度[ていど]は理解[りかい]できます。 | Tôi hiểu ở mức độ nhất định.
+目立[めだ]って | adv | MỤC LẬP | đáng kể, rõ rệt | - | - | 最近[さいきん]目立[めだ]って寒[さむ]くなりました。 | Gần đây trời lạnh rõ rệt.
+大[おお]きさ | n | ĐẠI | độ lớn | - | - | 箱[はこ]の大[おお]きさを測[はか]りました。 | Tôi đo độ lớn của hộp.
+強[つよ]さ | n | CƯỜNG | sức mạnh, độ mạnh | - | - | 風[かぜ]の強[つよ]さに驚[おどろ]きました。 | Tôi ngạc nhiên vì sức gió.
+速[はや]さ | n | TỐC | tốc độ, độ nhanh | - | - | 新幹線[しんかんせん]の速[はや]さに驚[おどろ]きました。 | Tôi ngạc nhiên vì tốc độ Shinkansen.
+差[さ] | n | SAI | sự chênh lệch | 差[さ] が つく | có chênh lệch | 二人[ふたり]の実力[じつりょく]に差[さ]がつきました。 | Thực lực hai người đã chênh lệch.
+共通[きょうつう] | n,v3,adj-na | CỘNG THÔNG | chung | {共通[きょうつう]} 点[てん] | điểm chung | 二人[ふたり]には共通[きょうつう]点[てん]が多[おお]いです。 | Hai người có nhiều điểm chung.
+異[こと]なる | v1 | DỊ | khác nhau | - | - | 国[くに]によって習慣[しゅうかん]が異[こと]なります。 | Tập quán khác nhau tùy nước.
+等[ひと]しい | adj-i | ĐẲNG | bằng nhau | - | - | 二[ふた]つの辺[へん]の長[なが]さは等[ひと]しいです。 | Hai cạnh dài bằng nhau.
+同様[どうよう] | adj-na | ĐỒNG DẠNG | tương tự | - | - | 去年[きょねん]と同様[どうよう]に今年[ことし]も開催[かいさい]します。 | Năm nay cũng tổ chức tương tự năm ngoái.
+開催[かいさい] | n,v3 | KHAI THÔI | tổ chức (sự kiện) | - | - | 東京[とうきょう]でオリンピックが開催[かいさい]されました。 | Olympic đã được tổ chức ở Tokyo.
+そっくり | adj-na,adv | - | giống hệt | - | - | 彼[かれ]はお父[とう]さんにそっくりです。 | Cậu ấy giống bố như đúc.
+一変[いっぺん] | n,v3 | NHẤT BIẾN | thay đổi hoàn toàn | - | - | 彼[かれ]の態度[たいど]が一変[いっぺん]しました。 | Thái độ của anh ấy thay đổi hoàn toàn.
+激変[げきへん] | n,v3 | KÍCH BIẾN | thay đổi đột ngột | - | - | 生活[せいかつ]が激変[げきへん]しました。 | Cuộc sống thay đổi đột ngột.
+移行[いこう] | n,v3 | DI HÀNH | chuyển sang | - | - | 新[あたら]しいシステムに移行[いこう]しました。 | Đã chuyển sang hệ thống mới.
+転換[てんかん] | n,v3 | CHUYỂN HOÁN | chuyển đổi | - | - | 考[かんが]え方[かた]を転換[てんかん]する必要[ひつよう]があります。 | Cần chuyển đổi cách suy nghĩ.
+維持[いじ] | n,v3 | DUY TRÌ | duy trì | - | - | 健康[けんこう]を維持[いじ]するために運動[うんどう]しています。 | Tôi vận động để duy trì sức khỏe.
+一時的[いちじてき] | adj-na | NHẤT THỜI ĐÍCH | tạm thời | - | - | 痛[いた]みは一時的[いちじてき]なものです。 | Cơn đau chỉ là tạm thời.

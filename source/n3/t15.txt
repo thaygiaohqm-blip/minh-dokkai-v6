@@ -1,0 +1,129 @@
+@topic t15
+@ja 情報[じょうほう]・メディア
+@vi Thông tin và truyền thông
+@desc Báo chí, truyền hình, quảng cáo, internet và mạng xã hội, điện thoại thông minh và bảo mật thông tin.
+メディア | n | - | truyền thông | - | - | メディアの情報[じょうほう]をそのまま信[しん]じてはいけません。 | Không nên tin nguyên xi thông tin từ truyền thông.
+マスコミ | n | - | giới truyền thông | - | - | 事件[じけん]がマスコミで大[おお]きく取[と]り上[あ]げられました。 | Vụ việc được giới truyền thông đưa tin rầm rộ.
+取[と]り上[あ]げる | v2 | THỦ THƯỢNG | đề cập, đưa tin; tịch thu | - | - | 会議[かいぎ]でこの問題[もんだい]を取[と]り上[あ]げます。 | Vấn đề này sẽ được đưa ra trong cuộc họp.
+報道[ほうどう] | n,v3 | BÁO ĐẠO | đưa tin | {報道[ほうどう]} 番組[ばんぐみ] | chương trình thời sự | 夜[よる]の報道[ほうどう]番組[ばんぐみ]を見[み]ます。 | Tôi xem chương trình thời sự buổi tối.
+ニュース | n | - | tin tức | - | - | 毎朝[まいあさ]スマホでニュースを読[よ]みます。 | Sáng nào tôi cũng đọc tin tức trên điện thoại.
+記事[きじ] | n | KÝ SỰ | bài báo | 記事[きじ] を 書[か]く | viết bài | 新聞[しんぶん]に面白[おもしろ]い記事[きじ]が載[の]っていました。 | Trên báo có một bài thú vị.
+載[の]る | v1 | TẢI | được đăng | - | - | 私[わたし]の写真[しゃしん]が雑誌[ざっし]に載[の]りました。 | Ảnh của tôi được đăng trên tạp chí.
+載[の]せる | v2 | TẢI | đăng | - | - | ホームページに新[あたら]しい情報[じょうほう]を載[の]せました。 | Tôi đăng thông tin mới lên trang web.
+記者[きしゃ] | n | KÝ GIẢ | phóng viên | - | - | 記者[きしゃ]が事故[じこ]の現場[げんば]に来[き]ました。 | Phóng viên đã đến hiện trường tai nạn.
+現場[げんば] | n | HIỆN TRƯỜNG | hiện trường | - | - | 工事[こうじ]の現場[げんば]で働[はたら]いています。 | Tôi làm việc ở công trường.
+取材[しゅざい] | n,v3 | THỦ TÀI | lấy tin, phỏng vấn | 取材[しゅざい] を 受[う]ける | được phỏng vấn | テレビ局[きょく]の取材[しゅざい]を受[う]けました。 | Tôi được đài truyền hình phỏng vấn.
+インタビュー | n,v3 | - | phỏng vấn | - | - | 選手[せんしゅ]が試合[しあい]の後[あと]でインタビューに答[こた]えました。 | Cầu thủ trả lời phỏng vấn sau trận.
+放送[ほうそう] | n,v3 | PHÓNG TỐNG | phát sóng | - | - | この番組[ばんぐみ]は毎週[まいしゅう]金曜日[きんようび]に放送[ほうそう]されます。 | Chương trình này phát sóng mỗi thứ Sáu.
+生放送[なまほうそう] | n | SINH PHÓNG TỐNG | truyền hình trực tiếp | - | - | この番組[ばんぐみ]は生放送[なまほうそう]です。 | Chương trình này phát trực tiếp.
+中継[ちゅうけい] | n,v3 | TRUNG KẾ | tường thuật trực tiếp | - | - | サッカーの試合[しあい]を中継[ちゅうけい]しています。 | Đang tường thuật trực tiếp trận bóng.
+再放送[さいほうそう] | n,v3 | TÁI PHÓNG TỐNG | phát lại | - | - | 昔[むかし]のドラマが再放送[さいほうそう]されています。 | Phim truyền hình cũ đang được phát lại.
+視聴者[しちょうしゃ] | n | THỊ THÍNH GIẢ | khán giả truyền hình | - | - | 視聴者[しちょうしゃ]からたくさんの意見[いけん]が届[とど]きました。 | Nhiều ý kiến từ khán giả đã gửi đến.
+視聴率[しちょうりつ] | n | THỊ THÍNH SUẤT | tỷ lệ người xem | 視聴率[しちょうりつ] が 高[たか]い | rating cao | このドラマは視聴率[しちょうりつ]が高[たか]いです。 | Bộ phim này có tỷ lệ người xem cao.
+チャンネル | n | - | kênh | チャンネル を 変[か]える | chuyển kênh | テレビのチャンネルを変[か]えてもいいですか。 | Tôi chuyển kênh tivi được không?
+アナウンサー | n | - | phát thanh viên | - | - | 彼女[かのじょ]はテレビのアナウンサーです。 | Cô ấy là phát thanh viên truyền hình.
+広告[こうこく] | n,v3 | QUẢNG CÁO | quảng cáo | 広告[こうこく] を 出[だ]す | đăng quảng cáo | 新聞[しんぶん]に広告[こうこく]を出[だ]しました。 | Tôi đăng quảng cáo trên báo.
+宣伝[せんでん] | n,v3 | TUYÊN TRUYỀN | quảng bá | - | - | 新[あたら]しい商品[しょうひん]をテレビで宣伝[せんでん]しています。 | Đang quảng bá sản phẩm mới trên tivi.
+コマーシャル | n | - | quảng cáo truyền hình | - | - | この歌[うた]はコマーシャルで有名[ゆうめい]になりました。 | Bài hát này nổi tiếng nhờ quảng cáo.
+週刊誌[しゅうかんし] | n | CHU SAN CHÍ | tuần san | - | - | 駅[えき]の売店[ばいてん]で週刊誌[しゅうかんし]を買[か]いました。 | Tôi mua tuần san ở quầy trong ga.
+出版[しゅっぱん] | n,v3 | XUẤT BẢN | xuất bản | {出版[しゅっぱん]} 社[しゃ] | nhà xuất bản | 彼[かれ]は出版[しゅっぱん]社[しゃ]で働[はたら]いています。 | Anh ấy làm ở nhà xuất bản.
+発売[はつばい] | n,v3 | PHÁT MẠI | phát hành bán | - | - | 新[あたら]しいゲームが来週[らいしゅう]発売[はつばい]されます。 | Trò chơi mới sẽ phát hành tuần sau.
+公開[こうかい] | n,v3 | CÔNG KHAI | công khai, công chiếu | - | - | 映画[えいが]は来月[らいげつ]公開[こうかい]されます。 | Bộ phim sẽ công chiếu tháng sau.
+公表[こうひょう] | n,v3 | CÔNG BIỂU | công bố | - | - | 調査[ちょうさ]の結果[けっか]が公表[こうひょう]されました。 | Kết quả điều tra đã được công bố.
+発信[はっしん] | n,v3 | PHÁT TÍN | phát đi (thông tin) | 情報[じょうほう] を {発信[はっしん]}する | đưa thông tin | 町[まち]の魅力[みりょく]をネットで発信[はっしん]しています。 | Đang lan tỏa sức hút của thị trấn trên mạng.
+魅力[みりょく] | n | MỊ LỰC | sức hấp dẫn | - | - | この町[まち]の魅力[みりょく]は自然[しぜん]です。 | Sức hấp dẫn của thị trấn này là thiên nhiên.
+事実[じじつ] | n | SỰ THỰC | sự thật | - | - | それは事実[じじつ]ではありません。 | Điều đó không phải sự thật.
+真実[しんじつ] | n | CHÂN THỰC | chân tướng | - | - | 真実[しんじつ]を知[し]りたいです。 | Tôi muốn biết chân tướng.
+デマ | n | - | tin đồn thất thiệt | デマ を 流[なが]す | tung tin đồn | ネットでデマが流[なが]れています。 | Tin đồn thất thiệt đang lan trên mạng.
+拡散[かくさん] | n,v3 | KHUẾCH TÁN | lan truyền | - | - | その動画[どうが]はすぐに拡散[かくさん]されました。 | Video đó lan truyền ngay lập tức.
+話題[わだい] | n | THOẠI ĐỀ | chủ đề bàn tán | 話題[わだい] に なる | thành đề tài bàn tán | この映画[えいが]は今[いま]話題[わだい]になっています。 | Bộ phim này đang được bàn tán.
+特集[とくしゅう] | n,v3 | ĐẶC TẬP | chuyên đề | - | - | 雑誌[ざっし]で京都[きょうと]の特集[とくしゅう]をしています。 | Tạp chí đang làm chuyên đề về Kyoto.
+見出[みだ]し | n | KIẾN XUẤT | tiêu đề | - | - | 新聞[しんぶん]の見出[みだ]しだけ読[よ]みました。 | Tôi chỉ đọc tiêu đề báo.
+読者[どくしゃ] | n | ĐỘC GIẢ | độc giả | - | - | 読者[どくしゃ]から手紙[てがみ]をもらいました。 | Tôi nhận thư từ độc giả.
+購読[こうどく] | n,v3 | CẤU ĐỘC | đặt mua (báo, tạp chí) | - | - | 新聞[しんぶん]を購読[こうどく]しています。 | Tôi đặt mua báo.
+字幕[じまく] | n | TỰ MẠC | phụ đề | - | - | 日本語[にほんご]の字幕[じまく]で映画[えいが]を見[み]ます。 | Tôi xem phim với phụ đề tiếng Nhật.
+吹[ふ]き替[か]え | n | XUY THẾ | lồng tiếng | - | - | この映画[えいが]は吹[ふ]き替[か]えで見[み]ました。 | Tôi xem phim này bản lồng tiếng.
+録音[ろくおん] | n,v3 | LỤC ÂM | ghi âm | - | - | 授業[じゅぎょう]を録音[ろくおん]してもいいですか。 | Tôi ghi âm buổi học được không?
+画面[がめん] | n | HỌA DIỆN | màn hình | - | - | スマホの画面[がめん]が割[わ]れました。 | Màn hình điện thoại bị vỡ.
+画像[がぞう] | n | HỌA TƯỢNG | hình ảnh | - | - | 画像[がぞう]を送[おく]ってください。 | Hãy gửi hình ảnh cho tôi.
+映像[えいぞう] | n | ÁNH TƯỢNG | hình ảnh, video | - | - | 事故[じこ]の映像[えいぞう]がニュースで流[なが]れました。 | Hình ảnh vụ tai nạn được phát trên bản tin.
+音声[おんせい] | n | ÂM THANH | âm thanh, giọng nói | - | - | 音声[おんせい]で検索[けんさく]できます。 | Có thể tìm kiếm bằng giọng nói.
+検索[けんさく] | n,v3 | KIỂM TÁC | tìm kiếm | - | - | 分[わ]からない言葉[ことば]をネットで検索[けんさく]しました。 | Tôi tìm từ không hiểu trên mạng.
+インターネット | n | - | internet | - | - | インターネットで調[しら]べました。 | Tôi tra trên internet.
+サイト | n | - | trang web | - | - | このサイトで航空券[こうくうけん]を予約[よやく]しました。 | Tôi đặt vé máy bay trên trang web này.
+ホームページ | n | - | trang chủ | - | - | 詳[くわ]しくはホームページをご覧[らん]ください。 | Chi tiết xin xem trang chủ.
+ダウンロード | n,v3 | - | tải xuống | - | - | アプリをダウンロードしました。 | Tôi đã tải ứng dụng.
+アプリ | n | - | ứng dụng | - | - | 便利[べんり]なアプリを教[おし]えてください。 | Chỉ tôi ứng dụng tiện lợi với.
+投稿[とうこう] | n,v3 | ĐẦU CẢO | đăng bài | - | - | 旅行[りょこう]の写真[しゃしん]をSNSに投稿[とうこう]しました。 | Tôi đăng ảnh du lịch lên mạng xã hội.
+書[か]き込[こ]み | n | THƯ NHẬP | bài viết, bình luận | - | - | 掲示板[けいじばん]にひどい書[か]き込[こ]みがありました。 | Trên diễn đàn có bình luận tệ hại.
+コメント | n,v3 | - | bình luận | - | - | 動画[どうが]にコメントしました。 | Tôi bình luận vào video.
+ブログ | n | - | blog | - | - | 毎日[まいにち]ブログを書[か]いています。 | Ngày nào tôi cũng viết blog.
+閲覧[えつらん] | n,v3 | DUYỆT LÃM | xem, đọc | - | - | このページは会員[かいいん]だけが閲覧[えつらん]できます。 | Trang này chỉ hội viên mới xem được.
+アクセス | n,v3 | - | truy cập | - | - | サイトにアクセスできません。 | Không truy cập được trang web.
+パスワード | n | - | mật khẩu | - | - | パスワードを忘[わす]れました。 | Tôi quên mật khẩu.
+ログイン | n,v3 | - | đăng nhập | - | - | IDとパスワードでログインしてください。 | Hãy đăng nhập bằng ID và mật khẩu.
+アカウント | n | - | tài khoản | アカウント を 作[つく]る | tạo tài khoản | 新[あたら]しいアカウントを作[つく]りました。 | Tôi đã tạo tài khoản mới.
+個人情報[こじんじょうほう] | n | CÁ NHÂN TÌNH BÁO | thông tin cá nhân | - | - | 個人情報[こじんじょうほう]の管理[かんり]に気[き]をつけてください。 | Hãy cẩn thận quản lý thông tin cá nhân.
+流出[りゅうしゅつ] | n,v3 | LƯU XUẤT | rò rỉ | - | - | 顧客[こきゃく]の情報[じょうほう]が流出[りゅうしゅつ]しました。 | Thông tin khách hàng đã bị rò rỉ.
+漏[も]れる | v2 | LẬU | rò rỉ, lọt ra | - | - | 秘密[ひみつ]が漏[も]れてしまいました。 | Bí mật đã bị lộ.
+漏[も]らす | v1 | LẬU | để lộ | - | - | このことは誰[だれ]にも漏[も]らさないでください。 | Chuyện này đừng để lộ cho ai.
+プライバシー | n | - | sự riêng tư | プライバシー を 守[まも]る | bảo vệ sự riêng tư | 他人[たにん]のプライバシーを守[まも]りましょう。 | Hãy tôn trọng sự riêng tư của người khác.
+迷惑[めいわく]メール | n | MÊ HOẶC | thư rác | - | - | 毎日[まいにち]迷惑[めいわく]メールが来[き]ます。 | Ngày nào cũng có thư rác.
+炎上[えんじょう] | n,v3 | VIÊM THƯỢNG | bị ném đá trên mạng; cháy | - | - | 彼[かれ]の発言[はつげん]がネットで炎上[えんじょう]しました。 | Phát ngôn của anh ta bị ném đá trên mạng.
+発言[はつげん] | n,v3 | PHÁT NGÔN | phát ngôn | - | - | 会議[かいぎ]で発言[はつげん]しました。 | Tôi đã phát biểu trong cuộc họp.
+流行語[りゅうこうご] | n | LƯU HÀNH NGỮ | từ thịnh hành | - | - | 今年[ことし]の流行語[りゅうこうご]は何[なん]ですか。 | Từ thịnh hành năm nay là gì?
+通知[つうち] | n,v3 | THÔNG TRI | thông báo | - | - | アプリの通知[つうち]をオフにしました。 | Tôi tắt thông báo của ứng dụng.
+受信[じゅしん] | n,v3 | THỤ TÍN | nhận (tín hiệu, thư) | - | - | メールを受信[じゅしん]しました。 | Tôi đã nhận email.
+送信[そうしん] | n,v3 | TỐNG TÍN | gửi đi | - | - | 間違[まちが]えて送信[そうしん]してしまいました。 | Tôi lỡ gửi nhầm.
+着信[ちゃくしん] | n,v3 | TRƯỚC TÍN | cuộc gọi đến | - | - | 知[し]らない番号[ばんごう]から着信[ちゃくしん]がありました。 | Có cuộc gọi đến từ số lạ.
+電波[でんぱ] | n | ĐIỆN BA | sóng điện | 電波[でんぱ] が 悪[わる]い | sóng yếu | ここは電波[でんぱ]が悪[わる]いです。 | Ở đây sóng yếu.
+圏外[けんがい] | n | QUYỂN NGOẠI | ngoài vùng phủ sóng | - | - | 山[やま]の中[なか]は圏外[けんがい]でした。 | Trong núi không có sóng.
+充電[じゅうでん] | n,v3 | SUNG ĐIỆN | sạc pin | - | - | スマホを充電[じゅうでん]するのを忘[わす]れました。 | Tôi quên sạc điện thoại.
+電源[でんげん] | n | ĐIỆN NGUYÊN | nguồn điện | 電源[でんげん] を 切[き]る | tắt nguồn | 映画館[えいがかん]では携帯[けいたい]の電源[でんげん]を切[き]ってください。 | Trong rạp hãy tắt nguồn điện thoại.
+スマホ | n | - | điện thoại thông minh | - | - | スマホで写真[しゃしん]を撮[と]りました。 | Tôi chụp ảnh bằng điện thoại.
+機能[きのう] | n,v3 | CƠ NĂNG | chức năng | - | - | このカメラには便利[べんり]な機能[きのう]がたくさんあります。 | Máy ảnh này có nhiều chức năng tiện lợi.
+最新[さいしん] | n | TỐI TÂN | mới nhất | {最新[さいしん]} 情報[じょうほう] | thông tin mới nhất | 最新[さいしん]情報[じょうほう]はホームページで確認[かくにん]できます。 | Thông tin mới nhất có thể xem trên trang chủ.
+入手[にゅうしゅ] | n,v3 | NHẬP THỦ | có được | - | - | 新[あたら]しい情報[じょうほう]を入手[にゅうしゅ]しました。 | Tôi đã có được thông tin mới.
+情報源[じょうほうげん] | n | TÌNH BÁO NGUYÊN | nguồn tin | - | - | 情報源[じょうほうげん]を確認[かくにん]しましょう。 | Hãy kiểm tra nguồn tin.
+信頼性[しんらいせい] | n | TÍN LẠI TÍNH | độ tin cậy | - | - | このサイトの情報[じょうほう]は信頼性[しんらいせい]が高[たか]いです。 | Thông tin trang này có độ tin cậy cao.
+確[たし]かめる | v2 | XÁC | xác minh | - | - | 本当[ほんとう]かどうか確[たし]かめました。 | Tôi đã xác minh xem có thật không.
+伝[つた]わる | v1 | TRUYỀN | được truyền đạt | - | - | 気持[きも]ちが相手[あいて]に伝[つた]わりました。 | Cảm xúc đã truyền tới người kia.
+知[し]らせ | n | TRI | tin báo | - | - | 合格[ごうかく]の知[し]らせが届[とど]きました。 | Tin đỗ đã đến.
+広[ひろ]まる | v1 | QUẢNG | lan rộng | - | - | 噂[うわさ]はすぐに広[ひろ]まりました。 | Tin đồn lan nhanh.
+広[ひろ]める | v2 | QUẢNG | phổ biến, truyền bá | - | - | 日本[にほん]の文化[ぶんか]を世界[せかい]に広[ひろ]めたいです。 | Tôi muốn truyền bá văn hóa Nhật ra thế giới.
+世論[よろん] | n | THẾ LUẬN | dư luận | {世論[よろん]} 調査[ちょうさ] | thăm dò dư luận | 世論[よろん]調査[ちょうさ]の結果[けっか]が発表[はっぴょう]されました。 | Kết quả thăm dò dư luận đã được công bố.
+アンケート | n | - | phiếu khảo sát | アンケート に 答[こた]える | trả lời khảo sát | 簡単[かんたん]なアンケートに答[こた]えてください。 | Xin hãy trả lời phiếu khảo sát ngắn.
+テレビ局[きょく] | n | CỤC | đài truyền hình | - | - | 兄[あに]はテレビ局[きょく]で働[はたら]いています。 | Anh tôi làm ở đài truyền hình.
+放映[ほうえい] | n,v3 | PHÓNG ÁNH | chiếu trên truyền hình | - | - | 映画[えいが]が今夜[こんや]テレビで放映[ほうえい]されます。 | Bộ phim sẽ chiếu trên tivi tối nay.
+出演[しゅつえん] | n,v3 | XUẤT DIỄN | xuất hiện, tham gia diễn | - | - | 彼女[かのじょ]はドラマに出演[しゅつえん]しています。 | Cô ấy tham gia diễn phim truyền hình.
+芸能人[げいのうじん] | n | NGHỆ NĂNG NHÂN | người nổi tiếng giới giải trí | - | - | 駅[えき]で芸能人[げいのうじん]を見[み]かけました。 | Tôi thấy một người nổi tiếng ở ga.
+見[み]かける | v2 | KIẾN | tình cờ thấy | - | - | 最近[さいきん]よく彼[かれ]を見[み]かけます。 | Gần đây tôi hay thấy anh ấy.
+有名人[ゆうめいじん] | n | HỮU DANH NHÂN | người nổi tiếng | - | - | 有名人[ゆうめいじん]のサインをもらいました。 | Tôi xin được chữ ký người nổi tiếng.
+データ | n | - | dữ liệu | データ を 保存[ほぞん]する | lưu dữ liệu | 大事[だいじ]なデータを保存[ほぞん]しました。 | Tôi đã lưu dữ liệu quan trọng.
+保存[ほぞん] | n,v3 | BẢO TỒN | lưu giữ, bảo quản | - | - | 冷蔵庫[れいぞうこ]で保存[ほぞん]してください。 | Hãy bảo quản trong tủ lạnh.
+ファイル | n | - | tập tin | - | - | ファイルをメールに添付[てんぷ]しました。 | Tôi đính kèm tập tin vào email.
+添付[てんぷ] | n,v3 | THIÊM PHÓ | đính kèm | {添付[てんぷ]} ファイル | tệp đính kèm | 添付[てんぷ]ファイルを確認[かくにん]してください。 | Hãy kiểm tra tệp đính kèm.
+削除[さくじょ] | n,v3 | TƯỚC TRỪ | xóa | - | - | 間違[まちが]えてデータを削除[さくじょ]してしまいました。 | Tôi lỡ xóa nhầm dữ liệu.
+入力[にゅうりょく] | n,v3 | NHẬP LỰC | nhập (dữ liệu) | - | - | 名前[なまえ]をローマ字[じ]で入力[にゅうりょく]してください。 | Hãy nhập tên bằng chữ Latinh.
+変換[へんかん] | n,v3 | BIẾN HOÁN | chuyển đổi | - | - | ひらがなを漢字[かんじ]に変換[へんかん]します。 | Chuyển hiragana sang chữ Hán.
+印刷[いんさつ] | n,v3 | ẤN LOÁT | in ấn | - | - | 資料[しりょう]を十部[じゅうぶ]印刷[いんさつ]しました。 | Tôi in mười bản tài liệu.
+画質[がしつ] | n | HỌA CHẤT | chất lượng hình ảnh | - | - | このテレビは画質[がしつ]がいいです。 | Tivi này chất lượng hình ảnh tốt.
+音量[おんりょう] | n | ÂM LƯỢNG | âm lượng | 音量[おんりょう] を 下[さ]げる | giảm âm lượng | 夜[よる]なので音量[おんりょう]を下[さ]げてください。 | Ban đêm rồi, hãy giảm âm lượng.
+新聞社[しんぶんしゃ] | n | TÂN VĂN XÃ | tòa soạn báo | - | - | 新聞社[しんぶんしゃ]に就職[しゅうしょく]しました。 | Tôi vào làm ở tòa soạn báo.
+掲載[けいさい] | n,v3 | YẾT TẢI | đăng tải | - | - | 私[わたし]の投書[とうしょ]が新聞[しんぶん]に掲載[けいさい]されました。 | Thư bạn đọc của tôi được đăng trên báo.
+連載[れんさい] | n,v3 | LIÊN TẢI | đăng nhiều kỳ | - | - | この漫画[まんが]は雑誌[ざっし]で連載[れんさい]されています。 | Bộ truyện này đăng nhiều kỳ trên tạp chí.
+編集[へんしゅう] | n,v3 | BIÊN TẬP | biên tập | - | - | 動画[どうが]を編集[へんしゅう]しています。 | Tôi đang biên tập video.
+筆者[ひっしゃ] | n | BÚT GIẢ | người viết, tác giả | - | - | 筆者[ひっしゃ]の意見[いけん]に賛成[さんせい]です。 | Tôi đồng ý với ý kiến người viết.
+賛成[さんせい] | n,v3 | TÁN THÀNH | tán thành | - | - | その計画[けいかく]に賛成[さんせい]します。 | Tôi tán thành kế hoạch đó.
+原稿[げんこう] | n | NGUYÊN CẢO | bản thảo | - | - | スピーチの原稿[げんこう]を書[か]きました。 | Tôi viết bản thảo bài phát biểu.
+著作権[ちょさくけん] | n | TRỨ TÁC QUYỀN | bản quyền | - | - | 著作権[ちょさくけん]に注意[ちゅうい]して画像[がぞう]を使[つか]います。 | Dùng hình ảnh chú ý đến bản quyền.
+転載[てんさい] | n,v3 | CHUYỂN TẢI | đăng lại | {無断[むだん]} 転載[てんさい] | đăng lại không phép | 写真[しゃしん]の無断[むだん]転載[てんさい]は禁止[きんし]です。 | Cấm đăng lại ảnh khi chưa xin phép.
+オンライン | n | - | trực tuyến | - | - | オンラインで会議[かいぎ]をしました。 | Chúng tôi họp trực tuyến.
+回線[かいせん] | n | HỒI TUYẾN | đường truyền | - | - | ネットの回線[かいせん]が遅[おそ]いです。 | Đường truyền mạng chậm.
+通信[つうしん] | n,v3 | THÔNG TÍN | truyền thông tin, liên lạc | {通信[つうしん]} 料[りょう] | cước viễn thông | 海外[かいがい]では通信[つうしん]料[りょう]が高[たか]くなります。 | Ở nước ngoài cước viễn thông cao.
+機種[きしゅ] | n | CƠ CHỦNG | đời máy | {機種[きしゅ]} 変更[へんこう] | đổi đời máy | スマホを機種[きしゅ]変更[へんこう]しました。 | Tôi đã đổi điện thoại đời mới.
+設定[せってい] | n,v3 | THIẾT ĐỊNH | cài đặt | - | - | 言語[げんご]の設定[せってい]を日本語[にほんご]にしました。 | Tôi cài đặt ngôn ngữ sang tiếng Nhật.
+言語[げんご] | n | NGÔN NGỮ | ngôn ngữ | - | - | 彼[かれ]は四[よっ]つの言語[げんご]を話[はな]せます。 | Anh ấy nói được bốn ngôn ngữ.
+操作[そうさ] | n,v3 | THAO TÁC | thao tác | - | - | この機械[きかい]の操作[そうさ]は簡単[かんたん]です。 | Thao tác máy này đơn giản.
+故障中[こしょうちゅう] | n | CỐ CHƯỚNG TRUNG | đang hỏng | - | - | このエレベーターは故障中[こしょうちゅう]です。 | Thang máy này đang hỏng.
+不具合[ふぐあい] | n | BẤT CỤ HỢP | trục trặc | - | - | アプリに不具合[ふぐあい]があります。 | Ứng dụng có trục trặc.

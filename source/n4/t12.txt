@@ -1,0 +1,121 @@
+@topic t12
+@ja 敬語[けいご]・マナー・つなぎ言葉[ことば]
+@vi Kính ngữ, phép lịch sự và từ nối
+@desc Động từ kính ngữ và khiêm nhường, câu nói lịch sự nơi công sở, phép ứng xử, cùng các phó từ, liên từ giúp câu văn mạch lạc.
+いらっしゃる | v1 | - | đi, đến, ở (kính ngữ) | - | - | 社長[しゃちょう]は今[いま]、会議室[かいぎしつ]にいらっしゃいます。 | Giám đốc hiện đang ở phòng họp.
+おっしゃる | v1 | - | nói (kính ngữ) | - | - | 先生[せんせい]がおっしゃったことをメモしました。 | Tôi đã ghi lại những gì thầy nói.
+なさる | v1 | - | làm (kính ngữ) | - | - | 週末[しゅうまつ]は何[なに]をなさいますか。 | Cuối tuần anh định làm gì ạ?
+召[め]し上[あ]がる | v1 | TRIỆU THƯỢNG | ăn, uống (kính ngữ) | - | - | どうぞ温[あたた]かいうちに召[め]し上[あ]がってください。 | Xin mời dùng khi còn nóng.
+ご覧[らん]になる | v1 | LÃM | xem (kính ngữ) | - | - | こちらの資料[しりょう]をご覧[らん]になってください。 | Xin mời xem tài liệu này.
+存[ぞん]じる | v2 | TỒN | biết, nghĩ (khiêm nhường) | - | - | その件[けん]については存[ぞん]じております。 | Về việc đó tôi có biết ạ.
+申[もう]す | v1 | THÂN | nói, tên là (khiêm nhường) | - | - | 初[はじ]めまして、グエンと申[もう]します。 | Rất hân hạnh, tôi tên là Nguyễn.
+参[まい]る | v1 | THAM | đi, đến (khiêm nhường) | - | - | 明日[あした]、十[じゅう]時[じ]にそちらへ参[まい]ります。 | Ngày mai tôi sẽ đến chỗ anh lúc mười giờ.
+伺[うかが]う | v1 | TỨ | hỏi; thăm (khiêm nhường) | お 話[はなし] を 伺[うかが]う | xin được nghe | 少[すこ]しお話[はなし]を伺[うかが]ってもよろしいですか。 | Tôi xin được hỏi chuyện một chút có được không ạ?
+拝見[はいけん] | n,v3 | BÁI KIẾN | xem (khiêm nhường) | - | - | 資料[しりょう]を拝見[はいけん]しました。 | Tôi đã xem tài liệu ạ.
+おる | v1 | - | ở, có (khiêm nhường của いる) | - | - | 父[ちち]は今[いま]、家[いえ]におります。 | Bố tôi hiện đang ở nhà ạ.
+致[いた]す | v1 | TRÍ | làm (khiêm nhường) | - | - | 私[わたし]がご案内[あんない]いたします。 | Tôi xin được hướng dẫn quý khách.
+お目[め]にかかる | v1 | MỤC | gặp (khiêm nhường) | - | - | お目[め]にかかれて光栄[こうえい]です。 | Được gặp ngài là vinh dự của tôi.
+ござる | v1 | - | có, là (lịch sự) | - | - | お手洗[てあら]いは二[に]階[かい]にございます。 | Nhà vệ sinh ở tầng hai ạ.
+頂戴[ちょうだい] | n,v3 | ĐỈNH ĐỚI | nhận (khiêm nhường) | - | - | 先日[せんじつ]はお手紙[てがみ]を頂戴[ちょうだい]し、ありがとうございました。 | Cảm ơn anh vì lá thư gửi tôi hôm trước.
+敬語[けいご] | n | KÍNH NGỮ | kính ngữ | 敬語[けいご] を 使[つか]う | dùng kính ngữ | お客様[きゃくさま]には敬語[けいご]を使[つか]ってください。 | Hãy dùng kính ngữ với khách hàng.
+尊敬語[そんけいご] | n | TÔN KÍNH NGỮ | tôn kính ngữ | - | - | 「いらっしゃる」は「いる」の尊敬語[そんけいご]です。 | "Irassharu" là tôn kính ngữ của "iru".
+謙譲語[けんじょうご] | n | KHIÊM NHƯỢNG NGỮ | khiêm nhường ngữ | - | - | 「参[まい]る」は「行[い]く」の謙譲語[けんじょうご]です。 | "Mairu" là khiêm nhường ngữ của "iku".
+言葉遣[ことばづか]い | n | NGÔN DIỆP KHIỂN | cách dùng từ | 言葉遣[ことばづか]い に 気[き] を つける | chú ý cách ăn nói | 目上[めうえ]の人[ひと]と話[はな]す時[とき]は言葉遣[ことばづか]いに気[き]をつけます。 | Khi nói chuyện với người bề trên tôi chú ý cách ăn nói.
+目上[めうえ] | n | MỤC THƯỢNG | người bề trên | - | - | 目上[めうえ]の人[ひと]には丁寧[ていねい]に話[はな]しましょう。 | Hãy nói chuyện lịch sự với người bề trên.
+マナー | n | - | phép lịch sự | マナー を 守[まも]る | giữ phép lịch sự | 電車[でんしゃ]の中[なか]ではマナーを守[まも]りましょう。 | Trên tàu hãy giữ phép lịch sự.
+礼儀[れいぎ] | n | LỄ NGHI | lễ nghĩa | 礼儀[れいぎ] 正[ただ]しい | lễ phép | 彼[かれ]はとても礼儀[れいぎ]正[ただ]しい青年[せいねん]です。 | Cậu ấy là một thanh niên rất lễ phép.
+行儀[ぎょうぎ] | n | HÀNH NGHI | phép tắc cư xử | 行儀[ぎょうぎ] が 悪[わる]い | cư xử không đúng mực | 食事[しょくじ]中[ちゅう]に立[た]つのは行儀[ぎょうぎ]が悪[わる]いです。 | Đứng dậy giữa bữa ăn là không đúng mực.
+お辞儀[じぎ] | n,v3 | TỪ NGHI | cúi chào | 深[ふか]く お辞儀[じぎ] する | cúi chào thật sâu | 社長[しゃちょう]に深[ふか]くお辞儀[じぎ]をしました。 | Tôi cúi chào thật sâu với giám đốc.
+恐[おそ]れ入[い]ります | exp | KHỦNG NHẬP | xin lỗi đã làm phiền; cảm ơn (rất lịch sự) | - | - | 恐[おそ]れ入[い]りますが、お名前[なまえ]を教[おし]えていただけますか。 | Xin lỗi đã làm phiền, quý khách có thể cho biết tên được không ạ?
+申[もう]し訳[わけ]ない | adj-i | THÂN DỊCH | thật có lỗi | - | - | ご迷惑[めいわく]をおかけして、申[もう]し訳[わけ]ございません。 | Thật có lỗi vì đã làm phiền quý khách.
+かしこまりました | exp | - | vâng, tôi đã rõ (lịch sự) | - | - | 「コーヒーを二[ふた]つください。」「かしこまりました。」 | "Cho tôi hai cà phê." "Vâng, tôi đã rõ ạ."
+承知[しょうち] | n,v3 | THỪA TRI | hiểu rõ, chấp thuận | - | - | 承知[しょうち]しました。すぐに準備[じゅんび]します。 | Tôi đã hiểu. Tôi sẽ chuẩn bị ngay.
+お待[ま]たせしました | exp | ĐÃI | xin lỗi đã để chờ | - | - | お待[ま]たせしました。ご注文[ちゅうもん]のラーメンです。 | Xin lỗi đã để quý khách chờ. Đây là bát mì quý khách gọi.
+お疲[つか]れ様[さま] | exp | BÌ DẠNG | anh chị đã vất vả rồi | - | - | 今日[きょう]も一日[いちにち]お疲[つか]れ様[さま]でした。 | Hôm nay cũng vất vả cả ngày rồi.
+お先[さき]に | exp | TIÊN | xin phép về trước | - | - | お先[さき]に失礼[しつれい]します。 | Tôi xin phép về trước ạ.
+よろしい | adj-i | - | được, tốt (lịch sự) | - | - | こちらの席[せき]でよろしいでしょうか。 | Chỗ này có được không ạ?
+少々[しょうしょう] | adv | THIỂU | một chút (lịch sự) | 少々[しょうしょう] お 待[ま]ち ください | xin đợi một chút | 少々[しょうしょう]お待[ま]ちください。 | Xin quý khách đợi một chút.
+お越[こ]し | n | VIỆT | sự đến (kính ngữ) | - | - | 本日[ほんじつ]はお越[こ]しいただき、ありがとうございます。 | Cảm ơn quý khách đã đến hôm nay.
+本日[ほんじつ] | n | BẢN NHẬT | hôm nay (trang trọng) | - | - | 本日[ほんじつ]は休業[きゅうぎょう]いたします。 | Hôm nay chúng tôi nghỉ bán ạ.
+先日[せんじつ] | n | TIÊN NHẬT | hôm trước | - | - | 先日[せんじつ]はありがとうございました。 | Cảm ơn anh vì hôm trước.
+後[のち]ほど | adv | HẬU | lát nữa (lịch sự) | - | - | 後[のち]ほどお電話[でんわ]いたします。 | Lát nữa tôi sẽ gọi lại ạ.
+皆様[みなさま] | n | GIAI DẠNG | quý vị | - | - | 皆様[みなさま]、本日[ほんじつ]はお集[あつ]まりいただきありがとうございます。 | Kính thưa quý vị, cảm ơn quý vị đã có mặt hôm nay.
+様[さま] | suf | DẠNG | ngài, quý (kính xưng) | - | - | 田中[たなか]様[さま]、お待[ま]ちしておりました。 | Thưa ông Tanaka, chúng tôi đã chờ ông ạ.
+ご遠慮[えんりょ]ください | exp | VIỄN LỰ | xin vui lòng không… | - | - | 館内[かんない]での飲食[いんしょく]はご遠慮[えんりょ]ください。 | Xin vui lòng không ăn uống trong khu vực này.
+お邪魔[じゃま]します | exp | TÀ MA | xin phép làm phiền (khi vào nhà) | - | - | 「どうぞ、お入[はい]りください。」「お邪魔[じゃま]します。」 | "Mời anh vào." "Tôi xin phép làm phiền."
+邪魔[じゃま] | n,adj-na | TÀ MA | cản trở, quấy rầy | 邪魔[じゃま] に なる | gây vướng víu | ここに自転車[じてんしゃ]を置[お]くと、通[とお]る人[ひと]の邪魔[じゃま]になります。 | Để xe đạp ở đây sẽ gây vướng cho người đi qua.
+絶対[ぜったい] | adv,n | TUYỆT ĐỐI | nhất định, tuyệt đối | - | - | 約束[やくそく]は絶対[ぜったい]に守[まも]ります。 | Tôi nhất định giữ lời hứa.
+決[けっ]して | adv | QUYẾT | tuyệt đối không | 決[けっ]して 忘[わす]れない | không bao giờ quên | ご恩[おん]は決[けっ]して忘[わす]れません。 | Ơn này tôi không bao giờ quên.
+全[まった]く | adv | TOÀN | hoàn toàn | 全[まった]く 知[し]らない | hoàn toàn không biết | その話[はなし]は全[まった]く知[し]りませんでした。 | Chuyện đó tôi hoàn toàn không biết.
+ほとんど | adv,n | - | hầu hết; hầu như | - | - | 宿題[しゅくだい]はほとんど終[お]わりました。 | Bài tập hầu như đã xong.
+なかなか | adv | - | mãi mà (không); khá | なかなか 来[こ]ない | mãi không đến | バスがなかなか来[き]ません。 | Xe buýt mãi không đến.
+だいぶ | adv | - | khá nhiều, đáng kể | - | - | 日本語[にほんご]がだいぶ上手[じょうず]になりましたね。 | Tiếng Nhật của bạn đã khá lên nhiều nhỉ.
+ずいぶん | adv | - | khá là, rất | - | - | ずいぶん背[せ]が高[たか]くなりましたね。 | Cháu đã cao lên nhiều quá nhỉ.
+かなり | adv | - | khá, tương đối | - | - | 今日[きょう]はかなり寒[さむ]いです。 | Hôm nay khá lạnh.
+特[とく]に | adv | ĐẶC | đặc biệt là | - | - | 日本[にほん]料理[りょうり]の中[なか]で、特[とく]に寿司[すし]が好[す]きです。 | Trong các món Nhật, tôi đặc biệt thích sushi.
+ずっと | adv | - | suốt; hơn hẳn | ずっと 待[ま]つ | đợi suốt | 朝[あさ]からずっと待[ま]っています。 | Tôi đã đợi suốt từ sáng.
+しばらく | adv | - | một lúc; một thời gian | - | - | しばらくお待[ま]ちください。 | Xin đợi một lát.
+そろそろ | adv | - | sắp sửa; đến lúc | - | - | そろそろ帰[かえ]りましょうか。 | Đến lúc về rồi nhỉ.
+やっと | adv | - | cuối cùng thì (sau khi chờ) | - | - | やっと仕事[しごと]が終[お]わりました。 | Cuối cùng công việc cũng xong.
+とうとう | adv | - | rốt cuộc | - | - | とうとう雨[あめ]が降[ふ]り出[だ]しました。 | Rốt cuộc trời cũng đổ mưa.
+さっき | adv,n | - | vừa nãy | - | - | さっき田中[たなか]さんから電話[でんわ]がありました。 | Vừa nãy anh Tanaka gọi điện đến.
+最近[さいきん] | n,adv | TỐI CẬN | gần đây | - | - | 最近[さいきん]、よく眠[ねむ]れません。 | Gần đây tôi ngủ không ngon.
+この間[あいだ] | n,adv | GIAN | hôm nọ | - | - | この間[あいだ]はごちそうさまでした。 | Cảm ơn bữa ăn hôm nọ.
+これから | adv | - | từ bây giờ | - | - | これからもよろしくお願[ねが]いします。 | Từ nay về sau mong được anh chiếu cố.
+今度[こんど] | n,adv | KIM ĐỘ | lần này; lần tới | - | - | 今度[こんど]一緒[いっしょ]に飲[の]みに行[い]きましょう。 | Lần tới mình cùng đi uống nhé.
+急[きゅう]に | adv | CẤP | đột nhiên | - | - | 急[きゅう]に雨[あめ]が降[ふ]ってきました。 | Đột nhiên trời đổ mưa.
+突然[とつぜん] | adv,adj-na | ĐỘT NHIÊN | bất ngờ | - | - | 突然[とつぜん]電気[でんき]が消[き]えました。 | Bất ngờ điện tắt phụt.
+すっかり | adv | - | hoàn toàn | すっかり 忘[わす]れる | quên sạch | 約束[やくそく]をすっかり忘[わす]れていました。 | Tôi đã quên sạch cuộc hẹn.
+しっかり | adv,v3 | - | chắc chắn, vững vàng | しっかり 休[やす]む | nghỉ ngơi đầy đủ | 今日[きょう]はしっかり休[やす]んでください。 | Hôm nay hãy nghỉ ngơi đầy đủ.
+はっきり | adv,v3 | - | rõ ràng | はっきり 言[い]う | nói rõ | 嫌[いや]ならはっきり言[い]ってください。 | Nếu không thích thì cứ nói rõ ra.
+たまに | adv | - | thỉnh thoảng, đôi khi | - | - | たまに外[そと]で食事[しょくじ]します。 | Thỉnh thoảng tôi ăn ngoài.
+ぜひ | adv | - | nhất định (mời, mong) | - | - | ぜひ一度[いちど]遊[あそ]びに来[き]てください。 | Nhất định hãy đến chơi một lần nhé.
+もちろん | adv | - | tất nhiên | - | - | もちろん、私[わたし]も行[い]きます。 | Tất nhiên tôi cũng đi.
+やっぱり | adv | - | quả nhiên, rốt cuộc vẫn | - | - | やっぱり家[いえ]が一番[いちばん]落[お]ち着[つ]きます。 | Quả nhiên ở nhà là thoải mái nhất.
+なるべく | adv | - | cố gắng hết mức | なるべく 早[はや]く | càng sớm càng tốt | なるべく早[はや]く返事[へんじ]をください。 | Hãy trả lời càng sớm càng tốt.
+できるだけ | adv | - | trong khả năng có thể | - | - | できるだけ毎日[まいにち]運動[うんどう]するようにしています。 | Tôi cố gắng vận động mỗi ngày trong khả năng.
+実[じつ]は | adv | THỰC | thật ra là | - | - | 実[じつ]は来月[らいげつ]結婚[けっこん]するんです。 | Thật ra là tháng sau tôi kết hôn.
+実際[じっさい] | n,adv | THỰC TẾ | thực tế | - | - | 実際[じっさい]にやってみると、思[おも]ったより難[むずか]しかったです。 | Thử làm thực tế thì khó hơn tôi nghĩ.
+さすが | adv | - | đúng là (khen ngợi) | - | - | さすがプロですね。 | Đúng là dân chuyên nghiệp có khác.
+別[べつ]に | adv | BIỆT | (không) đặc biệt gì | - | - | 別[べつ]に何[なに]も問題[もんだい]はありません。 | Không có vấn đề gì đặc biệt cả.
+ちょうど | adv | - | vừa đúng | ちょうど いい | vừa đẹp | このサイズがちょうどいいです。 | Cỡ này vừa đẹp.
+確[たし]か | adj-na,adv | XÁC | chắc chắn; hình như | - | - | 確[たし]か、会議[かいぎ]は三[さん]時[じ]からでした。 | Hình như cuộc họp bắt đầu từ ba giờ.
+まるで | adv | - | cứ như là | - | - | まるで夢[ゆめ]のようです。 | Cứ như là mơ vậy.
+どうしても | adv | - | dù thế nào cũng | - | - | どうしてもこの映画[えいが]が見[み]たいです。 | Dù thế nào tôi cũng muốn xem bộ phim này.
+一体[いったい] | adv | NHẤT THỂ | rốt cuộc là (nhấn mạnh câu hỏi) | - | - | 一体[いったい]何[なに]があったんですか。 | Rốt cuộc đã có chuyện gì vậy?
+いつか | adv | - | một ngày nào đó | - | - | いつか富士山[ふじさん]に登[のぼ]りたいです。 | Một ngày nào đó tôi muốn leo núi Phú Sĩ.
+いつでも | adv | - | bất cứ lúc nào | - | - | 困[こま]ったら、いつでも連絡[れんらく]してください。 | Gặp khó khăn thì liên lạc bất cứ lúc nào nhé.
+どこでも | adv | - | ở bất cứ đâu | - | - | このカードはどこでも使[つか]えます。 | Thẻ này dùng được ở bất cứ đâu.
+もし | adv | - | nếu như | - | - | もし雨[あめ]が降[ふ]ったら、試合[しあい]は中止[ちゅうし]です。 | Nếu trời mưa thì trận đấu sẽ hủy.
+例[たと]え | adv | LỆ | cho dù | - | - | 例[たと]え反対[はんたい]されても、留学[りゅうがく]します。 | Cho dù bị phản đối tôi vẫn đi du học.
+それで | conj | - | vì thế, thế nên | - | - | 寝坊[ねぼう]しました。それで、遅刻[ちこく]しました。 | Tôi ngủ quên. Thế nên đến muộn.
+それに | conj | - | hơn nữa | - | - | この部屋[へや]は広[ひろ]いです。それに、駅[えき]から近[ちか]いです。 | Phòng này rộng. Hơn nữa lại gần ga.
+けれども | conj | - | tuy nhiên | - | - | 雨[あめ]が降[ふ]っていました。けれども、試合[しあい]は行[おこな]われました。 | Trời mưa. Tuy vậy trận đấu vẫn diễn ra.
+ところが | conj | - | thế nhưng (trái dự đoán) | - | - | 簡単[かんたん]だと思[おも]いました。ところが、とても難[むずか]しかったです。 | Tôi nghĩ là dễ. Thế nhưng lại rất khó.
+ところで | conj | - | nhân tiện, à này | - | - | ところで、来週[らいしゅう]の予定[よてい]はどうですか。 | À này, lịch tuần sau thế nào?
+すると | conj | - | thế là, ngay sau đó | - | - | ボタンを押[お]しました。すると、ドアが開[あ]きました。 | Tôi ấn nút. Thế là cửa mở ra.
+または | conj | - | hoặc là | - | - | 電話[でんわ]、またはメールで連絡[れんらく]してください。 | Hãy liên lạc bằng điện thoại hoặc email.
+それとも | conj | - | hay là (trong câu hỏi) | - | - | コーヒーにしますか、それとも紅茶[こうちゃ]にしますか。 | Bạn uống cà phê hay hồng trà?
+つまり | conj,adv | - | tóm lại, nghĩa là | - | - | つまり、明日[あした]は休[やす]みということですね。 | Tóm lại là mai được nghỉ phải không?
+なぜなら | conj | - | bởi vì | - | - | 日本[にほん]が好[す]きです。なぜなら、人[ひと]が親切[しんせつ]だからです。 | Tôi thích Nhật. Bởi vì người ở đây tử tế.
+なぜ | q | - | tại sao | - | - | なぜ日本語[にほんご]を勉強[べんきょう]しているんですか。 | Tại sao bạn học tiếng Nhật?
+そのうえ | conj | - | hơn nữa, thêm vào đó | - | - | 彼[かれ]は頭[あたま]がいい。そのうえ、スポーツも得意[とくい]だ。 | Anh ấy thông minh. Hơn nữa còn giỏi thể thao.
+すみませんが | exp | - | xin lỗi nhưng… | - | - | すみませんが、もう一度[いちど]言[い]っていただけますか。 | Xin lỗi, anh nói lại lần nữa được không ạ?
+ありがたい | adj-i | - | đáng quý, biết ơn | - | - | 手伝[てつだ]ってもらえると、本当[ほんとう]にありがたいです。 | Được giúp thì tôi thật sự biết ơn.
+おかげ | n | - | nhờ có | おかげ で | nhờ vào | 皆[みな]さんのおかげで合格[ごうかく]できました。 | Nhờ mọi người mà tôi đã thi đỗ.
+せい | n | - | tại, do (nguyên nhân xấu) | - | - | 雨[あめ]のせいで試合[しあい]が中止[ちゅうし]になりました。 | Tại trời mưa mà trận đấu bị hủy.
+返事[へんじ] | n,v3 | PHẢN SỰ | trả lời, hồi âm | 返事[へんじ] を する | trả lời | メールの返事[へんじ]が遅[おそ]くなってすみません。 | Xin lỗi vì trả lời email muộn.
+返信[へんしん] | n,v3 | PHẢN TÍN | hồi âm (tin nhắn, thư) | - | - | 確認[かくにん]したら、返信[へんしん]をお願[ねが]いします。 | Xác nhận xong xin vui lòng hồi âm.
+お知[し]らせ | n | TRI | thông báo | - | - | 会社[かいしゃ]からのお知[し]らせをよく読[よ]んでください。 | Hãy đọc kỹ thông báo từ công ty.
+知[し]らせる | v2 | TRI | thông báo cho | 結果[けっか] を 知[し]らせる | báo kết quả | 結果[けっか]が出[で]たら、すぐ知[し]らせます。 | Có kết quả tôi sẽ báo ngay.
+伝言[でんごん] | n,v3 | TRUYỀN NGÔN | lời nhắn | 伝言[でんごん] を 頼[たの]む | nhờ nhắn lại | 田中[たなか]さんへの伝言[でんごん]をお願[ねが]いできますか。 | Tôi nhờ anh nhắn lại cho anh Tanaka được không?
+折[お]り返[かえ]し | n,adv | CHIẾT PHẢN | gọi lại | 折[お]り返[かえ]し 電話[でんわ] する | gọi lại sau | 戻[もど]りましたら、折[お]り返[かえ]しお電話[でんわ]いたします。 | Khi anh ấy về, chúng tôi sẽ gọi lại ạ.
+失礼[しつれい]ですが | exp | THẤT LỄ | xin thứ lỗi, nhưng… | - | - | 失礼[しつれい]ですが、お名前[なまえ]は。 | Xin thứ lỗi, quý danh của ông là gì ạ?
+気持[きも]ちばかり | exp | KHÍ TRÌ | chút lòng thành | - | - | 気持[きも]ちばかりですが、どうぞお受[う]け取[と]りください。 | Đây là chút lòng thành, xin hãy nhận cho.
+つまらないものですが | exp | - | chút quà mọn | - | - | つまらないものですが、どうぞ。 | Chút quà mọn, xin mời anh nhận cho.
+いただきもの | n | - | quà được biếu | - | - | これはいただきものですが、皆[みな]さんでどうぞ。 | Đây là quà tôi được biếu, mời mọi người cùng dùng.
+手土産[てみやげ] | n | THỦ THỔ SẢN | quà mang theo khi thăm | - | - | 上司[じょうし]の家[いえ]に手土産[てみやげ]を持[も]っていきました。 | Tôi mang quà đến thăm nhà cấp trên.
+上座[かみざ] | n | THƯỢNG TỌA | ghế danh dự | - | - | お客様[きゃくさま]には上座[かみざ]に座[すわ]っていただきます。 | Mời khách ngồi ghế danh dự.
+時間[じかん]を守[まも]る | exp | THỜI GIAN THỦ | đúng giờ | - | - | 日本[にほん]では時間[じかん]を守[まも]ることがとても大切[たいせつ]です。 | Ở Nhật đúng giờ là điều rất quan trọng.
+挨拶状[あいさつじょう] | n | AI TẠT TRẠNG | thư chào hỏi | - | - | 引[ひ]っ越[こ]しの挨拶状[あいさつじょう]を出[だ]しました。 | Tôi đã gửi thư chào hỏi khi chuyển nhà.
+年賀状[ねんがじょう] | n | NIÊN HẠ TRẠNG | thiệp chúc Tết | 年賀状[ねんがじょう] を 出[だ]す | gửi thiệp chúc Tết | 毎年[まいとし]、先生[せんせい]に年賀状[ねんがじょう]を出[だ]しています。 | Năm nào tôi cũng gửi thiệp chúc Tết cho thầy.

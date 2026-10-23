@@ -1,0 +1,187 @@
+@topic t15
+@ja 生活[せいかつ]・家事[かじ]・消費[しょうひ]
+@vi Sinh hoạt, việc nhà và tiêu dùng
+@desc Nhà ở, quần áo, đồ dùng, nấu nướng, dọn dẹp, mua sắm và các động từ thao tác với đồ vật hằng ngày.
+炊事[すいじ] | n,v3 | XUY SỰ | việc bếp núc | {炊事} 場[ば] | khu nấu ăn | キャンプ場[じょう]の炊事[すいじ]場[ば]でカレーを作[つく]った。 | Chúng tôi nấu cà ri ở khu nấu ăn của bãi cắm trại.
+整頓[せいとん] | n,v3 | CHỈNH ĐỐN | sắp xếp gọn gàng | 整理[せいり] {整頓} | dọn dẹp ngăn nắp | 机[つくえ]の上[うえ]をいつも整頓[せいとん]しておく。 | Tôi luôn giữ mặt bàn gọn gàng.
+染[し]み | n | NHIỄM | vết bẩn, vết ố | {染み} が つく | bị dính vết bẩn | 白[しろ]いシャツにコーヒーの染[し]みがついた。 | Áo sơ mi trắng bị dính vết cà phê.
+雑巾[ぞうきん] | n | TẠP CÂN | giẻ lau | {雑巾} を 絞[しぼ]る | vắt giẻ lau | 雑巾[ぞうきん]で床[ゆか]をふいた。 | Tôi lau sàn bằng giẻ.
+ほうき | n | - | cái chổi | - | - | ほうきで玄関[げんかん]を掃[は]いた。 | Tôi quét lối vào bằng chổi.
+ちりとり | n | - | cái hốt rác | - | - | ほうきとちりとりでごみを集[あつ]めた。 | Tôi gom rác bằng chổi và hốt rác.
+漂白剤[ひょうはくざい] | n | PHIÊU BẠCH TỄ | thuốc tẩy | - | - | 漂白剤[ひょうはくざい]を使[つか]うときは換気[かんき]をしてください。 | Khi dùng thuốc tẩy hãy mở thông gió.
+柔軟剤[じゅうなんざい] | n | NHU NHUYỄN TỄ | nước xả vải | - | - | 柔軟剤[じゅうなんざい]を入[い]れるとタオルがふわふわになる。 | Cho nước xả vải vào thì khăn mềm mại.
+排水口[はいすいこう] | n | BÀI THỦY KHẨU | lỗ thoát nước | {排水口} が 詰[つ]まる | lỗ thoát nước bị tắc | 台所[だいどころ]の排水口[はいすいこう]が詰[つ]まった。 | Lỗ thoát nước trong bếp bị tắc.
+水漏[みずも]れ | n,v3 | THỦY LẬU | rò nước | - | - | 上[うえ]の階[かい]から水漏[みずも]れがした。 | Nước rò từ tầng trên xuống.
+結露[けつろ] | n,v3 | KẾT LỘ | đọng sương, hơi nước ngưng | - | - | 冬[ふゆ]は窓[まど]が結露[けつろ]してびしょびしょになる。 | Mùa đông cửa sổ đọng hơi nước ướt nhẹp.
+加湿器[かしつき] | n | GIA THẤP KHÍ | máy tạo độ ẩm | - | - | 乾燥[かんそう]する季節[きせつ]は加湿器[かしつき]が欠[か]かせない。 | Mùa hanh khô không thể thiếu máy tạo ẩm.
+除湿[じょしつ] | n,v3 | TRỪ THẤP | hút ẩm | {除湿} 機[き] | máy hút ẩm | 梅雨[つゆ]の時期[じき]はエアコンで除湿[じょしつ]する。 | Mùa mưa tôi dùng điều hòa để hút ẩm.
+蛍光灯[けいこうとう] | n | HUỲNH QUANG ĐĂNG | đèn huỳnh quang | - | - | 切[き]れた蛍光灯[けいこうとう]を新[あたら]しいものと取[と]り替[か]えた。 | Tôi thay bóng đèn huỳnh quang đã cháy.
+延長[えんちょう]コード | n | DIÊN TRƯỜNG | dây nối điện | - | - | 延長[えんちょう]コードで掃除機[そうじき]をつないだ。 | Tôi cắm máy hút bụi bằng dây nối.
+コード | n | - | dây điện; mã | {コード} を 抜[ぬ]く | rút dây điện | 使[つか]わないときはコードを抜[ぬ]いておきましょう。 | Khi không dùng hãy rút dây điện ra.
+充電器[じゅうでんき] | n | SUNG ĐIỆN KHÍ | bộ sạc | - | - | スマホの充電器[じゅうでんき]をホテルに忘[わす]れた。 | Tôi để quên sạc điện thoại ở khách sạn.
+イヤホン | n | - | tai nghe | - | - | 電車[でんしゃ]ではイヤホンで音楽[おんがく]を聞[き]く。 | Trên tàu tôi nghe nhạc bằng tai nghe.
+メーター | n | - | đồng hồ đo | ガス の {メーター} | đồng hồ ga | 毎月[まいつき]電気[でんき]のメーターを確認[かくにん]しに来[く]る。 | Hàng tháng có người đến kiểm tra đồng hồ điện.
+キー | n | - | chìa khóa; phím | - | - | 車[くるま]のキーが見当[みあ]たらない。 | Không thấy chìa khóa xe đâu.
+冷凍庫[れいとうこ] | n | LÃNH ĐÔNG KHỐ | ngăn đá | - | - | 冷凍庫[れいとうこ]に作[つく]り置[お]きのおかずを入[い]れておく。 | Tôi để sẵn các món nấu trước trong ngăn đá.
+食器棚[しょっきだな] | n | THỰC KHÍ BẰNG | tủ bát đĩa | - | - | 洗[あら]った皿[さら]を食器棚[しょっきだな]にしまった。 | Tôi cất đĩa đã rửa vào tủ bát.
+やかん | n | - | ấm đun nước | - | - | やかんでお湯[ゆ]を沸[わ]かした。 | Tôi đun nước bằng ấm.
+湯気[ゆげ] | n | THANG KHÍ | hơi nước | {湯気} が 立[た]つ | bốc hơi nước | 鍋[なべ]から白[しろ]い湯気[ゆげ]が立[た]っている。 | Từ nồi đang bốc lên làn hơi trắng.
+煮[に]える | v2 | CHỬ | được nấu chín | - | - | じゃがいもがよく煮[に]えたら火[ひ]を止[と]める。 | Khoai tây chín mềm thì tắt bếp.
+塩加減[しおかげん] | n | DIÊM GIA GIẢM | độ mặn vừa ăn | - | - | スープの塩加減[しおかげん]がちょうどいい。 | Độ mặn của canh vừa ăn.
+隠[かく]し味[あじ] | n | ẨN VỊ | gia vị bí mật | - | - | カレーの隠[かく]し味[あじ]にチョコレートを入[い]れる。 | Tôi cho sô-cô-la làm gia vị bí mật vào cà ri.
+下味[したあじ] | n | HẠ VỊ | ướp sơ | {下味} を つける | ướp gia vị trước | 肉[にく]に塩[しお]とこしょうで下味[したあじ]をつける。 | Ướp thịt trước với muối và tiêu.
+消費[しょうひ]期限[きげん] | n | TIÊU PHÍ KỲ HẠN | hạn sử dụng | - | - | 弁当[べんとう]は消費[しょうひ]期限[きげん]を確認[かくにん]してから買[か]う。 | Kiểm tra hạn sử dụng rồi mới mua cơm hộp.
+食費[しょくひ] | n | THỰC PHÍ | tiền ăn | {食費} を 抑[おさ]える | tiết chế tiền ăn | 自炊[じすい]して食費[しょくひ]を抑[おさ]えている。 | Tôi tự nấu để tiết chế tiền ăn.
+水道代[すいどうだい] | n | THỦY ĐẠO ĐẠI | tiền nước | - | - | 夏[なつ]は水道代[すいどうだい]が高[たか]くなる。 | Mùa hè tiền nước tăng lên.
+勘定[かんじょう] | n,v3 | KHÁM ĐỊNH | tính tiền | お {勘定} を お願[ねが]いします | tính tiền giúp | すみません、お勘定[かんじょう]をお願[ねが]いします。 | Xin lỗi, tính tiền giúp tôi.
+払[はら]い戻[もど]す | v1 | PHẤT LỆ | hoàn tiền | 料金[りょうきん] を {払い戻す} | hoàn lại tiền vé | 中止[ちゅうし]になった公演[こうえん]のチケット代[だい]が払[はら]い戻[もど]された。 | Tiền vé buổi diễn bị hủy đã được hoàn lại.
+売[う]り切[き]れる | v2 | MẠI THIẾT | bán hết | - | - | 人気[にんき]のパンは昼[ひる]までに売[う]り切[き]れる。 | Loại bánh mì được ưa chuộng bán hết trước buổi trưa.
+券[けん] | n | KHOÁN | vé, phiếu | 食[しょっ] {券} | phiếu ăn | 入口[いりぐち]で入場[にゅうじょう]券[けん]を見[み]せてください。 | Hãy xuất trình vé vào cửa ở lối vào.
+バーゲン | n | - | đợt giảm giá | - | - | 年末[ねんまつ]のバーゲンでコートを買[か]った。 | Tôi mua áo khoác trong đợt giảm giá cuối năm.
+取[と]り寄[よ]せ | n | THỦ KÝ | đặt hàng về | - | - | その商品[しょうひん]はお取[と]り寄[よ]せになります。 | Mặt hàng đó phải đặt hàng về ạ.
+宅配[たくはい] | n,v3 | TRẠCH PHỐI | giao hàng tận nhà | {宅配} 便[びん] | dịch vụ chuyển phát | 実家[じっか]から宅配[たくはい]便[びん]で野菜[やさい]が届[とど]いた。 | Rau từ nhà gửi lên bằng dịch vụ chuyển phát.
+代引[だいび]き | n | ĐẠI DẪN | trả tiền khi nhận hàng | - | - | ネットで買[か]ったものを代引[だいび]きで受[う]け取[と]った。 | Tôi nhận hàng mua trên mạng và trả tiền khi nhận.
+保証[ほしょう]期間[きかん] | n | BẢO CHỨNG KỲ GIAN | thời gian bảo hành | - | - | 保証[ほしょう]期間[きかん]内[ない]なので無料[むりょう]で修理[しゅうり]できた。 | Vì còn bảo hành nên được sửa miễn phí.
+リサイクルショップ | n | - | cửa hàng đồ cũ | - | - | 使[つか]わなくなった家具[かぐ]をリサイクルショップに売[う]った。 | Tôi bán đồ nội thất không dùng nữa cho cửa hàng đồ cũ.
+フリマ | n | - | chợ đồ cũ | {フリマ} アプリ | ứng dụng bán đồ cũ | フリマアプリで古着[ふるぎ]を売[う]っている。 | Tôi bán quần áo cũ qua ứng dụng.
+消耗品[しょうもうひん] | n | TIÊU HAO PHẨM | đồ tiêu hao | - | - | トイレットペーパーなどの消耗品[しょうもうひん]をまとめ買[が]いした。 | Tôi mua gộp các đồ tiêu hao như giấy vệ sinh.
+消耗[しょうもう] | n,v3 | TIÊU HAO | hao mòn, kiệt sức | 体力[たいりょく] を {消耗} する | hao tổn thể lực | 暑[あつ]さで体力[たいりょく]を消耗[しょうもう]した。 | Trời nóng làm hao tổn thể lực.
+雑貨[ざっか] | n | TẠP HÓA | đồ tạp hóa, đồ lặt vặt | {雑貨} 店[てん] | cửa hàng đồ lặt vặt | 駅前[えきまえ]にかわいい雑貨[ざっか]店[てん]ができた。 | Trước ga mới mở một cửa hàng đồ lặt vặt dễ thương.
+生活[せいかつ]用品[ようひん] | n | SINH HOẠT DỤNG PHẨM | đồ dùng sinh hoạt | - | - | 引[ひ]っ越[こ]し先[さき]で生活[せいかつ]用品[ようひん]をそろえた。 | Tôi sắm đủ đồ dùng sinh hoạt ở nhà mới.
+敷地[しきち] | n | PHU ĐỊA | khuôn viên, khu đất | - | - | 学校[がっこう]の敷地[しきち]内[ない]は禁煙[きんえん]です。 | Trong khuôn viên trường cấm hút thuốc.
+集合[しゅうごう]住宅[じゅうたく] | n | TẬP HỢP TRỤ TRẠCH | nhà ở tập thể | - | - | 集合[しゅうごう]住宅[じゅうたく]では騒音[そうおん]に気[き]をつけよう。 | Ở nhà tập thể hãy chú ý tiếng ồn.
+分譲[ぶんじょう] | n,v3 | PHÂN NHƯỢNG | bán phân lô | {分譲} マンション | căn hộ để bán | 賃貸[ちんたい]より分譲[ぶんじょう]マンションを買[か]うほうが得[とく]だろうか。 | Mua căn hộ có lợi hơn thuê chăng?
+賃貸[ちんたい] | n | NHẪM THẢI | cho thuê | {賃貸} 住宅[じゅうたく] | nhà cho thuê | 結婚[けっこん]するまでは賃貸[ちんたい]に住[す]むつもりだ。 | Tôi định ở nhà thuê đến khi kết hôn.
+家主[やぬし] | n | GIA CHỦ | chủ nhà | - | - | 家主[やぬし]に修理[しゅうり]を頼[たの]んだ。 | Tôi nhờ chủ nhà sửa chữa.
+転居[てんきょ] | n,v3 | CHUYỂN CƯ | chuyển nhà | {転居} 届[とどけ] | đơn báo chuyển nhà | 郵便局[ゆうびんきょく]に転居[てんきょ]届[とどけ]を出[だ]した。 | Tôi nộp đơn báo chuyển nhà ở bưu điện.
+世帯[せたい] | n | THẾ ĐỚI | hộ gia đình | 単身[たんしん] {世帯} | hộ độc thân | 一人暮[ひとりぐ]らしの世帯[せたい]が増[ふ]えている。 | Số hộ sống một mình đang tăng.
+世帯主[せたいぬし] | n | THẾ ĐỚI CHỦ | chủ hộ | - | - | 書類[しょるい]に世帯主[せたいぬし]の名前[なまえ]を書[か]いてください。 | Hãy ghi tên chủ hộ vào giấy tờ.
+寝具[しんぐ] | n | TẨM CỤ | đồ dùng phòng ngủ | - | - | 季節[きせつ]に合[あ]わせて寝具[しんぐ]を替[か]える。 | Thay chăn đệm theo mùa.
+シーツ | n | - | ga trải giường | {シーツ} を 替[か]える | thay ga giường | 毎週[まいしゅう]日曜日[にちようび]にシーツを洗[あら]う。 | Chủ nhật hàng tuần tôi giặt ga giường.
+柱[はしら] | n | TRỤ | cột | - | - | この家[いえ]の柱[はしら]は百[ひゃく]年[ねん]前[まえ]の木[き]だ。 | Cột nhà này là gỗ từ một trăm năm trước.
+縁側[えんがわ] | n | DUYÊN TRẮC | hiên nhà kiểu Nhật | - | - | 祖父[そふ]は縁側[えんがわ]でお茶[ちゃ]を飲[の]むのが好[す]きだ。 | Ông thích ngồi uống trà ngoài hiên.
+網戸[あみど] | n | VÕNG HỘ | cửa lưới chống muỗi | - | - | 網戸[あみど]に穴[あな]があいて蚊[か]が入[はい]ってくる。 | Cửa lưới bị thủng nên muỗi bay vào.
+障子[しょうじ] | n | CHƯỚNG TỬ | cửa giấy kiểu Nhật | {障子} を 張[は]り替[か]える | dán lại cửa giấy | 年末[ねんまつ]に障子[しょうじ]を張[は]り替[か]えた。 | Cuối năm tôi dán lại cửa giấy.
+襖[ふすま] | n | ÁO | cửa kéo bằng giấy dày | - | - | 襖[ふすま]を開[あ]けると広[ひろ]い和室[わしつ]になる。 | Mở cửa kéo ra là thành phòng kiểu Nhật rộng.
+洋室[ようしつ] | n | DƯƠNG THẤT | phòng kiểu Tây | - | - | 寝室[しんしつ]は洋室[ようしつ]にしてベッドを置[お]いた。 | Phòng ngủ làm kiểu Tây và đặt giường.
+浴室[よくしつ] | n | DỤC THẤT | phòng tắm | - | - | 浴室[よくしつ]の換気扇[かんきせん]を回[まわ]しておく。 | Bật quạt thông gió trong phòng tắm.
+浴槽[よくそう] | n | DỤC TÀO | bồn tắm | - | - | 浴槽[よくそう]にお湯[ゆ]をためた。 | Tôi xả nước nóng vào bồn tắm.
+湯船[ゆぶね] | n | THANG THUYỀN | bồn tắm (nước nóng) | {湯船} に つかる | ngâm mình trong bồn | 疲[つか]れた日[ひ]は湯船[ゆぶね]にゆっくりつかる。 | Ngày mệt mỏi tôi ngâm mình thong thả trong bồn.
+物干[ものほ]し竿[ざお] | n | VẬT CAN CAN | sào phơi đồ | - | - | ベランダの物干[ものほ]し竿[ざお]に洗濯物[せんたくもの]を干[ほ]す。 | Phơi quần áo lên sào ở ban công.
+衣類[いるい] | n | Y LOẠI | quần áo các loại | - | - | 冬物[ふゆもの]の衣類[いるい]を箱[はこ]にしまった。 | Tôi cất quần áo mùa đông vào thùng.
+衣服[いふく] | n | Y PHỤC | y phục | - | - | 寄付[きふ]された衣服[いふく]を被災地[ひさいち]に送[おく]った。 | Quần áo quyên góp được gửi tới vùng thiên tai.
+衣装[いしょう] | n | Y TRANG | trang phục (biểu diễn) | 花嫁[はなよめ] {衣装} | trang phục cô dâu | 劇[げき]の衣装[いしょう]を手作[てづく]りした。 | Tôi tự may trang phục cho vở kịch.
+下着[したぎ] | n | HẠ TRƯỚC | đồ lót | - | - | 旅行[りょこう]用[よう]に下着[したぎ]を三[みっ]日[か]分[ぶん]用意[ようい]した。 | Tôi chuẩn bị đồ lót đủ ba ngày cho chuyến đi.
+手袋[てぶくろ] | n | THỦ ĐẠI | găng tay | {手袋} を はめる | đeo găng tay | 寒[さむ]いので手袋[てぶくろ]をはめて出[で]かけた。 | Trời lạnh nên tôi đeo găng tay ra ngoài.
+マフラー | n | - | khăn quàng cổ | {マフラー} を 巻[ま]く | quàng khăn | 母[はは]が編[あ]んでくれたマフラーを巻[ま]いた。 | Tôi quàng chiếc khăn mẹ đan cho.
+襟[えり] | n | KHÂM | cổ áo | - | - | シャツの襟[えり]が汚[よご]れている。 | Cổ áo sơ mi bị bẩn.
+袖[そで] | n | TỤ | tay áo | {袖} を まくる | xắn tay áo | 袖[そで]をまくって皿[さら]を洗[あら]った。 | Tôi xắn tay áo lên rửa bát.
+裾[すそ] | n | CỨ | gấu quần, vạt áo | - | - | ズボンの裾[すそ]が泥[どろ]で汚[よご]れた。 | Gấu quần bị dính bùn.
+裾上[すそあ]げ | n,v3 | CỨ THƯỢNG | lên gấu | - | - | 買[か]ったズボンを裾上[すそあ]げしてもらった。 | Tôi nhờ lên gấu chiếc quần mới mua.
+丈[たけ] | n | TRƯỢNG | chiều dài (áo, váy) | - | - | このスカートは丈[たけ]が少[すこ]し長[なが]い。 | Chiếc váy này hơi dài.
+裏地[うらじ] | n | LÍ ĐỊA | vải lót | - | - | 冬[ふゆ]のコートは裏地[うらじ]が暖[あたた]かい。 | Áo khoác mùa đông có lớp lót ấm.
+模様[もよう] | n | MÔ DẠNG | hoa văn; tình hình | 花[はな] の {模様} | họa tiết hoa | 花[はな]の模様[もよう]のハンカチをもらった。 | Tôi được tặng chiếc khăn tay họa tiết hoa.
+木綿[もめん] | n | MỘC MIÊN | vải bông | - | - | 木綿[もめん]のシャツは汗[あせ]をよく吸[す]う。 | Áo vải bông thấm mồ hôi tốt.
+麻[あさ] | n | MA | vải lanh, gai | - | - | 夏[なつ]は麻[あさ]の服[ふく]が涼[すず]しい。 | Mùa hè mặc đồ vải lanh mát mẻ.
+毛糸[けいと] | n | MAO MỊCH | sợi len | - | - | 毛糸[けいと]でセーターを編[あ]んだ。 | Tôi đan áo len bằng sợi len.
+ウール | n | - | len (lông cừu) | - | - | ウールのセーターは洗濯[せんたく]に気[き]をつける。 | Áo len lông cừu cần chú ý khi giặt.
+身[み]なり | n | THÂN | ăn mặc, diện mạo | {身なり} を 整[ととの]える | chỉnh trang | 彼[かれ]はいつも身[み]なりがきちんとしている。 | Anh ấy lúc nào cũng ăn mặc chỉnh tề.
+身[み]だしなみ | n | THÂN | vẻ chỉnh tề | - | - | 接客[せっきゃく]業[ぎょう]では身[み]だしなみが大切[たいせつ]だ。 | Trong ngành phục vụ, vẻ chỉnh tề rất quan trọng.
+着[き]こなし | n | TRƯỚC | cách phối đồ | - | - | 彼女[かのじょ]は着[き]こなしが上手[じょうず]だ。 | Cô ấy phối đồ rất khéo.
+流行遅[りゅうこうおく]れ | n | LƯU HÀNH TRÌ | lỗi mốt | - | - | このデザインはもう流行遅[りゅうこうおく]れだ。 | Thiết kế này đã lỗi mốt.
+髪型[かみがた] | n | PHÁT HÌNH | kiểu tóc | - | - | 髪型[かみがた]を変[か]えたら印象[いんしょう]が変[か]わった。 | Đổi kiểu tóc thì ấn tượng cũng khác hẳn.
+散髪[さんぱつ] | n,v3 | TÁN PHÁT | cắt tóc | - | - | 月[つき]に一度[いちど]散髪[さんぱつ]に行[い]く。 | Mỗi tháng tôi đi cắt tóc một lần.
+理髪店[りはつてん] | n | LÝ PHÁT ĐIẾM | tiệm cắt tóc | - | - | 近所[きんじょ]の理髪店[りはつてん]は五十[ごじゅう]年[ねん]続[つづ]いている。 | Tiệm cắt tóc gần nhà đã mở năm mươi năm.
+パーマ | n | - | uốn tóc | {パーマ} を かける | uốn tóc | 久[ひさ]しぶりにパーマをかけた。 | Lâu lắm rồi tôi mới đi uốn tóc.
+ひげ | n | - | râu | {ひげ} を そる | cạo râu | 毎朝[まいあさ]ひげをそる。 | Sáng nào tôi cũng cạo râu.
+爪切[つめき]り | n | TRẢO THIẾT | đồ bấm móng | - | - | 爪切[つめき]りはどこにある? | Đồ bấm móng tay ở đâu?
+櫛[くし] | n | TRẤT | cái lược | - | - | 櫛[くし]で髪[かみ]をとかした。 | Tôi chải tóc bằng lược.
+日傘[ひがさ] | n | NHẬT TẢN | ô che nắng | - | - | 夏[なつ]は日傘[ひがさ]を差[さ]す人[ひと]が多[おお]い。 | Mùa hè có nhiều người che ô chống nắng.
+折[お]り畳[たた]み傘[がさ] | n | CHIẾT ĐIỆP TẢN | ô gấp | - | - | かばんにいつも折[お]り畳[たた]み傘[がさ]を入[い]れている。 | Tôi luôn để ô gấp trong cặp.
+腕時計[うでどけい] | n | OẢN THỜI KẾ | đồng hồ đeo tay | - | - | 就職[しゅうしょく]祝[いわ]いに腕時計[うでどけい]をもらった。 | Tôi được tặng đồng hồ đeo tay mừng đi làm.
+指輪[ゆびわ] | n | CHỈ LUÂN | nhẫn | 結婚[けっこん] {指輪} | nhẫn cưới | 彼[かれ]は指輪[ゆびわ]を渡[わた]してプロポーズした。 | Anh ấy trao nhẫn và cầu hôn.
+首飾[くびかざ]り | n | THỦ SỨC | vòng cổ | - | - | 真珠[しんじゅ]の首飾[くびかざ]りをつけた。 | Tôi đeo chiếc vòng cổ ngọc trai.
+アクセサリー | n | - | đồ trang sức, phụ kiện | - | - | 手作[てづく]りのアクセサリーを売[う]っている。 | Tôi bán đồ trang sức tự làm.
+宝石[ほうせき] | n | BẢO THẠCH | đá quý | - | - | この指輪[ゆびわ]の宝石[ほうせき]は本物[ほんもの]だ。 | Viên đá quý trên nhẫn này là hàng thật.
+真珠[しんじゅ] | n | CHÂN CHÂU | ngọc trai | - | - | この地方[ちほう]は真珠[しんじゅ]の養殖[ようしょく]で有名[ゆうめい]だ。 | Vùng này nổi tiếng nuôi cấy ngọc trai.
+錠[じょう] | n | ĐĨNH | ổ khóa; viên thuốc | {錠} を かける | khóa lại | 倉庫[そうこ]の扉[とびら]に錠[じょう]をかけた。 | Tôi khóa cửa nhà kho.
+紐[ひも] | n | NỮU | dây | {紐} を 結[むす]ぶ | buộc dây | 靴[くつ]の紐[ひも]がほどけている。 | Dây giày bị tuột.
+縄[なわ] | n | THẰNG | dây thừng | {縄} 跳[と]び | nhảy dây | 子供[こども]たちが縄[なわ]跳[と]びをしている。 | Bọn trẻ đang nhảy dây.
+ロープ | n | - | dây thừng | - | - | 船[ふね]をロープで岸[きし]につないだ。 | Buộc thuyền vào bờ bằng dây thừng.
+輪[わ]ゴム | n | LUÂN | dây chun | - | - | 袋[ふくろ]の口[くち]を輪[わ]ゴムで留[と]めた。 | Tôi buộc miệng túi bằng dây chun.
+テープ | n | - | băng dính | - | - | 箱[はこ]をテープでしっかり留[と]めた。 | Tôi dán chặt thùng bằng băng dính.
+のり | n | - | hồ dán; rong biển | - | - | 封筒[ふうとう]をのりで貼[は]った。 | Tôi dán phong bì bằng hồ.
+はさみ | n | - | cái kéo | - | - | はさみで紙[かみ]を切[き]った。 | Tôi cắt giấy bằng kéo.
+カッター | n | - | dao rọc giấy | - | - | カッターで段[だん]ボールを開[あ]けた。 | Tôi mở thùng các-tông bằng dao rọc giấy.
+定規[じょうぎ] | n | ĐỊNH QUY | thước kẻ | - | - | 定規[じょうぎ]を使[つか]ってまっすぐな線[せん]を引[ひ]いた。 | Tôi dùng thước kẻ đường thẳng.
+ホッチキス | n | - | cái dập ghim | {ホッチキス} で 留[と]める | bấm ghim | 資料[しりょう]をホッチキスで留[と]めた。 | Tôi bấm ghim tài liệu.
+包[つつ]み | n | BAO | gói, bọc | - | - | 机[つくえ]の上[うえ]に小[ちい]さな包[つつ]みが置[お]いてあった。 | Trên bàn có đặt một gói nhỏ.
+缶[かん] | n | PHẪU | lon, hộp kim loại | - | - | 空[あ]き缶[かん]はこちらに捨[す]ててください。 | Vỏ lon xin bỏ vào đây.
+詰[つ]め替[か]え | n | CẬT THẾ | thay ruột, gói refill | {詰め替え} 用[よう] | loại để đổ lại | シャンプーは詰[つ]め替[か]え用[よう]を買[か]うと安[やす]い。 | Mua dầu gội loại túi đổ lại thì rẻ hơn.
+裁縫[さいほう] | n,v3 | TÀI PHÙNG | may vá | - | - | 母[はは]は裁縫[さいほう]が得意[とくい]だ。 | Mẹ tôi giỏi may vá.
+縫[ぬ]う | v1 | PHÙNG | may, khâu | ボタン を {縫う} | khâu cúc áo | 取[と]れたボタンを自分[じぶん]で縫[ぬ]った。 | Tôi tự khâu lại chiếc cúc bị bung.
+繕[つくろ]う | v1 | THIỆN | vá víu; chữa | - | - | 破[やぶ]れた靴下[くつした]を繕[つくろ]った。 | Tôi vá chiếc tất bị rách.
+針[はり] | n | CHÂM | kim | {針} に 糸[いと] を 通[とお]す | xâu kim | 年[とし]を取[と]って針[はり]に糸[いと]が通[とお]しにくくなった。 | Có tuổi rồi nên khó xâu kim.
+糸[いと] | n | MỊCH | sợi chỉ | - | - | 白[しろ]い糸[いと]でボタンを付[つ]けた。 | Tôi đính cúc bằng chỉ trắng.
+布[ぬの] | n | BỐ | vải | - | - | 余[あま]った布[ぬの]でかばんを作[つく]った。 | Tôi làm túi bằng vải thừa.
+生地[きじ] | n | SINH ĐỊA | vải; bột (bánh) | ピザ の {生地} | đế bánh pizza | このシャツは生地[きじ]が薄[うす]い。 | Áo sơ mi này vải mỏng.
+ほつれる | v2 | - | sổ chỉ, tưa ra | - | - | セーターの袖[そで]がほつれてきた。 | Tay áo len bắt đầu sổ chỉ.
+破[やぶ]れる | v2 | PHÁ | bị rách | - | - | 袋[ふくろ]が破[やぶ]れて中身[なかみ]が出[で]た。 | Túi bị rách nên đồ bên trong rơi ra.
+ほどける | v2 | - | bị tuột, bung ra | 紐[ひも] が {ほどける} | dây bị tuột | 歩[ある]いているうちに靴[くつ]紐[ひも]がほどけた。 | Đang đi thì dây giày tuột.
+ほどく | v1 | - | tháo, cởi (nút buộc) | 結[むす]び目[め] を {ほどく} | gỡ nút thắt | 固[かた]い結[むす]び目[め]をなかなかほどけない。 | Nút thắt chặt quá mãi không gỡ ra được.
+縛[しば]る | v1 | PHƯỢC | buộc, trói; ràng buộc | 規則[きそく] に {縛[しば]られる} | bị quy định trói buộc | 古新聞[ふるしんぶん]をひもで縛[しば]って出[だ]した。 | Tôi buộc báo cũ bằng dây rồi đem bỏ.
+絞[しぼ]る | v1 | GIẢO | vắt; thu hẹp | タオル を {絞る} | vắt khăn | ぬれたタオルをよく絞[しぼ]って干[ほ]す。 | Vắt kỹ khăn ướt rồi phơi.
+すすぐ | v1 | - | xả, súc | 口[くち] を {すすぐ} | súc miệng | 洗剤[せんざい]が残[のこ]らないように、よくすすいでください。 | Hãy xả thật kỹ để không còn sót xà phòng.
+浸[つ]ける | v2 | TẨM | ngâm | 水[みず] に {浸ける} | ngâm vào nước | 豆[まめ]を一晩[ひとばん]水[みず]に浸[つ]けておく。 | Ngâm đậu trong nước qua đêm.
+浸[つ]かる | v1 | TẨM | ngâm mình, bị ngập | 温泉[おんせん] に {浸かる} | ngâm suối nóng | 大雨[おおあめ]で道路[どうろ]が水[みず]に浸[つ]かった。 | Mưa lớn làm đường bị ngập nước.
+染[し]み込[こ]む | v1 | NHIỄM NHẬP | ngấm vào | 味[あじ] が {染み込む} | thấm vị | 大根[だいこん]に味[あじ]がよく染[し]み込[こ]んでいる。 | Củ cải đã ngấm gia vị.
+薄[うす]める | v2 | BẠC | pha loãng | 水[みず] で {薄める} | pha loãng với nước | このジュースは水[みず]で薄[うす]めて飲[の]む。 | Nước ép này pha loãng với nước rồi uống.
+薄[うす]まる | v1 | BẠC | bị loãng ra | - | - | 氷[こおり]が溶[と]けて味[あじ]が薄[うす]まった。 | Đá tan khiến vị bị nhạt đi.
+削[けず]る | v1 | TƯỚC | gọt, bào; cắt giảm | 鉛筆[えんぴつ] を {削る} | gọt bút chì | 予算[よさん]を削[けず]られて計画[けいかく]を縮小[しゅくしょう]した。 | Bị cắt ngân sách nên phải thu nhỏ kế hoạch.
+剥[は]がす | v1 | BÁC | bóc, gỡ | シール を {剥がす} | bóc nhãn dán | 値札[ねふだ]をきれいに剥[は]がした。 | Tôi bóc sạch nhãn giá.
+挟[はさ]む | v1 | HIỆP | kẹp; xen vào | パン に {挟む} | kẹp vào bánh mì | ドアに指[ゆび]を挟[はさ]んで痛[いた]かった。 | Tôi bị kẹp ngón tay vào cửa, đau quá.
+挟[はさ]まる | v1 | HIỆP | bị kẹp | - | - | 歯[は]に食[た]べ物[もの]が挟[はさ]まった。 | Đồ ăn bị giắt vào kẽ răng.
+かぶせる | v2 | - | đậy, trùm lên | ふた を {かぶせる} | đậy nắp | 料理[りょうり]にラップをかぶせて冷蔵庫[れいぞうこ]に入[い]れた。 | Tôi bọc màng bọc thực phẩm rồi cho vào tủ lạnh.
+どける | v2 | - | dẹp sang một bên | 荷物[にもつ] を {どける} | dọn hành lý sang bên | 椅子[いす]の上[うえ]の荷物[にもつ]をどけてください。 | Hãy dọn hành lý trên ghế sang một bên.
+裏返[うらがえ]す | v1 | LÍ PHẢN | lộn trái, lật mặt sau | - | - | セーターを裏返[うらがえ]して洗濯機[せんたくき]に入[い]れる。 | Lộn trái áo len rồi cho vào máy giặt.
+つぶす | v1 | - | nghiền, làm bẹp; giết (thời gian) | 時間[じかん] を {つぶす} | giết thời gian | ゆでたじゃがいもをフォークでつぶす。 | Dùng nĩa nghiền khoai tây đã luộc.
+つぶれる | v2 | - | bị bẹp; phá sản | 店[みせ] が {つぶれる} | cửa hàng phá sản | 袋[ふくろ]の下[した]の卵[たまご]がつぶれていた。 | Quả trứng ở dưới đáy túi bị bẹp.
+へこむ | v1 | - | bị móp; chán nản | - | - | 自転車[じてんしゃ]をぶつけて車[くるま]のドアがへこんだ。 | Va xe đạp vào làm cửa ô tô bị móp.
+塞[ふさ]ぐ | v1 | TẮC | bịt, chặn | 耳[みみ] を {塞ぐ} | bịt tai | 大[おお]きな音[おと]に思[おも]わず耳[みみ]を塞[ふさ]いだ。 | Tiếng động lớn khiến tôi bất giác bịt tai.
+塞[ふさ]がる | v1 | TẮC | bị chặn, kín | 手[て] が {塞がる} | bận tay | 両手[りょうて]が荷物[にもつ]で塞[ふさ]がっている。 | Hai tay đang bận xách đồ.
+砕[くだ]く | v1 | TOÁI | đập vụn | 氷[こおり] を {砕く} | đập vụn đá | 氷[こおり]を細[こま]かく砕[くだ]いてジュースに入[い]れた。 | Tôi đập nhỏ đá rồi cho vào nước ép.
+砕[くだ]ける | v2 | TOÁI | vỡ vụn | - | - | 落[お]としたコップが粉々[こなごな]に砕[くだ]けた。 | Chiếc cốc rơi xuống vỡ vụn.
+散[ち]らばる | v1 | TÁN | vương vãi, rải rác | - | - | 床[ゆか]におもちゃが散[ち]らばっている。 | Đồ chơi vương vãi khắp sàn.
+転[ころ]がる | v1 | CHUYỂN | lăn | - | - | ボールが道路[どうろ]に転[ころ]がっていった。 | Quả bóng lăn ra đường.
+転[ころ]がす | v1 | CHUYỂN | lăn (cái gì) | - | - | 雪[ゆき]の玉[たま]を転[ころ]がして雪[ゆき]だるまを作[つく]った。 | Tôi lăn quả cầu tuyết để làm người tuyết.
+粒[つぶ] | n | LẠP | hạt | {粒} が そろう | hạt đều | 米[こめ]の一粒[ひとつぶ]も無駄[むだ]にしない。 | Không lãng phí dù một hạt gạo.
+くず | n | - | vụn, rác vụn | 紙[かみ] {くず} | giấy vụn | パンのくずが床[ゆか]に落[お]ちている。 | Vụn bánh mì rơi trên sàn.
+倉庫[そうこ] | n | THƯƠNG KHỐ | nhà kho | - | - | 使[つか]わない机[つくえ]は倉庫[そうこ]に運[はこ]んだ。 | Bàn không dùng đã được chuyển vào kho.
+運[はこ]び込[こ]む | v1 | VẬN NHẬP | chuyển vào | - | - | 新[あたら]しい冷蔵庫[れいぞうこ]が台所[だいどころ]に運[はこ]び込[こ]まれた。 | Chiếc tủ lạnh mới đã được chuyển vào bếp.
+詰[つ]め込[こ]む | v1 | CẬT NHẬP | nhồi nhét | かばん に {詰め込む} | nhét vào cặp | 試験[しけん]前[まえ]に知識[ちしき]を詰[つ]め込[こ]んだ。 | Trước kỳ thi tôi nhồi nhét kiến thức.
+詰[つ]め合[あ]わせる | v2 | CẬT HỢP | xếp chung vào một hộp | - | - | いろいろなお菓子[かし]を箱[はこ]に詰[つ]め合[あ]わせた。 | Tôi xếp nhiều loại bánh kẹo vào chung một hộp.
+注[そそ]ぎ込[こ]む | v1 | CHÚ NHẬP | đổ vào, dồn vào | - | - | 彼[かれ]は貯金[ちょきん]を全部[ぜんぶ]趣味[しゅみ]に注[そそ]ぎ込[こ]んだ。 | Anh ấy dồn hết tiền tiết kiệm vào sở thích.
+持[も]ち出[だ]す | v1 | TRÌ XUẤT | mang ra ngoài; đưa ra (chuyện) | - | - | 会社[かいしゃ]の資料[しりょう]を外[そと]に持[も]ち出[だ]してはいけない。 | Không được mang tài liệu công ty ra ngoài.
+貸[か]し出[だ]す | v1 | THẢI XUẤT | cho mượn ra ngoài | - | - | 図書館[としょかん]は一人[ひとり]十[じゅっ]冊[さつ]まで本[ほん]を貸[か]し出[だ]している。 | Thư viện cho mượn tối đa mười cuốn mỗi người.
+計[はか]る | v1 | KẾ | đo, tính | 時間[じかん] を {計る} | bấm giờ | ストップウォッチで時間[じかん]を計[はか]った。 | Tôi bấm giờ bằng đồng hồ bấm giây.
+匂[にお]う | v1 | MÙI | tỏa mùi | - | - | 台所[だいどころ]からカレーが匂[にお]ってくる。 | Mùi cà ri bay ra từ bếp.
+煙[けむ]い | adj-i | YÊN | đầy khói, cay mắt vì khói | - | - | 焼肉[やきにく]屋[や]は少[すこ]し煙[けむ]い。 | Quán nướng hơi nhiều khói.
+湿[しめ]る | v1 | THẤP | ẩm ướt | - | - | 雨[あめ]の日[ひ]は洗濯物[せんたくもの]が湿[しめ]ったままだ。 | Ngày mưa quần áo phơi vẫn còn ẩm.
+整[ととの]える | v2 | CHỈNH | sắp xếp, chuẩn bị chu đáo | 準備[じゅんび] を {整える} | chuẩn bị đầy đủ | 髪[かみ]を整[ととの]えてから出[で]かけた。 | Tôi chải chuốt tóc rồi mới ra ngoài.
+蓄[たくわ]える | v2 | SÚC | tích trữ | 食料[しょくりょう] を {蓄える} | tích trữ lương thực | 冬[ふゆ]に備[そな]えて薪[まき]を蓄[たくわ]えた。 | Tôi tích trữ củi để chuẩn bị cho mùa đông.
+備[そな]わる | v1 | BỊ | được trang bị, sẵn có | - | - | この部屋[へや]には家具[かぐ]が備[そな]わっている。 | Căn phòng này đã có sẵn đồ đạc.
+予備[よび] | n | DỰ BỊ | dự phòng | {予備} の 電池[でんち] | pin dự phòng | 予備[よび]の鍵[かぎ]を母[はは]に預[あず]けている。 | Tôi gửi mẹ giữ chìa khóa dự phòng.
+付属[ふぞく] | n,v3 | PHÓ THUỘC | đi kèm, trực thuộc | {付属} 品[ひん] | phụ kiện kèm theo | 付属[ふぞく]のケーブルで充電[じゅうでん]してください。 | Hãy sạc bằng cáp đi kèm.
+用途[ようと] | n | DỤNG ĐỒ | công dụng | {用途} が 広[ひろ]い | nhiều công dụng | この布[ぬの]は用途[ようと]が広[ひろ]くて便利[べんり]だ。 | Tấm vải này nhiều công dụng, rất tiện.
+所有[しょゆう] | n,v3 | SỞ HỮU | sở hữu | 土地[とち] を {所有} する | sở hữu đất | 彼[かれ]は都心[としん]にビルを所有[しょゆう]している。 | Ông ấy sở hữu một tòa nhà ở trung tâm.
+カバー | n,v3 | - | vỏ bọc; bù đắp | 本[ほん] の {カバー} | bìa bọc sách | 同僚[どうりょう]のミスをカバーした。 | Tôi bù đắp cho lỗi của đồng nghiệp.
+カット | n,v3 | - | cắt | - | - | 髪[かみ]を短[みじか]くカットした。 | Tôi cắt tóc ngắn.
+インテリア | n | - | nội thất | - | - | 北欧[ほくおう]風[ふう]のインテリアが好[す]きだ。 | Tôi thích nội thất phong cách Bắc Âu.
+スペース | n | - | không gian, chỗ trống | {スペース} を 取[と]る | chiếm chỗ | ソファーは場所[ばしょ]のスペースを取[と]る。 | Ghế sofa chiếm nhiều không gian.
+コーナー | n | - | góc, khu vực | 食品[しょくひん] {コーナー} | khu thực phẩm | 子供[こども]服[ふく]のコーナーは三[さん]階[がい]です。 | Khu quần áo trẻ em ở tầng ba.
+カウンター | n | - | quầy | - | - | カウンターの席[せき]で寿司[すし]を食[た]べた。 | Tôi ăn sushi ở ghế quầy.
+キャッシュ | n | - | tiền mặt | - | - | 支払[しはら]いはキャッシュでお願[ねが]いします。 | Xin thanh toán bằng tiền mặt.
+エコノミー | n | - | hạng phổ thông; kinh tế | {エコノミー} クラス | hạng phổ thông | 飛行機[ひこうき]はいつもエコノミークラスに乗[の]る。 | Tôi luôn đi máy bay hạng phổ thông.
+豪華[ごうか] | adj-na | HÀO HOA | xa hoa, sang trọng | {豪華} な 料理[りょうり] | món ăn thịnh soạn | 結婚式[けっこんしき]で豪華[ごうか]な料理[りょうり]が出[で]た。 | Ở đám cưới có những món ăn thịnh soạn.
+手軽[てがる] | adj-na | THỦ KHINH | dễ dàng, tiện lợi | {手軽} に 作[つく]れる | làm dễ dàng | 電子[でんし]レンジで手軽[てがる]に作[つく]れる料理[りょうり]を紹介[しょうかい]します。 | Tôi xin giới thiệu món có thể làm dễ dàng bằng lò vi sóng.
+栓[せん] | n | XUYÊN | nút, van | {栓} を 抜[ぬ]く | rút nút | ワインの栓[せん]がなかなか抜[ぬ]けない。 | Nút chai rượu vang mãi không rút ra được.

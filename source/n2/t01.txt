@@ -1,0 +1,191 @@
+@topic t01
+@ja 経済[けいざい]・ビジネス
+@vi Kinh tế và kinh doanh
+@desc Thị trường, giá cả, tài chính, thương mại và ngôn ngữ dùng khi đọc tin kinh tế hay trao đổi chuyện làm ăn.
+好況[こうきょう] | n | HẢO HUỐNG | kinh tế thịnh vượng | - | - | 好況[こうきょう]が続[つづ]き、ボーナスも増[ふ]えた。 | Kinh tế thịnh vượng kéo dài, tiền thưởng cũng tăng.
+不況[ふきょう] | n | BẤT HUỐNG | suy thoái | 不況[ふきょう] に 陥[おちい]る | rơi vào suy thoái | 世界[せかい]的[てき]な不況[ふきょう]に陥[おちい]った。 | Thế giới đã rơi vào suy thoái.
+需要[じゅよう] | n | NHU YẾU | nhu cầu | 需要[じゅよう] が 高[たか]まる | nhu cầu tăng cao | 夏[なつ]はエアコンの需要[じゅよう]が高[たか]まる。 | Mùa hè nhu cầu điều hòa tăng cao.
+供給[きょうきゅう] | n,v3 | CUNG CẤP | cung, cung cấp | 供給[きょうきゅう] が 追[お]いつかない | cung không theo kịp | 人気[にんき]が出[で]すぎて供給[きょうきゅう]が追[お]いつかない。 | Hàng nổi quá nên nguồn cung không theo kịp.
+相場[そうば] | n | TƯƠNG TRƯỜNG | giá thị trường; mức thông thường | 相場[そうば] が 上[あ]がる | giá thị trường tăng | 金[きん]の相場[そうば]が上[あ]がっている。 | Giá vàng trên thị trường đang tăng.
+物価[ぶっか]上昇[じょうしょう] | n | VẬT GIÁ THƯỢNG THĂNG | giá cả leo thang | - | - | 物価[ぶっか]上昇[じょうしょう]に給料[きゅうりょう]が追[お]いつかない。 | Lương không theo kịp giá cả leo thang.
+値段[ねだん]交渉[こうしょう] | n | TRỊ ĐOẠN GIAO THIỆP | mặc cả giá | - | - | 市場[いちば]では値段[ねだん]交渉[こうしょう]ができる。 | Ở chợ có thể mặc cả giá.
+原価[げんか] | n | NGUYÊN GIÁ | giá vốn | 原価[げんか] を 割[わ]る | bán dưới giá vốn | 在庫[ざいこ]処分[しょぶん]のため、原価[げんか]を割[わ]って売[う]った。 | Để xả hàng tồn kho, họ đã bán dưới giá vốn.
+コスト | n | - | chi phí | コスト を 削減[さくげん] する | cắt giảm chi phí | 工場[こうじょう]を移[うつ]してコストを削減[さくげん]した。 | Chuyển nhà máy để cắt giảm chi phí.
+収益[しゅうえき] | n | THU ÍCH | lợi nhuận, doanh thu | 収益[しゅうえき] を 上[あ]げる | tăng lợi nhuận | 新[あたら]しいサービスで収益[しゅうえき]を上[あ]げた。 | Đã tăng lợi nhuận nhờ dịch vụ mới.
+採算[さいさん] | n | THÁI TOÁN | tính sinh lời | 採算[さいさん] が 取[と]れる | có lời, đủ bù chi phí | この値段[ねだん]では採算[さいさん]が取[と]れない。 | Với giá này thì không có lời.
+決算[けっさん] | n,v3 | QUYẾT TOÁN | quyết toán | - | - | 三月[さんがつ]は決算[けっさん]で経理[けいり]部[ぶ]が忙[いそが]しい。 | Tháng Ba phòng kế toán bận vì quyết toán.
+経理[けいり] | n | KINH LÝ | kế toán | - | - | 領収書[りょうしゅうしょ]は経理[けいり]に提出[ていしゅつ]してください。 | Hóa đơn hãy nộp cho bộ phận kế toán.
+帳簿[ちょうぼ] | n | TRƯỚNG BỘ | sổ sách kế toán | 帳簿[ちょうぼ] を つける | ghi sổ sách | 毎日[まいにち]帳簿[ちょうぼ]をつけている。 | Ngày nào tôi cũng ghi sổ sách.
+請求書[せいきゅうしょ] | n | THỈNH CẦU THƯ | giấy đề nghị thanh toán | 請求書[せいきゅうしょ] を 送[おく]る | gửi hóa đơn đòi tiền | 月末[げつまつ]に請求書[せいきゅうしょ]を送[おく]ります。 | Cuối tháng tôi sẽ gửi giấy đề nghị thanh toán.
+代金[だいきん] | n | ĐẠI KIM | tiền hàng | 代金[だいきん] を 支払[しはら]う | trả tiền hàng | 代金[だいきん]は商品[しょうひん]到着[とうちゃく]後[ご]に支払[しはら]います。 | Tiền hàng trả sau khi nhận hàng.
+振[ふ]り込[こ]み | n | CHẤN NHẬP | chuyển khoản | - | - | 代金[だいきん]は銀行[ぎんこう]振[ふ]り込[こ]みでお願[ねが]いします。 | Tiền hàng xin chuyển khoản qua ngân hàng.
+分割[ぶんかつ] | n,v3 | PHÂN CÁT | chia nhỏ; trả góp | {分割[ぶんかつ]} 払[ばら]い | trả góp | パソコンを分割[ぶんかつ]払[ばら]いで買[か]った。 | Tôi mua máy tính theo hình thức trả góp.
+資金[しきん] | n | TƯ KIM | vốn, quỹ | 資金[しきん] を 集[あつ]める | huy động vốn | 新[あたら]しい店[みせ]のために資金[しきん]を集[あつ]めている。 | Đang huy động vốn cho cửa hàng mới.
+資本[しほん] | n | TƯ BẢN | vốn | - | - | この会社[かいしゃ]は外国[がいこく]の資本[しほん]が入[はい]っている。 | Công ty này có vốn nước ngoài.
+出資[しゅっし] | n,v3 | XUẤT TƯ | góp vốn | - | - | 友人[ゆうじん]と半分[はんぶん]ずつ出資[しゅっし]して店[みせ]を始[はじ]めた。 | Tôi góp vốn mỗi người một nửa với bạn để mở cửa hàng.
+株式[かぶしき] | n | CHU THỨC | cổ phần | {株式[かぶしき]} 会社[がいしゃ] | công ty cổ phần | 父[ちち]は小[ちい]さな株式[かぶしき]会社[がいしゃ]を経営[けいえい]している。 | Bố tôi điều hành một công ty cổ phần nhỏ.
+株主[かぶぬし] | n | CHU CHỦ | cổ đông | {株主[かぶぬし]} 総会[そうかい] | đại hội cổ đông | 六月[ろくがつ]に株主[かぶぬし]総会[そうかい]が開[ひら]かれる。 | Đại hội cổ đông được tổ chức vào tháng Sáu.
+証券[しょうけん] | n | CHỨNG KHOÁN | chứng khoán | {証券[しょうけん]} 会社[がいしゃ] | công ty chứng khoán | 証券[しょうけん]会社[がいしゃ]で口座[こうざ]を作[つく]った。 | Tôi mở tài khoản ở công ty chứng khoán.
+上場[じょうじょう] | n,v3 | THƯỢNG TRƯỜNG | niêm yết (lên sàn) | - | - | その会社[かいしゃ]は去年[きょねん]、東証[とうしょう]に上場[じょうじょう]した。 | Công ty đó niêm yết trên sàn Tokyo năm ngoái.
+配当[はいとう] | n | PHỐI ĐƯƠNG | cổ tức | - | - | 今年[ことし]は配当[はいとう]が増[ふ]えた。 | Năm nay cổ tức tăng.
+暴落[ぼうらく] | n,v3 | BẠO LẠC | sụt giá mạnh | 株価[かぶか] が {暴落[ぼうらく]} する | giá cổ phiếu lao dốc | ニュースを受[う]けて株価[かぶか]が暴落[ぼうらく]した。 | Sau tin đó giá cổ phiếu lao dốc.
+急騰[きゅうとう] | n,v3 | CẤP ĐẰNG | tăng vọt | - | - | 原油[げんゆ]価格[かかく]が急騰[きゅうとう]している。 | Giá dầu thô đang tăng vọt.
+高騰[こうとう] | n,v3 | CAO ĐẰNG | (giá) tăng cao | 価格[かかく] が {高騰[こうとう]} する | giá tăng cao | 野菜[やさい]の価格[かかく]が高騰[こうとう]している。 | Giá rau đang tăng cao.
+下落[げらく] | n,v3 | HẠ LẠC | giảm giá, sụt | - | - | 円[えん]の価値[かち]が下落[げらく]した。 | Giá trị đồng yên đã sụt giảm.
+インフレ | n | - | lạm phát | - | - | インフレでお金[かね]の価値[かち]が下[さ]がった。 | Lạm phát khiến giá trị đồng tiền giảm.
+デフレ | n | - | giảm phát | - | - | 長[なが]いデフレから抜[ぬ]け出[だ]せない。 | Không thoát được giảm phát kéo dài.
+貿易[ぼうえき] | n,v3 | MẬU DỊCH | thương mại quốc tế | {貿易[ぼうえき]} 会社[がいしゃ] | công ty thương mại | 兄[あに]は貿易[ぼうえき]会社[がいしゃ]に勤[つと]めている。 | Anh tôi làm ở công ty thương mại.
+輸出[ゆしゅつ] | n,v3 | THÂU XUẤT | xuất khẩu | 海外[かいがい] に {輸出[ゆしゅつ]} する | xuất khẩu ra nước ngoài | この会社[かいしゃ]は車[くるま]を海外[かいがい]に輸出[ゆしゅつ]している。 | Công ty này xuất khẩu ô tô ra nước ngoài.
+関税[かんぜい] | n | QUAN THUẾ | thuế quan | 関税[かんぜい] を かける | đánh thuế quan | 輸入[ゆにゅう]牛肉[ぎゅうにく]に関税[かんぜい]をかける。 | Đánh thuế quan lên thịt bò nhập khẩu.
+取引[とりひき] | n,v3 | THỦ DẪN | giao dịch | 取引[とりひき] が ある | có quan hệ làm ăn | あの会社[かいしゃ]とは長年[ながねん]取引[とりひき]がある。 | Chúng tôi làm ăn với công ty đó nhiều năm.
+得意先[とくいさき] | n | ĐẮC Ý TIÊN | khách hàng quen | - | - | 得意先[とくいさき]を回[まわ]って注文[ちゅうもん]を取[と]る。 | Đi một vòng các khách quen để lấy đơn hàng.
+受注[じゅちゅう] | n,v3 | THỤ CHÚ | nhận đơn hàng | - | - | 大口[おおぐち]の注文[ちゅうもん]を受注[じゅちゅう]した。 | Chúng tôi đã nhận một đơn hàng lớn.
+納品[のうひん] | n,v3 | NẠP PHẨM | giao hàng | - | - | 来週[らいしゅう]の月曜日[げつようび]までに納品[のうひん]します。 | Chúng tôi sẽ giao hàng trước thứ Hai tuần sau.
+見積[みつ]もる | v1 | KIẾN TÍCH | ước tính | 費用[ひよう] を 見積[みつ]もる | ước tính chi phí | 修理[しゅうり]費用[ひよう]を見積[みつ]もってください。 | Hãy ước tính chi phí sửa chữa.
+流通[りゅうつう] | n,v3 | LƯU THÔNG | lưu thông, phân phối | - | - | 流通[りゅうつう]コストを下[さ]げて安[やす]く売[う]る。 | Hạ chi phí phân phối để bán rẻ.
+卸売[おろしう]り | n | TÁ MẠI | bán buôn | - | - | 卸売[おろしう]り市場[しじょう]で魚[さかな]を仕入[しい]れる。 | Nhập cá ở chợ đầu mối bán buôn.
+小売[こう]り | n | TIỂU MẠI | bán lẻ | {小売[こう]り} 店[てん] | cửa hàng bán lẻ | 町[まち]の小売[こう]り店[てん]が減[へ]っている。 | Các cửa hàng bán lẻ trong phố đang giảm dần.
+仕入[しい]れる | v2 | SĨ NHẬP | nhập hàng | 商品[しょうひん] を 仕入[しい]れる | nhập hàng | 毎朝[まいあさ]市場[いちば]で野菜[やさい]を仕入[しい]れる。 | Sáng nào cũng nhập rau ở chợ.
+仕入[しい]れ | n | SĨ NHẬP | việc nhập hàng | {仕入[しい]れ} 値[ね] | giá nhập | 仕入[しい]れ値[ね]が上[あ]がって利益[りえき]が減[へ]った。 | Giá nhập tăng nên lợi nhuận giảm.
+販売[はんばい] | n,v3 | PHIẾN MẠI | bán hàng | {販売[はんばい]} 促進[そくしん] | xúc tiến bán hàng | 販売[はんばい]促進[そくしん]のためにキャンペーンを行[おこな]う。 | Tổ chức chiến dịch để xúc tiến bán hàng.
+売[う]り込[こ]む | v1 | MẠI NHẬP | chào hàng, quảng bá | 新製品[しんせいひん] を 売[う]り込[こ]む | chào bán sản phẩm mới | 海外[かいがい]の会社[かいしゃ]に新製品[しんせいひん]を売[う]り込[こ]んだ。 | Đã chào bán sản phẩm mới cho công ty nước ngoài.
+市場[しじょう]調査[ちょうさ] | n | THỊ TRƯỜNG ĐIỀU TRA | khảo sát thị trường | - | - | 発売[はつばい]前[まえ]に市場[しじょう]調査[ちょうさ]を行[おこな]った。 | Trước khi bán đã khảo sát thị trường.
+シェア | n | - | thị phần | シェア を 伸[の]ばす | tăng thị phần | 国内[こくない]でのシェアを伸[の]ばしたい。 | Muốn tăng thị phần trong nước.
+競争[きょうそう] | n,v3 | CẠNH TRANH | cạnh tranh | {競争[きょうそう]} が 激[はげ]しい | cạnh tranh gay gắt | この業界[ぎょうかい]は競争[きょうそう]が激[はげ]しい。 | Ngành này cạnh tranh gay gắt.
+競合[きょうごう] | n,v3 | CẠNH HỢP | cạnh tranh trực tiếp | {競合[きょうごう]} 他社[たしゃ] | công ty đối thủ | 競合[きょうごう]他社[たしゃ]より安[やす]い値段[ねだん]をつけた。 | Đặt giá rẻ hơn các công ty đối thủ.
+独占[どくせん] | n,v3 | ĐỘC CHIẾM | độc chiếm, độc quyền | 市場[しじょう] を {独占[どくせん]} する | độc chiếm thị trường | 一[ひと]つの会社[かいしゃ]が市場[しじょう]を独占[どくせん]している。 | Một công ty đang độc chiếm thị trường.
+進出[しんしゅつ] | n,v3 | TIẾN XUẤT | mở rộng (sang thị trường mới) | 海外[かいがい] に {進出[しんしゅつ]} する | vươn ra nước ngoài | 多[おお]くの日本[にほん]企業[きぎょう]がベトナムに進出[しんしゅつ]している。 | Nhiều doanh nghiệp Nhật đang vươn sang Việt Nam.
+撤退[てったい] | n,v3 | TRIỆT THOÁI | rút lui | 市場[しじょう] から {撤退[てったい]} する | rút khỏi thị trường | 業績[ぎょうせき]不振[ふしん]で海外[かいがい]市場[しじょう]から撤退[てったい]した。 | Kết quả kinh doanh kém nên đã rút khỏi thị trường nước ngoài.
+規模[きぼ] | n | QUY MÔ | quy mô | 規模[きぼ] が 大[おお]きい | quy mô lớn | この工場[こうじょう]は規模[きぼ]が大[おお]きい。 | Nhà máy này có quy mô lớn.
+設立[せつりつ] | n,v3 | THIẾT LẬP | thành lập | 会社[かいしゃ] を {設立[せつりつ]} する | thành lập công ty | 二十[にじゅう]年[ねん]前[まえ]に会社[かいしゃ]を設立[せつりつ]した。 | Đã thành lập công ty từ hai mươi năm trước.
+創業[そうぎょう] | n,v3 | SÁNG NGHIỆP | khởi nghiệp, sáng lập | - | - | この店[みせ]は創業[そうぎょう]百[ひゃく]年[ねん]の老舗[しにせ]だ。 | Cửa hàng này là cửa hàng lâu đời đã trăm năm.
+起業[きぎょう] | n,v3 | KHỞI NGHIỆP | khởi nghiệp | - | - | 大学[だいがく]を出[で]てすぐ起業[きぎょう]した。 | Vừa ra trường đã khởi nghiệp.
+老舗[しにせ] | n | LÃO PHỐ | cửa hàng lâu đời | - | - | 京都[きょうと]には老舗[しにせ]の和菓子[わがし]屋[や]が多[おお]い。 | Kyoto có nhiều tiệm bánh truyền thống lâu đời.
+合併[がっぺい] | n,v3 | HỢP TÍNH | sáp nhập | 二[に] 社[しゃ] が {合併[がっぺい]} する | hai công ty sáp nhập | 大手[おおて]銀行[ぎんこう]二[に]社[しゃ]が合併[がっぺい]した。 | Hai ngân hàng lớn đã sáp nhập.
+買収[ばいしゅう] | n,v3 | MÃI THU | mua lại (công ty); mua chuộc | - | - | 海外[かいがい]の企業[きぎょう]に買収[ばいしゅう]された。 | Bị một doanh nghiệp nước ngoài mua lại.
+提携[ていけい] | n,v3 | ĐỀ HUỀ | hợp tác, liên kết | 業務[ぎょうむ] {提携[ていけい]} | hợp tác kinh doanh | 二[に]社[しゃ]は業務[ぎょうむ]提携[ていけい]を結[むす]んだ。 | Hai công ty đã ký hợp tác kinh doanh.
+大手[おおて] | n | ĐẠI THỦ | công ty lớn | {大手[おおて]} 企業[きぎょう] | doanh nghiệp lớn | 大手[おおて]企業[きぎょう]に就職[しゅうしょく]したい。 | Tôi muốn vào làm ở doanh nghiệp lớn.
+零細[れいさい] | adj-na | LINH TẾ | nhỏ lẻ | {零細[れいさい]} 企業[きぎょう] | doanh nghiệp siêu nhỏ | 零細[れいさい]企業[きぎょう]は資金[しきん]繰[ぐ]りが大変[たいへん]だ。 | Doanh nghiệp siêu nhỏ xoay vốn rất vất vả.
+資金繰[しきんぐ]り | n | TƯ KIM SÀO | xoay vốn | - | - | 資金繰[しきんぐ]りが苦[くる]しくなった。 | Việc xoay vốn trở nên khó khăn.
+業種[ぎょうしゅ] | n | NGHIỆP CHỦNG | ngành nghề | - | - | どの業種[ぎょうしゅ]も人手[ひとで]が足[た]りない。 | Ngành nghề nào cũng thiếu người.
+産業[さんぎょう] | n | SẢN NGHIỆP | công nghiệp, ngành kinh tế | {産業[さんぎょう]} の 発展[はってん] | sự phát triển công nghiệp | 自動車[じどうしゃ]産業[さんぎょう]の発展[はってん]が経済[けいざい]を支[ささ]えた。 | Sự phát triển ngành ô tô đã nâng đỡ nền kinh tế.
+製造業[せいぞうぎょう] | n | CHẾ TẠO NGHIỆP | ngành chế tạo | - | - | 製造業[せいぞうぎょう]では多[おお]くの外国人[がいこくじん]が働[はたら]いている。 | Trong ngành chế tạo có nhiều người nước ngoài làm việc.
+サービス業[ぎょう] | n | NGHIỆP | ngành dịch vụ | - | - | サービス業[ぎょう]は土日[どにち]も忙[いそが]しい。 | Ngành dịch vụ thứ Bảy, Chủ nhật cũng bận.
+商社[しょうしゃ] | n | THƯƠNG XÃ | công ty thương mại tổng hợp | - | - | 商社[しょうしゃ]マンは海外[かいがい]出張[しゅっちょう]が多[おお]い。 | Nhân viên công ty thương mại hay đi công tác nước ngoài.
+メーカー | n | - | nhà sản xuất | 大手[おおて] {メーカー} | nhà sản xuất lớn | 大手[おおて]メーカーの部品[ぶひん]を作[つく]っている。 | Chúng tôi làm linh kiện cho nhà sản xuất lớn.
+商標[しょうひょう] | n | THƯƠNG TIÊU | nhãn hiệu thương mại | - | - | 商標[しょうひょう]を登録[とうろく]しておいたほうがいい。 | Nên đăng ký nhãn hiệu thương mại trước.
+特許[とっきょ] | n | ĐẶC HỨA | bằng sáng chế | 特許[とっきょ] を 取[と]る | được cấp bằng sáng chế | 新[あたら]しい技術[ぎじゅつ]で特許[とっきょ]を取[と]った。 | Đã được cấp bằng sáng chế cho công nghệ mới.
+新製品[しんせいひん] | n | TÂN CHẾ PHẨM | sản phẩm mới | 新製品[しんせいひん] を 開発[かいはつ] する | phát triển sản phẩm mới | 毎年[まいとし]新製品[しんせいひん]を開発[かいはつ]している。 | Mỗi năm đều phát triển sản phẩm mới.
+付加[ふか]価値[かち] | n | PHỤ GIA GIÁ TRỊ | giá trị gia tăng | 付加[ふか]価値[かち] を つける | tạo giá trị gia tăng | デザインで付加[ふか]価値[かち]をつける。 | Tạo giá trị gia tăng bằng thiết kế.
+需給[じゅきゅう] | n | NHU CẤP | cung cầu | - | - | 米[こめ]の需給[じゅきゅう]バランスが崩[くず]れた。 | Cân bằng cung cầu gạo bị phá vỡ.
+景況[けいきょう] | n | CẢNH HUỐNG | tình hình kinh doanh | - | - | 中小[ちゅうしょう]企業[きぎょう]の景況[けいきょう]は厳[きび]しい。 | Tình hình kinh doanh của doanh nghiệp vừa và nhỏ còn khó khăn.
+動向[どうこう] | n | ĐỘNG HƯỚNG | xu hướng, động thái | 市場[しじょう] の {動向[どうこう]} | xu hướng thị trường | 市場[しじょう]の動向[どうこう]を見守[みまも]る。 | Theo dõi xu hướng thị trường.
+見通[みとお]し | n | KIẾN THÔNG | triển vọng, dự báo | 見通[みとお]し が 立[た]たない | chưa thấy triển vọng | 回復[かいふく]の見通[みとお]しが立[た]たない。 | Chưa thấy triển vọng phục hồi.
+成長率[せいちょうりつ] | n | THÀNH TRƯỞNG SUẤT | tốc độ tăng trưởng | - | - | ベトナムの経済[けいざい]成長率[せいちょうりつ]は高[たか]い。 | Tốc độ tăng trưởng kinh tế Việt Nam cao.
+国内[こくない]総生産[そうせいさん] | n | QUỐC NỘI TỔNG SẢN XUẤT | tổng sản phẩm quốc nội (GDP) | - | - | 国内[こくない]総生産[そうせいさん]が前年[ぜんねん]より増[ふ]えた。 | GDP đã tăng so với năm trước.
+指数[しすう] | n | CHỈ SỐ | chỉ số | 物価[ぶっか] {指数[しすう]} | chỉ số giá | 消費者[しょうひしゃ]物価[ぶっか]指数[しすう]が発表[はっぴょう]された。 | Chỉ số giá tiêu dùng đã được công bố.
+統計[とうけい] | n | THỐNG KÊ | thống kê | 統計[とうけい] を 取[と]る | lấy số liệu thống kê | 毎年[まいとし]、人口[じんこう]の統計[とうけい]を取[と]っている。 | Mỗi năm đều lấy số liệu thống kê dân số.
+前年比[ぜんねんひ] | n | TIỀN NIÊN TỶ | so với năm trước | - | - | 売[う]り上[あ]げは前年比[ぜんねんひ]で一割[いちわり]増[ぞう]だ。 | Doanh thu tăng mười phần trăm so với năm trước.
+横[よこ]ばい | n | HOÀNH | đi ngang (không đổi) | - | - | 売[う]り上[あ]げはほぼ横[よこ]ばいだ。 | Doanh thu gần như đi ngang.
+伸[の]び悩[なや]む | v1 | THÂN NÃO | tăng trưởng chững lại | 売[う]り上[あ]げ が 伸[の]び悩[なや]む | doanh thu chững lại | 今年[ことし]は売[う]り上[あ]げが伸[の]び悩[なや]んでいる。 | Năm nay doanh thu tăng trưởng chậm.
+低迷[ていめい] | n,v3 | ĐÊ MÊ | trì trệ | 景気[けいき] が {低迷[ていめい]} する | kinh tế trì trệ | 景気[けいき]が低迷[ていめい]し、失業者[しつぎょうしゃ]が増[ふ]えた。 | Kinh tế trì trệ, người thất nghiệp tăng.
+好調[こうちょう] | adj-na | HẢO ĐIỀU | thuận lợi, tốt | 売[う]れ行[ゆ]き が {好調[こうちょう]} | bán chạy | 新商品[しんしょうひん]の売[う]れ行[ゆ]きが好調[こうちょう]だ。 | Sản phẩm mới bán rất chạy.
+不振[ふしん] | n,adj-na | BẤT CHẤN | ế ẩm, sa sút | 業績[ぎょうせき] {不振[ふしん]} | kinh doanh sa sút | 業績[ぎょうせき]不振[ふしん]で社長[しゃちょう]が交代[こうたい]した。 | Kinh doanh sa sút nên giám đốc bị thay.
+打撃[だげき] | n | ĐẢ KÍCH | đòn giáng, thiệt hại | 打撃[だげき] を 受[う]ける | bị ảnh hưởng nặng | 台風[たいふう]で農業[のうぎょう]が大[おお]きな打撃[だげき]を受[う]けた。 | Bão khiến nông nghiệp bị thiệt hại nặng.
+再建[さいけん] | n,v3 | TÁI KIẾN | tái thiết, vực dậy | 経営[けいえい] {再建[さいけん]} | vực dậy kinh doanh | 新社長[しんしゃちょう]が経営[けいえい]再建[さいけん]に取[と]り組[く]んだ。 | Giám đốc mới đã bắt tay vực dậy công ty.
+倒産[とうさん]寸前[すんぜん] | n | ĐẢO SẢN THỐN TIỀN | bên bờ phá sản | - | - | 会社[かいしゃ]は倒産[とうさん]寸前[すんぜん]だった。 | Công ty đã ở bên bờ phá sản.
+負債[ふさい] | n | PHỤ TRÁI | nợ, khoản nợ | 負債[ふさい] を 抱[かか]える | gánh nợ | 多額[たがく]の負債[ふさい]を抱[かか]えて倒産[とうさん]した。 | Gánh khoản nợ lớn rồi phá sản.
+多額[たがく] | n,adj-na | ĐA NGẠCH | số tiền lớn | {多額[たがく]} の 借金[しゃっきん] | khoản nợ lớn | 多額[たがく]の借金[しゃっきん]を返[かえ]すのに十[じゅう]年[ねん]かかった。 | Mất mười năm để trả khoản nợ lớn.
+巨額[きょがく] | n,adj-na | CỰ NGẠCH | khổng lồ (tiền) | {巨額[きょがく]} の 損失[そんしつ] | khoản lỗ khổng lồ | 巨額[きょがく]の損失[そんしつ]を出[だ]した。 | Đã gây ra khoản lỗ khổng lồ.
+損益[そんえき] | n | TỔN ÍCH | lãi lỗ | - | - | 毎月[まいつき]損益[そんえき]を計算[けいさん]する。 | Mỗi tháng tính lãi lỗ.
+儲[もう]け | n | TRỮ | tiền lời | - | - | 儲[もう]けは少[すく]ないが、やりがいがある。 | Tiền lời ít nhưng công việc có ý nghĩa.
+元[もと]が取[と]れる | exp | NGUYÊN THỦ | gỡ lại vốn | - | - | 高[たか]かったが、毎日[まいにち]使[つか]うので元[もと]が取[と]れた。 | Đắt nhưng dùng mỗi ngày nên đã gỡ lại vốn.
+景品[けいひん] | n | CẢNH PHẨM | quà tặng kèm | - | - | 買[か]うと景品[けいひん]がもらえる。 | Mua thì được nhận quà tặng kèm.
+賠償[ばいしょう] | n,v3 | BỒI THƯỜNG | bồi thường (theo luật) | {賠償[ばいしょう]} 金[きん] | tiền bồi thường | 会社[かいしゃ]は賠償[ばいしょう]金[きん]を支払[しはら]った。 | Công ty đã trả tiền bồi thường.
+赤字[あかじ]経営[けいえい] | n | XÍCH TỰ KINH DOANH | kinh doanh thua lỗ | - | - | 赤字[あかじ]経営[けいえい]が続[つづ]いている。 | Tình trạng kinh doanh thua lỗ vẫn tiếp diễn.
+経済力[けいざいりょく] | n | KINH TẾ LỰC | sức mạnh kinh tế | - | - | 中国[ちゅうごく]の経済力[けいざいりょく]は年々[ねんねん]強[つよ]くなっている。 | Sức mạnh kinh tế của Trung Quốc mạnh lên qua từng năm.
+財政[ざいせい] | n | TÀI CHÍNH | tài chính (nhà nước) | {財政[ざいせい]} 赤字[あかじ] | thâm hụt ngân sách | 国[くに]の財政[ざいせい]赤字[あかじ]が問題[もんだい]になっている。 | Thâm hụt ngân sách quốc gia đang là vấn đề.
+財務[ざいむ] | n | TÀI VỤ | tài vụ | - | - | 財務[ざいむ]担当[たんとう]の役員[やくいん]に相談[そうだん]した。 | Đã bàn với thành viên phụ trách tài vụ.
+税収[ぜいしゅう] | n | THUẾ THU | nguồn thu thuế | - | - | 景気[けいき]がよくなり税収[ぜいしゅう]が増[ふ]えた。 | Kinh tế tốt lên nên thu thuế tăng.
+脱税[だつぜい] | n,v3 | THOÁT THUẾ | trốn thuế | - | - | 社長[しゃちょう]が脱税[だつぜい]で逮捕[たいほ]された。 | Giám đốc bị bắt vì trốn thuế.
+節税[せつぜい] | n,v3 | TIẾT THUẾ | tiết kiệm thuế (hợp pháp) | - | - | 節税[せつぜい]の方法[ほうほう]を税理士[ぜいりし]に聞[き]いた。 | Tôi hỏi kế toán thuế cách tiết kiệm thuế.
+控除[こうじょ] | n,v3 | KHỐNG TRỪ | khấu trừ | - | - | 医療費[いりょうひ]は控除[こうじょ]の対象[たいしょう]になる。 | Chi phí y tế thuộc diện được khấu trừ.
+納税[のうぜい] | n,v3 | NẠP THUẾ | nộp thuế | - | - | 納税[のうぜい]は国民[こくみん]の義務[ぎむ]だ。 | Nộp thuế là nghĩa vụ của công dân.
+景気[けいき]対策[たいさく] | n | CẢNH KHÍ ĐỐI SÁCH | biện pháp kích thích kinh tế | - | - | 政府[せいふ]は新[あら]たな景気[けいき]対策[たいさく]を発表[はっぴょう]した。 | Chính phủ công bố biện pháp kích thích kinh tế mới.
+規制[きせい]緩和[かんわ] | n | QUY CHẾ HOÃN HÒA | nới lỏng quy định | - | - | 規制[きせい]緩和[かんわ]で新[あたら]しい会社[かいしゃ]が増[ふ]えた。 | Nhờ nới lỏng quy định, công ty mới tăng lên.
+自由化[じゆうか] | n,v3 | TỰ DO HÓA | tự do hóa | - | - | 電力[でんりょく]の自由化[じゆうか]で料金[りょうきん]プランが増[ふ]えた。 | Tự do hóa điện lực khiến gói cước tăng lên.
+民営化[みんえいか] | n,v3 | DÂN DOANH HÓA | tư nhân hóa | - | - | 郵便[ゆうびん]事業[じぎょう]が民営化[みんえいか]された。 | Ngành bưu chính đã được tư nhân hóa.
+景気[けいき]回復[かいふく] | n | CẢNH KHÍ HỒI PHỤC | phục hồi kinh tế | - | - | 景気[けいき]回復[かいふく]にはまだ時間[じかん]がかかりそうだ。 | Phục hồi kinh tế có vẻ còn mất thời gian.
+先行[さきゆ]き | n | TIÊN HÀNH | tương lai, triển vọng | {先行[さきゆ]き} が 不透明[ふとうめい] | tương lai khó đoán | 経済[けいざい]の先行[さきゆ]きが不透明[ふとうめい]だ。 | Triển vọng kinh tế khó đoán.
+バブル | n | - | bong bóng (kinh tế) | バブル が はじける | bong bóng vỡ | バブルがはじけて地価[ちか]が下[さ]がった。 | Bong bóng vỡ nên giá đất giảm.
+バイヤー | n | - | người mua hàng (cho công ty) | - | - | 海外[かいがい]のバイヤーが工場[こうじょう]を見学[けんがく]に来[き]た。 | Người mua hàng nước ngoài đến tham quan nhà máy.
+目標[もくひょう]額[がく] | n | MỤC TIÊU NGẠCH | mức doanh số mục tiêu | - | - | 目標[もくひょう]額[がく]まであと少[すこ]しだ。 | Còn chút nữa là đạt mức mục tiêu.
+ポイント還元[かんげん] | n | HOÀN NGUYÊN | hoàn điểm | - | - | カードで払[はら]うとポイント還元[かんげん]がある。 | Trả bằng thẻ thì được hoàn điểm.
+還元[かんげん] | n,v3 | HOÀN NGUYÊN | hoàn lại, trả lại | 利益[りえき] を {還元[かんげん]} する | trả lại lợi ích (cho khách) | 利益[りえき]をお客様[きゃくさま]に還元[かんげん]する。 | Trả lại lợi ích cho khách hàng.
+分配[ぶんぱい] | n,v3 | PHÂN PHỐI | phân chia | 利益[りえき] を {分配[ぶんぱい]} する | chia lợi nhuận | 利益[りえき]を社員[しゃいん]に分配[ぶんぱい]した。 | Đã chia lợi nhuận cho nhân viên.
+貧富[ひんぷ] | n | BẦN PHÚ | giàu nghèo | {貧富[ひんぷ]} の 差[さ] | chênh lệch giàu nghèo | 貧富[ひんぷ]の差[さ]が広[ひろ]がっている。 | Chênh lệch giàu nghèo đang ngày càng lớn.
+裕福[ゆうふく] | adj-na | DỤ PHÚC | giàu có | {裕福[ゆうふく]} な 家庭[かてい] | gia đình khá giả | 彼[かれ]は裕福[ゆうふく]な家庭[かてい]で育[そだ]った。 | Anh ấy lớn lên trong gia đình khá giả.
+質素[しっそ] | adj-na | CHẤT TỐ | giản dị, đạm bạc | {質素[しっそ]} な 暮[く]らし | cuộc sống giản dị | 祖父母[そふぼ]は質素[しっそ]な暮[く]らしをしている。 | Ông bà tôi sống giản dị.
+景気[けいき]後退[こうたい] | n | CẢNH KHÍ HẬU THOÁI | suy thoái kinh tế | - | - | 景気[けいき]後退[こうたい]の影響[えいきょう]で採用[さいよう]が減[へ]った。 | Do suy thoái kinh tế, việc tuyển dụng giảm.
+好景気[こうけいき] | n | HẢO CẢNH KHÍ | kinh tế bùng nổ | - | - | 好景気[こうけいき]のころは誰[だれ]でも就職[しゅうしょく]できた。 | Thời kinh tế bùng nổ, ai cũng xin được việc.
+内需[ないじゅ] | n | NỘI NHU | nhu cầu trong nước | 内需[ないじゅ] を 拡大[かくだい] する | mở rộng nhu cầu nội địa | 政府[せいふ]は内需[ないじゅ]を拡大[かくだい]しようとしている。 | Chính phủ đang cố mở rộng nhu cầu trong nước.
+輸出入[ゆしゅつにゅう] | n | THÂU XUẤT NHẬP | xuất nhập khẩu | - | - | 港[みなと]では輸出入[ゆしゅつにゅう]の手続[てつづ]きが行[おこな]われる。 | Ở cảng diễn ra các thủ tục xuất nhập khẩu.
+増益[ぞうえき] | n | TĂNG ÍCH | tăng lợi nhuận | - | - | 今期[こんき]は二割[にわり]の増益[ぞうえき]となった。 | Kỳ này lợi nhuận tăng hai mươi phần trăm.
+減益[げんえき] | n | GIẢM ÍCH | giảm lợi nhuận | - | - | 原料[げんりょう]高[だか]で減益[げんえき]になった。 | Nguyên liệu đắt nên lợi nhuận giảm.
+増収[ぞうしゅう] | n | TĂNG THU | tăng doanh thu | - | - | 増収[ぞうしゅう]だが、利益[りえき]は減[へ]った。 | Doanh thu tăng nhưng lợi nhuận lại giảm.
+減収[げんしゅう] | n | GIẢM THU | giảm doanh thu | - | - | 客[きゃく]が減[へ]って大幅[おおはば]な減収[げんしゅう]となった。 | Khách giảm nên doanh thu sụt mạnh.
+純利益[じゅんりえき] | n | THUẦN LỢI ÍCH | lợi nhuận ròng | - | - | 純利益[じゅんりえき]が過去[かこ]最高[さいこう]を記録[きろく]した。 | Lợi nhuận ròng đạt mức cao nhất từ trước tới nay.
+売上高[うりあげだか] | n | MẠI THƯỢNG CAO | doanh số, doanh thu | - | - | 売上高[うりあげだか]は一兆[いっちょう]円[えん]を超[こ]えた。 | Doanh thu đã vượt một nghìn tỷ yên.
+見込[みこ]み | n | KIẾN NHẬP | dự kiến, triển vọng | 見込[みこ]み が ある | có triển vọng | この計画[けいかく]は成功[せいこう]の見込[みこ]みがある。 | Kế hoạch này có triển vọng thành công.
+試算[しさん] | n,v3 | THÍ TOÁN | tính thử, ước tính | 費用[ひよう] を {試算[しさん]} する | tính thử chi phí | 引[ひ]っ越[こ]しの費用[ひよう]を試算[しさん]してみた。 | Tôi đã tính thử chi phí chuyển nhà.
+概算[がいさん] | n,v3 | KHÁI TOÁN | tính sơ bộ | - | - | 概算[がいさん]で百万[ひゃくまん]円[えん]ほどかかります。 | Tính sơ bộ thì mất khoảng một triệu yên.
+前払[まえばら]い | n,v3 | TIỀN PHẤT | trả trước | - | - | 家賃[やちん]は前払[まえばら]いです。 | Tiền nhà trả trước.
+後払[あとばら]い | n,v3 | HẬU PHẤT | trả sau | - | - | 商品[しょうひん]が届[とど]いてからの後払[あとばら]いも選[えら]べる。 | Cũng có thể chọn trả sau khi hàng đến.
+未払[みはら]い | n | VỊ PHẤT | chưa thanh toán | 未払[みはら]い の 給料[きゅうりょう] | tiền lương còn nợ | 未払[みはら]いの給料[きゅうりょう]を請求[せいきゅう]した。 | Tôi đã đòi khoản lương còn nợ.
+督促[とくそく] | n,v3 | ĐỐC XÚC | đôn đốc, đòi (nợ) | {督促[とくそく]} 状[じょう] | thư đòi nợ | 税金[ぜいきん]の督促[とくそく]状[じょう]が届[とど]いた。 | Thư đòi nộp thuế đã đến.
+催促[さいそく] | n,v3 | THÔI XÚC | thúc giục | 返事[へんじ] を {催促[さいそく]} する | giục trả lời | 取引先[とりひきさき]に返事[へんじ]を催促[さいそく]した。 | Đã giục đối tác trả lời.
+利子[りし] | n | LỢI TỬ | tiền lãi | 利子[りし] が つく | sinh lãi | 銀行[ぎんこう]に預[あず]けても利子[りし]はほとんどつかない。 | Gửi ngân hàng cũng gần như không sinh lãi.
+担保[たんぽ] | n | ĐẢM BẢO | tài sản thế chấp | 家[いえ] を {担保[たんぽ]} に する | thế chấp nhà | 家[いえ]を担保[たんぽ]にしてお金[かね]を借[か]りた。 | Thế chấp nhà để vay tiền.
+債務[さいむ] | n | TRÁI VỤ | nghĩa vụ trả nợ | - | - | 会社[かいしゃ]は多[おお]くの債務[さいむ]を抱[かか]えている。 | Công ty đang gánh nhiều khoản nợ.
+債権[さいけん] | n | TRÁI QUYỀN | quyền đòi nợ, khoản phải thu | 不良[ふりょう] {債権[さいけん]} | nợ xấu | 銀行[ぎんこう]の不良[ふりょう]債権[さいけん]が問題[もんだい]になった。 | Nợ xấu của ngân hàng đã trở thành vấn đề.
+融通[ゆうずう] | n,v3 | DUNG THÔNG | cho vay xoay; linh hoạt | 融通[ゆうずう] が きく | linh hoạt | あの店長[てんちょう]は融通[ゆうずう]がきく。 | Cửa hàng trưởng đó rất linh hoạt.
+調達[ちょうたつ] | n,v3 | ĐIỀU ĐẠT | huy động, thu xếp | 資金[しきん] を {調達[ちょうたつ]} する | huy động vốn | 銀行[ぎんこう]から資金[しきん]を調達[ちょうたつ]した。 | Đã huy động vốn từ ngân hàng.
+運用[うんよう] | n,v3 | VẬN DỤNG | vận dụng; đầu tư (tiền) | 資産[しさん] を {運用[うんよう]} する | đầu tư tài sản | 退職金[たいしょくきん]を株[かぶ]で運用[うんよう]している。 | Đang đầu tư tiền hưu vào cổ phiếu.
+資産[しさん] | n | TƯ SẢN | tài sản | 資産[しさん] を 増[ふ]やす | tăng tài sản | 長期[ちょうき]投資[とうし]で資産[しさん]を増[ふ]やす。 | Tăng tài sản bằng đầu tư dài hạn.
+投機[とうき] | n | ĐẦU CƠ | đầu cơ | - | - | 投機[とうき]目的[もくてき]で土地[とち]を買[か]う人[ひと]がいる。 | Có người mua đất với mục đích đầu cơ.
+利回[りまわ]り | n | LỢI HỒI | tỷ suất lợi nhuận | 利回[りまわ]り が いい | sinh lời tốt | 利回[りまわ]りがいい商品[しょうひん]にはリスクもある。 | Sản phẩm sinh lời tốt thì cũng có rủi ro.
+定期[ていき]預金[よきん] | n | ĐỊNH KỲ DỰ KIM | tiền gửi có kỳ hạn | - | - | ボーナスを定期[ていき]預金[よきん]にした。 | Tôi gửi tiền thưởng có kỳ hạn.
+外資[がいし] | n | NGOẠI TƯ | vốn nước ngoài | {外資[がいし]} 系[けい] 企業[きぎょう] | doanh nghiệp vốn nước ngoài | 外資[がいし]系[けい]企業[きぎょう]は給料[きゅうりょう]が高[たか]い。 | Doanh nghiệp vốn nước ngoài trả lương cao.
+民間[みんかん] | n | DÂN GIAN | tư nhân; dân sự | {民間[みんかん]} 企業[きぎょう] | doanh nghiệp tư nhân | 公務員[こうむいん]をやめて民間[みんかん]企業[きぎょう]に入[はい]った。 | Bỏ làm công chức để vào doanh nghiệp tư nhân.
+市況[しきょう] | n | THỊ HUỐNG | tình hình thị trường | - | - | 毎朝[まいあさ]、株式[かぶしき]市況[しきょう]をチェックする。 | Sáng nào tôi cũng xem tình hình thị trường chứng khoán.
+物流[ぶつりゅう] | n | VẬT LƯU | hậu cần, logistics | {物流[ぶつりゅう]} センター | trung tâm logistics | 物流[ぶつりゅう]センターで荷物[にもつ]を仕分[しわ]けする。 | Phân loại hàng ở trung tâm logistics.
+量産[りょうさん] | n,v3 | LƯỢNG SẢN | sản xuất hàng loạt | - | - | 新[あたら]しい車[くるま]の量産[りょうさん]が始[はじ]まった。 | Đã bắt đầu sản xuất hàng loạt mẫu xe mới.
+大量[たいりょう]生産[せいさん] | n,v3 | ĐẠI LƯỢNG SINH SẢN | sản xuất số lượng lớn | - | - | 大量[たいりょう]生産[せいさん]で値段[ねだん]が下[さ]がった。 | Nhờ sản xuất số lượng lớn mà giá đã giảm.
+生産性[せいさんせい] | n | SINH SẢN TÍNH | năng suất | 生産性[せいさんせい] を 高[たか]める | nâng cao năng suất | 機械[きかい]を入[い]れて生産性[せいさんせい]を高[たか]めた。 | Đưa máy móc vào để nâng cao năng suất.
+薄利[はくり]多売[たばい] | n | BẠC LỢI ĐA MẠI | lãi ít bán nhiều | - | - | この店[みせ]は薄利[はくり]多売[たばい]で成功[せいこう]した。 | Cửa hàng này thành công nhờ lãi ít bán nhiều.
+下請[したう]け | n | HẠ THỈNH | thầu phụ | {下請[したう]け} 会社[がいしゃ] | công ty thầu phụ | うちは大手[おおて]メーカーの下請[したう]け会社[がいしゃ]だ。 | Chúng tôi là công ty thầu phụ cho nhà sản xuất lớn.
+外注[がいちゅう] | n,v3 | NGOẠI CHÚ | thuê ngoài | - | - | デザインは外注[がいちゅう]している。 | Phần thiết kế được thuê ngoài.
+委託[いたく] | n,v3 | ỦY THÁC | ủy thác | 業務[ぎょうむ] を {委託[いたく]} する | ủy thác công việc | 清掃[せいそう]業務[ぎょうむ]を専門[せんもん]の会社[かいしゃ]に委託[いたく]した。 | Đã ủy thác việc vệ sinh cho công ty chuyên nghiệp.
+取[と]り扱[あつか]う | v1 | THỦ TRÁP | kinh doanh (mặt hàng); xử lý | 商品[しょうひん] を 取[と]り扱[あつか]う | kinh doanh mặt hàng | 当店[とうてん]では外国[がいこく]の食品[しょくひん]も取[と]り扱[あつか]っています。 | Cửa hàng chúng tôi cũng kinh doanh thực phẩm nước ngoài.
+欠品[けっぴん] | n,v3 | KHUYẾT PHẨM | thiếu hàng | - | - | 人気[にんき]商品[しょうひん]が欠品[けっぴん]している。 | Mặt hàng bán chạy đang thiếu.
+陳列[ちんれつ] | n,v3 | TRẦN LIỆT | trưng bày | 商品[しょうひん] を {陳列[ちんれつ]} する | bày hàng | 新[あたら]しい商品[しょうひん]を棚[たな]に陳列[ちんれつ]した。 | Đã bày sản phẩm mới lên kệ.
+販路[はんろ] | n | PHIẾN LỘ | kênh tiêu thụ | 販路[はんろ] を 広[ひろ]げる | mở rộng kênh tiêu thụ | ネット販売[はんばい]で販路[はんろ]を広[ひろ]げた。 | Mở rộng kênh tiêu thụ bằng bán hàng online.
+代理店[だいりてん] | n | ĐẠI LÝ ĐIẾM | đại lý | 旅行[りょこう] {代理店[だいりてん]} | đại lý du lịch | 旅行[りょこう]代理店[だいりてん]でツアーを申[もう]し込[こ]んだ。 | Tôi đăng ký tour ở đại lý du lịch.
+フランチャイズ | n | - | nhượng quyền thương mại | - | - | コンビニの多[おお]くはフランチャイズだ。 | Phần lớn cửa hàng tiện lợi là nhượng quyền.
+原油[げんゆ] | n | NGUYÊN DU | dầu thô | {原油[げんゆ]} 価格[かかく] | giá dầu thô | 原油[げんゆ]価格[かかく]の上昇[じょうしょう]でガソリンが高[たか]くなった。 | Giá dầu thô tăng nên xăng đắt lên.
+安値[やすね] | n | AN TRỊ | giá thấp | - | - | 株価[かぶか]は年初[ねんしょ]来[らい]の安値[やすね]をつけた。 | Giá cổ phiếu chạm mức thấp nhất từ đầu năm.
+高値[たかね] | n | CAO TRỊ | giá cao | 高値[たかね] で 売[う]れる | bán được giá cao | 古[ふる]い切手[きって]が高値[たかね]で売[う]れた。 | Bộ tem cũ bán được giá cao.
+単価[たんか] | n | ĐƠN GIÁ | đơn giá | 単価[たんか] が 安[やす]い | đơn giá rẻ | まとめて注文[ちゅうもん]すると単価[たんか]が安[やす]くなる。 | Đặt gộp thì đơn giá rẻ hơn.
+一律[いちりつ] | n,adv | NHẤT LUẬT | đồng loạt, như nhau | - | - | 全商品[ぜんしょうひん]一律[いちりつ]三百[さんびゃく]円[えん]です。 | Tất cả sản phẩm đồng giá ba trăm yên.
+割増[わりまし] | n | CÁT TĂNG | phụ phí, tăng thêm | {割増[わりまし]} 料金[りょうきん] | giá phụ thu | 深夜[しんや]のタクシーは割増[わりまし]料金[りょうきん]になる。 | Taxi lúc nửa đêm tính giá phụ thu.
+手当[てあて] | n | THỦ ĐƯƠNG | phụ cấp; sơ cứu | 住宅[じゅうたく] {手当[てあて]} | phụ cấp nhà ở | この会社[かいしゃ]は住宅[じゅうたく]手当[てあて]が出[で]る。 | Công ty này có phụ cấp nhà ở.
+人件費[じんけんひ] | n | NHÂN KIỆN PHÍ | chi phí nhân công | - | - | 人件費[じんけんひ]を抑[おさ]えるために機械[きかい]化[か]を進[すす]める。 | Đẩy mạnh cơ giới hóa để giảm chi phí nhân công.
+設備[せつび]投資[とうし] | n | THIẾT BỊ ĐẦU TƯ | đầu tư thiết bị | - | - | 今年[ことし]は大[おお]きな設備[せつび]投資[とうし]をした。 | Năm nay công ty đầu tư thiết bị lớn.
+投資家[とうしか] | n | ĐẦU TƯ GIA | nhà đầu tư | - | - | 海外[かいがい]の投資家[とうしか]が日本[にほん]の株[かぶ]を買[か]っている。 | Nhà đầu tư nước ngoài đang mua cổ phiếu Nhật.
+実業家[じつぎょうか] | n | THỰC NGHIỆP GIA | doanh nhân | - | - | 彼[かれ]は有名[ゆうめい]な実業家[じつぎょうか]になった。 | Anh ấy đã trở thành doanh nhân nổi tiếng.
+破綻[はたん] | n,v3 | PHÁ TRÁN | đổ vỡ, phá sản | 経営[けいえい] が {破綻[はたん]} する | kinh doanh đổ vỡ | 無理[むり]な拡大[かくだい]で経営[けいえい]が破綻[はたん]した。 | Mở rộng quá sức nên công ty đổ vỡ.
+国債[こくさい] | n | QUỐC TRÁI | trái phiếu chính phủ | 国債[こくさい] を 発行[はっこう] する | phát hành trái phiếu chính phủ | 政府[せいふ]は国債[こくさい]を発行[はっこう]して資金[しきん]を集[あつ]めた。 | Chính phủ phát hành trái phiếu để huy động vốn.
+資本家[しほんか] | n | TƯ BẢN GIA | nhà tư bản | - | - | 資本家[しほんか]と労働者[ろうどうしゃ]の対立[たいりつ]を描[えが]いた小説[しょうせつ]だ。 | Đây là cuốn tiểu thuyết miêu tả xung đột giữa tư bản và người lao động.
+値崩[ねくず]れ | n,v3 | TRỊ BĂNG | giá sụt mạnh | - | - | 豊作[ほうさく]でキャベツが値崩[ねくず]れした。 | Được mùa nên giá bắp cải sụt mạnh.
+価格[かかく]競争[きょうそう] | n | GIÁ CÁCH CẠNH TRANH | cạnh tranh về giá | - | - | 価格[かかく]競争[きょうそう]に巻[ま]き込[こ]まれた。 | Bị cuốn vào cuộc cạnh tranh về giá.
+維持費[いじひ] | n | DUY TRÌ PHÍ | chi phí duy trì | - | - | 車[くるま]は維持費[いじひ]がかかる。 | Ô tô tốn chi phí duy trì.

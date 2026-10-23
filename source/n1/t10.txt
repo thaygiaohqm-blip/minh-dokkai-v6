@@ -1,0 +1,244 @@
+@topic t10
+@ja 思想[しそう]・宗教[しゅうきょう]・歴史[れきし]
+@vi Tư tưởng, tôn giáo và lịch sử
+@desc Các hệ tư tưởng, đời sống tín ngưỡng, thời phong kiến Nhật Bản và từ vựng mô tả sự thịnh suy của thời đại.
+思想[しそう] | n | TƯ TƯỞNG | tư tưởng | {思想} の 自由[じゆう] | tự do tư tưởng | 憲法[けんぽう]は思想[しそう]の自由[じゆう]を保障[ほしょう]している。 | Hiến pháp bảo đảm tự do tư tưởng.
+思想家[しそうか] | n | TƯ TƯỞNG GIA | nhà tư tưởng | - | - | 彼[かれ]は近代[きんだい]日本[にほん]を代表[だいひょう]する思想[しそう]家[か]だ。 | Ông là nhà tư tưởng tiêu biểu của Nhật Bản cận đại.
+哲学[てつがく] | n | TRIẾT HỌC | triết học; triết lý | 人生[じんせい] {哲学} | triết lý sống | 彼[かれ]には独自[どくじ]の経営[けいえい]哲学[てつがく]がある。 | Ông có triết lý kinh doanh riêng.
+哲学者[てつがくしゃ] | n | TRIẾT HỌC GIẢ | triết gia | - | - | 古代[こだい]ギリシャの哲学[てつがく]者[しゃ]の言葉[ことば]を引用[いんよう]した。 | Trích dẫn lời của triết gia Hy Lạp cổ đại.
+倫理観[りんりかん] | n | LUÂN LÝ QUAN | quan niệm đạo đức | - | - | 医師[いし]には高[たか]い倫理[りんり]観[かん]が求[もと]められる。 | Bác sĩ được đòi hỏi quan niệm đạo đức cao.
+道徳観[どうとくかん] | n | ĐẠO ĐỨC QUAN | quan niệm luân lý | - | - | 時代[じだい]とともに人々[ひとびと]の道徳[どうとく]観[かん]も変[か]わる。 | Quan niệm luân lý của con người cũng thay đổi theo thời đại.
+観念[かんねん] | n,v3 | QUAN NIỆM | quan niệm; cam chịu | 固定[こてい] {観念} | định kiến | 逃[に]げられないと観念[かんねん]して、犯人[はんにん]は自首[じしゅ]した。 | Biết không thoát được, hung thủ cam chịu ra đầu thú.
+世界観[せかいかん] | n | THẾ GIỚI QUAN | thế giới quan | - | - | この小説[しょうせつ]は独特[どくとく]の世界[せかい]観[かん]で人気[にんき]を集[あつ]めた。 | Cuốn tiểu thuyết được yêu thích nhờ thế giới quan độc đáo.
+人生観[じんせいかん] | n | NHÂN SINH QUAN | nhân sinh quan | - | - | 大病[たいびょう]をして人生[じんせい]観[かん]が変[か]わった。 | Sau trận ốm nặng, nhân sinh quan của tôi thay đổi.
+死生観[しせいかん] | n | TỬ SINH QUAN | quan niệm về sống chết | - | - | 日本[にほん]人[じん]の死生[しせい]観[かん]には仏教[ぶっきょう]の影響[えいきょう]がある。 | Quan niệm sống chết của người Nhật có ảnh hưởng Phật giáo.
+理想主義[りそうしゅぎ] | n | LÝ TƯỞNG CHỦ NGHĨA | chủ nghĩa lý tưởng | - | - | 彼[かれ]の考[かんが]えは理想[りそう]主義[しゅぎ]的[てき]すぎる。 | Suy nghĩ của anh ấy quá lý tưởng.
+現実主義[げんじつしゅぎ] | n | HIỆN THỰC CHỦ NGHĨA | chủ nghĩa hiện thực | - | - | 外交[がいこう]では現実[げんじつ]主義[しゅぎ]が求[もと]められる。 | Trong ngoại giao cần chủ nghĩa hiện thực.
+合理主義[ごうりしゅぎ] | n | HỢP LÝ CHỦ NGHĨA | chủ nghĩa duy lý | - | - | 合理[ごうり]主義[しゅぎ]の彼[かれ]は無駄[むだ]な会議[かいぎ]を嫌[きら]う。 | Là người duy lý, anh ghét những cuộc họp vô ích.
+個人主義[こじんしゅぎ] | n | CÁ NHÂN CHỦ NGHĨA | chủ nghĩa cá nhân | - | - | 個人[こじん]主義[しゅぎ]と利己[りこ]主義[しゅぎ]は違[ちが]う。 | Chủ nghĩa cá nhân khác với ích kỷ.
+集団主義[しゅうだんしゅぎ] | n | TẬP ĐOÀN CHỦ NGHĨA | chủ nghĩa tập thể | - | - | 日本[にほん]社会[しゃかい]は集団[しゅうだん]主義[しゅぎ]的[てき]だと言[い]われる。 | Người ta nói xã hội Nhật mang tính tập thể.
+社会主義[しゃかいしゅぎ] | n | XÃ HỘI CHỦ NGHĨA | chủ nghĩa xã hội | - | - | 社会[しゃかい]主義[しゅぎ]国家[こっか]が市場[しじょう]経済[けいざい]を導入[どうにゅう]した。 | Nhà nước xã hội chủ nghĩa đã áp dụng kinh tế thị trường.
+共産主義[きょうさんしゅぎ] | n | CỘNG SẢN CHỦ NGHĨA | chủ nghĩa cộng sản | - | - | 冷戦[れいせん]時代[じだい]、世界[せかい]は資本[しほん]主義[しゅぎ]と共産[きょうさん]主義[しゅぎ]に分[わ]かれていた。 | Thời chiến tranh lạnh, thế giới chia thành tư bản và cộng sản.
+自由主義[じゆうしゅぎ] | n | TỰ DO CHỦ NGHĨA | chủ nghĩa tự do | - | - | 自由[じゆう]主義[しゅぎ]経済[けいざい]では競争[きょうそう]が重視[じゅうし]される。 | Kinh tế tự do coi trọng cạnh tranh.
+民族主義[みんぞくしゅぎ] | n | DÂN TỘC CHỦ NGHĨA | chủ nghĩa dân tộc | - | - | 民族[みんぞく]主義[しゅぎ]の高[たか]まりが紛争[ふんそう]を招[まね]いた。 | Chủ nghĩa dân tộc dâng cao dẫn đến xung đột.
+国家主義[こっかしゅぎ] | n | QUỐC GIA CHỦ NGHĨA | chủ nghĩa quốc gia | - | - | 戦前[せんぜん]の日本[にほん]では国家[こっか]主義[しゅぎ]が強[つよ]まった。 | Ở Nhật trước chiến tranh, chủ nghĩa quốc gia mạnh lên.
+啓蒙[けいもう]思想[しそう] | n | KHẢI MÔNG TƯ TƯỞNG | tư tưởng Khai sáng | - | - | 啓蒙[けいもう]思想[しそう]はフランス革命[かくめい]に影響[えいきょう]を与[あた]えた。 | Tư tưởng Khai sáng ảnh hưởng tới Cách mạng Pháp.
+実存主義[じつぞんしゅぎ] | n | THỰC TỒN CHỦ NGHĨA | chủ nghĩa hiện sinh | - | - | サルトルは実存[じつぞん]主義[しゅぎ]を代表[だいひょう]する哲学[てつがく]者[しゃ]だ。 | Sartre là triết gia tiêu biểu của chủ nghĩa hiện sinh.
+唯物論[ゆいぶつろん] | n | DUY VẬT LUẬN | chủ nghĩa duy vật | - | - | 唯物[ゆいぶつ]論[ろん]では物質[ぶっしつ]が全[すべ]ての根源[こんげん]だと考[かんが]える。 | Chủ nghĩa duy vật cho rằng vật chất là căn nguyên của mọi thứ.
+無神論[むしんろん] | n | VÔ THẦN LUẬN | thuyết vô thần | - | - | 彼[かれ]は無神論[むしんろん]者[しゃ]だが、宗教[しゅうきょう]には敬意[けいい]を払[はら]う。 | Anh là người vô thần nhưng vẫn tôn trọng tôn giáo.
+無宗教[むしゅうきょう] | n | VÔ TÔN GIÁO | không theo tôn giáo | - | - | 日本[にほん]人[じん]の多[おお]くは自分[じぶん]を無宗教[むしゅうきょう]だと考[かんが]えている。 | Nhiều người Nhật nghĩ mình không theo tôn giáo.
+多神教[たしんきょう] | n | ĐA THẦN GIÁO | đa thần giáo | - | - | 神道[しんとう]は多神[たしん]教[きょう]の一[ひと]つとされる。 | Thần đạo được coi là một dạng đa thần giáo.
+一神教[いっしんきょう] | n | NHẤT THẦN GIÁO | độc thần giáo | - | - | キリスト教[きょう]やイスラム教[きょう]は一神[いっしん]教[きょう]だ。 | Kitô giáo và Hồi giáo là độc thần giáo.
+信者[しんじゃ] | n | TÍN GIẢ | tín đồ; người hâm mộ | - | - | 彼[かれ]はあのブランドの熱心[ねっしん]な信者[しんじゃ]だ。 | Anh ấy là tín đồ cuồng nhiệt của thương hiệu đó.
+信徒[しんと] | n | TÍN ĐỒ | tín đồ | - | - | 教会[きょうかい]に多[おお]くの信徒[しんと]が集[あつ]まった。 | Nhiều tín đồ tụ tập ở nhà thờ.
+教徒[きょうと] | n | GIÁO ĐỒ | tín đồ (của một đạo) | - | - | この地域[ちいき]には仏教[ぶっきょう]徒[と]が多[おお]い。 | Vùng này có nhiều tín đồ Phật giáo.
+仏教徒[ぶっきょうと] | n | PHẬT GIÁO ĐỒ | Phật tử | - | - | タイ国民[こくみん]の大半[たいはん]は仏教[ぶっきょう]徒[と]だ。 | Phần lớn người Thái là Phật tử.
+イスラム教[きょう] | n | GIÁO | Hồi giáo | - | - | イスラム教[きょう]では豚肉[ぶたにく]を食[た]べない。 | Đạo Hồi không ăn thịt lợn.
+儒教[じゅきょう] | n | NHO GIÁO | Nho giáo | - | - | 儒教[じゅきょう]は目上[めうえ]の人[ひと]を敬[うやま]うことを教[おし]える。 | Nho giáo dạy kính trọng người trên.
+宗派[しゅうは] | n | TÔN PHÁI | tông phái | - | - | 仏教[ぶっきょう]にはさまざまな宗派[しゅうは]がある。 | Phật giáo có nhiều tông phái.
+教団[きょうだん] | n | GIÁO ĐOÀN | giáo đoàn | - | - | 新興[しんこう]宗教[しゅうきょう]の教団[きょうだん]が社会[しゃかい]問題[もんだい]を起[お]こした。 | Một giáo đoàn tôn giáo mới gây ra vấn đề xã hội.
+教祖[きょうそ] | n | GIÁO TỔ | giáo chủ | - | - | 教祖[きょうそ]の言葉[ことば]を信者[しんじゃ]たちは絶対[ぜったい]視[し]した。 | Các tín đồ tuyệt đối hóa lời của giáo chủ.
+教義[きょうぎ] | n | GIÁO NGHĨA | giáo lý | - | - | その宗教[しゅうきょう]の教義[きょうぎ]では殺生[せっしょう]が禁[きん]じられている。 | Giáo lý của tôn giáo đó cấm sát sinh.
+経典[きょうてん] | n | KINH ĐIỂN | kinh điển, kinh sách | - | - | 僧侶[そうりょ]は毎朝[まいあさ]経典[きょうてん]を読[よ]む。 | Nhà sư tụng kinh mỗi sáng.
+聖書[せいしょ] | n | THÁNH THƯ | Kinh Thánh | - | - | 聖書[せいしょ]は世界[せかい]で最[もっと]も読[よ]まれている本[ほん]だと言[い]われる。 | Kinh Thánh được cho là sách được đọc nhiều nhất thế giới.
+お経[きょう] | n | KINH | kinh Phật | {お経} を あげる | tụng kinh | 法事[ほうじ]でお坊[ぼう]さんがお経[きょう]をあげた。 | Nhà sư tụng kinh trong buổi giỗ.
+僧侶[そうりょ] | n | TĂNG LỮ | tăng lữ | - | - | 寺[てら]では多[おお]くの僧侶[そうりょ]が修行[しゅぎょう]している。 | Nhiều tăng lữ tu hành trong chùa.
+住職[じゅうしょく] | n | TRÚ CHỨC | sư trụ trì | - | - | 寺[てら]の住職[じゅうしょく]が座禅[ざぜん]の指導[しどう]をしてくれた。 | Sư trụ trì hướng dẫn chúng tôi tọa thiền.
+神主[かんぬし] | n | THẦN CHỦ | thầy cúng Thần đạo | - | - | 神主[かんぬし]さんにお祓[はら]いをしてもらった。 | Tôi được thầy cúng làm lễ trừ tà.
+巫女[みこ] | n | VU NỮ | miko, nữ phục vụ đền | - | - | 正月[しょうがつ]の神社[じんじゃ]では巫女[みこ]がお守[まも]りを売[う]っている。 | Ngày Tết, miko bán bùa hộ mệnh ở đền.
+牧師[ぼくし] | n | MỤC SƯ | mục sư | - | - | 牧師[ぼくし]が結婚[けっこん]式[しき]を執[と]り行[おこな]った。 | Mục sư cử hành lễ cưới.
+神父[しんぷ] | n | THẦN PHỤ | linh mục | - | - | 神父[しんぷ]さんに悩[なや]みを打[う]ち明[あ]けた。 | Tôi thổ lộ nỗi lòng với cha xứ.
+修行[しゅぎょう] | n,v3 | TU HÀNH | tu hành; khổ luyện | - | - | 彼[かれ]は料理[りょうり]の修行[しゅぎょう]のためフランスへ渡[わた]った。 | Anh sang Pháp để khổ luyện nghề nấu ăn.
+悟[さと]り | n | NGỘ | giác ngộ | {悟り} を 開[ひら]く | giác ngộ | 釈迦[しゃか]は菩提樹[ぼだいじゅ]の下[した]で悟[さと]りを開[ひら]いた。 | Đức Phật giác ngộ dưới gốc cây bồ đề.
+煩悩[ぼんのう] | n | PHIỀN NÃO | phiền não | - | - | 除夜[じょや]の鐘[かね]は百八[ひゃくはち]の煩悩[ぼんのう]を払[はら]うと言[い]われる。 | Người ta nói chuông đêm giao thừa xua đi một trăm lẻ tám phiền não.
+輪廻[りんね] | n | LUÂN HỒI | luân hồi | - | - | 仏教[ぶっきょう]では命[いのち]は輪廻[りんね]すると考[かんが]える。 | Phật giáo cho rằng sự sống luân hồi.
+来世[らいせ] | n | LAI THẾ | kiếp sau | - | - | 来世[らいせ]では鳥[とり]に生[う]まれ変[か]わりたい。 | Kiếp sau tôi muốn làm chim.
+前世[ぜんせ] | n | TIỀN THẾ | kiếp trước | - | - | 前世[ぜんせ]で何[なに]か悪[わる]いことをしたのかと思[おも]うほど運[うん]が悪[わる]い。 | Xui đến mức tôi nghĩ kiếp trước đã làm gì sai.
+極楽[ごくらく] | n | CỰC LẠC | cực lạc; sung sướng | - | - | 温泉[おんせん]に入[はい]ると極楽[ごくらく]気分[きぶん]だ。 | Ngâm suối nước nóng sướng như lên tiên.
+地獄[じごく] | n | ĐỊA NGỤC | địa ngục | - | - | 満員[まんいん]電車[でんしゃ]での通勤[つうきん]は地獄[じごく]だ。 | Đi làm bằng tàu chật cứng đúng là địa ngục.
+天国[てんごく] | n | THIÊN QUỐC | thiên đường | - | - | 子供[こども]にとって遊園地[ゆうえんち]は天国[てんごく]だ。 | Với trẻ con, công viên giải trí là thiên đường.
+霊[れい] | n | LINH | linh hồn, vong linh | - | - | 戦争[せんそう]で亡[な]くなった人々[ひとびと]の霊[れい]を慰[なぐさ]める。 | An ủi vong linh những người chết trong chiến tranh.
+霊魂[れいこん] | n | LINH HỒN | linh hồn | - | - | 霊魂[れいこん]の存在[そんざい]を信[しん]じる人[ひと]もいる。 | Có người tin vào sự tồn tại của linh hồn.
+魂[たましい] | n | HỒN | linh hồn, tâm hồn | {魂} を 込[こ]める | dồn hết tâm huyết | 職人[しょくにん]は魂[たましい]を込[こ]めて一[ひと]つ一[ひと]つ作[つく]る。 | Người thợ dồn hết tâm huyết làm từng chiếc một.
+祟[たた]り | n | TÚY | sự trừng phạt của thần linh | - | - | 古[ふる]い木[き]を切[き]ると祟[たた]りがあると村人[むらびと]は恐[おそ]れた。 | Dân làng sợ chặt cây cổ thụ sẽ bị thần linh trừng phạt.
+呪[のろ]い | n | CHÚ | lời nguyền | - | - | この人形[にんぎょう]には呪[のろ]いがかかっているという噂[うわさ]がある。 | Có tin đồn con búp bê này bị yểm lời nguyền.
+縁起物[えんぎもの] | n | DUYÊN KHỞI VẬT | vật mang lại may mắn | - | - | 招[まね]き猫[ねこ]は商売[しょうばい]繁盛[はんじょう]の縁起[えんぎ]物[もの]だ。 | Mèo vẫy tay là vật may mắn cho buôn bán phát đạt.
+信心[しんじん] | n | TÍN TÂM | lòng tin đạo | - | - | 祖母[そぼ]は信心[しんじん]深[ぶか]く、毎朝[まいあさ]仏壇[ぶつだん]に手[て]を合[あ]わせる。 | Bà tôi sùng đạo, sáng nào cũng chắp tay trước bàn thờ Phật.
+崇拝[すうはい] | n,v3 | SÙNG BÁI | sùng bái | 偶像[ぐうぞう] {崇拝} | sùng bái thần tượng | 古代[こだい]の人々[ひとびと]は太陽[たいよう]を崇拝[すうはい]していた。 | Người cổ đại sùng bái mặt trời.
+参詣[さんけい] | n,v3 | THAM NGHỆ | đi lễ (đền chùa) | - | - | 多[おお]くの人[ひと]が初詣[はつもうで]に参詣[さんけい]した。 | Nhiều người đi lễ đầu năm.
+巡礼[じゅんれい] | n,v3 | TUẦN LỄ | hành hương | - | - | 四国[しこく]八十八[はちじゅうはっ]か所[しょ]を巡礼[じゅんれい]した。 | Tôi hành hương tám mươi tám ngôi chùa ở Shikoku.
+礼拝[れいはい] | n,v3 | LỄ BÁI | lễ bái, cầu nguyện | - | - | 日曜日[にちようび]には教会[きょうかい]で礼拝[れいはい]がある。 | Chủ nhật có buổi lễ ở nhà thờ.
+祈祷[きとう] | n,v3 | KỲ ĐẢO | cầu khấn | - | - | 神社[じんじゃ]で家内[かない]安全[あんぜん]のご祈祷[きとう]を受[う]けた。 | Tôi cầu khấn bình an gia đạo ở đền.
+祈願[きがん] | n,v3 | KỲ NGUYỆN | cầu nguyện | 合格[ごうかく] {祈願} | cầu đỗ đạt | 受験[じゅけん]生[せい]が天満宮[てんまんぐう]で合格[ごうかく]祈願[きがん]をした。 | Thí sinh cầu đỗ đạt ở đền Tenmangu.
+供養[くよう] | n,v3 | CUNG DƯỠNG | cúng siêu độ | - | - | 亡[な]くなった祖父[そふ]の供養[くよう]をした。 | Chúng tôi cúng siêu độ cho ông đã mất.
+奉納[ほうのう] | n,v3 | PHỤNG NẠP | dâng cúng | - | - | 祭[まつ]りで神社[じんじゃ]に踊[おど]りが奉納[ほうのう]された。 | Điệu múa được dâng lên đền trong lễ hội.
+祭礼[さいれい] | n | TẾ LỄ | lễ hội, tế lễ | - | - | 秋[あき]の祭礼[さいれい]で神輿[みこし]が町[まち]を練[ね]り歩[ある]く。 | Trong lễ hội mùa thu, kiệu thần diễu qua phố.
+神事[しんじ] | n | THẦN SỰ | nghi lễ thần đạo | - | - | 相撲[すもう]はもともと神事[しんじ]だった。 | Sumo vốn là một nghi lễ thần đạo.
+祭祀[さいし] | n | TẾ TỰ | thờ cúng | - | - | 古代[こだい]の祭祀[さいし]の跡[あと]が見[み]つかった。 | Tìm thấy dấu vết thờ cúng thời cổ đại.
+儀礼[ぎれい] | n | NGHI LỄ | nghi thức, lễ nghi | {儀礼} 的[てき] | mang tính xã giao | 儀礼[ぎれい]的[てき]なあいさつを交[か]わした。 | Hai bên trao đổi lời chào xã giao.
+神棚[かみだな] | n | THẦN BẰNG | bàn thờ thần | - | - | 毎朝[まいあさ]神棚[かみだな]に水[みず]を供[そな]える。 | Mỗi sáng dâng nước lên bàn thờ thần.
+寺社[じしゃ] | n | TỰ XÃ | đền chùa | - | - | 京都[きょうと]には数多[かずおお]くの寺社[じしゃ]がある。 | Kyoto có rất nhiều đền chùa.
+神社[じんじゃ]仏閣[ぶっかく] | n | THẦN XÃ PHẬT CÁC | đền thần và chùa Phật | - | - | 神社[じんじゃ]仏閣[ぶっかく]巡[めぐ]りが趣味[しゅみ]だ。 | Sở thích của tôi là đi thăm đền chùa.
+境内[けいだい] | n | CẢNH NỘI | khuôn viên đền chùa | - | - | 境内[けいだい]には大[おお]きな杉[すぎ]の木[き]がある。 | Trong khuôn viên đền có cây tuyết tùng lớn.
+本殿[ほんでん] | n | BẢN ĐIỆN | chính điện | - | - | 本殿[ほんでん]の前[まえ]で手[て]を合[あ]わせた。 | Chắp tay trước chính điện.
+拝殿[はいでん] | n | BÁI ĐIỆN | điện thờ bái | - | - | 拝殿[はいでん]で鈴[すず]を鳴[な]らしてお参[まい]りした。 | Rung chuông ở điện bái rồi khấn vái.
+布教[ふきょう] | n,v3 | BỐ GIÁO | truyền đạo | - | - | ザビエルは日本[にほん]でキリスト教[きょう]を布教[ふきょう]した。 | Xavier đã truyền đạo Kitô ở Nhật.
+宣教師[せんきょうし] | n | TUYÊN GIÁO SƯ | nhà truyền giáo | - | - | 宣教[せんきょう]師[し]たちは西洋[せいよう]の学問[がくもん]も伝[つた]えた。 | Các nhà truyền giáo cũng truyền bá học thuật phương Tây.
+伝来[でんらい] | n,v3 | TRUYỀN LAI | truyền vào (từ nước ngoài) | - | - | 仏教[ぶっきょう]は六世紀[ろくせいき]に日本[にほん]へ伝来[でんらい]した。 | Phật giáo truyền vào Nhật thế kỷ sáu.
+殉教[じゅんきょう] | n,v3 | TUẪN GIÁO | tử vì đạo | - | - | 長崎[ながさき]では多[おお]くのキリシタンが殉教[じゅんきょう]した。 | Ở Nagasaki nhiều tín đồ Kitô đã tử vì đạo.
+迫害[はくがい] | n,v3 | BÁCH HẠI | bức hại | - | - | 彼[かれ]らは宗教[しゅうきょう]的[てき]な迫害[はくがい]を逃[のが]れて国[くに]を出[で]た。 | Họ rời đất nước để thoát khỏi bức hại tôn giáo.
+異端[いたん] | n | DỊ ĐOAN | dị giáo; lạc dòng | {異端} 児[じ] | kẻ lập dị | 彼[かれ]は画壇[がだん]の異端[いたん]児[じ]と呼[よ]ばれた。 | Ông được gọi là kẻ lập dị của giới hội họa.
+戒律[かいりつ] | n | GIỚI LUẬT | giới luật | - | - | 修道院[しゅうどういん]では厳[きび]しい戒律[かいりつ]を守[まも]って生活[せいかつ]する。 | Trong tu viện người ta sống theo giới luật nghiêm ngặt.
+禁欲[きんよく] | n,v3 | CẤM DỤC | tiết dục, khổ hạnh | {禁欲} 的[てき] | khổ hạnh | 試合[しあい]前[まえ]の彼[かれ]は禁欲[きんよく]的[てき]な生活[せいかつ]を送[おく]る。 | Trước trận đấu anh sống rất khổ hạnh.
+断食[だんじき] | n,v3 | ĐOẠN THỰC | nhịn ăn | - | - | ラマダンの期間[きかん]は日中[にっちゅう]断食[だんじき]する。 | Trong tháng Ramadan, người ta nhịn ăn ban ngày.
+合掌[がっしょう] | n,v3 | HỢP CHƯỞNG | chắp tay | - | - | 仏像[ぶつぞう]の前[まえ]で静[しず]かに合掌[がっしょう]した。 | Lặng lẽ chắp tay trước tượng Phật.
+念仏[ねんぶつ] | n | NIỆM PHẬT | niệm Phật | - | - | 祖母[そぼ]は毎晩[まいばん]念仏[ねんぶつ]を唱[とな]えていた。 | Bà tôi tối nào cũng niệm Phật.
+座禅[ざぜん] | n | TỌA THIỀN | tọa thiền | - | - | 寺[てら]で座禅[ざぜん]を組[く]んで心[こころ]を落[お]ち着[つ]けた。 | Tọa thiền ở chùa để tâm an tĩnh.
+禅[ぜん] | n | THIỀN | Thiền | - | - | 禅[ぜん]の思想[しそう]は日本[にほん]文化[ぶんか]に大[おお]きな影響[えいきょう]を与[あた]えた。 | Tư tưởng Thiền ảnh hưởng lớn tới văn hóa Nhật.
+お布施[ふせ] | n | BỐ THÍ | tiền cúng dường | - | - | 法事[ほうじ]のお布施[ふせ]の金額[きんがく]に迷[まよ]った。 | Tôi phân vân về số tiền cúng dường cho buổi giỗ.
+出家[しゅっけ] | n,v3 | XUẤT GIA | xuất gia | - | - | 彼[かれ]は全[すべ]てを捨[す]てて出家[しゅっけ]した。 | Ông từ bỏ tất cả để xuất gia.
+先祖[せんぞ]代々[だいだい] | n | TIÊN TỔ ĐẠI ĐẠI | từ đời ông cha | - | - | この土地[とち]は先祖[せんぞ]代々[だいだい]受[う]け継[つ]いできたものだ。 | Mảnh đất này được truyền lại từ đời ông cha.
+末裔[まつえい] | n | MẠT DUỆ | hậu duệ | - | - | 彼[かれ]は有名[ゆうめい]な武将[ぶしょう]の末裔[まつえい]だそうだ。 | Nghe nói anh ấy là hậu duệ của một võ tướng nổi tiếng.
+後世[こうせい] | n | HẬU THẾ | hậu thế | {後世} に 伝[つた]える | truyền lại cho đời sau | 戦争[せんそう]の悲惨[ひさん]さを後世[こうせい]に伝[つた]えたい。 | Tôi muốn truyền lại cho hậu thế sự thảm khốc của chiến tranh.
+先人[せんじん] | n | TIÊN NHÂN | người đi trước | {先人} の 知恵[ちえ] | trí tuệ người xưa | 先人[せんじん]の知恵[ちえ]に学[まな]ぶことは多[おお]い。 | Có nhiều điều để học từ trí tuệ của người đi trước.
+偉人[いじん] | n | VĨ NHÂN | vĩ nhân | - | - | 子供[こども]のころ偉人[いじん]の伝記[でんき]をたくさん読[よ]んだ。 | Hồi nhỏ tôi đọc nhiều tiểu sử vĩ nhân.
+英雄[えいゆう] | n | ANH HÙNG | anh hùng | - | - | 彼[かれ]は国[くに]を救[すく]った英雄[えいゆう]として語[かた]り継[つ]がれている。 | Ông được truyền tụng như người anh hùng cứu nước.
+偉業[いぎょう] | n | VĨ NGHIỆP | sự nghiệp vĩ đại | {偉業} を 成[な]し遂[と]げる | lập nên kỳ tích | 彼女[かのじょ]は前人[ぜんじん]未到[みとう]の偉業[いぎょう]を成[な]し遂[と]げた。 | Cô đã lập nên kỳ tích chưa ai đạt được.
+功績[こうせき] | n | CÔNG TÍCH | công lao | {功績} を 残[のこ]す | để lại công lao | 彼[かれ]は医学[いがく]の発展[はってん]に大[おお]きな功績[こうせき]を残[のこ]した。 | Ông để lại công lao lớn cho sự phát triển của y học.
+賢者[けんじゃ] | n | HIỀN GIẢ | người hiền triết | - | - | 「愚者[ぐしゃ]は経験[けいけん]に学[まな]び、賢者[けんじゃ]は歴史[れきし]に学[まな]ぶ」という言葉[ことば]がある。 | Có câu "kẻ ngu học từ kinh nghiệm, người hiền học từ lịch sử".
+聖人[せいじん] | n | THÁNH NHÂN | thánh nhân | - | - | 彼[かれ]は聖人[せいじん]のように心[こころ]の広[ひろ]い人[ひと]だ。 | Ông ấy là người rộng lượng như thánh nhân.
+王者[おうじゃ] | n | VƯƠNG GIẢ | nhà vô địch, vua | - | - | 彼[かれ]は十[じゅう]年[ねん]間[かん]テニス界[かい]の王者[おうじゃ]だった。 | Anh là vua của làng quần vợt suốt mười năm.
+覇者[はしゃ] | n | BÁ GIẢ | kẻ chinh phục, nhà vô địch | - | - | 大会[たいかい]の覇者[はしゃ]が決[き]まった。 | Nhà vô địch giải đấu đã được xác định.
+史実[しじつ] | n | SỬ THỰC | sự thật lịch sử | - | - | このドラマは史実[しじつ]に基[もと]づいて作[つく]られている。 | Bộ phim này dựa trên sự thật lịch sử.
+史料[しりょう] | n | SỬ LIỆU | sử liệu | - | - | 新[あら]たな史料[しりょう]の発見[はっけん]で定説[ていせつ]が覆[くつがえ]った。 | Việc phát hiện sử liệu mới đã lật lại thuyết được công nhận.
+古文書[こもんじょ] | n | CỔ VĂN THƯ | văn thư cổ | - | - | 蔵[くら]から江戸[えど]時代[じだい]の古文書[こもんじょ]が見[み]つかった。 | Tìm thấy văn thư cổ thời Edo trong nhà kho.
+歴史書[れきししょ] | n | LỊCH SỬ THƯ | sách sử | - | - | 日本[にほん]最古[さいこ]の歴史[れきし]書[しょ]は古事記[こじき]だ。 | Sách sử cổ nhất Nhật Bản là Kojiki.
+歴史家[れきしか] | n | LỊCH SỬ GIA | nhà sử học | - | - | 歴史[れきし]家[か]の間[あいだ]でも評価[ひょうか]が分[わ]かれている。 | Ngay giữa các nhà sử học, đánh giá cũng khác nhau.
+史観[しかん] | n | SỬ QUAN | sử quan | - | - | 勝者[しょうしゃ]の史観[しかん]だけで歴史[れきし]を語[かた]ってはならない。 | Không được kể lịch sử chỉ theo sử quan của kẻ thắng.
+通史[つうし] | n | THÔNG SỬ | lịch sử toàn diện | - | - | 日本[にほん]の通史[つうし]を一冊[いっさつ]にまとめた本[ほん]だ。 | Đây là cuốn sách tóm lược toàn bộ lịch sử Nhật Bản.
+郷土史[きょうどし] | n | HƯƠNG THỔ SỬ | lịch sử địa phương | - | - | 定年[ていねん]後[ご]、郷土[きょうど]史[し]の研究[けんきゅう]を始[はじ]めた。 | Sau khi nghỉ hưu ông bắt đầu nghiên cứu lịch sử địa phương.
+年表[ねんぴょう] | n | NIÊN BIỂU | niên biểu | - | - | 歴史[れきし]の流[なが]れを年表[ねんぴょう]で確認[かくにん]する。 | Kiểm tra dòng chảy lịch sử bằng niên biểu.
+紀元[きげん] | n | KỶ NGUYÊN | kỷ nguyên; công nguyên | - | - | この遺跡[いせき]は紀元[きげん]三世紀[さんせいき]ごろのものだ。 | Di chỉ này có từ khoảng thế kỷ ba công nguyên.
+紀元前[きげんぜん] | n | KỶ NGUYÊN TIỀN | trước công nguyên | - | - | ピラミッドは紀元[きげん]前[ぜん]に造[つく]られた。 | Kim tự tháp được xây trước công nguyên.
+西暦[せいれき] | n | TÂY LỊCH | dương lịch, tây lịch | - | - | 書類[しょるい]には西暦[せいれき]で日付[ひづけ]を書[か]いてください。 | Hãy ghi ngày tháng theo dương lịch trên giấy tờ.
+和暦[われき] | n | HÒA LỊCH | lịch Nhật (theo niên hiệu) | - | - | 和暦[われき]と西暦[せいれき]の換算[かんさん]に迷[まよ]うことがある。 | Đôi khi tôi bối rối khi đổi lịch Nhật sang dương lịch.
+元号[げんごう] | n | NGUYÊN HIỆU | niên hiệu | - | - | 2019年[ねん]に元号[げんごう]が令和[れいわ]に変[か]わった。 | Năm 2019 niên hiệu đổi thành Reiwa.
+改元[かいげん] | n,v3 | CẢI NGUYÊN | đổi niên hiệu | - | - | 改元[かいげん]に合[あ]わせて記念[きねん]硬貨[こうか]が発行[はっこう]された。 | Tiền xu kỷ niệm được phát hành nhân dịp đổi niên hiệu.
+縄文[じょうもん]時代[じだい] | n | THẰNG VĂN THỜI ĐẠI | thời Jomon | - | - | 縄文[じょうもん]時代[じだい]の人々[ひとびと]は狩猟[しゅりょう]や採集[さいしゅう]で暮[く]らした。 | Người thời Jomon sống bằng săn bắt và hái lượm.
+弥生[やよい]時代[じだい] | n | DI SINH THỜI ĐẠI | thời Yayoi | - | - | 弥生[やよい]時代[じだい]に稲作[いなさく]が本格[ほんかく]的[てき]に始[はじ]まった。 | Thời Yayoi nghề trồng lúa bắt đầu thực sự.
+古代[こだい] | n | CỔ ĐẠI | cổ đại | {古代} 文明[ぶんめい] | văn minh cổ đại | 古代[こだい]エジプトの文明[ぶんめい]に興味[きょうみ]がある。 | Tôi quan tâm đến văn minh Ai Cập cổ đại.
+中世[ちゅうせい] | n | TRUNG THẾ | trung cổ | - | - | 中世[ちゅうせい]ヨーロッパの城[しろ]を見学[けんがく]した。 | Tôi tham quan lâu đài châu Âu thời trung cổ.
+近世[きんせい] | n | CẬN THẾ | cận thế | - | - | 日本[にほん]の近世[きんせい]は主[おも]に江戸[えど]時代[じだい]を指[さ]す。 | Cận thế Nhật Bản chủ yếu chỉ thời Edo.
+原始[げんし] | n | NGUYÊN THỦY | nguyên thủy | {原始} 的[てき] | nguyên thủy | 原始[げんし]時代[じだい]の人々[ひとびと]は火[ひ]を使[つか]い始[はじ]めた。 | Con người thời nguyên thủy bắt đầu sử dụng lửa.
+先史[せんし] | n | TIÊN SỬ | tiền sử | {先史} 時代[じだい] | thời tiền sử | 洞窟[どうくつ]に先史[せんし]時代[じだい]の壁画[へきが]が残[のこ]っている。 | Trong hang còn những bức bích họa thời tiền sử.
+王朝[おうちょう] | n | VƯƠNG TRIỀU | vương triều | - | - | その王朝[おうちょう]は三百[さんびゃく]年[ねん]続[つづ]いた。 | Vương triều đó kéo dài ba trăm năm.
+朝廷[ちょうてい] | n | TRIỀU ĐÌNH | triều đình | - | - | 平安[へいあん]時代[じだい]には朝廷[ちょうてい]の貴族[きぞく]が政治[せいじ]を行[おこな]った。 | Thời Heian, quý tộc trong triều đình nắm việc chính sự.
+幕府[ばくふ] | n | MẠC PHỦ | Mạc phủ | - | - | 徳川[とくがわ]家康[いえやす]は江戸[えど]に幕府[ばくふ]を開[ひら]いた。 | Tokugawa Ieyasu lập Mạc phủ ở Edo.
+将軍[しょうぐん] | n | TƯỚNG QUÂN | tướng quân, shogun | - | - | 江戸[えど]時代[じだい]には十五[じゅうご]人[にん]の将軍[しょうぐん]がいた。 | Thời Edo có mười lăm vị tướng quân.
+大名[だいみょう] | n | ĐẠI DANH | lãnh chúa daimyo | - | - | 大名[だいみょう]は参勤[さんきん]交代[こうたい]で江戸[えど]と領地[りょうち]を行[い]き来[き]した。 | Lãnh chúa đi lại giữa Edo và lãnh địa theo chế độ luân phiên.
+武士[ぶし] | n | VŨ SĨ | võ sĩ, samurai | {武士} 道[どう] | võ sĩ đạo | 武士[ぶし]道[どう]の精神[せいしん]は今[いま]も語[かた]られている。 | Tinh thần võ sĩ đạo vẫn được nhắc tới ngày nay.
+侍[さむらい] | n | THỊ | samurai | - | - | 侍[さむらい]の時代[じだい]を描[えが]いた映画[えいが]を見[み]た。 | Tôi xem bộ phim về thời đại samurai.
+武家[ぶけ] | n | VŨ GIA | gia đình võ sĩ | {武家} 屋敷[やしき] | dinh thự võ sĩ | 町[まち]には古[ふる]い武家[ぶけ]屋敷[やしき]が残[のこ]っている。 | Trong thị trấn vẫn còn những dinh thự võ sĩ cổ.
+公家[くげ] | n | CÔNG GIA | quý tộc triều đình | - | - | 公家[くげ]の文化[ぶんか]は優雅[ゆうが]で洗練[せんれん]されていた。 | Văn hóa quý tộc triều đình thanh nhã và tinh tế.
+貴族[きぞく] | n | QUÝ TỘC | quý tộc | - | - | ヨーロッパの貴族[きぞく]の館[やかた]がホテルになっている。 | Dinh thự quý tộc châu Âu đã thành khách sạn.
+豪族[ごうぞく] | n | HÀO TỘC | hào tộc, thế gia địa phương | - | - | 古墳[こふん]は地方[ちほう]の豪族[ごうぞく]の墓[はか]だと考[かんが]えられている。 | Mộ cổ được cho là của các hào tộc địa phương.
+皇族[こうぞく] | n | HOÀNG TỘC | hoàng tộc | - | - | 皇族[こうぞく]の方[かた]が式典[しきてん]に出席[しゅっせき]された。 | Thành viên hoàng tộc đã dự lễ.
+平民[へいみん] | n | BÌNH DÂN | thường dân | - | - | 明治[めいじ]時代[じだい]に平民[へいみん]も名字[みょうじ]を名乗[なの]るようになった。 | Thời Minh Trị, thường dân cũng bắt đầu mang họ.
+町人[ちょうにん] | n | ĐINH NHÂN | dân phố (thời Edo) | - | - | 江戸[えど]の町人[ちょうにん]文化[ぶんか]から浮世絵[うきよえ]が生[う]まれた。 | Tranh ukiyo-e ra đời từ văn hóa dân phố Edo.
+身分[みぶん] | n | THÂN PHẬN | thân phận; giấy tờ tùy thân | {身分} 証明[しょうめい] 書[しょ] | giấy tờ tùy thân | 窓口[まどぐち]で身分[みぶん]証明[しょうめい]書[しょ]の提示[ていじ]を求[もと]められた。 | Ở quầy tôi được yêu cầu xuất trình giấy tờ tùy thân.
+身分[みぶん]制度[せいど] | n | THÂN PHẬN CHẾ ĐỘ | chế độ đẳng cấp | - | - | 江戸[えど]時代[じだい]には厳[きび]しい身分[みぶん]制度[せいど]があった。 | Thời Edo có chế độ đẳng cấp khắt khe.
+士農工商[しのうこうしょう] | n | SĨ NÔNG CÔNG THƯƠNG | sĩ nông công thương | - | - | 士農[しのう]工商[こうしょう]という言葉[ことば]は身分[みぶん]の序列[じょれつ]を表[あらわ]す。 | Từ "sĩ nông công thương" biểu thị thứ bậc thân phận.
+封建[ほうけん] | n | PHONG KIẾN | phong kiến | {封建} 的[てき] | phong kiến | 祖父[そふ]は封建[ほうけん]的[てき]な考[かんが]え方[かた]の持[も]ち主[ぬし]だ。 | Ông tôi có lối nghĩ phong kiến.
+封建[ほうけん]制度[せいど] | n | PHONG KIẾN CHẾ ĐỘ | chế độ phong kiến | - | - | 明治[めいじ]維新[いしん]で封建[ほうけん]制度[せいど]が崩[くず]れた。 | Chế độ phong kiến sụp đổ sau Minh Trị Duy tân.
+年貢[ねんぐ] | n | NIÊN CỐNG | thuế ruộng | {年貢} の 納[おさ]め時[どき] | lúc phải chịu trận | 農民[のうみん]は重[おも]い年貢[ねんぐ]に苦[くる]しんだ。 | Nông dân khổ sở vì thuế ruộng nặng nề.
+寺子屋[てらこや] | n | TỰ TỬ ỐC | trường làng (thời Edo) | - | - | 江戸[えど]時代[じだい]の子供[こども]は寺子屋[てらこや]で読[よ]み書[か]きを学[まな]んだ。 | Trẻ em thời Edo học đọc viết ở trường làng.
+律令[りつりょう] | n | LUẬT LỆNH | luật lệnh (thời cổ) | {律令} 国家[こっか] | nhà nước luật lệnh | 奈良[なら]時代[じだい]には律令[りつりょう]に基[もと]づく政治[せいじ]が行[おこな]われた。 | Thời Nara, chính trị được tiến hành dựa trên luật lệnh.
+摂政[せっしょう] | n | NHIẾP CHÍNH | nhiếp chính | - | - | 聖徳[しょうとく]太子[たいし]は摂政[せっしょう]として政治[せいじ]を行[おこな]った。 | Thái tử Shotoku nắm chính sự với tư cách nhiếp chính.
+関白[かんぱく] | n | QUAN BẠCH | quan bạch; người chồng gia trưởng | 亭主[ていしゅ] {関白} | chồng gia trưởng | うちの父[ちち]は昔[むかし]ながらの亭主[ていしゅ]関白[かんぱく]だ。 | Bố tôi là kiểu chồng gia trưởng như xưa.
+執権[しっけん] | n | CHẤP QUYỀN | chấp quyền (thời Kamakura) | - | - | 鎌倉[かまくら]時代[じだい]には北条[ほうじょう]氏[し]が執権[しっけん]として実権[じっけん]を握[にぎ]った。 | Thời Kamakura, họ Hojo nắm thực quyền với chức chấp quyền.
+遣唐使[けんとうし] | n | KHIỂN ĐƯỜNG SỨ | sứ thần sang nhà Đường | - | - | 遣唐[けんとう]使[し]は中国[ちゅうごく]の文化[ぶんか]や制度[せいど]を日本[にほん]に持[も]ち帰[かえ]った。 | Sứ thần sang nhà Đường mang văn hóa và chế độ Trung Hoa về Nhật.
+渡来人[とらいじん] | n | ĐỘ LAI NHÂN | người di cư từ đại lục | - | - | 渡来[とらい]人[じん]が漢字[かんじ]や技術[ぎじゅつ]を伝[つた]えた。 | Người di cư từ đại lục đã truyền vào chữ Hán và kỹ thuật.
+合戦[かっせん] | n,v3 | HỢP CHIẾN | trận chiến | - | - | 関[せき]ヶ原[がはら]の合戦[かっせん]は天下[てんか]分[わ]け目[め]の戦[たたか]いだった。 | Trận Sekigahara là trận chiến quyết định thiên hạ.
+戦乱[せんらん] | n | CHIẾN LOẠN | chiến loạn | - | - | 戦乱[せんらん]の世[よ]を生[い]き抜[ぬ]いた人々[ひとびと]の物語[ものがたり]だ。 | Đây là câu chuyện về những người sống sót qua thời chiến loạn.
+乱世[らんせ] | n | LOẠN THẾ | thời loạn | - | - | 乱世[らんせ]には多[おお]くの英雄[えいゆう]が現[あらわ]れる。 | Thời loạn xuất hiện nhiều anh hùng.
+動乱[どうらん] | n | ĐỘNG LOẠN | biến loạn | - | - | 幕末[ばくまつ]の動乱[どうらん]期[き]を描[えが]いた小説[しょうせつ]だ。 | Tiểu thuyết miêu tả thời kỳ biến loạn cuối Mạc phủ.
+内紛[ないふん] | n | NỘI PHÂN | nội bộ lục đục | - | - | 党[とう]の内紛[ないふん]が表面[ひょうめん]化[か]した。 | Nội bộ đảng lục đục đã lộ ra ngoài.
+下剋上[げこくじょう] | n | HẠ KHẮC THƯỢNG | kẻ dưới lật đổ người trên | - | - | 戦国[せんごく]時代[じだい]は下剋上[げこくじょう]の時代[じだい]だった。 | Thời Chiến quốc là thời kẻ dưới lật đổ người trên.
+天下[てんか]統一[とういつ] | n | THIÊN HẠ THỐNG NHẤT | thống nhất thiên hạ | - | - | 豊臣[とよとみ]秀吉[ひでよし]は天下[てんか]統一[とういつ]を果[は]たした。 | Toyotomi Hideyoshi đã thống nhất thiên hạ.
+戦国[せんごく]時代[じだい] | n | CHIẾN QUỐC THỜI ĐẠI | thời Chiến quốc | - | - | 戦国[せんごく]時代[じだい]の武将[ぶしょう]は今[いま]も人気[にんき]がある。 | Các võ tướng thời Chiến quốc vẫn được yêu thích.
+城跡[しろあと] | n | THÀNH TÍCH | di tích thành | - | - | 城跡[しろあと]は桜[さくら]の名所[めいしょ]になっている。 | Di tích thành giờ là điểm ngắm hoa anh đào.
+天守閣[てんしゅかく] | n | THIÊN THỦ CÁC | tháp thành chính | - | - | 天守[てんしゅ]閣[かく]から町[まち]全体[ぜんたい]が見渡[みわた]せる。 | Từ tháp thành có thể nhìn bao quát toàn thị trấn.
+城郭[じょうかく] | n | THÀNH QUÁCH | thành quách | - | - | 姫路[ひめじ]城[じょう]は日本[にほん]を代表[だいひょう]する城郭[じょうかく]建築[けんちく]だ。 | Lâu đài Himeji là kiến trúc thành quách tiêu biểu của Nhật.
+藩[はん] | n | PHIÊN | phiên (lãnh địa) | - | - | 江戸[えど]時代[じだい]、日本[にほん]には約[やく]三百[さんびゃく]の藩[はん]があった。 | Thời Edo, Nhật có khoảng ba trăm phiên.
+藩主[はんしゅ] | n | PHIÊN CHỦ | lãnh chúa phiên | - | - | 藩主[はんしゅ]は領民[りょうみん]のために新田[しんでん]を開発[かいはつ]した。 | Lãnh chúa phiên khai khẩn ruộng mới vì dân.
+城下町[じょうかまち] | n | THÀNH HẠ ĐINH | thị trấn quanh thành | - | - | 金沢[かなざわ]は古[ふる]い城下[じょうか]町[まち]の面影[おもかげ]を残[のこ]している。 | Kanazawa còn giữ dáng vẻ của thị trấn quanh thành xưa.
+鎖国[さこく] | n,v3 | TỎA QUỐC | bế quan tỏa cảng | - | - | 江戸[えど]幕府[ばくふ]は二百[にひゃく]年[ねん]以上[いじょう]鎖国[さこく]を続[つづ]けた。 | Mạc phủ Edo bế quan tỏa cảng hơn hai trăm năm.
+開国[かいこく] | n,v3 | KHAI QUỐC | mở cửa đất nước | - | - | 黒船[くろふね]の来航[らいこう]をきっかけに日本[にほん]は開国[かいこく]した。 | Nhật mở cửa sau sự kiện tàu đen cập bến.
+黒船[くろふね] | n | HẮC THUYỀN | tàu đen (tàu phương Tây) | - | - | ペリーが黒船[くろふね]で浦賀[うらが]に来航[らいこう]した。 | Perry đến Uraga bằng tàu đen.
+開港[かいこう] | n,v3 | KHAI CẢNG | mở cảng | - | - | 横浜[よこはま]は1859年[ねん]に開港[かいこう]した。 | Yokohama mở cảng năm 1859.
+維新[いしん] | n | DUY TÂN | duy tân | - | - | 維新[いしん]の志士[しし]たちは新[あたら]しい国[くに]づくりを目指[めざ]した。 | Các chí sĩ duy tân hướng đến xây dựng đất nước mới.
+明治[めいじ]維新[いしん] | n | MINH TRỊ DUY TÂN | Minh Trị Duy tân | - | - | 明治[めいじ]維新[いしん]で日本[にほん]は近代[きんだい]国家[こっか]への道[みち]を歩[あゆ]み始[はじ]めた。 | Sau Minh Trị Duy tân, Nhật bắt đầu con đường thành nhà nước hiện đại.
+文明[ぶんめい]開化[かいか] | n | VĂN MINH KHAI HÓA | văn minh khai hóa | - | - | 文明[ぶんめい]開化[かいか]で洋服[ようふく]や牛肉[ぎゅうにく]が広[ひろ]まった。 | Thời văn minh khai hóa, âu phục và thịt bò trở nên phổ biến.
+殖産[しょくさん]興業[こうぎょう] | n | THỰC SẢN HƯNG NGHIỆP | chấn hưng sản nghiệp | - | - | 明治[めいじ]政府[せいふ]は殖産[しょくさん]興業[こうぎょう]を推[お]し進[すす]めた。 | Chính phủ Minh Trị đẩy mạnh chấn hưng sản nghiệp.
+富国[ふこく]強兵[きょうへい] | n | PHÚ QUỐC CƯỜNG BINH | phú quốc cường binh | - | - | 富国[ふこく]強兵[きょうへい]は明治[めいじ]政府[せいふ]のスローガンだった。 | Phú quốc cường binh là khẩu hiệu của chính phủ Minh Trị.
+帝国[ていこく] | n | ĐẾ QUỐC | đế quốc | - | - | ローマ帝国[ていこく]は広大[こうだい]な領土[りょうど]を支配[しはい]した。 | Đế quốc La Mã cai trị lãnh thổ rộng lớn.
+帝国主義[ていこくしゅぎ] | n | ĐẾ QUỐC CHỦ NGHĨA | chủ nghĩa đế quốc | - | - | 十九[じゅうきゅう]世紀[せいき]は帝国[ていこく]主義[しゅぎ]の時代[じだい]だった。 | Thế kỷ mười chín là thời đại của chủ nghĩa đế quốc.
+列強[れっきょう] | n | LIỆT CƯỜNG | các cường quốc | - | - | 欧米[おうべい]列強[れっきょう]はアジアに勢力[せいりょく]を広[ひろ]げた。 | Các cường quốc Âu Mỹ mở rộng thế lực sang châu Á.
+植民地[しょくみんち]支配[しはい] | n | THỰC DÂN ĐỊA CHI PHỐI | ách thống trị thực dân | - | - | 長[なが]い植民[しょくみん]地[ち]支配[しはい]から独立[どくりつ]を勝[か]ち取[と]った。 | Giành được độc lập sau thời gian dài bị thực dân thống trị.
+大戦[たいせん] | n | ĐẠI CHIẾN | đại chiến | - | - | 二[ふた]つの大戦[たいせん]で多[おお]くの命[いのち]が失[うしな]われた。 | Hai cuộc đại chiến cướp đi nhiều sinh mạng.
+世界[せかい]大戦[たいせん] | n | THẾ GIỚI ĐẠI CHIẾN | thế chiến | - | - | 第[だい]二[に]次[じ]世界[せかい]大戦[たいせん]は1945年[ねん]に終[お]わった。 | Chiến tranh thế giới thứ hai kết thúc năm 1945.
+終戦[しゅうせん]記念日[きねんび] | n | CHUNG CHIẾN KỶ NIỆM NHẬT | ngày kết thúc chiến tranh | - | - | 八月[はちがつ]十五日[じゅうごにち]の終戦[しゅうせん]記念[きねん]日[び]に黙[もく]とうをささげた。 | Mặc niệm vào ngày kết thúc chiến tranh 15 tháng 8.
+原爆[げんばく] | n | NGUYÊN BẠO | bom nguyên tử | - | - | 広島[ひろしま]と長崎[ながさき]に原爆[げんばく]が投下[とうか]された。 | Bom nguyên tử đã được thả xuống Hiroshima và Nagasaki.
+被爆[ひばく] | n,v3 | BỊ BẠO | bị nhiễm bom (nguyên tử) | - | - | 祖母[そぼ]は十[じゅう]歳[さい]のときに広島[ひろしま]で被爆[ひばく]した。 | Bà tôi bị nhiễm bom nguyên tử ở Hiroshima năm mười tuổi.
+被爆者[ひばくしゃ] | n | BỊ BẠO GIẢ | nạn nhân bom nguyên tử | - | - | 被爆[ひばく]者[しゃ]の証言[しょうげん]を聞[き]く会[かい]に参加[さんか]した。 | Tôi dự buổi nghe nạn nhân bom nguyên tử kể lại.
+平和[へいわ]記念[きねん] | n | BÌNH HÒA KỶ NIỆM | tưởng niệm hòa bình | {平和記念} 式典[しきてん] | lễ tưởng niệm hòa bình | 毎年[まいとし]八月[はちがつ]六日[むいか]に平和[へいわ]記念[きねん]式典[しきてん]が行[おこな]われる。 | Mỗi năm ngày 6 tháng 8, lễ tưởng niệm hòa bình được tổ chức.
+語[かた]り部[べ] | n | NGỮ BỘ | người kể chuyện (lưu truyền) | - | - | 戦争[せんそう]の語[かた]り部[べ]が年々[ねんねん]少[すく]なくなっている。 | Những người kể chuyện về chiến tranh ngày một ít đi.
+継承[けいしょう] | n,v3 | KẾ THỪA | kế thừa | 伝統[でんとう] を {継承} する | kế thừa truyền thống | 若[わか]い世代[せだい]が伝統[でんとう]芸能[げいのう]を継承[けいしょう]している。 | Thế hệ trẻ đang kế thừa nghệ thuật truyền thống.
+伝承[でんしょう] | n,v3 | TRUYỀN THỪA | truyền thừa, truyền thuyết | - | - | この村[むら]には竜[りゅう]の伝承[でんしょう]が残[のこ]っている。 | Ngôi làng này còn lưu truyền truyền thuyết về rồng.
+民話[みんわ] | n | DÂN THOẠI | truyện dân gian | - | - | 祖母[そぼ]は寝[ね]る前[まえ]に民話[みんわ]を聞[き]かせてくれた。 | Bà kể truyện dân gian cho tôi nghe trước khi ngủ.
+説話[せつわ] | n | THUYẾT THOẠI | truyện kể (giáo huấn) | - | - | 今昔[こんじゃく]物語[ものがたり]には多[おお]くの説話[せつわ]が収[おさ]められている。 | Konjaku Monogatari chứa nhiều truyện kể.
+寓話[ぐうわ] | n | NGỤ THOẠI | truyện ngụ ngôn | - | - | イソップの寓話[ぐうわ]には教訓[きょうくん]が込[こ]められている。 | Truyện ngụ ngôn Aesop chứa đựng bài học.
+由緒[ゆいしょ] | n | DO TỰ | lai lịch, gốc gác | {由緒} 正[ただ]しい | có lai lịch rõ ràng | ここは由緒[ゆいしょ]ある老舗[しにせ]の旅館[りょかん]だ。 | Đây là lữ quán lâu đời có lai lịch danh giá.
+ルーツ | n | - | cội nguồn | - | - | 自分[じぶん]のルーツを探[さが]しに祖父[そふ]の故郷[こきょう]を訪[たず]ねた。 | Tôi về quê ông nội để tìm cội nguồn của mình.
+発祥[はっしょう] | n,v3 | PHÁT TƯỜNG | khởi nguồn | - | - | この料理[りょうり]は長崎[ながさき]で発祥[はっしょう]した。 | Món ăn này khởi nguồn từ Nagasaki.
+発祥地[はっしょうち] | n | PHÁT TƯỜNG ĐỊA | nơi khởi nguồn | - | - | イギリスはサッカーの発祥[はっしょう]地[ち]だ。 | Anh là nơi khởi nguồn của bóng đá.
+文化人[ぶんかじん] | n | VĂN HÓA NHÂN | người hoạt động văn hóa | - | - | 多[おお]くの文化[ぶんか]人[じん]がこの宿[やど]に泊[と]まった。 | Nhiều người hoạt động văn hóa từng trọ ở quán này.
+栄華[えいが] | n | VINH HOA | vinh hoa | {栄華} を 極[きわ]める | vinh hoa tột bậc | 平[たいら]氏[し]は一時[いちじ]栄華[えいが]を極[きわ]めた。 | Họ Taira từng một thời vinh hoa tột bậc.
+隆盛[りゅうせい] | n | LONG THỊNH | hưng thịnh | - | - | 江戸[えど]時代[じだい]には歌舞伎[かぶき]が隆盛[りゅうせい]を極[きわ]めた。 | Thời Edo, kabuki đạt đến độ hưng thịnh nhất.
+全盛[ぜんせい] | n | TOÀN THỊNH | cực thịnh | - | - | 1990年代[ねんだい]はCDの全盛[ぜんせい]時代[じだい]だった。 | Thập niên 90 là thời cực thịnh của đĩa CD.
+全盛期[ぜんせいき] | n | TOÀN THỊNH KỲ | thời kỳ đỉnh cao | - | - | 彼[かれ]は全盛[ぜんせい]期[き]に引退[いんたい]した。 | Anh giải nghệ khi đang ở đỉnh cao.
+黄金[おうごん]時代[じだい] | n | HOÀNG KIM THỜI ĐẠI | thời hoàng kim | - | - | 昭和[しょうわ]はテレビの黄金[おうごん]時代[じだい]と言[い]われる。 | Thời Showa được gọi là thời hoàng kim của truyền hình.
+盛衰[せいすい] | n | THỊNH SUY | thịnh suy | - | - | 企業[きぎょう]の盛衰[せいすい]は経営[けいえい]者[しゃ]の判断[はんだん]にかかっている。 | Thịnh suy của doanh nghiệp tùy thuộc vào phán đoán của người lãnh đạo.
+栄枯盛衰[えいこせいすい] | n | VINH KHÔ THỊNH SUY | vinh khô thịnh suy | - | - | 栄枯[えいこ]盛衰[せいすい]は世[よ]の常[つね]だ。 | Thịnh suy là lẽ thường ở đời.
+興亡[こうぼう] | n | HƯNG VONG | hưng vong | - | - | 国家[こっか]の興亡[こうぼう]を描[えが]いた歴史[れきし]小説[しょうせつ]を読[よ]んだ。 | Tôi đọc tiểu thuyết lịch sử về sự hưng vong của các quốc gia.
+滅亡[めつぼう] | n,v3 | DIỆT VONG | diệt vong | - | - | 恐竜[きょうりゅう]の滅亡[めつぼう]には隕石[いんせき]が関係[かんけい]しているとされる。 | Sự diệt vong của khủng long được cho là liên quan đến thiên thạch.
+没落[ぼつらく] | n,v3 | MỘT LẠC | sa sút, suy tàn | - | - | 戦後[せんご]、多[おお]くの旧家[きゅうか]が没落[ぼつらく]した。 | Sau chiến tranh, nhiều gia đình danh giá cũ sa sút.
+過渡期[かとき] | n | QUÁ ĐỘ KỲ | thời kỳ quá độ | - | - | 業界[ぎょうかい]は今[いま]、大[おお]きな過渡[かと]期[き]にある。 | Ngành này hiện đang ở thời kỳ quá độ lớn.
+転換期[てんかんき] | n | CHUYỂN HOÁN KỲ | thời kỳ chuyển đổi | - | - | 人生[じんせい]の転換[てんかん]期[き]に海外[かいがい]へ移住[いじゅう]した。 | Ở thời kỳ bước ngoặt cuộc đời, tôi chuyển ra nước ngoài sống.
+分岐点[ぶんきてん] | n | PHÂN KỲ ĐIỂM | điểm rẽ, ngã rẽ | - | - | あの決断[けつだん]が人生[じんせい]の分岐[ぶんき]点[てん]だった。 | Quyết định đó là ngã rẽ của cuộc đời tôi.
+道義[どうぎ] | n | ĐẠO NGHĨA | đạo nghĩa | {道義}的[てき]責任[せきにん] | trách nhiệm đạo nghĩa | 道義[どうぎ]的[てき]責任[せきにん]を問[と]われた。 | Bị truy vấn trách nhiệm đạo nghĩa.
+仁義[じんぎ] | n | NHÂN NGHĨA | nhân nghĩa | {仁義}を重[おも]んじる | coi trọng nhân nghĩa | 仁義[じんぎ]を重[おも]んじる武士[ぶし]の精神[せいしん]。 | Tinh thần võ sĩ coi trọng nhân nghĩa.
+信義[しんぎ] | n | TÍN NGHĨA | tín nghĩa | {信義}に反[はん]する | vi phạm tín nghĩa | 信義[しんぎ]に反[はん]する行為[こうい]は許[ゆる]されない。 | Hành vi vi phạm tín nghĩa không được tha thứ.
+大義[たいぎ] | n | ĐẠI NGHĨA | đại nghĩa | {大義}名分[めいぶん] | đại nghĩa danh phận | 大義[たいぎ]名分[めいぶん]を掲[かか]げて挙兵[きょへい]した。 | Giương cao đại nghĩa danh phận mà dấy binh.
+名分[めいぶん] | n | DANH PHẬN | danh phận | {名分}を正[ただ]す | chính danh phận | 名分[めいぶん]を正[ただ]すことが統治[とうち]の基本[きほん]だ。 | Chính danh phận là nền tảng cai trị.
+義憤[ぎふん] | n | NGHĨA PHẪN | phẫn nộ vì chính nghĩa | {義憤}に駆[か]られる | bị thúc đẩy bởi nghĩa phẫn | 不正[ふせい]に対[たい]する義憤[ぎふん]に駆[か]られた。 | Bị thúc đẩy bởi sự phẫn nộ trước bất công.
+模範[もはん] | n | MÔ PHẠM | mô phạm, gương mẫu | {模範}を示[しめ]す | nêu gương | 上司[じょうし]が模範[もはん]を示[しめ]すべきだ。 | Cấp trên nên nêu gương.
+典範[てんぱん] | n | ĐIỂN PHẠM | điển phạm | {典範}となる | trở thành điển phạm | 皇室[こうしつ]典範[てんぱん]に基[もと]づいて決[き]まる。 | Được quyết định dựa trên Hoàng thất Điển phạm.
+亀鑑[きかん] | n | QUY GIÁM | tấm gương | {亀鑑}とする | lấy làm tấm gương | 後世[こうせい]の亀鑑[きかん]となる人物[じんぶつ]だ。 | Là nhân vật làm tấm gương cho đời sau.
+範疇[はんちゅう] | n | PHẠM TRÙ | phạm trù | {範疇}に入[はい]る | thuộc phạm trù | それは哲学[てつがく]の範疇[はんちゅう]に入[はい]る問題[もんだい]だ。 | Đó là vấn đề thuộc phạm trù triết học.
+抑制[よくせい] | n | ỨC CHẾ | ức chế, kiềm chế | {抑制}する | ức chế | 感情[かんじょう]を抑制[よくせい]して冷静[れいせい]に対応[たいおう]する。 | Kiềm chế cảm xúc và ứng phó bình tĩnh.
+拘泥[こうでい] | n | CÂU NỆ | câu nệ | {拘泥}する | câu nệ | 形式[けいしき]に拘泥[こうでい]せず柔軟[じゅうなん]に考[かんが]える。 | Không câu nệ hình thức mà suy nghĩ linh hoạt.
+断固[だんこ] | adv | ĐOẠN CỐ | kiên quyết | {断固}として | kiên quyết | 不正[ふせい]に対[たい]して断固[だんこ]として戦[たたか]う。 | Kiên quyết chiến đấu chống bất công.
+果断[かだん] | adj-na | QUẢ ĐOẠN | quả đoán | {果断}な措置[そち] | biện pháp quả đoán | 果断[かだん]な措置[そち]で危機[きき]を乗[の]り越[こ]えた。 | Vượt qua khủng hoảng bằng biện pháp quả đoán.
+独断[どくだん] | n | ĐỘC ĐOẠN | độc đoán | {独断}で決[き]める | quyết định độc đoán | 独断[どくだん]で決[き]めずに相談[そうだん]すべきだ。 | Nên tham vấn chứ không quyết định độc đoán.
+専断[せんだん] | n | CHUYÊN ĐOẠN | chuyên quyền | {専断}的[てき]な | chuyên quyền | 専断[せんだん]的[てき]な経営[けいえい]は組織[そしき]を弱[よわ]める。 | Kinh doanh chuyên quyền làm yếu tổ chức.
+恣意[しい] | n | TƯ Ý | tùy tiện | {恣意}的[てき]な | tùy tiện | 恣意[しい]的[てき]な解釈[かいしゃく]は許[ゆる]されない。 | Giải thích tùy tiện không được chấp nhận.
+任意[にんい] | n | NHẬM Ý | tùy ý, tự nguyện | {任意}の | tùy ý | 任意[にんい]の数値[すうち]を入力[にゅうりょく]してください。 | Hãy nhập giá trị tùy ý.
+作為[さくい] | n | TÁC VI | cố ý, có chủ đích | {作為}的[てき]な | có chủ đích | 作為[さくい]的[てき]な操作[そうさ]が疑[うたが]われた。 | Bị nghi ngờ có thao tác có chủ đích.
+無作為[むさくい] | n | VÔ TÁC VI | ngẫu nhiên | {無作為}に選[えら]ぶ | chọn ngẫu nhiên | 無作為[むさくい]に抽出[ちゅうしゅつ]した標本[ひょうほん]を調[しら]べる。 | Kiểm tra mẫu được trích xuất ngẫu nhiên.
+不作為[ふさくい] | n | BẤT TÁC VI | không hành động | {不作為}の責任[せきにん] | trách nhiệm bất tác vi | 行政[ぎょうせい]の不作為[ふさくい]が問題[もんだい]になった。 | Sự bất tác vi của hành chính trở thành vấn đề.
+所行[しょぎょう] | n | SỞ HÀNH | hành vi, việc làm | {所行}を恥[は]じる | xấu hổ về hành vi | 自[みずか]らの所行[しょぎょう]を深[ふか]く恥[は]じた。 | Vô cùng xấu hổ về hành vi của mình.
+所業[しょぎょう] | n | SỞ NGHIỆP | hành vi, sở hành | {所業}を悔[く]いる | hối hận hành vi | 己[おのれ]の所業[しょぎょう]を悔[く]いて改心[かいしん]した。 | Hối hận về hành vi của mình mà cải tà.
+悪行[あくぎょう] | n | ÁC HÀNH | ác hạnh | {悪行}を重[かさ]ねる | chồng chất ác hạnh | 悪行[あくぎょう]を重[かさ]ねた者[もの]は必[かなら]ず報[むく]いを受[う]ける。 | Kẻ chồng chất ác hạnh ắt chịu quả báo.
+善行[ぜんこう] | n | THIỆN HÀNH | thiện hạnh | {善行}を積[つ]む | tích thiện hạnh | 善行[ぜんこう]を積[つ]んで徳[とく]を高[たか]める。 | Tích thiện hạnh để nâng cao đức hạnh.
+苦行[くぎょう] | n | KHỔ HÀNH | khổ hạnh | {苦行}を行[おこな]う | tu khổ hạnh | 修行僧[しゅぎょうそう]が山中[さんちゅう]で苦行[くぎょう]を行[おこな]った。 | Tăng sĩ tu khổ hạnh trong núi.

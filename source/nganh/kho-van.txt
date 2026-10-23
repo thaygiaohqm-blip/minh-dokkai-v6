@@ -1,0 +1,190 @@
+@topic kho-van
+@ja 物流[ぶつりゅう]・梱包[こんぽう]
+@vi Kho vận, đóng gói
+@desc Nhập xuất kho, kiểm đếm, lấy hàng theo phiếu, xe nâng, đóng gói, dán nhãn, xếp dỡ và giao nhận.
+物流[ぶつりゅう] | n | VẬT LƯU | hậu cần, logistics | {物流[ぶつりゅう]} センター | trung tâm logistics | 物流[ぶつりゅう]センターで働[はたら]いています。 | Tôi làm việc ở trung tâm logistics.
+倉庫[そうこ] | n | THƯƠNG KHỐ | kho | 倉庫[そうこ] に 保管[ほかん] する | cất trong kho | 商品[しょうひん]を倉庫[そうこ]に保管[ほかん]します。 | Cất hàng hóa trong kho.
+入庫[にゅうこ] | n,v3 | NHẬP KHỐ | nhập kho | - | - | 朝[あさ]届[とど]いた荷物[にもつ]を入庫[にゅうこ]します。 | Nhập kho hàng đến buổi sáng.
+出庫[しゅっこ] | n,v3 | XUẤT KHỐ | xuất kho | - | - | 午後[ごご]は注文[ちゅうもん]の商品[しょうひん]を出庫[しゅっこ]します。 | Buổi chiều xuất kho hàng theo đơn.
+入荷[にゅうか] | n,v3 | NHẬP HÀ | hàng về | - | - | 入荷[にゅうか]した商品[しょうひん]の数[かず]を確認[かくにん]します。 | Kiểm tra số lượng hàng đã về.
+出荷[しゅっか] | n,v3 | XUẤT HÀ | xuất hàng | {出荷[しゅっか]} 準備[じゅんび] | chuẩn bị xuất hàng | トラックが来[く]る前[まえ]に出荷[しゅっか]準備[じゅんび]をします。 | Chuẩn bị xuất hàng trước khi xe tải đến.
+検品[けんぴん] | n,v3 | KIỂM PHẨM | kiểm hàng | - | - | 伝票[でんぴょう]と商品[しょうひん]を見[み]比[くら]べて検品[けんぴん]します。 | Kiểm hàng bằng cách đối chiếu phiếu với hàng.
+見比[みくら]べる | v2 | KIẾN TỈ | đối chiếu | - | - | 品番[ひんばん]を見比[みくら]べてください。 | Hãy đối chiếu mã hàng.
+伝票[でんぴょう] | n | TRUYỀN PHIẾU | phiếu, chứng từ | 伝票[でんぴょう] を 貼[は]る | dán phiếu | 箱[はこ]に伝票[でんぴょう]を貼[は]ります。 | Dán phiếu lên thùng.
+送[おく]り状[じょう] | n | TỐNG TRẠNG | phiếu gửi hàng | - | - | 送[おく]り状[じょう]の住所[じゅうしょ]を確認[かくにん]します。 | Kiểm tra địa chỉ trên phiếu gửi hàng.
+納品書[のうひんしょ] | n | NẠP PHẨM THƯ | phiếu giao hàng | - | - | 納品書[のうひんしょ]を箱[はこ]の中[なか]に入[い]れます。 | Cho phiếu giao hàng vào trong thùng.
+ピッキング | n,v3 | - | lấy hàng (picking) | - | - | リストを見[み]ながらピッキングします。 | Vừa xem danh sách vừa lấy hàng.
+ピッキングリスト | n | - | danh sách lấy hàng | - | - | ピッキングリストの順番[じゅんばん]に回[まわ]ります。 | Đi lấy hàng theo thứ tự trong danh sách.
+棚[たな] | n | BẰNG | kệ | 棚[たな] に 並[なら]べる | xếp lên kệ | 商品[しょうひん]を棚[たな]に並[なら]べます。 | Xếp hàng lên kệ.
+棚番[たなばん] | n | BẰNG PHIÊN | mã vị trí kệ | - | - | 棚番[たなばん]を見[み]て商品[しょうひん]を探[さが]します。 | Xem mã kệ để tìm hàng.
+ロケーション | n | - | vị trí lưu kho | - | - | 商品[しょうひん]を決[き]められたロケーションに置[お]きます。 | Đặt hàng đúng vị trí quy định.
+品番[ひんばん] | n | PHẨM PHIÊN | mã hàng | - | - | 似[に]ている品番[ひんばん]に気[き]をつけてください。 | Hãy cẩn thận với các mã hàng giống nhau.
+数量[すうりょう] | n | SỐ LƯỢNG | số lượng | 数量[すうりょう] を 確認[かくにん] する | kiểm tra số lượng | 出荷[しゅっか]前[まえ]に数量[すうりょう]を確認[かくにん]します。 | Kiểm tra số lượng trước khi xuất.
+数[かぞ]える | v2 | SỐ | đếm | - | - | 箱[はこ]の数[かず]を二[に]回[かい]数[かぞ]えます。 | Đếm số thùng hai lần.
+ハンディ | n | - | máy quét cầm tay | ハンディ で 読[よ]み取[と]る | quét bằng máy cầm tay | ハンディでバーコードを読[よ]み取[と]ります。 | Quét mã vạch bằng máy cầm tay.
+読[よ]み取[と]る | v1 | ĐỘC THỦ | đọc (mã), quét | - | - | バーコードが読[よ]み取[と]れません。 | Không quét được mã vạch.
+バーコード | n | - | mã vạch | - | - | バーコードが汚[よご]れていると読[よ]めません。 | Mã vạch bẩn thì không đọc được.
+在庫[ざいこ] | n | TẠI KHỐ | hàng tồn kho | 在庫[ざいこ] が 切[き]れる | hết hàng tồn | 在庫[ざいこ]が切[き]れそうな商品[しょうひん]を報告[ほうこく]します。 | Báo cáo những mặt hàng sắp hết tồn kho.
+棚卸[たなおろ]し | n,v3 | BẰNG HẠ | kiểm kê | - | - | 月末[げつまつ]に倉庫[そうこ]の棚卸[たなおろ]しをします。 | Cuối tháng kiểm kê kho.
+欠品[けっぴん] | n,v3 | KHIẾM PHẨM | thiếu hàng | - | - | 欠品[けっぴん]があれば担当者[たんとうしゃ]に伝[つた]えます。 | Thiếu hàng thì báo người phụ trách.
+誤出荷[ごしゅっか] | n | NGỘ XUẤT HÀ | xuất nhầm hàng | - | - | 誤出荷[ごしゅっか]を防[ふせ]ぐためにダブルチェックをします。 | Kiểm tra hai lần để phòng xuất nhầm hàng.
+ダブルチェック | n,v3 | - | kiểm tra chéo | - | - | 大切[たいせつ]な荷物[にもつ]はダブルチェックします。 | Hàng quan trọng thì kiểm tra chéo.
+梱包[こんぽう] | n,v3 | KHỔN BAO | đóng gói | - | - | 割[わ]れ物[もの]は丁寧[ていねい]に梱包[こんぽう]します。 | Đồ dễ vỡ được đóng gói cẩn thận.
+段[だん]ボール | n | ĐOẠN | thùng các-tông | 段[だん]ボール を 組[く]み立[た]てる | gấp thùng | 朝[あさ]、段[だん]ボールを組[く]み立[た]てておきます。 | Buổi sáng gấp sẵn thùng các-tông.
+ガムテープ | n | - | băng keo | ガムテープ を 貼[は]る | dán băng keo | 箱[はこ]の上[うえ]にガムテープを貼[は]ります。 | Dán băng keo lên nắp thùng.
+緩衝材[かんしょうざい] | n | HOÃN XUNG TÀI | vật liệu chống sốc | 緩衝材[かんしょうざい] を 入[い]れる | chèn vật liệu chống sốc | 隙間[すきま]に緩衝材[かんしょうざい]を入[い]れます。 | Chèn vật liệu chống sốc vào khe hở.
+プチプチ | n | - | màng xốp hơi | - | - | グラスをプチプチで包[つつ]みます。 | Bọc ly bằng màng xốp hơi.
+割[わ]れ物[もの] | n | CÁT VẬT | đồ dễ vỡ | - | - | 割[わ]れ物[もの]のシールを貼[は]ってください。 | Hãy dán nhãn hàng dễ vỡ.
+天地無用[てんちむよう] | n | THIÊN ĐỊA VÔ DỤNG | không được lật ngược | - | - | 天地無用[てんちむよう]の荷物[にもつ]は上下[じょうげ]を逆[ぎゃく]にしないでください。 | Hàng "không lật ngược" đừng đặt ngược đầu.
+上下[じょうげ] | n | THƯỢNG HẠ | trên dưới | - | - | 箱[はこ]の上下[じょうげ]を確認[かくにん]してから積[つ]みます。 | Kiểm tra mặt trên dưới của thùng rồi mới xếp.
+シール | n | - | nhãn dán | シール を 貼[は]る | dán nhãn | 「取扱[とりあつかい]注意[ちゅうい]」のシールを貼[は]ります。 | Dán nhãn "Hàng cẩn thận".
+取扱注意[とりあつかいちゅうい] | n | THỦ TRÁP CHÚ Ý | hàng cẩn thận | - | - | 取扱注意[とりあつかいちゅうい]の荷物[にもつ]は一番[いちばん]上[うえ]に置[お]きます。 | Hàng cần cẩn thận để trên cùng.
+重[おも]さ | n | TRỌNG | trọng lượng | 重[おも]さ を 量[はか]る | cân trọng lượng | 箱[はこ]の重[おも]さを量[はか]って伝票[でんぴょう]に書[か]きます。 | Cân thùng rồi ghi vào phiếu.
+サイズ | n | - | kích cỡ | - | - | 荷物[にもつ]のサイズによって送料[そうりょう]が変[か]わります。 | Phí gửi thay đổi theo kích cỡ hàng.
+フォークリフト | n | - | xe nâng | - | - | フォークリフトでパレットを運[はこ]びます。 | Chở pallet bằng xe nâng.
+パレット | n | - | pallet | パレット に 積[つ]む | xếp lên pallet | 箱[はこ]をパレットに積[つ]みます。 | Xếp thùng lên pallet.
+ハンドリフト | n | - | xe nâng tay | - | - | ハンドリフトでパレットを動[うご]かします。 | Di chuyển pallet bằng xe nâng tay.
+台車[だいしゃ] | n | ĐÀI XA | xe đẩy | - | - | 小[ちい]さな荷物[にもつ]は台車[だいしゃ]で運[はこ]びます。 | Hàng nhỏ chở bằng xe đẩy.
+かご台車[だいしゃ] | n | ĐÀI XA | xe lồng | - | - | 仕分[しわ]けた荷物[にもつ]をかご台車[だいしゃ]に入[い]れます。 | Cho hàng đã phân loại vào xe lồng.
+仕分[しわ]け | n,v3 | SĨ PHÂN | phân loại | 方面[ほうめん] 別[べつ] に {仕分[しわ]け} する | phân theo khu vực | 荷物[にもつ]を方面[ほうめん]別[べつ]に仕分[しわ]けします。 | Phân loại hàng theo khu vực giao.
+方面[ほうめん] | n | PHƯƠNG DIỆN | khu vực, hướng | - | - | このトラックは大阪[おおさか]方面[ほうめん]です。 | Xe tải này đi hướng Osaka.
+積[つ]み込[こ]み | n,v3 | TÍCH VÀO | xếp hàng lên xe | - | - | 積[つ]み込[こ]みは重[おも]い物[もの]から始[はじ]めます。 | Xếp hàng lên xe bắt đầu từ đồ nặng.
+荷降[にお]ろし | n,v3 | HÀ GIÁNG | dỡ hàng | - | - | トラックの荷降[にお]ろしを手伝[てつだ]います。 | Giúp dỡ hàng khỏi xe tải.
+荷崩[にくず]れ | n,v3 | HÀ BĂNG | đổ hàng | 荷崩[にくず]れ を 防[ふせ]ぐ | phòng đổ hàng | ラップを巻[ま]いて荷崩[にくず]れを防[ふせ]ぎます。 | Quấn màng để phòng đổ hàng.
+ストレッチフィルム | n | - | màng quấn pallet | - | - | パレットにストレッチフィルムを巻[ま]きます。 | Quấn màng co quanh pallet.
+積[つ]み方[かた] | n | TÍCH PHƯƠNG | cách xếp | - | - | 積[つ]み方[かた]が悪[わる]いと荷物[にもつ]が倒[たお]れます。 | Xếp không đúng thì hàng sẽ đổ.
+高[たか]さ制限[せいげん] | n | CAO CHẾ HẠN | giới hạn chiều cao | - | - | 棚[たな]には高[たか]さ制限[せいげん]があります。 | Kệ có giới hạn chiều cao.
+重量物[じゅうりょうぶつ] | n | TRỌNG LƯỢNG VẬT | hàng nặng | - | - | 重量物[じゅうりょうぶつ]は二人[ふたり]で運[はこ]んでください。 | Hàng nặng hãy hai người cùng khuân.
+軍手[ぐんて] | n | QUÂN THỦ | găng tay vải | - | - | 段[だん]ボールで手[て]を切[き]らないように軍手[ぐんて]をします。 | Đeo găng tay để không bị thùng các-tông cắt tay.
+カッター | n | - | dao rọc | カッター で 開[あ]ける | rọc mở bằng dao | カッターで箱[はこ]を開[あ]ける時[とき]は中[なか]の商品[しょうひん]を切[き]らないように注意[ちゅうい]します。 | Khi rọc thùng bằng dao chú ý đừng cắt vào hàng bên trong.
+開梱[かいこん] | n,v3 | KHAI KHỔN | mở kiện hàng | - | - | 入荷[にゅうか]した箱[はこ]を開梱[かいこん]します。 | Mở các thùng hàng mới về.
+配送[はいそう] | n,v3 | PHỐI TỐNG | giao hàng | - | - | 午前[ごぜん]中[ちゅう]に市内[しない]へ配送[はいそう]します。 | Giao hàng trong thành phố vào buổi sáng.
+配達[はいたつ] | n,v3 | PHỐI ĐẠT | phát hàng | {再[さい]} 配達[はいたつ] | giao lại | 不在[ふざい]の家[いえ]には再[さい]配達[はいたつ]の紙[かみ]を入[い]れます。 | Nhà vắng thì để lại phiếu giao lại.
+宅配[たくはい] | n | TRẠCH PHỐI | giao tận nhà | - | - | 宅配[たくはい]の荷物[にもつ]が年末[ねんまつ]は特[とく]に多[おお]いです。 | Hàng giao tận nhà cuối năm đặc biệt nhiều.
+ドライバー | n | - | tài xế | - | - | ドライバーに荷物[にもつ]を渡[わた]します。 | Giao hàng cho tài xế.
+渡[わた]す | v1 | ĐỘ | trao, giao | - | - | 伝票[でんぴょう]をドライバーに渡[わた]してください。 | Hãy đưa phiếu cho tài xế.
+受[う]け取[と]る | v1 | THỤ THỦ | nhận | 荷物[にもつ] を 受[う]け取[と]る | nhận hàng | 荷物[にもつ]を受[う]け取[と]ったらサインします。 | Nhận hàng xong thì ký tên.
+受領印[じゅりょういん] | n | THỤ LÃNH ẤN | dấu xác nhận đã nhận | - | - | 受領印[じゅりょういん]をもらってください。 | Hãy lấy dấu xác nhận đã nhận hàng.
+時間指定[じかんしてい] | n | THỜI GIAN CHỈ ĐỊNH | hẹn giờ giao | - | - | 時間指定[じかんしてい]の荷物[にもつ]を先[さき]に積[つ]みます。 | Xếp hàng hẹn giờ giao lên xe trước.
+着払[ちゃくばら]い | n | TRƯỚC PHẤT | người nhận trả tiền | - | - | この荷物[にもつ]は着払[ちゃくばら]いです。 | Kiện hàng này người nhận trả phí.
+元払[もとばら]い | n | NGUYÊN PHẤT | người gửi trả tiền | - | - | 送料[そうりょう]は元払[もとばら]いでお願[ねが]いします。 | Phí gửi do người gửi trả.
+宛先[あてさき] | n | UYỂN TIÊN | địa chỉ nhận | 宛先[あてさき] を 確認[かくにん] する | kiểm tra địa chỉ nhận | 宛先[あてさき]を間違[まちが]えないように確認[かくにん]します。 | Kiểm tra để không nhầm địa chỉ nhận.
+郵便番号[ゆうびんばんごう] | n | BƯU TIỆN PHIÊN HIỆU | mã bưu chính | - | - | 郵便番号[ゆうびんばんごう]で仕分[しわ]けをします。 | Phân loại theo mã bưu chính.
+冷蔵便[れいぞうびん] | n | LÃNH TÀNG TIỆN | hàng gửi lạnh | - | - | 冷蔵便[れいぞうびん]は冷蔵庫[れいぞうこ]に入[い]れて保管[ほかん]します。 | Hàng gửi lạnh được cất trong kho lạnh.
+冷凍便[れいとうびん] | n | LÃNH ĐÔNG TIỆN | hàng gửi đông lạnh | - | - | 冷凍便[れいとうびん]はすぐに冷凍庫[れいとうこ]へ運[はこ]びます。 | Hàng đông lạnh chở ngay vào kho cấp đông.
+常温[じょうおん] | n | THƯỜNG ÔN | nhiệt độ thường | - | - | 常温[じょうおん]の商品[しょうひん]はこちらの棚[たな]です。 | Hàng nhiệt độ thường ở kệ này.
+通路[つうろ] | n | THÔNG LỘ | lối đi | 通路[つうろ] に 物[もの] を 置[お]かない | không để đồ ở lối đi | 通路[つうろ]に荷物[にもつ]を置[お]かないでください。 | Đừng để hàng ở lối đi.
+床[ゆか] | n | SÀNG | sàn | - | - | 床[ゆか]に直接[ちょくせつ]商品[しょうひん]を置[お]かないでください。 | Đừng đặt hàng trực tiếp xuống sàn.
+直接[ちょくせつ] | adv,n | TRỰC TIẾP | trực tiếp | - | - | 直接[ちょくせつ]お客様[きゃくさま]に届[とど]けます。 | Giao trực tiếp cho khách.
+指差[ゆびさ]し確認[かくにん] | n | CHỈ SAI XÁC NHẬN | chỉ tay xác nhận | - | - | フォークリフトを動[うご]かす前[まえ]に指差[ゆびさ]し確認[かくにん]をします。 | Chỉ tay xác nhận trước khi chạy xe nâng.
+フォーク | n | - | càng nâng | フォーク を 差[さ]す | cắm càng nâng | パレットの穴[あな]にフォークを差[さ]します。 | Cắm càng nâng vào lỗ pallet.
+バック | n,v3 | - | lùi | - | - | バックする時[とき]は後[うし]ろをよく見[み]ます。 | Khi lùi xe thì nhìn kỹ phía sau.
+徐行[じょこう] | n,v3 | TỪ HÀNH | chạy chậm | - | - | 倉庫[そうこ]の中[なか]では徐行[じょこう]してください。 | Trong kho hãy chạy chậm.
+接触[せっしょく] | n,v3 | TIẾP XÚC | va chạm | {接触[せっしょく]} 事故[じこ] | tai nạn va chạm | フォークリフトと人[ひと]の接触[せっしょく]事故[じこ]に注意[ちゅうい]します。 | Chú ý tai nạn va chạm giữa xe nâng và người.
+死角[しかく] | n | TỬ GIÁC | điểm mù | - | - | 棚[たな]の角[かど]は死角[しかく]になります。 | Góc kệ là điểm mù.
+一時停止[いちじていし] | n,v3 | NHẤT THỜI ĐÌNH CHỈ | dừng tạm | - | - | 交差[こうさ]する所[ところ]では一時停止[いちじていし]します。 | Ở chỗ giao nhau phải dừng lại.
+落下[らっか] | n,v3 | LẠC HẠ | rơi | - | - | 高[たか]い棚[たな]からの落下[らっか]に注意[ちゅうい]してください。 | Hãy chú ý hàng rơi từ kệ cao.
+脚立[きゃたつ] | n | CƯỚC LẬP | thang chữ A | - | - | 高[たか]い所[ところ]の商品[しょうひん]は脚立[きゃたつ]を使[つか]って取[と]ります。 | Hàng trên cao lấy bằng thang.
+破損[はそん] | n,v3 | PHÁ TỔN | hư hỏng, vỡ | - | - | 破損[はそん]した商品[しょうひん]は別[べつ]の場所[ばしょ]に置[お]きます。 | Hàng bị hỏng để ở chỗ riêng.
+へこむ | v1 | - | bị móp | - | - | 箱[はこ]がへこんでいたら写真[しゃしん]を撮[と]ります。 | Thùng bị móp thì chụp ảnh lại.
+濡[ぬ]れる | v2 | NHU | bị ướt | - | - | 雨[あめ]で段[だん]ボールが濡[ぬ]れないようにします。 | Giữ cho thùng các-tông không bị ướt mưa.
+返品[へんぴん] | n,v3 | PHẢN PHẨM | hàng trả lại | - | - | 返品[へんぴん]された商品[しょうひん]を検品[けんぴん]します。 | Kiểm tra hàng bị trả lại.
+交換[こうかん] | n,v3 | GIAO HOÁN | đổi hàng | - | - | 壊[こわ]れた商品[しょうひん]を新[あたら]しいものと交換[こうかん]します。 | Đổi hàng hỏng sang hàng mới.
+補充[ほじゅう] | n,v3 | BỔ SUNG | bổ sung | - | - | 少[すく]なくなった棚[たな]に商品[しょうひん]を補充[ほじゅう]します。 | Bổ sung hàng vào kệ đã vơi.
+先入[さきい]れ先出[さきだ]し | n | TIÊN NHẬP TIÊN XUẤT | nhập trước xuất trước | - | - | 古[ふる]い商品[しょうひん]から出荷[しゅっか]する先入[さきい]れ先出[さきだ]しです。 | Theo nguyên tắc nhập trước xuất trước, hàng cũ xuất trước.
+賞味期限[しょうみきげん] | n | THƯỞNG VỊ KỲ HẠN | hạn sử dụng | - | - | 食品[しょくひん]は賞味期限[しょうみきげん]を確認[かくにん]してから出荷[しゅっか]します。 | Thực phẩm phải kiểm tra hạn sử dụng rồi mới xuất.
+ロット番号[ばんごう] | n | PHIÊN HIỆU | số lô | - | - | ロット番号[ばんごう]ごとに分[わ]けて保管[ほかん]します。 | Cất giữ riêng theo từng số lô.
+ケース | n | - | thùng (đơn vị) | - | - | 一[ひと]ケースに二十四[にじゅうよん]本[ほん]入[はい]っています。 | Một thùng có 24 chai.
+ばら | n | - | hàng lẻ | - | - | ケースとばらを分[わ]けて数[かぞ]えます。 | Đếm riêng hàng thùng và hàng lẻ.
+個口[こぐち] | n | CÁ KHẨU | số kiện | - | - | この注文[ちゅうもん]は三[さん]個口[こぐち]です。 | Đơn hàng này có ba kiện.
+同梱[どうこん] | n,v3 | ĐỒNG KHỔN | đóng gói chung | - | - | 説明書[せつめいしょ]を同梱[どうこん]します。 | Đóng kèm sách hướng dẫn.
+中身[なかみ] | n | TRUNG THÂN | đồ bên trong | 中身[なかみ] を 確認[かくにん] する | kiểm tra bên trong | 封[ふう]をする前[まえ]に中身[なかみ]を確認[かくにん]します。 | Kiểm tra đồ bên trong trước khi dán kín.
+シュリンク | n,v3 | - | bọc màng co | - | - | 商品[しょうひん]をシュリンクして汚[よご]れを防[ふせ]ぎます。 | Bọc màng co sản phẩm để chống bẩn.
+ラベラー | n | - | máy dán nhãn | - | - | ラベラーで値札[ねふだ]を貼[は]ります。 | Dán thẻ giá bằng máy dán nhãn.
+印刷[いんさつ] | n,v3 | ẤN LOÁT | in | - | - | 送[おく]り状[じょう]を印刷[いんさつ]します。 | In phiếu gửi hàng.
+プリンター | n | - | máy in | - | - | プリンターの紙[かみ]が詰[つ]まりました。 | Máy in bị kẹt giấy.
+詰[つ]まる | v1 | CẬT | bị kẹt | - | - | ラベルが機械[きかい]に詰[つ]まりました。 | Nhãn bị kẹt trong máy.
+コンベア | n | - | băng chuyền | - | - | 荷物[にもつ]をコンベアに乗[の]せます。 | Đặt hàng lên băng chuyền.
+乗[の]せる | v2 | THỪA | đặt lên | - | - | 箱[はこ]をまっすぐコンベアに乗[の]せてください。 | Hãy đặt thùng thẳng lên băng chuyền.
+流[なが]す | v1 | LƯU | cho chạy (trên băng chuyền) | - | - | 荷物[にもつ]を一[ひと]つずつ流[なが]します。 | Cho từng kiện hàng chạy trên băng chuyền.
+シフト | n | - | ca làm | - | - | 物流[ぶつりゅう]センターは三[さん]シフト制[せい]です。 | Trung tâm logistics làm ba ca.
+繁忙期[はんぼうき] | n | PHỒN MANG KỲ | mùa cao điểm | - | - | 年末[ねんまつ]は繁忙期[はんぼうき]で荷物[にもつ]が二倍[にばい]になります。 | Cuối năm là mùa cao điểm, hàng tăng gấp đôi.
+閑散期[かんさんき] | n | NHÀN TÁN KỲ | mùa thấp điểm | - | - | 閑散期[かんさんき]は倉庫[そうこ]の整理[せいり]をします。 | Mùa thấp điểm thì sắp xếp lại kho.
+発送[はっそう] | n,v3 | PHÁT TỐNG | gửi hàng đi | - | - | 注文[ちゅうもん]を受[う]けた日[ひ]に発送[はっそう]します。 | Gửi hàng đi ngay trong ngày nhận đơn.
+到着[とうちゃく] | n,v3 | ĐÁO TRƯỚC | đến nơi | - | - | トラックの到着[とうちゃく]が三十[さんじゅっ]分[ぷん]遅[おく]れています。 | Xe tải đến muộn ba mươi phút.
+集荷[しゅうか] | n,v3 | TẬP HÀ | gom hàng | - | - | 夕方[ゆうがた]に集荷[しゅうか]のトラックが来[き]ます。 | Chiều tối có xe đến gom hàng.
+荷主[にぬし] | n | HÀ CHỦ | chủ hàng | - | - | 荷主[にぬし]からの指示[しじ]を確認[かくにん]します。 | Xác nhận chỉ thị từ chủ hàng.
+注文[ちゅうもん] | n,v3 | CHÚ VĂN | đơn hàng | 注文[ちゅうもん] が 入[はい]る | có đơn hàng | セールで注文[ちゅうもん]がたくさん入[はい]りました。 | Đợt giảm giá có rất nhiều đơn hàng.
+通販[つうはん] | n | THÔNG PHIẾN | bán hàng qua mạng | - | - | 通販[つうはん]の商品[しょうひん]を毎日[まいにち]千[せん]件[けん]出荷[しゅっか]します。 | Mỗi ngày xuất một nghìn đơn hàng online.
+件数[けんすう] | n | KIỆN SỐ | số đơn, số vụ | - | - | 今日[きょう]の出荷[しゅっか]件数[けんすう]は八百[はっぴゃく]件[けん]です。 | Số đơn xuất hôm nay là tám trăm.
+締[し]め切[き]り | n | ĐẾ THIẾT | giờ chốt | - | - | 当日[とうじつ]出荷[しゅっか]の締[し]め切[き]りは二[に]時[じ]です。 | Giờ chốt xuất hàng trong ngày là hai giờ.
+当日[とうじつ] | n | ĐƯƠNG NHẬT | trong ngày | - | - | 当日[とうじつ]の注文[ちゅうもん]は当日[とうじつ]に出荷[しゅっか]します。 | Đơn trong ngày được xuất trong ngày.
+翌日[よくじつ] | n | DỰC NHẬT | ngày hôm sau | - | - | 二[に]時[じ]以降[いこう]の注文[ちゅうもん]は翌日[よくじつ]出荷[しゅっか]です。 | Đơn sau hai giờ thì xuất ngày hôm sau.
+効率[こうりつ] | n | HIỆU SUẤT | hiệu suất | - | - | 歩[ある]く距離[きょり]を減[へ]らして効率[こうりつ]を上[あ]げます。 | Giảm quãng đường đi lại để tăng hiệu suất.
+距離[きょり] | n | CỰ LY | khoảng cách | - | - | 倉庫[そうこ]の中[なか]を一日[いちにち]十[じゅっ]キロ以上[いじょう]の距離[きょり]を歩[ある]きます。 | Mỗi ngày đi bộ hơn mười cây số trong kho.
+動線[どうせん] | n | ĐỘNG TUYẾN | lối di chuyển | - | - | 動線[どうせん]を考[かんが]えて商品[しょうひん]を配置[はいち]します。 | Bố trí hàng có tính đến lối di chuyển.
+配置[はいち] | n,v3 | PHỐI TRÍ | bố trí | - | - | よく出[で]る商品[しょうひん]は手前[てまえ]に配置[はいち]します。 | Hàng xuất nhiều thì bố trí phía trước.
+手前[てまえ] | n | THỦ TIỀN | phía trước, gần mình | - | - | 手前[てまえ]の棚[たな]から取[と]ってください。 | Hãy lấy từ kệ phía trước.
+奥[おく] | n | ÁO | phía trong | - | - | 古[ふる]い商品[しょうひん]を手前[てまえ]に、新[あたら]しい商品[しょうひん]を奥[おく]に置[お]きます。 | Hàng cũ để phía trước, hàng mới để phía trong.
+段[だん] | ctr | ĐOẠN | tầng (kệ, chồng) | - | - | 箱[はこ]は五[ご]段[だん]まで積[つ]めます。 | Thùng xếp được tối đa năm tầng.
+保管場所[ほかんばしょ] | n | BẢO QUẢN TRƯỜNG SỞ | chỗ cất giữ | - | - | 保管場所[ほかんばしょ]をシステムで確認[かくにん]します。 | Kiểm tra chỗ cất hàng trên hệ thống.
+システム | n | - | hệ thống | システム に 登録[とうろく] する | đăng ký vào hệ thống | 入荷[にゅうか]した商品[しょうひん]をシステムに登録[とうろく]します。 | Đăng ký hàng mới về vào hệ thống.
+登録[とうろく] | n,v3 | ĐĂNG LỤC | đăng ký | - | - | 新[あたら]しい商品[しょうひん]の登録[とうろく]をします。 | Đăng ký sản phẩm mới.
+照合[しょうごう] | n,v3 | CHIẾU HỢP | đối chiếu | - | - | 実物[じつぶつ]と伝票[でんぴょう]を照合[しょうごう]します。 | Đối chiếu hàng thật với phiếu.
+実物[じつぶつ] | n | THỰC VẬT | hàng thật | - | - | 写真[しゃしん]と実物[じつぶつ]が違[ちが]います。 | Ảnh và hàng thật khác nhau.
+差異[さい] | n | SAI DỊ | chênh lệch | - | - | 在庫[ざいこ]の数[かず]に差異[さい]があります。 | Có chênh lệch trong số tồn kho.
+報告[ほうこく] | n,v3 | BÁO CÁO | báo cáo | - | - | 差異[さい]が見[み]つかったらリーダーに報告[ほうこく]します。 | Thấy chênh lệch thì báo cáo trưởng nhóm.
+リーダー | n | - | trưởng nhóm | - | - | 分[わ]からない時[とき]はリーダーに聞[き]いてください。 | Khi không biết hãy hỏi trưởng nhóm.
+朝礼[ちょうれい] | n | TRIỀU LỄ | họp đầu giờ | - | - | 朝礼[ちょうれい]で今日[きょう]の出荷[しゅっか]量[りょう]を聞[き]きます。 | Nghe lượng hàng xuất hôm nay ở buổi họp đầu giờ.
+ストレッチ | n,v3 | - | giãn cơ | - | - | 作業[さぎょう]の前[まえ]にストレッチをして腰[こし]を守[まも]ります。 | Giãn cơ trước khi làm để bảo vệ lưng.
+持[も]ち方[かた] | n | TRÌ PHƯƠNG | cách cầm | - | - | 正[ただ]しい持[も]ち方[かた]で荷物[にもつ]を運[はこ]びます。 | Khuân hàng đúng cách cầm.
+腰痛[ようつう] | n | YÊU THỐNG | đau lưng | - | - | 腰痛[ようつう]にならないように膝[ひざ]を曲[ま]げて持[も]ち上[あ]げます。 | Gập gối khi nâng đồ để không đau lưng.
+安全靴[あんぜんぐつ] | n | AN TOÀN NGOA | giày bảo hộ | - | - | 足[あし]を守[まも]るために安全靴[あんぜんぐつ]を履[は]きます。 | Đi giày bảo hộ để bảo vệ chân.
+ヘルメット | n | - | mũ bảo hộ | - | - | フォークリフトに乗[の]る時[とき]はヘルメットをかぶります。 | Khi lái xe nâng thì đội mũ bảo hộ.
+反射[はんしゃ]ベスト | n | PHẢN XẠ | áo phản quang | - | - | 構内[こうない]では反射[はんしゃ]ベストを着[き]ます。 | Trong khuôn viên phải mặc áo phản quang.
+構内[こうない] | n | CẤU NỘI | trong khuôn viên | - | - | 構内[こうない]は時速[じそく]十[じゅっ]キロ以下[いか]です。 | Trong khuôn viên tốc độ dưới 10 km/h.
+ホーム | n | - | sàn bốc xếp | - | - | トラックが三番[さんばん]ホームに着[つ]きました。 | Xe tải đã đến sàn bốc xếp số ba.
+荷台[にだい] | n | HÀ ĐÀI | thùng xe | - | - | 荷台[にだい]の奥[おく]から積[つ]みます。 | Xếp hàng từ phía trong thùng xe.
+トラックヤード | n | - | bãi đỗ xe tải | - | - | トラックヤードでは歩行者[ほこうしゃ]に注意[ちゅうい]してください。 | Ở bãi xe tải hãy chú ý người đi bộ.
+歩行者[ほこうしゃ] | n | BỘ HÀNH GIẢ | người đi bộ | - | - | 歩行者[ほこうしゃ]は決[き]められた通路[つうろ]を歩[ある]きます。 | Người đi bộ đi trên lối quy định.
+車止[くるまど]め | n | XA CHỈ | chèn bánh | - | - | 荷降[にお]ろしの前[まえ]にトラックに車止[くるまど]めをします。 | Chèn bánh xe tải trước khi dỡ hàng.
+ドックレベラー | n | - | cầu dẫn sàn | - | - | ドックレベラーを下[お]ろしてトラックにつなぎます。 | Hạ cầu dẫn để nối với xe tải.
+ウイング車[しゃ] | n | XA | xe tải mở cánh | - | - | ウイング車[しゃ]は横[よこ]から荷物[にもつ]を降[お]ろせます。 | Xe mở cánh có thể dỡ hàng từ bên hông.
+コンテナ | n | - | công-te-nơ | - | - | 港[みなと]からコンテナが届[とど]きました。 | Công-te-nơ từ cảng đã đến.
+輸入[ゆにゅう] | n,v3 | THÂU NHẬP | nhập khẩu | - | - | 海外[かいがい]から輸入[ゆにゅう]した商品[しょうひん]を検品[けんぴん]します。 | Kiểm hàng nhập khẩu từ nước ngoài.
+輸出[ゆしゅつ] | n,v3 | THÂU XUẤT | xuất khẩu | - | - | 輸出[ゆしゅつ]用[よう]の荷物[にもつ]を梱包[こんぽう]します。 | Đóng gói hàng xuất khẩu.
+通関[つうかん] | n,v3 | THÔNG QUAN | thông quan | - | - | 通関[つうかん]が終[お]わった荷物[にもつ]が入荷[にゅうか]します。 | Hàng đã thông quan được nhập về.
+重量[じゅうりょう] | n | TRỌNG LƯỢNG | trọng lượng | - | - | パレットの重量[じゅうりょう]を量[はか]ります。 | Cân trọng lượng pallet.
+最大[さいだい] | n | TỐI ĐẠI | tối đa | {最大[さいだい]} 積載量[せきさいりょう] | tải trọng tối đa | このフォークリフトの最大[さいだい]積載量[せきさいりょう]は二[に]トンです。 | Tải trọng tối đa của xe nâng này là hai tấn.
+積載量[せきさいりょう] | n | TÍCH TẢI LƯỢNG | tải trọng | - | - | 積載量[せきさいりょう]を超[こ]えないようにしてください。 | Hãy đảm bảo không vượt quá tải trọng.
+超[こ]える | v2 | SIÊU | vượt quá | - | - | 制限[せいげん]を超[こ]えると危険[きけん]です。 | Vượt quá giới hạn thì nguy hiểm.
+トン | ctr | - | tấn | - | - | 一[いち]トンの荷物[にもつ]を運[はこ]びます。 | Chở hàng một tấn.
+バランス | n | - | thăng bằng | バランス が 悪[わる]い | mất cân bằng | 積[つ]み方[かた]のバランスが悪[わる]いと倒[たお]れます。 | Xếp hàng mất cân bằng thì sẽ đổ.
+重心[じゅうしん] | n | TRỌNG TÂM | trọng tâm | - | - | 重[おも]い物[もの]は下[した]に置[お]いて重心[じゅうしん]を低[ひく]くします。 | Đặt đồ nặng ở dưới để hạ thấp trọng tâm.
+はみ出[だ]す | v1 | XUẤT | lòi ra ngoài | - | - | 箱[はこ]がパレットからはみ出[だ]さないように積[つ]みます。 | Xếp thùng sao cho không lòi ra khỏi pallet.
+傾[かたむ]く | v1 | KHUYNH | nghiêng | - | - | 荷物[にもつ]が傾[かたむ]いていたら直[なお]してください。 | Hàng bị nghiêng thì hãy chỉnh lại.
+ベルト | n | - | dây đai | ベルト で 固定[こてい] する | cố định bằng dây đai | 荷台[にだい]の荷物[にもつ]をベルトで固定[こてい]します。 | Cố định hàng trên thùng xe bằng dây đai.
+運行[うんこう] | n,v3 | VẬN HÀNH | chạy (tuyến xe) | - | - | トラックは毎日[まいにち]同[おな]じルートを運行[うんこう]します。 | Xe tải chạy cùng một tuyến mỗi ngày.
+ルート | n | - | tuyến đường | - | - | 配送[はいそう]ルートを地図[ちず]で確認[かくにん]します。 | Kiểm tra tuyến giao hàng trên bản đồ.
+遅延[ちえん] | n,v3 | TRÌ DIÊN | chậm trễ | - | - | 雪[ゆき]で配送[はいそう]に遅延[ちえん]が出[で]ています。 | Do tuyết nên giao hàng bị chậm trễ.
+連絡[れんらく] | n,v3 | LIÊN LẠC | liên lạc | - | - | 遅[おく]れる時[とき]はお客様[きゃくさま]に連絡[れんらく]します。 | Khi bị muộn thì liên lạc với khách.
+問[と]い合[あ]わせ | n | VẤN HỢP | hỏi đáp, liên hệ | - | - | 荷物[にもつ]についての問[と]い合[あ]わせに答[こた]えます。 | Trả lời các câu hỏi về hàng hóa.
+追跡[ついせき] | n,v3 | TRUY TÍCH | theo dõi (vận đơn) | {追跡[ついせき]} 番号[ばんごう] | mã vận đơn | 追跡[ついせき]番号[ばんごう]で荷物[にもつ]の場所[ばしょ]がわかります。 | Có thể biết vị trí hàng bằng mã vận đơn.
+紛失[ふんしつ] | n,v3 | PHÂN THẤT | thất lạc | - | - | 荷物[にもつ]の紛失[ふんしつ]がないように注意[ちゅうい]します。 | Chú ý để không thất lạc hàng.
+誤配[ごはい] | n,v3 | NGỘ PHỐI | giao nhầm | - | - | 誤配[ごはい]を防[ふせ]ぐため住所[じゅうしょ]をよく見[み]ます。 | Xem kỹ địa chỉ để phòng giao nhầm.
+始業点検[しぎょうてんけん] | n | THỦY NGHIỆP ĐIỂM KIỂM | kiểm tra đầu ca | - | - | フォークリフトの始業点検[しぎょうてんけん]をします。 | Kiểm tra xe nâng đầu ca.
+充電[じゅうでん] | n,v3 | SUNG ĐIỆN | sạc | - | - | 仕事[しごと]が終[お]わったらフォークリフトを充電[じゅうでん]します。 | Hết giờ làm thì sạc xe nâng.
+資格[しかく] | n | TƯ CÁCH | chứng chỉ | - | - | フォークリフトの資格[しかく]を取[と]りました。 | Tôi đã lấy chứng chỉ lái xe nâng.
+免許[めんきょ] | n | MIỄN HỨA | bằng lái | - | - | 中型[ちゅうがた]トラックの免許[めんきょ]が必要[ひつよう]です。 | Cần có bằng lái xe tải hạng trung.
+体力[たいりょく] | n | THỂ LỰC | thể lực | - | - | 倉庫[そうこ]の仕事[しごと]は体力[たいりょく]が必要[ひつよう]です。 | Công việc kho cần thể lực.
+暑[あつ]さ対策[たいさく] | n | THỬ ĐỐI SÁCH | biện pháp chống nóng | - | - | 夏[なつ]は倉庫[そうこ]に暑[あつ]さ対策[たいさく]として扇風機[せんぷうき]を置[お]きます。 | Mùa hè đặt quạt trong kho để chống nóng.
+水分補給[すいぶんほきゅう] | n,v3 | THỦY PHÂN BỔ CẤP | bổ sung nước | - | - | 作業[さぎょう]中[ちゅう]もこまめに水分補給[すいぶんほきゅう]をしましょう。 | Trong lúc làm cũng hãy thường xuyên uống nước.
+防寒[ぼうかん] | n | PHÒNG HÀN | chống rét | - | - | 冷凍倉庫[れいとうそうこ]では防寒[ぼうかん]服[ふく]を着[き]ます。 | Trong kho đông lạnh mặc đồ chống rét.
+冷凍倉庫[れいとうそうこ] | n | LÃNH ĐÔNG THƯƠNG KHỐ | kho đông lạnh | - | - | 冷凍倉庫[れいとうそうこ]での作業[さぎょう]は三十[さんじゅっ]分[ぷん]ごとに休憩[きゅうけい]します。 | Làm trong kho đông lạnh cứ ba mươi phút nghỉ một lần.
+整理整頓[せいりせいとん] | n,v3 | CHỈNH LÝ CHỈNH ĐỐN | gọn gàng ngăn nắp | - | - | 倉庫[そうこ]の中[なか]はいつも整理整頓[せいりせいとん]します。 | Trong kho luôn giữ gọn gàng.
+空[から]箱[ばこ] | n | KHÔNG TƯƠNG | thùng rỗng | - | - | 空[から]箱[ばこ]はつぶして置[お]き場[ば]に運[はこ]びます。 | Thùng rỗng ép dẹt rồi mang đến chỗ tập kết.
+つぶす | v1 | - | ép dẹt, đè bẹp | 段[だん]ボール を つぶす | ép dẹt thùng | 使[つか]った段[だん]ボールをつぶします。 | Ép dẹt thùng các-tông đã dùng.
+置[お]き場[ば] | n | TRÍ TRƯỜNG | chỗ để | - | - | パレットの置[お]き場[ば]は外[そと]にあります。 | Chỗ để pallet ở bên ngoài.
+ラップ | n | - | màng bọc | ラップ を 巻[ま]く | quấn màng | 崩[くず]れないようにラップを巻[ま]きます。 | Quấn màng để hàng không đổ.
+崩[くず]れる | v2 | BĂNG | đổ sụp | - | - | 高[たか]く積[つ]みすぎると崩[くず]れます。 | Xếp quá cao thì sẽ đổ.
+重[かさ]ねる | v2 | TRÙNG | chồng lên | - | - | 軽[かる]い箱[はこ]を上[うえ]に重[かさ]ねます。 | Chồng thùng nhẹ lên trên.

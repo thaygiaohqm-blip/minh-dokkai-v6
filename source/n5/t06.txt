@@ -1,0 +1,83 @@
+@topic t06
+@ja 町[まち]と交通[こうつう]
+@vi Phố phường, giao thông và vị trí
+@desc Các địa điểm trong thành phố, phương tiện đi lại, cách hỏi đường và các từ chỉ vị trí, phương hướng.
+町[まち] | n | ĐINH | thị trấn, khu phố | 町[まち] を 案内[あんない] する | dẫn đi xem phố | 友達[ともだち]に私[わたし]の町[まち]を案内[あんない]しました。 | Tôi đã dẫn bạn đi tham quan khu phố của mình.
+駅[えき] | n | DỊCH | nhà ga | - | - | 一番[いちばん]近[ちか]い駅[えき]はどこですか。 | Ga gần nhất ở đâu ạ?
+道[みち] | n | ĐẠO | con đường | 道[みち] に 迷[まよ]う | lạc đường | 初[はじ]めての町[まち]で道[みち]に迷[まよ]いました。 | Tôi bị lạc đường ở một thị trấn lần đầu đến.
+交差点[こうさてん] | n | GIAO SAI ĐIỂM | ngã tư | 次[つぎ] の {交差点[こうさてん]} | ngã tư tiếp theo | 次[つぎ]の交差点[こうさてん]を右[みぎ]に曲[ま]がってください。 | Hãy rẽ phải ở ngã tư tiếp theo.
+角[かど] | n | GIÁC | góc phố | - | - | 角[かど]にコンビニがあります。 | Ở góc phố có cửa hàng tiện lợi.
+橋[はし] | n | KIỀU | cây cầu | - | - | この橋[はし]を渡[わた]ると、駅[えき]が見[み]えます。 | Qua cây cầu này là thấy nhà ga.
+信号[しんごう] | n | TÍN HIỆU | đèn giao thông | 信号[しんごう] を 守[まも]る | tuân thủ đèn giao thông | 自転車[じてんしゃ]も信号[しんごう]を守[まも]らなければなりません。 | Xe đạp cũng phải tuân thủ đèn giao thông.
+病院[びょういん] | n | BỆNH VIỆN | bệnh viện | - | - | 熱[ねつ]があるので、病院[びょういん]へ行[い]きます。 | Tôi bị sốt nên đi bệnh viện.
+銀行[ぎんこう] | n | NGÂN HÀNG | ngân hàng | - | - | 銀行[ぎんこう]でお金[かね]を下[お]ろしました。 | Tôi đã rút tiền ở ngân hàng.
+郵便局[ゆうびんきょく] | n | BƯU TIỆN CỤC | bưu điện | - | - | 郵便局[ゆうびんきょく]で荷物[にもつ]を送[おく]りました。 | Tôi đã gửi bưu kiện ở bưu điện.
+交番[こうばん] | n | GIAO PHIÊN | đồn cảnh sát nhỏ | - | - | 財布[さいふ]を拾[ひろ]ったので、交番[こうばん]に届[とど]けました。 | Tôi nhặt được ví nên đã mang đến đồn cảnh sát.
+公園[こうえん] | n | CÔNG VIÊN | công viên | - | - | 日曜日[にちようび]は公園[こうえん]で子供[こども]と遊[あそ]びます。 | Chủ nhật tôi chơi với con ở công viên.
+映画館[えいがかん] | n | ÁNH HỌA QUÁN | rạp chiếu phim | - | - | 駅[えき]の前[まえ]に新[あたら]しい映画館[えいがかん]ができました。 | Trước ga mới mở một rạp chiếu phim.
+ホテル | n | - | khách sạn | ホテル に 泊[と]まる | ở khách sạn | 京都[きょうと]では駅[えき]の近[ちか]くのホテルに泊[と]まりました。 | Ở Kyoto tôi ở khách sạn gần ga.
+大使館[たいしかん] | n | ĐẠI SỨ QUÁN | đại sứ quán | - | - | ベトナム大使館[たいしかん]でパスポートを作[つく]りました。 | Tôi làm hộ chiếu ở Đại sứ quán Việt Nam.
+寺[てら] | n | TỰ | chùa | - | - | 京都[きょうと]には古[ふる]いお寺[てら]がたくさんあります。 | Kyoto có rất nhiều chùa cổ.
+池[いけ] | n | TRÌ | cái ao | - | - | 公園[こうえん]の池[いけ]に魚[さかな]がいます。 | Trong ao ở công viên có cá.
+外国[がいこく] | n | NGOẠI QUỐC | nước ngoài | - | - | 外国[がいこく]へ行[い]ったことがありますか。 | Bạn đã từng ra nước ngoài chưa?
+空港[くうこう] | n | KHÔNG CẢNG | sân bay | 空港[くうこう] へ 迎[むか]え に 行[い]く | ra sân bay đón | 明日[あした]、空港[くうこう]へ母[はは]を迎[むか]えに行[い]きます。 | Mai tôi ra sân bay đón mẹ.
+地図[ちず] | n | ĐỊA ĐỒ | bản đồ | 地図[ちず] を 見[み]る | xem bản đồ | スマホで地図[ちず]を見[み]ながら歩[ある]きました。 | Tôi vừa xem bản đồ trên điện thoại vừa đi bộ.
+入口[いりぐち] | n | NHẬP KHẨU | lối vào | - | - | 入口[いりぐち]は建物[たてもの]の右[みぎ]側[がわ]にあります。 | Lối vào ở phía bên phải tòa nhà.
+出口[でぐち] | n | XUẤT KHẨU | lối ra | 東[ひがし] {出口[でぐち]} | cửa ra phía đông | 駅[えき]の東[ひがし]出口[でぐち]で待[ま]っています。 | Tôi đợi ở cửa ra phía đông của ga.
+エレベーター | n | - | thang máy | - | - | 五[ご]階[かい]までエレベーターで上[あ]がります。 | Tôi đi thang máy lên tầng năm.
+車[くるま] | n | XA | ô tô, xe | 車[くるま] を 運転[うんてん] する | lái xe ô tô | 父[ちち]は毎日[まいにち]車[くるま]を運転[うんてん]します。 | Bố tôi lái xe mỗi ngày.
+自動車[じどうしゃ] | n | TỰ ĐỘNG XA | ô tô | - | - | 日本[にほん]の自動車[じどうしゃ]は世界[せかい]で人気[にんき]があります。 | Ô tô Nhật được ưa chuộng trên thế giới.
+自転車[じてんしゃ] | n | TỰ CHUYỂN XA | xe đạp | 自転車[じてんしゃ] に 乗[の]る | đi xe đạp | 子供[こども]のころ、自転車[じてんしゃ]に乗[の]る練習[れんしゅう]をしました。 | Hồi nhỏ tôi đã tập đi xe đạp.
+バス | n | - | xe buýt | バス を 待[ま]つ | đợi xe buýt | 雨[あめ]の中[なか]でバスを待[ま]ちました。 | Tôi đã đợi xe buýt trong mưa.
+タクシー | n | - | taxi | タクシー を 呼[よ]ぶ | gọi taxi | 終電[しゅうでん]がないので、タクシーを呼[よ]びました。 | Hết chuyến tàu cuối nên tôi đã gọi taxi.
+電車[でんしゃ] | n | ĐIỆN XA | tàu điện | 電車[でんしゃ] が 遅[おく]れる | tàu bị trễ | 事故[じこ]で電車[でんしゃ]が遅[おく]れています。 | Tàu đang bị trễ do tai nạn.
+地下鉄[ちかてつ] | n | ĐỊA HẠ THIẾT | tàu điện ngầm | - | - | 地下鉄[ちかてつ]で会社[かいしゃ]に行[い]きます。 | Tôi đi làm bằng tàu điện ngầm.
+飛行機[ひこうき] | n | PHI HÀNH CƠ | máy bay | 飛行機[ひこうき] で 行[い]く | đi bằng máy bay | 北海道[ほっかいどう]へは飛行機[ひこうき]で行[い]きます。 | Tôi đi Hokkaido bằng máy bay.
+船[ふね] | n | THUYỀN | tàu thủy, thuyền | - | - | 船[ふね]で島[しま]へ渡[わた]りました。 | Tôi đi thuyền sang đảo.
+切符[きっぷ] | n | THIẾT PHÙ | vé (tàu, xe) | 切符[きっぷ] を 買[か]う | mua vé | 機械[きかい]で大阪[おおさか]までの切符[きっぷ]を買[か]いました。 | Tôi đã mua vé đi Osaka ở máy bán vé.
+乗[の]る | v1 | THỪA | lên (xe), đi (phương tiện) | 電車[でんしゃ] に 乗[の]る | lên tàu | 八[はち]時[じ]の電車[でんしゃ]に乗[の]ります。 | Tôi lên chuyến tàu tám giờ.
+降[お]りる | v2 | GIÁNG | xuống (xe) | バス を 降[お]りる | xuống xe buýt | 次[つぎ]のバス停[てい]でバスを降[お]ります。 | Tôi xuống xe buýt ở trạm tiếp theo.
+乗[の]り換[か]える | v2 | THỪA HOÁN | chuyển tàu, đổi xe | 電車[でんしゃ] を 乗[の]り換[か]える | chuyển tàu | 新宿[しんじゅく]で電車[でんしゃ]を乗[の]り換[か]えてください。 | Hãy chuyển tàu ở Shinjuku.
+渡[わた]る | v1 | ĐỘ | băng qua | 橋[はし] を 渡[わた]る | qua cầu | 橋[はし]を渡[わた]って、左[ひだり]に行[い]ってください。 | Hãy qua cầu rồi đi về bên trái.
+曲[ま]がる | v1 | KHÚC | rẽ | 角[かど] を 曲[ま]がる | rẽ ở góc phố | 二[ふた]つ目[め]の角[かど]を曲[ま]がると、銀行[ぎんこう]があります。 | Rẽ ở góc thứ hai là có ngân hàng.
+歩[ある]く | v1 | BỘ | đi bộ | 駅[えき] まで 歩[ある]く | đi bộ tới ga | 毎朝[まいあさ]、駅[えき]まで歩[ある]きます。 | Sáng nào tôi cũng đi bộ tới ga.
+走[はし]る | v1 | TẨU | chạy | 車[くるま] が 走[はし]る | xe chạy | この道[みち]は車[くるま]がたくさん走[はし]っています。 | Con đường này rất nhiều xe chạy.
+行[い]く | v1 | HÀNH | đi | - | - | 来週[らいしゅう]、友達[ともだち]と海[うみ]へ行[い]きます。 | Tuần sau tôi đi biển với bạn.
+来[く]る | v3 | LAI | đến | - | - | 友達[ともだち]がベトナムから遊[あそ]びに来[き]ました。 | Bạn tôi từ Việt Nam sang chơi.
+帰[かえ]る | v1 | QUY | về | - | - | 今日[きょう]は早[はや]く家[いえ]に帰[かえ]ります。 | Hôm nay tôi về nhà sớm.
+着[つ]く | v1 | TRƯỚC | đến nơi | 駅[えき] に 着[つ]く | đến ga | 駅[えき]に着[つ]いたら、電話[でんわ]してください。 | Đến ga thì gọi điện cho tôi nhé.
+出[で]る | v2 | XUẤT | ra, rời khỏi | 家[いえ] を 出[で]る | ra khỏi nhà | 毎朝[まいあさ]七[しち]時[じ]に家[いえ]を出[で]ます。 | Sáng nào tôi cũng ra khỏi nhà lúc bảy giờ.
+出[で]かける | v2 | XUẤT | ra ngoài, đi chơi | 買[か]い物[もの] に 出[で]かける | đi mua sắm | 母[はは]は買[か]い物[もの]に出[で]かけています。 | Mẹ tôi đang đi mua sắm.
+入[はい]る | v1 | NHẬP | vào | - | - | 中[なか]に入[はい]ってもいいですか。 | Tôi vào trong được không?
+止[と]まる | v1 | CHỈ | dừng lại | - | - | このバスは駅[えき]の前[まえ]に止[と]まりますか。 | Xe buýt này có dừng trước ga không?
+急[いそ]ぐ | v1 | CẤP | vội, gấp | 駅[えき] へ 急[いそ]ぐ | vội ra ga | 時間[じかん]がないので、駅[えき]へ急[いそ]ぎました。 | Không có thời gian nên tôi vội ra ga.
+待[ま]つ | v1 | ĐÃI | chờ, đợi | 友達[ともだち] を 待[ま]つ | đợi bạn | 駅[えき]の前[まえ]で友達[ともだち]を待[ま]っています。 | Tôi đang đợi bạn trước ga.
+遠[とお]い | adj-i | VIỄN | xa | 駅[えき] から 遠[とお]い | xa ga | 私[わたし]のアパートは駅[えき]から遠[とお]いです。 | Căn hộ của tôi xa ga.
+近[ちか]い | adj-i | CẬN | gần | 駅[えき] に 近[ちか]い | gần ga | 駅[えき]に近[ちか]い部屋[へや]を探[さが]しています。 | Tôi đang tìm phòng gần ga.
+近[ちか]く | n | CẬN | chỗ gần, vùng lân cận | 近[ちか]く の 公園[こうえん] | công viên gần đây | 近[ちか]くの公園[こうえん]を散歩[さんぽ]します。 | Tôi đi dạo ở công viên gần đây.
+上[うえ] | n | THƯỢNG | trên | - | - | 机[つくえ]の上[うえ]に辞書[じしょ]があります。 | Trên bàn có từ điển.
+下[した] | n | HẠ | dưới | - | - | 椅子[いす]の下[した]に猫[ねこ]がいます。 | Dưới ghế có con mèo.
+前[まえ] | n | TIỀN | trước | - | - | 駅[えき]の前[まえ]で会[あ]いましょう。 | Mình gặp nhau trước ga nhé.
+後[うし]ろ | n | HẬU | phía sau | - | - | 私[わたし]の後[うし]ろに座[すわ]ってください。 | Hãy ngồi phía sau tôi.
+中[なか] | n | TRUNG | bên trong | - | - | 箱[はこ]の中[なか]に本[ほん]があります。 | Trong hộp có sách.
+外[そと] | n | NGOẠI | bên ngoài | - | - | 外[そと]で子供[こども]たちが遊[あそ]んでいます。 | Bọn trẻ đang chơi bên ngoài.
+右[みぎ] | n | HỮU | bên phải | 右[みぎ] に 曲[ま]がる | rẽ phải | 信号[しんごう]を右[みぎ]に曲[ま]がってください。 | Hãy rẽ phải ở đèn giao thông.
+左[ひだり] | n | TẢ | bên trái | 左[ひだり] 側[がわ] | phía bên trái | 日本[にほん]では車[くるま]は左[ひだり]側[がわ]を走[はし]ります。 | Ở Nhật, ô tô chạy bên trái.
+横[よこ] | n | HOÀNH | bên cạnh; chiều ngang | - | - | 銀行[ぎんこう]の横[よこ]に郵便局[ゆうびんきょく]があります。 | Bên cạnh ngân hàng có bưu điện.
+間[あいだ] | n | GIAN | ở giữa | - | - | 本屋[ほんや]と花屋[はなや]の間[あいだ]にカフェがあります。 | Giữa hiệu sách và hàng hoa có quán cà phê.
+向[む]こう | n | HƯỚNG | phía bên kia | - | - | 川[かわ]の向[む]こうに私[わたし]の家[いえ]があります。 | Nhà tôi ở bên kia sông.
+そば | n | - | bên cạnh, gần | - | - | 駅[えき]のそばに大[おお]きいスーパーがあります。 | Gần ga có siêu thị lớn.
+東[ひがし] | n | ĐÔNG | phía đông | - | - | 太陽[たいよう]は東[ひがし]から昇[のぼ]ります。 | Mặt trời mọc ở phía đông.
+西[にし] | n | TÂY | phía tây | - | - | 夕日[ゆうひ]が西[にし]の空[そら]に沈[しず]みます。 | Mặt trời lặn ở phía tây.
+南[みなみ] | n | NAM | phía nam | - | - | 沖縄[おきなわ]は日本[にほん]の一番[いちばん]南[みなみ]にあります。 | Okinawa nằm ở cực nam Nhật Bản.
+北[きた] | n | BẮC | phía bắc | - | - | 北[きた]の方[ほう]は冬[ふゆ]がとても寒[さむ]いです。 | Phía bắc mùa đông rất lạnh.
+所[ところ] | n | SỞ | nơi, chỗ | - | - | ここは静[しず]かでいい所[ところ]ですね。 | Đây là một nơi yên tĩnh và đẹp nhỉ.
+場所[ばしょ] | n | TRƯỜNG SỞ | địa điểm | 待[ま]ち合[あ]わせ の 場所[ばしょ] | điểm hẹn gặp | 待[ま]ち合[あ]わせの場所[ばしょ]はどこですか。 | Điểm hẹn gặp ở đâu vậy?
+ここ | pron | - | chỗ này | - | - | ここに名前[なまえ]を書[か]いてください。 | Hãy viết tên vào chỗ này.
+そこ | pron | - | chỗ đó | - | - | そこに荷物[にもつ]を置[お]いてください。 | Hãy đặt hành lý ở chỗ đó.
+あそこ | pron | - | chỗ kia | - | - | あそこに座[すわ]りましょう。 | Mình ngồi đằng kia đi.
+どこ | q | - | ở đâu | - | - | トイレはどこですか。 | Nhà vệ sinh ở đâu?
+こちら | pron | - | phía này; vị này | - | - | こちらは山田[やまだ]さんです。 | Đây là anh Yamada.
+そちら | pron | - | phía đó; quý vị | - | - | そちらの天気[てんき]はどうですか。 | Thời tiết bên đó thế nào?
+あちら | pron | - | phía kia | - | - | 受付[うけつけ]はあちらです。 | Quầy lễ tân ở phía kia.
+どちら | q | - | phía nào; cái nào | - | - | 駅[えき]はどちらですか。 | Nhà ga ở phía nào?

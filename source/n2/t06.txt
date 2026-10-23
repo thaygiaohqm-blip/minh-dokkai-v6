@@ -1,0 +1,171 @@
+@topic t06
+@ja 教育[きょういく]・研究[けんきゅう]
+@vi Giáo dục và nghiên cứu
+@desc Hệ thống trường lớp, thi cử, học vị, viết luận văn, phương pháp nghiên cứu và những từ mô tả năng lực, trí tuệ của con người.
+初等[しょとう]教育[きょういく] | n | SƠ ĐẲNG GIÁO DỤC | giáo dục tiểu học | - | - | 初等[しょとう]教育[きょういく]から英語[えいご]を教[おし]える国[くに]が増[ふ]えた。 | Ngày càng nhiều nước dạy tiếng Anh từ bậc tiểu học.
+中等[ちゅうとう]教育[きょういく] | n | TRUNG ĐẲNG GIÁO DỤC | giáo dục trung học | - | - | 中等[ちゅうとう]教育[きょういく]では進路[しんろ]指導[しどう]が大切[たいせつ]だ。 | Ở bậc trung học, định hướng nghề nghiệp rất quan trọng.
+高等[こうとう]教育[きょういく] | n | CAO ĐẲNG GIÁO DỤC | giáo dục bậc cao | - | - | 高等[こうとう]教育[きょういく]を受[う]ける人[ひと]が増[ふ]えている。 | Số người theo học bậc cao đang tăng.
+幼児[ようじ]教育[きょういく] | n | ẤU NHI GIÁO DỤC | giáo dục mầm non | - | - | 幼児[ようじ]教育[きょういく]の無償[むしょう]化[か]が始[はじ]まった。 | Đã bắt đầu miễn phí giáo dục mầm non.
+早期[そうき]教育[きょういく] | n | TẢO KỲ GIÁO DỤC | giáo dục sớm | - | - | 早期[そうき]教育[きょういく]に熱心[ねっしん]な親[おや]が多[おお]い。 | Nhiều cha mẹ nhiệt tình với giáo dục sớm.
+英才[えいさい]教育[きょういく] | n | ANH TÀI GIÁO DỤC | giáo dục năng khiếu | - | - | 彼[かれ]は幼[おさな]いころから音楽[おんがく]の英才[えいさい]教育[きょういく]を受[う]けた。 | Từ nhỏ anh ấy đã được đào tạo năng khiếu âm nhạc.
+生涯[しょうがい]学習[がくしゅう] | n | SINH NHAI HỌC TẬP | học tập suốt đời | - | - | 生涯[しょうがい]学習[がくしゅう]として七十[ななじゅっ]歳[さい]で大学[だいがく]に入[はい]った。 | Ông ấy vào đại học năm bảy mươi tuổi để học tập suốt đời.
+保育所[ほいくしょ] | n | BẢO DỤC SỞ | nhà trẻ | - | - | 保育所[ほいくしょ]に子供[こども]を預[あず]けて働[はたら]いている。 | Gửi con ở nhà trẻ rồi đi làm.
+高等[こうとう]学校[がっこう] | n | CAO ĐẲNG HỌC HIỆU | trường trung học phổ thông | - | - | 正式[せいしき]には「高校[こうこう]」ではなく「高等[こうとう]学校[がっこう]」と言[い]う。 | Tên chính thức không phải "koukou" mà là "trường trung học phổ thông".
+短期[たんき]大学[だいがく] | n | ĐOẢN KỲ ĐẠI HỌC | cao đẳng (hệ hai năm) | - | - | 姉[あね]は短期[たんき]大学[だいがく]で栄養[えいよう]を学[まな]んだ。 | Chị tôi học dinh dưỡng ở trường cao đẳng.
+大学生[だいがくせい] | n | ĐẠI HỌC SINH | sinh viên đại học | - | - | 大学生[だいがくせい]になったら一人[ひとり]暮[ぐ]らしをしたい。 | Lên đại học tôi muốn sống một mình.
+学科[がっか] | n | HỌC KHOA | khoa, chuyên ngành | - | - | 経済[けいざい]学部[がくぶ]経営[けいえい]学科[がっか]に在籍[ざいせき]している。 | Tôi đang theo học ngành Quản trị, khoa Kinh tế.
+文系[ぶんけい] | n | VĂN HỆ | khối xã hội | - | - | 文系[ぶんけい]か理系[りけい]か、高校[こうこう]二[に]年[ねん]で選[えら]ぶ。 | Năm lớp mười một chọn khối xã hội hay tự nhiên.
+理系[りけい] | n | LÝ HỆ | khối tự nhiên | - | - | 理系[りけい]の学生[がくせい]は実験[じっけん]が多[おお]い。 | Sinh viên khối tự nhiên có nhiều thí nghiệm.
+分野[ぶんや] | n | PHÂN DÃ | lĩnh vực | 専門[せんもん] {分野} | lĩnh vực chuyên môn | ロボットの分野[ぶんや]で働[はたら]きたい。 | Tôi muốn làm việc trong lĩnh vực robot.
+領域[りょういき] | n | LÃNH VỰC | lĩnh vực, phạm vi | - | - | 医学[いがく]と工学[こうがく]の領域[りょういき]にまたがる研究[けんきゅう]だ。 | Đây là nghiên cứu trải trên cả lĩnh vực y học và kỹ thuật.
+カリキュラム | n | - | chương trình học | - | - | 新[あたら]しいカリキュラムでは実習[じっしゅう]が増[ふ]えた。 | Trong chương trình học mới, thực hành tăng lên.
+シラバス | n | - | đề cương môn học | - | - | 授業[じゅぎょう]を選[えら]ぶ前[まえ]にシラバスを読[よ]む。 | Đọc đề cương trước khi chọn môn.
+履修[りしゅう] | n,v3 | LÝ TU | đăng ký học, theo học | 科目[かもく] を {履修} する | đăng ký môn học | 今学期[こんがっき]は十[じゅう]科目[かもく]を履修[りしゅう]している。 | Học kỳ này tôi học mười môn.
+選択[せんたく]科目[かもく] | n | TUYỂN TRẠCH KHOA MỤC | môn tự chọn | - | - | 選択[せんたく]科目[かもく]で中国語[ちゅうごくご]を取[と]った。 | Tôi chọn tiếng Trung làm môn tự chọn.
+受講生[じゅこうせい] | n | THỤ GIẢNG SINH | học viên | - | - | この講座[こうざ]の受講生[じゅこうせい]は社会[しゃかい]人[じん]が多[おお]い。 | Học viên của khóa này phần lớn là người đã đi làm.
+聴講[ちょうこう] | n,v3 | THÍNH GIẢNG | dự thính | - | - | 他[た]の学部[がくぶ]の授業[じゅぎょう]を聴講[ちょうこう]した。 | Tôi dự thính lớp của khoa khác.
+講演[こうえん] | n,v3 | GIẢNG DIỄN | bài nói chuyện | 講演[こうえん] を 行[おこな]う | thuyết giảng | 有名[ゆうめい]な作家[さっか]が大学[だいがく]で講演[こうえん]を行[おこな]った。 | Một nhà văn nổi tiếng đã thuyết giảng ở trường đại học.
+講演会[こうえんかい] | n | GIẢNG DIỄN HỘI | buổi nói chuyện | - | - | 市民[しみん]向[む]けの講演会[こうえんかい]に参加[さんか]した。 | Tôi tham dự buổi nói chuyện dành cho người dân.
+講習[こうしゅう] | n | GIẢNG TẬP | lớp tập huấn | 講習[こうしゅう] を 受[う]ける | dự lớp tập huấn | フォークリフトの講習[こうしゅう]を受[う]けた。 | Tôi dự lớp tập huấn lái xe nâng.
+研修会[けんしゅうかい] | n | NGHIÊN TU HỘI | buổi tập huấn | - | - | 新[あたら]しい機械[きかい]の研修会[けんしゅうかい]が開[ひら]かれた。 | Buổi tập huấn về máy mới đã được tổ chức.
+セミナー | n | - | hội thảo, seminar | セミナー に 参加[さんか] する | tham gia hội thảo | 就職[しゅうしょく]セミナーに参加[さんか]した。 | Tôi tham gia hội thảo việc làm.
+勉強会[べんきょうかい] | n | MIỄN CƯỠNG HỘI | nhóm học | - | - | 毎週[まいしゅう]、同僚[どうりょう]と日本語[にほんご]の勉強会[べんきょうかい]を開[ひら]いている。 | Hằng tuần tôi mở nhóm học tiếng Nhật với đồng nghiệp.
+修了[しゅうりょう] | n,v3 | TU LIỄU | hoàn thành (khóa học) | 課程[かてい] を {修了} する | hoàn thành chương trình | 研修[けんしゅう]課程[かてい]を修了[しゅうりょう]した。 | Đã hoàn thành chương trình đào tạo.
+修了証[しゅうりょうしょう] | n | TU LIỄU CHỨNG | chứng chỉ hoàn thành | - | - | 講習[こうしゅう]を受[う]けると修了証[しゅうりょうしょう]がもらえる。 | Học xong lớp tập huấn sẽ được nhận chứng chỉ.
+免状[めんじょう] | n | MIỄN TRẠNG | văn bằng, giấy phép | - | - | 茶道[さどう]の免状[めんじょう]をもらった。 | Tôi nhận được văn bằng trà đạo.
+資格[しかく]試験[しけん] | n | TƯ CÁCH THÍ NGHIỆM | kỳ thi chứng chỉ | - | - | 資格[しかく]試験[しけん]の勉強[べんきょう]をしている。 | Tôi đang ôn thi chứng chỉ.
+検定[けんてい] | n,v3 | KIỂM ĐỊNH | kỳ thi kiểm định | 漢字[かんじ] {検定} | kỳ thi kiểm định Kanji | 漢字[かんじ]検定[けんてい]の二[に]級[きゅう]に合格[ごうかく]した。 | Tôi đã đỗ kỳ thi kiểm định Kanji cấp hai.
+模試[もし] | n | MÔ THÍ | thi thử | 模試[もし] を 受[う]ける | thi thử | 本番[ほんばん]の前[まえ]に模試[もし]を三[さん]回[かい]受[う]けた。 | Tôi đã thi thử ba lần trước kỳ thi thật.
+過去問[かこもん] | n | QUÁ KHỨ VẤN | đề thi các năm trước | 過去問[かこもん] を 解[と]く | giải đề các năm trước | JLPTの過去問[かこもん]を解[と]いて練習[れんしゅう]した。 | Tôi luyện tập bằng cách giải đề JLPT các năm trước.
+出題[しゅつだい] | n,v3 | XUẤT ĐỀ | ra đề | {出題} 範囲[はんい] | phạm vi ra đề | 試験[しけん]の出題[しゅつだい]範囲[はんい]を確認[かくにん]した。 | Tôi đã xác nhận phạm vi ra đề thi.
+配点[はいてん] | n | PHỐI ĐIỂM | thang điểm | - | - | 最後[さいご]の問題[もんだい]は配点[はいてん]が高[たか]い。 | Câu cuối có thang điểm cao.
+得点[とくてん] | n,v3 | ĐẮC ĐIỂM | điểm đạt được | - | - | 読解[どっかい]の得点[とくてん]が低[ひく]かった。 | Điểm đọc hiểu của tôi thấp.
+平均点[へいきんてん] | n | BÌNH QUÂN ĐIỂM | điểm trung bình | 平均点[へいきんてん] を 上回[うわまわ]る | vượt điểm trung bình | クラスの平均点[へいきんてん]を上回[うわまわ]った。 | Đã vượt điểm trung bình của lớp.
+合格点[ごうかくてん] | n | HỢP CÁCH ĐIỂM | điểm đỗ | - | - | 合格点[ごうかくてん]まであと五[ご]点[てん]足[た]りなかった。 | Còn thiếu năm điểm nữa là đạt điểm đỗ.
+合格率[ごうかくりつ] | n | HỢP CÁCH SUẤT | tỷ lệ đỗ | - | - | この資格[しかく]は合格率[ごうかくりつ]が低[ひく]い。 | Chứng chỉ này có tỷ lệ đỗ thấp.
+倍率[ばいりつ] | n | BỘI SUẤT | tỷ lệ chọi | 倍率[ばいりつ] が 高[たか]い | tỷ lệ chọi cao | 人気[にんき]の大学[だいがく]は倍率[ばいりつ]が高[たか]い。 | Trường đại học nổi tiếng có tỷ lệ chọi cao.
+定員[ていいん] | n | ĐỊNH VIÊN | chỉ tiêu, sức chứa | 定員[ていいん] に 達[たっ]する | đủ chỉ tiêu | 申[もう]し込[こ]みが定員[ていいん]に達[たっ]した。 | Số người đăng ký đã đủ chỉ tiêu.
+偏差値[へんさち] | n | THIÊN SAI TRỊ | chỉ số độ lệch (đánh giá học lực) | 偏差値[へんさち] が 高[たか]い | học lực cao | 偏差値[へんさち]の高[たか]い大学[だいがく]を目指[めざ]している。 | Đang nhắm vào trường đại học có điểm chuẩn cao.
+志望校[しぼうこう] | n | CHÍ VỌNG HIỆU | trường nguyện vọng | - | - | 第一[だいいち]志望校[しぼうこう]に合格[ごうかく]した。 | Tôi đã đỗ trường nguyện vọng một.
+入学[にゅうがく]試験[しけん] | n | NHẬP HỌC THÍ NGHIỆM | kỳ thi tuyển sinh | - | - | 来月[らいげつ]、日本語[にほんご]学校[がっこう]の入学[にゅうがく]試験[しけん]がある。 | Tháng sau có kỳ thi vào trường tiếng Nhật.
+推薦[すいせん]入試[にゅうし] | n | THÔI TIẾN NHẬP THÍ | xét tuyển theo tiến cử | - | - | 推薦[すいせん]入試[にゅうし]で大学[だいがく]に入[はい]った。 | Tôi vào đại học theo diện tiến cử.
+一般[いっぱん]入試[にゅうし] | n | NHẤT BAN NHẬP THÍ | thi tuyển thông thường | - | - | 一般[いっぱん]入試[にゅうし]は二月[にがつ]に行[おこな]われる。 | Thi tuyển thông thường diễn ra vào tháng Hai.
+面接[めんせつ]試験[しけん] | n | DIỆN TIẾP THÍ NGHIỆM | thi phỏng vấn | - | - | 面接[めんせつ]試験[しけん]では緊張[きんちょう]して声[こえ]が震[ふる]えた。 | Lúc thi phỏng vấn tôi run đến mức giọng run theo.
+口頭[こうとう] | n | KHẨU ĐẦU | bằng lời nói | {口頭} で 説明[せつめい] する | giải thích bằng lời | 書類[しょるい]ではなく口頭[こうとう]で説明[せつめい]した。 | Đã giải thích bằng lời chứ không phải bằng văn bản.
+論述[ろんじゅつ] | n,v3 | LUẬN THUẬT | trình bày luận điểm | {論述} 問題[もんだい] | câu hỏi tự luận | 論述[ろんじゅつ]問題[もんだい]に時間[じかん]がかかった。 | Câu tự luận tốn nhiều thời gian.
+不正解[ふせいかい] | n | BẤT CHÍNH GIẢI | đáp án sai | - | - | 三[さん]問[もん]が不正解[ふせいかい]だった。 | Ba câu bị sai.
+誤答[ごとう] | n | NGỘ ĐÁP | câu trả lời sai | - | - | 誤答[ごとう]の原因[げんいん]を分析[ぶんせき]する。 | Phân tích nguyên nhân trả lời sai.
+解答[かいとう]用紙[ようし] | n | GIẢI ĐÁP DỤNG CHỈ | giấy làm bài | - | - | 解答[かいとう]用紙[ようし]に名前[なまえ]を書[か]き忘[わす]れた。 | Tôi quên ghi tên vào giấy làm bài.
+不正[ふせい]行為[こうい] | n | BẤT CHÍNH HÀNH VI | hành vi gian lận | - | - | 試験[しけん]中[ちゅう]の不正[ふせい]行為[こうい]は厳[きび]しく処分[しょぶん]される。 | Gian lận trong thi cử bị xử lý nghiêm.
+期末[きまつ]試験[しけん] | n | KỲ MẠT THÍ NGHIỆM | thi cuối kỳ | - | - | 期末[きまつ]試験[しけん]のために図書館[としょかん]で勉強[べんきょう]している。 | Đang học ở thư viện để thi cuối kỳ.
+中間[ちゅうかん]試験[しけん] | n | TRUNG GIAN THÍ NGHIỆM | thi giữa kỳ | - | - | 中間[ちゅうかん]試験[しけん]の結果[けっか]が悪[わる]かった。 | Kết quả thi giữa kỳ không tốt.
+小[しょう]テスト | n | TIỂU | bài kiểm tra ngắn | - | - | 毎週[まいしゅう]月曜日[げつようび]に漢字[かんじ]の小[しょう]テストがある。 | Thứ Hai hằng tuần có bài kiểm tra Kanji ngắn.
+再試験[さいしけん] | n | TÁI THÍ NGHIỆM | thi lại | - | - | 単位[たんい]を落[お]として再試験[さいしけん]を受[う]けた。 | Trượt tín chỉ nên phải thi lại.
+落第[らくだい] | n,v3 | LẠC ĐỆ | thi trượt; lưu ban | - | - | 勉強[べんきょう]しなかったので落第[らくだい]した。 | Không học nên bị lưu ban.
+進学率[しんがくりつ] | n | TIẾN HỌC SUẤT | tỷ lệ học lên | - | - | 日本[にほん]の大学[だいがく]進学率[しんがくりつ]は五十[ごじゅう]パーセントを超[こ]える。 | Tỷ lệ học lên đại học của Nhật vượt 50%.
+内申書[ないしんしょ] | n | NỘI THÂN THƯ | học bạ (gửi xét tuyển) | - | - | 内申書[ないしんしょ]の点数[てんすう]も合否[ごうひ]に関係[かんけい]する。 | Điểm học bạ cũng ảnh hưởng đến việc đỗ trượt.
+在学[ざいがく] | n,v3 | TẠI HỌC | đang theo học | {在学} 中[ちゅう] | trong thời gian đi học | 在学[ざいがく]中[ちゅう]に一[いち]年間[ねんかん]アメリカに留学[りゅうがく]した。 | Trong thời gian đi học, tôi du học Mỹ một năm.
+編入[へんにゅう] | n,v3 | BIÊN NHẬP | chuyển vào (học giữa chừng) | - | - | 専門[せんもん]学校[がっこう]から大学[だいがく]三[さん]年[ねん]に編入[へんにゅう]した。 | Tôi chuyển từ trường nghề vào năm ba đại học.
+転校[てんこう] | n,v3 | CHUYỂN HIỆU | chuyển trường | - | - | 父[ちち]の転勤[てんきん]で転校[てんこう]することになった。 | Vì bố chuyển công tác nên tôi phải chuyển trường.
+卒業[そつぎょう]証書[しょうしょ] | n | TỐT NGHIỆP CHỨNG THƯ | bằng tốt nghiệp | - | - | 卒業式[そつぎょうしき]で卒業[そつぎょう]証書[しょうしょ]を受[う]け取[と]った。 | Tôi nhận bằng tốt nghiệp ở lễ tốt nghiệp.
+出身校[しゅっしんこう] | n | XUẤT THÂN HIỆU | trường từng học | - | - | 出身校[しゅっしんこう]の後輩[こうはい]に会[あ]った。 | Tôi gặp đàn em cùng trường cũ.
+学友[がくゆう] | n | HỌC HỮU | bạn học | - | - | 学友[がくゆう]とは今[いま]でも連絡[れんらく]を取[と]り合[あ]っている。 | Tôi vẫn giữ liên lạc với bạn học.
+教[おし]え子[ご] | n | GIÁO TỬ | học trò (mình đã dạy) | - | - | 先生[せんせい]は教[おし]え子[ご]の結婚式[けっこんしき]に出席[しゅっせき]した。 | Thầy giáo dự đám cưới của học trò cũ.
+師匠[ししょう] | n | SƯ TƯỢNG | thầy (nghề, nghệ thuật) | - | - | 落語[らくご]の師匠[ししょう]に弟子[でし]入[い]りした。 | Tôi xin làm đệ tử của một thầy kể chuyện rakugo.
+弟子[でし] | n | ĐỆ TỬ | đệ tử, học trò | - | - | 職人[しょくにん]の弟子[でし]として十[じゅう]年[ねん]修業[しゅぎょう]した。 | Tôi học nghề mười năm làm đệ tử một người thợ.
+講堂[こうどう] | n | GIẢNG ĐƯỜNG | hội trường | - | - | 全校[ぜんこう]集会[しゅうかい]は講堂[こうどう]で行[おこな]われる。 | Buổi tập trung toàn trường diễn ra ở hội trường.
+図書室[としょしつ] | n | ĐỒ THƯ THẤT | phòng đọc sách | - | - | 昼休[ひるやす]みはよく図書室[としょしつ]で本[ほん]を読[よ]む。 | Giờ nghỉ trưa tôi hay đọc sách ở phòng đọc.
+理科室[りかしつ] | n | LÝ KHOA THẤT | phòng thí nghiệm (trường phổ thông) | - | - | 理科室[りかしつ]で植物[しょくぶつ]の観察[かんさつ]をした。 | Chúng tôi quan sát thực vật ở phòng thí nghiệm.
+学生寮[がくせいりょう] | n | HỌC SINH LIÊU | ký túc xá sinh viên | - | - | 一[いち]年生[ねんせい]は学生寮[がくせいりょう]に住[す]んでいる。 | Sinh viên năm nhất sống ở ký túc xá.
+部活動[ぶかつどう] | n | BỘ HOẠT ĐỘNG | hoạt động câu lạc bộ | - | - | 部活動[ぶかつどう]で毎日[まいにち]夜[よる]まで練習[れんしゅう]した。 | Ngày nào cũng tập câu lạc bộ đến tối.
+クラブ活動[かつどう] | n | HOẠT ĐỘNG | hoạt động câu lạc bộ | - | - | クラブ活動[かつどう]で友達[ともだち]がたくさんできた。 | Nhờ hoạt động câu lạc bộ mà tôi có nhiều bạn.
+学園祭[がくえんさい] | n | HỌC VIÊN TẾ | lễ hội trường | - | - | 学園祭[がくえんさい]でベトナム料理[りょうり]の店[みせ]を出[だ]した。 | Ở lễ hội trường chúng tôi mở gian hàng món Việt.
+不登校[ふとうこう] | n | BẤT ĐĂNG HIỆU | bỏ học, không đến trường | - | - | 不登校[ふとうこう]の子供[こども]を支援[しえん]する学校[がっこう]がある。 | Có trường hỗ trợ trẻ không đến trường.
+体罰[たいばつ] | n | THỂ PHẠT | đánh phạt học sinh | - | - | 体罰[たいばつ]は法律[ほうりつ]で禁止[きんし]されている。 | Đánh phạt học sinh bị luật cấm.
+学級[がっきゅう]崩壊[ほうかい] | n | HỌC CẤP BĂNG HOẠI | lớp học mất kiểm soát | - | - | 学級[がっきゅう]崩壊[ほうかい]で授業[じゅぎょう]ができない。 | Lớp học mất kiểm soát nên không dạy được.
+教育[きょういく]委員会[いいんかい] | n | GIÁO DỤC ỦY VIÊN HỘI | sở giáo dục | - | - | 教育[きょういく]委員会[いいんかい]がいじめの調査[ちょうさ]を始[はじ]めた。 | Sở giáo dục bắt đầu điều tra vụ bắt nạt.
+文部[もんぶ]科学省[かがくしょう] | n | VĂN BỘ KHOA HỌC TỈNH | Bộ Giáo dục và Khoa học (Nhật) | - | - | 文部[もんぶ]科学省[かがくしょう]が新[あたら]しい学習[がくしゅう]指導[しどう]要領[ようりょう]を発表[はっぴょう]した。 | Bộ Giáo dục công bố hướng dẫn chương trình học mới.
+教職[きょうしょく] | n | GIÁO CHỨC | nghề dạy học | {教職} 課程[かてい] | chương trình sư phạm | 大学[だいがく]で教職[きょうしょく]課程[かてい]を取[と]った。 | Tôi theo chương trình sư phạm ở đại học.
+教諭[きょうゆ] | n | GIÁO DỤ | giáo viên (chính thức) | - | - | 高校[こうこう]の数学[すうがく]の教諭[きょうゆ]をしている。 | Tôi là giáo viên toán trường trung học.
+准教授[じゅんきょうじゅ] | n | CHUẨN GIÁO THỤ | phó giáo sư | - | - | 三十五[さんじゅうご]歳[さい]で准教授[じゅんきょうじゅ]になった。 | Ông ấy trở thành phó giáo sư năm ba mươi lăm tuổi.
+指導[しどう]教官[きょうかん] | n | CHỈ ĐẠO GIÁO QUAN | giáo viên hướng dẫn | - | - | 指導[しどう]教官[きょうかん]に論文[ろんぶん]を見[み]てもらった。 | Tôi nhờ giáo viên hướng dẫn xem luận văn.
+教材[きょうざい] | n | GIÁO TÀI | tài liệu giảng dạy | 教材[きょうざい] を 作[つく]る | soạn tài liệu | 先生[せんせい]は自分[じぶん]で教材[きょうざい]を作[つく]っている。 | Thầy tự soạn tài liệu giảng dạy.
+添削[てんさく] | n,v3 | THIÊM TƯỚC | chữa bài | 作文[さくぶん] を {添削} する | chữa bài văn | 先生[せんせい]に作文[さくぶん]を添削[てんさく]してもらった。 | Tôi nhờ thầy chữa bài văn.
+助言[じょげん] | n,v3 | TRỢ NGÔN | lời khuyên | 助言[じょげん] を 求[もと]める | xin lời khuyên | 進路[しんろ]について先輩[せんぱい]に助言[じょげん]を求[もと]めた。 | Tôi xin lời khuyên của đàn anh về hướng đi tương lai.
+詰[つ]め込[こ]み | n | CẬT NHẬP | nhồi nhét | {詰[つ]め込[こ]み} 教育[きょういく] | giáo dục nhồi nhét | 詰[つ]め込[こ]み教育[きょういく]には批判[ひはん]も多[おお]い。 | Kiểu giáo dục nhồi nhét có nhiều ý kiến phê phán.
+習得[しゅうとく] | n,v3 | TẬP ĐẮC | lĩnh hội, thành thạo | 技術[ぎじゅつ] を {習得} する | nắm vững kỹ thuật | 三[さん]年間[ねんかん]で溶接[ようせつ]の技術[ぎじゅつ]を習得[しゅうとく]した。 | Trong ba năm tôi đã nắm vững kỹ thuật hàn.
+修得[しゅうとく] | n,v3 | TU ĐẮC | lấy được (tín chỉ), học được | 単位[たんい] を {修得} する | lấy được tín chỉ | 卒業[そつぎょう]に必要[ひつよう]な単位[たんい]を修得[しゅうとく]した。 | Đã lấy đủ tín chỉ cần thiết để tốt nghiệp.
+学歴[がくれき]社会[しゃかい] | n | HỌC LỊCH XÃ HỘI | xã hội trọng bằng cấp | - | - | 学歴[がくれき]社会[しゃかい]は少[すこ]しずつ変[か]わってきた。 | Xã hội trọng bằng cấp đang dần thay đổi.
+学閥[がくばつ] | n | HỌC PHIỆT | phe phái theo trường | - | - | あの会社[かいしゃ]には学閥[がくばつ]がある。 | Công ty đó có bè phái theo trường xuất thân.
+エリート | n | - | người ưu tú | {エリート} コース | con đường thăng tiến của người ưu tú | 彼[かれ]は一流[いちりゅう]大学[だいがく]を出[で]たエリートだ。 | Anh ấy là người ưu tú tốt nghiệp trường hàng đầu.
+秀才[しゅうさい] | n | TÚ TÀI | người học giỏi | - | - | 兄[あに]は学校[がっこう]一[いち]の秀才[しゅうさい]と言[い]われていた。 | Anh tôi từng được gọi là học sinh giỏi nhất trường.
+優等生[ゆうとうせい] | n | ƯU ĐẲNG SINH | học sinh giỏi | - | - | 彼女[かのじょ]は真面目[まじめ]な優等生[ゆうとうせい]だった。 | Cô ấy từng là một học sinh giỏi nghiêm túc.
+劣等生[れっとうせい] | n | LIỆT ĐẲNG SINH | học sinh kém | - | - | 子供[こども]のころは劣等生[れっとうせい]だった。 | Hồi nhỏ tôi là học sinh kém.
+落[お]ちこぼれ | n | LẠC | người bị tụt lại | - | - | 落[お]ちこぼれを出[だ]さない授業[じゅぎょう]を目指[めざ]す。 | Hướng tới giờ học không để ai bị tụt lại.
+学者[がくしゃ] | n | HỌC GIẢ | học giả | - | - | 有名[ゆうめい]な学者[がくしゃ]の本[ほん]を読[よ]んだ。 | Tôi đã đọc sách của một học giả nổi tiếng.
+学会[がっかい] | n | HỌC HỘI | hội nghị khoa học, hiệp hội học thuật | 学会[がっかい] で 発表[はっぴょう] する | báo cáo tại hội nghị khoa học | 研究[けんきゅう]の成果[せいか]を学会[がっかい]で発表[はっぴょう]した。 | Đã báo cáo kết quả nghiên cứu tại hội nghị khoa học.
+学術[がくじゅつ] | n | HỌC THUẬT | học thuật | {学術} 論文[ろんぶん] | bài báo khoa học | 学術[がくじゅつ]論文[ろんぶん]を英語[えいご]で書[か]いた。 | Tôi viết bài báo khoa học bằng tiếng Anh.
+学界[がっかい] | n | HỌC GIỚI | giới học thuật | - | - | その発見[はっけん]は学界[がっかい]に大[おお]きな影響[えいきょう]を与[あた]えた。 | Phát hiện đó tạo ảnh hưởng lớn tới giới học thuật.
+学説[がくせつ] | n | HỌC THUYẾT | học thuyết | - | - | 新[あたら]しい学説[がくせつ]が発表[はっぴょう]された。 | Một học thuyết mới đã được công bố.
+理論[りろん] | n | LÝ LUẬN | lý thuyết | - | - | 理論[りろん]と実践[じっせん]は違[ちが]う。 | Lý thuyết và thực tiễn khác nhau.
+理論的[りろんてき] | adj-na | LÝ LUẬN ĐÍCH | mang tính lý thuyết, có lý lẽ | - | - | 彼[かれ]の説明[せつめい]は理論的[りろんてき]でわかりやすい。 | Lời giải thích của anh ấy có lý lẽ và dễ hiểu.
+体系的[たいけいてき] | adj-na | THỂ HỆ ĐÍCH | có hệ thống | {体系的} に 学[まな]ぶ | học một cách hệ thống | 文法[ぶんぽう]を体系的[たいけいてき]に学[まな]ぶ。 | Học ngữ pháp một cách hệ thống.
+学位[がくい] | n | HỌC VỊ | học vị | 学位[がくい] を 取得[しゅとく] する | lấy học vị | 日本[にほん]の大学[だいがく]で学位[がくい]を取得[しゅとく]した。 | Tôi đã lấy học vị ở một trường đại học Nhật.
+学士[がくし] | n | HỌC SĨ | cử nhân | - | - | 学士[がくし]号[ごう]を取[と]るには四[よ]年[ねん]かかる。 | Lấy bằng cử nhân mất bốn năm.
+修士[しゅうし] | n | TU SĨ | thạc sĩ | {修士} 課程[かてい] | chương trình thạc sĩ | 修士[しゅうし]課程[かてい]で環境[かんきょう]工学[こうがく]を研究[けんきゅう]している。 | Đang nghiên cứu kỹ thuật môi trường ở chương trình thạc sĩ.
+博士[はかせ] | n | BÁC SĨ | tiến sĩ | {博士} 号[ごう] | học vị tiến sĩ | 三十[さんじゅっ]歳[さい]で博士[はかせ]号[ごう]を取[と]った。 | Ông ấy lấy học vị tiến sĩ năm ba mươi tuổi.
+院生[いんせい] | n | VIỆN SINH | học viên cao học | - | - | 研究室[けんきゅうしつ]には院生[いんせい]が十[じゅう]人[にん]いる。 | Phòng nghiên cứu có mười học viên cao học.
+研究者[けんきゅうしゃ] | n | NGHIÊN CỨU GIẢ | nhà nghiên cứu | - | - | 世界[せかい]中[じゅう]の研究者[けんきゅうしゃ]が集[あつ]まった。 | Các nhà nghiên cứu khắp thế giới đã tụ họp.
+研究所[けんきゅうじょ] | n | NGHIÊN CỨU SỞ | viện nghiên cứu | - | - | 大学[だいがく]を出[で]て研究所[けんきゅうじょ]に入[はい]った。 | Ra trường tôi vào làm ở viện nghiên cứu.
+研究費[けんきゅうひ] | n | NGHIÊN CỨU PHÍ | kinh phí nghiên cứu | - | - | 研究費[けんきゅうひ]が足[た]りなくて実験[じっけん]ができない。 | Thiếu kinh phí nghiên cứu nên không làm được thí nghiệm.
+研究[けんきゅう]開発[かいはつ] | n | NGHIÊN CỨU KHAI PHÁT | nghiên cứu phát triển | - | - | 研究[けんきゅう]開発[かいはつ]に多[おお]くの予算[よさん]を使[つか]っている。 | Dùng nhiều ngân sách cho nghiên cứu phát triển.
+基礎[きそ]研究[けんきゅう] | n | CƠ SỞ NGHIÊN CỨU | nghiên cứu cơ bản | - | - | 基礎[きそ]研究[けんきゅう]がなければ新[あたら]しい技術[ぎじゅつ]は生[う]まれない。 | Không có nghiên cứu cơ bản thì không có công nghệ mới.
+先行[せんこう]研究[けんきゅう] | n | TIÊN HÀNH NGHIÊN CỨU | các nghiên cứu trước | - | - | 論文[ろんぶん]を書[か]く前[まえ]に先行[せんこう]研究[けんきゅう]を調[しら]べる。 | Trước khi viết luận văn phải tìm hiểu các nghiên cứu trước.
+卒業[そつぎょう]論文[ろんぶん] | n | TỐT NGHIỆP LUẬN VĂN | khóa luận tốt nghiệp | - | - | 卒業[そつぎょう]論文[ろんぶん]のテーマが決[き]まった。 | Đề tài khóa luận tốt nghiệp đã được quyết.
+卒論[そつろん] | n | TỐT LUẬN | khóa luận (cách nói tắt) | - | - | 卒論[そつろん]の締[し]め切[き]りが近[ちか]い。 | Hạn nộp khóa luận sắp đến.
+執筆[しっぴつ] | n,v3 | CHẤP BÚT | viết (sách, bài) | 論文[ろんぶん] を {執筆} する | viết luận văn | 先生[せんせい]は今[いま]、新[あたら]しい本[ほん]を執筆[しっぴつ]している。 | Thầy hiện đang viết một cuốn sách mới.
+文献[ぶんけん] | n | VĂN HIẾN | tài liệu, văn liệu | {文献} を 調[しら]べる | tra cứu tài liệu | 図書館[としょかん]で古[ふる]い文献[ぶんけん]を調[しら]べた。 | Tôi tra cứu các tài liệu cũ ở thư viện.
+参考[さんこう]文献[ぶんけん] | n | THAM KHẢO VĂN HIẾN | tài liệu tham khảo | - | - | レポートの最後[さいご]に参考[さんこう]文献[ぶんけん]を書[か]く。 | Ghi tài liệu tham khảo ở cuối bài báo cáo.
+観察[かんさつ] | n,v3 | QUAN SÁT | quan sát | 観察[かんさつ] を 続[つづ]ける | tiếp tục quan sát | アサガオの成長[せいちょう]を毎日[まいにち]観察[かんさつ]した。 | Ngày nào tôi cũng quan sát sự phát triển của hoa bìm bìm.
+分析[ぶんせき] | n,v3 | PHÂN TÍCH | phân tích | データ を {分析} する | phân tích dữ liệu | アンケートのデータを分析[ぶんせき]した。 | Đã phân tích dữ liệu khảo sát.
+考察[こうさつ] | n,v3 | KHẢO SÁT | khảo sát, suy xét | - | - | 実験[じっけん]の結果[けっか]について考察[こうさつ]する。 | Suy xét về kết quả thí nghiệm.
+仮説[かせつ] | n | GIẢ THUYẾT | giả thuyết | 仮説[かせつ] を 立[た]てる | đặt giả thuyết | まず仮説[かせつ]を立[た]ててから実験[じっけん]する。 | Trước hết đặt giả thuyết rồi mới làm thí nghiệm.
+検証[けんしょう] | n,v3 | KIỂM CHỨNG | kiểm chứng | 仮説[かせつ] を {検証} する | kiểm chứng giả thuyết | 実験[じっけん]で仮説[かせつ]を検証[けんしょう]した。 | Kiểm chứng giả thuyết bằng thí nghiệm.
+実証[じっしょう] | n,v3 | THỰC CHỨNG | chứng minh bằng thực tế | - | - | 新[あたら]しい方法[ほうほう]の効果[こうか]が実証[じっしょう]された。 | Hiệu quả của phương pháp mới đã được chứng minh.
+立証[りっしょう] | n,v3 | LẬP CHỨNG | chứng minh (bằng chứng cứ) | - | - | 無実[むじつ]を立証[りっしょう]するのは難[むずか]しい。 | Chứng minh mình vô tội là điều khó.
+証明[しょうめい] | n,v3 | CHỨNG MINH | chứng minh | - | - | 数学[すうがく]の定理[ていり]を証明[しょうめい]した。 | Đã chứng minh một định lý toán học.
+結論[けつろん] | n | KẾT LUẬN | kết luận | 結論[けつろん] を 出[だ]す | đưa ra kết luận | 長[なが]い話[はな]し合[あ]いの後[あと]、結論[けつろん]を出[だ]した。 | Sau cuộc thảo luận dài đã đưa ra kết luận.
+方法論[ほうほうろん] | n | PHƯƠNG PHÁP LUẬN | phương pháp luận | - | - | 研究[けんきゅう]の方法論[ほうほうろん]を見直[みなお]した。 | Đã xem xét lại phương pháp luận nghiên cứu.
+手法[しゅほう] | n | THỦ PHÁP | phương pháp, kỹ thuật | 新[あたら]しい {手法} | phương pháp mới | 新[あたら]しい手法[しゅほう]を取[と]り入[い]れた。 | Đã áp dụng phương pháp mới.
+被験者[ひけんしゃ] | n | BỊ NGHIỆM GIẢ | người tham gia thử nghiệm | - | - | 実験[じっけん]には百[ひゃく]人[にん]の被験者[ひけんしゃ]が参加[さんか]した。 | Một trăm người đã tham gia thử nghiệm.
+標本[ひょうほん] | n | TIÊU BẢN | mẫu vật, tiêu bản | - | - | 博物館[はくぶつかん]で昆虫[こんちゅう]の標本[ひょうほん]を見[み]た。 | Tôi xem tiêu bản côn trùng ở bảo tàng.
+試料[しりょう] | n | THÍ LIỆU | mẫu thí nghiệm | - | - | 試料[しりょう]を冷蔵庫[れいぞうこ]で保存[ほぞん]する。 | Bảo quản mẫu thí nghiệm trong tủ lạnh.
+数値[すうち] | n | SỐ TRỊ | trị số, chỉ số | 数値[すうち] が 上[あ]がる | chỉ số tăng | 血液[けつえき]検査[けんさ]の数値[すうち]が良[よ]くなった。 | Chỉ số xét nghiệm máu đã tốt lên.
+平均値[へいきんち] | n | BÌNH QUÂN TRỊ | giá trị trung bình | - | - | データの平均値[へいきんち]を計算[けいさん]した。 | Đã tính giá trị trung bình của dữ liệu.
+相関[そうかん] | n | TƯƠNG QUAN | tương quan | {相関} 関係[かんけい] | mối tương quan | 睡眠[すいみん]と成績[せいせき]には相関[そうかん]関係[かんけい]がある。 | Giấc ngủ và thành tích học tập có mối tương quan.
+検討[けんとう] | n,v3 | KIỂM THẢO | xem xét, cân nhắc | 前向[まえむ]き に {検討} する | xem xét theo hướng tích cực | ご提案[ていあん]は前向[まえむ]きに検討[けんとう]します。 | Chúng tôi sẽ xem xét đề xuất theo hướng tích cực.
+議論[ぎろん] | n,v3 | NGHỊ LUẬN | tranh luận, thảo luận | 議論[ぎろん] を 重[かさ]ねる | thảo luận nhiều lần | 議論[ぎろん]を重[かさ]ねて結論[けつろん]を出[だ]した。 | Thảo luận nhiều lần rồi mới đưa ra kết luận.
+論[ろん]じる | v2 | LUẬN | bàn luận | - | - | この本[ほん]は日本[にほん]の教育[きょういく]問題[もんだい]を論[ろん]じている。 | Cuốn sách này bàn luận về vấn đề giáo dục Nhật Bản.
+批判[ひはん] | n,v3 | PHÊ PHÁN | phê phán, chỉ trích | 批判[ひはん] を 浴[あ]びる | hứng chịu chỉ trích | 発言[はつげん]が批判[ひはん]を浴[あ]びた。 | Phát ngôn đã hứng chịu chỉ trích.
+評論[ひょうろん] | n,v3 | BÌNH LUẬN | bình luận, phê bình | {評論} 家[か] | nhà phê bình | 有名[ゆうめい]な評論[ひょうろん]家[か]が映画[えいが]を褒[ほ]めた。 | Một nhà phê bình nổi tiếng đã khen bộ phim.
+権威[けんい] | n | QUYỀN UY | uy tín, chuyên gia đầu ngành | - | - | 彼[かれ]は心臓[しんぞう]外科[げか]の権威[けんい]だ。 | Ông ấy là chuyên gia đầu ngành phẫu thuật tim.
+第一人者[だいいちにんしゃ] | n | ĐỆ NHẤT NHÂN GIẢ | người đứng đầu lĩnh vực | - | - | 彼女[かのじょ]はロボット研究[けんきゅう]の第一人者[だいいちにんしゃ]だ。 | Bà ấy là người đứng đầu ngành nghiên cứu robot.
+先駆者[せんくしゃ] | n | TIÊN KHU GIẢ | người tiên phong | - | - | 彼[かれ]はこの分野[ぶんや]の先駆者[せんくしゃ]だった。 | Ông ấy là người tiên phong trong lĩnh vực này.
+独創的[どくそうてき] | adj-na | ĐỘC SÁNG ĐÍCH | độc đáo, sáng tạo | {独創的} な アイデア | ý tưởng độc đáo | 独創的[どくそうてき]なアイデアが評価[ひょうか]された。 | Ý tưởng độc đáo đã được đánh giá cao.
+創造[そうぞう] | n,v3 | SÁNG TẠO | sáng tạo | {創造} 力[りょく] | khả năng sáng tạo | 子供[こども]の創造[そうぞう]力[りょく]を育[そだ]てたい。 | Muốn nuôi dưỡng khả năng sáng tạo của trẻ.
+発想[はっそう] | n,v3 | PHÁT TƯỞNG | ý tưởng, cách nghĩ | {発想} の 転換[てんかん] | thay đổi cách nghĩ | 発想[はっそう]の転換[てんかん]で問題[もんだい]が解決[かいけつ]した。 | Thay đổi cách nghĩ nên vấn đề được giải quyết.
+着想[ちゃくそう] | n,v3 | TRƯỚC TƯỞNG | ý tưởng nảy ra | - | - | 散歩[さんぽ]中[ちゅう]に新[あたら]しい着想[ちゃくそう]を得[え]た。 | Trong lúc đi dạo tôi nảy ra ý tưởng mới.
+ひらめき | n | - | tia sáng ý tưởng | - | - | 突然[とつぜん]のひらめきで問題[もんだい]が解[と]けた。 | Một tia ý tưởng bất chợt giúp giải được bài.
+解明[かいめい] | n,v3 | GIẢI MINH | làm sáng tỏ | 原因[げんいん] を {解明} する | làm rõ nguyên nhân | 事故[じこ]の原因[げんいん]を解明[かいめい]する。 | Làm rõ nguyên nhân vụ tai nạn.
+究明[きゅうめい] | n,v3 | CỨU MINH | điều tra làm rõ | 真相[しんそう] {究明} | làm rõ sự thật | 事件[じけん]の真相[しんそう]究明[きゅうめい]が求[もと]められている。 | Người ta đòi hỏi làm rõ sự thật vụ việc.
+探究[たんきゅう] | n,v3 | THÁM CỨU | tìm tòi nghiên cứu | {探究} 心[しん] | tinh thần tìm tòi | 子供[こども]は探究[たんきゅう]心[しん]が強[つよ]い。 | Trẻ con có tinh thần tìm tòi mạnh mẽ.
+探求[たんきゅう] | n,v3 | THÁM CẦU | tìm kiếm, theo đuổi | - | - | 真理[しんり]の探求[たんきゅう]は終[お]わらない。 | Việc tìm kiếm chân lý không có hồi kết.
+追求[ついきゅう] | n,v3 | TRUY CẦU | theo đuổi | 利益[りえき] を {追求} する | theo đuổi lợi nhuận | 企業[きぎょう]は利益[りえき]だけを追求[ついきゅう]してはいけない。 | Doanh nghiệp không được chỉ theo đuổi lợi nhuận.
+知恵[ちえ] | n | TRI HUỆ | trí tuệ, sự khôn ngoan | 知恵[ちえ] を 出[だ]す | nghĩ cách | みんなで知恵[ちえ]を出[だ]して問題[もんだい]を解決[かいけつ]した。 | Mọi người cùng nghĩ cách giải quyết vấn đề.
+知的[ちてき] | adj-na | TRI ĐÍCH | trí tuệ, tri thức | {知的} な 人[ひと] | người trí thức | 彼女[かのじょ]は知的[ちてき]な雰囲気[ふんいき]がある。 | Cô ấy toát lên vẻ trí thức.
+教養[きょうよう] | n | GIÁO DƯỠNG | học vấn, sự hiểu biết | 教養[きょうよう] を 身[み]につける | trau dồi hiểu biết | 本[ほん]を読[よ]んで教養[きょうよう]を身[み]につける。 | Đọc sách để trau dồi hiểu biết.
+素養[そよう] | n | TỐ DƯỠNG | nền tảng, vốn hiểu biết | - | - | 彼[かれ]には音楽[おんがく]の素養[そよう]がある。 | Anh ấy có nền tảng âm nhạc.
+見識[けんしき] | n | KIẾN THỨC | tầm hiểu biết, nhận thức | - | - | 社長[しゃちょう]は広[ひろ]い見識[けんしき]を持[も]っている。 | Giám đốc có tầm hiểu biết rộng.
+素質[そしつ] | n | TỐ CHẤT | tố chất | 素質[そしつ] が ある | có tố chất | 彼[かれ]には指導者[しどうしゃ]の素質[そしつ]がある。 | Anh ấy có tố chất lãnh đạo.
+資質[ししつ] | n | TƯ CHẤT | tư chất | - | - | 教師[きょうし]としての資質[ししつ]が問[と]われる。 | Tư chất của một nhà giáo bị đặt dấu hỏi.
+潜在[せんざい]能力[のうりょく] | n | TIỀM TẠI NĂNG LỰC | năng lực tiềm ẩn | - | - | 誰[だれ]にでも潜在[せんざい]能力[のうりょく]がある。 | Ai cũng có năng lực tiềm ẩn.

@@ -1,0 +1,129 @@
+@topic t08
+@ja 交通[こうつう]・移動[いどう]
+@vi Giao thông và di chuyển
+@desc Tàu xe và vé, luật giao thông, lái xe và sự cố, sân bay và các phương tiện đi lại.
+移動[いどう] | n,v3 | DI ĐỘNG | di chuyển | {移動[いどう]} 手段[しゅだん] | phương tiện di chuyển | 東京[とうきょう]では電車[でんしゃ]が主[おも]な移動[いどう]手段[しゅだん]です。 | Ở Tokyo tàu điện là phương tiện di chuyển chính.
+手段[しゅだん] | n | THỦ ĐOẠN | phương tiện, cách thức | - | - | 目的[もくてき]のために手段[しゅだん]を選[えら]ばない。 | Bất chấp thủ đoạn vì mục đích.
+交通機関[こうつうきかん] | n | GIAO THÔNG CƠ QUAN | phương tiện giao thông | 公共[こうきょう] {交通機関[こうつうきかん]} | phương tiện công cộng | 公共[こうきょう]交通機関[こうつうきかん]をご利用[りよう]ください。 | Xin hãy sử dụng phương tiện công cộng.
+乗車[じょうしゃ] | n,v3 | THỪA XA | lên xe | 乗車[じょうしゃ] 券[けん] | vé tàu xe | 乗車[じょうしゃ]券[けん]を拝見[はいけん]します。 | Xin cho xem vé.
+下車[げしゃ] | n,v3 | HẠ XA | xuống xe | 途中[とちゅう] {下車[げしゃ]} | xuống giữa chặng | この切符[きっぷ]は途中[とちゅう]下車[げしゃ]できません。 | Vé này không xuống giữa chặng được.
+途中[とちゅう] | n | ĐỒ TRUNG | giữa chừng, dọc đường | - | - | 駅[えき]へ行[い]く途中[とちゅう]で雨[あめ]が降[ふ]り出[だ]しました。 | Đang trên đường ra ga thì trời đổ mưa.
+乗客[じょうきゃく] | n | THỪA KHÁCH | hành khách | - | - | 事故[じこ]で乗客[じょうきゃく]が怪我[けが]をしました。 | Hành khách bị thương vì tai nạn.
+車掌[しゃしょう] | n | XA CHƯỞNG | nhân viên soát vé trên tàu | - | - | 車掌[しゃしょう]に切符[きっぷ]を見[み]せました。 | Tôi cho nhân viên soát vé xem vé.
+定期券[ていきけん] | n | ĐỊNH KỲ KHOÁN | vé tháng | - | - | 通勤[つうきん]に定期券[ていきけん]を使[つか]っています。 | Tôi dùng vé tháng để đi làm.
+回数券[かいすうけん] | n | HỒI SỐ KHOÁN | vé nhiều lượt | - | - | バスの回数券[かいすうけん]を買[か]いました。 | Tôi mua vé xe buýt nhiều lượt.
+精算[せいさん] | n,v3 | TINH TOÁN | thanh toán bù | - | - | 乗[の]り越[こ]したので精算[せいさん]機[き]で払[はら]いました。 | Đi quá ga nên tôi trả bù ở máy thanh toán.
+料金所[りょうきんじょ] | n | LIỆU KIM SỞ | trạm thu phí | - | - | 高速道路[こうそくどうろ]の料金所[りょうきんじょ]で止[と]まります。 | Dừng ở trạm thu phí đường cao tốc.
+有料[ゆうりょう]道路[どうろ] | n | HỮU LIỆU ĐẠO LỘ | đường thu phí | - | - | 有料[ゆうりょう]道路[どうろ]を使[つか]うと早[はや]く着[つ]きます。 | Đi đường thu phí thì đến sớm.
+車線[しゃせん] | n | XA TUYẾN | làn xe | 車線[しゃせん] を 変更[へんこう]する | chuyển làn | 急[きゅう]に車線[しゃせん]を変更[へんこう]するのは危[あぶ]ないです。 | Đột ngột chuyển làn là nguy hiểm.
+追[お]い越[こ]す | v1 | TRUY VIỆT | vượt (xe) | - | - | 前[まえ]のトラックを追[お]い越[こ]しました。 | Tôi vượt chiếc xe tải phía trước.
+追[お]い抜[ぬ]く | v1 | TRUY BẠT | vượt qua | - | - | マラソンで三人[さんにん]を追[お]い抜[ぬ]きました。 | Trong cuộc chạy marathon tôi vượt ba người.
+割[わ]り込[こ]む | v1 | CÁT NHẬP | chen ngang | - | - | 列[れつ]に割[わ]り込[こ]まないでください。 | Xin đừng chen hàng.
+列[れつ] | n | LIỆT | hàng (người) | 列[れつ] に 並[なら]ぶ | xếp hàng | 駅[えき]で列[れつ]に並[なら]んでバスを待[ま]ちました。 | Tôi xếp hàng chờ xe buýt ở ga.
+合流[ごうりゅう] | n,v3 | HỢP LƯU | nhập làn, gặp nhau | - | - | 後[あと]で駅[えき]で合流[ごうりゅう]しましょう。 | Lát nữa gặp nhau ở ga nhé.
+右折[うせつ] | n,v3 | HỮU CHIẾT | rẽ phải | - | - | 次[つぎ]の信号[しんごう]を右折[うせつ]してください。 | Hãy rẽ phải ở đèn tiếp theo.
+左折[させつ] | n,v3 | TẢ CHIẾT | rẽ trái | - | - | ここは左折[させつ]禁止[きんし]です。 | Ở đây cấm rẽ trái.
+禁止[きんし] | n,v3 | CẤM CHỈ | cấm | - | - | 館内[かんない]での喫煙[きつえん]は禁止[きんし]されています。 | Cấm hút thuốc trong tòa nhà.
+直進[ちょくしん] | n,v3 | TRỰC TIẾN | đi thẳng | - | - | この道[みち]を直進[ちょくしん]すると駅[えき]です。 | Đi thẳng đường này là đến ga.
+停車[ていしゃ] | n,v3 | ĐÌNH XA | dừng xe | - | - | この電車[でんしゃ]は各駅[かくえき]に停車[ていしゃ]します。 | Tàu này dừng ở mọi ga.
+発車[はっしゃ] | n,v3 | PHÁT XA | xe chạy, khởi hành | - | - | ドアが閉[し]まります。発車[はっしゃ]します。 | Cửa sắp đóng. Tàu khởi hành.
+徐行[じょこう] | n,v3 | TỪ HÀNH | chạy chậm | - | - | 学校[がっこう]の前[まえ]では徐行[じょこう]してください。 | Trước trường học hãy chạy chậm.
+一時停止[いちじていし] | n,v3 | NHẤT THỜI ĐÌNH CHỈ | dừng tạm thời | - | - | 踏切[ふみきり]の前[まえ]では一時停止[いちじていし]します。 | Trước đường ngang phải dừng lại.
+通行止[つうこうど]め | n | THÔNG HÀNH CHỈ | cấm lưu thông | - | - | 雪[ゆき]でこの道[みち]は通行止[つうこうど]めです。 | Do tuyết nên đường này cấm lưu thông.
+通行[つうこう] | n,v3 | THÔNG HÀNH | đi lại, lưu thông | - | - | 右側[みぎがわ]を通行[つうこう]してください。 | Hãy đi bên phải.
+迂回[うかい] | n,v3 | VU HỒI | đi vòng | - | - | 工事[こうじ]のため迂回[うかい]してください。 | Do thi công xin đi đường vòng.
+優先席[ゆうせんせき] | n | ƯU TIÊN TỊCH | ghế ưu tiên | - | - | 優先席[ゆうせんせき]の近[ちか]くでは電話[でんわ]を控[ひか]えてください。 | Gần ghế ưu tiên xin hạn chế gọi điện.
+優先[ゆうせん] | n,v3 | ƯU TIÊN | ưu tiên | - | - | 安全[あんぜん]を最優先[さいゆうせん]にしています。 | Chúng tôi ưu tiên an toàn hàng đầu.
+つり革[かわ] | n | CÁCH | tay nắm trên tàu | つり革[かわ] に つかまる | bám tay nắm | 揺[ゆ]れるのでつり革[かわ]につかまってください。 | Tàu rung, xin hãy bám tay nắm.
+つかまる | v1 | - | bám, bị bắt | - | - | 手[て]すりにつかまって階段[かいだん]を降[お]ります。 | Bám tay vịn để xuống cầu thang.
+車内[しゃない] | n | XA NỘI | trong xe | - | - | 車内[しゃない]では静[しず]かにしてください。 | Trong tàu xin giữ trật tự.
+車両[しゃりょう] | n | XA LƯỠNG | toa xe, xe cộ | - | - | 女性[じょせい]専用[せんよう]車両[しゃりょう]に乗[の]りました。 | Tôi lên toa dành riêng cho nữ.
+専用[せんよう] | n | CHUYÊN DỤNG | dùng riêng | - | - | ここは自転車[じてんしゃ]専用[せんよう]の道[みち]です。 | Đây là đường dành riêng cho xe đạp.
+号車[ごうしゃ] | suf | HIỆU XA | toa số | 五[ご] {号車[ごうしゃ]} | toa số năm | 指定席[していせき]は五[ご]号車[ごうしゃ]です。 | Ghế đặt trước ở toa số năm.
+先頭[せんとう] | n | TIÊN ĐẦU | đầu (hàng, đoàn) | - | - | 電車[でんしゃ]の先頭[せんとう]車両[しゃりょう]に乗[の]ります。 | Tôi lên toa đầu tàu.
+乗[の]り継[つ]ぎ | n,v3 | THỪA KẾ | nối chuyến | - | - | ソウルで乗[の]り継[つ]ぎがあります。 | Có nối chuyến ở Seoul.
+接続[せつぞく] | n,v3 | TIẾP TỤC | kết nối, nối chuyến | - | - | この電車[でんしゃ]は次[つぎ]の駅[えき]で急行[きゅうこう]に接続[せつぞく]します。 | Tàu này nối với tàu nhanh ở ga sau.
+待合室[まちあいしつ] | n | ĐÃI HỢP THẤT | phòng chờ | - | - | 待合室[まちあいしつ]で電車[でんしゃ]を待[ま]ちます。 | Tôi đợi tàu ở phòng chờ.
+本数[ほんすう] | n | BẢN SỐ | số chuyến | - | - | 田舎[いなか]はバスの本数[ほんすう]が少[すく]ないです。 | Ở quê ít chuyến xe buýt.
+欠航[けっこう] | n,v3 | KHUYẾT HÀNG | hủy chuyến (bay, tàu thủy) | - | - | 台風[たいふう]で飛行機[ひこうき]が欠航[けっこう]しました。 | Do bão chuyến bay bị hủy.
+運行[うんこう] | n,v3 | VẬN HÀNH | chạy (theo tuyến) | - | - | 大雪[おおゆき]で電車[でんしゃ]の運行[うんこう]が止[と]まりました。 | Do tuyết lớn tàu ngừng chạy.
+臨時[りんじ] | n | LÂM THỜI | tạm thời, đặc biệt | 臨時[りんじ] 列車[れっしゃ] | tàu tăng cường | お祭[まつ]りの日[ひ]は臨時[りんじ]列車[れっしゃ]が出[で]ます。 | Ngày lễ hội có tàu tăng cường.
+列車[れっしゃ] | n | LIỆT XA | đoàn tàu | - | - | 夜行[やこう]列車[れっしゃ]で北海道[ほっかいどう]へ行[い]きました。 | Tôi đi Hokkaido bằng tàu đêm.
+通過[つうか] | n,v3 | THÔNG QUÁ | đi qua (không dừng) | - | - | 快速[かいそく]はこの駅[えき]を通過[つうか]します。 | Tàu nhanh đi qua ga này không dừng.
+停留所[ていりゅうじょ] | n | ĐÌNH LƯU SỞ | điểm dừng xe | - | - | 次[つぎ]の停留所[ていりゅうじょ]で降[お]ります。 | Tôi xuống ở điểm dừng tiếp theo.
+終点[しゅうてん] | n | CHUNG ĐIỂM | ga cuối | - | - | 寝[ね]てしまって終点[しゅうてん]まで行[い]きました。 | Tôi ngủ quên nên đi đến tận ga cuối.
+行[ゆ]き先[さき] | n | HÀNH TIÊN | nơi đến | - | - | バスの行[ゆ]き先[さき]を確認[かくにん]してから乗[の]ります。 | Xem nơi đến của xe buýt rồi mới lên.
+方面[ほうめん] | n | PHƯƠNG DIỆN | hướng, phía | 新宿[しんじゅく] {方面[ほうめん]} | hướng Shinjuku | 新宿[しんじゅく]方面[ほうめん]の電車[でんしゃ]は二[に]番線[ばんせん]です。 | Tàu hướng Shinjuku ở đường ray số hai.
+上[のぼ]り | n | THƯỢNG | chiều lên (về thủ đô) | - | - | 上[のぼ]りの新幹線[しんかんせん]は混[こ]んでいます。 | Shinkansen chiều về Tokyo đông.
+下[くだ]り | n | HẠ | chiều xuống (rời thủ đô) | - | - | 下[くだ]りの電車[でんしゃ]に乗[の]ってください。 | Hãy đi tàu chiều xuống.
+経路[けいろ] | n | KINH LỘ | lộ trình | - | - | 地図[ちず]アプリで経路[けいろ]を調[しら]べました。 | Tôi tra lộ trình bằng ứng dụng bản đồ.
+ルート | n | - | tuyến đường | - | - | 一番[いちばん]早[はや]いルートを教[おし]えてください。 | Chỉ tôi tuyến đường nhanh nhất.
+自家用車[じかようしゃ] | n | TỰ GIA DỤNG XA | xe riêng | - | - | 自家用車[じかようしゃ]で通勤[つうきん]しています。 | Tôi đi làm bằng xe riêng.
+免許証[めんきょしょう] | n | MIỄN HỨA CHỨNG | giấy phép lái xe | - | - | 免許証[めんきょしょう]を見[み]せてください。 | Cho xem bằng lái.
+違反[いはん] | n,v3 | VI PHẢN | vi phạm | 交通[こうつう] {違反[いはん]} | vi phạm giao thông | 交通[こうつう]違反[いはん]で罰金[ばっきん]を払[はら]いました。 | Tôi nộp phạt vì vi phạm giao thông.
+罰金[ばっきん] | n | PHẠT KIM | tiền phạt | - | - | 駐車[ちゅうしゃ]違反[いはん]の罰金[ばっきん]は高[たか]いです。 | Tiền phạt đỗ xe sai rất cao.
+飲酒運転[いんしゅうんてん] | n | ẨM TỬU VẬN CHUYỂN | lái xe khi say | - | - | 飲酒運転[いんしゅうんてん]は絶対[ぜったい]にやめましょう。 | Tuyệt đối không lái xe khi đã uống rượu.
+衝突[しょうとつ] | n,v3 | XUNG ĐỘT | va chạm | - | - | 車[くるま]とバイクが衝突[しょうとつ]しました。 | Ô tô và xe máy va chạm nhau.
+ぶつける | v2 | - | đâm vào, va vào | - | - | 車[くるま]を壁[かべ]にぶつけてしまいました。 | Tôi lỡ đâm xe vào tường.
+ひく | v1 | - | cán (xe) | - | - | 猫[ねこ]が車[くるま]にひかれそうになりました。 | Con mèo suýt bị xe cán.
+交通事故[こうつうじこ] | n | GIAO THÔNG SỰ CỐ | tai nạn giao thông | 交通事故[こうつうじこ] に 遭[あ]う | gặp tai nạn giao thông | 兄[あに]は去年[きょねん]交通事故[こうつうじこ]に遭[あ]いました。 | Năm ngoái anh tôi gặp tai nạn giao thông.
+遭[あ]う | v1 | TAO | gặp (chuyện xấu) | - | - | 帰[かえ]りに雨[あめ]に遭[あ]いました。 | Trên đường về tôi gặp mưa.
+歩行者[ほこうしゃ] | n | BỘ HÀNH GIẢ | người đi bộ | - | - | 歩行者[ほこうしゃ]優先[ゆうせん]です。 | Ưu tiên người đi bộ.
+運転席[うんてんせき] | n | VẬN CHUYỂN TỊCH | ghế lái | - | - | 父[ちち]が運転席[うんてんせき]に座[すわ]りました。 | Bố ngồi vào ghế lái.
+助手席[じょしゅせき] | n | TRỢ THỦ TỊCH | ghế phụ | - | - | 助手席[じょしゅせき]に乗[の]ってください。 | Mời ngồi ghế phụ.
+後部座席[こうぶざせき] | n | HẬU BỘ TỌA TỊCH | ghế sau | - | - | 子供[こども]は後部座席[こうぶざせき]に座[すわ]らせます。 | Cho trẻ ngồi ghế sau.
+ハンドル | n | - | vô lăng; tay lái | - | - | ハンドルを右[みぎ]に切[き]りました。 | Tôi đánh lái sang phải.
+ブレーキ | n | - | phanh | ブレーキ を かける | phanh lại | 急[きゅう]にブレーキをかけました。 | Tôi phanh gấp.
+アクセル | n | - | chân ga | アクセル を 踏[ふ]む | đạp ga | アクセルを踏[ふ]んでスピードを上[あ]げます。 | Đạp ga để tăng tốc.
+踏[ふ]む | v1 | ĐẠP | giẫm, đạp | - | - | 電車[でんしゃ]で足[あし]を踏[ふ]まれました。 | Trên tàu tôi bị giẫm chân.
+エンジン | n | - | động cơ | エンジン を かける | nổ máy | 車[くるま]のエンジンをかけました。 | Tôi nổ máy xe.
+タイヤ | n | - | lốp xe | - | - | 冬[ふゆ]はタイヤを交換[こうかん]します。 | Mùa đông thay lốp xe.
+パンク | n,v3 | - | thủng lốp | - | - | 自転車[じてんしゃ]がパンクしました。 | Xe đạp bị thủng lốp.
+給油[きゅうゆ] | n,v3 | CẤP DU | đổ xăng | - | - | ガソリンスタンドで給油[きゅうゆ]しました。 | Tôi đổ xăng ở trạm xăng.
+レンタカー | n | - | xe thuê | - | - | 沖縄[おきなわ]ではレンタカーを借[か]りました。 | Ở Okinawa tôi thuê xe.
+カーナビ | n | - | thiết bị dẫn đường | - | - | カーナビの通[とお]りに運転[うんてん]しました。 | Tôi lái theo thiết bị dẫn đường.
+道[みち]に迷[まよ]う | exp | ĐẠO MÊ | lạc đường | - | - | 初[はじ]めての町[まち]で道[みち]に迷[まよ]いました。 | Tôi bị lạc ở thị trấn lần đầu đến.
+案内板[あんないばん] | n | ÁN NỘI BẢN | bảng chỉ dẫn | - | - | 駅[えき]の案内板[あんないばん]を見[み]てください。 | Hãy xem bảng chỉ dẫn ở ga.
+乗[の]り物酔[ものよ]い | n | THỪA VẬT TÚY | say tàu xe | - | - | 乗[の]り物酔[ものよ]いしやすいので前[まえ]に座[すわ]ります。 | Tôi dễ say xe nên ngồi phía trước.
+酔[よ]い止[ど]め | n | TÚY CHỈ | thuốc chống say | - | - | 船[ふね]に乗[の]る前[まえ]に酔[よ]い止[ど]めを飲[の]みました。 | Trước khi lên thuyền tôi uống thuốc chống say.
+出国[しゅっこく] | n,v3 | XUẤT QUỐC | xuất cảnh | - | - | 出国[しゅっこく]の手続[てつづ]きをしました。 | Tôi làm thủ tục xuất cảnh.
+入国[にゅうこく] | n,v3 | NHẬP QUỐC | nhập cảnh | - | - | 入国[にゅうこく]審査[しんさ]に一時間[いちじかん]かかりました。 | Kiểm tra nhập cảnh mất một tiếng.
+税関[ぜいかん] | n | THUẾ QUAN | hải quan | - | - | 税関[ぜいかん]で荷物[にもつ]を調[しら]べられました。 | Tôi bị hải quan kiểm tra hành lý.
+手荷物[てにもつ] | n | THỦ HÀ VẬT | hành lý xách tay | - | - | 手荷物[てにもつ]は一[ひと]つまでです。 | Hành lý xách tay tối đa một kiện.
+預[あず]け入[い]れ | n | DỰ NHẬP | ký gửi | 預[あず]け入[い]れ 荷物[にもつ] | hành lý ký gửi | 預[あず]け入[い]れ荷物[にもつ]は二十[にじゅう]キロまでです。 | Hành lý ký gửi tối đa 20 kg.
+機内[きない] | n | CƠ NỘI | trong máy bay | {機内[きない]} 食[しょく] | suất ăn trên máy bay | 機内[きない]食[しょく]はおいしかったです。 | Suất ăn trên máy bay rất ngon.
+離陸[りりく] | n,v3 | LY LỤC | cất cánh | - | - | 飛行機[ひこうき]はまもなく離陸[りりく]します。 | Máy bay sắp cất cánh.
+着陸[ちゃくりく] | n,v3 | TRƯỚC LỤC | hạ cánh | - | - | 飛行機[ひこうき]が無事[ぶじ]に着陸[ちゃくりく]しました。 | Máy bay đã hạ cánh an toàn.
+時差[じさ] | n | THỜI SAI | chênh lệch múi giờ | 時差[じさ] ぼけ | lệch múi giờ | 時差[じさ]ぼけで夜[よる]眠[ねむ]れません。 | Vì lệch múi giờ nên đêm không ngủ được.
+フェリー | n | - | phà | - | - | フェリーで島[しま]に渡[わた]りました。 | Chúng tôi đi phà ra đảo.
+航空便[こうくうびん] | n | HÀNG KHÔNG TIỆN | gửi đường hàng không | - | - | 航空便[こうくうびん]で送[おく]ると早[はや]く着[つ]きます。 | Gửi đường hàng không thì đến nhanh.
+船便[ふなびん] | n | THUYỀN TIỆN | gửi đường biển | - | - | 重[おも]い荷物[にもつ]は船便[ふなびん]で送[おく]ります。 | Hàng nặng thì gửi đường biển.
+車[くるま]酔[よ]い | n | XA TÚY | say xe | - | - | 山道[やまみち]で車[くるま]酔[よ]いしました。 | Tôi bị say xe trên đường núi.
+山道[やまみち] | n | SƠN ĐẠO | đường núi | - | - | 山道[やまみち]は曲[ま]がりくねっています。 | Đường núi quanh co.
+送[おく]り迎[むか]え | n,v3 | TỐNG NGHÊNH | đưa đón | - | - | 毎日[まいにち]子供[こども]の送[おく]り迎[むか]えをしています。 | Ngày nào tôi cũng đưa đón con.
+乗[の]せる | v2 | THỪA | cho lên xe, chở | - | - | 駅[えき]まで乗[の]せてもらえますか。 | Có thể chở tôi đến ga không?
+降[お]ろす | v1 | GIÁNG | cho xuống | - | - | 次[つぎ]の角[かど]で降[お]ろしてください。 | Cho tôi xuống ở góc tiếp theo.
+相乗[あいの]り | n,v3 | TƯƠNG THỪA | đi chung xe | - | - | 友達[ともだち]とタクシーに相乗[あいの]りしました。 | Tôi đi chung taxi với bạn.
+足止[あしど]め | n,v3 | TÚC CHỈ | bị kẹt lại | - | - | 雪[ゆき]で空港[くうこう]に足止[あしど]めされました。 | Tôi bị kẹt ở sân bay do tuyết.
+立[た]ち往生[おうじょう] | n,v3 | LẬP VÃNG SINH | mắc kẹt không đi được | - | - | 大雪[おおゆき]で車[くるま]が立[た]ち往生[おうじょう]しました。 | Do tuyết lớn xe bị mắc kẹt.
+見合[みあ]わせる | v2 | KIẾN HỢP | tạm hoãn | 運転[うんてん] を 見合[みあ]わせる | tạm ngừng chạy | 強風[きょうふう]のため運転[うんてん]を見合[みあ]わせています。 | Do gió mạnh nên tạm ngừng chạy tàu.
+再開[さいかい] | n,v3 | TÁI KHAI | hoạt động trở lại | - | - | 電車[でんしゃ]の運転[うんてん]が再開[さいかい]しました。 | Tàu đã chạy trở lại.
+振替[ふりかえ] | n | CHẤN THẾ | thay thế, chuyển | {振替[ふりかえ]} 輸送[ゆそう] | vận chuyển thay thế | 事故[じこ]のため振替[ふりかえ]輸送[ゆそう]を行[おこな]っています。 | Do sự cố đang vận chuyển thay thế.
+輸送[ゆそう] | n,v3 | THÂU TỐNG | vận chuyển | - | - | トラックで荷物[にもつ]を輸送[ゆそう]します。 | Vận chuyển hàng bằng xe tải.
+最終[さいしゅう] | n | TỐI CHUNG | cuối cùng | {最終[さいしゅう]} 便[びん] | chuyến cuối | 最終[さいしゅう]便[びん]に間[ま]に合[あ]いました。 | Tôi đã kịp chuyến cuối.
+発着[はっちゃく] | n,v3 | PHÁT TRƯỚC | đến và đi | - | - | このホームから新幹線[しんかんせん]が発着[はっちゃく]します。 | Shinkansen đến và đi ở sân ga này.
+所要時間[しょようじかん] | n | SỞ YẾU THỜI GIAN | thời gian cần thiết | - | - | 空港[くうこう]までの所要時間[しょようじかん]は一時間[いちじかん]です。 | Mất một tiếng để đến sân bay.
+距離[きょり] | n | CỰ LY | khoảng cách | - | - | 駅[えき]から会社[かいしゃ]までの距離[きょり]は二[に]キロです。 | Khoảng cách từ ga đến công ty là 2 km.
+片側[かたがわ] | n | PHIẾN TẮC | một bên | {片側[かたがわ]} 通行[つうこう] | thông xe một bên | 工事[こうじ]で片側[かたがわ]通行[つうこう]になっています。 | Do thi công chỉ thông xe một bên.
+交差[こうさ] | n,v3 | GIAO SOA | giao nhau | - | - | 二[ふた]つの道[みち]が交差[こうさ]しています。 | Hai con đường giao nhau.
+車道[しゃどう] | n | XA ĐẠO | lòng đường | - | - | 車道[しゃどう]に出[で]ないでください。 | Đừng ra lòng đường.
+飛[と]び出[だ]す | v1 | PHI XUẤT | lao ra | - | - | 子供[こども]が道路[どうろ]に飛[と]び出[だ]しました。 | Đứa trẻ lao ra đường.
+乗車口[じょうしゃぐち] | n | THỪA XA KHẨU | cửa lên xe | - | - | バスの乗車口[じょうしゃぐち]は後[うし]ろです。 | Cửa lên xe buýt ở phía sau.
+降車[こうしゃ] | n,v3 | GIÁNG XA | xuống xe | - | - | 降車[こうしゃ]の際[さい]はボタンを押[お]してください。 | Khi xuống xe hãy bấm nút.
+際[さい] | n | TẾ | khi, lúc | - | - | お降[お]りの際[さい]はお忘[わす]れ物[もの]にご注意[ちゅうい]ください。 | Khi xuống xin chú ý đồ để quên.
+ダイヤ | n | - | lịch chạy tàu | ダイヤ が 乱[みだ]れる | lịch chạy bị đảo lộn | 事故[じこ]でダイヤが乱[みだ]れています。 | Do sự cố lịch chạy tàu bị đảo lộn.
+乱[みだ]れる | v2 | LOẠN | rối loạn | - | - | 風[かぜ]で髪[かみ]が乱[みだ]れました。 | Gió làm tóc rối.
+快速[かいそく] | n | KHOÁI TỐC | tàu nhanh | - | - | 快速[かいそく]に乗[の]れば十[じゅっ]分[ぷん]早[はや]く着[つ]きます。 | Đi tàu nhanh thì đến sớm mười phút.
+路線[ろせん] | n | LỘ TUYẾN | tuyến đường (tàu xe) | {路線[ろせん]} 図[ず] | sơ đồ tuyến | 駅[えき]で路線[ろせん]図[ず]をもらいました。 | Tôi lấy sơ đồ tuyến ở ga.
+往来[おうらい] | n,v3 | VÃNG LAI | qua lại | - | - | この道[みち]は人[ひと]の往来[おうらい]が多[おお]いです。 | Đường này nhiều người qua lại.
+交通量[こうつうりょう] | n | GIAO THÔNG LƯỢNG | lưu lượng xe | 交通量[こうつうりょう] が 多[おお]い | đông xe | この道路[どうろ]は交通量[こうつうりょう]が多[おお]いです。 | Con đường này đông xe.

@@ -1,0 +1,129 @@
+@topic t11
+@ja 仕事[しごと]・職場[しょくば]
+@vi Công việc và nơi làm việc
+@desc Ngành nghề, tuyển dụng, chức vụ, nghiệp vụ hằng ngày, đánh giá, nhân sự và những cách nói thường gặp ở công sở.
+職業[しょくぎょう] | n | CHỨC NGHIỆP | nghề nghiệp | - | - | 職業[しょくぎょう]を書[か]く欄[らん]があります。 | Có ô để ghi nghề nghiệp.
+欄[らん] | n | LAN | cột, ô (trong mẫu) | - | - | 下[した]の欄[らん]に名前[なまえ]を書[か]いてください。 | Hãy ghi tên vào ô bên dưới.
+業務[ぎょうむ] | n | NGHIỆP VỤ | nghiệp vụ, công việc | {業務[ぎょうむ]} 内容[ないよう] | nội dung công việc | 業務[ぎょうむ]内容[ないよう]を説明[せつめい]します。 | Tôi xin giải thích nội dung công việc.
+業界[ぎょうかい] | n | NGHIỆP GIỚI | giới, ngành | - | - | IT業界[ぎょうかい]で働[はたら]きたいです。 | Tôi muốn làm việc trong ngành IT.
+企業[きぎょう] | n | XÍ NGHIỆP | doanh nghiệp | 大[だい] {企業[きぎょう]} | doanh nghiệp lớn | 大企業[だいきぎょう]に就職[しゅうしょく]しました。 | Tôi vào làm ở doanh nghiệp lớn.
+中小企業[ちゅうしょうきぎょう] | n | TRUNG TIỂU XÍ NGHIỆP | doanh nghiệp vừa và nhỏ | - | - | 日本[にほん]の会社[かいしゃ]の多[おお]くは中小企業[ちゅうしょうきぎょう]です。 | Phần lớn công ty Nhật là doanh nghiệp vừa và nhỏ.
+従業員[じゅうぎょういん] | n | TÒNG NGHIỆP VIÊN | nhân viên | - | - | この工場[こうじょう]には従業員[じゅうぎょういん]が二百人[にひゃくにん]います。 | Nhà máy này có hai trăm nhân viên.
+職員[しょくいん] | n | CHỨC VIÊN | nhân viên (cơ quan) | - | - | 市役所[しやくしょ]の職員[しょくいん]に聞[き]きました。 | Tôi hỏi nhân viên tòa thị chính.
+社内[しゃない] | n | XÃ NỘI | trong công ty | - | - | 社内[しゃない]のルールを守[まも]ってください。 | Hãy tuân thủ quy định trong công ty.
+支店[してん] | n | CHI ĐIẾM | chi nhánh | - | - | 来月[らいげつ]から大阪[おおさか]支店[してん]で働[はたら]きます。 | Từ tháng sau tôi làm ở chi nhánh Osaka.
+店長[てんちょう] | n | ĐIẾM TRƯỞNG | cửa hàng trưởng | - | - | アルバイトのことは店長[てんちょう]に相談[そうだん]してください。 | Việc làm thêm hãy hỏi cửa hàng trưởng.
+主任[しゅにん] | n | CHỦ NHIỆM | trưởng nhóm | - | - | 彼[かれ]は今年[ことし]主任[しゅにん]になりました。 | Năm nay anh ấy làm trưởng nhóm.
+係長[かかりちょう] | n | HỆ TRƯỞNG | tổ trưởng | - | - | 係長[かかりちょう]に報告[ほうこく]しました。 | Tôi đã báo cáo tổ trưởng.
+役職[やくしょく] | n | DỊCH CHỨC | chức vụ | - | - | 役職[やくしょく]に就[つ]くと責任[せきにん]が重[おも]くなります。 | Giữ chức vụ thì trách nhiệm nặng hơn.
+就[つ]く | v1 | TỰU | đảm nhận (chức vụ, nghề) | 仕事[しごと] に 就[つ]く | có việc làm | 好[す]きな仕事[しごと]に就[つ]きたいです。 | Tôi muốn làm công việc mình thích.
+管理職[かんりしょく] | n | QUẢN LÝ CHỨC | cấp quản lý | - | - | 管理職[かんりしょく]は残業代[ざんぎょうだい]が出[で]ません。 | Cấp quản lý không được trả tiền tăng ca.
+経営[けいえい] | n,v3 | KINH DOANH | kinh doanh, điều hành | - | - | 父[ちち]はレストランを経営[けいえい]しています。 | Bố tôi kinh doanh nhà hàng.
+経営者[けいえいしゃ] | n | KINH DOANH GIẢ | người điều hành | - | - | 若[わか]い経営者[けいえいしゃ]が増[ふ]えています。 | Người điều hành trẻ đang tăng.
+雇用[こよう] | n,v3 | CỐ DỤNG | tuyển dụng, việc làm | {雇用[こよう]} 契約[けいやく] | hợp đồng lao động | 雇用[こよう]契約[けいやく]書[しょ]にサインしました。 | Tôi đã ký hợp đồng lao động.
+派遣[はけん] | n,v3 | PHÁI KHIỂN | phái cử | {派遣[はけん]} 社員[しゃいん] | nhân viên phái cử | 派遣[はけん]社員[しゃいん]として働[はたら]いています。 | Tôi làm nhân viên phái cử.
+契約社員[けいやくしゃいん] | n | KHẾ ƯỚC XÃ VIÊN | nhân viên hợp đồng | - | - | 一年[いちねん]契約[けいやく]の契約社員[けいやくしゃいん]です。 | Tôi là nhân viên hợp đồng một năm.
+求人[きゅうじん] | n | CẦU NHÂN | tuyển người | {求人[きゅうじん]} 広告[こうこく] | quảng cáo tuyển dụng | 求人[きゅうじん]広告[こうこく]を見[み]て応募[おうぼ]しました。 | Xem quảng cáo tuyển dụng tôi đã ứng tuyển.
+就職活動[しゅうしょくかつどう] | n | TỰU CHỨC HOẠT ĐỘNG | hoạt động tìm việc | - | - | 大学[だいがく]三年生[さんねんせい]から就職活動[しゅうしょくかつどう]を始[はじ]めます。 | Từ năm ba đại học bắt đầu tìm việc.
+内定[ないてい] | n,v3 | NỘI ĐỊNH | được nhận (trước khi vào làm) | 内定[ないてい] を もらう | nhận thư mời làm việc | 第一[だいいち]志望[しぼう]の会社[かいしゃ]から内定[ないてい]をもらいました。 | Tôi nhận được thư mời của công ty nguyện vọng một.
+入社[にゅうしゃ] | n,v3 | NHẬP XÃ | vào công ty | - | - | 四月[しがつ]に入社[にゅうしゃ]しました。 | Tôi vào công ty tháng tư.
+退社[たいしゃ] | n,v3 | THOÁI XÃ | rời công ty; tan làm | - | - | 毎日[まいにち]六[ろく]時[じ]に退社[たいしゃ]します。 | Ngày nào tôi cũng tan làm lúc sáu giờ.
+昇進[しょうしん] | n,v3 | THĂNG TIẾN | thăng chức | - | - | 課長[かちょう]に昇進[しょうしん]しました。 | Tôi được thăng lên trưởng phòng.
+出世[しゅっせ] | n,v3 | XUẤT THẾ | thăng tiến, thành đạt | - | - | 彼[かれ]は若[わか]くして出世[しゅっせ]しました。 | Anh ấy thăng tiến khi còn trẻ.
+昇給[しょうきゅう] | n,v3 | THĂNG CẤP | tăng lương | - | - | 四月[しがつ]に昇給[しょうきゅう]があります。 | Tháng tư có tăng lương.
+解雇[かいこ] | n,v3 | GIẢI CỐ | sa thải | - | - | 会社[かいしゃ]の経営[けいえい]が悪[わる]くて解雇[かいこ]されました。 | Công ty làm ăn kém nên tôi bị sa thải.
+首[くび]になる | exp | THỦ | bị đuổi việc | - | - | 遅刻[ちこく]ばかりしていると首[くび]になりますよ。 | Cứ đi muộn hoài là bị đuổi việc đấy.
+定年[ていねん] | n | ĐỊNH NIÊN | tuổi nghỉ hưu | 定年[ていねん] 退職[たいしょく] | nghỉ hưu đúng tuổi | 父[ちち]は来年[らいねん]定年[ていねん]退職[たいしょく]します。 | Năm sau bố tôi nghỉ hưu.
+退職金[たいしょくきん] | n | THOÁI CHỨC KIM | tiền thôi việc | - | - | 退職金[たいしょくきん]で家[いえ]を直[なお]しました。 | Tôi sửa nhà bằng tiền thôi việc.
+残業代[ざんぎょうだい] | n | TÀN NGHIỆP ĐẠI | tiền tăng ca | - | - | 残業代[ざんぎょうだい]がちゃんと出[で]ます。 | Tiền tăng ca được trả đầy đủ.
+労働時間[ろうどうじかん] | n | LAO ĐỘNG THỜI GIAN | thời gian lao động | - | - | 労働時間[ろうどうじかん]は一日[いちにち]八時間[はちじかん]です。 | Thời gian lao động là tám tiếng mỗi ngày.
+休日出勤[きゅうじつしゅっきん] | n,v3 | HƯU NHẬT XUẤT CẦN | đi làm ngày nghỉ | - | - | 今週[こんしゅう]は休日出勤[きゅうじつしゅっきん]があります。 | Tuần này có đi làm ngày nghỉ.
+産休[さんきゅう] | n | SẢN HƯU | nghỉ thai sản | - | - | 来月[らいげつ]から産休[さんきゅう]に入[はい]ります。 | Từ tháng sau tôi nghỉ thai sản.
+在宅勤務[ざいたくきんむ] | n,v3 | TẠI TRẠCH CẦN VỤ | làm việc tại nhà | - | - | 週[しゅう]に二日[ふつか]在宅勤務[ざいたくきんむ]をしています。 | Mỗi tuần tôi làm việc tại nhà hai ngày.
+出社[しゅっしゃ] | n,v3 | XUẤT XÃ | đến công ty | - | - | 明日[あした]は九[く]時[じ]に出社[しゅっしゃ]します。 | Mai tôi đến công ty lúc chín giờ.
+外回[そとまわ]り | n | NGOẠI HỒI | đi làm việc bên ngoài | - | - | 営業[えいぎょう]で一日中[いちにちじゅう]外回[そとまわ]りをしています。 | Làm sales nên tôi đi ngoài cả ngày.
+接客[せっきゃく] | n,v3 | TIẾP KHÁCH | tiếp khách | - | - | レストランで接客[せっきゃく]の仕事[しごと]をしています。 | Tôi làm công việc tiếp khách ở nhà hàng.
+来客[らいきゃく] | n | LAI KHÁCH | khách đến | - | - | 午後[ごご]三[さん]時[じ]に来客[らいきゃく]の予定[よてい]があります。 | Ba giờ chiều có khách đến.
+応対[おうたい] | n,v3 | ỨNG ĐỐI | tiếp đón, xử lý | 電話[でんわ] {応対[おうたい]} | nghe điện thoại | 新人[しんじん]は電話[でんわ]応対[おうたい]から始[はじ]めます。 | Người mới bắt đầu từ việc nghe điện thoại.
+取[と]り次[つ]ぐ | v1 | THỦ THỨ | chuyển máy, chuyển lời | - | - | 部長[ぶちょう]にお電話[でんわ]を取[と]り次[つ]ぎます。 | Tôi xin chuyển máy cho trưởng phòng.
+用件[ようけん] | n | DỤNG KIỆN | việc cần | - | - | ご用件[ようけん]を伺[うかが]います。 | Xin cho biết quý khách cần gì.
+案件[あんけん] | n | ÁN KIỆN | vụ việc, dự án | - | - | 今[いま]、三[みっ]つの案件[あんけん]を担当[たんとう]しています。 | Hiện tôi phụ trách ba dự án.
+企画[きかく] | n,v3 | XÍ HỌA | kế hoạch, đề án | {企画[きかく]} 書[しょ] | bản đề án | 新商品[しんしょうひん]の企画[きかく]書[しょ]を書[か]きました。 | Tôi viết đề án sản phẩm mới.
+提案[ていあん] | n,v3 | ĐỀ ÁN | đề xuất | - | - | 会議[かいぎ]で新[あたら]しいアイデアを提案[ていあん]しました。 | Tôi đề xuất ý tưởng mới trong cuộc họp.
+議題[ぎだい] | n | NGHỊ ĐỀ | chủ đề họp | - | - | 今日[きょう]の議題[ぎだい]は来年[らいねん]の予算[よさん]です。 | Chủ đề họp hôm nay là ngân sách năm sau.
+議事録[ぎじろく] | n | NGHỊ SỰ LỤC | biên bản họp | 議事録[ぎじろく] を とる | ghi biên bản | 会議[かいぎ]の議事録[ぎじろく]をとります。 | Tôi ghi biên bản cuộc họp.
+承認[しょうにん] | n,v3 | THỪA NHẬN | phê duyệt | - | - | 部長[ぶちょう]の承認[しょうにん]が必要[ひつよう]です。 | Cần trưởng phòng phê duyệt.
+許可[きょか] | n,v3 | HỨA KHẢ | cho phép | 許可[きょか] を 得[え]る | được cho phép | 上司[じょうし]の許可[きょか]を得[え]て休[やす]みました。 | Tôi được cấp trên cho phép nghỉ.
+得[え]る | v2 | ĐẮC | đạt được | - | - | 経験[けいけん]から多[おお]くのことを得[え]ました。 | Tôi học được nhiều từ kinh nghiệm.
+了解[りょうかい] | n,v3 | LIỄU GIẢI | đã hiểu, đồng ý | - | - | 了解[りょうかい]しました。すぐやります。 | Tôi hiểu rồi. Làm ngay.
+納期[のうき] | n | NẠP KỲ | hạn giao hàng | 納期[のうき] に 間[ま]に合[あ]う | kịp hạn giao | 何[なん]とか納期[のうき]に間[ま]に合[あ]いました。 | Bằng cách nào đó đã kịp hạn giao.
+期限[きげん] | n | KỲ HẠN | thời hạn | 期限[きげん] が 切[き]れる | hết hạn | パスポートの期限[きげん]が切[き]れています。 | Hộ chiếu đã hết hạn.
+進[すす]み具合[ぐあい] | n | TIẾN CỤ HỢP | tiến độ | - | - | 仕事[しごと]の進[すす]み具合[ぐあい]はどうですか。 | Tiến độ công việc thế nào?
+手順[てじゅん] | n | THỦ THUẬN | quy trình, trình tự | 手順[てじゅん] を 守[まも]る | làm đúng quy trình | 作業[さぎょう]の手順[てじゅん]を守[まも]ってください。 | Hãy làm đúng quy trình công việc.
+効率[こうりつ] | n | HIỆU SUẤT | hiệu suất | 効率[こうりつ] が いい | hiệu quả | もっと効率[こうりつ]のいい方法[ほうほう]を考[かんが]えましょう。 | Hãy nghĩ cách hiệu quả hơn.
+能率[のうりつ] | n | NĂNG SUẤT | năng suất | 能率[のうりつ] が 上[あ]がる | năng suất tăng | 朝[あさ]のほうが仕事[しごと]の能率[のうりつ]が上[あ]がります。 | Buổi sáng làm việc năng suất hơn.
+成果[せいか] | n | THÀNH QUẢ | thành quả | 成果[せいか] を 上[あ]げる | đạt thành quả | 新[あたら]しい方法[ほうほう]で成果[せいか]を上[あ]げました。 | Nhờ phương pháp mới đã đạt thành quả.
+実績[じっせき] | n | THỰC TÍCH | thành tích thực tế | - | - | 彼[かれ]は営業[えいぎょう]で実績[じっせき]があります。 | Anh ấy có thành tích trong mảng kinh doanh.
+業績[ぎょうせき] | n | NGHIỆP TÍCH | kết quả kinh doanh | 業績[ぎょうせき] が 伸[の]びる | kết quả kinh doanh tăng | 今年[ことし]は会社[かいしゃ]の業績[ぎょうせき]が伸[の]びました。 | Năm nay kết quả kinh doanh của công ty tăng.
+伸[の]びる | v2 | THÂN | dài ra, tăng lên | - | - | 売[う]り上[あ]げが二割[にわり]伸[の]びました。 | Doanh thu tăng 20%.
+人事[じんじ] | n | NHÂN SỰ | nhân sự | {人事[じんじ]} 部[ぶ] | phòng nhân sự | 人事[じんじ]部[ぶ]に書類[しょるい]を出[だ]しました。 | Tôi nộp hồ sơ cho phòng nhân sự.
+異動[いどう] | n,v3 | DỊ ĐỘNG | điều chuyển công tác | 人事[じんじ] {異動[いどう]} | điều động nhân sự | 四月[しがつ]に人事[じんじ]異動[いどう]があります。 | Tháng tư có điều động nhân sự.
+配属[はいぞく] | n,v3 | PHỐI THUỘC | phân công về bộ phận | - | - | 営業部[えいぎょうぶ]に配属[はいぞく]されました。 | Tôi được phân về phòng kinh doanh.
+指導[しどう] | n,v3 | CHỈ ĐẠO | hướng dẫn, chỉ đạo | - | - | 先輩[せんぱい]の指導[しどう]を受[う]けています。 | Tôi đang được đàn anh hướng dẫn.
+同期[どうき] | n | ĐỒNG KỲ | cùng khóa vào công ty | - | - | 同期[どうき]と飲[の]みに行[い]きました。 | Tôi đi nhậu với các bạn cùng khóa.
+新入社員[しんにゅうしゃいん] | n | TÂN NHẬP XÃ VIÊN | nhân viên mới | - | - | 新入社員[しんにゅうしゃいん]の研修[けんしゅう]が始[はじ]まりました。 | Khóa đào tạo nhân viên mới đã bắt đầu.
+チームワーク | n | - | tinh thần đồng đội | - | - | この仕事[しごと]はチームワークが大切[たいせつ]です。 | Việc này cần tinh thần đồng đội.
+協調性[きょうちょうせい] | n | HIỆP ĐIỀU TÍNH | tính hợp tác | - | - | 協調性[きょうちょうせい]のある人[ひと]を求[もと]めています。 | Chúng tôi tìm người có tính hợp tác.
+求[もと]める | v2 | CẦU | tìm kiếm, yêu cầu | - | - | 経験[けいけん]のある人[ひと]を求[もと]めています。 | Đang tìm người có kinh nghiệm.
+人手[ひとで]不足[ぶそく] | n | NHÂN THỦ BẤT TÚC | thiếu nhân lực | - | - | どの業界[ぎょうかい]も人手[ひとで]不足[ぶそく]です。 | Ngành nào cũng thiếu nhân lực.
+人手[ひとで] | n | NHÂN THỦ | nhân lực, người làm | - | - | 人手[ひとで]が足[た]りないので手伝[てつだ]ってください。 | Thiếu người làm, hãy giúp với.
+休憩室[きゅうけいしつ] | n | HƯU KHẾ THẤT | phòng nghỉ | - | - | 昼[ひる]ご飯[はん]は休憩室[きゅうけいしつ]で食[た]べます。 | Tôi ăn trưa ở phòng nghỉ.
+社員食堂[しゃいんしょくどう] | n | XÃ VIÊN THỰC ĐƯỜNG | căng tin công ty | - | - | 社員食堂[しゃいんしょくどう]は安[やす]くて便利[べんり]です。 | Căng tin công ty rẻ và tiện.
+タイムカード | n | - | thẻ chấm công | タイムカード を 押[お]す | bấm thẻ | 出勤[しゅっきん]したらタイムカードを押[お]します。 | Đến công ty thì bấm thẻ chấm công.
+欠勤[けっきん] | n,v3 | KHUYẾT CẦN | nghỉ làm | 無断[むだん] {欠勤[けっきん]} | nghỉ không phép | 無断[むだん]欠勤[けっきん]は絶対[ぜったい]にいけません。 | Tuyệt đối không được nghỉ không phép.
+無断[むだん] | n | VÔ ĐOẠN | không xin phép | - | - | 無断[むだん]で写真[しゃしん]を使[つか]わないでください。 | Đừng dùng ảnh khi chưa xin phép.
+報連相[ほうれんそう] | n | BÁO LIÊN TƯƠNG | báo cáo - liên lạc - trao đổi | - | - | 仕事[しごと]では報連相[ほうれんそう]が大切[たいせつ]です。 | Trong công việc, báo cáo - liên lạc - trao đổi rất quan trọng.
+商談[しょうだん] | n,v3 | THƯƠNG ĐÀM | đàm phán kinh doanh | - | - | 取引先[とりひきさき]と商談[しょうだん]をしました。 | Tôi đàm phán với đối tác.
+顧客[こきゃく] | n | CỐ KHÁCH | khách hàng | - | - | 顧客[こきゃく]の意見[いけん]を大切[たいせつ]にしています。 | Chúng tôi coi trọng ý kiến khách hàng.
+名刺交換[めいしこうかん] | n,v3 | DANH THÍCH GIAO HOÁN | trao đổi danh thiếp | - | - | 初[はじ]めて会[あ]う人[ひと]と名刺交換[めいしこうかん]をしました。 | Tôi trao đổi danh thiếp với người lần đầu gặp.
+接待[せったい] | n,v3 | TIẾP ĐÃI | tiếp đãi | - | - | 取引先[とりひきさき]を接待[せったい]しました。 | Tôi tiếp đãi đối tác.
+押印[おういん] | n,v3 | ÁP ẤN | đóng dấu | - | - | 書類[しょるい]に押印[おういん]をお願[ねが]いします。 | Xin đóng dấu vào tài liệu.
+署名[しょめい] | n,v3 | THỰ DANH | ký tên | - | - | 契約書[けいやくしょ]に署名[しょめい]しました。 | Tôi đã ký vào hợp đồng.
+務[つと]める | v2 | VỤ | đảm nhiệm (vai trò) | 司会[しかい] を 務[つと]める | làm MC | パーティーの司会[しかい]を務[つと]めました。 | Tôi làm MC buổi tiệc.
+司会[しかい] | n,v3 | TƯ HỘI | dẫn chương trình | - | - | 会議[かいぎ]の司会[しかい]は田中[たなか]さんです。 | Anh Tanaka chủ trì cuộc họp.
+勤務先[きんむさき] | n | CẦN VỤ TIÊN | nơi làm việc | - | - | 勤務先[きんむさき]の電話番号[でんわばんごう]を書[か]いてください。 | Hãy ghi số điện thoại nơi làm việc.
+職種[しょくしゅ] | n | CHỨC CHỦNG | loại công việc | - | - | 希望[きぼう]の職種[しょくしゅ]は事務[じむ]です。 | Loại công việc mong muốn là văn phòng.
+事務[じむ] | n | SỰ VỤ | việc văn phòng | - | - | 事務[じむ]の仕事[しごと]をしています。 | Tôi làm công việc văn phòng.
+勤務時間[きんむじかん] | n | CẦN VỤ THỜI GIAN | giờ làm việc | - | - | 勤務時間[きんむじかん]は九[く]時[じ]から六[ろく]時[じ]までです。 | Giờ làm việc từ chín đến sáu giờ.
+上下関係[じょうげかんけい] | n | THƯỢNG HẠ QUAN HỆ | quan hệ trên dưới | 上下関係[じょうげかんけい] が 厳[きび]しい | thứ bậc nghiêm | 日本[にほん]の会社[かいしゃ]は上下関係[じょうげかんけい]が厳[きび]しいです。 | Công ty Nhật quan hệ trên dưới nghiêm ngặt.
+やりがい | n | - | ý nghĩa, đáng làm | やりがい が ある | đáng để làm | 大変[たいへん]ですが、やりがいのある仕事[しごと]です。 | Vất vả nhưng là công việc đáng làm.
+働[はたら]きがい | n | ĐỘNG | niềm vui công việc | - | - | 働[はたら]きがいのある会社[かいしゃ]を探[さが]しています。 | Tôi tìm công ty có niềm vui làm việc.
+多忙[たぼう] | adj-na | ĐA MANG | rất bận | - | - | 多忙[たぼう]な毎日[まいにち]を送[おく]っています。 | Tôi sống những ngày rất bận rộn.
+手[て]が離[はな]せない | exp | THỦ LY | bận tay, không rời được | - | - | 今[いま]手[て]が離[はな]せないので、後[あと]で電話[でんわ]します。 | Giờ tôi đang bận tay, lát gọi lại.
+手[て]が空[あ]く | exp | THỦ KHÔNG | rảnh tay | - | - | 手[て]が空[あ]いたら手伝[てつだ]ってください。 | Rảnh tay thì giúp tôi nhé.
+引[ひ]き継[つ]ぐ | v1 | DẪN KẾ | bàn giao, tiếp nhận | 仕事[しごと] を 引[ひ]き継[つ]ぐ | bàn giao công việc | 前任者[ぜんにんしゃ]から仕事[しごと]を引[ひ]き継[つ]ぎました。 | Tôi tiếp nhận công việc từ người tiền nhiệm.
+前任者[ぜんにんしゃ] | n | TIỀN NHIỆM GIẢ | người tiền nhiệm | - | - | 前任者[ぜんにんしゃ]に聞[き]いてください。 | Hãy hỏi người tiền nhiệm.
+後任[こうにん] | n | HẬU NHIỆM | người kế nhiệm | - | - | 後任[こうにん]はまだ決[き]まっていません。 | Người kế nhiệm vẫn chưa được quyết định.
+片付[かたづ]く | v1 | PHIẾN PHÓ | được giải quyết xong | - | - | やっと仕事[しごと]が片付[かたづ]きました。 | Cuối cùng công việc đã xong xuôi.
+取[と]りかかる | v1 | THỦ | bắt tay vào | - | - | 新[あたら]しいプロジェクトに取[と]りかかりました。 | Tôi bắt tay vào dự án mới.
+プロジェクト | n | - | dự án | - | - | 大[おお]きなプロジェクトを任[まか]されました。 | Tôi được giao một dự án lớn.
+取[と]り組[く]む | v1 | THỦ TỔ | nỗ lực giải quyết | 問題[もんだい] に 取[と]り組[く]む | giải quyết vấn đề | チームで問題[もんだい]に取[と]り組[く]んでいます。 | Cả nhóm đang nỗ lực giải quyết vấn đề.
+進[すす]める | v2 | TIẾN | xúc tiến, tiến hành | 計画[けいかく] を 進[すす]める | tiến hành kế hoạch | 予定[よてい]通[どお]りに計画[けいかく]を進[すす]めています。 | Chúng tôi tiến hành kế hoạch đúng dự kiến.
+予定通[よていどお]り | adv | DỰ ĐỊNH THÔNG | đúng kế hoạch | - | - | 会議[かいぎ]は予定通[よていどお]り始[はじ]まりました。 | Cuộc họp bắt đầu đúng kế hoạch.
+ノルマ | n | - | chỉ tiêu | ノルマ を 達成[たっせい]する | đạt chỉ tiêu | 今月[こんげつ]のノルマを達成[たっせい]しました。 | Tôi đã đạt chỉ tiêu tháng này.
+達成[たっせい] | n,v3 | ĐẠT THÀNH | đạt được | - | - | 目標[もくひょう]を達成[たっせい]するために頑張[がんば]ります。 | Tôi cố gắng để đạt mục tiêu.
+共有[きょうゆう] | n,v3 | CỘNG HỮU | chia sẻ chung | 情報[じょうほう] を {共有[きょうゆう]}する | chia sẻ thông tin | チームで情報[じょうほう]を共有[きょうゆう]しましょう。 | Hãy chia sẻ thông tin trong nhóm.
+情報[じょうほう] | n | TÌNH BÁO | thông tin | - | - | 新[あたら]しい情報[じょうほう]が入[はい]りました。 | Có thông tin mới.
+業者[ぎょうしゃ] | n | NGHIỆP GIẢ | nhà cung cấp, đơn vị dịch vụ | - | - | 修理[しゅうり]を業者[ぎょうしゃ]に頼[たの]みました。 | Tôi nhờ đơn vị dịch vụ sửa chữa.
+発注[はっちゅう] | n,v3 | PHÁT CHÚ | đặt hàng (doanh nghiệp) | - | - | 部品[ぶひん]を工場[こうじょう]に発注[はっちゅう]しました。 | Tôi đã đặt linh kiện từ nhà máy.
+部品[ぶひん] | n | BỘ PHẨM | linh kiện | - | - | 部品[ぶひん]が足[た]りなくて作業[さぎょう]が止[と]まりました。 | Thiếu linh kiện nên công việc dừng lại.
+出荷[しゅっか] | n,v3 | XUẤT HÀ | xuất hàng | - | - | 商品[しょうひん]は明日[あした]出荷[しゅっか]されます。 | Hàng sẽ được xuất vào ngày mai.
+在庫管理[ざいこかんり] | n | TẠI KHỐ QUẢN LÝ | quản lý tồn kho | - | - | 在庫管理[ざいこかんり]をパソコンで行[おこな]っています。 | Chúng tôi quản lý tồn kho bằng máy tính.
+行[おこな]う | v1 | HÀNH | tiến hành, tổ chức | - | - | 来週[らいしゅう]会議[かいぎ]を行[おこな]います。 | Tuần sau sẽ tổ chức cuộc họp.
+書[か]き直[なお]し | n | THƯ TRỰC | viết lại | - | - | 報告書[ほうこくしょ]の書[か]き直[なお]しを命[めい]じられました。 | Tôi bị yêu cầu viết lại báo cáo.
+命[めい]じる | v2 | MỆNH | ra lệnh | - | - | 社長[しゃちょう]は調査[ちょうさ]を命[めい]じました。 | Giám đốc ra lệnh điều tra.
+受[う]け持[も]つ | v1 | THỤ TRÌ | đảm nhận phụ trách | - | - | 私[わたし]は東京[とうきょう]地区[ちく]を受[う]け持[も]っています。 | Tôi phụ trách khu vực Tokyo.
+てきぱき | adv,v3 | - | nhanh nhẹn, gọn gàng | - | - | 彼女[かのじょ]はてきぱきと仕事[しごと]をこなします。 | Cô ấy làm việc nhanh nhẹn gọn gàng.
+こなす | v1 | - | xử lý thành thạo | - | - | 一日[いちにち]にたくさんの仕事[しごと]をこなします。 | Mỗi ngày tôi xử lý rất nhiều việc.
+職人[しょくにん] | n | CHỨC NHÂN | thợ thủ công lành nghề | - | - | 祖父[そふ]は家具[かぐ]職人[しょくにん]でした。 | Ông tôi là thợ làm đồ gỗ.
+腕[うで]がいい | exp | OẢN | tay nghề giỏi | - | - | あの大工[だいく]さんは腕[うで]がいいです。 | Bác thợ mộc kia tay nghề giỏi.

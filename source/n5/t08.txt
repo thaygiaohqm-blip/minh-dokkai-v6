@@ -1,0 +1,83 @@
+@topic t08
+@ja 天気[てんき]・自然[しぜん]・体[からだ]
+@vi Thời tiết, thiên nhiên và cơ thể
+@desc Mưa nắng bốn mùa, núi sông, cây cỏ, con vật, các bộ phận cơ thể và cách nói khi bị ốm.
+天気[てんき] | n | THIÊN KHÍ | thời tiết | 天気[てんき] が いい | trời đẹp | 天気[てんき]がいいので、散歩[さんぽ]しましょう。 | Trời đẹp, mình đi dạo đi.
+雨[あめ] | n | VŨ | mưa | 雨[あめ] が やむ | tạnh mưa | 雨[あめ]がやんだら、出[で]かけましょう。 | Tạnh mưa thì mình đi nhé.
+雪[ゆき] | n | TUYẾT | tuyết | 雪[ゆき] が 積[つ]もる | tuyết phủ dày | 昨日[きのう]の夜[よる]、雪[ゆき]がたくさん積[つ]もりました。 | Đêm qua tuyết phủ rất dày.
+風[かぜ] | n | PHONG | gió | 風[かぜ] が 強[つよ]い | gió mạnh | 今日[きょう]は風[かぜ]が強[つよ]いので、気[き]をつけてください。 | Hôm nay gió mạnh, hãy cẩn thận.
+雲[くも] | n | VÂN | mây | - | - | 空[そら]に白[しろ]い雲[くも]が浮[う]かんでいます。 | Trên trời có những đám mây trắng.
+晴[は]れ | n | TÌNH | trời nắng | - | - | 明日[あした]は晴[は]れでしょう。 | Ngày mai có lẽ trời nắng.
+曇[くも]り | n | ĐÀM | trời nhiều mây | - | - | 今日[きょう]は一日中[いちにちじゅう]曇[くも]りでした。 | Hôm nay trời âm u cả ngày.
+晴[は]れる | v2 | TÌNH | trời quang, nắng | よく {晴[は]れた} 日[ひ] | ngày trời quang đãng | よく晴[は]れた日[ひ]には富士山[ふじさん]が見[み]えます。 | Ngày trời quang đãng có thể thấy núi Phú Sĩ.
+曇[くも]る | v1 | ĐÀM | trời u ám | 空[そら] が 曇[くも]る | trời kéo mây | 午後[ごご]から空[そら]が曇[くも]ってきました。 | Từ chiều trời bắt đầu kéo mây.
+降[ふ]る | v1 | GIÁNG | rơi (mưa, tuyết) | 雪[ゆき] が 降[ふ]る | tuyết rơi | 北海道[ほっかいどう]では十月[じゅうがつ]から雪[ゆき]が降[ふ]ります。 | Ở Hokkaido tuyết rơi từ tháng Mười.
+吹[ふ]く | v1 | XUY | thổi | 風[かぜ] が 吹[ふ]く | gió thổi | 冷[つめ]たい風[かぜ]が吹[ふ]いています。 | Gió lạnh đang thổi.
+暑[あつ]い | adj-i | THỬ | nóng (thời tiết) | 暑[あつ]い 夏[なつ] | mùa hè nóng | 日本[にほん]の暑[あつ]い夏[なつ]にはまだ慣[な]れません。 | Tôi vẫn chưa quen mùa hè nóng ở Nhật.
+寒[さむ]い | adj-i | HÀN | lạnh (thời tiết) | - | - | 今朝[けさ]はとても寒[さむ]かったです。 | Sáng nay rất lạnh.
+暖[あたた]かい | adj-i | NOÃN | ấm áp | 暖[あたた]かい 日[ひ] | ngày ấm áp | 今日[きょう]は春[はる]のように暖[あたた]かい日[ひ]ですね。 | Hôm nay ấm áp như mùa xuân nhỉ.
+涼[すず]しい | adj-i | LƯƠNG | mát mẻ | 涼[すず]しい 風[かぜ] | gió mát | 夕方[ゆうがた]になると涼[すず]しい風[かぜ]が吹[ふ]きます。 | Chiều tối có gió mát thổi.
+春[はる] | n | XUÂN | mùa xuân | - | - | 春[はる]になったら、花見[はなみ]に行[い]きましょう。 | Xuân đến thì mình đi ngắm hoa nhé.
+夏[なつ] | n | HẠ | mùa hè | - | - | 夏[なつ]は海[うみ]へよく行[い]きます。 | Mùa hè tôi hay đi biển.
+秋[あき] | n | THU | mùa thu | - | - | 秋[あき]は食[た]べ物[もの]がおいしい季節[きせつ]です。 | Mùa thu là mùa đồ ăn ngon.
+冬[ふゆ] | n | ĐÔNG | mùa đông | - | - | 冬[ふゆ]はスキーをするのが楽[たの]しみです。 | Mùa đông tôi mong được trượt tuyết.
+季節[きせつ] | n | QUÝ TIẾT | mùa | 季節[きせつ] が 変[か]わる | chuyển mùa | 季節[きせつ]が変[か]わる時[とき]は風邪[かぜ]をひきやすいです。 | Lúc chuyển mùa dễ bị cảm.
+台風[たいふう] | n | ĐÀI PHONG | bão | 台風[たいふう] が 来[く]る | bão đến | 台風[たいふう]が来[く]るので、早[はや]く帰[かえ]りましょう。 | Bão sắp đến, về sớm thôi.
+地震[じしん] | n | ĐỊA CHẤN | động đất | 地震[じしん] が 起[お]きる | xảy ra động đất | 地震[じしん]が起[お]きたら、机[つくえ]の下[した]に入[はい]ってください。 | Nếu có động đất, hãy chui xuống gầm bàn.
+空[そら] | n | KHÔNG | bầu trời | - | - | 夜[よる]の空[そら]に星[ほし]がたくさん見[み]えます。 | Bầu trời đêm có thể thấy rất nhiều sao.
+空気[くうき] | n | KHÔNG KHÍ | không khí | 空気[くうき] が きれい | không khí trong lành | 田舎[いなか]は空気[くうき]がきれいです。 | Ở quê không khí trong lành.
+太陽[たいよう] | n | THÁI DƯƠNG | mặt trời | - | - | 太陽[たいよう]が出[で]て、暖[あたた]かくなりました。 | Mặt trời lên nên trời đã ấm lên.
+月[つき] | n | NGUYỆT | mặt trăng | - | - | 今夜[こんや]は月[つき]がとてもきれいです。 | Đêm nay trăng rất đẹp.
+星[ほし] | n | TINH | ngôi sao | - | - | 山[やま]の上[うえ]から見[み]た星[ほし]は本当[ほんとう]にきれいでした。 | Sao nhìn từ trên núi thật sự rất đẹp.
+山[やま] | n | SƠN | núi | 高[たか]い 山[やま] | núi cao | 富士山[ふじさん]は日本[にほん]で一番[いちばん]高[たか]い山[やま]です。 | Phú Sĩ là ngọn núi cao nhất Nhật Bản.
+川[かわ] | n | XUYÊN | sông | - | - | 川[かわ]で子供[こども]たちが遊[あそ]んでいます。 | Bọn trẻ đang chơi dưới sông.
+海[うみ] | n | HẢI | biển | 海[うみ] で 泳[およ]ぐ | bơi ở biển | 夏休[なつやす]みに海[うみ]で泳[およ]ぎました。 | Kỳ nghỉ hè tôi đã bơi ở biển.
+島[しま] | n | ĐẢO | hòn đảo | - | - | 日本[にほん]にはたくさんの島[しま]があります。 | Nhật Bản có rất nhiều đảo.
+景色[けしき] | n | CẢNH SẮC | phong cảnh | 景色[けしき] が いい | phong cảnh đẹp | このホテルは部屋[へや]からの景色[けしき]がいいです。 | Khách sạn này nhìn từ phòng ra phong cảnh rất đẹp.
+自然[しぜん] | n | TỰ NHIÊN | thiên nhiên | 自然[しぜん] が 豊[ゆた]か | thiên nhiên phong phú | 北海道[ほっかいどう]は自然[しぜん]が豊[ゆた]かです。 | Hokkaido có thiên nhiên phong phú.
+花[はな] | n | HOA | hoa | 花[はな] が 咲[さ]く | hoa nở | 庭[にわ]に赤[あか]い花[はな]が咲[さ]きました。 | Trong vườn hoa đỏ đã nở.
+咲[さ]く | v1 | TIẾU | nở (hoa) | 桜[さくら] が 咲[さ]く | hoa anh đào nở | 東京[とうきょう]では三月[さんがつ]の終[お]わりに桜[さくら]が咲[さ]きます。 | Ở Tokyo hoa anh đào nở vào cuối tháng Ba.
+桜[さくら] | n | ANH | hoa anh đào | - | - | 桜[さくら]の下[した]でお弁当[べんとう]を食[た]べました。 | Chúng tôi ăn cơm hộp dưới gốc anh đào.
+木[き] | n | MỘC | cây | - | - | 公園[こうえん]の大[おお]きい木[き]の下[した]で休[やす]みました。 | Tôi nghỉ dưới gốc cây lớn trong công viên.
+葉[は] | n | DIỆP | lá | - | - | 秋[あき]になると、木[き]の葉[は]が赤[あか]くなります。 | Mùa thu lá cây chuyển đỏ.
+森[もり] | n | SÂM | rừng | - | - | 森[もり]の中[なか]を歩[ある]くと、気持[きも]ちがいいです。 | Đi bộ trong rừng thật dễ chịu.
+石[いし] | n | THẠCH | hòn đá | - | - | 川[かわ]に石[いし]を投[な]げないでください。 | Đừng ném đá xuống sông.
+火[ひ] | n | HỎA | lửa | 火[ひ] を 消[け]す | tắt lửa | 出[で]かける前[まえ]にガスの火[ひ]を消[け]してください。 | Trước khi ra ngoài hãy tắt bếp ga.
+動物[どうぶつ] | n | ĐỘNG VẬT | động vật | 動物[どうぶつ] が 好[す]き | thích động vật | 娘[むすめ]は動物[どうぶつ]が大好[だいす]きです。 | Con gái tôi rất thích động vật.
+動物園[どうぶつえん] | n | ĐỘNG VẬT VIÊN | sở thú | - | - | 日曜日[にちようび]に家族[かぞく]で動物園[どうぶつえん]へ行[い]きました。 | Chủ nhật cả nhà tôi đã đi sở thú.
+犬[いぬ] | n | KHUYỂN | con chó | 犬[いぬ] の 散歩[さんぽ] | dắt chó đi dạo | 毎朝[まいあさ]、犬[いぬ]の散歩[さんぽ]をします。 | Sáng nào tôi cũng dắt chó đi dạo.
+猫[ねこ] | n | MIÊU | con mèo | - | - | 猫[ねこ]がソファーの上[うえ]で寝[ね]ています。 | Con mèo đang ngủ trên ghế sô pha.
+鳥[とり] | n | ĐIỂU | con chim | 鳥[とり] が 鳴[な]く | chim hót | 朝[あさ]、鳥[とり]が鳴[な]く声[こえ]で起[お]きました。 | Sáng nay tôi thức dậy vì tiếng chim hót.
+匹[ひき] | ctr | THẤT | con (đếm thú nhỏ) | - | - | 家[いえ]に猫[ねこ]が二[に]匹[ひき]います。 | Nhà tôi có hai con mèo.
+飼[か]う | v1 | TỰ | nuôi (vật nuôi) | ペット を 飼[か]う | nuôi thú cưng | このアパートではペットを飼[か]ってはいけません。 | Căn hộ này không được nuôi thú cưng.
+散歩[さんぽ] | n,v3 | TẢN BỘ | đi dạo | 散歩[さんぽ] に 行[い]く | đi dạo | 晩[ばん]ご飯[はん]の後[あと]、散歩[さんぽ]に行[い]きます。 | Sau bữa tối tôi đi dạo.
+泳[およ]ぐ | v1 | VỊNH | bơi | プール で 泳[およ]ぐ | bơi ở bể bơi | 週[しゅう]に一[いち]回[かい]、プールで泳[およ]いでいます。 | Mỗi tuần tôi bơi ở bể bơi một lần.
+登[のぼ]る | v1 | ĐĂNG | leo, trèo | 山[やま] に 登[のぼ]る | leo núi | 夏[なつ]に富士山[ふじさん]に登[のぼ]りたいです。 | Mùa hè tôi muốn leo núi Phú Sĩ.
+体[からだ] | n | THỂ | cơ thể; sức khỏe | 体[からだ] に いい | tốt cho sức khỏe | 野菜[やさい]は体[からだ]にいいです。 | Rau tốt cho sức khỏe.
+頭[あたま] | n | ĐẦU | đầu | 頭[あたま] が 痛[いた]い | đau đầu | 昨日[きのう]から頭[あたま]が痛[いた]いです。 | Tôi bị đau đầu từ hôm qua.
+顔[かお] | n | NHAN | khuôn mặt | 顔[かお] を 洗[あら]う | rửa mặt | 起[お]きたら、まず顔[かお]を洗[あら]います。 | Thức dậy là tôi rửa mặt trước tiên.
+目[め] | n | MỤC | mắt | 目[め] が 悪[わる]い | mắt kém | 目[め]が悪[わる]いので、眼鏡[めがね]をかけています。 | Mắt kém nên tôi đeo kính.
+耳[みみ] | n | NHĨ | tai | - | - | 祖父[そふ]は耳[みみ]が少[すこ]し遠[とお]いです。 | Ông tôi hơi nặng tai.
+鼻[はな] | n | TỴ | mũi | - | - | 風邪[かぜ]で鼻[はな]が詰[つ]まっています。 | Tôi bị cảm nên ngạt mũi.
+口[くち] | n | KHẨU | miệng | - | - | 口[くち]を大[おお]きく開[あ]けてください。 | Hãy há miệng to ra.
+歯[は] | n | XỈ | răng | 歯[は] を 磨[みが]く | đánh răng | 寝[ね]る前[まえ]に歯[は]を磨[みが]きます。 | Tôi đánh răng trước khi ngủ.
+手[て] | n | THỦ | tay | - | - | 手[て]を挙[あ]げて質問[しつもん]してください。 | Hãy giơ tay rồi đặt câu hỏi.
+指[ゆび] | n | CHỈ | ngón tay | - | - | 包丁[ほうちょう]で指[ゆび]を切[き]ってしまいました。 | Tôi lỡ cắt vào ngón tay bằng dao.
+足[あし] | n | TÚC | chân | - | - | たくさん歩[ある]いて足[あし]が疲[つか]れました。 | Đi bộ nhiều nên mỏi chân.
+首[くび] | n | THỦ | cổ | - | - | 長[なが]い時間[じかん]パソコンを使[つか]うと首[くび]が痛[いた]くなります。 | Dùng máy tính lâu là đau cổ.
+背[せ] | n | BỐI | chiều cao; lưng | - | - | 弟[おとうと]は私[わたし]より背[せ]が高[たか]くなりました。 | Em trai tôi đã cao hơn tôi.
+背中[せなか] | n | BỐI TRUNG | lưng | - | - | 重[おも]い物[もの]を持[も]って、背中[せなか]が痛[いた]いです。 | Tôi bê đồ nặng nên đau lưng.
+髪[かみ] | n | PHÁT | tóc | 髪[かみ] を 切[き]る | cắt tóc | 美容院[びよういん]で髪[かみ]を短[みじか]く切[き]りました。 | Tôi đã cắt tóc ngắn ở tiệm làm tóc.
+声[こえ] | n | THANH | giọng nói; tiếng | - | - | 隣[となり]の部屋[へや]から子供[こども]の声[こえ]が聞[き]こえます。 | Nghe thấy tiếng trẻ con từ phòng bên.
+汗[あせ] | n | HÃN | mồ hôi | 汗[あせ] を かく | đổ mồ hôi | 運動[うんどう]して、たくさん汗[あせ]をかきました。 | Tôi vận động và đổ rất nhiều mồ hôi.
+病気[びょうき] | n | BỆNH KHÍ | bệnh | 病気[びょうき] に なる | bị ốm | 無理[むり]をすると病気[びょうき]になりますよ。 | Làm quá sức sẽ bị ốm đấy.
+風邪[かぜ] | n | PHONG TÀ | cảm lạnh | 風邪[かぜ] を ひく | bị cảm | 風邪[かぜ]をひいて、熱[ねつ]があります。 | Tôi bị cảm và sốt.
+熱[ねつ] | n | NHIỆT | sốt; nhiệt | 熱[ねつ] が ある | bị sốt | 子供[こども]に熱[ねつ]があるので、病院[びょういん]に連[つ]れていきます。 | Con bị sốt nên tôi đưa đi bệnh viện.
+薬[くすり] | n | DƯỢC | thuốc | - | - | この薬[くすり]は一日[いちにち]三[さん]回[かい]飲[の]んでください。 | Thuốc này hãy uống ngày ba lần.
+痛[いた]い | adj-i | THỐNG | đau | お腹[なか] が 痛[いた]い | đau bụng | 朝[あさ]からお腹[なか]が痛[いた]いです。 | Tôi bị đau bụng từ sáng.
+疲[つか]れる | v2 | BÌ | mệt | 仕事[しごと] で 疲[つか]れる | mệt vì công việc | 仕事[しごと]で疲[つか]れて、すぐ寝[ね]てしまいました。 | Mệt vì công việc nên tôi ngủ ngay.
+眠[ねむ]い | adj-i | MIÊN | buồn ngủ | - | - | 昨日[きのう]遅[おそ]くまで起[お]きていたので、眠[ねむ]いです。 | Hôm qua thức khuya nên tôi buồn ngủ.
+気分[きぶん] | n | KHÍ PHÂN | tâm trạng; cảm giác trong người | 気分[きぶん] が 悪[わる]い | thấy khó chịu trong người | 気分[きぶん]が悪[わる]いので、少[すこ]し休[やす]みます。 | Tôi thấy khó chịu nên nghỉ một chút.
+怪我[けが] | n,v3 | QUÁI NGÃ | vết thương; bị thương | 怪我[けが] を する | bị thương | サッカーで足[あし]に怪我[けが]をしました。 | Tôi bị thương ở chân khi đá bóng.
+入院[にゅういん] | n,v3 | NHẬP VIỆN | nhập viện | - | - | 祖母[そぼ]は一[いっ]週間[しゅうかん]入院[にゅういん]しました。 | Bà tôi đã nằm viện một tuần.
+治[なお]る | v1 | TRỊ | khỏi (bệnh) | 風邪[かぜ] が 治[なお]る | khỏi cảm | 薬[くすり]を飲[の]んで、風邪[かぜ]が治[なお]りました。 | Uống thuốc xong tôi đã khỏi cảm.

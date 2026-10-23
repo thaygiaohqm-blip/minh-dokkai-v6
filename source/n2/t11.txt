@@ -1,0 +1,155 @@
+@topic t11
+@ja 社会[しゃかい]・事件[じけん]・災害[さいがい]
+@vi Xã hội, sự cố và thiên tai
+@desc Mâu thuẫn và xung đột trong xã hội, tội phạm, chiến tranh, tai nạn, thiên tai và việc cứu trợ khắc phục.
+風潮[ふうちょう] | n | PHONG TRIỀU | trào lưu xã hội | 社会[しゃかい] の {風潮} | xu hướng xã hội | 結婚[けっこん]しなくてもいいという風潮[ふうちょう]が広[ひろ]がっている。 | Xu hướng cho rằng không kết hôn cũng được đang lan rộng.
+慣習[かんしゅう] | n | QUÁN TẬP | tập quán | 古[ふる]い {慣習} | tập quán cũ | 地域[ちいき]の古[ふる]い慣習[かんしゅう]を見直[みなお]す動[うご]きがある。 | Đang có động thái xem lại các tập quán cũ của địa phương.
+中高年[ちゅうこうねん] | n | TRUNG CAO NIÊN | người trung niên và cao tuổi | - | - | 中高年[ちゅうこうねん]の間[あいだ]で登山[とざん]が人気[にんき]だ。 | Leo núi đang được ưa chuộng trong giới trung niên và cao tuổi.
+弱者[じゃくしゃ] | n | NHƯỢC GIẢ | người yếu thế | 社会[しゃかい] {弱者} | người yếu thế trong xã hội | 政治[せいじ]は社会[しゃかい]的[てき]弱者[じゃくしゃ]を守[まも]るべきだ。 | Chính trị phải bảo vệ người yếu thế trong xã hội.
+強者[きょうしゃ] | n | CƯỜNG GIẢ | kẻ mạnh | - | - | 強者[きょうしゃ]だけが得[とく]をする仕組[しく]みはおかしい。 | Một cơ chế chỉ kẻ mạnh được lợi là không ổn.
+多数派[たすうは] | n | ĐA SỐ PHÁI | phe đa số | - | - | 多数派[たすうは]の意見[いけん]がいつも正[ただ]しいとは限[かぎ]らない。 | Ý kiến của số đông không phải lúc nào cũng đúng.
+多様性[たようせい] | n | ĐA DẠNG TÍNH | sự đa dạng | {多様性} を 認[みと]める | chấp nhận sự đa dạng | 職場[しょくば]でも多様性[たようせい]が大切[たいせつ]にされている。 | Ở nơi làm việc, sự đa dạng cũng được coi trọng.
+マイノリティー | n | - | thiểu số | - | - | マイノリティーの声[こえ]にも耳[みみ]を傾[かたむ]けたい。 | Tôi muốn lắng nghe cả tiếng nói của nhóm thiểu số.
+寛容[かんよう] | n,adj-na | KHOAN DUNG | khoan dung | {寛容} な 社会[しゃかい] | xã hội khoan dung | 違[ちが]いに寛容[かんよう]な社会[しゃかい]を目指[めざ]したい。 | Tôi muốn hướng tới một xã hội khoan dung với sự khác biệt.
+不寛容[ふかんよう] | n,adj-na | BẤT KHOAN DUNG | không khoan dung | - | - | ネットでは不寛容[ふかんよう]な意見[いけん]が目立[めだ]つ。 | Trên mạng, những ý kiến thiếu khoan dung thường nổi bật.
+争[あらそ]い | n | TRANH | tranh chấp, cãi vã | {争い} が 起[お]こる | xảy ra tranh chấp | 遺産[いさん]をめぐって兄弟[きょうだい]の争[あらそ]いが起[お]きた。 | Anh em xảy ra tranh chấp xoay quanh di sản.
+争[あらそ]う | v1 | TRANH | tranh giành, đua tranh | 一位[いちい] を {争う} | tranh ngôi đầu | 二[ふた]つのチームが優勝[ゆうしょう]を争[あらそ]っている。 | Hai đội đang tranh chức vô địch.
+揉[も]める | v2 | NHU | cãi cọ, lục đục | 会議[かいぎ] が {揉める} | cuộc họp lục đục | 予算[よさん]のことで会議[かいぎ]がもめた。 | Cuộc họp lục đục vì chuyện ngân sách.
+揉[も]め事[ごと] | n | NHU SỰ | chuyện xích mích | - | - | 近所[きんじょ]との揉[も]め事[ごと]は避[さ]けたい。 | Tôi muốn tránh xích mích với hàng xóm.
+圧迫[あっぱく] | n,v3 | ÁP BÁCH | đè nặng, chèn ép | 家計[かけい] を {圧迫} する | đè nặng lên chi tiêu gia đình | 物価[ぶっか]の上昇[じょうしょう]が家計[かけい]を圧迫[あっぱく]している。 | Vật giá tăng đang đè nặng lên chi tiêu gia đình.
+抑圧[よくあつ] | n,v3 | ỨC ÁP | áp bức, kìm nén | - | - | 長年[ながねん]抑圧[よくあつ]されてきた人々[ひとびと]が声[こえ]を上[あ]げた。 | Những người bị áp bức lâu năm đã lên tiếng.
+弾圧[だんあつ] | n,v3 | ĐÀN ÁP | đàn áp | - | - | 政府[せいふ]はデモを武力[ぶりょく]で弾圧[だんあつ]した。 | Chính phủ dùng vũ lực đàn áp cuộc biểu tình.
+束縛[そくばく] | n,v3 | THÚC PHƯỢC | trói buộc, kiểm soát | - | - | 恋人[こいびと]に束縛[そくばく]されるのは嫌[いや]だ。 | Tôi không thích bị người yêu kiểm soát.
+自立[じりつ] | n,v3 | TỰ LẬP | tự lập | 経済[けいざい]的[てき]に {自立} する | tự lập về kinh tế | 就職[しゅうしょく]して親[おや]から自立[じりつ]した。 | Đi làm rồi tôi đã tự lập khỏi bố mẹ.
+孤立[こりつ] | n,v3 | CÔ LẬP | bị cô lập | - | - | 大雨[おおあめ]で道路[どうろ]が壊[こわ]れ、村[むら]が孤立[こりつ]した。 | Mưa lớn làm hỏng đường, ngôi làng bị cô lập.
+孤独[こどく] | n,adj-na | CÔ ĐỘC | cô độc | {孤独} を 感[かん]じる | cảm thấy cô độc | 都会[とかい]で一人暮[ひとりぐ]らしをして孤独[こどく]を感[かん]じた。 | Sống một mình ở thành phố, tôi cảm thấy cô độc.
+孤独死[こどくし] | n | CÔ ĐỘC TỬ | chết cô độc | - | - | 一人暮[ひとりぐ]らしの高齢者[こうれいしゃ]の孤独死[こどくし]が増[ふ]えている。 | Số người già sống một mình chết cô độc đang tăng.
+疎外[そがい] | n,v3 | SƠ NGOẠI | xa lánh, gạt ra ngoài | {疎外} 感[かん] | cảm giác bị gạt ra | 新[あたら]しい職場[しょくば]で疎外[そがい]感[かん]を感[かん]じた。 | Ở chỗ làm mới tôi cảm thấy bị gạt ra ngoài.
+排除[はいじょ] | n,v3 | BÀI TRỪ | loại trừ, gạt bỏ | 障害[しょうがい] を {排除} する | loại bỏ trở ngại | 反対[はんたい]意見[いけん]を排除[はいじょ]するのはよくない。 | Gạt bỏ ý kiến phản đối là không tốt.
+排斥[はいせき] | n,v3 | BÀI XÍCH | bài xích | - | - | 外国人[がいこくじん]を排斥[はいせき]する運動[うんどう]が問題[もんだい]になった。 | Phong trào bài xích người nước ngoài đã thành vấn đề.
+受[う]け入[い]れ | n | THỤ NHẬP | sự tiếp nhận | 難民[なんみん] の {受け入れ} | tiếp nhận người tị nạn | 外国人[がいこくじん]労働者[ろうどうしゃ]の受[う]け入[い]れが進[すす]んでいる。 | Việc tiếp nhận lao động nước ngoài đang được đẩy mạnh.
+腐敗[ふはい] | n,v3 | HỦ BẠI | thối nát, mục nát | 政治[せいじ] の {腐敗} | chính trị thối nát | 国民[こくみん]は政治[せいじ]の腐敗[ふはい]に怒[いか]っている。 | Người dân phẫn nộ vì chính trị thối nát.
+隠蔽[いんぺい] | n,v3 | ẨN TẾ | che giấu | 事実[じじつ] を {隠蔽} する | che giấu sự thật | 会社[かいしゃ]は事故[じこ]を隠蔽[いんぺい]しようとした。 | Công ty đã định che giấu vụ tai nạn.
+改[かい]ざん | n,v3 | CẢI | sửa đổi gian lận | データ の {改ざん} | làm giả số liệu | 公文書[こうぶんしょ]の改[かい]ざんが明[あき]らかになった。 | Việc sửa đổi gian lận văn bản công đã bị làm rõ.
+捏造[ねつぞう] | n,v3 | NIẾT TẠO | bịa đặt, ngụy tạo | - | - | 研究[けんきゅう]データの捏造[ねつぞう]が見[み]つかった。 | Đã phát hiện việc ngụy tạo số liệu nghiên cứu.
+偽装[ぎそう] | n,v3 | NGỤY TRANG | ngụy tạo, giả mạo | 産地[さんち] {偽装} | giả mạo xuất xứ | 牛肉[ぎゅうにく]の産地[さんち]偽装[ぎそう]が発覚[はっかく]した。 | Vụ giả mạo xuất xứ thịt bò đã bị phát giác.
+引責[いんせき] | n,v3 | DẪN TRÁCH | nhận trách nhiệm | {引責} 辞任[じにん] | từ chức để nhận trách nhiệm | 社長[しゃちょう]は事故[じこ]の責任[せきにん]をとって引責[いんせき]辞任[じにん]した。 | Giám đốc từ chức để nhận trách nhiệm về vụ tai nạn.
+罰則[ばっそく] | n | PHẠT TẮC | chế tài xử phạt | {罰則} を 設[もう]ける | đặt ra chế tài | 違反者[いはんしゃ]には罰則[ばっそく]が科[か]される。 | Người vi phạm sẽ bị áp dụng chế tài.
+報復[ほうふく] | n,v3 | BÁO PHỤC | trả đũa | {報復} 措置[そち] | biện pháp trả đũa | 相手[あいて]国[こく]は報復[ほうふく]として関税[かんぜい]を上[あ]げた。 | Nước đối phương tăng thuế quan để trả đũa.
+仕返[しかえ]し | n,v3 | SĨ PHẢN | trả thù, trả đũa | - | - | いじめられた仕返[しかえ]しをしても何[なに]も解決[かいけつ]しない。 | Trả đũa việc bị bắt nạt cũng chẳng giải quyết được gì.
+恨[うら]み | n | HẬN | mối hận | {恨み} を 買[か]う | chuốc thù oán | 彼[かれ]は誰[だれ]かの恨[うら]みを買[か]ったらしい。 | Hình như anh ta đã chuốc thù oán với ai đó.
+復讐[ふくしゅう] | n,v3 | PHỤC THÙ | báo thù | - | - | 映画[えいが]は家族[かぞく]を失[うしな]った男[おとこ]の復讐[ふくしゅう]の物語[ものがたり]だ。 | Bộ phim là câu chuyện báo thù của người đàn ông mất gia đình.
+憎[にく]しみ | n | TĂNG | lòng căm ghét | {憎しみ} を 抱[いだ]く | ôm lòng căm ghét | 憎[にく]しみからは何[なに]も生[う]まれない。 | Từ lòng căm ghét chẳng sinh ra được điều gì.
+物騒[ぶっそう] | adj-na | VẬT TAO | bất an, nguy hiểm | {物騒} な 世[よ]の中[なか] | thời buổi bất an | 最近[さいきん]この辺[あた]りも物騒[ぶっそう]になった。 | Dạo này khu này cũng trở nên bất an.
+不審者[ふしんしゃ] | n | BẤT THẨM GIẢ | kẻ khả nghi | - | - | 学校[がっこう]の近[ちか]くで不審者[ふしんしゃ]が目撃[もくげき]された。 | Có người thấy kẻ khả nghi gần trường học.
+危害[きがい] | n | NGUY HẠI | sự nguy hại | {危害} を 加[くわ]える | gây hại | 動物[どうぶつ]は人間[にんげん]に危害[きがい]を加[くわ]えることもある。 | Động vật đôi khi cũng gây hại cho con người.
+恐喝[きょうかつ] | n,v3 | KHỦNG HÁT | tống tiền | - | - | 男[おとこ]は恐喝[きょうかつ]の疑[うたが]いで逮捕[たいほ]された。 | Người đàn ông bị bắt vì nghi tống tiền.
+嫌[いや]がらせ | n | HIỀM | quấy rối, chơi xấu | {嫌がらせ} を する | quấy rối | 元[もと]同僚[どうりょう]から嫌[いや]がらせのメールが届[とど]いた。 | Tôi nhận được email quấy rối từ đồng nghiệp cũ.
+殺害[さつがい] | n,v3 | SÁT HẠI | sát hại | - | - | 容疑者[ようぎしゃ]は殺害[さつがい]を認[みと]めた。 | Nghi phạm đã thừa nhận hành vi sát hại.
+暴力[ぼうりょく] | n | BẠO LỰC | bạo lực | {暴力} を ふるう | dùng bạo lực | どんな理由[りゆう]があっても暴力[ぼうりょく]をふるってはいけない。 | Dù lý do gì cũng không được dùng bạo lực.
+虐待[ぎゃくたい] | n,v3 | NGƯỢC ĐÃI | ngược đãi | 児童[じどう] {虐待} | ngược đãi trẻ em | 動物[どうぶつ]を虐待[ぎゃくたい]した男[おとこ]が逮捕[たいほ]された。 | Người đàn ông ngược đãi động vật đã bị bắt.
+自殺[じさつ] | n,v3 | TỰ SÁT | tự sát | - | - | 若者[わかもの]の自殺[じさつ]を防[ふせ]ぐ取[と]り組[く]みが始[はじ]まった。 | Các nỗ lực phòng chống tự sát ở người trẻ đã bắt đầu.
+引[ひ]きこもり | n | DẪN | người sống khép kín ở nhà | - | - | 引[ひ]きこもりの若者[わかもの]を支援[しえん]する団体[だんたい]がある。 | Có tổ chức hỗ trợ người trẻ sống khép kín ở nhà.
+薬物[やくぶつ] | n | DƯỢC VẬT | ma túy, chất cấm | {薬物} 乱用[らんよう] | lạm dụng chất cấm | 薬物[やくぶつ]の使用[しよう]で歌手[かしゅ]が逮捕[たいほ]された。 | Ca sĩ bị bắt vì sử dụng chất cấm.
+自首[じしゅ] | n,v3 | TỰ THỦ | đầu thú | 警察[けいさつ] に {自首} する | ra đầu thú | 犯人[はんにん]は翌日[よくじつ]警察[けいさつ]に自首[じしゅ]した。 | Hung thủ ra đầu thú với cảnh sát vào hôm sau.
+身代金[みのしろきん] | n | THÂN ĐẠI KIM | tiền chuộc | {身代金} を 要求[ようきゅう]する | đòi tiền chuộc | 犯人[はんにん]は電話[でんわ]で身代金[みのしろきん]を要求[ようきゅう]した。 | Kẻ bắt cóc gọi điện đòi tiền chuộc.
+人質[ひとじち] | n | NHÂN CHẤT | con tin | {人質} を 取[と]る | bắt con tin | 銀行[ぎんこう]で客[きゃく]が人質[ひとじち]に取[と]られた。 | Khách hàng bị bắt làm con tin trong ngân hàng.
+暴[あば]れる | v2 | BẠO | quậy phá, làm loạn | 酔[よ]って {暴れる} | say xỉn làm loạn | 酔[よ]った客[きゃく]が店[みせ]で暴[あば]れた。 | Vị khách say rượu đã quậy phá trong quán.
+騒動[そうどう] | n | TAO ĐỘNG | vụ lùm xùm, náo loạn | {騒動} が 起[お]きる | xảy ra náo loạn | 発言[はつげん]が原因[げんいん]で大[おお]きな騒動[そうどう]になった。 | Phát ngôn đó đã gây ra một vụ lùm xùm lớn.
+暴動[ぼうどう] | n | BẠO ĐỘNG | bạo động | - | - | 物価[ぶっか]の高騰[こうとう]で各地[かくち]で暴動[ぼうどう]が起[お]きた。 | Vật giá leo thang khiến bạo động nổ ra nhiều nơi.
+革命[かくめい] | n | CÁCH MẠNG | cách mạng | 産業[さんぎょう] {革命} | cách mạng công nghiệp | スマホは生活[せいかつ]に革命[かくめい]を起[お]こした。 | Điện thoại thông minh đã tạo nên cuộc cách mạng trong đời sống.
+敵[てき] | n | ĐỊCH | kẻ thù, đối thủ | {敵} を 作[つく]る | gây thù chuốc oán | 彼[かれ]は正直[しょうじき]すぎて敵[てき]を作[つく]りやすい。 | Anh ấy thẳng quá nên dễ gây thù.
+攻撃[こうげき] | n,v3 | CÔNG KÍCH | tấn công | {攻撃} を 受[う]ける | bị tấn công | サイトがサイバー攻撃[こうげき]を受[う]けた。 | Trang web bị tấn công mạng.
+兵器[へいき] | n | BINH KHÍ | vũ khí | 核[かく] {兵器} | vũ khí hạt nhân | 核[かく]兵器[へいき]のない世界[せかい]を願[ねが]う。 | Mong một thế giới không có vũ khí hạt nhân.
+爆弾[ばくだん] | n | BỘC ĐẠN | bom | - | - | 古[ふる]い爆弾[ばくだん]が工事[こうじ]現場[げんば]で見[み]つかった。 | Một quả bom cũ được tìm thấy ở công trường.
+勝利[しょうり] | n,v3 | THẮNG LỢI | thắng lợi | {勝利} を 収[おさ]める | giành thắng lợi | 選挙[せんきょ]で野党[やとう]が勝利[しょうり]を収[おさ]めた。 | Phe đối lập đã giành thắng lợi trong bầu cử.
+敗北[はいぼく] | n,v3 | BẠI BẮC | thất bại | {敗北} を 認[みと]める | thừa nhận thất bại | 候補者[こうほしゃ]は早々[はやばや]と敗北[はいぼく]を認[みと]めた。 | Ứng viên sớm thừa nhận thất bại.
+降伏[こうふく] | n,v3 | HÀNG PHỤC | đầu hàng | - | - | 敵[てき]の軍[ぐん]は三[みっ]日[か]後[ご]に降伏[こうふく]した。 | Quân địch đầu hàng sau ba ngày.
+戦[たたか]う | v1 | CHIẾN | chiến đấu | 病気[びょうき] と {戦う} | chiến đấu với bệnh tật | 彼[かれ]は十[じゅう]年[ねん]間[かん]病気[びょうき]と戦[たたか]ってきた。 | Anh ấy đã chiến đấu với bệnh tật suốt mười năm.
+敗[やぶ]れる | v2 | BẠI | thua, bại | 決勝[けっしょう] で {敗れる} | thua ở chung kết | 日本[にほん]チームは決勝[けっしょう]で敗[やぶ]れた。 | Đội Nhật Bản thua ở trận chung kết.
+撃[う]つ | v1 | KÍCH | bắn | 銃[じゅう] を {撃つ} | bắn súng | 猟師[りょうし]が熊[くま]を撃[う]った。 | Người thợ săn đã bắn con gấu.
+攻[せ]める | v2 | CÔNG | tấn công, công kích | 相手[あいて] の 弱点[じゃくてん] を {攻める} | đánh vào điểm yếu đối thủ | 後半[こうはん]は積極[せっきょく]的[てき]に攻[せ]めた。 | Hiệp hai đội đã tấn công tích cực.
+狙[ねら]う | v1 | THƯ | nhắm, nhắm tới | 優勝[ゆうしょう] を {狙う} | nhắm tới chức vô địch | 高齢者[こうれいしゃ]を狙[ねら]った詐欺[さぎ]が増[ふ]えている。 | Lừa đảo nhắm vào người cao tuổi đang gia tăng.
+侵[おか]す | v1 | XÂM | xâm phạm | 権利[けんり] を {侵す} | xâm phạm quyền lợi | 他人[たにん]のプライバシーを侵[おか]してはいけない。 | Không được xâm phạm quyền riêng tư của người khác.
+冒[おか]す | v1 | MẠO | liều, bất chấp | 危険[きけん] を {冒す} | liều mình bất chấp nguy hiểm | 彼[かれ]は危険[きけん]を冒[おか]して子供[こども]を助[たす]けた。 | Anh ấy bất chấp nguy hiểm cứu đứa trẻ.
+脅[おど]す | v1 | HIẾP | đe dọa, dọa nạt | ナイフ で {脅す} | dọa bằng dao | 男[おとこ]は店員[てんいん]をナイフで脅[おど]して金[かね]を奪[うば]った。 | Gã đàn ông dùng dao dọa nhân viên rồi cướp tiền.
+脅[おびや]かす | v1 | HIẾP | đe dọa (an toàn, sinh tồn) | 生活[せいかつ] を {脅かす} | đe dọa cuộc sống | 物価[ぶっか]高[だか]が市民[しみん]の生活[せいかつ]を脅[おびや]かしている。 | Vật giá cao đang đe dọa cuộc sống người dân.
+逆[さか]らう | v1 | NGHỊCH | chống lại, cãi lời | 親[おや] に {逆らう} | cãi lời cha mẹ | 風[かぜ]に逆[さか]らって自転車[じてんしゃ]をこいだ。 | Tôi đạp xe ngược gió.
+妨[さまた]げる | v2 | PHƯƠNG | cản trở | 通行[つうこう] を {妨げる} | cản trở giao thông | 騒音[そうおん]が睡眠[すいみん]を妨[さまた]げている。 | Tiếng ồn đang cản trở giấc ngủ.
+迫[せま]る | v1 | BÁCH | đến gần; ép buộc | 締[し]め切[き]り が {迫る} | hạn chót đến gần | 締[し]め切[き]りが迫[せま]って、みんな焦[あせ]っている。 | Hạn chót đến gần nên ai cũng cuống.
+救[すく]う | v1 | CỨU | cứu giúp | 命[いのち] を {救う} | cứu mạng | 医師[いし]の素早[すばや]い判断[はんだん]が命[いのち]を救[すく]った。 | Phán đoán nhanh của bác sĩ đã cứu một mạng người.
+救済[きゅうさい] | n,v3 | CỨU TẾ | cứu trợ | 被害者[ひがいしゃ] を {救済} する | cứu trợ nạn nhân | 国[くに]は被害者[ひがいしゃ]の救済[きゅうさい]に乗[の]り出[だ]した。 | Nhà nước bắt tay vào cứu trợ nạn nhân.
+救出[きゅうしゅつ] | n,v3 | CỨU XUẤT | giải cứu | - | - | 閉[と]じ込[こ]められた人[ひと]が無事[ぶじ]救出[きゅうしゅつ]された。 | Người bị mắc kẹt đã được giải cứu an toàn.
+逃[に]がす | v1 | ĐÀO | thả đi; để vuột mất | チャンス を {逃がす} | vuột mất cơ hội | 釣[つ]った魚[さかな]を川[かわ]に逃[に]がしてやった。 | Tôi thả con cá câu được về sông.
+逃[に]げ出[だ]す | v1 | ĐÀO XUẤT | bỏ chạy, trốn khỏi | - | - | 地震[じしん]のとき、みんな建物[たてもの]から逃[に]げ出[だ]した。 | Lúc động đất, mọi người chạy khỏi tòa nhà.
+追[お]い出[だ]す | v1 | TRUY XUẤT | đuổi ra | 部屋[へや] から {追い出す} | đuổi ra khỏi phòng | 家賃[やちん]を払[はら]わず、部屋[へや]から追[お]い出[だ]された。 | Không trả tiền nhà nên bị đuổi khỏi phòng.
+追[お]い込[こ]む | v1 | TRUY NHẬP | dồn vào thế | 辞任[じにん] に {追い込む} | dồn đến chỗ phải từ chức | 批判[ひはん]が大臣[だいじん]を辞任[じにん]に追[お]い込[こ]んだ。 | Làn sóng chỉ trích đã dồn bộ trưởng đến chỗ từ chức.
+巻[ま]き込[こ]む | v1 | QUYỂN NHẬP | cuốn vào, liên lụy | 事故[じこ] に {巻[ま]き込[こ]まれる} | bị cuốn vào tai nạn | 友人[ゆうじん]のトラブルに巻[ま]き込[こ]まれた。 | Tôi bị cuốn vào rắc rối của bạn.
+引[ひ]っかかる | v1 | DẪN | mắc vào; bị lừa | 詐欺[さぎ] に {引っかかる} | bị lừa | 祖母[そぼ]が電話[でんわ]詐欺[さぎ]に引[ひ]っかかりそうになった。 | Bà tôi suýt bị lừa qua điện thoại.
+飢[う]える | v2 | CƠ | đói khát | {飢える} 子供[こども]たち | trẻ em đói khát | 世界[せかい]にはまだ飢[う]えている子供[こども]が大勢[おおぜい]いる。 | Trên thế giới vẫn còn rất nhiều trẻ em bị đói.
+飢[う]え | n | CƠ | cơn đói, nạn đói | - | - | 戦争[せんそう]中[ちゅう]は多[おお]くの人[ひと]が飢[う]えに苦[くる]しんだ。 | Thời chiến nhiều người khổ sở vì đói.
+飢餓[きが] | n | CƠ NGẠ | nạn đói | - | - | 干[かん]ばつで飢餓[きが]が広[ひろ]がった。 | Hạn hán khiến nạn đói lan rộng.
+食糧[しょくりょう] | n | THỰC LƯƠNG | lương thực | {食糧} 不足[ぶそく] | thiếu lương thực | 被災地[ひさいち]に食糧[しょくりょう]が届[とど]けられた。 | Lương thực đã được chuyển tới vùng thiên tai.
+欠乏[けつぼう] | n,v3 | KHIẾM PHẠP | thiếu hụt | 栄養[えいよう] が {欠乏} する | thiếu dinh dưỡng | 避難所[ひなんじょ]では水[みず]が欠乏[けつぼう]していた。 | Ở nơi sơ tán bị thiếu nước.
+物資[ぶっし]不足[ぶそく] | n | VẬT TƯ BẤT TÚC | thiếu hàng hóa thiết yếu | - | - | 災害[さいがい]直後[ちょくご]は物資[ぶっし]不足[ぶそく]が続[つづ]いた。 | Ngay sau thảm họa, tình trạng thiếu hàng thiết yếu kéo dài.
+配給[はいきゅう] | n,v3 | PHỐI CẤP | phân phát | 食料[しょくりょう] を {配給} する | phân phát thực phẩm | 避難所[ひなんじょ]で毛布[もうふ]が配給[はいきゅう]された。 | Chăn được phân phát ở nơi sơ tán.
+義援金[ぎえんきん] | n | NGHĨA VIỆN KIM | tiền quyên góp cứu trợ | {義援金} を 送[おく]る | gửi tiền cứu trợ | 会社[かいしゃ]で集[あつ]めた義援金[ぎえんきん]を被災地[ひさいち]に送[おく]った。 | Công ty gửi tiền quyên góp cứu trợ tới vùng thiên tai.
+難民[なんみん]キャンプ | n | NẠN DÂN | trại tị nạn | - | - | 難民[なんみん]キャンプで医療[いりょう]活動[かつどう]をした。 | Tôi làm công tác y tế ở trại tị nạn.
+被災地[ひさいち] | n | BỊ TAI ĐỊA | vùng bị thiên tai | {被災地} を 訪[おとず]れる | đến thăm vùng thiên tai | ボランティアとして被災地[ひさいち]に行[い]った。 | Tôi đến vùng thiên tai với tư cách tình nguyện viên.
+天災[てんさい] | n | THIÊN TAI | thiên tai | - | - | 天災[てんさい]は忘[わす]れたころにやって来[く]る。 | Thiên tai đến khi người ta đã quên nó.
+人災[じんさい] | n | NHÂN TAI | tai họa do con người | - | - | この事故[じこ]は管理[かんり]の甘[あま]さによる人災[じんさい]だ。 | Tai nạn này là tai họa do quản lý lỏng lẻo.
+火災[かさい] | n | HỎA TAI | hỏa hoạn | {火災} 報知器[ほうちき] | thiết bị báo cháy | 夜中[よなか]に工場[こうじょう]で火災[かさい]が発生[はっせい]した。 | Giữa đêm, hỏa hoạn đã xảy ra ở nhà máy.
+焼[や]ける | v2 | THIÊU | cháy; nướng chín | 家[いえ] が {焼ける} | nhà bị cháy | 火事[かじ]で家[いえ]が焼[や]けてしまった。 | Ngôi nhà bị cháy rụi trong vụ hỏa hoạn.
+焼失[しょうしつ] | n,v3 | THIÊU THẤT | bị thiêu rụi | - | - | 火事[かじ]で貴重[きちょう]な資料[しりょう]が焼失[しょうしつ]した。 | Tài liệu quý đã bị thiêu rụi trong vụ cháy.
+全焼[ぜんしょう] | n,v3 | TOÀN THIÊU | cháy rụi hoàn toàn | - | - | 木造[もくぞう]の住宅[じゅうたく]が全焼[ぜんしょう]した。 | Ngôi nhà gỗ đã bị cháy rụi hoàn toàn.
+燃[も]え上[あ]がる | v1 | NHIÊN THƯỢNG | bùng cháy | 炎[ほのお] が {燃え上がる} | ngọn lửa bùng lên | 油[あぶら]に火[ひ]が付[つ]いて一気[いっき]に燃[も]え上[あ]がった。 | Dầu bén lửa và bùng cháy ngay lập tức.
+消防[しょうぼう] | n | TIÊU PHÒNG | phòng cháy chữa cháy | {消防} 署[しょ] | trạm cứu hỏa | 消防[しょうぼう]署[しょ]で防災[ぼうさい]訓練[くんれん]があった。 | Ở trạm cứu hỏa có buổi diễn tập phòng chống thiên tai.
+消防士[しょうぼうし] | n | TIÊU PHÒNG SĨ | lính cứu hỏa | - | - | 消防士[しょうぼうし]が燃[も]える家[いえ]から子供[こども]を助[たす]け出[だ]した。 | Lính cứu hỏa cứu đứa bé ra khỏi căn nhà đang cháy.
+崩壊[ほうかい] | n,v3 | BĂNG HOẠI | sụp đổ | 家庭[かてい] {崩壊} | gia đình tan vỡ | 地震[じしん]で古[ふる]い橋[はし]が崩壊[ほうかい]した。 | Cây cầu cũ đã sụp đổ vì động đất.
+干[ひ]上[あ]がる | v1 | CAN THƯỢNG | khô cạn | 池[いけ] が {干上がる} | ao cạn khô | 雨[あめ]が降[ふ]らず、田[た]んぼが干[ひ]上[あ]がった。 | Không có mưa, ruộng lúa khô cạn.
+遭難[そうなん] | n,v3 | TAO NẠN | gặp nạn | 山[やま] で {遭難} する | gặp nạn trên núi | 冬山[ふゆやま]で登山者[とざんしゃ]が遭難[そうなん]した。 | Người leo núi gặp nạn trên núi mùa đông.
+遭難者[そうなんしゃ] | n | TAO NẠN GIẢ | người gặp nạn | - | - | ヘリコプターが遭難者[そうなんしゃ]を探[さが]している。 | Trực thăng đang tìm người gặp nạn.
+災難[さいなん] | n | TAI NẠN | tai họa, xui xẻo | {災難} に 遭[あ]う | gặp chuyện xui | 財布[さいふ]を落[お]とすし雨[あめ]に降[ふ]られるし、今日[きょう]は災難[さいなん]だった。 | Vừa đánh rơi ví vừa dính mưa, hôm nay thật xui xẻo.
+害[がい] | n | HẠI | tác hại | {害} を 与[あた]える | gây hại | たばこは周[まわ]りの人[ひと]にも害[がい]を与[あた]える。 | Thuốc lá cũng gây hại cho người xung quanh.
+二次[にじ]災害[さいがい] | n | NHỊ THỨ TAI HẠI | thảm họa thứ cấp | - | - | 余震[よしん]による二次[にじ]災害[さいがい]に注意[ちゅうい]してください。 | Hãy cẩn thận với thảm họa thứ cấp do dư chấn.
+被害[ひがい]状況[じょうきょう] | n | BỊ HẠI TRẠNG HUỐNG | tình hình thiệt hại | - | - | 市[し]はヘリコプターで被害[ひがい]状況[じょうきょう]を確認[かくにん]した。 | Thành phố dùng trực thăng để kiểm tra tình hình thiệt hại.
+死者[ししゃ] | n | TỬ GIẢ | người chết | - | - | この地震[じしん]による死者[ししゃ]は百[ひゃく]人[にん]を超[こ]えた。 | Số người chết trong trận động đất này vượt quá một trăm.
+死傷者[ししょうしゃ] | n | TỬ THƯƠNG GIẢ | người thương vong | - | - | 列車[れっしゃ]事故[じこ]で多数[たすう]の死傷者[ししょうしゃ]が出[で]た。 | Vụ tai nạn tàu hỏa làm nhiều người thương vong.
+犠牲者[ぎせいしゃ] | n | HY SINH GIẢ | nạn nhân thiệt mạng | - | - | 犠牲者[ぎせいしゃ]のために黙祷[もくとう]をささげた。 | Mặc niệm cho các nạn nhân thiệt mạng.
+生存者[せいぞんしゃ] | n | SINH TỒN GIẢ | người sống sót | - | - | がれきの中[なか]から生存者[せいぞんしゃ]が見[み]つかった。 | Người sống sót được tìm thấy dưới đống đổ nát.
+負傷[ふしょう] | n,v3 | PHỤ THƯƠNG | bị thương | - | - | 事故[じこ]で運転手[うんてんしゅ]が頭[あたま]を負傷[ふしょう]した。 | Tài xế bị thương ở đầu trong vụ tai nạn.
+重傷[じゅうしょう] | n | TRỌNG THƯƠNG | trọng thương | {重傷} を 負[お]う | bị thương nặng | 転落[てんらく]した作業員[さぎょういん]が重傷[じゅうしょう]を負[お]った。 | Công nhân bị ngã đã bị thương nặng.
+軽傷[けいしょう] | n | KHINH THƯƠNG | vết thương nhẹ | - | - | 幸[さいわ]い、けが人[にん]は軽傷[けいしょう]で済[す]んだ。 | May mắn người bị thương chỉ bị nhẹ.
+漂流[ひょうりゅう] | n,v3 | PHIÊU LƯU | trôi dạt | - | - | 小[ちい]さな船[ふね]が三[みっ]日[か]間[かん]海[うみ]を漂流[ひょうりゅう]した。 | Chiếc thuyền nhỏ trôi dạt trên biển ba ngày.
+溺[おぼ]れる | v2 | NỊCH | chết đuối, đuối nước | 川[かわ] で {溺れる} | đuối nước ở sông | 子供[こども]が川[かわ]で溺[おぼ]れかけた。 | Đứa trẻ suýt đuối nước ở sông.
+救命[きゅうめい]胴衣[どうい] | n | CỨU MỆNH ĐỖNG Y | áo phao | - | - | 船[ふね]に乗[の]るときは救命[きゅうめい]胴衣[どうい]を着[き]てください。 | Khi lên thuyền xin hãy mặc áo phao.
+転覆[てんぷく] | n,v3 | CHUYỂN PHÚC | lật úp | - | - | 強風[きょうふう]で漁船[ぎょせん]が転覆[てんぷく]した。 | Gió mạnh làm thuyền đánh cá bị lật.
+沈没[ちんぼつ] | n,v3 | TRẦM MỘT | chìm tàu | - | - | 客船[きゃくせん]が沈没[ちんぼつ]した原因[げんいん]を調[しら]べている。 | Đang điều tra nguyên nhân tàu khách bị chìm.
+墜落[ついらく] | n,v3 | TRỤY LẠC | rơi (máy bay) | - | - | 小型[こがた]飛行機[ひこうき]が山中[さんちゅう]に墜落[ついらく]した。 | Máy bay cỡ nhỏ rơi trong núi.
+衝突[しょうとつ]事故[じこ] | n | XUNG ĐỘT SỰ CỐ | tai nạn va chạm | - | - | 交差点[こうさてん]でトラックとバスの衝突[しょうとつ]事故[じこ]があった。 | Ở ngã tư có vụ xe tải va chạm xe buýt.
+脱線[だっせん] | n,v3 | THOÁT TUYẾN | trật bánh; lạc đề | - | - | 電車[でんしゃ]が脱線[だっせん]して運休[うんきゅう]になった。 | Tàu điện trật bánh nên phải ngừng chạy.
+被[こうむ]る | v1 | BỊ | chịu, bị (thiệt hại) | 損害[そんがい] を {被る} | chịu thiệt hại | 台風[たいふう]で農家[のうか]は大[おお]きな損害[そんがい]を被[こうむ]った。 | Nông dân chịu thiệt hại lớn vì bão.
+危[あや]うい | adj-i | NGUY | nguy hiểm, suýt nữa | {危うい} ところ | lúc nguy cấp | 危[あや]ういところで事故[じこ]を避[さ]けられた。 | Suýt nữa thì gặp tai nạn, may mà tránh được.
+対策[たいさく] | n | ĐỐI SÁCH | biện pháp đối phó | {対策} を 立[た]てる | đề ra biện pháp | 政府[せいふ]は少子化[しょうしか]の対策[たいさく]を立[た]てた。 | Chính phủ đã đề ra biện pháp đối phó với tỉ lệ sinh giảm.
+深刻[しんこく] | adj-na | THÂM KHẮC | nghiêm trọng | {深刻} な 問題[もんだい] | vấn đề nghiêm trọng | 水[みず]不足[ぶそく]が深刻[しんこく]になっている。 | Tình trạng thiếu nước đang trở nên nghiêm trọng.
+重大[じゅうだい] | adj-na | TRỌNG ĐẠI | trọng đại, nghiêm trọng | {重大} な ミス | sai lầm nghiêm trọng | 重大[じゅうだい]なミスが見[み]つかり、発売[はつばい]が延期[えんき]された。 | Phát hiện sai sót nghiêm trọng nên việc phát hành bị hoãn.
+過剰[かじょう] | n,adj-na | QUÁ THẶNG | quá mức, dư thừa | {過剰} な 反応[はんのう] | phản ứng thái quá | ちょっとした冗談[じょうだん]に過剰[かじょう]に反応[はんのう]しないで。 | Đừng phản ứng thái quá với một câu đùa nhỏ.
+安易[あんい] | adj-na | AN DỊ | dễ dãi, hời hợt | {安易} な 考[かんが]え | suy nghĩ dễ dãi | 安易[あんい]に借金[しゃっきん]をするべきではない。 | Không nên vay nợ một cách dễ dãi.
+民族[みんぞく] | n | DÂN TỘC | dân tộc | 少数[しょうすう] {民族} | dân tộc thiểu số | この国[くに]には五十[ごじゅう]以上[いじょう]の民族[みんぞく]が暮[く]らしている。 | Đất nước này có hơn năm mươi dân tộc sinh sống.
+文明[ぶんめい] | n | VĂN MINH | văn minh | 古代[こだい] {文明} | nền văn minh cổ đại | 川[かわ]の近[ちか]くで古代[こだい]文明[ぶんめい]が栄[さか]えた。 | Nền văn minh cổ đại hưng thịnh bên những dòng sông.
+主義[しゅぎ] | n | CHỦ NGHĨA | chủ nghĩa, nguyên tắc | 民主[みんしゅ] {主義} | chủ nghĩa dân chủ | 人[ひと]に借金[しゃっきん]をしないのが私[わたし]の主義[しゅぎ]だ。 | Không vay tiền người khác là nguyên tắc của tôi.
+抵抗[ていこう] | n,v3 | ĐỂ KHÁNG | chống cự; ngần ngại | {抵抗} が ある | thấy ngần ngại | 人前[ひとまえ]で話[はな]すことに抵抗[ていこう]がある。 | Tôi thấy ngần ngại khi nói trước đám đông.
+要求[ようきゅう] | n,v3 | YÊU CẦU | đòi hỏi, yêu sách | {要求} を のむ | chấp nhận yêu sách | 労働[ろうどう]組合[くみあい]は賃上[ちんあ]げを要求[ようきゅう]した。 | Công đoàn đòi tăng lương.
+解放[かいほう] | n,v3 | GIẢI PHÓNG | giải phóng | 人質[ひとじち] を {解放} する | thả con tin | 試験[しけん]が終[お]わって、やっと勉強[べんきょう]から解放[かいほう]された。 | Thi xong, cuối cùng cũng được giải phóng khỏi việc học.
+閉鎖[へいさ] | n,v3 | BẾ TỎA | đóng cửa, phong tỏa | 工場[こうじょう] を {閉鎖} する | đóng cửa nhà máy | 経営[けいえい]不振[ふしん]で工場[こうじょう]が閉鎖[へいさ]された。 | Nhà máy bị đóng cửa vì làm ăn thua lỗ.
+増税[ぞうぜい] | n,v3 | TĂNG THUẾ | tăng thuế | - | - | 増税[ぞうぜい]の前[まえ]に家電[かでん]を買[か]う人[ひと]が増[ふ]えた。 | Số người mua đồ điện gia dụng trước khi tăng thuế đã tăng lên.
+改定[かいてい] | n,v3 | CẢI ĐỊNH | sửa đổi (quy định, giá) | 料金[りょうきん] を {改定} する | điều chỉnh giá | 来月[らいげつ]から電気[でんき]料金[りょうきん]が改定[かいてい]される。 | Từ tháng sau giá điện sẽ được điều chỉnh.
+トラブル | n | - | rắc rối, sự cố | {トラブル} に 巻[ま]き込[こ]まれる | bị cuốn vào rắc rối | システムのトラブルで電車[でんしゃ]が止[と]まった。 | Tàu điện dừng vì sự cố hệ thống.
+クレーム | n | - | khiếu nại | {クレーム} を つける | phàn nàn, khiếu nại | 客[きゃく]から料理[りょうり]が冷[つめ]たいとクレームがついた。 | Khách khiếu nại rằng món ăn bị nguội.
+ストップ | n,v3 | - | dừng lại | - | - | 雪[ゆき]のため電車[でんしゃ]がストップした。 | Tàu điện dừng lại vì tuyết.
+プレッシャー | n | - | áp lực | {プレッシャー} を 感[かん]じる | cảm thấy áp lực | 大事[だいじ]な試合[しあい]の前[まえ]はプレッシャーを感[かん]じる。 | Trước trận đấu quan trọng tôi thấy áp lực.
+万一[まんいち] | n,adv | VẠN NHẤT | lỡ như, vạn nhất | {万一} の とき | khi có chuyện | 万一[まんいち]に備[そな]えて保険[ほけん]に入[はい]っておく。 | Mua bảo hiểm phòng khi có chuyện.
+直[ただ]ちに | adv | TRỰC | ngay lập tức | - | - | 警報[けいほう]が出[で]たら直[ただ]ちに避難[ひなん]してください。 | Khi có cảnh báo hãy sơ tán ngay lập tức.
+至急[しきゅう] | n,adv | CHÍ CẤP | khẩn cấp, gấp | {至急} 連絡[れんらく]する | liên lạc gấp | 至急[しきゅう]、本社[ほんしゃ]に連絡[れんらく]してください。 | Hãy liên lạc gấp với trụ sở chính.
+たちまち | adv | - | tức thì, chẳng mấy chốc | - | - | その動画[どうが]はたちまち世界中[せかいじゅう]に広[ひろ]まった。 | Video đó chẳng mấy chốc đã lan ra khắp thế giới.
+サイレン | n | - | còi báo động | {サイレン} が 鳴[な]る | còi hú | 遠[とお]くで救急車[きゅうきゅうしゃ]のサイレンが鳴[な]っている。 | Từ xa có tiếng còi xe cấp cứu.
