@@ -4,7 +4,7 @@ const L = require("./_lib");
 
 module.exports = async (req, res) => {
   try {
-    if (req.method === "GET") return L.send(res, 200, { ok: true, ready: L.ready() });
+    if (req.method === "GET") return L.send(res, 200, { ok: true, ready: L.ready(), missing: L.missing() });
     if (req.method !== "POST") return L.send(res, 405, { error: "Phương thức không hợp lệ." });
     if (!L.ready()) return L.send(res, 503, { error: "Máy chủ chưa được cấu hình." });
 

@@ -3,10 +3,15 @@
    Cần thêm một biến tự đặt: AUTH_SECRET (chuỗi ngẫu nhiên dài, ví dụ chạy `openssl rand -hex 32`). */
 const crypto = require("crypto");
 
-const URL_ = process.env.KV_REST_API_URL || process.env.UPSTASH_REDIS_REST_URL || "";
-const TOKEN = process.env.KV_REST_API_TOKEN || process.env.UPSTASH_REDIS_REST_TOKEN || "";
-const SECRET = process.env.AUTH_SECRET || "";
+const env = process.env;
+// Khi nối Upstash trong Vercel có thể chọn tiền tố tên biến (ví dụ STORAGE_KV_REST_API_URL), nên dò cả các tên có tiền tố.
+const find = (...res) => { const k = Object.keys(env).find(n => env[n] && res.some(r => r.test(n))); return k ? env[k] : ""; };
+const URL_ = env.KV_REST_API_URL || env.UPSTASH_REDIS_REST_URL || find(/KV_REST_API_URL$/, /REDIS_REST_URL$/, /UPSTASH.*REST_URL$/);
+const TOKEN = env.KV_REST_API_TOKEN || env.UPSTASH_REDIS_REST_TOKEN || find(/KV_REST_API_TOKEN$/, /REDIS_REST_TOKEN$/, /UPSTASH.*REST_TOKEN$/);
+const SECRET = env.AUTH_SECRET || "";
 const ready = () => !!(URL_ && TOKEN && SECRET.length >= 16);
+// Liệt kê phần còn thiếu (chỉ báo thiếu gì, không lộ giá trị nào) để biết cần sửa chỗ nào trên Vercel.
+const missing = () => [!URL_ && "db_url", !TOKEN && "db_token", !SECRET && "secret_missing", SECRET && SECRET.length < 16 && "secret_short"].filter(Boolean);
 
 async function redis(...cmd) {
   const r = await fetch(URL_, { method: "POST", headers: { Authorization: "Bearer " + TOKEN, "Content-Type": "application/json" }, body: JSON.stringify(cmd) });
@@ -49,4 +54,4 @@ async function body(req) {
 }
 const send = (res, code, obj) => { res.setHeader("Cache-Control", "no-store"); res.status(code).json(obj); };
 
-module.exports = { redis, ready, makeToken, readToken, userId, hashPw, ip, limited, body, send, crypto };
+module.exports = { redis, ready, missing, makeToken, readToken, userId, hashPw, ip, limited, body, send, crypto };

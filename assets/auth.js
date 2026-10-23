@@ -122,7 +122,11 @@
         const res = await fetch("/api/auth", { cache: "no-store", signal: ctl.signal }); clearTimeout(t);
         const j = await res.json();
         if (j && j.ok && j.ready) return { backend: remote, why: "" };
-        if (j && j.ok) return { backend: local, why: "Máy chủ chưa được cấu hình cơ sở dữ liệu." };
+        if (j && j.ok) {
+          const T = { db_url: "chưa có địa chỉ cơ sở dữ liệu (KV_REST_API_URL)", db_token: "chưa có khóa cơ sở dữ liệu (KV_REST_API_TOKEN)", secret_missing: "chưa đặt biến AUTH_SECRET", secret_short: "AUTH_SECRET ngắn hơn 16 ký tự" };
+          const m = (j.missing || []).map(k => T[k] || k);
+          return { backend: local, why: "Máy chủ chưa cấu hình xong" + (m.length ? ": " + m.join("; ") : "") + "." };
+        }
       } catch (e) { /* hosting tĩnh hoặc mất mạng */ }
       return { backend: local, why: "" };
     })();
